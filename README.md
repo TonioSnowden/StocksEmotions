@@ -1,2 +1,2 @@
-# Is-FInance_emotional
+# StocksEmotions
 Sentiment Analysis score from finance news
