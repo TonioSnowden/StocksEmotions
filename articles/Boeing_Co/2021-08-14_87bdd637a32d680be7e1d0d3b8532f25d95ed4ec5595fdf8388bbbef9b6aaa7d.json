@@ -1,0 +1,60 @@
+{
+  "_id": "87bdd637a32d680be7e1d0d3b8532f25d95ed4ec5595fdf8388bbbef9b6aaa7d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Boeing, NASA Investigate Valves That Delayed Launch",
+  "text": "<p>\"We're going to go fix this problem,\" associate NASA administrator Kathy Lueders said. \"The team needs some time now to really be able to figure out what's wrong.\"</p><p>Boeing said its preliminary analysis indicated that moisture in the spacecraft's propulsion system somehow resulted in corrosion on 13, or more than half, of certain valves and prevented them from opening properly, according to John Vollmer, a company executive who oversees the Starliner.</p><p>The valves open and close to allow -- or stop if needed -- the flow of certain chemicals used to propel the spacecraft at various stages of the mission and are key to its safety.</p><p>Mr. Vollmer said Boeing hadn't identified the moisture's source. Nine of the 13 valves are back to functioning normally, with four still closed, the company has said.</p><p>Mr. Vollmer added that Boeing would evaluate whether the problematic valves would require a redesign. He also flagged a separate problem with sensors that indicate whether the valves are open or closed. A storm also displaced covers over the spacecraft's thrusters, resulting in water intrusion, he said.</p><p>The valves were used on the 2019 Starliner flight that didn't reach the space station, but weren't the cause of that mission's mistakes, according to Mr. Vollmer. He also said they had been tested previously without any incident. When the vessel was on the launchpad for the most recent flight attempt last week, Boeing checked the valves as part of its testing procedures and discovered the problem, he added.</p><p>\"These are the kinds of things you want to find on the ground,\" said Ms. Lueders.</p><p>The propulsion system containing the valves is manufactured by Aerojet Rocketdyne Holdings Inc., a longtime Boeing supplier that officials said was assisting in the troubleshooting and repairs. The company declined to comment Friday.</p><p>Earlier in the week, Boeing and NASA had said they were weighing potentially launching the Starliner this month. NASA has other missions planned in coming months that complicate scheduling future attempts to launch the Starliner.</p><p>Boeing has spent years developing the Starliner and was supposed to launch it late last month to dock with the International Space Station, without crew on board -- after the earlier attempt a year and a half ago. Ultimately, the capsule is supposed to ferry astronauts and cargo to the space station.</p><p>Ahead of the Starliner do-over this summer, NASA and Boeing officials in July said they had subjected the spacecraft to rigorous, increased testing to ensure a successful test. The company previously booked a $410 million charge related to the costs of the launch redo. Mr. Vollmer said Friday that it was too soon to say how much the latest delay might cost Boeing.</p><p>In December 2019, a Boeing software error prevented the Starliner from getting into the correct orbit and it never docked with the space station. Another potentially catastrophic error was fixed during the mission to prevent damaging the spacecraft's protective heat shield.</p><p>NASA has said it wants to have two U.S.-based companies available to transport astronauts to and from the space station. Right now, the agency has one confirmed provider, SpaceX, in place for those flights. Its second option is to contract for seats on Russian rockets.</p>",
+  "published": "2021-08-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 650,
+          "end": 656
+        },
+        {
+          "start": 2062,
+          "end": 2068
+        },
+        {
+          "start": 2751,
+          "end": 2757
+        },
+        {
+          "start": 1853,
+          "end": 1859
+        },
+        {
+          "start": 2417,
+          "end": 2423
+        },
+        {
+          "start": 823,
+          "end": 829
+        },
+        {
+          "start": 1418,
+          "end": 1424
+        },
+        {
+          "start": 1706,
+          "end": 1712
+        },
+        {
+          "start": 164,
+          "end": 170
+        },
+        {
+          "start": 28,
+          "end": 34
+        },
+        {
+          "start": 2723,
+          "end": 2729
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

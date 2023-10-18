@@ -1,0 +1,38 @@
+{
+  "_id": "91c2776410eef49550656ad3e663403f05eb2b1bab7f02ed34c98f3a1eb92d59",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  The West Must Wean Itself Off Russian Titanium  ----  By Jon Sindreu",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  Europe's natural-gas crisis shows the problem with industrial strategies that rely on Vladimir Putin. Some Western governments and companies still haven't gotten the memo. </p><p>\n  Recently, the European Union scrapped plans to include Russia's VSMPO-Avisma in its seventh round of sanctions responding to the invasion of Ukraine. VSMPO is the world's largest producer of titanium, which is essential for building aircraft because it is strong, resistant to corrosion and far lighter than steel. Almost half of global titanium is used in aerospace. </p><p>\n  Titanium ores ilmenite and rutile are available in many countries, but the capability to turn them into titanium sponge -- its purest form, which is mixed into alloys for industrial purposes -- is far more limited. Russia produced roughly a fifth of global supplies before the pandemic, according to the U.S. Geological Survey, putting it in third place behind China and Japan with 40% and 25%, respectively. However, China consumes even more titanium than it produces. Crucially, VSMPO sells finished titanium goods at artificially low prices, which is probably why it serves about half of Airbus' titanium needs. For Boeing, which had a joint venture with the company, it was a third. </p><p>\n  As a result, VSMPO has been exempted from Western sanctions. Still, U.S. aerospace giants like Boeing, Raytheon and General Electric have either walked away from Russian titanium or minimized its use. </p><p>\n  By contrast, Airbus keeps buying it through unsanctioned subsidiaries. The European plane maker emphasizes that this is a short-time measure, but it has vocally -- and successfully -- lobbied to keep VSMPO off sanctions lists. In an interview, Airbus Chief Executive Guillaume Faury pointed out that the impact of titanium sanctions on Moscow would be small. \"The ones we would sanction would be ourselves,\" he said. \"As for VSMPO: If they stop delivering to worldwide global aerospace, it's the end of the story. So it's a typical lose-lose.\" </p><p>\n  Airbus and other Western manufacturers have gained time to shift supply chains elsewhere. But there is also a risk that convenience prevails, as it did after Russia's annexation of Crimea in 2014. Aerospace companies have since accumulated larger stockpiles, and Airbus says the Crimea crisis prompted it to identify alternative titanium sources. But actual diversification didn't happen. </p><p>\n  Production is already being impacted by today's situation. Raytheon Chief Executive Greg Hayes told analysts last week that several business-jet makers that are customers of its Pratt &amp; Whitney Canada arm \"are going to be without engines\" this year. </p><p>\n  And matters are getting worse: In July, Moscow blocked a Russian titanium exporter from selling to a top Western aerospace company, people close to the client said. </p><p>\n  As damaging as it would be for VSMPO, Mr. Putin could shut off all titanium exports at any point, redirecting them to China as he has done with oil. Even if it implies lower revenues, Russia may not care: Second-quarter current-account data released last month suggested that the country has more foreign currency than it knows what to do with. </p><p>\n  The aerospace industry will find it hard to shed its dependence on autocratic regimes. Apart from Japan, U.S. allies aren't producers of titanium sponge, even when they export titanium ores. The only active producer in the U.S. itself is a Salt Lake City plant with a paltry 500 tons a year of capacity. The Department of Commerce has repeatedly warned that the status quo is a threat to national security. Russia's finished titanium products are even harder to replace. </p><p>\n  So far, the West has focused its \"reshoring\" efforts mainly on energy and semiconductors. Titanium is a vulnerability that shouldn't be taken lightly either. </p><p></p>",
+  "published": "2022-08-09T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1348,
+          "end": 1354
+        },
+        {
+          "start": 1187,
+          "end": 1193
+        },
+        {
+          "start": 1196,
+          "end": 1202
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000138,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.3947487e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

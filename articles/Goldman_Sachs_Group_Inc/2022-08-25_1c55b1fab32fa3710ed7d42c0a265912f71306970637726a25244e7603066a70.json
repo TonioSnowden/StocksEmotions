@@ -1,0 +1,38 @@
+{
+  "_id": "1c55b1fab32fa3710ed7d42c0a265912f71306970637726a25244e7603066a70",
+  "feed": "market-watch",
+  "title": "China rolls out a further trillion yuan in economic stimulus after vowing it wouldn't unleash big fiscal packages; This latest $146 billion in assistance targets infrastructure, property and private business",
+  "text": "<p>The new initiative, issued by the State Council — China's cabinet — centers around 19 measures that emerged from a meeting late Wednesday chaired by Premier Li Keqiang. They span a range of targets the government deems to be in need of support.</p><p>Among the allowances, state policy banks were given an additional 300 billion yuan ($44 billion) focused mainly on financing infrastructure projects. Tight rules were announced alongside the measures that require the projects to be profit-making and targeted.</p><p>Local governments were given the green light to use more than 500 billion yuan ($73 billion) of existing special bond quotas and were promised reduced financing costs through interest-rate changes.</p><p>Amid an energy crisis sparked by severe droughts and heat waves, the cabinet said central-government-run electricity firms will be allowed to sell 200 billion yuan ($29 billion) in special debt to ensure adequate energy supply.</p><p>Local governments were also told they have been granted increased flexibility to stimulate the housing market, depending on their localities' specific level of need.</p><p>The backdrop: China's real-estate crisis will cause a more severe downturn in iron ore prices: Goldman Sachs</p><p>And: China new-home prices fall by most in over six years</p><p>Numerous measures were announced aimed at private businesses, which state-run CCTV said would also help boost consumer demand. Specific mentions were given to helping the digital-platform economy, business travel, dedicated funds to support small companies and subsidies for agriculture-related businesses.</p><p>Independent experts lamented the continued focus on supply-side vs. demand-side measures. \"Little is being done to boost consumption,\" said Michael Pettis, a finance professor at Peking University's Guanghua School of Management.</p><p>\"Stimulus announcements may juice markets,\" Leland R. Miller, chief executive officer of China Beige Book, told MarketWatch, \"but for these measures to actually juice the real economy you have to see policy makers follow through. The big problem with previous stimulus announcements this year has been the follow-through. So we'll be closely watching our data to see if and when this translates to new activity. So far, nothing has popped.\"</p><p>Pettis expressed concern about both the timing and credibility of the new State Council initiative.</p><p>\"I wonder if it wouldn't make more sense to hold back on these announcements until the lifting of COVID restrictions. The risk is that when announcement after announcement fails to revive the economy, the authorities start to lose credibility,\" he told MarketWatch.</p><p>Lifting the lockdowns and then releasing spending measures might \"shock the economy into responding positively,\" Pettis said, likening that approach to \" the Chinese equivalent of the Fed's 'bazooka.' \"</p><p>Repeated calls to the State Council's Information Office went unanswered.</p><p>Tanner Brown covers China for MarketWatch and Barron's.</p><p>Read on: Global economy in a precarious place as Russia's war in Ukraine hits 6-month mark</p><p>China rolls out a further trillion yuan in economic stimulus after vowing it wouldn't unleash big fiscal packages</p>",
+  "published": "2022-08-25T22:08:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1192,
+          "end": 1205
+        },
+        {
+          "start": 1185,
+          "end": 1198
+        },
+        {
+          "start": 1192,
+          "end": 1199
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000143,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.4305115e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

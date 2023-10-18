@@ -1,0 +1,44 @@
+{
+  "_id": "7f7486c4ee6a24c4905b7852fa4963b45bab2ddac3e125bcb5140e3c031c50c3",
+  "feed": "wall-street-journal",
+  "title": "Capital Buffers Raised at JPMorgan, Goldman",
+  "text": "<p>The higher capital requirements won't have an immediate impact on the U.S. banks, since the Federal Reserve already requires higher additional capital standards for the biggest banks. The decisions on additional capital requirements come in the form of recommendations, which national regulators have vowed to follow.</p><p>The changes \"largely reflect the effects of changes in underlying activity of banks,\" the board said. Bank balance sheets swelled during the pandemic, a response to huge amounts of central-bank stimulus and government spending. JPMorgan's total assets grew by more than a quarter to $3.39 trillion in 2020 from $2.69 trillion the year before.</p><p>The board updates its list of biggest banks annually. JPMorgan, the largest U.S. bank, must have an additional capital buffer of 2.5%, becoming the only global lender with a requirement of this size.</p><p>The aim of the buffer is to ensure that the biggest banks have enough loss-absorbing capacity for an orderly resolution if the bank fails.</p><p>JPMorgan said it already meets the requirement because the Fed has set it a higher surcharge of 3.5%.</p><p>The Fed has set Goldman Sachs a surcharge of 2.5%, higher than the global board's new requirement of 1.5%. Goldman Sachs declined to comment.</p><p>BNP Paribas must have an additional capital buffer of 2%, joining Citigroup Inc. and HSBC Holdings PLC. BNP Paribas declined to comment.</p><p>The board's secretariat is hosted by the Bank for International Settlements, a group owned by central banks around the world.</p>",
+  "published": "2021-11-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 26,
+          "end": 34
+        },
+        {
+          "start": 542,
+          "end": 550
+        },
+        {
+          "start": 546,
+          "end": 554
+        },
+        {
+          "start": 709,
+          "end": 717
+        },
+        {
+          "start": 715,
+          "end": 723
+        },
+        {
+          "start": 992,
+          "end": 1000
+        },
+        {
+          "start": 1000,
+          "end": 1008
+        }
+      ]
+    }
+  ]
+}

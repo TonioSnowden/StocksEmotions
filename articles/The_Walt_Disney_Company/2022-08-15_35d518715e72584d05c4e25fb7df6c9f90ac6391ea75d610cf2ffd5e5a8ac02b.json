@@ -1,0 +1,42 @@
+{
+  "_id": "35d518715e72584d05c4e25fb7df6c9f90ac6391ea75d610cf2ffd5e5a8ac02b",
+  "feed": "market-watch",
+  "title": "Here's what else besides Disney that hedge fund Third Point loaded up on recently; Amazon and Rivian holdings were sold off, filing shows",
+  "text": "<p>In a letter to Disney DIS, the fund, which manages about $14 billion in assets, suggested cost cuts, a continuation of the dividend halt in order to conserve cash, and a spinoff of Disney's ESPN business, among other proposals. Third Point bought 1 million Disney shares in the quarter ended June 30, according to the filing.</p><p>Third Point also bought more nearly 1.99 million shares of Colgate Palmolive CL, and nearly half a million shares of T-Mobile TMUS.</p><p>The hedge fund got rid of its Amazon.com AMZN and Rivian RIVN holdings, as well as its Dell Technologies Inc. DELL, Intuit Inc. INTU and Microsoft Corp. MSFT positions.</p><p>Third Point also sold off all its stakes in Western Digital Corp. WDC and Zendesk Inc. ZEN, among others.</p><p>Here's what else besides Disney that hedge fund Third Point loaded up on recently</p>",
+  "published": "2022-08-15T22:03:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 25,
+          "end": 31
+        },
+        {
+          "start": 181,
+          "end": 187
+        },
+        {
+          "start": 256,
+          "end": 262
+        },
+        {
+          "start": 257,
+          "end": 263
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.875647,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.87564695,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

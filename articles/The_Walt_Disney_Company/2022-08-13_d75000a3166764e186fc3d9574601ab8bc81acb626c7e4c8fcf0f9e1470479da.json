@@ -1,0 +1,58 @@
+{
+  "_id": "d75000a3166764e186fc3d9574601ab8bc81acb626c7e4c8fcf0f9e1470479da",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- The Score: The Business Week in 7 Stocks",
+  "text": "<p>Rising costs are pecking at Tyson's profits. The meat-processing giant said raising chicken prices helped keep sales higher in its recent quarter, but any profit growth was wiped out by higher costs for wages, animal feed and transportation. Tyson's chicken challenges range from hatching enough chicks to short-handed processing lines in its plants. The company paid more for grain to feed its chickens and wages to keep plants staffed, and Tyson has sometimes bought chicken from rival processors to meet orders. Tyson shares fell 8.4% Monday.</p><p>TESLA INC.</p><p>TSLA +3.9%</p><p>Billionaire Elon Musk now has a few extra bucks in the bank. In recent days, Mr. Musk sold nearly $7 billion of Tesla stock amid uncertainty over the fate of his $44 billion deal to buy Twitter Inc. Mr. Musk suggested that the stock sales were aimed at avoiding a fire sale if he is forced to complete the transaction -- in which case he could be on the hook for more than $33 billion in equity financing. Since Twitter accepted Mr. Musk's acquisition offer in April, he has tried to walk away from the deal, resulting in a lawsuit that heads to court in October. Tesla shares rose 3.9% Wednesday.</p><p>SWEETGREEN INC.</p><p>SG +8%</p><p>Sweetgreen's rally from the worst of the pandemic hasn't been so sweet. The salad restaurant chain on Tuesday cut its fiscal 2022 outlook as its sales were hurt by an uneven Covid-related recovery in its urban locations and a slow return to offices. The company also said it was taking measures to manage operating expenses. The day before, Sweetgreen said it cut 5% of employees at its support center and reduced its real-estate footprint. Its suburban stores are doing better than those in cities, the company said. Sweetgreen shares sank in early trading but ended 8% higher Wednesday.</p><p>UNITED AIRLINES HOLDINGS INC.</p><p>UAL +2.4%</p><p>Flying taxis are closer to taking off. United has paid a $10 million deposit for 100 of the electric aircraft being developed by Archer Aviation Inc., after last year investing in the startup. The development is a sign that the airline is growing more confident in the emerging technology, and other airlines have also announced investments in flying-taxi startups and preliminary orders. United Airlines Ventures president Michael Leskinen said that a trip from Manhattan to a New York airport might cost in the range of $110 to $120. United shares rose 2.4% Wednesday.</p><p>WALT DISNEY CO.</p><p>DIS +4.7%</p><p>There is new light in the Magic Kingdom. Disney posted a better-than-expected jump in quarterly revenue, fueled by record results at its theme-park division as tourism and travel surge back to life. Disney's theme parks haven't been running at full capacity since they reopened in 2021 after Covid-related closures, but a new online reservations system and ride-reservation apps helped the company generate more revenue per visitor. Its Disney+ streaming video platform also added more new subscribers than projected during the period. Disney shares gained 4.7% Thursday.</p><p>RIVIAN AUTOMOTIVE INC.</p><p>RIVN -0.1%</p><p>Rivian is revving up after a bumpy start. The electric-vehicle maker on Thursday said that its net loss in its second quarter nearly tripled to $1.7 billion, putting more pressure on the startup to conserve cash and fill customer orders quickly. Rivian started manufacturing vehicles for the first time late last year, and during the first half of 2022 the company struggled with parts-related problems that slowed its production. It is under pressure to prove it can rapidly increase its production rate and deliver vehicles to waiting consumers. Rivian shares lost 0.1% Friday.</p><p>NVIDIA CORP.</p><p>NVDA -6.3%</p><p>A computer-chip surge is losing its charge. Semiconductor maker Nvidia on Monday warned that its fiscal second-quarter sales would fall well short of expectations amid a steep drop in gaming revenue. A day later, Micron Technology Inc. also issued a revenue warning. Chip companies face softening demand in consumer electronics after the pandemic fueled sales of laptops and other devices. Nvidia shares dropped 6.3% Monday.</p>",
+  "published": "2022-08-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999885,
+      "offsets": [
+        {
+          "start": 2369,
+          "end": 2384
+        },
+        {
+          "start": 2435,
+          "end": 2441
+        },
+        {
+          "start": 2456,
+          "end": 2462
+        },
+        {
+          "start": 2592,
+          "end": 2598
+        },
+        {
+          "start": 2829,
+          "end": 2836
+        },
+        {
+          "start": 2852,
+          "end": 2859
+        },
+        {
+          "start": 2927,
+          "end": 2933
+        },
+        {
+          "start": 2951,
+          "end": 2957
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.9640284,
+        "baseWeight": 8.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -2.0359716,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "985ff4b775cfa9ecb8b0d9441d36cf3a07e3d67321c8b083822b75f1d27b7217",
+  "feed": "wall-street-journal",
+  "title": "Shareholders Stand Up for Profit and Against ESG at Chevron; Under pressure from asset managers, the company embraced policies that are harmful to investors.",
+  "text": "<p>Follow This expressly said it sought to combat climate change, not advance a business goal. Chevron's board opposed the proposal. Yet the resolution earned majority shareholder support, including from its three largest shareholders at the time, Vanguard, State Street and BlackRock.</p><p>The resolution would require Chevron to account for things beyond its control, such as whether its employees drive hybrids or Humvees to work, whether its leased data center is powered by coal or wind, or whether its customers use its gasoline to deliver solar panels or tractors. There is no way for Chevron to force these third parties to change their behavior other than to refuse to employ or do business with them if they don't comply.</p><p>Scope 3 accounting is useless even in theory as a gauge of environmental impact, because it would count the same unit of emissions more than once. A gallon of gasoline used anywhere in Chevron's value chain would count toward Chevron's Scope 3 emissions and the Scope 3 emissions of each company involved. But many companies in Chevron's value chain haven't adopted such caps. Caterpillar hasn't, so Chevron effectively bears full responsibility for the emissions of every Caterpillar backhoe that burns its fuel.</p><p>Scope 3 emissions reductions are adverse to the growth of any company that adopts them. Microsoft's Scope 3 emissions ballooned by 23% in 2021 precisely because sales boomed: Each additional Xbox sold takes additional energy to power it. Such measures are particularly hostile to an oil company, whose only meaningful way to cut Scope 3 emissions is to reduce sales of its main product.</p><p>Chevron's board partly stood its ground after the shareholder vote, declining to adopt \"absolute Scope 3 targets.\" But in September 2021, the company announced a new $10 billion in spending on low-carbon projects—triple its prior commitment. When asked by an investment analyst if these projects were a \"value driver or a license to do business,\" a Chevron executive responded \"a little bit of both.\" One month later, the company set specific targets for reducing Scope 3 carbon intensity and said it \"supports the Paris Agreement\" and a carbon tax. These are curious business decisions. Congress didn't ratify the Paris Agreement—and it isn't Chevron's responsibility to do so. Successful companies seldom lobby for higher taxes on their products.</p><p>Chevron's board should publicly commit to evaluating all projects on financially measurable return on investment without regard to extralegal social pressure. The board should repudiate Scope 3 emissions controls and stop advocating a carbon tax or the Paris Agreement unless it demonstrates that such activities create shareholder value.</p><p>Compared with his peers, Chevron CEO Michael Wirth has exhibited unusual courage. Berkshire Hathaway recently became Chevron's second-largest shareholder. When Berkshire was itself the subject of an ESG spat in 2021, CEO Warren Buffett dismissed such demands as \"asinine.\" Mr. Wirth should follow Mr. Buffett's example ahead of next spring's proxy voting season.</p><p>Mr. Ramaswamy is executive chairman of Strive Asset Management, which held a more than $50 million Chevron position as of Tuesday.</p><p>Shareholders Stand Up for Profit and Against ESG at Chevron</p>",
+  "published": "2022-09-07T15:41:00.000Z",
+  "tags": [
+    {
+      "id": "US1491231015",
+      "nexusId": "10011563",
+      "name": "Caterpillar Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1101,
+          "end": 1112
+        },
+        {
+          "start": 1189,
+          "end": 1200
+        },
+        {
+          "start": 1093,
+          "end": 1104
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7075357,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.29250002,
+        "tagPositionWeight": 3.5881996e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

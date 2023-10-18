@@ -1,0 +1,28 @@
+{
+  "_id": "5f9486c8caab479ed9591999ddbc37d34b07fddb38e4474741d41ababdc549d7",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Nearly Half Of Trades Occur Off Exchanges",
+  "text": "<p>Before 2020, the percentage of what is known as dark trading had hovered just below 40% for years. Now, on some days, more than half the shares that change hands in the U.S. are traded on various off-exchange platforms. That happened for the first time on Dec. 23, three times in January, and again on Tuesday, when off-exchange volume hit 50.5%, a record for a single day of trading, Rosenblatt data show.</p><p>Behind the shift is the influx of small investors, many of whom have been empowered by zero-commission trading apps and are stuck at home during the Covid-19 pandemic. Online brokerages that cater to individual investors, including Robinhood Markets Inc., send many of their customers' orders to electronic trading firms such as Citadel Securities and Virtu Financial Inc. These firms typically execute small investors' orders privately instead of routing them to public markets including the New York Stock Exchange and the Nasdaq Stock Market. The investors often get slightly better price terms from Citadel Securities and Virtu than they would if their orders were sent to exchanges.</p><p>Some analysts worry that the shift away from on-exchange trading could erode transparency. When fewer trades take place on exchanges, there is less information publicly available about the prices that investors are willing to pay for shares. That raises the risk that traders will pay more when buying and get less when selling than they should.</p><p>\"We're definitely in an area where the level of off-exchange trading raises concerns,\" said Justin Schack, a partner at Rosenblatt. \"Once you start to see half or more of activity taking place away from public markets, you have to ask: What is this doing to price discovery and market quality? Are we getting to levels that hurt the market?\"</p><p>Off-exchange trading isn't new. For years, institutional investors have bought and sold shares on private venues known as dark pools, while brokerages have sent small investors' orders to internalizers, as the retail-trading platforms run by Citadel Securities and Virtu are known.</p><p>Such firms pay brokerages for the right to trade against their customers' orders, a practice that has drawn fresh scrutiny since the GameStop frenzy. Both internalizers and dark pools must release data on each trade after execution. But unlike exchanges, neither dark pools nor internalizers are in the business of displaying price quotes, a key ingredient in allowing the broader market to see what a stock is worth and how its price is moving.</p><p>Other countries take a stricter approach. In Canada, for instance, all trades must be executed on exchanges. In the European Union, a 2018 regulatory overhaul sought to push more stock trading onto exchanges, though its results have been mixed.</p><p>Firms that run off-exchange trading platforms say the current level of dark trading in the U.S. isn't a problem. For one thing, since many of the most actively traded stocks have share prices of just a few dollars, the percentage of off-exchange volume is lower when measured in dollars than when measured in the number of shares traded. In dollar terms, around 40% of trading volume is executed outside exchanges.</p><p>Executives at electronic trading firms, as well as analysts and academics, stress that individual investors benefit from having their orders sent to internalizers because of the better prices. \"In terms of the ecosystem and who's ultimately benefiting, it really is the retail investor,\" Virtu Chief Executive Douglas Cifu said on an earnings call Thursday.</p><p>Still, some data suggest that the growing heft of internalizers might be hurting the rest of the market by depriving institutional investors of access to liquidity. When institutional investors buy or sell stocks such as Apple Inc. or American Airlines Group Inc. with a high degree of individual activity, their transaction costs are more than three times that of stocks for which less than 10% of trading volume comes from individual investors, the trading-analytics firm GTA Babelfish said in a recent report.</p><p>\"These transaction costs are very insidious,\" said GTA Babelfish partner Linda Giordano. \"It's something that eats into your overall return. And you're doing this over and over and over again, every time you're trading.\"</p>",
+  "published": "2021-02-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3750,
+          "end": 3760
+        },
+        {
+          "start": 3750,
+          "end": 3759
+        },
+        {
+          "start": 3750,
+          "end": 3755
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "ee4928bf07d5640568588f26c6a3f206ffbe2664daa101a2a19ff34308aa6190",
+  "feed": "reuters",
+  "title": "Maker of plane parts Boeing calls flawed supplied Spirit, others - sources",
+  "text": "<p>In March, Boeing warned Spirit AeroSystems about suspected problems with parts at MPS and asked it to use alternative suppliers as it continued an audit of the Italian company's operations, according to a letter seen by Reuters.</p><p>It also asked Wichita-based Spirit to trace any MPS parts it had used back to 2017 and to treat them as \"suspect nonconforming,\" meaning they would be subject to further checks.</p><p>\"Out of an abundance of caution while Boeing conducts further testing and evaluation, Boeing has also decided to consider all product processed by MPS to be suspect,\" it said.</p><p>Boeing and Spirit had no immediate comment on the letter. Boeing said earlier the problems did not pose any immediate safety issues to 787 Dreamliners already in service.</p><p>Brindisi, Italy-based MPS, a coatings supplier, did not respond to phone calls and an emailed request for comment.</p><p>MPS is also an approved supplier to Airbus, according to a list available via the planemaker's website.</p><p>A spokesperson for the European company had no immediate comment when asked whether it or its suppliers had recently used any parts involving work carried out by MPS.</p>",
+  "published": "2021-10-14T18:20:27.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 10,
+          "end": 16
+        },
+        {
+          "start": 21,
+          "end": 27
+        },
+        {
+          "start": 583,
+          "end": 589
+        },
+        {
+          "start": 641,
+          "end": 647
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.950042,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.95004165,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

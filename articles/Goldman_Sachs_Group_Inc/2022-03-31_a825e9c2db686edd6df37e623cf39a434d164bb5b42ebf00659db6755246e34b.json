@@ -1,0 +1,44 @@
+{
+  "_id": "a825e9c2db686edd6df37e623cf39a434d164bb5b42ebf00659db6755246e34b",
+  "feed": "wall-street-journal",
+  "title": "Leaks Appear to Dent Profits on Big Stock Sales",
+  "text": "<p>It happened when Bain Capital sold shares of Canada Goose Holdings Inc., the maker of trendy parkas; when 3G Capital sold stock in Kraft Heinz Co.; when Apollo Global Management Inc. sold shares of Norwegian Cruise Line Holdings Ltd.; and when Alaska's state oil fund trimmed its stake in an artificial-intelligence software firm.</p><p>These transactions, known as block trades, are supposed to be a secret between the selling shareholders and the investment banks they hire to execute the trades. But a Wall Street Journal analysis of nearly 400 such trades over three years indicates that information about the sales routinely leaks out ahead of time -- a potentially illegal practice that costs those sellers millions of dollars and benefits banks and their hedge-fund clients.</p><p>The Journal's analysis, covering 393 block trades between 2018 and 2021, found that 58% of the time, the share price declined in the trading session immediately beforehand, controlling for the performance of peer companies. Of the 268 trades for which the Journal was able to determine how much the banks paid, the sellers would have received $382 million more if the stocks had performed in line with the benchmark, or about $1.4 million per trade.</p><p>A handful might be explained by a negative headline or chalked up to bad luck. But the persistent pattern of stocks falling in the run-up to big insider sales suggests a more widespread problem: Information that should be confidential is getting out.</p><p>That pattern is now at the heart of a federal investigation into whether banks tip off favored clients to coming block trades. The Securities and Exchange Commission has sought trading records and electronic communications from a number of big banks and hedge funds, and the U.S. Justice Department is running its own probe, the Journal first reported in February.</p><p>The investigation for now appears to be focused on Morgan Stanley, the dominant bank in block trading. The firm disclosed later in February that it had been responding to information requests from the Justice Department since the summer. In November, it put one of its senior executives in charge of block trading, Pawan Passi, on leave. A Morgan Stanley spokeswoman declined to comment on Mr. Passi's behalf and repeated attempts to reach him have been unsuccessful.</p><p>Goldman Sachs Group Inc. has also received requests from regulators, the Journal reported.</p><p>The investigation, along with a broader market decline, has chilled the big business of block trading in recent months, bankers and investors said.</p><p>The Journal's analysis found that when Morgan Stanley executed a block trade by itself, the median stock trailed its peers by 0.7 percentage point in the trading session leading up to the deal, meaning half performed worse than that. That was the worst record of any of the biggest banks that are major players in block trading. The median of Credit Suisse Group AG's deals was underperformance of 0.4 percentage point, the analysis found. The median trades executed by Goldman and Barclays PLC roughly matched the market.</p><p>Across all banks, the median stock lagged behind by 0.2 percentage point.</p><p>Morgan Stanley, Credit Suisse, Goldman and Barclays declined to comment. The other companies and investors mentioned in this article either declined to comment or didn't respond.</p><p>Leaks could come from a number of sources. Companies tend to approach multiple banks to bid on block deals, leaving open the possibility that someone other than the winner of the business has leaked the information.</p><p>There isn't a comprehensive public list of block trades. Some are registered with the SEC. Others can be gleaned from more obscure corporate filings. Many leave no trace at all. The Journal's analysis drew from databases maintained by research firms IPO Boutique and Dealogic as well as information from market participants, and matched details of those trades to securities filings where possible, but the list likely isn't exhaustive.</p><p>Insiders who want to sell a slug of stock have a problem: Posting the order to a public exchange would likely tank the price. So they turn to Wall Street. An investment bank agrees, generally around midday, to quietly buy the shares at a discount to the market's closing price later that day. The bank then aims to flip the stock to its trading clients at a higher price and pocket the difference. Four or five banks do the most of trades, and the same roster of hedge funds line up to buy the shares, according to the data and market participants.</p><p>Wall Street thrives on information edges, and at the beginning of a block deal, the bankers are holding a valuable nugget: They know that a wave of selling is likely on the way. That is because public shareholders, assuming that corporate insiders are better informed, tend to copy their trades. A flood of shares for sale also knocks the supply-demand balance out of kilter.</p><p>Regulators suspect that investment banks have been tipping off their top clients, who jump in and sell ahead of that wave, according to people familiar with the probes.</p><p>The ultimate losers in these situations are often pension funds, endowments and foundations. They invest with private-equity firms, which use block trades to unwind stakes in newly public companies.</p><p>Block trades can be risky. Banks compete to buy the shares at slim discounts, and if they misjudge investor demand or there is a sudden, unexpected drop, their profit margin can quickly evaporate.</p><p>That creates a financial incentive to leak details ahead of time. Knowing which investors will buy the shares, and at what price, could help a bank fine-tune its bid and decrease its risk of losses. And tipping off top funds to a profitable trade -- selling short a stock heading into a block sale tends to be a winner -- could curry favor with important clients.</p><p>There are other reasons a stock might fall ahead of a block trade. When a company goes public, employees and early investors are usually prevented from selling their shares for a period, generally six months. Hedge funds know when those so-called lockups expire and often short the stock ahead of time.</p><p>But fewer than 20 block trades in the Journal's list appear to be linked to the expiration of IPO lockups, and they performed only slightly worse than the rest. In the most of examples, there was no obvious reason the stock might have underperformed.</p><p>---</p><p>Susan Pulliam and Juliet Chung contributed to this article.</p>",
+  "published": "2022-03-31T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 3177,
+          "end": 3184
+        },
+        {
+          "start": 3019,
+          "end": 3026
+        },
+        {
+          "start": 2310,
+          "end": 2323
+        },
+        {
+          "start": 2297,
+          "end": 2320
+        },
+        {
+          "start": 2310,
+          "end": 2317
+        },
+        {
+          "start": 3157,
+          "end": 3164
+        },
+        {
+          "start": 2310,
+          "end": 2334
+        }
+      ]
+    }
+  ]
+}

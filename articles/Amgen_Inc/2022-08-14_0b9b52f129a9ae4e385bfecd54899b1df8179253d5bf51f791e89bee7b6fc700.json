@@ -1,0 +1,30 @@
+{
+  "_id": "0b9b52f129a9ae4e385bfecd54899b1df8179253d5bf51f791e89bee7b6fc700",
+  "feed": "wall-street-journal",
+  "title": "Drug-Price Rules for Seniors Change With Passage of Climate and Health Bill; Medicare will negotiate some drug costs and cap seniors' prescription payments",
+  "text": "<p>Legislation that the House of Representatives passed Friday would raise an estimated $739 billion in revenue and spend $433 billion on climate and energy programs as well as health-insurance subsidies for millions of people covered under the Affordable Care Act. President Biden is expected to sign the bill soon.</p><p>The legislation also allows for direct-price negotiations on a limited number of medications and puts a cap on the amount that seniors on Medicare pay for medicines annually. Starting in 2025, people who are covered under Medicare's prescription-drug program known as Part D will have annual out-of-pocket costs capped at $2,000, compared with potentially unlimited spending under current law. In addition, Medicare beneficiaries' copays for insulin starting next year would be limited to $35 a month.</p><p>SHARE YOUR THOUGHTS</p><p>Do you think prescription-drug prices are too high? If so, what's the best way to lower them? Join the conversation below.</p><p>The out-of-pocket spending cap would benefit patients who take expensive medications such as some used to treat cancer that can cost patients more than $10,000 annually in copays and coinsurance, said Stacie B. Dusetzina, an associate professor of health policy at Vanderbilt University Medical Center.</p><p>The most contentious aspects of the drug-pricing provisions are those requiring Medicare to directly negotiate prices for certain drugs starting in 2026, and requiring drugmakers next year to pay rebates to the government for revenue they make from price increases above the inflation rate.</p><p>Democrats passed the bill using a procedure called budget reconciliation that allows them to bypass a Republican filibuster. Using the procedure meant narrowing the inflation-cap rebate provision to Medicare drug spending and excluding the private commercial market, which would have had more far-reaching effects.</p><p>The pharmaceutical industry opposes the negotiation and inflation-cap measures, which it said would give the government too much power to set prices and impinge on the development of new drugs.</p><p>\"The bill will impose price controls, and price controls will stymie innovation,\" Amgen Inc. Chief Executive Officer Robert Bradway said on an earnings call in early August.</p><p>The revisions represent a watershed change to the Medicare Part D program, which was enacted in 2003 with a prohibition on government negotiation of drug prices. The program was created to be operated by private health insurers who compete against each other by offering the lowest premiums to consumers, providing an incentive to negotiate the lowest prices possible.</p><p>The program hasn't worked well for patented medicines that are protected from competition, advocates of the government negotiation say. Changes in the new legislation will help check prescription-drug costs, some advocates say.</p><p>\"This is going to be really impactful and put money back in people's pockets,\" said Bill Sweeney, senior vice president for government affairs at AARP, the Washington-based advocacy group for older adults.</p><p>Starting in 2026, Medicare will negotiate prices for 10 drugs in Part D from a list of 50 drugs with the highest program spending that have been on the market for nine or 13 years and lack generic competition. Additional drugs would be added each year afterward.</p><p>In 2028, Medicare will start negotiating prices for high-spending drugs in the Part B program, which covers outpatient medical care such as drugs that are administered by healthcare professionals.</p><p>Write to Joseph Walker at joseph.walker@wsj.com</p><p>Drug-Price Rules for Seniors Change With Passage of Climate and Health Bill</p>",
+  "published": "2022-08-14T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 2144,
+          "end": 2154
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

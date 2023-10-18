@@ -1,0 +1,38 @@
+{
+  "_id": "9ee03ff4b3a19b60d1a72fa058fa77b34b35f69bb9d7100f9b08b9087645d655",
+  "feed": "wall-street-journal",
+  "title": "China's Chengdu Extends Covid-19 Stay-Home Order as Restrictions Test Economy; Authorities ordered more testing in the industrial city, while some virus-control measures were eased in the tech hub of Shenzhen",
+  "text": "<p>Authorities also said residents shouldn't leave the city except in cases of absolute necessity.</p><p>Chengdu is trying to steer its economy through the latest Omicron outbreak, with more than 2,000 manufacturers operating under so-called closed loop arrangements, according to local media. German tool maker Bosch said it was operating under such arrangements, while a factory owned by auto maker Volvo AB suspended operations, the company said.</p><p>In a post on its WeChat social-media account late Sunday, the Chengdu government defended the latest measures as necessary and called on residents to \"persevere, persevere and persevere.\" It urged residents to stay at home and comply with mandatory testing orders.</p><p>Meanwhile, the southern Chinese technology hub of Shenzhen relaxed some Covid-control measures on Monday, after shutting down the city center over the weekend and telling most residents to stay home. Daily new cases in the city had been stubbornly high in recent days, and on Monday, Shenzhen registered 71 more local cases, according to local authorities.</p><p>China recorded 1,518 locally transmitted cases of Covid-19 for Sunday, the National Health Commission said Monday, with almost half of them found in the country's western regions of Tibet, Sichuan and Xinjiang. There are also outbreaks in the far north and east, in Heilongjiang, Liaoning and Jilin, underscoring the challenge for officials of keeping a lid on the highly transmissible variants of the virus.</p><p>As of Friday, there were 33 cities in China, including seven provincial capitals and one provincial-level municipality, under full or partial lockdown, with more than 65 million residents affected, according to Caixin, a domestic news outlet.</p><p>Chinese authorities have continued to stick with the \"dynamic zero-Covid\" policy, which aims to eradicate outbreaks as they emerge. The strategy has led to lockdowns, mass testing and shut borders, crushing business activity and economic growth. The recent outbreaks have come at a sensitive time politically as the Communist Party congress prepares for its twice-a-decade meeting scheduled for October—an event expected to ratify an unprecedented third term as Party leader for President Xi Jinping.</p><p>Strains of the Omicron variant have spread to all of China's 31 provincial-level regions in recent weeks, leaving the 14-day daily average for new locally transmitted cases at 1,565, government data show. That is below the peak but still too high for Beijing's zero-Covid target.</p><p>More areas of the country have been placed under full or partial lockdowns as the number of new cases crept up last month, putting local officials under the spotlight just ahead of the congress. While the case numbers remain low by global standards, officials in China risk losing their jobs if they fail to bring outbreaks under control swiftly.</p><p>Daqing, a city in northernmost China that sits on the largest oil field in the country, has been in full lockdown similar to the one in Shanghai earlier this year, with more than 900 cases reported. The city government removed the head of the local branch of the NHC on Monday after a woman suffered a miscarriage when she was turned away from a hospital.</p><p>That creates a dilemma, with Covid controls widely blamed for China's weakening economy. Districts designated as high- or medium-risk zones accounted for about 35% of national economic output, according to a Friday research report by Goldman Sachs.</p><p>Some other large Chinese cities also have increased their vigilance in recent days, for instance by shutting down large-scale events and public venues, suspending dine-in restaurant services, and starting the new school year online. Officials have asked people to reduce travel within cities and required frequent tests for Covid-19—daily, in many cases.</p><p>Qianwei Zhang contributed to this article.</p><p>Write to Dan Strumpf at daniel.strumpf@wsj.com and Rachel Liang at rachel.liang@wsj.com</p><p>China's Chengdu Extends Covid-19 Stay-Home Order as Restrictions Test Economy</p>",
+  "published": "2022-09-05T12:55:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 3433,
+          "end": 3446
+        },
+        {
+          "start": 3433,
+          "end": 3440
+        },
+        {
+          "start": 3413,
+          "end": 3426
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

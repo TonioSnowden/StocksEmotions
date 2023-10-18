@@ -1,0 +1,24 @@
+{
+  "_id": "6a932b2e286c2bc59011dc9581e79568b484bad1df07c5b2ee095ff8c6917118",
+  "feed": "wall-street-journal",
+  "title": "Chips' Political Moment Needs to Last --- A shortage of semiconductor manufacturing capacity is a complex problem that government dollars alone won't solve",
+  "text": "<p>President Biden signed an executive order last week requiring a 100-day review of key supply chains, including semiconductors. He also said he would seek $37 billion in funding to help the domestic chip industry boost capacity. The time frame on that proposed spending wasn't given -- and it amounts to a little over half of the capital expenditures the chip-making industry is already projected to spend globally on wafer fabrication equipment for just this year alone.</p><p>Still, the prospect for increased government largess to augment growing investments from within the industry has resonated with investors. The PHLX Semiconductor Index has been the best-performing tech subsector so far this year, rising more than 6% relative to the Nasdaq's 1% gain. The 10 stocks on that index specializing in chip-manufacturing equipment have averaged a gain of nearly 17% in that time. Applied Materials, the largest chip-equipment maker by annual revenue, has seen its shares jump 34% this year -- making it the best-performing tech on the S&amp;P 500, according to FactSet.</p><p>But government money alone won't solve the problem -- and certainly not quickly. Chip fabrication plants take years to build and equip. And catching up on a technological basis isn't simply a matter of dollars spent. Intel has fallen behind Taiwan Semiconductor Manufacturing in the most-advanced production processes, even though the American chip maker has outspent its Taiwanese rival by an average of nearly 6-to-1 on research and development annually over the past 10 years, according to data from S&amp;P Global Market Intelligence.</p><p>There are also business practices to consider. A big part of the current shortage stems from automotive manufacturers that cut orders for parts early in the pandemic, when car sales plunged. By the time auto demand bounced back and car makers needed chips, semiconductor manufacturers were busy making components for other end markets and lacked excess capacity. A long-term solution may require rethinking just-in-time manufacturing practices that minimize inventory on hand. Christopher Danely of Citigroup noted to clients last week that \"the only way to eliminate or dampen shortages is higher inventory throughout the supply chain, which would cost tens of billions of dollars per year.\"</p><p>Another potential solution would be to simply build more production capacity than is needed. But having chip fabs underused or idle is also an expensive proposition, especially given their reliance on technical talent that can't simply be brought on as temps when demand jumps. And acquiring the necessary staff in the first place to run more domestic fabs will be a challenge. Rick Wallace, chief executive of chip-equipment maker KLA told a Morgan Stanley investment conference on Monday that \"it's not like we have an abundance of that talent in the U.S.\" He added that \"the economics doesn't make sense\" for chip fabs to be underused over the long term.</p><p>Government support could mean a more sustained spending uptick for the notoriously cyclical chip-equipment industry. Wes Twigg of KeyBanc Capital Markets calculates that there has been a cyclical downturn in semiconductor capital spending every two to three years since 2008. He projects a 14% rise this year to a record $122.7 billion, with an additional 12% rise next year even without government subsidies as chip makers work to catch up with growing demand.</p><p>But government support will need to be sustainable -- lasting after the urgency of the current auto-chip shortage fades. Even new domestic chip fabrication plants breaking ground this year wouldn't be fully operational before the end of Mr. Biden's term. The chip industry's shortage is years in the making, and will take years to address. It may not be a great match for a country whose politics have become very of-the-moment.</p>",
+  "published": "2021-03-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1280,
+          "end": 1285
+        },
+        {
+          "start": 1270,
+          "end": 1275
+        }
+      ]
+    }
+  ]
+}

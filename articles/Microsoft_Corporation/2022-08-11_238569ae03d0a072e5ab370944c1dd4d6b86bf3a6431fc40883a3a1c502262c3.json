@@ -1,0 +1,24 @@
+{
+  "_id": "238569ae03d0a072e5ab370944c1dd4d6b86bf3a6431fc40883a3a1c502262c3",
+  "feed": "wall-street-journal",
+  "title": "Business News -- Cybersecurity:  Companies Set  Data Sharing  To Fight Hacks  ----  By Kim S. Nash",
+  "text": "<p> A group of 18 tech and cyber companies said Wednesday they are building a common data standard for sharing cybersecurity information. They aim to fix a problem for corporate security chiefs who say that cyber products often don't integrate, making it hard to fully assess hacking threats. </p> <p> Amazon.com Inc.'s Amazon Web Services cloud business, cybersecurity company Splunk Inc. and International Business Machines Corp.'s security unit, among others, launched the Open Cybersecurity Schema Framework, or OCSF, Wednesday at the Black Hat USA cybersecurity conference in Las Vegas. </p> <p> Products and services that support the OCSF specifications would be able to collate and standardize alerts from different cyber monitoring tools, network loggers and other software, to simplify and speed up the interpretation of that data, said Patrick Coughlin, Splunk's group vice president of the security market. \"Folks expect us to figure this out. They're saying, 'We're tired of complaining about the same challenges.'\" </p> <p> Other companies involved in the initiative are CrowdStrike Holdings Inc., Rapid7 Inc., Palo Alto Networks Inc., Cloudflare Inc., DTEX Systems Inc., IronNet Inc., JupiterOne Inc., Okta Inc., Salesforce Inc., Securonix Inc., Sumo Logic Inc., Tanium Inc., Zscaler Inc. and Trend Micro Inc. </p> <p> Chief information security officers have grumbled about proprietary cyber products that force security teams to integrate data manually. More than three-quarters of 280 security professionals surveyed want to see vendors build open standards into their products to enable interoperability, according to research from the Information Systems Security Association and TechTarget Inc.'s analyst unit published in July. </p> <p> Often, cyber teams build several dashboards to monitor items such as attempted logins and unusual network activity. To get a full picture of events, they frequently have to write custom code to reformat data for one dashboard or analysis tool or another, said Mark Ryland, director of the office of the chief information security officer at AWS. \"There's a lot of custom software out there in the security world,\" he said. </p> <p> Products that support OCSF would be able to share information in one dashboard without that manual labor, Mr. Ryland said. \"We'll benefit from this,\" he said of AWS's internal security teams. </p> <p> Tech providers writing the initial version of OCSF expect to incorporate it into their products in the coming months, said Chris Niggel, regional chief security officer for the Americas at identity management company Okta. </p> <p> Internally, Okta uses cloud services from Alphabet Inc.'s Google, human resources company Workday Inc., communications tool Slack Inc. and others, Mr. Niggel said. \"Our incident response team has to normalize all that information so they can see what's happening,\" he said. </p> <p> With data about potential hacking activity in one format, internal teams will be able to recognize attacks earlier, he said. Plus, companies will be able to share incident data with each other faster, he added. </p> <p> The OCSF standard and documentation will be on the GitHub open-source repository. Early work on the project began years ago at Symantec, now part of infrastructure technology company Broadcom Inc. </p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 0.44012666,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.55987334,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 19
+    }
+  ]
+}

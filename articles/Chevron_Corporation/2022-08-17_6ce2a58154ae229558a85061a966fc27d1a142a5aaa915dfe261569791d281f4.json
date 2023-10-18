@@ -1,0 +1,38 @@
+{
+  "_id": "6ce2a58154ae229558a85061a966fc27d1a142a5aaa915dfe261569791d281f4",
+  "feed": "wall-street-journal",
+  "title": "Oil Giants Must Face Climate-Liability Suits in States, Appeals Court Rules; Decision is setback for companies such as Exxon, Chevron and Shell",
+  "text": "<p>The lawsuits before the U.S. Court of Appeals for the Third Circuit are among at least two dozen filed by states and cities in recent years, arguing that the oil industry should be on the hook for damages caused by fossil fuels. The cases, which environmentalists have likened to state litigation against tobacco companies for recovery of healthcare costs, represent a major legal threat to the oil industry.</p><p>Oil companies have denied liability in the cases and have sought to resolve the disputes in federal courts. But state and local governments—including the cities of Baltimore, Honolulu and Boulder, Colo., Rhode Island, and a group of cities and counties in California—have successfully argued that their cases should be fought at the state level, bringing some of them closer to trial.</p><p>Wednesday's decision marked the latest appeals court to rule that state court is the proper venue for such lawsuits, after years of jockeying over jurisdiction. It was the sixth such appeals court ruling this year to keep climate cases by states and cities in state court.</p><p>\"Climate change is an important problem with national and global implications. But federal courts cannot hear cases just because they are important,\" Judge Stephanos Bibas wrote for the three-judge panel that ruled in favor of Delaware and Hoboken.</p><p>Several federal courts, including in New York and California, had earlier issued rulings that sided with oil companies in the disputes, finding that under federal law, the issues should be decided by other branches of the U.S. government, not through environmental liability litigation. A 2011 U.S. Supreme Court ruling found that utility companies couldn't be sued for liability because the Clean Air Act gives regulatory power to the Environmental Protection Agency.</p><p>Oil companies, in arguing to keep the cases in court, pointed to a Second Circuit decision from last year that upheld a dismissal of a climate-liability lawsuit brought by New York City. The court said that state court was inappropriate because global warming is \"an international problem of national concern.\"</p><p>The Supreme Court could still weigh in on the matter of where the latest cases should be decided: Oil companies have asked the high court to overturn the appeals court ruling that found Boulder's lawsuit should be argued in state court.</p><p>Theodore Boutrous, Chevron's attorney in the cases, said the company disagreed with the Third Circuit's decision. The cases, he said, belong in federal court \"due to their sweeping implications for national energy policy, national security, foreign policy and other uniquely federal interests.\"</p><p>Ryan Meyers, the general counsel for the American Petroleum Institute, a trade group that is also a party in the lawsuits, said the suits were a distraction and waste of taxpayer dollars.</p><p>\"We believe these cases belong in the federal courts, but ultimately climate policy is an issue for Congress to debate, not the court system,\" he said.</p><p>Matthew Brinckerhoff, an attorney representing Hoboken, said the decision showed that what he described as the industry's \"delay tactics\" in seeking to keep the cases from trial were failing.</p><p>Write to Erin Mulvaney at erin.mulvaney@wsj.com</p><p>Oil Giants Must Face Climate-Liability Suits in States, Appeals Court Rules</p>",
+  "published": "2022-08-17T22:49:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 126,
+          "end": 133
+        },
+        {
+          "start": 2339,
+          "end": 2346
+        },
+        {
+          "start": 2352,
+          "end": 2359
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.441948,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.44194782,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

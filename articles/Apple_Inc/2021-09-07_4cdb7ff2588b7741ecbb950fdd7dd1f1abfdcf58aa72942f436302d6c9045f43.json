@@ -1,0 +1,36 @@
+{
+  "_id": "4cdb7ff2588b7741ecbb950fdd7dd1f1abfdcf58aa72942f436302d6c9045f43",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Start Allows Users to Create Personalized News Feed; Similar to offerings from Google and Apple, Microsoft's new platform uses content from more than 1,000 publishers",
+  "text": "<p>The platform includes widgets with articles from various media outlets, as well as weather forecasts, sports scores, traffic information and market data. It allows users to flag if they prefer a certain subject or publication, and add reactions to the content.</p><p>Microsoft Start builds on Microsoft's other news platforms like MSN and replaces Microsoft News, the company said. The personalized news feed is similar to those at other companies such as Apple Inc. and Alphabet Inc.'s Google, and uses artificial intelligence and machine learning.</p><p>In June, Microsoft launched an overhaul of its Windows operating system—the first new version of the product in almost six years. The new Windows 11 repositioned the start button and the menu it opens to the center of the taskbar, a change Microsoft designers made after testing and research. The bigger repositioning Microsoft is seeking with the new design is to make its software a hub in a computing universe incorporating rival companies' platforms, including the Android mobile software developed by Google, as its skirmish with Apple intensifies.</p><p>Write to Jennifer Calfas at Jennifer.Calfas@wsj.com</p><p>Microsoft Start Allows Users to Create Personalized News Feed</p>",
+  "published": "2021-09-07T22:23:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 450,
+          "end": 459
+        },
+        {
+          "start": 450,
+          "end": 460
+        },
+        {
+          "start": 450,
+          "end": 455
+        },
+        {
+          "start": 1079,
+          "end": 1084
+        },
+        {
+          "start": 100,
+          "end": 105
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

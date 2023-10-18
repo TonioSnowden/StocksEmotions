@@ -1,0 +1,29 @@
+{
+  "_id": "ab27d86be45720cabbbc0f90fdafd0bdce437debc06dbf00584c7236e3642942",
+  "feed": "reuters",
+  "title": "Congress looks to cut $2 billion from COVID aviation jobs fund",
+  "text": "<p>In total, the U.S. Transportation Department has offered $673 million nationwide in three rounds of awards in the $3 billion program.</p><p>The aviation manufacturing payroll subsidy program created in 2021 covers up to half of eligible companies' compensation costs for up to six months. Some major aerospace firms like Boeing and General Electric opted not to participate.</p><p>Grantees may not conduct furloughs without employee consent or lay off workers covered by subsidies during that period.</p><p>Among the 593 awards offered were $75.5 million to Spirit AeroSystems , $20.9 million for Connecticut-based Hexcel Corp , $17.5 million to BAE Systems Controls , $12.9 million to Airbus ' U.S arm, $15 million to Learjet, a unit of Bombardier Inc , and $12.5 million to Dassault Falcon Jet Corp .</p><p>France's Safran , the world's third-largest aerospace supplier, was offered about $40 million for various U.S. units.</p><p>The department said the awards will support 31,000 U.S. jobs in 43 states.</p><p>To qualify, a company must have involuntarily furloughed or laid off at least 10% of its total workforce, or experienced a decline of at least 15% in 2020 total operating revenue.</p>",
+  "published": "2022-03-09T18:14:44.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999977,
+      "offsets": [
+        {
+          "start": 315,
+          "end": 321
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9846825,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.08218253,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

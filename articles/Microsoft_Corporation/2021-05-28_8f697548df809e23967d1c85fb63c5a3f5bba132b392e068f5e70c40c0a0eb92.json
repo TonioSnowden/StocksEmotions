@@ -1,0 +1,56 @@
+{
+  "_id": "8f697548df809e23967d1c85fb63c5a3f5bba132b392e068f5e70c40c0a0eb92",
+  "feed": "ftcomall",
+  "title": "Russian group behind SolarWinds spy campaign conducts new cyber attacks",
+  "text": "<p>The Russian hackers who breached several US government agencies last year have hijacked an email system used by USAID, the development agency, to target more than 150 government agencies, human rights groups and NGOs worldwide, said Microsoft. </p> <p>Microsoft said the hackers, who it identified as Nobelium, were the same group responsible for manipulating software from the US company SolarWinds in order to breach the US Treasury and Commerce departments, as well as the Pentagon and several Fortune 500 companies. The <a href=\"https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/\">White House said</a> last month the group was part of the Russian Foreign Intelligence Service. </p> <p>In the latest attack, Microsoft <a href=\"https://blogs.microsoft.com/on-the-issues/2021/05/27/nobelium-cyberattack-nativezone-solarwinds/\">said</a> the group had used USAID's mass email system, called Constant Contact, to pose as the US international development agency. They sent emails to more than 3,000 accounts at more than 150 government agencies, think-tanks, consultancies and non-governmental organisations.</p> <p>Targets who opened the emails allowed the hackers to perform “a wide range of activities from stealing data to infecting other computers on a network.” </p> <p>The scheme, which Microsoft said was an “active incident”, mainly focused on the US but spanned at least 24 countries. At least a&#xa0;quarter of those targeted were involved in international development, humanitarian&#xa0;and human rights work. </p> <p>Joe Biden, the US president, has faced calls to bolster the country's cyber defences following the campaign, a recent <a href=\"https://www.ft.com/content/74fa3de6-dd16-4dc5-9b69-38bde634adc3\">Chinese state-backed espionage campaign</a> that exploited vulnerabilities in Microsoft's email software and an attack on a US <a href=\"https://www.ft.com/content/734f923a-c2eb-4709-93f7-98f9b1ebd178\">petroleum pipeline</a> company by a criminal group this month.&#xa0;</p> <p>The Biden administration <a href=\"https://www.ft.com/content/b2bf1be3-a10c-4963-9deb-8a6b319e9363\">imposed sanctions</a> on Russia and <a href=\"https://www.ft.com/content/4d808359-b504-4014-85f6-68e7a2851bf1\">signed an executive order</a> this month requiring higher cyber security standards for federal agencies and their technology software providers.&#xa0;</p> <p>Microsoft said “many of the attacks” that targeted its customers were blocked because automated systems marked the emails as spam and its systems prevented the malicious software from gaining access. </p> <p>It is unclear if any organisations were breached despite these security measures. Microsoft declined to comment. </p> <p>Tom Burt, Microsoft's corporate vice-president of customer security and trust, said the latest attacks “appear to be a continuation of multiple efforts by [the hackers] to target government agencies involved in foreign policy as part of intelligence-gathering efforts”. </p> <p>“When coupled with the attack on SolarWinds, it's clear that part of [the hackers'] playbook is to gain access to trusted technology providers and infect their customers,” he added. </p> <p>Constant Contact said&#xa0;it was “aware that the account credentials of one of our customers were compromised and used by a malicious actor to access the customer's Constant Contact accounts”. </p> <p>“This is an isolated incident, and we have temporarily disabled the impacted accounts while we work in co-operation with our customer, who is working with law enforcement,” it added.</p><p>Source: Hannah Murphy in San Francisco 2021 'Russian group behind SolarWinds spy campaign conducts new cyber attacks' FT.com 28 May. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-05-28T07:12:08.768Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2125,
+          "end": 2134
+        },
+        {
+          "start": 1802,
+          "end": 1811
+        },
+        {
+          "start": 244,
+          "end": 253
+        },
+        {
+          "start": 1084,
+          "end": 1093
+        },
+        {
+          "start": 630,
+          "end": 639
+        },
+        {
+          "start": 1494,
+          "end": 1503
+        },
+        {
+          "start": 233,
+          "end": 242
+        },
+        {
+          "start": 2084,
+          "end": 2093
+        },
+        {
+          "start": 2125,
+          "end": 2136
+        },
+        {
+          "start": 1494,
+          "end": 1505
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

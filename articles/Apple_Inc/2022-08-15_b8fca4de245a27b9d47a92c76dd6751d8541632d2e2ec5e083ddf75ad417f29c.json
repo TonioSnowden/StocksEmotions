@@ -1,0 +1,42 @@
+{
+  "_id": "b8fca4de245a27b9d47a92c76dd6751d8541632d2e2ec5e083ddf75ad417f29c",
+  "feed": "wall-street-journal",
+  "title": "Activist Politan Capital Has 9% Stake in Masimo; Medical-device company's shares plummeted earlier this year when it entered into an ill-received acquisition deal",
+  "text": "<p>Irvine, Calif.-based Masimo, which has a market value of around $8 billion, is one of the major suppliers of monitoring technologies including pulse oximeters to hospitals. It reported in its second-quarter earnings last week that its core healthcare revenue rose 17% from a year ago to $357 million. Masimo reported $565 million in total revenue in the quarter. It guided analysts to revenue of between $1.985 billion and $2.045 billion for the full year.</p><p>But its shares, which had already been under pressure, were pummeled in February when the company surprised investors by agreeing to buy a consumer-technology company specializing in high-end audio equipment for around $1 billion. Its share price dropped 37% the following day, shaving roughly $5 billion off its market value, and shares have remained near that level ever since.</p><p>The audio company, known as Sound United, sells speakers and headphones under brands including Bowers &amp; Wilkins and Denon. The deal closed in April.</p><p>Masimo's founder and Chief Executive Joe Kiani has said the move gave the company access to consumer distribution channels such as Best Buy stores, which will be useful as it rolls out its own health-focused smartwatches. He also said he saw opportunities to use Sound United's technology in hospitals.</p><p>Analysts have questioned the move, including whether Masimo considered partnering with an established consumer company rather than buying one.</p><p>In marketing its smartwatch, Masimo will be competing with technology giants including Samsung Electronics Co., Google parent Alphabet Inc. and Apple Inc. Masimo is already at odds with Apple, having sued it in 2020 alleging the company stole its trade secrets for the Apple Watch. It also filed a complaint with the U.S. International Trade Commission in 2021 that is being investigated.</p><p>Mr. Kiani founded the company in 1989, according to its website, on the belief that he could use the concept of so-called adaptive signal processing to make monitoring technology including pulse oximetry more precise.</p><p>Mr. Koffey focused on activist investing at D.E. Shaw &amp; Co. and Senator Investment Group LP before establishing Politan last year. Politan ran a behind-the-scenes campaign late last year at managed-care company Centene Corp., which added several new directors to its board. It also helped prompt longtime CEO Michael Neidorff to step down.</p><p>Also last year, real-estate-data provider CoreLogic Inc. agreed to sell itself to two private-equity firms after a campaign by Senator added new directors to its board.</p><p>A portion of Politan's Masimo capital comes from EnTrust Global, the investment firm run by Gregg Hymowitz that backs many of activist investors' biggest bets, people familiar with the matter said. This is the second campaign EnTrust worked with Politan on after Centene.</p><p>Write to Cara Lombardo at cara.lombardo@wsj.com</p><p>Activist Politan Capital Has 9% Stake in Masimo</p>",
+  "published": "2022-08-15T22:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1565,
+          "end": 1574
+        },
+        {
+          "start": 1576,
+          "end": 1586
+        },
+        {
+          "start": 1607,
+          "end": 1612
+        },
+        {
+          "start": 1618,
+          "end": 1623
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.2868752,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.7131252,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "8eaa55d4d38a4fd9f0421e47521c48a2a79cd80280e96e8d4f43adc4ca8e3cd0",
+  "feed": "wall-street-journal",
+  "title": "Google Allows Alternative Payments for Spotify Users",
+  "text": "<p>To avoid that fee, Spotify didn't allow users to sign up for paid services through Google's app and users were required to go to the music company's website.</p><p>A Spotify spokeswoman declined to say what Google's cut of revenue from the alternative payment method would be. The option is expected to become available later this year, Spotify said.</p><p>\"It's safe to say that we negotiated commercial terms that meet our standards of fairness,\" the spokeswoman said.</p><p>Google didn't address its revenue cut under the arrangement.</p><p>In a blog post, Google said Spotify would be the first of a small number of developers allowed to participate in a pilot program of alternative billing options.</p><p>\"This is a significant milestone and the first on any major app store -- whether on mobile, desktop, or game consoles,\" Sameer Samat, Google's vice president of product management, wrote in the post. \"This pilot will help us to increase our understanding of whether and how user-choice billing works for users in different countries and for developers of different sizes and categories.\"</p><p>The ability to offer alternative in-app payment options has been at the heart of a fight brought by Spotify, Epic Games Inc. and other developers against Google and Apple Inc. for years.</p><p>The third-party apps have argued that blocking alternative payment methods is unfair, depriving users of choice, while the platforms have countered that their systems provide secure user payments and collect fees that are fair for the technology being offered.</p>",
+  "published": "2022-03-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1234,
+          "end": 1243
+        },
+        {
+          "start": 1234,
+          "end": 1239
+        },
+        {
+          "start": 1234,
+          "end": 1244
+        }
+      ]
+    }
+  ]
+}

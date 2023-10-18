@@ -1,0 +1,38 @@
+{
+  "_id": "e1ecfb67553e674de1c5507e062a8c39efbef8451546449703904d469123427b",
+  "feed": "economist-blog",
+  "title": "5-0; Malaysia's disgraced former prime minister is going to prison",
+  "text": "<p>Mr Najib starts his 12-year prison sentence immediately. He must also cough up a 210m-ringgit ($47m) fine. The verdict ejects him from the national parliament. It at last delivers the justice that millions of Malaysians voted for when they kicked Mr Najib out of office in 2018, ending the six-decade rule of his party, the United Malays National Organisation (umno). But Mr Najib does not seem to have entirely given up hope of making a comeback, and the ruling may upend what was already a rickety coalition government.</p><p>umno's fall from grace came after revelations of Mr Najib's involvement in a megascandal surrounding 1mdb, a state investment fund. Some $4.5bn went missing from its coffers between 2009 and 2015; it was spent on famous artwork, a superyacht and diamond jewellery, among many other things. A tranche even funded the making of a film about fraud: “The Wolf of Wall Street.”</p><p>More than $700m of the $4.5bn, the court heard, passed through a personal account of Mr Najib's. The scandal eventually led to investigations in at least six countries and Goldman Sachs, a bank, settled with Malaysia for $3.9bn in 2020 for its role in the scheme. But Mr Najib has long insisted that he believed all money in his account was a gift from the Saudi royal family. Failing to declare such gifts is not contrary to Malaysian law, he notes.</p><p>This defence has not persuaded the courts. Faced with the task of convicting a suspect hitherto considered untouchable, in a country where judicial independence is not always guaranteed, prosecutors crafted a deliberately modest case. They accused Mr Najib of laundering a mere 42m ringgit ($9m) in two accounts in 2014 and 2015. The 42m ringgit had been pilfered from a loan from the state-workers' pension fund to a unit of 1MDB, which went through only after Mr Najib had persuaded the cabinet to guarantee it.</p><p>Mr Najib was found guilty in 2020. He has been appealing the decision ever since, with little success. Last year an appeals court dismissed his claim of a Saudi gift as “a concoction that is completely bereft of any credibility”. Rather, it said, Mr Najib displayed a “wilful blindness” regarding the origins of the money while using it “for his personal benefit and for his political purposes”.</p><p>None of which stopped Mr Najib from seeking political redemption. Many wrote him off when he was defeated electorally and then charged in 2018. But his victorious critics made a mess of governing, with two successive coalitions falling apart in just over three years. umno returned to power at the head of a third coalition last year with barely a glance in the mirror. Bossku (“my boss”), as Mr Najib is known among his supporters, has made a point of heading out on the campaign trail and pressing the flesh. He made personal appearances in the lead up to elections in the state of Malacca last year and in Johor this year. umno won both contests.</p><p>Mr Najib's faction within umno had been lobbying for an early election, and seemed to be hoping to stretch out his appeal until after it was concluded. That way, a new attorney-general could perhaps have tried to procure a more favourable verdict for him. At any rate, he resorted to all manner of procrastination in the courtroom. His legal team accused the chief justice of Malaysia's top appeals court, Maimun Tuan Mat, of unconscious bias against Mr Najib and asked her to recuse herself. The grounds for this were that Ms Maimun's husband had expressed elation at Mr Najib's election loss back in 2018. Judges dismissed the time-wasting antics and declared Mr Najib's appeal “devoid of any merit”.</p><p>Some had expected a bigger showdown. Pressure, including death threats, had been piling up on judges. Some umno apparatchiks had urged the government to intervene in the judicial process. But the prime minister, Ismail Sabri, sat back and let events unfold. Perhaps he was happy to watch the head of the rival faction in his party fall. He may calculate he can ride out whatever fuss Mr Najib's allies now make. In any case, his inaction helped notch up a victory for the rule of law and avoided what could have been a much messier battle.</p><p>But Mr Najib has not been acting like a man whose political career is over. Online he has rebranded himself as a humble man of the people, a martyr about to lose everything except his faith. Recent Facebook posts show him sitting dejected on a tree stump and washing his feet before prayer. Many among Malaysia's increasingly devout Muslim population care more about what is said before the Almighty than what is decided in court, notes a political operator.</p><p>After Mr Najib's conviction Mr Ismail took to Twitter—to welcome the country's monarch back from a trip to Turkey. The niceties were not just a diversion. The monarch, and the royal pardon he is able to issue, is now the only straw at which Mr Najib can grasp. The king, too, will have to decide what kind of country he wants Malaysia to be.</p><p>■</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1067,
+          "end": 1080
+        },
+        {
+          "start": 1067,
+          "end": 1074
+        },
+        {
+          "start": 1059,
+          "end": 1072
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000503,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 5.030632e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

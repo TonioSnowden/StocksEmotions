@@ -1,0 +1,24 @@
+{
+  "_id": "910e51aa3eab02fdd5639f24b3b8f4d3ddbe27238ac53d8548320268d263856e",
+  "feed": "market-watch",
+  "title": "Yellen says run on UST stablecoin illustrates crypto's risk to financial stability; TerraUSD fell more than 30% on Monday",
+  "text": "<p>If the value of TerraUSD falls below $1, traders can buy TerraUSD for less than $1 and turn around and sell those tokens for $1 worth of LUNA. If the price of TerraUSD rises above one dollar, the algorithm will increase its supply until the price falls back to $1.</p><p>Stablecoins are at risk of a \"run\" on the funds backing them if investors lose confidence in the mechanism created to ensure its stable value.</p><p>\"A stablecoin known as TerraUSD experienced a run and declined in value,\" Yellen said. \"I think that simply illustrates that this is a rapidly growing product and that there are risks to financial stability and we need a framework that's appropriate.\"</p><p>TerraUSD broke its peg with the dollar over the weekend and the stablecoin cratered to a low of 69 cents Monday night before recovering to about 90 cents Tuesday afternoon, a move that some analysts are saying has helped exacerbate the decline in the price of bitcoin BTCUSD.</p><p>One reason volatility in TerraUSD may have contributed to bitcoin weakness is because the foundation that manages TerraUSD and LUNA announced Monday that it would lend out bitcoin from its reserves to traders so that they could buy TerraUSD and prop up its price. Terra cofounder Do Kwan explained the move in a series of tweets:</p><p>In November, President Joe Biden's Working Group on Financial Markets issued a report calling on Congress to require that stablecoins to be issued by federally regulated banks, to instill investor confidence and avoid the sort of asset-run that TerraUSD experienced yesterday.</p><p>The Securities and Exchange Commission may also have jurisdiction in this case as Chairman Gary Gensler has not ruled out regulating stablecoins like securities.</p><p>Todd Phillips, director of financial regulation and corporate governance at the Center for American Progress, said in an interview that stablecoin arrangements operate like SEC-regulated money market funds, and that \"investors in stablecoins deserve the same kinds of protection as they would with money market funds.\"</p><p>\"This is $18 billion in wealth that we're seeing evaporate before our eyes, and people are losing money,\" he said.</p><p>The SECis already investigating Terraform Labs for its Mirror protocol, which enables users to create synthetic, tokenized versions of publicly trade stocks like Apple AAPL or Tesla TSLA. Terraform and Kwon are challenging the SEC, reported CoinDesk, by saying the regulator improperly served Kwon subpoenas despite not having jurisdiction over the company or Kwon, who is not a U.S. citizen.</p><p>Terraform Labs couldn't be reached for comment, though Kwon said on Twitter Tuesday that he is \"close to announcing a recovery plan for UST.\"</p><p>Yellen says run on UST stablecoin illustrates crypto's risk to financial stability</p>",
+  "published": "2022-05-10T19:41:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2307,
+          "end": 2311
+        },
+        {
+          "start": 2301,
+          "end": 2306
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

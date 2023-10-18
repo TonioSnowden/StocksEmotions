@@ -1,0 +1,30 @@
+{
+  "_id": "5a49201c17e023a390aaf6d1c97f6876c328228a91b4b91c515cbbed107918ad",
+  "feed": "wall-street-journal",
+  "title": "Mississippi Pilot Who Threatened to Crash Into a Walmart Is Arrested; Cory Wayne Patterson, who worked at Tupelo Aviation, faces charges of grand larceny and making terroristic threats",
+  "text": "<p>Mr. Patterson allegedly stole the aircraft and called 911 early Saturday morning saying that he intended to crash the plane into the Walmart. Officers evacuated the store and surrounding area and negotiators spoke with Mr. Patterson, urging him \"to not carry out this deed,\" Chief Quaka said.</p><p>At some point during the flight, Mr. Patterson posted a statement on Facebook, according to the chief.</p><p>\"In essence, it said goodbye,\" the chief said.</p><p>The police then had a pilot try to talk Mr. Patterson into landing the plane at Tupelo airport but Mr. Patterson didn't have experience landing and aborted as he approached, Chief Quaka said. Mr. Patterson then flew the plane northwest and away from the city. The Federal Aviation Administration then lost contact with the aircraft shortly after 10 a.m. Central time.</p><p>Minutes later, police re-established contact with Mr. Patterson and learned he had landed the plane in a field. Chief Quaka said that in addition to the state charges, federal authorities were preparing charges.</p><p>\"Thankful the situation has been resolved and that no one was injured,\" Gov. Tate Reeves tweeted after the plane landed.</p><p>Write to Cameron McWhirter at cameron.mcwhirter@wsj.com</p><p>Mississippi Pilot Who Threatened to Crash Into a Walmart Is Arrested</p>",
+  "published": "2022-09-03T18:57:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 133,
+          "end": 140
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4183187,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.41831875,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

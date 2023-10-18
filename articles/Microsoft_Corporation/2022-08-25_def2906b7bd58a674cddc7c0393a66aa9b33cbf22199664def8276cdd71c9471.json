@@ -1,0 +1,34 @@
+{
+  "_id": "def2906b7bd58a674cddc7c0393a66aa9b33cbf22199664def8276cdd71c9471",
+  "feed": "wall-street-journal",
+  "title": "Sony Raises PlayStation 5 Prices by Up to 20% in Most Markets; Company cites global economic environment and inflationary pressures; prices in the U.S. aren't affected",
+  "text": "<p>The price increase was necessary due to the current global economic environment and inflationary pressures weighing on the entertainment sector, the company said Thursday.</p><p>Prices in the U.S. would not be affected, it added.</p><p>Japanese gamers will see the biggest price increases, with a roughly 20% jump, taking prices to ¥60,478 ($442). In Europe, a €50 price increase will take the console's price up 10% to €549.99 ($548).</p><p>Sony's cheaper, discless version of the console will get the same price rise, the company said.</p><p>Following a surge in demand for consoles and games during the Covid-19 pandemic, Sony's sales have slumped this year. Sales of PlayStation games fell 26% in the second quarter from a year ago, according to the company's earnings released last month.</p><p>Sony introduced the PlayStation 5 in 2020. In the fiscal year ended March 2022, Sony said it sold 11.5 million units of the machine, falling short of the previous target of 14.8 million.</p><p>In May, Sony's chief financial officer, Hiroki Totoki, said the company aimed to sell 18 million units of its PlayStation 5 in the current fiscal year, which ends in March 2023, down from a previous projection of 22.6 million. Demand is greater than what Sony can supply, he said.</p><p>Among other problems, Mr. Totoki cited Covid-19 restrictions in China, including a lockdown in Shanghai, that have made it hard for companies there to manufacture and ship parts used in games consoles.</p><p>The company and its rivals, including Nintendo Co. and Microsoft Corp., have been plagued by the global semiconductor shortage and global supply chain issues, leaving customers scrambling to get their hands on a limited number of machines with many being snapped up by resellers and advertised at inflated prices.</p><p>Write to Gareth Vipers at gareth.vipers@wsj.com</p><p>Sony Raises PlayStation 5 Prices by Up to 20% in Most Markets</p>",
+  "published": "2022-08-25T14:02:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1483,
+          "end": 1497
+        },
+        {
+          "start": 1495,
+          "end": 1510
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000007,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 7.1525574e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

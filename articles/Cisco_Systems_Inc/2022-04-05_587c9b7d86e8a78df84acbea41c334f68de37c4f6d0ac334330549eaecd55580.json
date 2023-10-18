@@ -1,0 +1,24 @@
+{
+  "_id": "587c9b7d86e8a78df84acbea41c334f68de37c4f6d0ac334330549eaecd55580",
+  "feed": "wall-street-journal",
+  "title": "Russian Cyberattacks Increase on Ukraine's Critical Infrastructure: Report; Microsoft, Cisco are helping Ukraine respond to March 28 hack on Ukrtelecom",
+  "text": "<p>Recent attacks aimed to disrupt critical services but didn't cause serious damage, he added.</p><p>Between March 23 and March 29, 65 cyberattacks occurred on Ukrainian critical infrastructure, which was five times more than in the previous week, the SSSCIP said in its latest report on cyber activity during the war. State and local authorities, Ukraine's security and defense sector, financial companies, telecoms and energy were the most targeted sectors, the agency said.</p><p>Experts at Ukrainian cybersecurity companies, Microsoft Corp. and Cisco Systems Inc. are investigating a March 28 cyberattack on Ukrtelecom PJSC and haven't yet attributed the attack to a particular hacker group, Kirill Goncharuk, the company's chief information officer, told reporters on Tuesday.</p><p>Hackers entered the internet service provider's network after compromising user credentials from an employee in a territory recently occupied by Russia, he said. Mr. Goncharuk declined to name the territory or provide further details about the employee, citing security reasons, and said the person is now safe. Ukrtelecom security experts detected the attack within 15 minutes after it was launched, he said.</p><p>Russian and Belarusian military hackers were behind most recent cyberattacks on Ukrainian organizations, the SSSCIP said. Mr. Zhora said Ukrainian authorities are gathering evidence on the cyberattacks that they will send to the International Criminal Court, along with proof of war crimes. \"It doesn't matter whether they're FSB or GRU originated,\" he said, referring to Russian intelligence authorities. \"Different [threat] groups can sit on the same floor in the same buildings,\" he said.</p><p>CERT-UA, Ukraine's cybersecurity emergency response unit, said Monday that it had detected a malicious email campaign mentioning the war in Ukraine that includes a file containing malware. The emails haven't compromised organizations in Ukraine, Mr. Zhora said. Authorities attributed the emails to a Russian hacker group known as Armageddon, he added.</p><p>Emails sent to Latvian authorities appeared to come from the same hacker group. They purported to contain information about humanitarian aid but included files with malware, he said.</p><p>Write to Catherine Stupp at Catherine.Stupp@wsj.com</p>",
+  "published": "2022-04-05T19:27:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 535,
+          "end": 553
+        },
+        {
+          "start": 87,
+          "end": 92
+        }
+      ]
+    }
+  ]
+}

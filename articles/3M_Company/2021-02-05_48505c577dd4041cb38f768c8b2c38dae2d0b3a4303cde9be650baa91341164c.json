@@ -1,0 +1,28 @@
+{
+  "_id": "48505c577dd4041cb38f768c8b2c38dae2d0b3a4303cde9be650baa91341164c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Millions Of Masks Seized Last Year",
+  "text": "<p>Other items intercepted included nearly 37,000 so-called antivirus lanyards touted to prevent Covid-19 infection and which contain substances prohibited by the Environmental Protection Agency, U.S. Customs and Border Protection said in an annual report on trade and travel.</p><p>\"What we are seeing is, no big surprise, a lot of counterfeits rolling through those supply chains,\" Brenda Smith, who heads CBP's Office of Trade, said in an interview.</p><p>China was the origin of 51% of the seizures, according to the report. The agency's 10,000 officers carried them out at more than 300 points of entry.</p><p>Counterfeit products are those that violate the copyrights of other companies. Such masks included fake products labeled as having been made by major producers such as 3M Co. or by luxury brands. Among the agency's recent seizures were 21 shipping boxes of masks labeled as 3M Mask Model 1860, seized in Cincinnati in December.</p><p>The shipment, which would have had a retail value of $65,520 had the masks been genuine, was determined to be counterfeit by CBP officials.</p><p>---</p><p>Alicia Caldwell contributed to this article.</p>",
+  "published": "2021-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "name": "3M Company",
+      "offsets": [
+        {
+          "start": 868,
+          "end": 870
+        },
+        {
+          "start": 762,
+          "end": 768
+        },
+        {
+          "start": 762,
+          "end": 764
+        }
+      ],
+      "nexusId": "10033670"
+    }
+  ]
+}

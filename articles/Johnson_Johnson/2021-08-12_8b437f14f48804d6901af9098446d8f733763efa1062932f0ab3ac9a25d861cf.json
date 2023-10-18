@@ -1,0 +1,24 @@
+{
+  "_id": "8b437f14f48804d6901af9098446d8f733763efa1062932f0ab3ac9a25d861cf",
+  "feed": "wall-street-journal",
+  "title": "World News: India Looks for Vaccines Abroad",
+  "text": "<p>Indian authorities are also in an advanced-stage of negotiations with Johnson &amp; Johnson, which has a deal with India-based Biological E. Ltd. to manufacture as many as 600 million doses, starting as soon as this month. The Indian company, however, doesn't have the rights to sell the doses.</p><p>On Saturday, J&amp;J's single-shot vaccine received emergency-use authorization in India, making it the fifth to win such approval in the country. A spokeswoman for the company declined to comment on the amount that is likely to be supplied to India.</p><p>\"Our intent is to have these three foreign vaccines in India as it reflects our faith in the international system and collaboration,\" said V.K. Paul, who leads the health team at the National Institution for Transforming India, a government think tank that has helped lead India's vaccination drive.</p><p>India's government has drafted a plan for securing as many as 1.35 billion doses between August and December through domestic manufacturers, including the Serum Institute of India and Bharat Biotech International Ltd.</p><p>The coronavirus pandemic has taken a devastating humanitarian and economic toll on India, which has struggled to ramp up its immunization program to protect its more than 1.3 billion people. A little more than 8% of the population had been fully vaccinated as of Sunday, while around 20% has received at least one dose, according to Our World in Data, an Oxford University project tracking the global vaccine rollout.</p><p>A surge of the virus in the spring has left many Indians with some level of natural immunity.</p><p>India's vaccination campaign has been hindered primarily by insufficient supplies, experts say. The country has been relying on domestic manufacturers, but problems, including shortages of raw materials, have slowed production.</p>",
+  "published": "2021-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 70,
+          "end": 87
+        },
+        {
+          "start": 304,
+          "end": 307
+        }
+      ]
+    }
+  ]
+}

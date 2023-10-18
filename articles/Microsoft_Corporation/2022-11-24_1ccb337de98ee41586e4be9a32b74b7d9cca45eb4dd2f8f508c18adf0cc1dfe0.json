@@ -1,0 +1,36 @@
+{
+  "_id": "1ccb337de98ee41586e4be9a32b74b7d9cca45eb4dd2f8f508c18adf0cc1dfe0",
+  "feed": "market-watch",
+  "title": "Activision stock falls after report of 'likely' FTC antitrust lawsuit against Microsoft acquisition",
+  "text": "<p>A Microsoft spokesman told Politico that the company \"is prepared to address the concerns of regulators, including the FTC, and Sony to ensure the deal closes with confidence.\" Activision shares fell 4.5% in after-hours trading, while Microsoft's stock increased slightly.</p><p>Activision stock falls after report of 'likely' FTC antitrust lawsuit against Microsoft acquisition</p>",
+  "published": "2022-11-24T00:02:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2,
+          "end": 11
+        },
+        {
+          "start": 78,
+          "end": 87
+        },
+        {
+          "start": 235,
+          "end": 244
+        },
+        {
+          "start": 235,
+          "end": 246
+        },
+        {
+          "start": 351,
+          "end": 360
+        }
+      ]
+    }
+  ]
+}

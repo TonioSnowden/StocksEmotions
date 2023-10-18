@@ -1,0 +1,74 @@
+{
+  "_id": "b9168a5b3dc8501dfeadd938e8c758007a47d66591eed6e483ec8cdb7eb81c0f",
+  "feed": "wall-street-journal",
+  "title": "Disney and Ron DeSantis Clash: What to Know About the New Florida Tax Bill; Florida's governor and lawmakers revoked the theme park's special tax status",
+  "text": "<p>In pushing for the law, Mr. DeSantis specifically cited the company's opposition to a separate bill—Florida's Parental Rights in Education bill—which the governor signed into law last month.</p><p>What does the Florida Parental Rights in Education law do?</p><p>That law bars classroom instruction on gender identity and sexual orientation for schoolchildren through grade three, and limits it for older students to material that is \"age appropriate.\"</p><p>Supporters of the legislation, passed earlier this month by the GOP-led legislature, say it is aimed at asserting more parental control over children's education and prohibiting inappropriate classroom instruction.</p><p>Opponents, including Democrats and civil-rights groups who call the measure the \"Don't Say Gay\" bill, say it will censor discussion about lesbian, gay, bisexual and transgender people and isolate LGBT children who are vulnerable to bullying.</p><p>What did Disney say about the Parental Rights in Education Law?</p><p>Disney Chief Executive Bob Chapek and Disney stayed silent on the bill until after the Florida state Senate voted for it on March 8. Soon after the vote, Mr. Chapek moved quickly to reassure angry employees who criticized the company for not taking a stand. Later, the company said the bill \"should never have been passed,\" and vowed to fight for its repeal and to fight other bills like it in other states.</p><p>What is Disney's special status in Florida?</p><p>Disney's special status treats their properties as a special tax district that has allowed the company to govern the land on which its theme parks sit.</p><p>The special district, created in 1967 and known as the Reedy Creek Improvement District, exempts Disney from numerous regulations and certain taxes and fees. It has permitted the company to manage its theme parks and resorts in the state with little red tape for more than 50 years.</p><p>What are its benefits for Disney?</p><p>The provision exempts the company from a host of regulations, and saves it tens of millions of dollars every year, according to a person familiar with the company's finances who studied the issue over a decade ago.</p><p>What is the Reedy Creek Improvement District?</p><p>Reedy Creek's two residential communities, Bay Lake and Lake Buena Vista, have about 50 permanent residents in total, most of them Disney employees. As primary landowner in the district, Disney controls most of the votes to elect Reedy Creek's board of supervisors, giving the company strong influence over any vote within the community.</p><p>How has Disney responded to losing its self-governing privileges?</p><p>Disney declined to comment on the bill. A representative of Reedy Creek didn't reply to messages seeking comment.</p><p>What are the challenges ahead for implementing the bill?</p><p>On April 21, the Reedy Creek Improvement District—which is the issuer of nearly $1 billion in outstanding bonds—posted a letter to bondholders on the website of a regulatory body that monitors municipal debt saying that the bill to end the district couldn't be implemented until all outstanding bonds were discharged. Democratic state Sen. Gary Farmer said the issue presented a potential legal roadblock for the legislation. A representative of Reedy Creek didn't respond to requests for comment.</p><p>Jeff Brandes, a Republican state senator from St. Petersburg who has opposed Mr. DeSantis in the past and voted against the Disney bill, predicted that legal challenges by Disney will delay the implementation of the special district's bill by a year or more, but said the company could accrue goodwill with the governor and work out ways to soften the impact of losing the district by avoiding public statements challenging Mr. DeSantis in the future.</p><p>This explanatory article may be periodically updated.</p><p>Write to Anthony DeRosa at anthony.derosa@wsj.com</p>",
+  "published": "2022-04-27T20:27:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 3340,
+          "end": 3346
+        },
+        {
+          "start": 1377,
+          "end": 1383
+        },
+        {
+          "start": 2547,
+          "end": 2553
+        },
+        {
+          "start": 1874,
+          "end": 1880
+        },
+        {
+          "start": 961,
+          "end": 967
+        },
+        {
+          "start": 2489,
+          "end": 2495
+        },
+        {
+          "start": 3388,
+          "end": 3394
+        },
+        {
+          "start": 906,
+          "end": 912
+        },
+        {
+          "start": 999,
+          "end": 1005
+        },
+        {
+          "start": 2274,
+          "end": 2280
+        },
+        {
+          "start": 2330,
+          "end": 2336
+        },
+        {
+          "start": 1413,
+          "end": 1419
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.000233,
+        "baseWeight": 12.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00023245811,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

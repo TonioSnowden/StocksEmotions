@@ -1,0 +1,56 @@
+{
+  "_id": "2fecdc03f9df5d2ab2b51fa83f4117ce727e7c89dc4a4732ffc37d3d5573a5b0",
+  "feed": "wall-street-journal",
+  "title": "Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power; The four tech giants increasingly dominate the internet's critical cable infrastructure",
+  "text": "<p>Fiber-optic cable, which carries 95% of the world's international internet traffic, links up pretty much all of the world's data centers, those vast server warehouses where the computing happens that transforms all those 1s and 0s into our experience of the internet.</p><p>Where those fiber-optic connections link up countries across the oceans, they consist almost entirely of cables running underwater—some 1.3 million kilometers (or more than 800,000 miles) of bundled glass threads that make up the actual, physical international internet. And until recently, the overwhelming majority of the undersea fiber-optic cable being installed was controlled and used by telecommunications companies and governments. Today, that's no longer the case.</p><p>In less than a decade, four tech giants—Microsoft, Google parent Alphabet, Meta (formerly Facebook) and Amazon—have become by far the dominant users of undersea-cable capacity. Before 2012, the share of the world's undersea fiber-optic capacity being used by those companies was less than 10%. Today, that figure is about 66%.</p><p>And these four are just getting started, say analysts, submarine cable engineers and the companies themselves. In the next three years, they are on track to become primary financiers and owners of the web of undersea internet cables connecting the richest and most bandwidth-hungry countries on the shores of both the Atlantic and the Pacific, according to subsea cable analysis firm TeleGeography.</p><p>By 2024, the four are projected to collectively have an ownership stake in more than 30 long-distance undersea cables, each up to thousands of miles long, connecting every continent on the globe save Antarctica. In 2010, these companies had an ownership stake in only one such cable—the Unity cable partly owned by Google, connecting Japan and the U.S.</p><p>Traditional telecom companies have responded with suspicion and even hostility to tech companies' increasingly rapacious demand for the world's bandwidth. Industry analysts have raised concerns about whether we want the world's most powerful providers of internet services and marketplaces to also own the infrastructure on which they are all delivered. This concern is understandable. Imagine if Amazon owned the roads on which it delivers packages.</p><p>But the involvement of these companies in the cable-laying industry also has driven down the cost of transmitting data across oceans for everyone, even their competitors, and helped the world increase capacity to transmit data internationally by 41% in 2020 alone, according to TeleGeography's annual report on submarine cable infrastructure.</p><p>Undersea cables can cost hundreds of millions of dollars each. Installing and maintaining them requires a small fleet of ships, from surveying vessels to specialized cable-laying ships that deploy all manner of rugged undersea technology to bury cables beneath the seabed. At times they must lay the relatively fragile cable—at some points as thin as a garden hose—at depths of up to 4 miles.</p><p>All of this must be done while maintaining the right amount of tension in the cables, and avoiding hazards as varied as undersea mountains, oil-and-gas pipelines, high-voltage transmission lines for offshore wind farms, and even shipwrecks and unexploded bombs, says Howard Kidorf, a managing partner at Pioneer Consulting, which helps companies engineer and build undersea fiber optic cable systems.</p><p>In the past, trans-oceanic cable-laying often required the resources of governments and their national telecom companies. That's all but pocket change to today's tech titans. Combined, Microsoft, Alphabet, Meta and Amazon poured more than $90 billion into capital expenditures in 2020 alone.</p><p>The four say they're laying all this cable in order to increase bandwidth across the most developed parts of the world and to bring better connectivity to under-served regions like Africa and Southeast Asia.</p><p>That's not the whole story. Their entry into the undersea fiber-laying business was inspired by the growing cost of buying capacity on cables owned by others, but is now driven by their own insatiable demand for ever more terabytes of bandwidth, says Timothy Stronge, vice president of research at TeleGeography. This has made profits razor-thin for traditional players in the cable-laying industry, like NEC, ASN and SubCom, he adds. (It has done the same to profits of wholesalers of capacity on submarine cables, such as Tata and Lumen.)</p><p>By building their own cables, the tech giants are saving themselves money over time that they would have to pay other cable operators. That means the tech companies don't need to operate their cables at a profit for the investment to make financial sense.</p><p>Indeed, most of these Big Tech-funded cables are collaborations among rivals. The Marea cable, for example, which stretches approximately 4,100 miles between Virginia Beach in the U.S. and Bilbao, Spain, was completed in 2017 and is partly owned by Microsoft, Meta and Telxius, a subsidiary of Telefónica, the Spanish telecom. In 2019, Telxius announced that Amazon had signed an agreement with the company to use one of the eight pairs of fiber optic strands in that cable. In theory, that represents one eighth of its 200 terabits-per-second capacity—enough to stream millions of HD movies simultaneously.</p><p>Meta works with global and local partners on all of its submarine cables, as well as with other big tech companies such as Microsoft, says Kevin Salvadori, vice president of network infrastructure at the company.</p><p>Sharing bandwidth among competitors helps ensure that each company has capacity on more cables, redundancy that is essential for keeping the world's internet humming when a cable is severed or damaged. That happens around 200 times a year, according to the International Cable Protection Committee, a nonprofit group. (Repairing damaged cables can be a huge effort requiring the same ships that laid the cable, and can take weeks.)</p><p>Sharing cables with ostensible competitors—as Microsoft does with its Marea cable—is key to making sure its cloud services are available almost all of the time, something Microsoft and other cloud providers explicitly promise in their agreements with customers, says Frank Rey, senior director of Azure network infrastructure at Microsoft.</p><p>But the structure of these deals also serves another purpose. Reserving some capacity for telecom carriers like Telxius is also a way to keep regulators from getting the idea that these American tech companies are themselves telecoms, says Mr. Stronge. Tech companies have spent decades arguing in the press and in court that they are not \"common carriers\" like telcos—if they were, it would expose them to thousands of pages of regulations particular to that status.</p><p>\"We're not a carrier—we don't sell any of our bandwidth to make money,\" says Mr. Salvadori. \"We are and continue to be a major buyer of submarine capacity where it's available, but in places it's not available and we need it, we are pretty pragmatic, and if we have to invest to make it happen we'll go do that,\" he adds.</p><p>There is an exception to big tech companies collaborating with rivals on the underwater infrastructure of the internet. Google, alone among big tech companies, is already the sole owner of three different undersea cables, and that total is projected by TeleGeography to reach six by 2023.</p><p>Google declined to disclose whether or not it has or will share capacity on any of those cables with any other company.</p><p>Google has built and is building these solely owned-and-operated cables for two reasons, says Vijay Vusirikala, a senior director at Google responsible for all of the company's submarine and terrestrial fiber infrastructure. The first is that the company needs them in order to make its own services, such as Google search and YouTube streaming, fast and responsive. The second is to gain an edge in the battle for customers for its cloud services.</p><p>All of these ownership changes to the infrastructure of the internet are a reflection of what we already know about the dominance of internet platforms by big tech, says Joshua Meltzer, a senior fellow at the Brookings Institution who specializes in digital trade and data flows.</p><p>The ability of these companies to vertically integrate all the way down to the level of the physical infrastructure of the internet itself reduces their cost for delivering everything from Google Search and Facebook's social networking services to Amazon and Microsoft's cloud services. It also widens the moat between themselves and any potential competitors.</p><p>\"You have to imagine this investment will ultimately make them more dominant in their industries, because they can provide services at ever-lower costs,\" says Mr. Meltzer.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Christopher Mims at christopher.mims@wsj.com</p><p>Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power</p>",
+  "published": "2022-01-15T05:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 4955,
+          "end": 4964
+        },
+        {
+          "start": 5437,
+          "end": 5446
+        },
+        {
+          "start": 3594,
+          "end": 3603
+        },
+        {
+          "start": 6130,
+          "end": 6139
+        },
+        {
+          "start": 6005,
+          "end": 6014
+        },
+        {
+          "start": 6288,
+          "end": 6297
+        },
+        {
+          "start": 25,
+          "end": 34
+        },
+        {
+          "start": 8486,
+          "end": 8495
+        },
+        {
+          "start": 8939,
+          "end": 8948
+        },
+        {
+          "start": 8486,
+          "end": 8497
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

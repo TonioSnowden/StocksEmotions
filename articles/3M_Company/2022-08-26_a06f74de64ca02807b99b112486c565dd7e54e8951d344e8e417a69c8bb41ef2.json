@@ -1,0 +1,46 @@
+{
+  "_id": "a06f74de64ca02807b99b112486c565dd7e54e8951d344e8e417a69c8bb41ef2",
+  "feed": "wall-street-journal",
+  "title": "3M Is Denied Bankruptcy Shield Against Mass Earplug Claims; A bankruptcy judge won't extend to 3M the same protection against earplug-injury claims that its Aearo subsidiary gained by filing chapter 11",
+  "text": "<p>The judge's ruling denied 3M's attempt to shift the earplug lawsuits to bankruptcy court to drive a settlement of allegations the product was defective and left U.S. military veterans with lasting hearing damage.</p><p>3M didn't immediately respond to a request for comment. It has denied that the earplugs are unsafe and said bankruptcy offers the best forum to resolve its earplug liabilities.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com</p>",
+  "published": "2022-08-26T19:11:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 2
+        },
+        {
+          "start": 26,
+          "end": 28
+        },
+        {
+          "start": 95,
+          "end": 97
+        },
+        {
+          "start": 212,
+          "end": 214
+        },
+        {
+          "start": 213,
+          "end": 215
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

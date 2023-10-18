@@ -1,0 +1,60 @@
+{
+  "_id": "6db9c629b9e525d4bc8e5fbfa09d2ee8fc4920153a58445dea2796c81e81e6e7",
+  "feed": "market-watch",
+  "title": "Microsoft warns cloud customers of flaw that may have exposed databases: report",
+  "text": "<p>Reuters reported that Microsoft MSFT warned of a major flaw in its flagship Azure Cosmos DB database service, which could allow hackers to read, change or delete data. The vulnerability was discovered by cybersecurity company Wiz, whose chief technology officer used to be CTO for Microsoft's cloud security unit. Microsoft agreed to pay Wiz $40,000 for reporting the flaw, Reuters reported, citing an email.</p><p>Reuters said it obtained the email Microsoft sent to its cloud customers, which reportedly said the vulnerability has been repaired and that there was no evidence it had been exploited.</p><p>The vulnerability centered around security keys that control access to companies' databases; Microsoft reportedly told thousands of its customers to create new keys, so that any keys obtained by hackers would become useless.</p><p>After the Reuters report was published, Wiz published a blog post detailing how they found the flaw.</p><p>“We were able to gain&#xa0;complete unrestricted access to the accounts and databases of several thousand Microsoft Azure customers, including many Fortune 500 companies,” Wiz security researchers Nir Ohfeld and Sagi Tzadik wrote.</p><p>They praised Microsoft for its quick response, noting the flaw was fixed within 48 hours of it being reported, but warned that not every Cosmos DB customer may have been notified about the vulnerability.</p><p>&#xa0;“We believe many more Cosmos DB customers may be at risk,” the Wiz researchers said. “Every Cosmos DB account that uses the notebook feature or that was created after February 2021 is potentially exposed. As a precaution, we urge every Cosmos DB customer to take steps to protect their information.”</p><p>Microsoft, whose software runs most of the world's computers, is a frequent target of cybercriminals. Late last year, Microsoft said it was breached as part of the massive SolarWinds hack, and said hackers had viewed some of its source code. A hack of its Exchange email server software compromised tens of thousands of computers earlier this year.</p>",
+  "published": "2021-08-26T23:45:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 688,
+          "end": 697
+        },
+        {
+          "start": 1160,
+          "end": 1169
+        },
+        {
+          "start": 281,
+          "end": 290
+        },
+        {
+          "start": 314,
+          "end": 323
+        },
+        {
+          "start": 22,
+          "end": 31
+        },
+        {
+          "start": 1770,
+          "end": 1779
+        },
+        {
+          "start": 444,
+          "end": 453
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 1022,
+          "end": 1037
+        },
+        {
+          "start": 1652,
+          "end": 1661
+        },
+        {
+          "start": 281,
+          "end": 292
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

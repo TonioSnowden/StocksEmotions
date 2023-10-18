@@ -1,0 +1,24 @@
+{
+  "_id": "9d46a2573f3bd3808fe39a8daf4717f99d2143889b82236818872c997089dbb4",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>Quotes attributed to Salesforce.com CEO Marc Benioff in a Heard on the Street column Friday about the company took place during Salesforce's first-quarter conference call in May. The column incorrectly attributed the quotes to the company's second-quarter call on Wednesday.</p><p>WeWork had $215 million in revenue in July, up from $209 million in June. A Property Report article on Wednesday about shared office spaces incorrectly said WeWork's revenue in July was up $209 million from June.</p><p>Readers can alert The Wall Street Journal to any errors in news articles by emailing wsjcontact@wsj.com or by calling 888-410-2667.</p><p>Corrections &amp; Amplifications</p>",
+  "published": "2021-08-27T23:32:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 128,
+          "end": 138
+        },
+        {
+          "start": 21,
+          "end": 35
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

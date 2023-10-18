@@ -1,0 +1,80 @@
+{
+  "_id": "87ea5dad2828afa90c9a93ae7401975848d507de5a109603c60864a0e8f6c183",
+  "feed": "ftcomall",
+  "title": "China's tech giants test way around Apple's new privacy rules",
+  "text": "<p>Some of China's biggest technology companies, including ByteDance and Tencent, are testing a tool to bypass <a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple</a>'s new privacy rules and continue tracking iPhone users without their consent to serve them targeted mobile advertisements. </p> <p>Apple is expected in the coming weeks to roll out changes it announced last June to iPhones that it says will give users more privacy. Until now, apps have been able to rely on Apple's IDFA system to see who clicks on ads and which apps are downloaded. </p> <p>In future, they will have to ask permission to gather tracking data, a change which is expected to deal a multibillion-dollar bombshell to the online advertising industry, and has been <a href=\"https://www.ft.com/content/1a72d3d7-f2ec-4bb1-9f61-d65afba41821\">fought by Facebook</a>, since most users are expected to decline to be tracked. </p> <p>In response, the state-backed China Advertising Association, which has 2,000 members, has launched a new way to track and identify iPhone users called CAID, which is being widely tested by tech companies and advertisers in the country. </p> <p>ByteDance, the owner of the social video app TikTok, referred to CAID in an 11-page guide to app developers obtained by the Financial Times, suggesting that advertisers “can use the CAID as a substitute if the user's IDFA is unavailable”.</p> <p>People close to Tencent and ByteDance confirmed the companies were testing the system, but both companies declined to comment. </p> <p>Several efforts are under way to <a href=\"https://www.ft.com/content/7993a56e-a408-44b5-8bda-e31bccee5808\">get around </a>Apple's rules, but CAID is the biggest challenge to them yet, and the iPhone maker declined to comment directly on it. But in a move that sets the stage for a major confrontation, Apple denied that it would grant any exceptions. </p> <p>“The App Store terms and guidelines apply equally to all developers around the world, including Apple,” the company said. “We believe strongly that users should be asked for their permission before being tracked. Apps that are found to disregard the user's choice will be rejected.”</p> <p>One person familiar with the situation said Apple would be able to detect which apps use the new tool and block them from its App Store in China, if it wanted to. </p> <p>But Zach Edwards, founder of Victory Medium, a tech consultancy, said: “They can't ban every app in China. If they did it would effectively trigger a series of actions that would get Apple kicked out of China.”</p> <p>Three people with knowledge of briefings between Apple and developers also said the Cupertino, California-based company would be wary of taking strong action, despite a clear violation of its <a href=\"https://developer.apple.com/app-store/user-privacy-and-data-use/\">stated rules</a>, if CAID has the support of China's tech giants as well as its government agencies. </p> <p>Rich Bishop, chief executive of AppInChina, a leading publisher of international software in China, suggested that Apple might “make an exception for China” because tech companies and the government are “so closely aligned”. </p> <p>Meanwhile, Yang Congan, chief executive of Digital Union, a Beijing-based data privacy company, suggested that CAID had been designed to get around Apple's rules because its tracking methods might not “uniquely” identify the user. “This is the room that the industry has left to explore,” said Yang, who suggested this grey area was intentional.</p> <p>The CAA said the CAID solution “does not stand in opposition to Apple's privacy policy” and that the association “is currently actively communicating with Apple, and the [CAID] solution has not yet been formally implemented”.</p> <p>CAID has been in a free demo phase for select companies in recent months. Two people briefed on the issue say Apple is aware of the tool and seems to have so far turned a blind eye to its use.</p> <p>The system is intended for use by local app developers in China, but at least one French gaming group has been encouraged to apply to use it and several foreign advertising companies have already applied on behalf of their Chinese divisions, two people familiar with the matter said. CAID is scheduled to be publicly released as soon as this week, according to a person briefed on the plan.</p> <p>Dina Srinivasan, a US-based antitrust scholar, said the issue highlighted how Apple's policies alone could not solve glaring privacy issues.</p> <p>“The big picture is that there is simply too much money at stake,” she said. “There will always be an arms race to track consumers. Only legislation can make it stop.”</p><p>Source: Patrick McGee in San Francisco and Yuan Yang in Beijing 2021 'China's tech giants test way around Apple's new privacy rules' FT.com 16 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-16T00:01:06.707Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3207,
+          "end": 3212
+        },
+        {
+          "start": 108,
+          "end": 113
+        },
+        {
+          "start": 36,
+          "end": 41
+        },
+        {
+          "start": 3479,
+          "end": 3484
+        },
+        {
+          "start": 2687,
+          "end": 2692
+        },
+        {
+          "start": 1953,
+          "end": 1958
+        },
+        {
+          "start": 414,
+          "end": 419
+        },
+        {
+          "start": 3298,
+          "end": 3303
+        },
+        {
+          "start": 1577,
+          "end": 1582
+        },
+        {
+          "start": 237,
+          "end": 242
+        },
+        {
+          "start": 1397,
+          "end": 1402
+        },
+        {
+          "start": 1722,
+          "end": 1727
+        },
+        {
+          "start": 2332,
+          "end": 2337
+        },
+        {
+          "start": 2255,
+          "end": 2260
+        },
+        {
+          "start": 4031,
+          "end": 4036
+        },
+        {
+          "start": 2945,
+          "end": 2950
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

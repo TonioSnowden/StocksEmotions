@@ -1,0 +1,96 @@
+{
+  "_id": "5825fbb5f1d3f7ca99c9ef5d7fd9dcb8bccd9895313f436d3be88bceedb726d6",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Microsoft Discloses Customer Hack  ---  Worker's computer  compromised by  SolarWinds hackers,  the company says  ----  By Robert McMillan",
+  "text": "<p>    Microsoft Corp. said hackers, linked by U.S. authorities to Russia's Foreign Intelligence Service, installed malicious information-stealing software on one of its systems and used information gleaned there to attack its customers. </p><p>   The hackers compromised a computer used by a Microsoft customer-support employee that could have provided access to different types of information, including \"metadata\" of accounts and billing contact information for the organization, a Microsoft spokesman said. </p><p>   Microsoft is aware of three customers that were affected by the recent activity, the company said in a blog post. \"The actor used this information in some cases to launch highly-targeted attacks as part of their broader campaign,\" Microsoft said. \"We responded quickly, removed the access and secured the device.\" </p><p>   The incident was part of a campaign -- which involved other hacking techniques beyond leveraging the information taken from its support system -- that primarily targeted technology companies and government agencies in 36 countries. </p><p>   Most of the attacks were unsuccessful, but three of Microsoft's customers were compromised during the campaign, the company said. \"We have confirmed that two of the compromises were unrelated to the support agent issue, and are continuing to investigate the third instance,\" a Microsoft spokesman said. </p><p>   Microsoft identified the hackers behind the break-in as Nobelium, the same group associated with the sophisticated hack at Austin, Texas, software maker SolarWinds Corp. U.S. authorities have said this group is part of Russia's Foreign Intelligence Service, known as the SVR. Russia has denied involvement in the SolarWinds hack. A Russian embassy representative didn't return a message seeking comment on Microsoft's post. </p><p>   The incident marks the second time in recent months that Russia-linked hackers have breached Microsoft's networks. In December, Microsoft said Nobelium hackers broke into the company's networks to view internal source code, used to build software products. </p><p>   The U.S. Cybersecurity and Infrastructure Security Agency is \"aware of this activity and is working with Microsoft and our interagency partners to evaluate the impact,\" said a spokesman for the Department of Homeland Security, which oversees the agency. \"We stand ready to assist any affected entities.\" He declined to say whether government agencies were hit by the hack. </p><p>   The breaches at Microsoft and SolarWinds have raised concerns among government and industry security professionals that Russian hackers are engaged in a longstanding and concerted effort to break into U.S. technology companies and use them as a back door into government and commercial targets, a tactic known as a \"supply-chain attack.\" </p><p>   About 100 companies and at least nine government agencies are known to have been compromised during the SolarWinds attack, which went undetected for months before it was discovered this past fall. </p><p>   \"The latest cyberattack reported by Microsoft does not involve our company or our customers in any way,\" a SolarWinds spokesman said. </p><p>   In April, the Biden administration unveiled a series of sanctions against Russia citing, among other things, the SolarWinds cyberattack. Russia has denounced the sanctions. </p><p>   Since then, the Russian-linked hackers have made it clear that they intend to continue their activity. In May, Microsoft said it discovered that the hackers were involved in a phishing campaign that targeted 3,000 email accounts belonging to workers at more than 150 organizations. </p><p></p>",
+  "published": "2021-06-28T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3350,
+          "end": 3359
+        },
+        {
+          "start": 2413,
+          "end": 2422
+        },
+        {
+          "start": 2968,
+          "end": 2977
+        },
+        {
+          "start": 1860,
+          "end": 1869
+        },
+        {
+          "start": 494,
+          "end": 503
+        },
+        {
+          "start": 1317,
+          "end": 1326
+        },
+        {
+          "start": 1895,
+          "end": 1904
+        },
+        {
+          "start": 1343,
+          "end": 1352
+        },
+        {
+          "start": 468,
+          "end": 477
+        },
+        {
+          "start": 2129,
+          "end": 2138
+        },
+        {
+          "start": 1860,
+          "end": 1871
+        },
+        {
+          "start": 12,
+          "end": 21
+        },
+        {
+          "start": 276,
+          "end": 285
+        },
+        {
+          "start": 1092,
+          "end": 1103
+        },
+        {
+          "start": 1749,
+          "end": 1760
+        },
+        {
+          "start": 725,
+          "end": 734
+        },
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 1092,
+          "end": 1101
+        },
+        {
+          "start": 1749,
+          "end": 1758
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

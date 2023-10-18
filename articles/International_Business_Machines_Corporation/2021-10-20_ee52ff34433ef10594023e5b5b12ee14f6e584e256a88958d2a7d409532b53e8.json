@@ -1,0 +1,40 @@
+{
+  "_id": "ee52ff34433ef10594023e5b5b12ee14f6e584e256a88958d2a7d409532b53e8",
+  "feed": "market-watch",
+  "title": "IBM stock drops after revenue miss, in-line earnings",
+  "text": "<p>IBM IBM shares dropped as much as 5% after hours, following a less than 0.1% decline in the regular session to close at $141.90. It finished the extended session down 4.2%.</p><p>Prior to the earnings report, analysts were concerned that the spinoff of Kyndryl would cause “disruptions” as long-term contracts got split or renegotiated.</p><p>On the conference call, Arvind Krishna, IBM's chairman and chief executive, discouraged analysts from using of the word “disruption” and stressed that he would characterize the transition as resulting in a “slight pause.”</p><p>“I think there's a slight pause, and it'll be the end of third quarter, maybe the beginning of fourth quarter,” Krishna said. “And we see that pause mostly in hardware and in Kyndryl itself.”</p><p>“I am completely confident that this will be well behind us by the beginning of 2022, meaning by January, well behind us. And as we also get into a new product cycle on some of the hardware in the first half of 2022, I think it'll put it completely behind us.”</p><p>The company reported third-quarter net income of $1.13 billion, or $1.25 a share, compared with $1.7 billion, or $1.89 a share, in the year-ago period. Adjusted earnings, which exclude stock-based compensation expenses and other items, were $2.52 a share, compared with $2.58 a share in the year-ago period.</p><p>While earnings were in-line with the Wall Street's consensus, revenue wasn't. Revenue rose to $17.62 billion from $17.56 billion in the year-ago quarter. Analysts had estimated earnings of $2.52 a share and a revenue of $17.79 billion.</p><p>IBM reported Cloud and Cognitive Software revenue of $5.69 billion, Global Business Services revenue of $4.43 billion, Global Technology Services revenue of $6.15 billion, and Systems revenue of $1.1 billion.</p><p>Analysts expected Cloud and Cognitive Software revenue of $5.77 billion, Global Business Services revenue of $4.29 billion, Global Technology Services revenue of $6.26 billion, and Systems revenue of $1.23 billion.</p><p>IBM plans to change how it reports its businesses following the spinoff of Kyndryl. Under the new scheme, Consulting will replace “Global Business Services,” Software will replace “Cloud and Cognitive software,” and Infrastructure will replace “Systems” along with those parts of “Global Technology Services” that aren't included with the Kyndryl spinoff. IBM said Kyndryl will be classified as “discontinued operations,” and the remaining company's reporting will focus on “Continuing Operations.”</p>",
+  "published": "2021-10-20T23:49:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 1550,
+          "end": 1553
+        },
+        {
+          "start": 1974,
+          "end": 1977
+        },
+        {
+          "start": 371,
+          "end": 374
+        },
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 2330,
+          "end": 2333
+        },
+        {
+          "start": 4,
+          "end": 7
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

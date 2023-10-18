@@ -1,0 +1,42 @@
+{
+  "_id": "3d9484a88477ce4059e185060b3ff30e67ae51b6166fb5f8ba25f01f51b57172",
+  "feed": "wall-street-journal",
+  "title": "Ocean Shipping Rates Plunged 60% This Year",
+  "text": "<p>Market conditions have made a sharp reversal from earlier in the pandemic. Freight rates jumped roughly 10-fold in 2021 because supply-chain disruptions, port backlogs and a surge of cargo left importers scrambling for space on box ships. Some big retailers such as Walmart Inc. chartered vessels to get around bottlenecks last year.</p><p>This year, Walmart and other retailers ended up with too much inventory after they raced to import goods earlier than usual, anticipating shipping delays and demand that didn't materialize. Manufacturers, too, moved goods earlier than usual. Apparel sellers such as Gap Inc. and toy makers including Hasbro Inc. reported spring surges in inventory levels that normally occur closer to the holidays.</p><p>\"For spot rates, the party is over,\" said Jonathan Roach, a container shipping analyst at London-based Braemar. \"The backdrop of a potential global recession, driven by surging energy prices and rapid inflation, is driving down the market. The pandemic boom in demand for consumer products has calmed and spending on travel, leisure, and services made a revival in 2021.\"</p><p>Shipping rates are set to further ease for the remainder of the year and in 2023, according to shipowners and analysts. A series of new ships will hit the water over the next two years with net fleet growth expected to exceed 9% next year and in 2024. By comparison, container volume growth will be marginally negative next year and rise around 2% in 2024, according to Braemar.</p><p>Best Buy Co. Chief Executive Corie Barry said in an earnings call last Tuesday that freight-transportation cost pressures are easing. She said the electronics retailer, whose sales are shrinking, is finding it easier to get freight space on ships and trucks.</p><p>\"This is really a nonpeak season because for the first time ever, volumes moved in the second half are lower than those moved in the first half,\" said Peter Sand, chief analyst at maritime-data provider Xeneta. \"There is a lot of uncertainty given the continued war in Ukraine and the global economic downturn.\"</p><p>Spot-market container shipping rates declined so rapidly, Xeneta said in a report in August, that the prices have come closer to long-term contract prices, which traditionally come at a discount, and were below contract rates in some markets. Most major importers such as Walmart move their cargo through long-term contracts rather than paying spot prices.</p><p>The 10 largest liners have been enjoying bumper profits over the past two years. Recent quarterly earnings at industry bellwether A.P. Moeller-Maersk AS were $8.59 billion, surpassing what it normally makes in an entire year.</p><p>But many companies warned of weakening market conditions in the second half of 2022.</p><p>\"We need to pay close attention to the impact of inflation on consumer demand and behavior,\" said China Cosco Shipping Corp., which runs the world's fourth-largest box ship fleet, in its first-half report last Wednesday. \"Combined with the changes in the delivery of new vessels, the supply side of the industry will face a new situation.\"</p><p>Shipping executives and analysts said they don't expect freight rates to return to prepandemic levels, in part because of higher fuel costs. In 2019, the average cost to send a container across the Pacific to the U.S. West Coast was $1,500.</p><p>---</p><p>Liz Young contributed to this article.</p>",
+  "published": "2022-09-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 342,
+          "end": 349
+        },
+        {
+          "start": 266,
+          "end": 278
+        },
+        {
+          "start": 2310,
+          "end": 2317
+        },
+        {
+          "start": 264,
+          "end": 276
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.133216,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.13321602,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

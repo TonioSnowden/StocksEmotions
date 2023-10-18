@@ -1,0 +1,20 @@
+{
+  "_id": "cef7cac8e929efba84feea3782caa3f5312f96aad311f66f043acc882eba7ad2",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Facebook's WhatsApp said it would extend encryption on the messaging service to backups of chats shared on the platform when they are stored on Apple and Google's cloud services.</p><p>Bank of America said it is installing new finance, technology and legal chiefs and adding three women to its senior ranks.</p><p>Brian Robbins, the head of ViacomCBS's Nickelodeon, is expected to take over as chairman and CEO of the company's Paramount movie studio.</p><p>Yahoo said it named digital-media veteran Jim Lanzone as its new chief executive.</p><p>Disney said the remainder of its films set to be released this year will be shown exclusively in theaters first.</p><p>UPS is getting into same-day delivery with a deal to buy Roadie.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-09-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 144,
+          "end": 149
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

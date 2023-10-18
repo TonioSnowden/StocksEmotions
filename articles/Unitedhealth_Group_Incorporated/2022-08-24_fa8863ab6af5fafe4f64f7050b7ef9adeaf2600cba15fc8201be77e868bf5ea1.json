@@ -1,0 +1,90 @@
+{
+  "_id": "fa8863ab6af5fafe4f64f7050b7ef9adeaf2600cba15fc8201be77e868bf5ea1",
+  "feed": "wall-street-journal",
+  "title": "UnitedHealth CFO Added to Lawsuit Over 401(k) Offerings; John Rex was added to class-action litigation that was originally filed in 2021 on behalf of retirement plan participants",
+  "text": "<p>The Minnetonka, Minn.-based company's 401(k) plan covers around 200,000 current and former employees and their beneficiaries, according to court records. Ms. Snyder first submitted the class-action suit in April 2021 on behalf of herself and other plan participants against the company, its board of directors and members of the company's investment committee, which is tasked with reviewing investment options under the plan.</p><p>The individuals breached their fiduciary duties under the Employee Retirement Income Security Act—a federal law establishing minimum requirements for retirement plans—by continuing to offer target-date funds managed by Wells Fargo Asset Management, Ms. Snyder alleges. UnitedHealth designated these target-date funds as the default option for participants of the plan, the lawsuit said. The funds, Ms. Snyder claimed, underperformed six different benchmarks, including corresponding funds at Vanguard Group, State Street Corp. and Fidelity Investments, over the course of an 11-year period that ended in 2021. From 2011 through 2015, plan participants lost over $100 million in retirement savings, according to the lawsuit.</p><p>UnitedHealth on Wednesday pushed back on the claims against Mr. Rex. \"Enterprising lawyers may choose to pursue baseless claims, but nothing in the law supports using hindsight and apples-to-oranges comparisons to question good faith investment decisions made in the best interests of retirement plan participants,\" the company said. \"There is no basis for adding our CFO as an individual defendant, and the allegations against him are completely without merit.\"</p><p>Wells Fargo declined to comment.</p><p>The lawsuit claims Mr. Rex, who has been UnitedHealth's CFO since 2016, overruled a plan to remove the Wells Fargo target funds, despite recommendations from an independent investment consultant and the company's investment committee to do so. The investment committee, following a nearly two-year analysis, ranked the Wells Fargo target funds as lower than all alternatives that were under consideration then, according to the complaint.</p><p>Mr. Rex became part of the company's investment committee in early 2017, according to the amended complaint. The plan to remove the target funds was abandoned after he joined the committee, the suit alleged.</p><p>Wells Fargo in February 2021 said it agreed to sell its Wells Fargo Asset Management unit to private-equity firms GTCR LLC and Reverence Capital Partners LP for $2.1 billion. UnitedHealth afterward removed the target funds from its retirement plan, according to the amended complaint.</p><p>Wells Fargo has served as a bookrunner on 10 of UnitedHealth's 18 corporate bond offerings since 2011, according to Refinitiv. It has additionally been a joint lead arranger, joint bookrunner, syndication agent and documentation agent on various credit facilities, Refinitiv said.</p><p>UnitedHealth said in June 2021 court filings that its 401(k) plan increased retirement savings by billions of dollars over the period in question and that the plan's fiduciaries scrutinized the target-date strategy. In December, a federal court in Minnesota declined to dismiss the case, paving the way for a trial that is proposed to begin in early 2024. UnitedHealth in January agreed the case would move forward as a class action, which the court has said covers \"thousands\" of plan participants.</p><p>Lawsuits alleging mismanagement of employee-sponsored retirement plans have gone up in recent years. Forty-two such lawsuits were filed in 2021, according to Goodwin Procter LLP, a law firm. That is down from a high of 107 in 2020, but up from 2019, when 33 lawsuits were brought, the firm said.</p><p>The claims have evolved over the years from allegations about excessive plan fees to imprudence by those who manage them, said Martin Moderson, a partner at law firm Dentons.</p><p>In one case, the U.S. Supreme Court in January revived current and former employees' claims that Northwestern University officials violated their duties related to investment options for plan participants.</p><p>Because of recent litigation developments, governance processes around plans have improved and investment committees have developed a better understanding of the investment products, according to Mr. Moderson. Still, there will likely be future litigation, he said. \"Almost no plan is safe from the threat of a lawsuit,\" he said.</p><p>Ms. Snyder said in the court filing Wednesday that she seeks a ruling that UnitedHealth, Mr. Rex and the others breached their duties and that the company should \"make good\" on the resulting losses to plan participants. Her lawyers declined to make her available for an interview.</p><p>Write to Jennifer Williams-Alvarez at jennifer.williams-alvarez@wsj.com</p><p>UnitedHealth CFO Added to Lawsuit Over 401(k) Offerings</p>",
+  "published": "2022-08-24T22:08:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 693,
+          "end": 705
+        },
+        {
+          "start": 696,
+          "end": 708
+        },
+        {
+          "start": 1145,
+          "end": 1157
+        },
+        {
+          "start": 1151,
+          "end": 1163
+        },
+        {
+          "start": 1678,
+          "end": 1690
+        },
+        {
+          "start": 1688,
+          "end": 1700
+        },
+        {
+          "start": 2454,
+          "end": 2466
+        },
+        {
+          "start": 2469,
+          "end": 2481
+        },
+        {
+          "start": 2611,
+          "end": 2623
+        },
+        {
+          "start": 2627,
+          "end": 2639
+        },
+        {
+          "start": 2842,
+          "end": 2854
+        },
+        {
+          "start": 2860,
+          "end": 2872
+        },
+        {
+          "start": 3196,
+          "end": 3208
+        },
+        {
+          "start": 4413,
+          "end": 4425
+        },
+        {
+          "start": 4442,
+          "end": 4454
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

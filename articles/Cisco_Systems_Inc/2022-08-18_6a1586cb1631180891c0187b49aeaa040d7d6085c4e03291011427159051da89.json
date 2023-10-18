@@ -1,0 +1,50 @@
+{
+  "_id": "6a1586cb1631180891c0187b49aeaa040d7d6085c4e03291011427159051da89",
+  "feed": "market-watch",
+  "title": "Cisco earnings draw sigh of relief, but the demand debate continues; Some analysts pointed to Cisco management's assertion of healthy demand trends, while others worried about competition and pulled-forward spending",
+  "text": "<p>See more: Cisco earnings and revenue forecast quell fears of slowdown, stock rises</p><p>Analysts noted that while Cisco's revenue forecast exceeded expectations, the company's earnings outlook for the full year didn't offer the same upside.</p><p>Shares were up about 5% in premarket trading Thursday.</p><p>Some were upbeat in the face of the latest results, including Jefferies analyst George Notter. \"We thought Cisco's results and guidance looked fine, particularly in light of investor fears about a slowing economy and big potential declines in [year-over-year] product order growth,\" he wrote.</p><p>Though Cisco's product orders fell 6% from a year earlier, Notter said that some investors may have been \"bracing for product order growth that was as bad as -20% or -25%.\"</p><p>He added that Cisco's results seem to show that customers \"continued to place orders aggressively in the wake of Cisco's bad news three months ago re: China lockdowns and difficulty getting components.\"</p><p>Notter rates Cisco's shares at buy with a $54 price target.</p><p>Fellow bullish analyst Simon Leopold of Raymond James also urged investors to look beyond the decline in product orders.</p><p>\"Investors have worried about order metrics, but we assert that with supply chain constraints and duration changes investors should focus on order levels, not [year-over-year] growth,\" he wrote. \"Cisco's metrics indicate that demand remains healthy and its outlook faces supply chain constraints.\"</p><p>He also wrote that Cisco \"saw no evidence of demand softening.\" Leopold has an outperform rating on the stock, though he lowered his price target to $59 from $63.</p><p>Others weren't as willing to put worries aside.</p><p>\"While these results and outlook were positive, we have concerns that lead metrics (ARR [annual recurring revenue], RPO [remaining performance obligations], product ARR &amp; RPO) are continuing to slow down, while total backlog was potentially down [quarter over quarter],\" wrote Piper Sandler analyst James Fish, who has a neutral rating and $47 target price on the shares.</p><p>\"Management anticipates backlog to be relatively maintained throughout FY23, but with our checks suggesting bookings are slowing down and a pull-in of demand has occurred, this suggests the peak-cycle is now behind us and risk to FY23-FY24 estimates,\" Fish continued.</p><p>William Blair's Jason Ader wrote that he and his team \"continue to worry about an air pocket in demand (which would manifest through deteriorating order growth) in the near to medium term given the uncertain macro environment and the recent pull-forward of demand from customers wanting to time delivery of product and get ahead of price increases (revealed in our VAR [value-added reseller] discussions).\"</p><p>Looking more long term, he added that his research suggests \"growing competitive headwinds for Cisco in key categories (like networking, security, and collaboration).\"</p><p>He reiterated a neutral rating in a note titled: \"Solid Demand and Easing Supply in Fiscal Fourth Quarter; but Dangers Lurk Beneath the Surface.\"</p><p>Rosenblatt Securities analyst Mike Genovese also had competitive concerns. \"While industry conditions are strong, we still see Cisco as a share loser in Enterprise Switching,\" he wrote in his note to clients.</p><p>Genovese kept a neutral rating on the shares, while raising his price target to $53 from $48.</p><p>Cisco shares have fallen 15% over the past 12 months, through Wednesday's close, while the Dow Jones Industrial Average DJIA has lost 4%.</p><p>Cisco earnings draw sigh of relief, but the demand debate continues</p>",
+  "published": "2022-08-18T12:52:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 10,
+          "end": 15
+        },
+        {
+          "start": 94,
+          "end": 99
+        },
+        {
+          "start": 109,
+          "end": 114
+        },
+        {
+          "start": 967,
+          "end": 972
+        },
+        {
+          "start": 3293,
+          "end": 3298
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

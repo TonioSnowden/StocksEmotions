@@ -1,0 +1,34 @@
+{
+  "_id": "e6d060ee5080014e9aa3268f6704728110d5acab528f5ca35254db28d14c2de1",
+  "feed": "market-watch",
+  "title": "Baby-formula shortage is finally easing, although some states are still seeing high out-of-stock rates; There were 25% more baby-formula products in stores and online compared to three months ago, according to the latest data",
+  "text": "<p>The national average out-of-stock rates in stores and online stood at 61%, down from a peak of 86% for the week of May 29. Datasembly tracked 130,000 stores across North America.</p><p>\"We are definitely seeing a positive trend in the availability of infant formula across the nation,\" Ben Reich, Datasembly founder and CEO, said in a statement.</p><p>Still, some states and cities have persistently high out-of-stock rates: 77% of baby-formula products were out of stock in Alaska and Delaware as of Monday; 75% and 71% were out of stock in Washington, D.C., and Maryland, respectively. Seattle and Oahu are experiencing out-of-stock rates above 78%.</p><p>Supply-chain disruptions and product recalls from Abbott Laboratories in February due to contamination concerns contributed to the shortage. Abbott is the biggest supplier of infant formula in the U.S.</p><p>Abbott ABT, Mead Johnson Nutrition — owned by Reckitt RBGPF — Perrigo PRGO and Nestlé USA NSRGY are the four major players in the baby-formula market in the U.S.</p><p>In April and May, many parents started stocking up on baby formula products as supplies dwindled. But that panic appears to have subsided, according to data from global e-commerce company Pattern.</p><p>The online consumer demand for baby formula products on Amazon AMZN increased121% year-on-year in August so far, a sharp contrast to 2,369% year-on-year increase in May.</p><p>(Amazon was not immediately available for comment. )</p><p>Shortage hit lower-income families</p><p>Earlier this year, many parents told MarketWatch that they had difficulty finding formula in stores, having spent hours on the road.</p><p>The shortage also disproportionately hit lower-income mothers, as Abbott's Similac was the main formula brand in many states for the government's Special Supplemental Nutrition Program for Women, Infants, and Children (WIC).</p><p>The United States Department of Agriculture's WIC covers more than 1.2 million infants who collectively consume 56% of formula nationwide, and provides monthly benefits to lower-income moms to buy baby formula, nutritious food and groceries.</p><p>Big retailers such as Walmart and Target also confirmed the increasing availability of infant formula in their earnings reports this week.</p><p>The out-of-stock rate for baby formula hit Walmart \"in a big way\" in the second quarter, but now the situation is now \"improving,\" John R. Furner, president and chief executive officer of Walmart U.S. said in the earnings call on Tuesday.</p><p>(Walmart WMT declined to comment. Target TGT was not immediately available for comment.)</p><p>Foreign imports and factory reopening</p><p>The recovery of the product's availability is due to new foreign products entering the market and the reopening of one of Abbott's main manufacturing plants in Michigan, Reich said in a statement.</p><p>Abbott resumed part of its formula production in July, including some of the specialty formula products that were hard to find during the peak of the shortage. Together with the U.S. Department of Agriculture, it also offered to cover the costs for WIC programs across the country to find alternative formulas.</p><p>An Abbott spokesperson said the company has been importing infant formula products from their overseas manufacturing facilities approved by the U.S. Food and Drug Administration, including from their facilities in Granada, Spain, and Cootehill, Ireland.</p><p>Abbott's other facilities were running \"at full capacity\" to catch up with the demand in the market, the spokesperson wrote in an email to MarketWatch.</p><p>The Biden administration launched the Operation Fly Formula program in May alongside other measures to get more formula into stores. Around 378 million bottles of formula have been shipped to the U.S. under the program since May 19,according to the White House.</p><p>Learn how to shake up your financial routine at the Best New Ideas in Money Festival on Sept. 21 and Sept. 22 in New York. Join Carrie Schwab, president of the Charles Schwab Foundation.</p><p>Baby-formula shortage is finally easing, although some states are still seeing high out-of-stock rates</p>",
+  "published": "2022-08-21T13:09:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 2067,
+          "end": 2074
+        },
+        {
+          "start": 2226,
+          "end": 2233
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

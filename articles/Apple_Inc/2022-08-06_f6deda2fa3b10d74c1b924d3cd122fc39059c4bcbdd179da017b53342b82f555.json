@@ -1,0 +1,24 @@
+{
+  "_id": "f6deda2fa3b10d74c1b924d3cd122fc39059c4bcbdd179da017b53342b82f555",
+  "feed": "market-watch",
+  "title": "Gloomy ISM readings are a good predictor of company earnings — but not of what the stock market will do; The S&P 500's current level already incorporates the bad earnings significance of the ISM's latest report",
+  "text": "<p>Economic calendar: Nonfarm payrolls and unemployment data due Friday, along with a consumer-credit update and more</p><p>This key indicator of economic health is currently at 52.8 — down from as high as 63.7 in early 2021, and at its lowest level since the early days of the COVID-19 pandemic lockdown. As my MarketWatch colleague Jeffry Bartash reported, this latest reading is \"a sign of creeping weakness in the U.S. economy.\"</p><p>Many bears have pounced on this latest reading as a reason to expect further weakness in coming months. They point out, with substantial historical supporting evidence, that corporate earnings tend to follow the lead of the ISM index with a several month time lag.</p><p>But that most definitely does not mean equities will follow. The stock market's current level already incorporates the bad earnings significance of the ISM's latest report. The bears' argument would be justified only if they could show that the market systematically ignores or misinterprets that significance.</p><p>Yet there is no such evidence. Consider what I found upon measuring the correlation between the ISM index and the S&amp;P 500 Index SPX. When focusing on contemporaneous changes in these two indices, I found a significant positive correlation coefficient — 51.3% when correlating trailing 12-month percentage changes since 1948, as you can see from the chart below. This is exactly what you'd expect from an efficient stock market, rising and falling in synch with measures of economic activity.</p><p>In contrast, when correlating the ISM's trailing 12-month percentage change with the S&amp;P 500's percentage change over the subsequent 12 months, the correlation coefficient turned negative — minus 12.4%, to be exact. This inverse correlation means that more often than not, the stock market turns in above-average performance following big drops in the ISM index — and vice versa.</p><p>To be sure, this inverse correlation is only marginally statistically significant. So it would be going too far to conclude that the ISM's recent plunge is actually good news for the stock market. But the fact that it is even inverse at all shows that the stock market more or less immediately incorporates the full economic significance of new ISM readings and, if anything, slightly overreacts.</p><p>No one is arguing that the U.S. economy isn't weaker than it was in 2021. It undeniably is. But that weakness is already incorporated in stock prices. The future course of the stock market will be a function of whether the economy in coming months is stronger or weaker than currently anticipated.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com</p><p>Hear from Ray Dalio at the Best New Ideas in Money Festival on Sept. 21 and Sept. 22 in New York. The hedge-fund pioneer has strong views on where the economy is headed.</p><p>More: Most U.S. businesses grow faster in July, ISM finds, in sign of resilient economy</p><p>Also read: FAANGs ain't what they used to be, so beware the bear-market bounce says this hedge fund manager</p><p>Gloomy ISM readings are a good predictor of company earnings — but not of what the stock market will do</p>",
+  "published": "2022-08-06T13:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

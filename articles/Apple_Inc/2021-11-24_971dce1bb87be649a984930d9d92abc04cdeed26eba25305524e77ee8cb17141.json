@@ -1,0 +1,80 @@
+{
+  "_id": "971dce1bb87be649a984930d9d92abc04cdeed26eba25305524e77ee8cb17141",
+  "feed": "wall-street-journal",
+  "title": "Apple Accuses Firm Of Illegal iPhone Hacking in Lawsuit",
+  "text": "<p>Critics and privacy advocates for years have alleged that NSO Group and similar firms sell hacking tools to governments with poor track records on human rights, allegations the company has denied. The Israeli firm has developed hacking techniques to install its surveillance software, called Pegasus, on Apple's mobile phones without a user's knowledge or consent, according to security researchers. Pegasus, they said, turns the iPhone into a silent spying device by gaining access to the device's files, messages, microphone and camera.</p><p>Apple's lawsuit, filed Tuesday in the U.S. District Court for the Northern District of California, is another salvo in an emerging strategy against the surveillance techniques. In the past, Apple and other companies would use bug fixes and security enhancements to patch vulnerabilities and render such software unusable. Now, litigation and government pressure increasingly are becoming other tools to curtail its use.</p><p>In 2019, the WhatsApp messaging service sued NSO Group, alleging the company sent malware to 1,400 of its users. WhatsApp is owned by Meta Platforms Inc., formerly known as Facebook Inc.</p><p>An NSO Group spokesman didn't address Apple's allegations, but said the company's technology has helped save thousands of lives world-wide. \"Pedophiles and terrorists can freely operate in technological safe-havens, and we provide governments the lawful tools to fight it,\" he said.</p><p>NSO Group has said its products are used by government-intelligence and law-enforcement agencies to fight terrorism and crime. The company also has said it has terminated contracts with governments that have abused its software, and taken steps to prevent abuse.</p><p>\"Very glad to see Apple join the effort to hold spyware companies accountable,\" Will Cathcart, the head of WhatsApp, said Tuesday in a tweet. \"We've long called for industry action against NSO and today's lawsuit shows that technology providers are united in fighting spyware and ensuring more security for our users.\"</p><p>These two lawsuits show tech giants turning to new methods after years of trying to thwart commercial hacking tools with technical means, said John Scott-Railton, a researcher with Citizen Lab, an organization that has been tracking NSO Group's activities for years. \"Apple has been clearly quietly getting a much better understanding of what's going on with NSO,\" he said.</p><p>Apple is seeking damages in the lawsuit, and the company said it plans to contribute $10 million, plus any damages from the litigation, to organizations pursuing cyber research and advocacy.</p><p>Firms such as NSO Group \"spend millions of dollars on sophisticated surveillance technologies without effective accountability,\" said Craig Federighi, Apple's senior vice president of software engineering. \"That needs to change.\"</p><p>Apple employees have spent \"thousands of hours\" responding to NSO Group's attacks, Apple said in its filing. NSO Group's tools were used against U.S. citizens, according to Apple's complaint. NSO Group \"did not breach data contained on Apple's servers, but did abuse Apple's services and servers to perpetrate attacks,\" Apple's complaint states.</p><p>NSO Group software allegedly also has been used on people in countries world-wide including on targets in the U.K., India, South Africa, Belgium, France, Uganda and Morocco, according to Citizen Lab.</p><p>In 2016, researchers said, NSO Group discovered a way to install its spyware on iPhones with just the click of a link.</p><p>In September, researchers said NSO Group developed an even more sophisticated \"zero click\" iPhone attack that installed Pegasus spyware on devices without any action by targets. Both incidents prompted Apple to push out security updates for its devices.</p><p>NSO Group has faced increasing pressure to change its business practices as researchers have linked its products to cyberattacks on journalists, politicians and political dissidents.</p><p>On Monday, ratings firm Moody's Corp. downgraded NSO Group's debt, saying the company is at an increased risk of default due to trade restrictions and allegations that its surveillance software has been used inappropriately. NSO Group is \"highly dependent on new license sales which we believe can become increasingly difficult given the actions taken against NSO,\" Moody's said.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-11-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 539,
+          "end": 544
+        },
+        {
+          "start": 2889,
+          "end": 2894
+        },
+        {
+          "start": 3073,
+          "end": 3078
+        },
+        {
+          "start": 3673,
+          "end": 3678
+        },
+        {
+          "start": 3126,
+          "end": 3131
+        },
+        {
+          "start": 1710,
+          "end": 1715
+        },
+        {
+          "start": 2385,
+          "end": 2390
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1184,
+          "end": 1189
+        },
+        {
+          "start": 729,
+          "end": 734
+        },
+        {
+          "start": 2806,
+          "end": 2811
+        },
+        {
+          "start": 3042,
+          "end": 3047
+        },
+        {
+          "start": 2727,
+          "end": 2732
+        },
+        {
+          "start": 2279,
+          "end": 2284
+        },
+        {
+          "start": 304,
+          "end": 309
+        },
+        {
+          "start": 2979,
+          "end": 2984
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

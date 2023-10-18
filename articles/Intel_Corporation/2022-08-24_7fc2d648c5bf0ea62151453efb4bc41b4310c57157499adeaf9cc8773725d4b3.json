@@ -1,0 +1,34 @@
+{
+  "_id": "7fc2d648c5bf0ea62151453efb4bc41b4310c57157499adeaf9cc8773725d4b3",
+  "feed": "wall-street-journal",
+  "title": "Nvidia Issues Muted Outlook as Gaming Revenue Drops 33%; About a third of the chip maker's sales come from videogamers who covet cutting-edge graphics performance",
+  "text": "<p>Nvidia has been among the chip companies hardest hit by consumers curtailing spending in response to high inflation and rising interest rates. About a third of Nvidia's sales come from videogamers who covet cutting-edge graphics performance and whose buying decisions waver with their spending power.</p><p>For its previous quarter, which ended in July, the company reported sales of $6.7 billion, up 3% from the previous year. The result was in line with the company's forecast after it revised figures downward from an earlier projection of $8.1 billion in sales.</p><p>\"We are navigating our supply chain transitions in a challenging macro environment,\" Chief Executive Jensen Huang said in a statement, adding the company would work through those issues.</p><p>The company's shares were down more than 1% in after-hours trading following the results. The company's stock has fallen 43% this year amid a broad selloff in semiconductor stocks, but it remains the U.S.'s biggest chip company by market value.</p><p>Intel Corp., the U.S.'s largest chip maker by sales, has also been hit by the souring economy, compounded by delays in bringing some of its latest products to market. The company posted a surprise loss for its second quarter and cut its full-year outlook, citing a weaker-than-expected market for PCs that its chips go into. Mobile-phone chip maker Qualcomm Inc. revised its forecast for 5G smartphone shipments downward last month to between 650 million and 700 million units this year, reflecting weaker demand for phones.</p><p>Other chip-making peers haven't fared as poorly, especially those that target the industrial and automotive sectors, which are still in the throes of a long-running shortage of chips that has crimped car sales and made many appliances and medical devices hard to come by. Companies such as auto-chip supplier NXP Semiconductors NV and analog-chip giant Texas Instruments Inc. reported better-than-expected second-quarter results last month.</p><p>For Nvidia, the gaming segment has been the main source of trouble in recent months, with revenue there falling 33% to $2.04 billion in its latest fiscal quarter. Companies that market Nvidia's chips to consumers have seen lower sales, and Nvidia adjusted prices to challenging market conditions that it expects to persist in the current quarter, financial chief Colette Kress said.</p><p>The company has also been affected by a falloff in cryptocurrency mining that relies on the computational power of its graphics chips. Digital currencies have fallen sharply this year, making mining them unprofitable.</p><p>Sales in the company's data-center business, which focuses on using Nvidia's chips to power artificial-intelligence calculations, rose 61% in its latest quarter to $3.81 billion, although they fell short of what the company initially expected. Supply-chain disruptions limited growth there, Ms. Kress said.</p><p>With demand for cars still healthy, Nvidia's auto-industry sales climbed 45% in the quarter to $220 million. The company supplies driver-assistance technology used increasingly in new cars.</p><p>Nvidia said data-center and automotive sales in the current quarter should be higher than in the most recent three-month period. Gaming sales are expected to fall further.</p><p>Write to Asa Fitch at asa.fitch@wsj.com</p><p>Nvidia Issues Muted Outlook as Gaming Revenue Drops 33%</p>",
+  "published": "2022-08-24T21:03:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 992,
+          "end": 1003
+        },
+        {
+          "start": 985,
+          "end": 995
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0001054,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00010550022,
+        "titleWeight": 0.0
+      },
+      "typeRank": 30
+    }
+  ]
+}

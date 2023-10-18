@@ -1,0 +1,33 @@
+{
+  "_id": "b2c93bdc6c4b8c88f914ec9f934b717c09ed4059ae1a48af659936db9bba409f",
+  "feed": "reuters",
+  "title": "COLUMN-Lithium still super-charged as supply chases after demand: Andy Home",
+  "text": "<p>Last month's average spot Asian price for battery-grade carbonate was assessed by Fastmarkets at $80,800 per tonne, a rise of over 1,000% since the start of last year.</p><p>Even Goldman Sachs, which outraged lithium bulls with a bearish market call in May, now thinks global supply will fall 84,000 tonnes short of demand this year. (\"Lithium's delayed decline\", Nov. 9, 2022)</p><p>True, the remarkable bull run has shown signs of losing momentum in recent weeks, but lithium is still holding close to the peaks even as other industrial metals prices retreat on fears of recession.</p><p>What happens next? There is a broad analyst consensus that prices should ease over the course of 2023, but lithium's supply-chain dynamics are evolving so fast there is elevated uncertainty around any forecast.</p><p>SUPER-CHARGED DEMAND</p><p>Lithium supply is ramping up fast as operators rush to scale up existing production and bring new projects online.</p><p>It's just that demand has been growing even faster.</p><p>Total new battery capacity deployed on the world's roads in the first half of 2022 totalled 195.5 GWh, up 79% on the first half of 2021, according to Adamas Intelligence. (\"State of Charge - 7th Biannual\")</p><p>That translated into 117,200 tonnes of lithium carbonate equivalent usage, a 76% jump on the previous year.</p><p>Lithium demand in EV batteries has been given an extra booster by high prices for nickel and cobalt which have caused many Asian EV manufacturers to pivot to lower-cost but more metal-intensive lithium-iron-phosphate chemistry.</p><p>The amount of nickel and cobalt deployed in new cars in the first half of 2022 rose strongly by 50% and 44% relative to 2021, but both lagged lithium by some margin.</p><p>New EVs rolling off the automotive production line are the end of the lithium supply chain, but the chain itself is also expanding fast.</p><p>Battery plants are springing up everywhere as governments stimulate the shift from fossil fuels to renewable energy. All of them need raw materials, so their collective stock-building accentuates the rising EV demand curve.</p><p>PAUSE FOR BREATH?</p><p>Spot lithium prices have softened slightly this month, with the market currently highly sensitive to the state of play in the Chinese EV sector.</p><p>China is the world's largest EV market and still growing. New energy vehicle sales in November were up 72.3% year-on-year even as total passenger vehicle sales fell 7.9%, the first year-on-year decline since May.</p><p>EV sales have been driven by government subsidies which are due to end this year, the looming deadline acting to bring forward future demand.</p><p>There is much speculation there may be some leeway for extensions of the subsidies, but absent official confirmation battery-makers are facing a significantly softer Chinese market in the coming months.</p><p>Micro uncertainty is overlaid by the broader uncertainty around China's policy of loosening of COVID-19 restrictions while trying to avoid a wave of new infections.</p><p>The clouded short-term outlook is why the lithium price rally has paused for breath and why analysts are looking for a pull-back over the course of next year.</p><p>The lithium market needs it. Current high prices are feeding through to higher battery prices, the biggest single cost differentiator in a new energy vehicle.</p><p>That's a headache for automakers striving for price parity with internal combustion engines.</p><p>CAN SUPPLY CATCH UP?</p><p>But softer prices will also require supply to keep growing at an equally super-charged rate.</p><p>Analysts at Fastmarkets NewGen estimate global lithium production surged by 36% year-on-year in 2021 and expect total supply will rise from 540,400 tonnes of LCE in 2021 to more than three million tonnes by 2030.</p><p>There are as many calculations as there are forecasters out there, but the scale of investment in new lithium capacity is immense and set to grow further as the United States and the European Union actively try to nurture domestic supply chains.</p><p>The problem is that greenfield projects for any industrial mineral are prone to over-run, the potential for missed time-lines accentuated in the case of lithium by the need to certify chemical purity with customers.</p><p>Moreover, much of lithium's supply growth is coming from new sources such as China's lepidolite deposits which come with their own new disruption potential.</p><p>That includes such things as the pollution of the Jinjiang river which flows through Yichin in the province of Jiangxi. Yongxing Special Materials was forced to suspend production last month after government testing found local river water was \"abnormal\", according to Benchmark Mineral Intelligence (BMI).</p><p>Jiangxi is the hub of China's newly emerging lepidolite mining sector, but the resources, BMI notes, \"are lower grade than Australian spodumene and result in more carbon emissions and waste production\".</p><p>The authorities' intervention in November may be a taster of a bigger environmental battle to come and one with massive disruption potential given the concentration of lepidolite processing in and around Yichin.</p><p>Lithium's supply pipeline is full of known unknowns with a few totally unknowns thrown in for good measure, which is why there are so many competing narratives around likely price evolution.</p><p>Fastmarkets NewGen, for example, expects supply to do its job with a shift into market surplus from 2025.</p><p>\"However, it will remain a tight market... and some oscillation between deficit and surplus in certain years is likely, with consequently high volatility in prices,\" it said in a Dec. 8 research note.</p><p>The road to surplus, in other words, isn't going to be smooth. Upside and downside price risks abound. Lithium's pause for breath may not last long.</p><p>The opinions expressed here are those of the author, a columnist for Reuters.</p>",
+  "published": "2022-12-15T14:28:50.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 173,
+          "end": 180
+        },
+        {
+          "start": 173,
+          "end": 186
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3011751,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.30117512,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

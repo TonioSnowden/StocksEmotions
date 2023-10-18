@@ -1,0 +1,42 @@
+{
+  "_id": "87143f82c9e869f5f954e0ad8a8a26fd6add540fc6b72f059c3af2c3865ea95a",
+  "feed": "wall-street-journal",
+  "title": "Disney Reports Earnings Surge, Adds 14.4 Million New Disney+ Users; Entertainment giant's theme parks division took in record revenue as its streaming business beat analysts' expectations",
+  "text": "<p>Disney's strong showing in streaming subscriber growth contrasts with rival Netflix Inc., which last month said it lost nearly 1 million accounts in the second quarter, the company's first ever back-to-back quarterly loss of customers.</p><p>Overall for the third quarter, the world's largest entertainment company reported profits of $1.41 billion, or 77 cents a share, up from $918 million, or 50 cents a share, in the year-ago period. Revenue increased to $21.5 billion, above the average analyst estimate of $20.99 billion on FactSet.</p><p>Sales at the parks, experiences and products division—which includes Disneyland, Walt Disney World and four resorts in Europe and Asia and has historically been Disney's most profitable segment—reached $7.4 billion for the quarter, a record and up 70% from a year earlier. The division posted profits of $2.2 billion for the quarter, up from $356 million a year ago.</p><p>Chief Executive Bob Chapek attributed the company's strong results to the performance at its domestic theme parks, big increases in live-sports viewership and the subscriber growth at its streaming services.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook for Disney? Join the conversation below.</p><p>Of the 14.4 million subscribers added to the service, just 100,000 came from the U.S. and Canada, a sign that the streaming service may be reaching a saturation point in North America. Netflix lost 1.3 million subscribers in the U.S. and Canada and only added net new customers in the Asia-Pacific region.</p><p>Both companies' announcements highlight the challenges they face in attracting new customers domestically, where streaming options abound and many households use one or more services. Plus, in an increasingly difficult economic environment, some households are re-thinking spending on in-home entertainment, industry analysts have said.</p><p>More to come...</p><p>Sarah Krouse contributed to this article.</p><p>Write to Robbie Whelan at robbie.whelan@wsj.com</p><p>Disney Reports Earnings Surge, Adds 14.4 Million New Disney+ Users</p>",
+  "published": "2022-08-10T20:11:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 691,
+          "end": 697
+        },
+        {
+          "start": 1147,
+          "end": 1153
+        },
+        {
+          "start": 1153,
+          "end": 1159
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

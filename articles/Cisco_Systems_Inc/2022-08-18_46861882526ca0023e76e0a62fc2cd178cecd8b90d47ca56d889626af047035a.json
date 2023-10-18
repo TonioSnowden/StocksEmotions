@@ -1,0 +1,34 @@
+{
+  "_id": "46861882526ca0023e76e0a62fc2cd178cecd8b90d47ca56d889626af047035a",
+  "feed": "wall-street-journal",
+  "title": "Stocks Waver as Investors Mull Economic Data, Fed Minutes; Federal Reserve meeting minutes Wednesday showed the central bank sees risks in both raising interest rates too high and not high enough",
+  "text": "<p>Stock indexes have climbed in recent weeks on signs that inflation was moderating and hopes that the Fed would ease off from its aggressive campaign of rate rises.</p><p>The rally—which had pushed the S&amp;P 500 to its highest level since April—has been tempered after minutes from the Fed's July meeting, released Wednesday, indicated that policy makers could keep raising rates to curb inflation. Still, officials said they would be cautious, acknowledging the risk that too much tightening could cause economic pain.</p><p>\"Sentiment has become a lot less negative but I'd be reluctant to say things are bullish. We still have a lot of constraints, lots of uncertainty, and a profits recession is coming,\" said Joe Little, global chief strategist at HSBC Asset Management. \"There is still a narrow pathway toward a 'soft landing,' but it is getting harder and harder to achieve.\"</p><p>Home sales data showed a further cooling of the U.S. housing market. Sales of existing homes fell for a sixth consecutive month in July, the National Association of Realtorsreported Thursday. Higher mortgage rates have weighed on sales, another example of how the Fed's rate hikes are affecting all corners of the economy.</p><p>Meanwhile, new applications for unemployment benefits inched down last week, according to the Labor Department, suggesting the jobs market is holding up despite signs of weakness in the broader economy.</p><p>On the earnings front, shares of Kohl's Corp. retreated 4.9% after the retailer's earnings shrank by nearly two-thirds in its second quarter.</p><p>\"We're in the retail part of earnings season and retail is about as challenged as any segment right now, given it's really hit by all of the pressures that companies are facing,\" said Jeff Buchbinder, chief equity strategist for LPL Financial. \"That is maybe weighing on the markets a little bit, even though we did have well-received numbers from Walmart, Home Depot and others.\"</p><p>Cisco Systems Inc. shares jumped 6.3% after the maker of networking and security equipment posted flat quarterly revenue, avoiding a decline it previously forecast. Bath &amp; Body Works Inc. saw shares rise 3.9% despite missing expectations for its latest quarterly results.</p><p>Bed Bath &amp; Beyond sank 25% after investor Ryan Cohen filed to sell his stake in the company. The selloff comes after the stock's recent, frenzied gains driven by individual investors, who jolted the stock in ways reminiscent of last year's meme-stock craze.</p><p>The yield on the benchmark 10-year U.S. Treasury note declined to 2.849% from 2.894% on Wednesday. Bond yields and prices move in opposite directions.</p><p>In commodity markets, Brent crude, the international oil benchmark, rose 2.4% to $95.90 a barrel, easing its decline for the month to below 8%. The prospect of weakening demand and additional supplies have dragged on crude prices in recent weeks.</p><p>Energy stocks outperformed Thursday as oil prices climbed, with the S&amp;P 500 energy sector up 2%.</p><p>Overseas, the pan-continental Stoxx Europe 600 edged up 0.3%. In Asia, Japan's Nikkei 225 dropped 1%, Hong Kong's Hang Seng declined 0.8% and the Shanghai Composite Index lost 0.5%.</p><p>Write to Will Horner at william.horner@wsj.com and Hannah Miao at hannah.miao@wsj.com.</p><p>Stocks Waver as Investors Mull Economic Data, Fed Minutes</p>",
+  "published": "2022-08-18T15:40:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1917,
+          "end": 1935
+        },
+        {
+          "start": 1904,
+          "end": 1921
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

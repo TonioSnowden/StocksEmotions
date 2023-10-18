@@ -1,0 +1,46 @@
+{
+  "_id": "6e8ca47fc32a479214af612c8277728609f3a76a18ddf796e651b863548c1116",
+  "feed": "wall-street-journal",
+  "title": "NASA's Artemis Launch Postponed Due to Engine Problem on Moon Rocket; Agency says it needs time to determine why one of the rocket's engines didn't get to temperature range needed to attempt liftoff",
+  "text": "<p>The SLS rocket is designed to blast Orion, a spacecraft that is stacked on its top, into orbit and toward the moon.</p><p>The next available opportunity for takeoff is Friday, Sept. 2, starting at 12:48 p.m. ET, according to Derrol Nail, the space agency's commentator on its livestream for Monday's now delayed launch. Attempting the flight then would depend on what engineers determine is the issue with the engine and come up with a plan to remedy it, he added.</p><p>\"We don't launch until it's right,\" NASA Administrator Bill Nelson said Monday morning after the agency scrubbed the mission. \"This is a very complicated machine, a very complicated system.\"</p><p>Photos: A Preview of NASA's Artemis Moon Mission</p><p>There are four engines on the main stage of the Space Launch System rocket, and the other three were functioning as expected, according to NASA's livestream. Teams from the agency were focused on an issue that was preventing one engine from reaching a temperature range that would permit launch. The launch countdown clock was paused at 40 minutes until a prospective launch.</p><p>NASA had previously set a two-hour window to take off this morning beginning at 8:33 a.m. ET.</p><p>The flight scheduled for Monday was designed as a test, a point emphasized by officials at NASA and executives at the aerospace companies, including Boeing Co. and Lockheed Martin Corp., that were hired to develop space vehicles and other hardware for the mission.</p><p>\"It is a new rocket and a new spacecraft to send humans to the moon on the very next flight. This has not been done in over 50 years, and it's incredibly difficult,\" said Mike Sarafin, Artemis mission manager, during a briefing Saturday at the Kennedy site.</p><p>Aerojet Rocketdyne Holdings Inc. said there are no early indications that Monday's Artemis I launch was scrubbed because of problems with its four RS-25 engines, according to a company spokesman. He said engineers are focused on issues with the bleed lines used to regulate engine temperature.</p><p>The Artemis launch team was unable to get to a temperature range on one of the four engines needed to attempt liftoff within the two-hour launch window, said NASA. The four main RS-25 engines on the SLS rocket were repurposed from use on previous space shuttle missions.</p><p>Aerojet Chief Executive Eileen Drake was among those watching at the Kennedy Space Center as the launch was postponed at approximately 8:34 a.m. ET. The Aerojet spokesman said its engineers continue to work with their partners to get to the bottom of the problem.</p><p>A Boeing spokeswoman didn't immediately have a comment. The aerospace company developed the SLS rocket's main stage, a massive body that holds liquid propellant that feeds into the engines.</p><p>NASA and the contractors behind Artemis I and subsequent Artemis missions have faced pressure to get to the launchpad after grappling with technical setbacks that led to cost overruns and delays.</p><p>The inspector general at NASA has estimated the Artemis I launch would cost $4.1 billion in production and operational expenses, as would each of the following three flights. The inspector general has described that per-flight cost as unsustainable. NASA officials have said that they are pushing to find cost savings and that the expenses for each mission would fall as more are launched.</p><p>Boeing, Lockheed, Northrop Grumman Corp. and other contractors involved in the effort said their companies have taken steps to cut costs.</p><p>The mission, officially called Artemis I, would be the first major testof most of the main components that NASA and aerospace companies have been developing to help return astronauts to the lunar surface. No astronauts have reached the moon since 1972, but NASA aims through its Artemis program to make that happen as soon as 2025.</p><p>Doug Cameron contributed to this article.</p><p>Write to Micah Maidenberg at micah.maidenberg@wsj.com</p><p>NASA's Artemis Launch Postponed Due to Engine Problem on Moon Rocket</p>",
+  "published": "2022-08-29T14:02:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.999712,
+      "offsets": [
+        {
+          "start": 1318,
+          "end": 1328
+        },
+        {
+          "start": 2523,
+          "end": 2529
+        },
+        {
+          "start": 3270,
+          "end": 3276
+        },
+        {
+          "start": 2502,
+          "end": 2508
+        },
+        {
+          "start": 1307,
+          "end": 1317
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0000043,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.172325e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

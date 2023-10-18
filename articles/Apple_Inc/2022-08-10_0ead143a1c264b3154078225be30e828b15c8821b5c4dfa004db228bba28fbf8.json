@@ -1,0 +1,42 @@
+{
+  "_id": "0ead143a1c264b3154078225be30e828b15c8821b5c4dfa004db228bba28fbf8",
+  "feed": "wall-street-journal",
+  "title": "Samsung's Foldables Are a Smartphone Next Step. But Competitors Are Coming. The Galaxy Z Fold 4 and Z Flip 4 are here. Phone makers are already figuring out what's next",
+  "text": "<p>Foldable smartphones, which have flexible displays that bend in half, were supposed to revitalize the industry. They haven't quite pulled that off, but what they have done is show what's possible. Foldables are part of a grander plan by smartphone makers to break away from devices that all look the same, bringing innovation to an industry that's mostly filled today with glass slabs. The experimentation could lead to larger screens in smaller packages and devices that not only fold but also roll like a scroll.</p><p>\"It's inevitable,\" said Runar Bjorhovde, an analyst at Canalys Research covering mobile phones. \"At some point, the only way to continue to increase screen size is to make displays flexible.\"</p><p>Samsung on Wednesday unveiled its newest foldables, the $1,800 Galaxy Z Fold 4 and $1,000 Galaxy Z Flip 4. Both phones cost and look the same as last year's models, with the Flip folding in half like a clamshell to fit into your pocket, and the Fold opening like a book into a tablet-size device. Samsung said they're more rugged than their predecessors, with reinforced hinges and other tweaks that help address concerns about durability in its earliest foldables.</p><p>Samsung also introduced the $280 Galaxy Watch 5, $450 Galaxy Watch 5 Pro and $230 Galaxy Buds 2 Pro. All devices will be available later this month.</p><p>Last year, tech companies shipped 11.5 million foldables, according to Omdia. That's a small percentage of the 1.34 billion-unit smartphone market, but more than quadruple 2020's shipments, the research firm said. About 88% of 2021's foldables came from Samsung, Omdia said.</p><p>\"Foldables are now moving closer to becoming mainstream devices,\" said Ross Young, chief executive officer of Display Supply Chain Consultants, an agency researching display technology.</p><p>Foldables may never be as popular as normal smartphones, but, industry veterans say, they don't have to be.</p><p>Pluses and Minuses</p><p>Foldables solve challenges created by popular smartphones but create new concerns, too. On the plus side, the folding design protects the main screen, preventing scratches and other issues. But that flexible inner display is more fragile than traditional smartphone screens. Folding the screen in half also creates a crease, which interrupts the smooth glass finish people are accustomed to touching. And foldables require a hinge, which can make them less durable.</p><p>When it comes to the Z Fold 4 and Z Flip 4, Samsung made them more rugged. They have slimmer hinges, stronger glass around the crease and stickier adhesives to keep the protective screens from peeling, Samsung said.</p><p>Making foldables more durable may woo some holdouts, analysts say, but price likely matters even more.</p><p>One of the biggest innovations in last year's Z Flip 3 was a $380 price cut that made it cost the same as an iPhone 13 Pro. The lower starting price helped Samsung attract more buyers, but $1,000 is still out of reach for many consumers around the world, as is the Fold's $1,800 price.</p><p>Lower prices in the future could help Samsung attract more buyers, but some analysts believe foldables should stay at premium levels to set them apart.</p><p>\"It's wise to keep them in the premium segment, because they are different, and they deserve to be there,\" said Nabila Popal, research director at research firm IDC.</p><p>The Holdout</p><p>Samsung has led the market in foldable sales, but other companies have been working on new designs, too. They include Xiaomi, Oppo and Lenovo's Motorola business, and Apple has filed patents for a potential future foldable of its own.</p><p>One filed with the U.S. patent office in June has a clamshell design with a \"thin hinged region.\" Another granted by the patent office in 2020 calls for two separate panels connected by a \"fabric hinge.\"</p><p>Analysts suspect it could be years before Apple might begin to sell foldable devices, if at all, due to supply-chain issues and questions about the category's overall appeal to customers.</p><p>\"But if people started switching from iPhones to Samsung, Apple becomes forced to listen,\" Mr. Young said. Apple declined to comment.</p><p>Enter: The Rollable</p><p>The challenges with foldables have companies looking toward rollable phone designs, which would theoretically let users unfurl portions of the display when they need a bigger screen.</p><p>Currently, the design is experimental for phones. LG—which sells electronics and also has a business that builds displays for other companies—has a $100,000 rollable TV and last year showed off a rollable phone for its now-defunct smartphone division. In a video from CES 2021, the company displayed a seemingly motorized smartphone screen that slowly extended into a tablet.</p><p>That same year, TCL, which also is a big display and electronics vendor, produced a concept smartphone with a similar design. It hasn't made plans to sell its foldables, largely due to cost.</p><p>\"We still need to test them and find out what consumers want in the future,\" said Stefan Streit, TCL's chief marketing officer.</p><p>While foldables have yet to find a big base of users, they're not going away. Trying something new is what gave birth to the iPhone, and more creative displays could eventually revolutionize the smartphone, too.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Dalvin Brown at dalvin.brown@wsj.com</p><p>Samsung's Foldables Are a Smartphone Next Step. But Competitors Are Coming.</p>",
+  "published": "2022-08-10T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 3449,
+          "end": 3454
+        },
+        {
+          "start": 3478,
+          "end": 3483
+        },
+        {
+          "start": 3760,
+          "end": 3765
+        },
+        {
+          "start": 4011,
+          "end": 4016
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.5125,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

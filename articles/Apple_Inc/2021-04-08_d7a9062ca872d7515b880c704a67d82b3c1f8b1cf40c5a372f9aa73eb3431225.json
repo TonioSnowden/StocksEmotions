@@ -1,0 +1,68 @@
+{
+  "_id": "d7a9062ca872d7515b880c704a67d82b3c1f8b1cf40c5a372f9aa73eb3431225",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL TECHNOLOGY:  Apple Privacy Feature Gives Users the Reins  ----  By Joanna Stern and Nicole Nguyen",
+  "text": "<p>\n  \"Allow 'The Sims' to track your activity?\" \"Allow 'Merriam-Webster' to track your activity?\" \"Allow 'WSJ' to track your activity?\" </p><p>\n  Welcome to the start of iPhone and iPad privacy pop-upalooza. Expect a whole lot more of it in the coming weeks. In Apple's next software release, iOS 14.5, apps that track user data for advertising purposes or share data with data brokers will be required to show you a prompt asking permission to track. Some developers have already implemented the prompt, which is why you may be seeing the pop-ups right now. </p><p>\n  On these pop-ups, you'll have two options to choose from: \"Allow\" or \"Ask App Not to Track.\" The idea is that instead of digging through complicated settings to opt out of tracking that you don't really see or are even aware of, you can now opt in, if you enjoy targeted ads. Apps will now ask you before sharing your data with other apps -- or third-party advertisers or data brokers. It's all part of Apple's effort to present you with more privacy controls. </p><p>\n  But while the choices might seem simple, there's quite a lot happening behind the scenes. What exactly do these options mean, and how will they impact your privacy? Here's a breakdown of what Apple is calling App Tracking Transparency, and what happens if you opt out or opt in. </p><pre>\n </pre><p>\n  Wait, apps track me? </p><pre>\n </pre><p>\n  Oh, yes, apps have been tracking you. You know how you may search for something on one website and then the ad for that product can follow you around the web? Well, instead of using web-browser tracking tools like cookies, iPhone apps tend to use a secret string of numbers on your phone. It's called the IDFA (Identifier for Advertisers) and is used for tracking and identifying what you do in apps and across apps. (Android has something similar.) </p><p>\n  Here's an example of how it works. You download a free, ad-supported meal-tracking app. Then a few hours later you start seeing ads for weight loss or healthy eating in your Facebook feed. You also start seeing ads based on what Facebook knows about you (maybe your interest in technology or comfy clothing) right in the food-tracking app. </p><p>\n  What's happened behind the scenes? </p><p>\n  The food-tracking app and Facebook matched information about you using your IDFA. </p><p>\n  Since most apps use this ID, the data attached to your IDFA can include everything from what apps you've downloaded and what you've searched for to your purchase history and location -- and much, much more. </p><pre>\n </pre><p>\n  Why am I seeing these </p><p>\n  pop-ups? </p><pre>\n </pre><p>\n  Unless you've been a religious reader of our columnsor are pretty tapped into this stuff, you have probably not been aware of the extent of all this tracking. So Apple decided it was time to make it less opaque. In iOS 14.5, apps can only gain your IDFA if they ask permission, and you grant it. </p><p>\n  Many companies are now releasing compatible apps ahead of Apple's public release of iOS 14.5. This is why, for example, you may have started to see this appear in our very own Wall Street Journal iOS app. </p><pre>\n </pre><p>\n  Why is Apple doing </p><p>\n  this? </p><pre>\n </pre><p>\n  Apple has long billed itself as a company with a commitment to user privacy. In 2017 the company made it harder for websites to use cookies to track people in the Safari browser on iOS and Mac devices. </p><p>\n  But that ethos goes further back than that. It was a strong belief of Steve Jobs. \"Privacy means people know what they are signing up for in plain English,\" the late Apple co-founder said in 2010 at an All Things Digital conference. \"I believe some people want to share more data than other people do. Ask them.\" </p><p>\n  Apple CEO Tim Cook has continued that commitment and condemned how app-tracking tools are turning consumers into ad magnets. Let's also not forget that Apple -- unlike Facebook or Google -- doesn't depend on ad revenue but the sale of hardware and services to consumers. Facebook has vocally opposed Apple's move, explaining that businesses rely on this personalized advertising. </p><pre>\n </pre><p>\n  What happens when I </p><p>\n  tap 'Ask App Not to </p><p>\n  Track'? </p><pre>\n </pre><p>\n  When you tap this option, you're opting out of tracking, and the app is prevented from accessing your IDFA. </p><p>\n  Beyond that number, this prompt is a signal to apps that you don't want to be tracked in any other way, including personal information like email addresses and phone numbers. According to Apple, \"App developers are responsible for ensuring they comply with your choices.\" </p><pre>\n </pre><p>\n  What happens when I </p><p>\n  tap 'Allow'? </p><pre>\n </pre><p>\n  When you tap this option, it's business as usual. You are opting into personalized, targeted advertising. You are allowing the app to collect information about you and share it with other apps or parties, including data brokers. </p><p>\n  Apps get a chance to explain, in smaller text beneath the main prompt, what data they need and why they need it. A few apps will go even further, possibly with a full pop-up of their own explaining how advertising supports their businesses and how your information is used or shared. </p><p>\n  When you are presented with the pop-up, you can't swipe away or even swipe back to your home screen. You must make a choice. But you can always change your permissions settings after the fact as well as see all of the apps that have prompted you. Go to Settings &gt; Privacy &gt; Tracking. </p><pre>\n </pre><p>\n  What if I don't want </p><p>\n  any pop-ups? </p><p>\n  Can I opt out from all </p><p>\n  app tracking? </p><pre>\n </pre><p>\n  There is a universal setting that will make your default answer to developers \"no.\" Under Tracking, you'll see \"Allow Apps to Request to Track.\" If you have it turned on, the apps will continue to prompt you. If you have it turned off, the apps won't ask, and they won't have access to your identifier. </p><p>\n  In other words, keep this setting off if you don't want to be bugged about tracking. </p><p>\n  Here's where it gets a little confusing: You may not be seeing any pop-ups at all. One reason for that may be because \"Allow Apps to Request to Track\" has replaced a previous setting, called \"Limit Ad Tracking,\" which you may have turned on. </p><p>\n  If you did, your \"Allow Apps\" switch is now off. Don't touch it! You're all set. </p><p></p>",
+  "published": "2021-04-08T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2988,
+          "end": 2993
+        },
+        {
+          "start": 947,
+          "end": 952
+        },
+        {
+          "start": 247,
+          "end": 252
+        },
+        {
+          "start": 3655,
+          "end": 3660
+        },
+        {
+          "start": 4231,
+          "end": 4236
+        },
+        {
+          "start": 1197,
+          "end": 1202
+        },
+        {
+          "start": 3356,
+          "end": 3361
+        },
+        {
+          "start": 3503,
+          "end": 3508
+        },
+        {
+          "start": 3803,
+          "end": 3808
+        },
+        {
+          "start": 2620,
+          "end": 2625
+        },
+        {
+          "start": 2812,
+          "end": 2817
+        },
+        {
+          "start": 21,
+          "end": 26
+        },
+        {
+          "start": 2968,
+          "end": 2973
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

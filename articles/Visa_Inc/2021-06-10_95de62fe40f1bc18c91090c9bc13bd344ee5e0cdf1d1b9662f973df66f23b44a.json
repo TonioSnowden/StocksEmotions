@@ -1,0 +1,24 @@
+{
+  "_id": "95de62fe40f1bc18c91090c9bc13bd344ee5e0cdf1d1b9662f973df66f23b44a",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance:  Crypto Startup Solana  Raises $314 Million  ----  By Alexander Osipovich",
+  "text": "<p>   Blockchain startup Solana Labs Inc. says it has raised $314 million of new funding to develop technology used in the fast-growing area of the cryptocurrency markets known as decentralized finance, or DeFi. </p><p>   The funding round was led by Andreessen Horowitz, one of Silicon Valley's most prominent venture-capital firms, and Polychain Capital, a crypto hedge fund that also does VC-style investments. </p><p>   In a nod to the engineering roots of Solana's founders, the precise amount raised in the funding round was $314,159,265 -- the mathematical constant pi multiplied by $100 million and rounded to the nearest dollar. The transaction was structured as a purchase of Solana's SOL digital tokens rather than a traditional purchase of equity shares. </p><p>   Solana, whose founding team came together in 2017, launched a blockchain network that supporters say is faster and more energy-efficient than the ethereum or bitcoin blockchains, which can seize up during periods of heavy transaction volumes. </p><p>   A blockchain is a distributed piece of software running on multiple computers, potentially all over the world, that allows people to trade cryptocurrencies without any centralized authority overseeing the process. </p><p>   The earliest blockchains, like the one behind bitcoin, are just used to store and transmit digital money. But ethereum and other newer blockchains can support a variety of other applications, from games where users swap virtual kittens to peer-to-peer lending networks. </p><p>   Such decentralized applications set the stage for DeFi, which refers to crypto ventures that replicate functions of traditional finance -- such as banking, insurance and exchanges -- on the blockchain. Over the past year, crypto investors have poured tens of billions of dollars into DeFi projects, which typically allow them to earn interest on their digital-currency holdings. </p><p>   For wider adoption, DeFi may need a better blockchain -- and that is where Solana hopes to make it big. Many DeFi ventures use ethereum, which has suffered bouts of network congestion, resulting in slow settlement times and high fees. ethereum currently handles 13 transactions a second, according to data provider Blockchair.com. Solana says it can process more than 50,000 transactions a second, a capacity that could increase further, as new hardware is added. That ability to scale up could make Solana competitive with more established financial firms: Visa Inc., for instance, says it can handle more than 65,000 transactions a second. </p><p>   \"Solana has the most ambitious tech road map of any blockchain, and they've been making impressive progress on it,\" said Sam Bankman-Fried, chief executive of Alameda Research, a crypto-trading firm that invested in Solana's new funding round. \"It's a blockchain that has the potential to support a DeFi ecosystem with world-scale activity.\" </p><p></p>",
+  "published": "2021-06-10T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 2405,
+          "end": 2409
+        },
+        {
+          "start": 2405,
+          "end": 2414
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

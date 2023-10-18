@@ -1,0 +1,38 @@
+{
+  "_id": "ee7904e8a1937b203055b5a17b88d80c40fe8ff125f462f2368a09ac82b527b7",
+  "feed": "market-watch",
+  "title": "Jill Biden leaves isolation after twice testing negative, and Novavax vaccine is now allowed for U.S. teens; Chinese tourists are being hurt by snap lockdowns at resorts, and the Japanese prime minister has COVID",
+  "text": "<p>\"After isolating for five days and receiving negative results from two consecutive Covid-19 tests, the first lady will depart South Carolina later today for Delaware,\" read a statement from the first lady's communications director.</p><p>The news comes as U.S. known cases of COVID are continuing to ease, although the true tally is likely higher than publicly reported given how many people are testing at home, with their data typically not being collected.</p><p>The daily average for new cases stood at 95,156 on Sunday, according to a New York Times tracker, down 19% from two weeks ago and at the lowest level seen since mid-May. Cases are rising in Michigan, South Carolina, Tennessee, Mississippi and Maine and are flat in Missouri. They are falling in all other states.</p><p>The daily average for hospitalizations was down 7% at 40,375, while the daily average for deaths is down 7% to 460.</p><p>See also: Polio and monkeypox demonstrate a 'heightened focus' on viruses</p><p>In medical news, the Food and Drug Administration authorized Novavax Inc.'s NVAX COVID vaccine for use in teenagers late Friday. Novavax's recombinant protein-based vaccine uses different technology than the mRNA shots developed by Moderna Inc. MRNA and Pfizer Inc. PFE and BioNTech SE BNTX, and received an emergency-use authorization by the FDA for adults in July.</p><p>The vaccine still requires a policy recommendation for use by the Centers for Disease Control and Prevention, which followed the FDA by about a week when authorizing the Novavax shot for adults.</p><p>Moderna said Monday that it will supply the Canadian government with a total of 12 million doses of its bivalent COVID vaccine, which targets the original strain of the virus and the omicron variant.</p><p>Elsewhere, it was learned early Monday that Anthony Fauci now plans to step down in December from both his directorship of the National Institute of Allergy and Infectious Disease and his role as White House chief medical adviser. He had previously revealed that he planned to retire before the conclusion of President Biden's current term.</p><p>Fauci indicated Monday that his plan was not to retire per se but to \"pursue the next phase of my career while I still have so much energy and passion for my field.\"</p><p>Coronavirus Update: MarketWatch's daily roundup has been curating and reporting all the latest developments every weekday since the coronavirus pandemic began</p><p>Other COVID-19 news you should know about:</p><p>• Japanese Prime Minister Fumio Kishida has been diagnosed with COVID-19 and canceled his planned travels while he isolates, the Associated Press reported.Kishida developed a slight fever and cough late Saturday and a PCR test for the coronavirus was positive, said Noriyuki Shikata, the cabinet secretary for public affairs at the prime minister's office. Cases of coronavirus infections have been surging recently in Japan, although most people — including Kishida — have been vaccinated.</p><p>• A federal judge has dismissed a complaint from a group of healthcare workers who said they were unfairly discriminated against by Maine's COVID vaccine requirement, the AP reported separately.The plaintiffs sued Democratic Gov. Janet Mills and other Maine officials along with a group of healthcare organizations in the state. The workers argued that the vaccine mandate violated their right to free exercise of religion because it did not provide an exemption for religious beliefs. Jon Levy, the chief judge of the U.S. District Court for the District of Maine, wrote Thursday that the vaccine mandate was \"rationally based\" and that \"no further analysis is required.\"</p><p>• China's Zero-COVID policy has created a headache for many holidaymakers and tourists caught up in sudden lockdown, the South China Morning Post reported.Many visitors to popular destinations have found themselves stranded at short notice, often because of just a handful of cases. The moves have shattered hopes that an easing of travel restrictions would revive the tourism industry and help economic growth. Instead, many have been trapped in lockdowns that have occurred from Xinjiang in the West to the tropical island of Hainan.</p><p>• Apple Inc. AAPL employees have launched a petition to protest the company's back-to-the-office policy, saying the move risks stifling diversity and staff well-being, the Guardian reported.The petition is in response to an all-employee memo from Apple chief executive, Tim Cook, who last week said workers would have to come into the office for at least three days a week from September, including Tuesdays, Thursdays and a third day to be determined by individual teams.</p><p>Here's what the numbers say</p><p>The global tally of confirmed cases of COVID-19 topped 596.2 million on Tuesday, while the death toll rose above 6.45 million, according to data aggregated by Johns Hopkins University.</p><p>The U.S. leads the world with 93.6 million cases and 1,041,169 fatalities.</p><p>The Centers for Disease Control and Prevention's tracker shows that 223.7 million people living in the U.S. are fully vaccinated, equal to 67.4% of the total population. But just 108.2 million have had a first booster, equal to 48.4% of the vaccinated population.</p><p>Just 21.4 million of the people 50 years old and over who are eligible for a second booster have had one, equal to 33.2% of those who had a first booster.</p><p>Jill Biden leaves isolation after twice testing negative, and Novavax vaccine is now allowed for U.S. teens</p>",
+  "published": "2022-08-22T14:43:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.97299993,
+      "offsets": [
+        {
+          "start": 4130,
+          "end": 4140
+        },
+        {
+          "start": 4141,
+          "end": 4145
+        },
+        {
+          "start": 4375,
+          "end": 4380
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.4295,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

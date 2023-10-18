@@ -1,0 +1,24 @@
+{
+  "_id": "9c3632fd8ab0ce91676fc2fafb92e30b56064326102c9b1191a3b61b42820d85",
+  "feed": "wall-street-journal",
+  "title": "Cybersecurity (A Special Report) --- At J&J, 15.5 Billion Potential Threats a Day: The company's CISO talks about the sources of attack",
+  "text": "<p>WSJ: Can you give us a sense of how often cyberattacks have been happening in your experience at J&amp;J?</p><p>MS. ALLISON: We're seeing what I would consider 15.5 billion incidents a day. Now how many of them become attacks and get investigated is a much lower number.</p><p>Some are as simple as malware that is just knocked out of the system. We have big data sets. We're bringing in logs and detections from around the world continually. And then we're looking at it with machine learning and AI, as well as other alerts, to know if we have a problem or not. It could be as simple as a log on a server giving an alert that says something is happening. It may be nothing.</p><p>WSJ: Can you talk more about the sources of the threats?</p><p>MS. ALLISON: I bracket them into four main threats. The first one is on the top of the news: nation-state attacks. Looking at the countries that are primarily in this field, it's China, Russia, North Korea and Iran, but many, many others.</p><p>Then you have something called a criminal element that over the last 10 years has increased from very small to very large. What we see with ransomware today, that's mostly criminal enterprise. They may be allowed by some countries to operate in those countries, but it's a criminal enterprise.</p><p>Then you have hacktivists: people with a cause, on a mission. They don't like something a company does, or don't like the stand of a company. They will go ahead and start campaigns that companies have to deal with.</p><p>And the other is insiders. Everything from a disgruntled employee, someone who may have gotten notice; but some countries are actually sending people over, through educational visas, to get jobs or to work on special programs, so they actually can steal the data from inside.</p><p>WSJ: How do you tackle each individual threat?</p><p>MS. ALLISON: For the nation states, the criminal and the hacktivist, you're pretty much going to use your normal toolset: the ability to detect malware, spearphishing, code that's inside your company moving laterally. Also working with third parties from the outside.</p><p>For the insider threat, you may have to work with your global security organization, your legal department, your HR organizations and others on policies and procedures, as well as potentially privacy rules, in different jurisdictions around the globe.</p>",
+  "published": "2021-06-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 97,
+          "end": 100
+        },
+        {
+          "start": 40,
+          "end": 43
+        }
+      ]
+    }
+  ]
+}

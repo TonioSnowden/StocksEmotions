@@ -1,0 +1,20 @@
+{
+  "_id": "1e91a9460524f2f98f6cbf00b0b2b12da96244a5e37e08e3f23dc958a1b5e1e9",
+  "feed": "wall-street-journal",
+  "title": "DataRobot Raises $300 Million in New Funding; The AI platform company also said it is buying Algorithmia, which makes software that helps businesses manage AI applications",
+  "text": "<p>DataRobot , which offers an AI software platform that helps businesses build, deploy and manage machine-learning models and applications, said it would use the new funding to build out product features and functionality, expand its global sales and marketing team, and acquire companies that complement its products and services.</p><p>The Series G funding round was led by Altimeter Capital Management and Tiger Global Management LLC, which have previously invested in the company, as well as Franklin Templeton, ServiceNow Ventures, Sutter Hill Ventures and the Counterpoint Global team at Morgan Stanley Investment Management . Including the recent funding round, DataRobot has raised more than $1 billion since its 2012 launch.</p><p>While businesses are looking to expand their use of AI to enhance the customer experience, increase sales and improve operations, many find there is a shortage of experts  to develop and maintain AI applications.</p><p>Dan Wright, DataRobot 's chief executive officer, said the company's platform automates manual steps that data scientists had to do in the past, \"all the way from data preparation through monitoring and managing models in production.\"</p><p>DataRobot customers include health insurer Blue Cross of Idaho and Stanley Black &amp; Decker Inc ., which is best known for its power tools.</p><p>Blue Cross of Idaho has used the platform to build and deploy a number of machine-learning models, said Marc Roberts, the company's vice president of healthcare economics.</p><p>Blue Cross of Idaho built a predictive model to comb through its claims repositories for patterns of care that would lead to better patient outcomes. It found that children, regardless of their health, who frequently visited their physician typically incur lower medical costs. As a result of this finding, the company changed its coverage, eliminating co-pays and other charges when children visit their primary care physician to encourage them to go to the doctor.</p><p>Data-science and machine-learning platforms such as DataRobot 's give non-experts the tools to build predictive models and AI applications and allow AI experts to develop models and applications faster, said Peter Krensky, a director, analyst, on the business analytics and data-science team at technology research and advisory firm Gartner Inc .</p><p>Other companies offering data-science and machine-learning platform tools include Dataiku Inc., International Business Machines Corp . and SAS Institute Inc . The market for these tools grew almost 8% to $4.33 billion in 2020, from $4.02 billion in 2019, according to Gartner.</p><p>Seattle-based Algorithmia, which employs about 60 people, makes software that helps companies manage machine-learning models, which Mr. Wright said will boost DataRobot 's expertise in that area. Terms of the deal, expected to close in the next couple of months, were not disclosed.</p><p>DataRobot 's other acquisitions include Paxata Inc. , a startup that helps companies prepare data for AI and other applications.</p><p>Write to John McCormick at mccormick.john@wsj.com</p>",
+  "published": "2021-07-27T13:20:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 2393,
+          "end": 2424
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "df34fcf4ddf330af1a8aeafbf2805337f99e6eb7e331e8365229bcc03ef2d885",
+  "feed": "wall-street-journal",
+  "title": "Apple CEO Reflects on Jobs Legacy",
+  "text": "<p>Alphabet Inc.'s Google has been pushing for Apple to adopt a communication protocol called rich communications systems that aims to replace traditional text messaging with more robust industrywide chat features and end the stigma for its Android users.</p><p>\"I don't hear our users asking that we put a lot of energy in on that at this point,\" Mr. Cook said late Wednesday during Vox Media's Code 2022 conference in Beverly Hills, Calif.</p><p>His comments came after he was asked by a member of the audience where he thought Apple co-founder Steve Jobs would fall on the matter. The audience member noted that he and his mother were having trouble sharing certain videos.</p><p>\"Buy your mom an iPhone,\" Mr. Cook said to a round of laughter.</p><p>It was a light moment during a rare public evening of retrospective for Mr. Cook on his predecessor at Apple. Mr. Jobs died in late 2011, soon after Mr. Cook had taken over as CEO.</p><p>Mr. Cook shared the stage Wednesday with Jony Ive, the tech company's former chief design officer, and Laurene Powell Jobs, Mr. Jobs's widow, as they reminisced 15 years after the introduction of the iPhone.</p><p>Mr. Cook began the evening saying he hoped Mr. Jobs would be proud of the company he helped found, noting that many of the values he instilled still guided Apple.</p><p>\"I think he would be happy that we're living up to the values that he talked about so much like privacy, like protecting the environment,\" Mr. Cook said. \"These were core to him, while we're keeping up innovation, and trying to give people something that enables them to do something they couldn't do otherwise.\"</p><p>But Mr. Cook suggested he thought Mr. Jobs would be unimpressed with Apple's soaring market value and stock price. Apple reached a market value of more than $3 trillion earlier this year before falling in value along with the rest of the market.</p><p>The company has benefited from record sales of its iPhone since introducing devices capable of accessing 5G cellular technology in late 2020. Earlier in the day, Mr. Cook introduced the iPhone 14 lineup with new features that included emergency messaging by satellite and improved cameras.</p><p>\"He was not driven by the financial results,\" Mr. Cook said. Instead, he said, Mr. Jobs was focused on making products. \"He was never confused about focusing on the indirect consequence -- on the market and the financial results,\" Mr. Cook said. \"He focused on the inputs: getting the products right, making sure they were the best; making sure they were making a difference in people's lives.\"</p><p>It was the first shared public appearance between Messrs. Cook and Ive since the famed designer left Apple in 2019, marking the end of an era that had seen him shepherd some of the company's most iconic designs. He has founded his own design firm called LoveFrom.</p><p>\"There was something beautiful about the way Steve thought,\" Mr. Ive said.</p><p>Ms. Powell Jobs, who is the founder of the Emerson Collective, her philanthropic organization, which has taken a majority stake in the magazine the Atlantic, said she and Messrs. Cook and Ive were working together to create a Steve Jobs archive.</p>",
+  "published": "2022-09-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999923,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 44,
+          "end": 49
+        },
+        {
+          "start": 825,
+          "end": 830
+        },
+        {
+          "start": 829,
+          "end": 834
+        },
+        {
+          "start": 1264,
+          "end": 1269
+        },
+        {
+          "start": 1650,
+          "end": 1655
+        },
+        {
+          "start": 1695,
+          "end": 1700
+        },
+        {
+          "start": 2605,
+          "end": 2610
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

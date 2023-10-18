@@ -1,0 +1,30 @@
+{
+  "_id": "49af837a2ab4e0d30347efb55115d859285cb97638a191dc0c22f48c51fd0d36",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The chip industry is adjusting to a wider and sharper slowdown than it anticipated even as semiconductor firms prepare to spend billions of dollars on new factories.</p><p>Coinbase reported a loss of $1.1 billion for the second quarter, driven by the cryptocurrency market's spring meltdown.</p><p>Ford will raise prices for its new all-electric truck less than four months after it started shipping the vehicle to dealerships.</p><p>U.S. stock indexes closed lower, with the S&amp;P 500, Nasdaq and Dow industrials falling 0.4%, 1.2% and 0.2%, respectively.</p><p>AppLovin proposed a merger with Unity Software through an all-stock deal that would value Unity at $17.5 billion.</p><p>Walmart is looking to add a large video streaming service to its Walmart+ membership program, according to people familiar with the situation.</p><p>A judge approved Blue Cross Blue Shield companies' settlement of a sweeping antitrust suit filed on behalf of their customers.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-08-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 646,
+          "end": 653
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9056247,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.003124714,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

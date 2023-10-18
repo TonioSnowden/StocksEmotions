@@ -1,0 +1,104 @@
+{
+  "_id": "83f62942f17e681d3995c01479bd1e1cf84badb31fe33f60a85b0cae235b7554",
+  "feed": "wall-street-journal",
+  "title": "Apple Wants iPhones to Detect Car Crashes, Auto-Dial 911; Safety feature is also planned for Apple Watches expected in 2022, according to company documents",
+  "text": "<p>Crash detection uses data from sensors built into Apple devices including the accelerometer to detect car accidents as they occur, for instance by measuring a sudden spike in gravity, or \"g,\" forces on impact.</p><p>The feature would mark the latest move by Apple and its competitors to use motion-sensor technology to build safety functions into their devices. Apple introduced a fall-detection feature in its smartwatch several years ago that senses when wearers have taken a hard fall and dials 911 if they don't respond to a notification asking if they are OK. The company this year added a feature to the newest version of its iPhone operating system that assesses the walking steadiness of users.</p><p>The timing of the new feature could change, or Apple could choose not to release it, people familiar with the company's development process said.</p><p>An Apple spokeswoman declined to comment.</p><p>Apple has been testing the crash-detection feature in the past year by collecting data shared anonymously from iPhone and Apple Watch users, the documents show. Apple products have already detected more than 10 million suspected vehicle impacts, of which more than 50,000 included a call to 911.</p><p>Apple has been using the 911 call data to improve the accuracy of its crash-detection algorithm, since an emergency call associated with a suspected impact gives Apple more confidence that it is indeed a car crash, according to the documents.</p><p>The documents don't specify how Apple users are sharing information with the company so it can test its new crash-detection algorithm.</p><p>SHARE YOUR THOUGHTS</p><p>How helpful would you find a 'crash-detection' feature on your iPhone or Apple Watch? Join the conversation below.</p><p>Apple wouldn't be the first company to roll out a crash-detection feature for its smartphones. Google added such a feature to its Pixel smartphone in 2019. A number of apps on Apple's App Store also offer automatic car crash detection, which they say is possible through AI and location tracking.</p><p>General Motors Co.'s OnStar subsidiary has offered \"automatic crash response\" since 1996 in vehicles equipped with OnStar. That service responds to more than 6,000 crash notifications a month, according to a GM spokeswoman. OnStar recently introduced a subscription smartphone app that can be used in any vehicle and provides a service called \"mobile crash response.\"</p><p>Apple wants to offer more health and safety features with its devices, the Journal has reported. Those include a blood-pressure measure and thermometer in the Apple Watch, algorithms to detect depression and cognitive decline in the iPhone, as well as posture monitoring and a thermometer in AirPods.</p><p>Write to Rolfe Winkler at rolfe.winkler@wsj.com</p><p>Apple Wants iPhones to Detect Car Crashes, Auto-Dial 911</p>",
+  "published": "2021-11-01T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 356,
+          "end": 361
+        },
+        {
+          "start": 744,
+          "end": 749
+        },
+        {
+          "start": 2359,
+          "end": 2364
+        },
+        {
+          "start": 93,
+          "end": 98
+        },
+        {
+          "start": 1694,
+          "end": 1699
+        },
+        {
+          "start": 885,
+          "end": 890
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1007,
+          "end": 1018
+        },
+        {
+          "start": 2518,
+          "end": 2523
+        },
+        {
+          "start": 846,
+          "end": 851
+        },
+        {
+          "start": 1181,
+          "end": 1186
+        },
+        {
+          "start": 1456,
+          "end": 1461
+        },
+        {
+          "start": 1652,
+          "end": 1657
+        },
+        {
+          "start": 2708,
+          "end": 2713
+        },
+        {
+          "start": 252,
+          "end": 257
+        },
+        {
+          "start": 1046,
+          "end": 1051
+        },
+        {
+          "start": 50,
+          "end": 55
+        },
+        {
+          "start": 1007,
+          "end": 1012
+        },
+        {
+          "start": 1870,
+          "end": 1875
+        },
+        {
+          "start": 1343,
+          "end": 1348
+        },
+        {
+          "start": 1652,
+          "end": 1663
+        },
+        {
+          "start": 2518,
+          "end": 2529
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "bcfd7cd55ec2f93a0112e1a848ead4cb144780b5b3b0388de946dddc549c1199",
+  "feed": "wall-street-journal",
+  "title": "SolarWinds Hackers Continue to Hit Technology Companies, Says Microsoft; Russia-linked group has stepped up attacks, cybersecurity experts say",
+  "text": "<p>\"This recent activity is another indicator that Russia is trying to gain long-term, systematic access to a variety of points in the technology supply chain,\" said Tom Burt, Microsoft's corporate vice president for customer security and trust, according to a blog post provided ahead of the announcement by Microsoft on Monday.</p><p>Security experts say last year's SolarWinds incident was concerning because it showed how a compromise at one widely used link in the technology supply chain could be made into a jumping off point for further attacks. After government officials attributed it to Russia's foreign intelligence service, the Biden administration in April punished Moscow for the attack and other alleged malicious cyber activity with financial sanctions and diplomatic expulsions.</p><p>That doesn't appear to have deterred the hackers. Microsoft says it observed the group linked to the SolarWinds attack targeting 609 companies 22,868 times between July 1 and Oct. 19 of this year. That is more attempts than Microsoft observed from all government-linked hackers in the previous three years, Mr. Burt said.</p><p>The intrusion at SolarWinds, which went undiscovered for more than a year, was part of a hacking campaign that gave intruders footholds in at least nine federal agencies and 100 private companies. Microsoft itself and the cybersecurity company FireEye were compromised during the incident.</p><p>But not all of the break-ins involved SolarWinds software. Government officials say 30% of the victims didn't use SolarWinds products.</p><p>The hack is regarded as one of the U.S.'s worst intelligence failures in years. Moscow has denied involvement. A representative for the Russian Embassy in Washington didn't immediately respond to a message seeking comment.</p><p>The latest disclosure of Russia's alleged activities comes as the Biden administration has sought to curtail Moscow's cyber aggression through a variety of means, including continuing bilateral meetings intended to address a glut of ransomware attacks from Russian cybercriminal gangs on critical American infrastructure and businesses. Officials have offered mixed views on whether Moscow has cracked down on those criminal groups in response to U.S. pressure.</p><p>A U.S. government official briefed on Microsoft's findings said the latest intrusion attempts appeared to be largely routine hacking handiwork from Russia.</p><p>\"Based on the details in Microsoft's blog, the activities described were unsophisticated password spray and phishing, run-of-the mill operations for the purpose of surveillance that we already know are attempted every day by Russia and other foreign governments,\" the U.S. government official said.</p><p>The official said the attempted intrusions \"could have been prevented if the cloud service providers had implemented baseline cybersecurity practices, including multifactor authentication,\" referring to account features that require verifying a login with a code sent to a phone or other device.</p><p>SolarWinds, a seller of network management software, remains unsure of how it was first breached, but company executives and investigators have said that the initial point of entry could have been the same type of unsophisticated techniques that Microsoft has observed in this more recent activity.</p><p>Supply-chain cybersecurity has drawn unprecedented interest in Washington over the past several months, in part due to the devastating and wide-ranging impact of the SolarWinds compromise. Last week, the U.S. House of Representatives passed a bill 412-2 that would require the Department of Homeland Security to issue guidance to federal contractors asking them to submit details of software in their own supply chains—including origins of technology—to DHS for potential review.</p><p>The congressional action follows an executive order signed by President Biden in May, also shaped in part by the SolarWinds breach, that created baseline cybersecurity standards for U.S. agencies and their software contractors, including mandates to use multifactor authentication and data encryption.</p><p>\"The SolarWinds incident was a turning point for our nation,\" Gen. Paul Nakasone, the director of the National Security Agency and U.S. Cyber Command, said at a conference earlier this month, calling it a \"significant intrusion by a foreign adversary that was trying to do our nation harm.\"</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com and Dustin Volz at dustin.volz@wsj.com</p><p>SolarWinds Hackers Continue to Hit Technology Companies, Says Microsoft</p>",
+  "published": "2021-10-25T07:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3217,
+          "end": 3226
+        },
+        {
+          "start": 4496,
+          "end": 4505
+        },
+        {
+          "start": 173,
+          "end": 182
+        },
+        {
+          "start": 2258,
+          "end": 2267
+        },
+        {
+          "start": 1012,
+          "end": 1021
+        },
+        {
+          "start": 2401,
+          "end": 2410
+        },
+        {
+          "start": 306,
+          "end": 315
+        },
+        {
+          "start": 1307,
+          "end": 1316
+        },
+        {
+          "start": 838,
+          "end": 847
+        },
+        {
+          "start": 2258,
+          "end": 2269
+        },
+        {
+          "start": 2401,
+          "end": 2412
+        },
+        {
+          "start": 62,
+          "end": 71
+        },
+        {
+          "start": 173,
+          "end": 184
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

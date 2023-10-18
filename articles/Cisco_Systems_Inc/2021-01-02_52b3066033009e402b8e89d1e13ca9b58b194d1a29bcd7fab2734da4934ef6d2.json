@@ -1,0 +1,24 @@
+{
+  "_id": "52b3066033009e402b8e89d1e13ca9b58b194d1a29bcd7fab2734da4934ef6d2",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Business News:  Hackers  Accessed  Microsoft  Systems  ----  By Robert McMillan",
+  "text": "<p>   The Russia-linked hackers behind a widespread cyber-intrusion into U.S. corporate and government systems were able to access internal systems within Microsoft Corp. and view internal source code, used to build software products, the company said Thursday. </p><p>   Microsoft had previously confirmed that it had downloaded malicious software from a vendor called SolarWinds Corp. that had been modified by the hackers. Thursday's disclosure is the first indication that the hackers were able to access internal systems at Microsoft. </p><p>   \"We detected unusual activity with a small number of internal accounts and upon review, we discovered one account had been used to view source code in a number of source code repositories,\" Microsoft said. </p><p>   This compromised account was able to view Microsoft's source code, but not make changes, the company said. </p><p>   Microsoft's disclosure raises the specter that the hackers may have targeted and then compromised other technology companies as well, said Sherri Davidoff, chief executive of the security consulting firm LMG Security LLC. </p><p>   \"That's why these hackers are going after these companies,\" she said. \"They don't want access to just one company. They want access to everything.\" </p><p>   A Microsoft spokesman declined to say what products or internal systems were affected by the intrusion. </p><p>   Microsoft said it has \"found no evidence of access to production services or customer data,\" and \"no indications that our systems were used to attack others.\" </p><p>   The SolarWinds attack dates back to at least October 2019 and has prompted a flurry of cyber investigations within government and private industry. Through a backdoor the attackers installed in SolarWinds' Orion networking software, the hackers found their way into systems belonging to the Department of Homeland Security, the State Department, the Treasury and Commerce departments and others. </p><p>   U.S. government and cybersecurity officials have linked the attack to Russia. The Kremlin has denied involvement in the hacks. </p><p>   A Wall Street Journal analysis of internet records identified infected computers at two dozen organizations that installed the tainted network monitoring software from SolarWinds. Among them: networking-gear maker Cisco Systems Inc., chip makers Intel Corp. and Nvidia Corp., and accounting firm Deloitte LLP. </p><p>   The hackers also compromised at least one reseller of Microsoft's cloud-based computing services and tried to use that as a way of gaining access to emails belonging to the cybersecurity vendor CrowdStrike Inc. That attempt was unsuccessful, CrowdStrike said last week. Microsoft is the world's second-largest cloud-computing company after Amazon.com Inc. </p><p>   The SolarWinds attack went undetected for months and was discovered by FireEye Inc., a cybersecurity company, when hackers tripped an alarm. FireEye put more than 100 cyber sleuths on the job of investigating the hack of its systems, before ultimately zeroing in on SolarWinds' software as the source of the compromise. </p><p>   U.S. government and corporate Investigators are still trying to assess what information the hackers were able to glean in what cybersecurity officials have characterized as one of the biggest breaches of U.S. networks in years. </p><p></p>",
+  "published": "2021-01-02T07:17:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 2207,
+          "end": 2220
+        },
+        {
+          "start": 2207,
+          "end": 2225
+        }
+      ]
+    }
+  ]
+}

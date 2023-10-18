@@ -1,0 +1,42 @@
+{
+  "_id": "57b995dbe0633b4baa0488117f7759089be5184d383410dd130136a80d658965",
+  "feed": "wall-street-journal",
+  "title": "Ocean Shipping Rates Have Plunged 60% This Year; Much of the cargo for back-to-school and year-end holiday shopping arrived months before the usual peak season",
+  "text": "<p>Freight rates on the main ocean trade routes are sinking during what is typically the industry's peak season after cargo owners shipped holiday goods early and inflation dented consumer demand.</p><p>The cost to ship a 40-foot container from China to the U.S. West Coast now stands around $5,400 a box, down 60% from January, according to the Freightos Baltic Index. A container shipped from Asia to Europe costs $9,000, 42% less than at the start of the year. The rate for both routes, while still above prepandemic levels, peaked at more than $20,000 last September.</p><p>Market conditions have made a sharp reversal from earlier in the pandemic. Freight rates jumped roughly 10-fold in 2021 because supply-chain disruptions, port backlogs and a surge of cargo left importers scrambling for space on box ships. Some big retailers such as Walmart Inc. even chartered their own vessels to get around bottlenecks last year.</p><p>This year, Walmart and other retailers ended up with too much inventory after they raced to import goods earlier than usual, anticipating shipping delays and demand that didn't materialize. Manufacturers, too, moved goods earlier than usual. Apparel sellers such as Gap Inc. and toy makers including Hasbro Inc. reported spring surges in inventory levels that normally occur closer to the holidays.</p><p>\"For spot rates, the party is over,\" said Jonathan Roach, a container shipping analyst at London-based Braemar. \"The backdrop of a potential global recession, driven by surging energy prices and rapid inflation, is driving down the market. The pandemic boom in demand for consumer products has calmed and spending on travel, leisure, and services made a revival in 2021.\"</p><p>Shipping rates are set to further ease for the remainder of the year and in 2023, according to shipowners and analysts. A series of new ships will hit the water over the next two years with net fleet growth expected to exceed 9% next year and in 2024. By comparison, container volume growth will be marginally negative next year and rise around 2% in 2024, according to Braemar.</p><p>SHARE YOUR THOUGHTS</p><p>Have you seen an increase in back-to-school and year-end holiday inventories? Join the conversation below.</p><p>Best Buy Co. Chief Executive Corie Barry said in an earnings call last Tuesday that freight-transportation cost pressures are easing. She said the electronics retailer, whose sales are shrinking, is finding it easier to get freight space on ships and trucks.</p><p>\"This is really a nonpeak season because for the first time ever, volumes moved in the second half are lower than those moved in the first half,\" said Peter Sand, chief analyst at maritime-data provider Xeneta. \"There is a lot of uncertainty given the continued war in Ukraine and the global economic downturn.\"</p><p>Spot-market container shipping rates have declined so rapidly, Xeneta said in a report in August, that the prices have come closer to long-term contract prices, which traditionally come at a discount, and were even below contract rates in some markets. Most major importers such as Walmart move their cargo through long-term contracts rather than paying spot prices.</p><p>The 10 largest liners have been enjoying bumper profits over the past two years. Recent quarterly earnings at industry bellwether A.P. Moeller-Maersk A/S were $8.59 billion, surpassing what it normally makes in an entire year. But many companies have warned of weakening market conditions in the second half of 2022.</p><p>\"We need to pay close attention to the impact of inflation on consumer demand and behavior,\" said China Cosco Shipping Corp., which runs the world's fourth-largest box ship fleet, in its first-half report last Wednesday. \"Combined with the changes in the delivery of new vessels, the supply side of the industry will face a new situation.\"</p><p>Shipping executives and analysts said they don't expect freight rates to return to prepandemic levels, in part because of higher fuel costs. In 2019, the average cost to send a container across the Pacific to the U.S. West Coast was $1,500.</p><p>The ocean carriers are investing billions in new technologies and fuels that will substantially cut carbon emissions from their vessels. \"The additional cost of cleaner shipping will not go away and will be a factor in elevating rates in the longer term,\" Braemar's Mr. Roach said.</p><p>Liz Young contributed to this article.</p><p>Write to Costas Paris at costas.paris@wsj.com</p><p>Ocean Shipping Rates Have Plunged 60% This Year</p>",
+  "published": "2022-09-05T11:03:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 823,
+          "end": 835
+        },
+        {
+          "start": 3019,
+          "end": 3026
+        },
+        {
+          "start": 829,
+          "end": 841
+        },
+        {
+          "start": 916,
+          "end": 923
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000533,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00053298473,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

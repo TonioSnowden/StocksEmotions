@@ -1,0 +1,54 @@
+{
+  "_id": "433e0d0527cad292ddbc409ff9016d2489841b0b21c850ea32493f9f47b8eadc",
+  "feed": "ftcomall",
+  "title": "The Lex Newsletter: iPhones win beauty contest",
+  "text": "<p>Dear reader, </p> <p>The squirrels of San Francisco have taken to lying face down on the ground — something local news site SFGate says is called “splooting” — in an attempt to stay cool. The rest of us are dealing with a record heatwave by turning on fans and air conditioning units, pushing California's grid operator towards an emergency. This week, a text message was sent out asking households to conserve energy if possible. Rolling blackouts were predicted. Within minutes, power use dropped and the crisis was averted.</p> <p>Voluntary power cuts are a temporary solution. But California's low-tech approach is proof that public campaigns can work. More information about the appliances that consume the most energy might be useful. Visiting family in England this summer I noticed they were preoccupied with turning off lights. But as the Lex carbon counter series showed last year, the real enemy of energy bills is <a href=\"https://www.ft.com/content/ad85b197-cda4-408a-a5ce-82700e00e548\">heating</a>.</p> <p>The UK's new prime minister has arrived at her post with an expensive <a href=\"https://www.ft.com/content/eec794ef-0898-4707-b4e0-49afbea29b1b\">emergency energy plan </a>that pays no heed to minimising consumption. Liz Truss wants to cap energy bills at about £2,500 per household. The price tag has been estimated at £150bn over two years. But Lex thinks just helping households for one winter will cost £75bn. If businesses are provided the same protection, it would jump to £188bn. </p> <p>This is the moment to come up with some long-term ideas. Why not add incentives to reduce consumption or <a href=\"https://www.ft.com/content/ed531ffc-83fb-4125-9317-a54e0da43c21\">de-link renewable prices</a> from gas prices? Some wind, solar and nuclear generators in the UK receive the same price as power stations burning gas thanks to old incentives designed to encourage investment. Repricing would save consumers billions of pounds. </p> <p>Europe has its own plan to wade into energy markets, including help for power companies facing liquidity problems. This is in part down to their <a href=\"https://www.ft.com/content/873633a4-633f-41b0-9648-50075dabafae\">use of financial derivatives</a>. Lex does not agree with politicians who claim the next step could be financial crisis-like contagion. But we have a suggestion: how about banks offer the capital required instead of governments? Companies could borrow against their assets when prices rise and the value of those assets is higher. A similar system is already in place in the US.&#xa0;</p> <p>Blackouts averted, the real news in San Francisco this week was the launch of a new iPhone. Is a lozenge-shaped camera cut-out on a smartphone something that millions of people can get excited about? Apparently so. </p> <p>The new iPhone 14 range has extra power and can connect to a satellite if you get stuck somewhere with no mobile service. So long as rivals do not produce groundbreaking alternatives, that should be enough to keep existing Apple users buying new products. </p> <p>Lex commends Apple's ability to <a href=\"https://www.ft.com/content/3f090fdf-5c1e-41fe-851f-fd8f272636b5\">put on a show too</a>. Facebook founder Mark Zuckerberg may have taken to calling himself a “product designer” but no one in Silicon Valley can top Apple for slick design. Its knack for selling consumers hardware they like at high prices while offering services that lock them into the Apple ecosystem means strong cash flow. The company has become a safe-ish space amid the tech market meltdown. Shares are down 15 per cent this year. That is nothing compared with Meta's 52 per cent drop, or the 24 per cent fall in Amazon's share price. </p> <p>One chink in its armour is app store fees. EU antitrust regulators have the fees in their sights. As Lex pointed out this week, some of the most strident action taken against US tech companies is outside the US. This week, Europe fined Instagram $400mn for breaking EU data privacy laws. </p> <p>The US is moving, albeit slowly, towards adopting a broader approach to consumer protection. In July, the Federal Trade Commission sued Facebook's parent company, Meta, to block its acquisition of Los Angeles-based virtual reality company Within. The kind of vertical integration that allowed Meta to buy Instagram and WhatsApp and amass billions of users might be coming to an end. </p> <p>One last point about Apple. The company celebrated the fact that the iPhone launch was its first in-person, indoors event since the pandemic began. What for? The launch was on video, not a stage. Like a lot of companies, Apple is determined to get its workers back in the office, praising the value of in-person meetings. Not everyone is convinced. Like the squirrels of San Francisco, workers are happy to be left where they are. </p> <p>A few other Lex notes I enjoyed this week: why Kim Kardashian is <a href=\"https://www.ft.com/content/23eee26a-3fb2-4b30-a4c1-e7631062712e\">getting into private equity</a>, how Russian banks are surviving sanctions and what is behind <a href=\"https://www.ft.com/content/5bc1eb9d-7ee5-48ee-a8c2-d46aeca1fef1\">Ubisoft's relationship with Tencent</a>. </p> <p>Enjoy your weekend, </p> <p><strong>Elaine Moore</strong><br><em>Deputy head of Lex</em> </p><p>Source: Elaine Moore 2022 'The Lex Newsletter: iPhones win beauty contest' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T16:30:12.770Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 2616,
+          "end": 2621
+        },
+        {
+          "start": 2645,
+          "end": 2650
+        },
+        {
+          "start": 2661,
+          "end": 2666
+        },
+        {
+          "start": 2823,
+          "end": 2828
+        },
+        {
+          "start": 2960,
+          "end": 2965
+        },
+        {
+          "start": 3895,
+          "end": 3900
+        },
+        {
+          "start": 4091,
+          "end": 4096
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.1225,
+        "baseWeight": 7.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.8774996,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

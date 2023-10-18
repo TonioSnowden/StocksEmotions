@@ -1,0 +1,56 @@
+{
+  "_id": "789b26afd6e683b77f1ba3c48fc849512551213d704ffc69581511c8c37e8567",
+  "feed": "ftcomall",
+  "title": "Intel to drop names based on transistor size for advanced chip tech",
+  "text": "<p>Intel has come up with a new weapon in its attempt to regain the edge in advanced chipmaking lost to Asian rivals: change the way it names its most advanced technology.</p> <p>The US chipmaker said on Monday that it would no longer refer to its latest generation of manufacturing technology based on the size of the transistors on its semiconductors. For decades this has been considered the gold standard in advanced chipmaking, as companies raced to pack ever-larger numbers of transistors on their chips.</p> <p>The shift follows Intel's loss of global leadership in manufacturing to TSMC and Samsung, ending its decades-long advantage of being the first to reach each new process step, or “node”.</p> <p>The new naming convention drops any reference to size. It means that Intel will no longer refer to the delayed “7 nanometre” chips that have caused its stumble, which will not appear until 2023. </p> <p>Instead, it will use the new brand Intel7 to refer to an intermediate generation of chips that are set to hit the market a year earlier.</p> <p>Sanjay Natarajan, an Intel senior vice-president, denied that the change was an attempt to obscure Intel's manufacturing issues. The company was enacting the shift to ease comparisons with rivals for customers as it moves into the foundry market, where it makes chips for other companies, he said.</p> <p>Some analysts also rejected suggestions that Intel was trying to hide <a href=\"https://www.ft.com/content/b14742ed-c070-4d16-9696-96fe72ac04b8\">its problems</a>, and said the move was a belated recognition that the old way of describing advances in chipmaking was no longer relevant. </p> <p>Although rivals still refer to their products in terms of size — TSMC calls its most advanced chips 5nm — the term does not have much meaning as other aspects of chipmaking have come to the fore, said Patrick Moorhead, a US chip analyst.</p> <p>The change came as Intel on Monday laid out a set of technologies and manufacturing targets for the next three years that it hopes will enable it to <a href=\"https://www.ft.com/content/fbb9cc57-9cec-4526-b6f9-110ef32b6bfe\">catch up</a> with TSMC and Samsung. They included new ways to package different parts of a chip into a single semiconductor — a technology that Pat Gelsinger, Intel's new chief executive, is counting on to put the company back in front.</p> <p>Moorhead said that Intel's most advanced chips already matched TSMC in performance per watt of power consumed, one of the main measures, but were lagging behind in density, or the number of transistors it can cram on to a chip — a critical measure for uses such as smartphones.</p> <p>Intel's old naming system made the company look two years behind TSMC when in fact it is only about six months behind, said Dan Hutcheson, head of VLSI Research.</p> <p>“If they hit all their dates, they have the potential to be ahead in 2024 — but that's a big ‘if',” Moorhead said.</p><p>Source: Richard Waters in San Francisco 2021 'Intel to drop names based on transistor size for advanced chip tech' FT.com 26 July. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-07-26T22:17:47.205Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1362,
+          "end": 1367
+        },
+        {
+          "start": 2065,
+          "end": 2070
+        },
+        {
+          "start": 1780,
+          "end": 1785
+        },
+        {
+          "start": 756,
+          "end": 761
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1118,
+          "end": 1123
+        },
+        {
+          "start": 1040,
+          "end": 1045
+        },
+        {
+          "start": 519,
+          "end": 524
+        },
+        {
+          "start": 2421,
+          "end": 2426
+        },
+        {
+          "start": 2162,
+          "end": 2167
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "4a269fa8f778efd3c3e184f00464485ae71601c49bfdcac4b407a0bd6d5a673e",
+  "feed": "ftcomall",
+  "title": "Letter: Folk tale sheds light on equities settlement times",
+  "text": "<p>In the traditional European folk tale of the “stone soup”, a traveller enters a starving village, promising a meal for all. His magic stone summons up a delicious broth. But it would be even better with a few vegetables which the villagers duly supply.</p> <p>If, as Gillian Tett reports (“Blockchain may change equities trading for good”, <a href=\"https://www.ft.com/content/9e38bee8-d70a-4f28-a771-c3d77068e9ba\">Opinion</a>, April 9), Paxos has managed to reduce trade settlement times “from days to hours” and that it is now challenging America's Depository Trust and Clearing Corporation, it is worth considering what the DTCC was doing to take so long.</p> <p>If speed is all that is required, a day trade completes in seconds, a programmed trade in milliseconds. Visa transactions are widely reported as being orders of magnitude faster than the energy hungry bitcoin.</p> <p>Could it be that the DTCC process, “transfer of assets, net off balances and collect margin to protect against losses” involves more than meets the eye? Some checks and balances perhaps? Archegos-like risk mitigation?</p> <p>What is at issue is whether Paxos's vegetables are anywhere near as good as the DTCC's. Blockchain is a distraction. </p> <p>Some versions of the stone soup tale have it that the traveller sells the stone to the villagers when he leaves. There must be a moral there. </p> <p><strong>Neil McNaughton</strong> <br><em>Editor, Oil IT Journal, Sevres, France</em></p><p>Source:  2021 'Letter: Folk tale sheds light on equities settlement times' FT.com 12 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-12T23:00:07.027Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 677,
+          "end": 681
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

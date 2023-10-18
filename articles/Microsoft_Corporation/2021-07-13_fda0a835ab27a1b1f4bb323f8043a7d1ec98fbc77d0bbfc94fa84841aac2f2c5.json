@@ -1,0 +1,56 @@
+{
+  "_id": "fda0a835ab27a1b1f4bb323f8043a7d1ec98fbc77d0bbfc94fa84841aac2f2c5",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Microsoft to Buy Cybersecurity  Firm RiskIQ as Attacks Grow  ----  By Matt Grossman",
+  "text": "<p>    Microsoft Corp. agreed to buy cybersecurity provider RiskIQ Inc., a deal that would add to Microsoft's portfolio of security services amid a rise in high-profile online attacks. </p><p>   San Francisco-based RiskIQ, founded in 2009, helps companies track their vulnerability to digital threats. That has become more important and more complicated as companies shift more a growing share of their work online to reach customers and connect employees remotely, Microsoft security executive Eric Doerr said in a blog post on Monday about the acquisition. </p><p>   For companies that use cloud computing, \"it's increasingly critical to understand the full scope of their assets to reduce their attack surface,\" Mr. Doerr wrote. </p><p>   Microsoft didn't disclose the deal's terms. Representatives for Microsoft and RiskIQ didn't respond to inquiries. </p><p>   Internet vulnerabilities have drawn concern this year as cyberattacks proliferate with wide-ranging effects. In May, the 5,500-mile Colonial Pipeline, crucial to the East Coast's energy infrastructure, was temporarily shut down by its operator after a cyberattack, leading to gasoline shortages. </p><p>   A month later, meat processor JBS SA said it was hit with a cyberattack that sent a portion of its beef and pork processing offline, a stoppage that reverberated through the food supply chain. </p><p>   U.S. hospitals and municipal services have also been victimized by cyberattacks, demonstrating the threat they pose to public safety. </p><p>   Mr. Doerr said that the addition of RiskIQ will expand Microsoft's existing security products for commercial customers. </p><p></p>",
+  "published": "2021-07-13T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 705,
+          "end": 714
+        },
+        {
+          "start": 15,
+          "end": 24
+        },
+        {
+          "start": 1497,
+          "end": 1506
+        },
+        {
+          "start": 769,
+          "end": 778
+        },
+        {
+          "start": 449,
+          "end": 458
+        },
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 91,
+          "end": 100
+        },
+        {
+          "start": 91,
+          "end": 102
+        },
+        {
+          "start": 1497,
+          "end": 1508
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

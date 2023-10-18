@@ -1,0 +1,38 @@
+{
+  "_id": "ee1750aa100560789a63f0ed64c9092a7c9aa0ff57a90dccbb3a3f26d15fe954",
+  "feed": "market-watch",
+  "title": "U.S. stocks advance as Wall Street returns from Labor Day break; Bed Bath & Beyond shares slump after death of CFO",
+  "text": "<p>* The Dow Jones Industrial Average DJIA rose 117 points, or 0.4%, to 31,435.</p><p>* The S&amp;P 500 SPX was up 10 points, or 0.3%, at 3,934.</p><p>* The Nasdaq Composite COMP was up 8 points, or 0.1%, at 11,639.</p><p>Major stock indexes fell for a third straight week on Friday, with the Dow posting a 3% weekly decline, the S&amp;P 500 declining more than 3% and the Nasdaq Composite shedding 4.2%.</p><p>What's driving markets</p><p>Post-summer trading kicked off Tuesday — following the Labor Day holiday — with Wall Street displaying a more positive mood than of late.</p><p>But lingering concerns about the economic fallout from a European energy crisis and the Federal Reserve's determination to damp multidecade high inflation were constraining gains.</p><p>\"Equities endured a renewed spell of weakness over the past two weeks, driven by the perception of a further hawkish tilt in Fed intentions,\" said Mislav Matejka, equity strategist at JP Morgan.</p><p>See: 'The psychology has changed so quickly': Why stock-market lows may be retested as S&amp;P 500 enters its weakest stretch of year</p><p>U.S. equities had initially bounced on Friday after the August nonfarm payrolls report was deemed not so strong that it would encourage the Fed to become even more aggressive in hiking interest rates.</p><p>But news later in the day that Russia would indefinitely shutdown the main gas pipeline to Europe, thereby adding to the chances of a sharp economic slowdown on the continent, pushed the S&amp;P 500 back towards its lowest level since late July.</p><p>\"Stocks ended a difficult week with a volatile pre-Labor Day session, buoyed by better than expected jobs numbers by almost every metric, especially a rise in the participation rate,\" said Evercore ISI in a note.</p><p>\"Offsetting the welcome econ report was the news that the Nord Stream pipeline would not restart as planned, reminding the world that Russia's leverage over Europe remains unprecedented, unrelenting, and an uncompromising threat to the Post WWII global order,\" Evercore added.</p><p>Goldman Sachs chief economist Jan Hatzius offered a cautiously optimistic note on the ability of the Federal Reserve to deliver a so-called soft landing of the U.S. economy, averting recession as it continues to raise interest rates and otherwise tighten monetary policy.</p><p>\"It requires sustained below-trend output growth, a rebalancing of the labor market via sharply lower job openings coupled with a moderate rise in unemployment, and a large decline in inflation,\" he said in a note to clients. \"While much can still go wrong and our probability that a (mild) recession will start in the next year remains about one in three, we see some encouraging signs that the economy is moving toward all three of these goals.\"</p><p>U.S. equities were aided on Tuesday by gains across European bourses as the new U.K. Prime Minister Liz Truss was rumored to be considering freezing household energy bills, the latest in a number of moves by European politicians looking to shield electorates from the cost-of-living crisis.</p><p>The U.S. 10-year Treasury yield BX:TMUBMUSD10Y rose to the highest level in more than six weeks, up 8 basis points to 3.28%.</p><p>WTI crude CL.1 was trading around $87.50 a barrel, up 0.7%, after the OPEC+ oil cartel said it would trim production by 100,000 barrel a day in October to support prices. The European natural gas benchmark, the ICE Dutch TTF future, was down on Tuesday but several percentage points higher than the Friday close.</p><p>U.S. economic updates set for release on Tuesday include the August S&amp;P services PMI survey at 9:45 a.m. Eastern and the August ISM services index at 10 a.m. Eastern.</p><p>Companies in focus</p><p>* Shares of retailer Bed Bath &amp; Beyond Inc. BBBY lost 11.5% after the death of Chief Financial Officer Gustavo Arnal was ruled a suicide.</p><p>* ADT Inc. ADT shares jumped nearly 11% after the home-security company confirmed that it had secured about $1.65 billion in new investments from insurer State Farm and Alphabet Inc.'s GOOG GOOGL Google to boost product innovation, marketing and customers.</p><p>* FedEx Corp. FDX shares fell 1.3% after Citi analyst Christian Wetherbee downgraded the package delivery company citing concerns over the pace of freight activity with upcoming data expected to \"skew negatively\" in the peak season. Wetherbee cut this rating to neutral from buy, and slashed his stock price target to $225 from $270.</p><p>U.S. stocks advance as Wall Street returns from Labor Day break</p>",
+  "published": "2022-09-06T13:37:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1964,
+          "end": 1977
+        },
+        {
+          "start": 1975,
+          "end": 1988
+        },
+        {
+          "start": 1975,
+          "end": 1982
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290125,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_id": "f0021f7aaf093d6b136a6eee067c7420b64ab018c45c21eed5cc142a0dce1e69",
+  "feed": "wall-street-journal",
+  "title": "Apple's Priciest iPhones Take Center Stage as Industry Smartphone Sales Decline; Tech giant is expected to reveal the iPhone 14 lineup during an event Wednesday",
+  "text": "<p>Those versions, which have been priced starting at $200 more than the base-level offering, are poised to get some of the most notable upgrades in a cycle that is expected to be more evolutionary than revolutionary for the iPhone.</p><p>Apple's first in-person product event since Covid-19 upended modern life will include reporters at the company's headquarters in Cupertino, Calif., and be broadcast simultaneously via its website beginning at 1 p.m. in New York.</p><p>The question among many investors is how long can demand—which has been at record heights—last for the iPhone during uncertainty around the economy and rising prices.</p><p>Apple has remained confident that there is still interest in converting to the latest technology. \"Around the world, 5G penetration is still low,\" Tim Cook, Apple chief executive, told analysts in July. \"And so I think there's reason to be optimistic.\"</p><p>So far, Apple has bucked an industrywide decline in smartphone shipments, which slipped almost 9% in the past quarter compared with a year earlier, according to researcher International Data Corp. During the first half, the bright spot in the market was smartphones priced above $900, according to Counterpoint Research.</p><p>Since the arrival of the 5G phones in late 2020, U.S. buyers have been shelling out more for their iPhones. Average selling prices of the iPhone rose to $954 in the June quarter compared with $783 in the September quarter in 2019, when the iPhone 11 was introduced, according to estimates by Consumer Intelligence Research Partners' survey of consumers.</p><p>That is because more buyers have been opting for the more expensive Pro models and spending more to add more storage on the device, which allows for more photos and data-heavy videos to be kept on the phone.</p><p>The iPhone 13 Pro comes with 128 gigabytes, while an extra $100 bumps that to 250 gigabytes. For an extra $500, buyers can get 1 terabyte. More than 50% of iPhone buyers were upgrading their storage in the 12 months ending in June, according to Consumer Intelligence Research Partners, compared with less than 40% in 2019.</p><p>\"That phone mix has moved more premium in recent years,\" said Josh Lowitz, co-founder of Consumer Intelligence Research Partners. \"For me, that was not anticipated.\"</p><p>Continuing to sell pricier phones could help Apple boost revenue even if the rate of unit sales slows or becomes stagnant in the coming fiscal year. The 5G phones fueled estimated unit growth of 27% in fiscal 2021, according to FactSet data. Apple doesn't release unit sales.</p><p>This fiscal year, which ends in September, is expected to see iPhone unit sales slow to 2.5% and grow just 0.8% next year, according to analysts. But those analysts, on average, expected iPhone revenue to rise 6.7% to a record $204.9 billion this fiscal year, followed by an expected 2.7% rise in the 2023 fiscal year.</p><p>On Wednesday, the biggest changes are planned for the most-expensive Pro versions. Those models are expected to have more-powerful cameras and better video performance and to receive Apple's new A16 chip, according to people familiar with the plans.</p><p>The base models will get an enhanced version of the current A15 processor. The base lineup is also expected to get the larger 6.7-inch display along with the cheaper 6.1-inch version, while the iPhone 14 lineup won't have the Mini version with the 5.4-inch display this year, people familiar with the plans said.</p><p>The Pro phones, which have started at $999 and $1,099, might also see a price increase of $100, while the base models stay the same—making the difference between a base model and a flagship model $300, analysts have predicted.</p><p>Pricing is always a complicated endeavor, made even more difficult this year by rising costs for parts and falling buying power among consumers. But people continue to spend on higher-end phones.</p><p>Those pricier phones have been made more palatable to buyers, thanks to a war between U.S. cellular carriers fighting to keep market share as they push to transfer as many customers over to new faster 5G connectivity.</p><p>Those carriers have been investing heavily in the 5G technology, and they saw the first iPhones capable of using the technology as a potential catalyst for poaching customers, setting off record incentive spending to offer deals to customers to upgrade their phones.</p><p>SHARE YOUR THOUGHTS</p><p>What new iPhone features would you be most likely to pay for? Join the conversation below.</p><p>In the final three months of last year, after the iPhone 13 lineup fully launched, U.S. carriers collectively spent a record amount on incentives totaling $5.7 billion and the average customer saw about $300 of benefit, according to consulting firm BayStreet Research LLC.</p><p>The carriers are effectively subsidizing Apple's high iPhone prices to get people to buy the Pro models, BayStreet Founder Cliff Maldonado said. He said he expects record incentives again when the latest iPhones arrive.</p><p>With iPhone buyers on a little more than three-year cycle of upgrading, iPhone 11 owners will be emerging into a dramatically different market than when carriers spent an estimated $2 billion on incentives during the final three months of 2019.</p><p>\"The iPhone 11 was a big cycle,\" Mr. Maldonado said. \"This is the last big chunk of people who don't have 5G.\"</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple's Priciest iPhones Take Center Stage as Industry Smartphone Sales Decline</p>",
+  "published": "2022-09-05T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 229,
+          "end": 234
+        },
+        {
+          "start": 230,
+          "end": 235
+        },
+        {
+          "start": 623,
+          "end": 628
+        },
+        {
+          "start": 881,
+          "end": 886
+        },
+        {
+          "start": 2281,
+          "end": 2286
+        },
+        {
+          "start": 2476,
+          "end": 2481
+        },
+        {
+          "start": 3008,
+          "end": 3013
+        },
+        {
+          "start": 4710,
+          "end": 4715
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

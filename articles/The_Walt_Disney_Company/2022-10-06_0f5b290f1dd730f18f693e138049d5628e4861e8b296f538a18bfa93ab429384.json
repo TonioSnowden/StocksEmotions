@@ -1,0 +1,24 @@
+{
+  "_id": "0f5b290f1dd730f18f693e138049d5628e4861e8b296f538a18bfa93ab429384",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>---</p><p>Carolyn Everson was chief operating officer and executive vice president of U.S. ad sales for Viacom's MTV Networks. An Exchange article in some editions Saturday about Ms. Everson's appointment to Walt Disney Co.'s board of directors incorrectly said she was the chief operating officer of Viacom.</p><p>(See: \"EXCHANGE </p><p>---</p><p> Disney, Loeb Find A Truce </p><p>---</p><p> Carolyn Everson, tech executive, to join board\" -- WSJ October 1, 2022)</p>",
+  "published": "2022-10-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 323,
+          "end": 329
+        },
+        {
+          "start": 202,
+          "end": 213
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

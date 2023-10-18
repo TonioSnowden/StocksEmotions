@@ -1,0 +1,38 @@
+{
+  "_id": "82f604f9806579176e08e0f70413bb6ace900b77a4572ca1516e4c0e06b1df9b",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Heard on the Street: Investors Should Go to Where the 'Float' Is --- Holding on to money longer wasn't worth it for companies in the era of low rates and excess cash, but that is starting to change",
+  "text": "<p>As trillions of dollars move between two places, or when they just sit in the middle, the sum is often called \"float.\" In the long era of easy money and superlow rates, those vast sums didn't matter much. Now they do. With rates rising and the Federal Reserve fighting to restrain inflation, merely a percentage of that mountain of money is in and of itself serious money. That will change things for companies and individuals, for better or worse.</p><p>Banks and brokerages are the most obvious and oft-discussed beneficiaries of the rising value of float since a key part of their business is collecting cash from investors and depositors and earning a spread for as long as they can hold on to it. Warren Buffett has said that one of the main reasons he got into insurance was because it operated on a \"collect now, pay later\" model that generated a substantial float that he could invest. Though bank stocks have struggled with worries like capital and credit risk, S&amp;P 500 insurance companies are up over 4% this year, well ahead of the broader market's 11% decline.</p><p>But the benefit of float is playing out across many other types of businesses. For example, payroll-services providers collect money from employers and send it to employees. As that cash moves, these firms hold some of it for a while, such as before sending tax withholdings to governments. During that time, they can earn interest income on it. As interest rates rise, that is a fast-growing source of revenue. Automatic Data Processing, for example, anticipates a roughly 60% jump in its next fiscal year in interest revenue on client funds, to a range of $720 million to $740 million. Its stock is up over 5% so far this year.</p><p>Likewise, companies that collect monthly mortgage payments can earn more on the cash that they hold before it is paid out to other parties. This helps further boost the value of mortgage-servicing rights -- the right to collect payments from homeowners -- which generally rise as interest rates do, as fewer borrowers prepay their mortgages. That can be a big offset to declining mortgage origination volumes.</p><p>Mr. Cooper Group, one of the biggest mortgage servicers, said in its recent quarterly report that it expects its servicing pretax operating income to jump from $7 million in the first quarter to more than $125 million in the fourth quarter. It has reported roughly $750 million in positive markups on its servicing rights so far in 2022. The stock has defied a big drop across the mortgage sector, rising almost 8% this year.</p><p>Of course, cash that is valuable to someone who can hold it is also valuable to the party sending it. Businesses that suddenly find themselves subsidizing their counterparties may pivot to keep more of the float on their books. For example, exchange and clearing giant CME Group saw the percentage rate of interest income it earns on cash collateral it holds almost triple in the second quarter. Now its clearing members are starting to hold on to more of their cash: CME expects the proportion of noncash collateral posted, which earns it less, to rise over time.</p><p>Unlike savvy companies, consumers far less often have the leverage to hang on to their money. Homeowners can't just decide to send their mortgage payments late, for example. On the flip side, too, some banks have in recent years made incoming paychecks available to customers a day or two before the money actually hits their account. As rates rise and cash becomes more scarce, and valuable, the opportunity cost of handing it out early to customers goes up.</p><p>Some companies might love to keep more cash for longer before paying bills -- but haven't because they didn't want to upset their vendors during a time of supply-chain disruption, according to a recent review by payments advisers at JPMorgan Chase. Businesses have also tried to be more aggressive about collecting money they are owed, which in part reflects strong demand and a shift toward e-commerce, where payment is often instant, according to Gourang Shah, JPMorgan's global advisory head for payments. The average number of days to collect payment after a sale for a subset of S&amp;P 1500 companies dropped by more than six days from 2020 to 2021, the review found.</p><p>But if supply chains loosen up, companies might try to take advantage by holding on to their cash for longer. Meanwhile, companies that are scrambling for cash will have to pay up for it, with rising rates on short-term borrowing or by selling their future incoming payments at a discount. This might be good news for lenders or investors. But it could also increase risk and expenses for companies that are operating with smaller cash cushions. Shortages of cash can quickly ripple throughout the markets, too. A brief systemic cash shortage in 2019 led to a spike in overnight borrowing costs and panicked investors.</p><p>With so much cash from the pandemic dash for liquidity still sloshing around, things might not get so acute for a while. The Fed might even cut short its efforts to tighten access to money if there is sufficient worry about the economy. But in the meantime, businesses betting on the float could help some investors stay buoyant -- or to be an anchor for others.</p>",
+  "published": "2022-08-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 4021,
+          "end": 4029
+        },
+        {
+          "start": 3991,
+          "end": 3999
+        },
+        {
+          "start": 3762,
+          "end": 3776
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "dbab91faef059b1105c4ef88bde246a74036444d912d9052ea4f971c342f7938",
+  "feed": "wall-street-journal",
+  "title": "Why You Should—or Shouldn't—Buy a Home Security Camera; Smart cameras from Ring, Nest, Arlo and others are useful, but you can protect your privacy and that of your neighbors by enabling encryption and other settings",
+  "text": "<p>They're in demand in part because professional systems can cost hundreds of dollars to install, along with steep monthly fees. You can buy a smart camera for as low as $50, pay around $4 a month for cloud storage and get activity-based notifications on your phone.</p><p>Cameras are convenient for knowing when packages are delivered or when the dog walker drops off the pooch while you're not around. But they capture sensitive data that's sent from your home to company servers—and you should know how to protect your footage from being seen or shared without your permission.</p><p>Amazon.com Inc.-owned Ring gave surveillance footage to law enforcement 11 times this year without a warrant or customers' consent. The company said the requests met its exception for emergencies. In the past, hackers with stolen credentials broke into Ring camera web portals and scared the living heck out of unsuspecting families with the devices' two-way talk capabilities.</p><p>\"Ring holds a high bar for itself and deeply scrutinizes each emergency request,\" a spokeswoman said. The company might provide information to law enforcement when there is danger of death or serious physical injury, such as a kidnapping or attempted murder, she said. \"These emergency requests are reviewed by trained professionals who disclose information only when that legal standard is met,\" she added.</p><p>If you're uncomfortable with a company making that determination, there are settings you can enable to prevent sharing, as well as platforms that make privacy the default. Here's what you should think about when installing a smart surveillance camera.</p><p>End-to-End Encryption</p><p>When Ring, Google's Nest or Arlo send footage from the camera to the company's servers, that data is automatically encrypted. Translation: It's protected if a hacker gains access to those servers.</p><p>However, the companies themselves can decrypt that data and—if legally or morally compelled—share it. A spokeswoman for Alphabet Inc.'s Google said that to date, the company has never given camera data to authorities without customer consent, but it reserves the right to do so if it considers a situation an emergency.</p><p>There is a method of protection, called end-to-end encryption, that would hide videos from both hackers and the companies. \"It means that only your device, for example, your phone, can see the video that is recorded,\" said David Choffnes, executive director of the Cybersecurity and Privacy Institute at Northeastern University.</p><p>End-to-end encryption, while recommended by Prof. Choffnes and others, isn't always an option. Neither Google Nest nor Arlo offers the ability to fully encrypt camera videos. Ring has an opt-in setting for many products, but not its battery-powered models. A spokeswoman confirmed that Ring wouldn't be able to decrypt such videos for law enforcement.</p><p>There are, however, trade-offs for turning on Ring's end-to-end encryption. You can only view video on authorized mobile devices, not through your web browser. Some features are disabled, such as image previews within notifications and the ability to watch streams on other Amazon devices. </p><p>You can control any Apple HomeKit-enabled camera, such as Logitech's Circle View, from iOS's Home app. There's a setting to automatically disable recording while you're at home. PHOTO: Nicole Nguyen/The Wall Street Journal</p><p>On Apple Inc.'s HomeKit Secure Video platform, end-to-end encryption is the default. The service requires an iCloud+ plan of 50GB or higher, though the videos won't eat into your allotted storage. You need a home \"hub\" in the form of a HomePod, iPad or Apple TV. And, of course, everyone who wants access to the camera streams must use an Apple device.</p><p>There is a limited selection of HomeKit devices. I like Eve's indoor cam for its slim profile, as well as Logitech International SA's Circle View doorbell and camera for face recognition and outdoor use. Because all the footage flows through the Home app, it's fine to mix and match brands.</p><p>Just remember that end-to-end encryption is only as secure as your devices. \"If someone else can access your device or your passphrase—for example, a family member, or even law enforcement—they can see the videos,\" said Prof. Choffnes.</p><p>Outdoor vs. Indoor</p><p>When you set up a camera outdoors, often mounted at the doorbell, see if it's pointed at any area that would be considered a private space such as, for example, a neighbor's bedroom. Generally, public roads and your own front porch are OK. Set up zones that only trigger recordings when someone enters that space. (Ring, Google Nest, Arlo and HomeKit devices have this functionality.) Ring users can also set up privacy zones, which blackout areas from your camera's field of view, so they aren't recorded in videos.</p><p>Indoor cameras need slightly different considerations. Many people avoid putting them in bedrooms, for instance. These devices will be watching your personal spaces, so choose a brand with strong security and end-to-end encryption. Use activity zones and automation—such as only recording when you're not at home or on a schedule—to limit the amount of footage collected.</p><p>Make sure you have a long, unique password and two-factor authentication protecting the camera account, as well as a strong passcode on your phone. With your login, hackers could watch and listen in on live video feeds of your home.</p><p>Let everyone in your household, including guests, babysitters and housekeepers, know there's a camera around. (And, seriously, don't be creepy about where you put it.)</p><p>You might already have a security device in your home if you have an Amazon Echo product. Microphones on Echo speakers are trained to recognize the sound of broken glass and smoke alarms. Echo Show devices with cameras can be live-streamed remotely.</p><p>To Post or Not to Post</p><p>Many brands let you clip recordings, which can then be posted to social media. Ring even has its own network, called Neighbors.</p><p>SHARE YOUR THOUGHTS</p><p>Do you have a smart security camera? What tips do you recommend? Join the conversation below.</p><p>Even if you feel tempted to shame a person you suspect of wrongdoing, take a breath before sharing. It's legal to record someone in public, where there is no expectation of privacy, according to law nonprofit New Media Rights. But the video could include landmarks that reveal where you live. And you should avoid situations leading to wrongful accusations or mistaken identity.</p><p>Ring has specific guidelines on what's allowed on its Neighbors app. Sharing a video of a hit-and-run is OK. Posting footage of someone walking through an unfenced front yard isn't.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p><p>Why You Should—or Shouldn't—Buy a Home Security Camera</p>",
+  "published": "2022-07-31T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3347,
+          "end": 3357
+        },
+        {
+          "start": 3683,
+          "end": 3688
+        },
+        {
+          "start": 3347,
+          "end": 3352
+        },
+        {
+          "start": 3597,
+          "end": 3602
+        },
+        {
+          "start": 3347,
+          "end": 3356
+        },
+        {
+          "start": 3141,
+          "end": 3146
+        },
+        {
+          "start": 3597,
+          "end": 3605
+        }
+      ]
+    }
+  ]
+}

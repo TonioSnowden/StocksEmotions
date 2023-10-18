@@ -1,0 +1,34 @@
+{
+  "_id": "201a7bda448de11ca7b0f15941e6b8423c94c8c9d5d1d0dd982c1ca095aaedf5",
+  "feed": "wall-street-journal",
+  "title": "Gasoline Prices Extend Declines Into Labor Day Weekend; Canceled trips, concerns about slowing growth in the U.S. and abroad cut into demand for motor fuel",
+  "text": "<p>\"Finally a holiday that has seen prices plummeting ahead of it,\" said Patrick De Haan, head of petroleum analysis at price tracker GasBuddy.</p><p>The slide is providing some relief to consumers struggling with higher prices for everything from gas to milk and bread this year. Four-decade highs in inflation arepressuring the Federal Reserve to sharply raise interest rates and spurring fears of a recession. That has hurt prices for everything from tech stocks to fuel.</p><p>Analysts don't expect prices togo back up to $5 anytime soon, especially with the seasonally low-driving winter ahead. Demand for fuel in the U.S. was at 8.6 million barrels a day during the week ended Aug. 26, which is nearly 1 million barrels a day less than a year ago, according to the latest data by the Energy Information Administration.</p><p>\"We do expect energy prices to moderate in the fall,\" said Louis Navellier, chief investment officer at Reno, Nev., money manager Navellier &amp; Associates. He forecasts gasoline prices could fall by 30 to 40 cents in the winter.</p><p>Prices at the pump track underlying crude-oil prices, which have also retreated recently. West Texas Intermediate crude futures recently posted their third straight monthly decline, ending August down at $89.55 a barrel. That is off 28% from their highs of about $124 in March, when worries about supply disruptions from Russia's invasion of Ukraine, coupled with surging demand, sent prices to multiyear peaks.</p><p>Despite the recent declines, energy stocks have extended their advance from last year. Many reported record profits in the second quarter, fueled by highest energy prices in over a decade and lucrative oil-refining margins. Chevron Corp. is up 32%, Exxon Mobil Corp. has gained 53% and Shell PLC has added 41% so far this year.</p><p>Gasoline prices are still about 20% higher than last year. The end of the Biden administration's oil releases from the strategic petroleum reserve and demand recovery in the U.S., China and Europe also could power prices.\"As soon as China resumes economic growth, as soon as Europe gets out of recession, then the worldwide demand picks up again,\" Mr. Navellier said. He is adding to his energy positioning, buying midstream, refining and coal companies.</p><p>Gasoline Prices Extend Declines Into Labor Day Weekend</p>",
+  "published": "2022-09-01T15:38:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1673,
+          "end": 1686
+        },
+        {
+          "start": 1660,
+          "end": 1672
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

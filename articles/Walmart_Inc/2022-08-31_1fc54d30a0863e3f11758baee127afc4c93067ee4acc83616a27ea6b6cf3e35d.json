@@ -1,0 +1,42 @@
+{
+  "_id": "1fc54d30a0863e3f11758baee127afc4c93067ee4acc83616a27ea6b6cf3e35d",
+  "feed": "market-watch",
+  "title": "Walmart's Sam's Club to raise membership prices for first time in 9 years",
+  "text": "<p>\"We are mindful of the financial pressures on wallets right now,\" said Sam's Club Chief Executive Kathryn McLay.</p><p>CNBC first reported on the price increase.</p><p>The slated price change comes as Walmart in July said it was having to cut prices to reduce merchandise levels at its flagship chain and Sam's Club locations.</p><p>Walmart's Sam's Club to raise membership prices for first time in 9 years</p>",
+  "published": "2022-08-31T17:59:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 187,
+          "end": 194
+        },
+        {
+          "start": 189,
+          "end": 196
+        },
+        {
+          "start": 315,
+          "end": 322
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

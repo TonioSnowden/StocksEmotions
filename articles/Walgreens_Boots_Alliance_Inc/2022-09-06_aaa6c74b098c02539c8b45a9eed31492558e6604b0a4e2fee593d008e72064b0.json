@@ -1,0 +1,30 @@
+{
+  "_id": "aaa6c74b098c02539c8b45a9eed31492558e6604b0a4e2fee593d008e72064b0",
+  "feed": "ftcomall",
+  "title": "CVS/Signify: victory in Amazon shootout comes at a cost",
+  "text": "<p>M&amp;A fever is burning up the healthcare sector. US drugstore operator CVS is the latest to catch the dealmaking bug. It is <a href=\"https://www.ft.com/content/6a41c9c9-9d47-4c69-8d4c-b221c2d25073\">splashing out $8bn</a>, including debt, to acquire homecare provider Signify Health. The move fits in with CVS's efforts to move away from its retail roots. But it is paying a hefty premium to do so.</p> <p>CVS beat Amazon, among others, in an auction by making a $30.50-a-share offer. That shows that, for all Amazon's ballyhooed intention to disrupt the high-cost US healthcare industry, incumbents still have plenty of spending power and fight left in them.</p> <p>The price represents a 106 per cent premium to Signify's undisturbed three-month share price to August 1, when reports of deal talks first emerged. </p> <p>Previous CVS bets in the healthcare sector include pharmacy benefits manager Caremark Rx and insurer Aetna. These have helped protect the business from the squeeze on bricks and mortar retail. Last year, retail sales accounted for just over a third of CVS's total group revenue. At rival Walgreens Boots Alliance, the figure is 85 per cent.</p> <p>CVS shares — up 25 per cent over the past five years — have vastly outperformed those of rivals. Walgreens and Rite Aid are down 56 per cent and 86 per cent respectively.</p> <p>CVS did not quantify the potential cost cuts. It says it expects the deal to generate “a high single-digit return on invested capital over time”. This will probably come in the form of savings for Aetna. Treating patients — especially low-income ones — at home is cheaper than hospital stays. If CVS can get more people that its insurance covers to use Signify, which has a network of 10,000 doctors who make home visits, this should in theory help lower the amount it pays out.</p> <p>Even so, including debt, CVS is paying the equivalent of 36 times Signify's estimated ebitda for this year. The market values CVS at just 9.5 times.&#xa0;After Amazon snatched clinic chain One Medical in July, CVS may feel it has no choice but to stump up.&#xa0;But it will still need to show a return on this acquisition, regardless of how darkly the shadow of the ecommerce giant falls across its industry.</p><p>Source:  2022 'CVS/Signify: victory in Amazon shootout comes at a cost' FT.com 6 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-06T17:20:16.139Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 1008,
+          "end": 1032
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9025838,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 8.380413e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

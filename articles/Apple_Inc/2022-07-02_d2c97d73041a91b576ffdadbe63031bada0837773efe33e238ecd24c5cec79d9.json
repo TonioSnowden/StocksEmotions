@@ -1,0 +1,20 @@
+{
+  "_id": "d2c97d73041a91b576ffdadbe63031bada0837773efe33e238ecd24c5cec79d9",
+  "feed": "economist-newspaper",
+  "title": "Virtual private networks: Holes in the great firewall",
+  "text": "<p>VPNs are becoming increasingly important in China, which has grown more inward-looking since the start of the covid-19 pandemic. The country's digital barricade against content it deems undesirable, called the \"great firewall\", has been reinforced under President Xi Jinping. He has deployed an army of censors and the latest technology to combat foreign influence. A new draft rule would see all comments on Chinese social media screened before they are posted. But VPN software helps internet users in China get around all this by making it look as though their computer or mobile phone is located in a different country. They are thus able to view websites that are blacklisted by the government, such as Wikipedia, Facebook and Twitter.</p><p>The question for the government is how much of this so-called \"wall climbing\" to allow. Technically it is illegal to use a VPN in China without the government's permission. In recent years the state has made it harder to find one, closing down a lot of local suppliers. Apple removed many VPN products from its Chinese app store in 2017, citing domestic regulations. Obtaining a VPN today often involves being introduced to a seller on WeChat, a messaging app, by an existing customer.</p><p>Still, the government could clamp down harder if it wanted to. Those caught using VPNs tend to receive a slap on the wrist. The state seems able to throttle the networks. During important political events, users say VPNs often slow down.</p><p>China, though, must also stay connected to the world. Without VPNs international firms could not operate in China. Foreigners would be less likely to come for work or study. Local firms would struggle, too. Chinese scientists need VPNs to do research. \"Essentially the Chinese government wants to have their cake and eat it too when it comes to internet access--they want to control it, but also to exploit the range of economic possibilities that digital freedom offers,\" says a spokesperson for Express VPN, a big provider of the software.</p><p>Others see a more sinister motive. \"Perhaps the authorities do not completely crack down on the use of VPNs because it helps them to identify those who are 'picking quarrels',\" says a co-founder of GreatFire, a Chinese censorship watchdog. Picking quarrels is an ill-defined crime, often used to punish dissidents. Some have been arrested after criticising the state on Twitter. Officials, for their part, use authorised VPNs to pick online quarrels with America.</p><p>What if the government were to loosen up a little? In a study published in 2018 researchers at Stanford and Peking Universities gave hundreds of students at two universities in Beijing temporary access to the uncensored internet. Almost none of them browsed foreign news websites (unless given incentives to do so). Most looked at pornography, which is often blocked by the great firewall. \"Censorship in China is effective not only because the regime makes it difficult to access sensitive information,\" said the authors. \"It fosters an environment in which citizens do not demand such information in the first place.\"</p><p>That seems to have been the case with Mr Li, who has not appeared online since the cake incident. Confused by his disappearance, many of Mr Li's fans reportedly sought out information on the Tiananmen Square massacre, using VPNs.</p>",
+  "published": "2022-07-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1011,
+          "end": 1016
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "cf46ee4a451fb3b9004889223fb62cbbd130bb5a10076084186a39407d7a4801",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Adidas CEO Sets Surprise Exit Next Year  ----  By Georgi Kantchev",
+  "text": "<p>   BERLIN -- Adidas AG said Chief Executive Kasper Rorsted will step down next year in an unexpected development for a company that has struggled in its key China market recently. </p><p>   The German sportswear company said the decision was made by mutual agreement and that Mr. Rorsted will remain in office until a new leader is appointed in 2023. </p><p>   \"After three challenging years that were marked by the economic consequences of the Covid-19-pandemic and geopolitical tensions, it is now the right time to initiate a CEO transition and pave the way for a restart,\" the company said Monday. </p><p>   Adidas shares closed down 5% in Frankfurt on Monday after the announcement. They are down 38% this year. </p><p>   Mr. Rorsted has led the company since 2016 and his contract was due to run out in 2026. During his tenure, Adidas advanced its digital transformation and grew online sales more than fivefold. But revenue growth lagged behind peers such as Nike Inc. and Puma SE in recent years, heaping investor pressure on the management. </p><p>   \"The investor debate around change in leadership at Adidas has increased in intensity in recent months based on our discussions,\" analysts at RBC Capital Markets said on Monday. </p><p>   In particular, Adidas has been held back by challenges in China. Sales have been hit by a consumer boycott that began last year after the company joined other Western brands to raise concerns about forced-labor allegations in China's Xinjiang region. Chinese sportswear makers, meanwhile, have improved in quality and design in recent years, increasing their market share. </p><p>   More recently, China's Covid-19 restrictions have hit Adidas's revenues in the region. In July, Adidas cut its earnings target for the year, citing the slowdown in the country. China is the largest apparel and footwear market in the world, valued at $376 billion in 2021, followed by the U.S. at $330 billion, according to market researcher Euromonitor International. </p><p>   Other factors, such as suspended operations in Russia and the supply chain problems that have engulfed global business, have contributed to the company's lackluster performance lately. </p><p>   In the second quarter, Adidas sales rose 4% at constant currency driven by Europe and the Americas regions, while revenue in mainland China, Taiwan and Hong Kong declined by 35%. </p><p>   Mr. Rorsted, who was born in Denmark, joined Adidas from German chemicals and consumer-goods company Henkel AG &amp; Co. KGaA, where he was CEO. </p><p>   \"The past years have been marked by several external factors that disrupted our business significantly,\" Mr. Rorsted said on Monday. \"It required huge efforts to master these challenges.\" </p><p>   \"This is why enabling a restart in 2023 is the right thing to do -- both for the company and me personally,\" he said. </p><p></p>",
+  "published": "2022-08-23T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 923,
+          "end": 932
+        },
+        {
+          "start": 916,
+          "end": 925
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0002103,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00021028519,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

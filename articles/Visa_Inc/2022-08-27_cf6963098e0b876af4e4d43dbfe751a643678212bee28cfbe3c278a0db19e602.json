@@ -1,0 +1,34 @@
+{
+  "_id": "cf6963098e0b876af4e4d43dbfe751a643678212bee28cfbe3c278a0db19e602",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Disney's Pricing Magic:  You're Billing  Me for That?  ----  By Jacob Passy",
+  "text": "<p>\n  It's not just Disney World. From grocery bags at the supermarket to \"convenience fees\" for online transactions, more and more things that used to be free are now costing us money. </p><p>\n  Add-ons and extras are everywhere, often boosting actual costs well over advertised prices. New line items on power and cable bills often slip by unnoticed. Even securing a hard copy of your own bank statement might come at a cost. </p><p>\n  Things we used to buy once -- like music or DVDs -- are being replaced by subscriptions that we pay over and over. Even our cars aren't immune: In some countries, BMW owners are paying a monthly fee for heated seats. </p><p>\n  Here are four other fees that have bedeviled Americans recently. </p><pre> </pre><p>\n  Airlines </p><pre> </pre><p>\n  Prefer an aisle seat? Don't like sitting in the back of the plane? These days, that can cost you. Major airlines have all introduced \"preferred seats.\" Travelers who choose them must pay an extra fee -- sometimes to the tune of more than $100 -- on top of their airfare. </p><p>\n  To be clear, these are not seats with extra legroom or other perks. Rather, these are standard economy seats, often toward the front of the plane and near the aisle or window. Laurie Garrow, a professor at the Georgia Institute of Technology's School of Civil and Environmental Engineering, described these as \"attributes of the seats that customers are willing to pay for.\" </p><p>\n  \"Legroom is not the only quality of a seat that matters to some individuals,\" she said. </p><pre> </pre><p>\n  Hotel pools </p><pre> </pre><p>\n  Like airlines, hotels are notorious for attaching additional charges to the bill: resort fees, self-parking fees and fees for checking in early. Pool chairs are now sometimes added to the mix. Hotels in locations ranging from Las Vegas to Honolulu to Phoenix have begun charging for the privilege of a poolside lounge chair. This isn't a cabana -- though sometimes the reservations include towels, umbrellas, cold water and ice. </p><p>\n  Generally there will still be plenty of free seats available at the hotel pool, but they're not always in a prime location. To get the best seats, at no additional charge, guests will need to snag them early in the day. </p><pre> </pre><p>\n  Dining out </p><pre> </pre><p>\n  Dining out at your favorite restaurant can cost you extra these days -- and not just because menu prices have gone up. Many eateries started tacking on inflation charges this year to combat the high price of food and labor, plus the higher transaction fees imposed by card networks like Mastercard and Visa. </p><p>\n  Sometimes these charges are referred to in colloquial ways, as a \"fuel surcharge\" or a \"kitchen appreciation\" fee. </p><p>\n  Romano's Macaroni Grill described the $2 fee it began adding to diners' checks as temporary. \"It would have been easy to simply raise our menu prices, but we believe these burdens will eventually pass and as such, we elected to employ a temporary solution with the $2 fee,\" the restaurant chain said on its website. </p><p>\n  Restaurant patrons can sometimes get the added surcharges removed from the bill if they request that they be taken off. </p><pre> </pre><p>\n  Blockbuster movies </p><pre> </pre><p>\n  Avoiding spoilers for the next blockbuster movie may cost you. Earlier this year, AMC Theatres imposed a surcharge when \"The Batman\" first came out. The surcharge cost between $1 and $1.50, depending on where the theater was located. </p><p>\n  Other chains did the same. Viewers at a Cinemark theater in Ohio paid an extra $2 to see \"The Batman.\" Cineworld Group-owned Regal Entertainment also charged more for the popular film. </p><p>\n  During an earnings call with analysts in February, Cinemark Chief Financial Officer Melissa Thomas said the company was \"in the midst of a series of tests\" related to its ticket pricing to see how the pandemic may have changed things. Those tests, she said, could lead to \"increases or decreases in pricing, depending upon theater, market, time of day, week, and various other factors.\" </p><p></p>",
+  "published": "2022-08-27T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2390,
+          "end": 2394
+        },
+        {
+          "start": 2417,
+          "end": 2421
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

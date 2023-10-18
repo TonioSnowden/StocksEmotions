@@ -1,0 +1,30 @@
+{
+  "_id": "124be7aab4ba081c1f990818b058a75b33ac87918ad325e60b3ea755a0372347",
+  "feed": "market-watch",
+  "title": "Stocks may be headed for another selloff according to RBC's 'hedge fund hot dogs' basket",
+  "text": "<p>See: Hedge funds pile up $125 billion bet against the S&amp;P 500's big summer rally</p><p>Since it created the basket, the team has noticed a pattern: when the \"hedge fund hot dogs\" start to underperform an equal-weighted version of the S&amp;P 500, it's often a sign that a broad-based selloff in stocks was in store.</p><p>It happened in 2018, when the basket started to underperform about a month before the selloff in the fourth quarter of that year. And after a brief period of stabilization over this summer, the \"hot dogs\" are underperforming once again.</p><p>The indicator has worked in the other direction as well: Calvasina and her team explained that \"hot dog\" outperformance in April and May made them optimistic that a near-term bottom might be approaching.</p><p>The chart below depicts the performance of the 'hedge fund hot dogs' basket relative to the equal-weighted S&amp;P 500 index.</p><p>Over the past couple of weeks, the basket has started to underperform once again.</p><p>\"The weakness of this basket so far in 3Q22, when just 25% of the names on this list have outperformed the S&amp;P 500, is something we are keeping a close eye on as it may be signaling that stocks generally are poised to experience another bout of volatility in coming months,\" the team wrote.</p><p>Here's a breakdown of the basket's constituents ranked by aggregate dollar value owned by the 300 funds tracker by RBC.</p><p>It's notable that megacap tech names like Microsoft Corp. MSFT, Alphabet Inc. GOOG, Amazon.com Inc. AMZN, Meta Platforms Inc. META, Apple Inc. AAPLand Tesla Inc. TSLAare among the biggest constituents of the basket.</p><p>Many of these are the same stocks that led the market higher for much of the past decade through the S&amp;P 500's record high reached in January.</p><p>They also lead the market lower during the historic selloff that followed during the first half of the year.</p><p>See: U.S. stocks mostly higher as strong economic data lifts sentiment ahead of Powell speech</p><p>While the S&amp;P 500, Dow Jones Industrial Average DJIAand Nasdaq Composite COMPwere each on track to close higher Thursday, all three benchmarks remained mired in the red for the week. If the S&amp;P 500 and Nasdaq were to Friday's session at these levels, it would mark their second consecutive week in the red.</p><p>Stocks may be headed for another selloff according to RBC's 'hedge fund hot dogs' basket</p>",
+  "published": "2022-08-25T18:14:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1396,
+          "end": 1410
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9500018,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 1.7881393e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

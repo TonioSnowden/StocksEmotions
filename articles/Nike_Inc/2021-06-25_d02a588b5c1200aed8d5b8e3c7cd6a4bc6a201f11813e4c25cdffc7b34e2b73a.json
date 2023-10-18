@@ -1,0 +1,28 @@
+{
+  "_id": "d02a588b5c1200aed8d5b8e3c7cd6a4bc6a201f11813e4c25cdffc7b34e2b73a",
+  "feed": "wall-street-journal",
+  "title": "Business News: Nike Swings to Profit, Posts Record Revenue in Quarter",
+  "text": "<p>Shares jumped 12% in after-hours trading, as the sales and profits were better than Wall Street had forecast. Nike's net income was $1.5 billion, compared with a net loss of $790 million in the year-ago quarter.</p><p>\"These are times when strong brands can get stronger, and each quarter, this reality becomes even more clear,\" said CEO John Donahoe on a call Thursday with analysts.</p><p>During the pandemic, many professional and youth sports were halted. Nike temporarily closed its retail stores and continued to pay its workers, and doubled down on digital sales.</p><p>Revenue increased 141% in North America in the quarter ended May.</p>",
+  "published": "2021-06-25T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "name": "NIKE, Inc.",
+      "offsets": [
+        {
+          "start": 448,
+          "end": 452
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 110,
+          "end": 114
+        }
+      ],
+      "nexusId": "10043425"
+    }
+  ]
+}

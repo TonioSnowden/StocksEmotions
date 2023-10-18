@@ -1,0 +1,34 @@
+{
+  "_id": "c8b33988fd11e67c03bc9fe521b81c03da7bbde541428ec5f515a00b0aae5058",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Cox Rolls  Out Phone  Service at  Cut Rate  ----  By Kathryn Hardison",
+  "text": "<p>   Cox Communications Inc. said it is returning to the wireless business, offering plans in some markets starting as low as $15 a month, as cable and phone companies continue to duke it out for customers. </p><p>   The company said Monday that Cox Mobile is available for its home-internet customers in Hampton Roads, Va.; Omaha, Neb.; and Las Vegas. Cox plans to offer the service in its other markets on a rolling basis throughout the year. </p><p>   Cox Communications, one of the nation's largest broadband internet providers, serves nearly seven million homes and businesses across 18 states. </p><p>   The launch comes as other U.S. cable and phone companies attempt to win over customers with similar services. Cable companies are promoting new and cheaper mobile phone plans, while wireless carriers are using excess capacity on next-generation networks to gain customers using traditional broadband internet. </p><p>   Cox's pilot service features two plans: $45 for unlimited data; or another at $15 a month for 1 gigabyte of data, and then $15 for each additional gigabyte of data. Cox Mobile customers will have access to 4G LTE and 5G networks, the company said. </p><p>   Companies like Cox launching mobile services aren't building out cell towers to serve customers like Verizon Communications Inc., AT&amp;T Inc. and T-Mobile US Inc. Instead, they are paying the wireless providers for access under reseller agreements. </p><p>   Cox Communications is the largest division of Cox Enterprises Inc., a closely held Atlanta-based media company. </p><p></p>",
+  "published": "2022-08-30T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1234,
+          "end": 1261
+        },
+        {
+          "start": 1226,
+          "end": 1252
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000095,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 9.417534e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

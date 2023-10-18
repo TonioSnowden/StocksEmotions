@@ -1,0 +1,38 @@
+{
+  "_id": "64ea5151e5e541201676652fe79a1ae40860e72e452369e5ce131300fed43468",
+  "feed": "ftcomall",
+  "title": "EY boss targets $10bn boost from Silicon Valley tie-ups after break-up",
+  "text": "<p>EY's global boss said a break-up of the Big Four firm would win its consulting division up to $10bn in extra fees by liberating it from conflicts of interest that block partnerships with the world's largest tech groups.</p> <p>Pressure is building on the accounting firm to decide whether to pursue a historic split as its global leaders meet in New York this week and its <a href=\"https://www.ft.com/content/8eaa2a28-9b76-477a-9999-a837b2934d44\">competitors continue to stand by their model</a> of combining audit and consulting.</p> <p>EY dominates the auditing of large US tech companies, checking the accounts of Amazon, Google, Oracle, Salesforce and Workday.</p> <p>In an interview with the Financial Times, EY's global chair and chief executive Carmine Di Sibio said the firm's position in the tech audit market was “both a blessing and a curse”.</p> <p>While its strength was positive for the audit business, Di Sibio said this was also a “negative” because it meant EY was prevented by conflict of interest rules from entering alliances to work alongside some of the world's biggest technology companies on projects for their other clients.</p> <p>These tie-ups between professional services and tech groups are key to winning lucrative consulting contracts to help corporate clients with projects such as upgrading IT systems for managing supply chains and other operations so they can run in the cloud.</p> <p>When EY committed to keeping both its audit and advisory operations almost a decade ago, it had not anticipated how important cloud technology and partnerships with tech companies would become, said Di Sibio.</p> <p>Over time, the standalone advisory business would win between $5bn and $10bn a year in consulting fees that are currently “off the table” because conflicts rules restrict it from working alongside the likes of Amazon or Salesforce, he added.</p> <p>Independence from the consulting arm would allow the audit business to bid for more mandates and to expand more quickly by rebuilding its advisory operations, Di Sibio said.</p> <p>EY global leaders meet this week, with the firm yet to make a final decision on whether to go ahead with a split, which would be the biggest shake-up of the accounting industry in two decades. “It would reshape the industry,” Di Sibio said.</p> <p>He said that he expected a decision “in the next couple of weeks or so”. Any split would then be voted on by the partners in each of EY's national member firms, most likely in October or November, he added.</p> <p>Splitting the business ahead of a capital markets transaction was “plan A”, he said, adding that an IPO was unlikely to happen before autumn 2023 if the firm opted for a public listing.</p> <p>Private equity groups' interest in the sector was another driver of conflicts of interest, Di Sibio said. EY had formed an alliance with tech company Anaplan only for the arrangement to collapse when it was bought by private equity firm Thoma Bravo this year.</p> <p>“The alliance we created just came right off the table because we audit pieces of Thoma Bravo,” said Di Sibio, adding that the partnership would have been worth at least $200mn a year to EY. “That happened two or three times [with different alliances] and . . . created even more of an issue,” he said.</p> <p>Potential liabilities arising from EY's audits of collapsed companies such as Germany's Wirecard and London-listed NMC Health, were “not a factor at all” in the decision to explore a break-up, Di Sibio said. “This doesn't change any of . . . those liabilities we have to deal with.”</p> <p>He said there was an inevitability about the Big Four accounting firms, which also include Deloitte, KPMG and PwC, splitting their businesses eventually. “As these firms get bigger and bigger, [conflicts] become harder and harder to manage,” he said.</p><p>Source: Michael O’Dwyer in New York 2022 'EY boss targets $10bn boost from Silicon Valley tie-ups after break-up' FT.com 20 July. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-07-20T04:00:53.099Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.98399997,
+      "offsets": [
+        {
+          "start": 1730,
+          "end": 1740
+        },
+        {
+          "start": 547,
+          "end": 557
+        },
+        {
+          "start": 1723,
+          "end": 1733
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9986484,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.0097387,
+        "tagPositionWeight": 0.008387089,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

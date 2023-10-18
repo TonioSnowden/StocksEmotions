@@ -1,0 +1,58 @@
+{
+  "_id": "3f5836fcd6c57a8f6006017b7628ac9f5c0a54165ab450c1cced4e47d123c8eb",
+  "feed": "wall-street-journal",
+  "title": "Tim Cook Advises Man Concerned About Green Text Bubbles: 'Buy Your Mom an iPhone'; The Apple CEO also reminisced about the late Steve Jobs 15 years after the smartphone's debut",
+  "text": "<p>Alphabet Inc.'s Google has been pushing for Apple to adopt a communication protocol called rich communications systems that aims to replace traditional text messaging with more robust industrywide chat features and end the stigma for its Android users.</p><p>\"I don't hear our users asking that we put a lot of energy in on that at this point,\" Mr. Cook said late Wednesday during Vox Media's Code 2022 conference in Beverly Hills, Calif.</p><p>His comments came after he was asked by a member of the audience where he thought Apple co-founder Steve Jobs would fall on the matter. The audience member noted that he and his mother were having trouble sharing certain videos.</p><p>\"Buy your mom an iPhone,\" Mr. Cook said to a round of laughter.</p><p>It was a light moment during a rare public evening of retrospective for Mr. Cook on his predecessor at Apple. Mr. Jobs died in late 2011, soon after Mr. Cook had taken over as CEO.</p><p>Mr. Cook shared the stage Wednesday with Jony Ive, the tech company's former chief design officer, and Laurene Powell Jobs, Mr. Jobs' widow, as they reminisced 15 years after the introduction of the iPhone.</p><p>Mr. Cook began the evening saying he hoped Mr. Jobs would be proud of the company he helped found, noting that many of the values he instilled still guided Apple.</p><p>\"I think he would be happy that we're living up to the values that he talked about so much like privacy, like protecting the environment,\" Mr. Cook said. \"These were core to him, while we're keeping up innovation, and trying to give people something that enables them to do something they couldn't do otherwise.\"</p><p>But Mr. Cook suggested he thought Mr. Jobs would be unimpressed with Apple's soaring market value and stock price. Apple reached a market value of more than $3 trillion earlier this year before falling in value along with the rest of the market.</p><p>The company has benefited from record sales of its iPhone since introducing devices capable of accessing 5G cellular technology in late 2020. Earlier in the day, Mr. Cook introduced the iPhone 14 lineup with new features that included emergency messaging by satellite and improved cameras.</p><p>\"He was not driven by the financial results,\" Mr. Cook said. Instead, he said, Mr. Jobs was focused on making products. \"He was never confused about focusing on the indirect consequence—on the market and the financial results,\" Mr. Cook said. \"He focused on the inputs: getting the products right, making sure they were the best; making sure they were making a difference in people's lives.\"</p><p>It was the first shared public appearance between Messrs. Cook and Ive since the famed designer left Apple in 2019, marking the end of an era that had seen him shepherd some of the company's most iconic designs. He has founded his own design firm called LoveFrom.</p><p>\"There was something beautiful about the way Steve thought,\" Mr. Ive said.</p><p>Ms. Powell Jobs, who is the founder of the Emerson Collective, her philanthropic organization, which has taken a majority stake in the magazine the Atlantic, said she and Messrs. Cook and Ive were working together to create a Steve Jobs archive.</p><p>If her husband were still alive today, Ms. Powell Jobs said, he would be evolving. \"He did have a fantasy of teaching eventually,\" she said.</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>Tim Cook Advises Man Concerned About Green Text Bubbles: 'Buy Your Mom an iPhone'</p>",
+  "published": "2022-09-08T05:19:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999923,
+      "offsets": [
+        {
+          "start": 44,
+          "end": 49
+        },
+        {
+          "start": 87,
+          "end": 92
+        },
+        {
+          "start": 825,
+          "end": 830
+        },
+        {
+          "start": 829,
+          "end": 834
+        },
+        {
+          "start": 1263,
+          "end": 1268
+        },
+        {
+          "start": 1649,
+          "end": 1654
+        },
+        {
+          "start": 1694,
+          "end": 1699
+        },
+        {
+          "start": 2601,
+          "end": 2606
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.783482,
+        "baseWeight": 8.0,
+        "expansionWeight": 7.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.78348196,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

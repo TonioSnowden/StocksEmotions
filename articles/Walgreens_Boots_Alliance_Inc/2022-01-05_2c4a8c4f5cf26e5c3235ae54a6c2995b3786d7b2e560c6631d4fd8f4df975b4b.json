@@ -1,0 +1,32 @@
+{
+  "_id": "2c4a8c4f5cf26e5c3235ae54a6c2995b3786d7b2e560c6631d4fd8f4df975b4b",
+  "feed": "wall-street-journal",
+  "title": "Sustainability Efforts Run Through Information Technology; CIOs in a survey said they expect sustainability to be the area where technology has the biggest impact in their organizations in the next three years",
+  "text": "<p>In a recent survey conducted by the IBM Institute for Business Value, 42% of the 5,000 CIOs and CTOs polled said sustainability was the area where technology would have the biggest impact in their organization over the next three years, ranking it above things like process automation, security and risk, and market expansion.</p><p>\"[Sustainability] is becoming more and more top of mind for me and my team,\" said Brian Rice, executive vice president and CIO at healthcare services company Cardinal Health, Inc.</p><p>CIOs point to cloud migration as an important element of their sustainability efforts as well as optimization of their existing data centers.</p><p>Mr. Rice said Cardinal Health completed phase one of its cloud move in December 2019 when it sold its main data center. Now, he says, the company does more than 80% of its computing on the cloud.</p><p>\"There's certainly an environmentally positive impact associated with that,\" he said.</p><p>Big cloud operators say they are able to operate with higher levels of energy efficiency and lower levels of emissions, the latter thanks in part to commitments to renewable-energy sources.</p><p>A report this year by 451 Research, part of S&amp;P Global Market Intelligence and commissioned by Amazon Web Services Institute, found average energy savings of 80% from running business applications in the cloud instead of on-premise infrastructure.</p><p>\"We are definitely committing to optimizing energy consumption,\" said Francesco Tinto, the senior vice president and global CIO of Walgreens Boots Alliance Inc., acknowledging the role the cloud is playing in the effort.</p><p>Dave Williams, chief information and digital officer at pharmaceutical manufacturer Merck &amp; Co. Inc., said the cloud, unlike on-premise data centers, acts as a \"pay as you go kind of model\" with energy consumption. \"So if you're using something, it's consuming energy. If you're not, it's not.\"</p><p>CIOs said they are also looking for ways to reduce energy consumption in their existing data centers for operations that aren't on the cloud.</p><p>Mark Brooks, the SVP and CIO of healthcare company Centene Corp., said his company decided to put a permanent data center in Buffalo, N.Y., because, \"we can use the external ambient temperature as a cooling mechanism and save a significant amount of energy.\"</p><p>Carman Wenkoff, the executive vice president and CIO of retailer Dollar General Corp., said his company relies on mostly on-premise systems. He said his goal is to make those systems more efficient by designing code that is written to minimize energy consumption, a practice known as \"green coding.\"</p><p>\"We're not there yet,\" Mr. Wenkoff said, but he is looking at how to incorporate it.</p><p>CIOs are seeing a range of sustainability benefits as they turn to technologies aimed at lessening their companies' environmental impact.</p><p>\"For us, the reduction in printing has been a key objective,\" said Mr. Tinto of Walgreens Boots Alliance. This is especially important in the company's pharmacies where there are a lot of documents, he said. Pharmacists are being provided with tablets, and patients' signatures and insurance cards can now be captured digitally.</p><p>CIOs also are tapping technology to design new products and services aimed at reducing energy consumption and waste.</p><p>Mark Spykerman, CIO of drug distributor AmerisourceBergen Corp., said that the company's global specialty logistics business, World Courier, developed a \"cocoon\" designed to keep drugs at the right temperature without an air-conditioning unit.</p><p>Mr. Spykerman said the insulated container is 30% lighter than any comparable products, resulting in a big reduction in emissions from air and freight travel. He also said World Courier's data science team uses advanced network simulation and modeling to determine where in the world each cocoon should be to minimize the amount of flights they take.</p><p>At Kroger Co., SVP and CIO Yael Cosset is using data to reduce wasted food that expires before it can be sold through a program called \"Zero Hunger, Zero Waste.\"</p><p>He said the grocer has made a \"significant investment in data capability\" to understand the life cycles of the food it sells. That information helps determine when an unsold product can be safely donated to a food bank that will use it that day.</p><p>The goal, he said, is to \"limit the food waste, limit the environmental impact of waste and energy consumption, but also improve the quality and access to food for all the communities where we operate.\"</p><p>Write to Isabelle Bousquette at isabelle.bousquette@wsj.com</p><p>Sustainability Efforts Run Through Information Technology</p>",
+  "published": "2022-01-05T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "offsets": [
+        {
+          "start": 1500,
+          "end": 1529
+        },
+        {
+          "start": 1500,
+          "end": 1524
+        },
+        {
+          "start": 2889,
+          "end": 2913
+        },
+        {
+          "start": 2889,
+          "end": 2904
+        }
+      ],
+      "nexusId": "10022845"
+    }
+  ]
+}

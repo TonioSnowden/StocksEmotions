@@ -1,0 +1,42 @@
+{
+  "_id": "bb9fd1438b878af77abe9f42c2f371df590128e56f7248624c2f484cf6959281",
+  "feed": "wall-street-journal",
+  "title": "Starbucks Replacement Opens in Russia With Similar Look; Coffee chain is now co-owned by a Russian restaurateur and popular rapper, but has a familiar look and feel",
+  "text": "<p>The approach is a stark departure from that of the new owners of another big Western chain that recently left Russia: McDonald's Corp. After McDonald's sold its thousands of Russian restaurants to Alexander Govor, a Siberian businessman, he instituted a wholesale rebranding. That included a new name, Vkusno i tochka, or \"Tasty &amp; That's It,\" and a distinct logo. The burger chain also dropped off some menu items, like the Big Mac and the McFlurry, saying they were too directly related to McDonald's.</p><p>Russian restaurateur Anton Pinsky said in July he had bought the Starbucks chain alongside popular Russian rapper Timati, whose real name is Timur Yunusov. He said the venture was backed by Sindika, a holding company that owns a variety of hospitality businesses in Russia. </p><p>The newly opened Stars Coffee cafe in Moscow has familiar branding. PHOTO: The Wall Street Journal</p><p>Unlike McDonald's, Starbucks didn't directly own and operate its 130 Russia stores. Instead, they were run by Starbucks's licensee, Alshaya Group, based in Kuwait. Alshaya didn't respond to a request for comment.</p><p>Starbucks hasn't commented on the change of ownership, and the company declined to comment on the Russian chain's new branding. The company severed its 15-year ties with Russia in the country in May after initially suspending work in March. The move was among a wave of exits from Russia by Western brands after Russia's invasion of Ukraine.</p><p>Starbucks entered Russia in 2007. Friday's reopening involved just one store, its flagship location on Noviy Arbat in central Moscow, after a launch party Thursday night presided over by Timati, the new rapper part-owner. During the party, Timati, who had previously co-founded the Black Star Burger chain in Russia, told journalists that Starbucks left with its recipes, resources and production base, and that Stars Coffee is an entirely new business.</p><p>The new owners plan to open 10 more stores next week and the rest of the locations over the next two months, Mr. Pinsky was quoted as saying by Russian news agencies. Mr. Pinsky didn't respond to requests for an interview.</p><p>On Friday, the store was packed with patrons buying familiar coffee drinks, croissants and desserts, as well as salads, pita sandwiches and pastas. Mr. Pinsky told reporters Thursday that two or three of the new Stars Coffee locations would offer alcoholic beverages. </p><p>Russians were quick to try out Moscow's Stars Coffee cafe. PHOTO: THE WALL STREET JOURNAL</p><p>Write to Evan Gershkovich at evan.gershkovich@wsj.com</p><p>Starbucks Replacement Opens in Russia With Similar Look</p>",
+  "published": "2022-08-19T10:36:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 141,
+          "end": 151
+        },
+        {
+          "start": 489,
+          "end": 499
+        },
+        {
+          "start": 118,
+          "end": 133
+        },
+        {
+          "start": 877,
+          "end": 887
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.470104,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.47010434,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "ebeb614a404718971c8eccaffbaab0021c3a50cfe16f682e80364a1873c248ac",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Wall Street is attempting to derail SEC Chairman Gensler's agenda by challenging economic assumptions underpinning dozens of policy proposals.</p><p>---</p><p>Policy makers at the Jackson Hole, Wyo., symposium signaled growing unease with the trade-offs they could soon confront amid the fight against inflation.</p><p>---</p><p>Retailers have a glut of inventory and are discounting items to clear space for holiday goods, with many having already lowered profit expectations for the year.</p><p>---</p><p>Airlines and airports worldwide are extending passenger caps and cuts to flight schedules through the fall and winter as they try to steady operations.</p><p>---</p><p>NASA's scheduled test launch on Monday of a new mega-rocket will give Boeing another chance to prove it can pull off big national projects following past missteps.</p><p>---</p><p>Facebook parent Meta agreed to settle a suit that accused the social-media platform of allowing third parties, including Cambridge Analytica, to access private user data.</p><p>---</p><p>China's industrial profit dropped in the first seven months of the year, reversing a year-on-year increase in the first half.</p>",
+  "published": "2022-08-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 697,
+          "end": 703
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0018775,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0018775463,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

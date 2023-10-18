@@ -1,0 +1,40 @@
+{
+  "_id": "5c0fcab7d0815aafab475ce85cd8e5743652f1597b1049defec64c12fde271cb",
+  "feed": "wall-street-journal",
+  "title": "Software Flaw Sparks Global Race to Patch Bug; Cybersecurity researchers say they have seen thousands of attempts to exploit the bug",
+  "text": "<p>The Department of Homeland Security's Cybersecurity and Infrastructure Security Agency issued an urgent alert about the vulnerability and urged companies to take action. CISA Director Jen Easterly said on Saturday, \"To be clear, this vulnerability poses a severe risk. We will only minimize potential impacts through collaborative efforts between government and the private sector.\" Germany's cybersecurity organization over the weekend issued a \"red alert\" about the bug. Australia called the issue \"critical.\"</p><p>Security experts warned that it could take weeks or more to assess the extent of the damage and that hackers exploiting the vulnerability could access sensitive data on networks and install back doors they could use to maintain access to servers even after the flawed software has been patched.</p><p>\"It is one of the most significant vulnerabilities that I've seen in a long time,\" said Aaron Portnoy, principal scientist with the security firm Randori.</p><p>Security experts noted that many companies have other processes in place that would prevent a malicious hacker from running software and breaking into these companies, potentially limiting the fallout from the bug.</p><p>Microsoft Corp., in an alert to customers, said \"attackers are probing all endpoints for vulnerability.\" Amazon.com Inc., Twitter Inc. and Cisco Systems Inc. were among the companies that have said they were carrying out investigations into the depth of the problem. Amazon, the world's biggest cloud computing company, said in a security alert, \"We are actively monitoring this issue, and are working on addressing it.\"</p><p>The software flaw was reported late last month to the Log4j development team, a group of volunteer coders who distribute their software free-of-charge as part of the Apache Software Foundation, according to Ralph Goers, a volunteer with the project. The foundation, a nonprofit group that helps oversee the development of many open-source programs, alerted its user community about the vulnerability on Dec. 9.</p><p>\"It's a very critical issue,\" Mr. Goers said. \"People need to upgrade to get the fix,\" he said. Log4j is used on servers to keep records of users' activities so they can be reviewed later on by security or software development teams.</p><p>Because Log4j is distributed free, it is unclear how many servers are affected by the bug, but the logging software has been downloaded millions of times, Mr. Goers said.</p><p>Software providers that include Log4j in their products, such as International Business Machines Corp.'s Red Hat, Oracle Corp. and VMware Inc., have said they are deploying patches.</p><p>It isn't the first time that open-source software has sparked security concerns. In 2014, internet users world-wide were urged to reset their passwords after another issue, known as Heartbleed, was discovered in OpenSSL, an obscure yet similarly ubiquitous piece of internet software built by volunteers.</p><p>Hackers started exploiting the flaw widely early Friday, including to gain access to servers running Microsoft's Minecraft gaming software, researchers said. The researchers soon observed widespread scanning and attempts to trigger the Log4j bug across the Internet. In a note published Friday, Microsoft advised some Minecraft gamers that they should upgrade their software to patch the bug.</p><p>During a roughly 24-hour period, the security firm Check Point Software Technologies Ltd. said it saw more than 100,000 attempts to exploit the bug, about half of which it estimated were from malicious cyberattackers. The rest were by legitimate researchers, either governments scanning national infrastructure or security researchers, Check Point said.</p><p>A Dutch researcher, Cas van Cooten, said he discovered the bug on Apple Inc.'s servers, potentially giving him a way of running code within Apple's network. Mr. van Cooten said he immediately reported the issue to Apple.</p><p>\"It would have been trivial for a malicious hacker to weaponize this,\" he said. An Apple spokesman didn't respond to messages seeking comment.</p><p>Another researcher, Carson Owlett, said that consultants working with his security firm, Black Mirage LLC, were able to detect the bug on systems run by other companies, including Twitter and LinkedIn, also owned by Microsoft.</p><p>\"Our teams are looking into it, but we have no details to share at this time,\" a Twitter spokeswoman said via email Friday. A LinkedIn spokeswoman said via text message that \"while we're responding to this, just as security teams at many companies are, we're not experiencing any active issue.\"</p><p>Because all sorts of data are logged by servers, everything from email addresses to web navigation requests, these attempts could give attackers a foothold on a vulnerable server deep in corporate networks, said Ryan McGeehan, an independent security consultant who was formerly a director of security at Facebook. \"A successful attack is like creating a wormhole,\" he said. \"The attacker can't be sure where they'll end up.\"</p><p>Cisco is investigating more than 150 of its products to look for the Log4j bug. So far, it has found three vulnerable products and determined that 23 aren't vulnerable, a company spokesman said Saturday.</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Software Flaw Sparks Global Race to Patch Bug</p>",
+  "published": "2021-12-12T21:22:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3714,
+          "end": 3724
+        },
+        {
+          "start": 3788,
+          "end": 3793
+        },
+        {
+          "start": 3862,
+          "end": 3867
+        },
+        {
+          "start": 3952,
+          "end": 3957
+        },
+        {
+          "start": 3714,
+          "end": 3719
+        },
+        {
+          "start": 3714,
+          "end": 3723
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

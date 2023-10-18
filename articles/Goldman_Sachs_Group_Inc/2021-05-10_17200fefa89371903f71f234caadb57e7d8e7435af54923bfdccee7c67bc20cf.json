@@ -1,0 +1,32 @@
+{
+  "_id": "17200fefa89371903f71f234caadb57e7d8e7435af54923bfdccee7c67bc20cf",
+  "feed": "wall-street-journal",
+  "title": "Trading Firms Under Scrutiny  ----  By Dave Michaels and Alexander Osipovich",
+  "text": "<p> WASHINGTON -- The electronic-trading firms Citadel Securities and Virtu Financial Inc. have become pillars of the stock market in recent years, rivaling the role played by stock exchanges. </p> <p> Wall Street's new top regulator is putting pressure on them by questioning a service they provide: executing the orders of millions of ordinary investors whose trades go to their black boxes, instead of being routed to public exchanges. </p> <p> Testifying before Congress last week, Securities and Exchange Commission Chairman Gary Gensler criticized the system that funnels orders to Citadel Securities and Virtu, which pay for the opportunity to trade with retail stock and options orders. Mr. Gensler said such incentives -- called payment for order flow -- represent a conflict of interest for online brokerages, which collectively make billions of dollars a year from the practice. He voiced concern that the trading firms handling most individual investors' orders control too much of the business. </p> <p> In an interview with CNBC on Friday, Mr. Gensler went further, comparing the retail wholesalers unfavorably with public exchanges whose prices are considered \"lit\" because they appear publicly for all traders to see. </p> <p> \"A lot of these are really just going to the wholesalers, they are not as lit, they're not as competitive,\" he said. \"So it's not as clear we are actually getting best execution in an unlit, internalized wholesaler as contrasted to the lit markets.\" </p> <p> It is unclear whether the SEC would go as far as banning payment for order flow. Doing so would make it harder for brokerages to offer zero-commission trading, and the agency has reviewed the practice several times in the past without prohibiting it. Brokers and traders say routing orders to wholesalers benefits investors. </p> <p> People close to Mr. Gensler said his regulatory instincts come from his experience in markets, including years at Goldman Sachs Group Inc. Mr. Gensler puts more trust in regulated trading venues that post prices publicly and is generally skeptical of less-transparent systems that give intermediaries more power to set prices. </p>",
+  "published": "2021-05-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1892,
+          "end": 1915
+        },
+        {
+          "start": 1892,
+          "end": 1905
+        },
+        {
+          "start": 1892,
+          "end": 1916
+        },
+        {
+          "start": 1892,
+          "end": 1899
+        }
+      ]
+    }
+  ]
+}

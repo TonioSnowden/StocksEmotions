@@ -1,0 +1,20 @@
+{
+  "_id": "507bd7cabcf735a789a3cd25cca61e184496a2c5cf805491aff2d804c066049f",
+  "feed": "wall-street-journal",
+  "title": "Obituaries: Physicist Helped Put Silicon Valley on Map",
+  "text": "<p>Jay Last, a founder of Fairchild Semiconductor Corp. in 1957, figured out ways to manufacture integrated circuits in bulk, helping to put the silicon into Silicon Valley and make the region a synonym for digital technology.</p><p>Dr. Last, the son of a steelworker from Butler, Pa., started out with a more modest career goal: to parlay his Ph.D. in physics from the Massachusetts Institute of Technology into an interesting job that would let him live in California.</p><p>After graduating from MIT in 1956, he joined the Shockley Semiconductor Laboratory near San Francisco, run by William Shockley, who won a Nobel Prize the same year for research on transistors and semiconductors. A year later, Dr. Last was one of eight people who bolted from Shockley to found Fairchild Semiconductor. The others included Robert Noyce and Gordon Moore, later co-founders of Intel Corp., and Eugene Kleiner, who went on to help form the venture-capital firm Kleiner Perkins.</p><p>When Fairchild Semiconductor was formed, transistors were typically produced one at a time out of germanium. \"We felt that the future lay with silicon,\" Dr. Last wrote later. His team developed mass-production processes for silicon chips, which initially went into military hardware and spacecraft and later made possible low-cost calculators, computers and myriad other electronic devices.</p><p>Dr. Last died Nov. 11 in Los Angeles. He was 92.</p>",
+  "published": "2021-11-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 852,
+          "end": 857
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

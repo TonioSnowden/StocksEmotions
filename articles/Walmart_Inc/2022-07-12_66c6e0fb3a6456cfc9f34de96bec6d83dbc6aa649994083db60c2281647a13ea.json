@@ -1,0 +1,34 @@
+{
+  "_id": "66c6e0fb3a6456cfc9f34de96bec6d83dbc6aa649994083db60c2281647a13ea",
+  "feed": "ftcomall",
+  "title": "Gap chief Sonia Syngal exits as company struggles to win back US shoppers",
+  "text": "<p>Gap said its chief executive was stepping down after just over two years leading the company and issued a profit warning, as US retailers wrestle with the changing demands of post-coronavirus pandemic American shoppers.</p> <p>Sonia Syngal's departure is the latest blow to the apparel-maker, whose share price has fallen 50 per cent this year as it struggles to win back shoppers.</p> <p>Syngal, who became chief executive in March 2020 after leading the company's Old Navy chain, is stepping down from her position immediately, the San Francisco-based company said.</p> <p><a href=\"https://www.ft.com/stream/a35b520d-61dd-4874-8648-60552639cda3\">Gap </a>added that a search was under way for a replacement, but board member Bob Martin, a former executive at Walmart, would serve as chief in the interim. The company also said Horacio Barbeito, another former Walmart executive, would lead Old Navy.</p> <p>Gap shares sank more than 4 per cent in after-hours trading on Monday following the announcement, which was accompanied by an earnings update that reflected <a href=\"https://www.ft.com/coronavirus-economic-impact\">pandemic </a>turmoil continuing into the most recent quarter.</p> <p>The retailer, which also owns the Banana Republic and Athleta brands, said it anticipates adjusted operating margin percentage to be “zero to slightly negative” in its second quarter. Gap expects margins to suffer partially because of increased promotions in the quarter, part of a “more aggressive approach” to balancing its merchandise offerings.</p> <p>The company also said it still expected net sales in the quarter to be down in the “high single-digit range”, which was “relatively in-line with its prior expectations”. It still forecast a $50mn hit from “transitory” air freight expenses and inflationary costs on raw materials and freight.</p> <p>Gap is the latest in the retail sector to suffer from snarled supply chains and shifting consumer demand. In May, Target slashed its outlook for the quarter because of <a href=\"https://www.ft.com/content/4448eaeb-97ad-4301-99bf-646df720b3a7\">excess inventories</a> and announced plans to implement markdowns and cancel orders.</p> <p>Gap is also the second retailer to replace its chief in recent weeks. <a href=\"https://www.ft.com/content/17e53e8e-7560-4224-9d15-9f8f57c1637a\">Bed Bath &amp; Beyond</a> ousted Mark Tritton after the retailer's sales declined 25 per cent in the second quarter, its latest quarterly drop. The company replaced Tritton with Sue Gove, an independent director of the board.</p> <p>Gap had missed analysts' quarterly revenue and profit targets several times during the pandemic as it tried to find success in an apparel market reshaped by Covid-19 and fast fashion brands.</p> <p>In the latest quarter ending April 30, Gap's net sales declined 13 per cent year on year to $3.5bn and the company reported a net loss of $162mn.</p><p>Source: Jaren Kerr in Toronto and Ben Glickman in New York 2022 'Gap chief Sonia Syngal exits as company struggles to win back US shoppers' FT.com 12 July. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-07-12T03:27:26.259Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 759,
+          "end": 766
+        },
+        {
+          "start": 659,
+          "end": 666
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0027442,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.002744317,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

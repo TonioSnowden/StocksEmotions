@@ -1,0 +1,42 @@
+{
+  "_id": "d16766b4f41b6999ae0385a8213a57f59cce63699446454f5d729164b48a2d26",
+  "feed": "market-watch",
+  "title": "Johnson & Johnson to discontinue talc-based baby powder in 2023",
+  "text": "<p>\"This transition will help simplify our product offerings, deliver sustainable innovation, and meet the needs of our consumers, customers and evolving global trends,\" the company said in a statement.</p><p>The New Brunswick, N.J.-based company said its position on the safety of its cosmetic talc remains unchanged.</p><p>In July, a bankruptcy judge said he would consider appointing an independent expert to assist in evaluating the mass claims linking Johnson &amp; Johnson's talc-based baby powder to cancer.</p><p>Johnson &amp; Johnson to discontinue talc-based baby powder in 2023</p>",
+  "published": "2022-08-11T21:53:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 17
+        },
+        {
+          "start": 440,
+          "end": 457
+        },
+        {
+          "start": 442,
+          "end": 459
+        },
+        {
+          "start": 496,
+          "end": 513
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

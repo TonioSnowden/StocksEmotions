@@ -1,0 +1,24 @@
+{
+  "_id": "15137234d18bd02c7000b0dcb4249dfa39fe5a44ac8fa25dacab1b976c9bb787",
+  "feed": "wall-street-journal",
+  "title": "Business News: Embraer Sets Emission Targets",
+  "text": "<p>The company said it would work to adapt its current aircraft to be compatible with sustainable aircraft fuel and to increase the supply of SAF, which remains scarce and expensive. Embraer said it started using SAF at its Melbourne, Fla., executive-jet factory this year and plans to use at least 25% SAF across its operations by 2040. The company said jet-fuel consumption accounts for more than 60% of the emissions from its operations.</p><p>Embraer released its first environmental, social and governance plan -- which includes other goals such as a target for 25% of people in its engineering program to be women by 2025 -- along with its second-quarter results. The Sao Jose dos Campos-based company reported a $87.9 million net profit on revenue of $1.13 billion, and said it expects to deliver 45 to 50 commercial jets and 90 to 95 executive planes in 2021.</p><p>Aircraft account for about 2% of the human-induced carbon emissions globally, according to the Air Transport Action Group, a body of industry experts.</p><p>Industry giants Boeing Co. and Airbus SE have already laid out climate targets. Boeing, which says said it was \"net zero\" in carbon emissions from its own operations in 2020 thanks to the use of renewable energy and carbon offsets, plans to deliver commercial aircraft that can run entirely on sustainable fuels by 2030. Airbus plans to bring a zero-emission commercial aircraft to market by 2035.</p>",
+  "published": "2021-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 1026,
+          "end": 1036
+        },
+        {
+          "start": 1090,
+          "end": 1096
+        }
+      ]
+    }
+  ]
+}

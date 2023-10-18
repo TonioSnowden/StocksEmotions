@@ -1,0 +1,34 @@
+{
+  "_id": "d1b588162b7f8780bc68b56b8bda29d20fbb97d4c4fc8b5423e1b8dc8a16f53d",
+  "feed": "market-watch",
+  "title": "GSK defends Zantac ahead of trials that have wiped off $44 billion from leading drugmakers",
+  "text": "<p>GSK shares UK:GSK GSK rose 5% on Friday, but its shares have slumped 12% this week, its worst performance since the 2008 financial crisis.</p><p>Ahead of trials that are set to begin on Aug. 22, GSK said both the U.S. Food and Drug Administration as well as the European Medicines Agency have concluded there's no evidence of a causal association between ranitidine therapy and the development of cancer in patients.</p><p>The GSK statement doesn't reveal any new findings. The FDA findings were dated Nov. 2019 and June 2021, and the EMA review is from Sept. 2020. It mirrors comments from Sanofi, which also marketed the drug.</p><p>The FDA in 2019 recalled Zantac after testing showed it produced high levels of a cancer-causing substance.</p><p>GSK said it has been named as a defendant in 3,000 filed personal injury cases, and there are also cases in Canada and Israel.</p><p>GSK said it served its recent spinoff, Haleon, with notice of potential claims, though it said it isn't clear the degree to which indemnities will limit or eliminate liability. Haleon UK:HLN HLN, whose London-listed stock has dropped 12% this week, has said it isn't a party to any Zantac claim, and never marketed it in any form in the U.S.</p><p>Sanofi FR:SAN SNY shares also have dropped 12% this week. Analysts at Deutsche Bank upgraded the stock to hold from sell, saying the slide in the stock made a sell recommendation at this point \"egregious.\"</p><p>Pfizer PFE also has been the subject of lawsuits but fallen a modest 2% this week. Privately held Boehringer Ingelheim is also a defendant.</p><p>Analysts at JPMorgan said they believe the magnitude of the market capitalization exceeds a worst-case scenario — the Vioxx settlement, by comparison, totalled $5 billion — and said it's possible Sanofi might not be liable for any damages, given an indemnification agreement with Boehringer that is under arbitration.</p><p>\"Despite the abundant medical and scientific literature linking ranitidine to NDMA going back decades, GSK and Sanofi, as well as Defendants Boehringer Ingelheim and Pfizer, engaged in a protracted scheme to conceal the inherent dangers and risks associated with Zantac use,\" said a statement from the plaintiff's co-lead counsel. \"We are confident that the law and science supports our position and intend to hold all responsible parties accountable for this dangerous, cancer-causing drug.\"</p><p>GSK defends Zantac ahead of trials that have wiped off $44 billion from leading drugmakers</p>",
+  "published": "2022-08-12T19:24:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1552,
+          "end": 1560
+        },
+        {
+          "start": 1540,
+          "end": 1548
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050003,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

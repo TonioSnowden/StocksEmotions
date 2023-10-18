@@ -1,0 +1,28 @@
+{
+  "_id": "8287735bf5c2aeb25da55fb0792321be6bc0a28f51f3ddc8f0abdbdaf11be9fa",
+  "feed": "wall-street-journal",
+  "title": "Tools Are Aimed at Fighting Digital Fatigue",
+  "text": "<p>A prototype tool in the Adobe Workfront platform uses artificial intelligence to help reorganize users' days based on priorities they have set and any last-minute changes to their personal and business schedules.</p><p>And in March, Google announced updates to its Workspace tools to demarcate working hours and create recurring \"away\" notifications to lessen digital interruptions.</p><p>Tweaks like these aim to address concerns on work-life balance from both employees and employers as remote work continues.</p><p>With employees never leaving the \"office,\" work has seeped into all hours of the day, plus weekends; the lack of in-person time with colleagues has resulted in a glut of video meetings.</p><p>Employers have taken some steps on their own. Citigroup Inc., for instance, is experimenting with new policies like banning video meetings on Fridays.</p><p>And software firm BetterCloud Inc. is using a bot on the messaging platform Slack to ask attendees of some virtual meetings whether the gatherings were worthwhile.</p><p>People were already finding ways to cut meetings short and take a break, so new prompts like these could solidify those efforts, workplace experts said.</p><p>\"The acceleration that happened during Covid, where suddenly the only way to connect with others was through technology, it was clear that we needed to be better at using it and defining our own boundaries,\" said Nellie Hayat, head of workplace transformation at VergeSense Inc., a workplace analytics platform.</p><p>As well, that effort would have to be \"synchronized with others,\" she added.</p><p>Outlook's new break setting dovetails with the virtual commute feature Microsoft added to its Teams tools to delineate the start and finish of employees' workdays.</p><p>\"This joins that set of things that's meant to help them kind of develop the practices that we need to have to manage this digital exhaustion that they feel,\" said Jared Spataro, corporate vice president of Microsoft 365, which houses Outlook and Teams.</p><p>Adobe's Workfront prototype tool starts by asking the user to prioritize tasks for the day; those can be open-ended tasks, meetings or personal activities, like working out or going for a run.</p><p>Workfront then reroutes the secondary tasks to other employees.</p><p>In its March announcement, Google included a new calendar entry called Focus Time, which decreases the notifications it shows users during stretches designated for uninterrupted work and changes their status in chat to \"Do not disturb.\" The feature will be out this year.</p><p>Some of the new features seem more geared to what an organization wants for its employees than what employees might choose for themselves, user experience designers said.</p><p>Stopping all notifications from every workplace tool during a break, for example, would be more beneficial than creating rest moments between meetings, said Emma Greenwood, strategy director at I&amp;CO Group LLC, a strategy and invention firm.</p><p>\"They feel a lot more tethered to what perhaps, companies would like to market back to their employees,\" she said.\"And that is sort of a recipe for user experience that doesn't necessarily create a benefit to the end user.\"</p><p>Fewer video meetings and more breaks can help, but they don't address the burnout and isolation of at-home workers in the pandemic, said Liz Fosslien, co-author of \"No Hard Feelings: The Secret Power of Embracing Emotions At Work.\"</p><p>Managers should take more days off themselves to set an example, or just hold fewer meetings, she said. But they too are overburdened and on uncertain terrain themselves, she said.</p><p>\"Even for organizations to come around and say like, 'OK, our people are very stressed, they're very anxious, well-being needs to be one of our top priorities for the next six months' -- that's not really a conversation that we heard before,\" Ms. Fosslien added.</p>",
+  "published": "2021-05-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1914,
+          "end": 1923
+        },
+        {
+          "start": 1604,
+          "end": 1613
+        },
+        {
+          "start": 1614,
+          "end": 1623
+        }
+      ]
+    }
+  ]
+}

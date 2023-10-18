@@ -1,0 +1,24 @@
+{
+  "_id": "40cc40cc86c2d55e1c601fac8bc3ed92e1f3b8edda054bf0ce82666de0b9e0f5",
+  "feed": "market-watch",
+  "title": "Slower S&P 500 earnings growth is not bullish — no matter what some stock market ‘experts' are saying",
+  "text": "<p>The table below summarizes the S&amp;P 500's SPX trailing 12-month as-reported EPS growth rates, based on estimates from Standard &amp; Poor's. Notice that the year-over-year growth rate at the end of 2022 is projected to be about one-eighth of what it was in this year's third quarter. Moreover, earnings projections typically are overly optimistic.</p><p> Quarter ending  Year-over-year change in trailing 12-month EPS&#xa0;  Sep. 30, 2021   84%  Dec. 31, 2021   47%  Mar. 31, 2022   23%  Jun. 30, 2022   24%  Sep. 30, 2022   16%  Dec. 31, 2022   10%</p><p>Since 1927, as many on social media have been pointing out, the S&amp;P 500 has turned in its best returns, on average, during quarters in which the year-over-year change in EPS was negative — between 25% lower and 10% lower, in fact. The S&amp;P 500's annualized return during such quarters was 26.7%, according to Ned Davis Research, versus an average gain of 2.4% during quarters in which the S&amp;P 500's year-over-year rate over change was greater than 20%.</p><p>The problem with this narrative isn't with the underlying data, which (like all of the data supplied by Ned Davis Research) is top-notch. The problem instead is with the interpretation the bulls are putting on the data.</p><p>That's because the Ned Davis data reflect a contemporaneous relationship, correlating the stock market's performance in a given quarter with EPS growth rate over the 12 months up to and including that same quarter. But since the stock market is forward looking, its performance in a given quarter will to a far greater extent reflect projected earnings growth several quarters hence.</p><p>To show how forward looking the stock market typically is, I calculated the correlation coefficient between the S&amp;P 500's return in a given quarter and earnings growth rates in subsequent quarters. As you can see, the strongest correlation exists with the growth rate three-quarters hence. (My calculations reflect the market back to 1871, courtesy of data from Yale University's Robert Shiller.)</p><p>Correlation coefficient between S&amp;P 500's growth rate in given quarter and EPS y-o-y growth rate in specified quarter  Same quarter      1%  1 quarter hence   7%  2 quarters hence  14%  3 quarters hence  17%  4 quarters hence  10%</p><p>When focusing on the correlation with the earnings growth rate three quarters hence, the bulls' “less is more” story disappears. For example, when the year-over-year EPS growth rate three quarters hence is between negative 10% and negative 25%, the S&amp;P 500's average quarterly return is 8.2% annualized. When that growth rate is over 20%, the S&amp;P 500's average return is almost double — 14.8% annualized.</p><p>In other words, when measured properly, faster earnings growth correlates with higher stock market returns — just as you'd expect.</p><p>Why market forecasting is so difficult</p><p>The correlation coefficients in the above table are relatively low. Even though the 17% coefficient that exists when focusing on three-quarters hence is statistically significant, it won't help you much to beat the market. This coefficient means that subsequent earnings growth explains or predicts only a small portion of the stock market's return.</p><p>I devoted a column to this subject this past March, and interested readers should consult it for a fuller analysis. In short, I reported that you would have significantly lagged a buy-and-hold strategy since 1980 even if you were clairvoyant enough to know the earnings growth rate 12 months into the future. That's because changes in the price/earnings ratio have had a greater impact on the stock market's shorter-term return than the earnings themselves.</p><p>The bottom line? While there is something intuitively appealing about the bulls' narrative about less being more, it's unhelpful and may be flatly wrong.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com</p><p>Also read:Apple and Amazon are struggling, so investors may want to look to these tech stocks instead</p><p>Plus: Market's ‘golden cross' is not the heavenly sign for stocks the bulls would have you believe</p>",
+  "published": "2021-10-29T15:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3913,
+          "end": 3919
+        },
+        {
+          "start": 3914,
+          "end": 3919
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

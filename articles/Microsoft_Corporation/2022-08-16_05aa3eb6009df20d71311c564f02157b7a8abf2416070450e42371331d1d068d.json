@@ -1,0 +1,34 @@
+{
+  "_id": "05aa3eb6009df20d71311c564f02157b7a8abf2416070450e42371331d1d068d",
+  "feed": "wall-street-journal",
+  "title": "Flush With Oil Profits, Saudi Arabia Pours $7.5 Billion Into U.S. Stocks From Amazon to Microsoft; Public Investment Fund investments come as the kingdom begins deploying a windfall from high oil prices",
+  "text": "<p>Despite the purchases, the overall holdings of U.S.-listed securities in the $600 billion fund fell $3 billion in the quarter to $40.8 billion after other companies in its portfolio were routed by this year's fall in share prices.</p><p>The S&amp;P 500 index, which includes many of the new stocks PIF purchased, fell 20% in the first six months of this year on fears of rising inflation and a recession. The index has since recovered, but is down 9% year to date.</p><p>Saudi Arabia is snapping up U.S. stocks as the kingdom enjoys its strongest financial situation in years. Crown Prince Mohammed bin Salman, who chairs PIF and runs the kingdom's day-to-day affairs for his father King Salman, is using a windfall this year from high oil prices to double down on an economic overhaul he first proposed in 2016 to shift the economy away from oil dependence.</p><p>On Sunday, national oil company, Saudi Aramco, reported a90% increase in quarterly net income, handing billions of dollars to the government to spend and invest in the kingdom.</p><p>Higher oil prices have helped Prince Mohammed—shunned by Western capitals for years over the 2018 murder of journalist Jamal Khashoggi—emerge from diplomatic isolation. Last month, the prince hosted President Biden in Saudi Arabia, who, in vain, has encouraged Prince Mohammed to pump more oil to lower crude prices and stifle inflation.</p><p>The Saudi government said in June that to avoid the boom and bust of previous oil cycles it won't immediately spend this year's surplus, and hasn't handed fresh cash yet to the sovereign wealth fund. But PIF, as a 4% shareholder in Aramco, is a direct beneficiary of the company's financial success. In recent months, the fund has pumped about$3 billion into Japanese game maker Nintendo, led a $400 million investment in car maker Aston Martin and acquired stakes in regional companies valued at around $1.5 billion. It has also poured money this year into an initiative upending the professional golf industry.</p><p>At home, PIF has pledged to invest about $40 billion a year on jump-starting new industries. Last month, 36-year-old Prince Mohammed announced plans, earlier reported by The Wall Street Journal, to build the world's largest structure: two buildings up to 1,600 feet tall, running parallel for 75 miles. The buildings will be part of Neom, a desert development the size of Massachusetts conceived by the prince that will be partially funded by PIF.</p><p>While the kingdom, the world's largest oil exporter, is trying to diversify away from oil by creating new industries such as tourism, mining and auto manufacturing, but oil remains the driver of the economy. Saudi Arabia registered 11.8% year-over-year economic growth in the second quarter on higher crude prices.</p><p>PIF's investments in minority equities stakes are largely financial bets, unconnected to developing new industries, and are instead aimed at diversifying its investment portfolio.</p><p>The fund began building out its equities portfolio at the start of the pandemic in 2020 when it bought stocks battered over concerns about the economic outlook. It sold most of them a few months later but, since then, has built positions in companies across a variety of industries, including gaming stocks including Activision Blizzard Inc., Electronic Arts Inc. and Take-Two Interactive Software Inc.</p><p>Over the past two years, PIF's holdings of listed U.S. securities have lost 38% of their purchase value, according to an estimate by WhaleWisdom, a website that tracks the performance of the world's biggest investors by analyzing their securities filings. The S&amp;P 500 is up 26% over that same period, according to the research firm.</p><p>Flush With Oil Profits, Saudi Arabia Pours $7.5 Billion Into U.S. Stocks From Amazon to Microsoft</p>",
+  "published": "2022-08-16T10:23:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 88,
+          "end": 97
+        },
+        {
+          "start": 3738,
+          "end": 3747
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.5863557,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.58635557,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "fd26317f9a876d6244b1160db9d365c0a3308d9d4ad8729ec5aee99ff7bc3d3c",
+  "feed": "wall-street-journal",
+  "title": "Two Months On, Many Developers Are Still Downloading Flawed Log4j Tool; More than one-third of the software's downloads contain bug that could open the door for hackers",
+  "text": "<p>These developers \"don't know what's going on inside their software,\" said Brian Fox, chief technology officer for the cybersecurity company Sonatype Inc. that runs the repository.</p><p>The Log4j vulnerability set off a global race for many companies to patch their computer systems and highlighted how much of the digital economy relies on open-source tools. Maintained by volunteers, Log4j is a free-to-use bit of code that helps track activity across many computer applications.</p><p>Mr. Fox's company acts as a steward for Maven Central, a repository where software developers can access open-source code such as Log4j to include in their projects. On Wednesday afternoon, the platform counted more than 7,500 downloads an hour of versions of Log4j released before its initial security updates were published in December.</p><p>That total doesn't necessarily reflect the number of organizations affected, Mr. Fox said, as developers building or updating their software may use automated tools that repeatedly request Log4j. But the figure does represent 36% of all requests directed toward old versions of the tool during that period.</p><p>\"That ratio still kind of represents what's going on across the entire ecosystem generally,\" Mr. Fox said, adding that his firm has limited insight into who is still using the flawed software. \"That's pretty terrible.\"</p><p>David Nalley, president of the Apache Software Foundation, the nonprofit that oversees the distribution of Log4j, said it is possible some developers are downloading old versions of the tool for security research or after evaluating the software's potential threats to their organizations' systems. Apache updated Log4j in December after a researcher at Chinese e-commerce firm Alibaba Group Holding Ltd. reported a bug that could allow attackers to execute code remotely and potentially take over computer systems they target. The nonprofit released subsequent fixes in response to additional security concerns.</p><p>Flawed forms of the code are still available because so many other pieces of software still rely on them, said Mr. Nalley, who shared estimates of the continuing downloads during a hearing Tuesday before the Senate Committee on Homeland Security and Governmental Affairs.</p><p>\"There would be massive breakage of a number of systems if it disappeared, because they depend upon it,\" he said in an interview.</p><p>Kurt John, chief information security officer for industrial conglomerate Siemens USA, advised companies that need to use such versions of Log4j to build security controls around it to detect fishy activity. Internally, Siemens USA has seen instances where Log4j was deployed in applications or networks that aren't accessible from the internet, so they were less of a priority to fix, he said.</p><p>The bug has pushed some companies and governments to monitor the open-source tools that act as building blocks in their technology more carefully.</p><p>Last month, representatives for companies including Microsoft Corp., Amazon.com Inc., Apple Inc. and Facebook parent Meta Platforms Inc. met with U.S. officials at the White House to discuss how to thwart such security threats. Additionally, the Biden administration last week unveiled a panel of federal officials and private-sector experts, modeled loosely on the National Transportation Safety Board, to investigate major cyber incidents. The Cyber Review Board's first investigation will probe Log4j.</p><p>Even though the Log4j tool isn't currently tied to many high-profile cyberattacks, security experts warn that the software's ubiquity suggests related threats could last years. Speaking at the Senate hearing Tuesday, Jen Miller-Osborn, deputy director of threat intelligence at cybersecurity company Palo Alto Networks Inc., said attackers are using remotely controlled botnets to scan for weak points.</p><p>\"The fact that [Log4j] has been adopted by botnets as well serves to highlight that this vulnerability is never going to die,\" she said.</p><p>Kim S. Nash contributed to this article</p><p>Write to David Uberti at david.uberti@wsj.com</p><p>Two Months On, Many Developers Are Still Downloading Flawed Log4j Tool</p>",
+  "published": "2022-02-10T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2950,
+          "end": 2965
+        },
+        {
+          "start": 2950,
+          "end": 2959
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

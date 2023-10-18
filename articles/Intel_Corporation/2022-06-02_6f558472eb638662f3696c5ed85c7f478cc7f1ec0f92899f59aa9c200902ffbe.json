@@ -1,0 +1,28 @@
+{
+  "_id": "6f558472eb638662f3696c5ed85c7f478cc7f1ec0f92899f59aa9c200902ffbe",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   In some editions Wednesday, the first paragraph of a Business &amp; Finance article about commuting to work incorrectly included the words \"Compared with a year earlier,\" which weren't related to the article. </p><p>   --- </p><p>   Kavitha Prasad, who oversees Intel Corp.'s artificial intelligence strategy, previously worked at a machine-learning startup where she was an early employee. An article about Intel in the April 11 Journal Report on Artificial Intelligence incorrectly said she co-founded the startup. </p><p>   (See: \"Artificial Intelligence (A Special Report) --- Inside Intel's AI-Chip Strategy: The company has lagged behind Nvidia in the fast-growing segment. It's determined to reverse that.\" -- WSJ Apr. 11, 2022) </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-06-02T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 384,
+          "end": 389
+        },
+        {
+          "start": 238,
+          "end": 243
+        },
+        {
+          "start": 554,
+          "end": 559
+        }
+      ]
+    }
+  ]
+}

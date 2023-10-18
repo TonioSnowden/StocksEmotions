@@ -1,0 +1,64 @@
+{
+  "_id": "d747149715a55262d24ff702b8ea336fa4c6cc8ceb5ae314e3f97cd05993dce4",
+  "feed": "wall-street-journal",
+  "title": "Apple Turns Phone  Into Cash Register  ----  By Will Feuer",
+  "text": "<p>   Apple Inc. said it would launch a tap-to-pay feature that will allow businesses and retailers to use an iPhone to accept Apple Pay, contactless credit and debit cards as well as other digital wallets without any other hardware necessary. </p><p>   The feature would be made available to payment platforms and app developers to integrate into their iOS apps and offer as a payment option to business customers, Apple said. </p><p>   With the feature, merchants would be able to accept payment from customers by having them hold their iPhone or Apple Watch near the merchant's iPhone to pay with a digital wallet like Apple Pay or a contactless credit or debit card. </p><p>   Payment processor Stripe Inc. will be the first platform to offer the feature this spring to its customers, which include Shopify's point-of-sale app, Apple said. Other payment platforms and apps will start offering the feature later this year, the company said. </p><p>   The new feature could cut into the business of companies like Block Inc., formerly Square Inc., which makes hardware for stores and businesses that allows them to accept contactless payment. Shares of Block fell slightly on Tuesday. </p><p>   Apple said that the company won't be able to access what is being purchased or who is buying it. </p><p></p>",
+  "published": "2022-02-09T07:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1141,
+          "end": 1146
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 796,
+          "end": 801
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 121,
+          "end": 126
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 400,
+          "end": 405
+        },
+        {
+          "start": 121,
+          "end": 130
+        },
+        {
+          "start": 596,
+          "end": 601
+        },
+        {
+          "start": 596,
+          "end": 605
+        },
+        {
+          "start": 523,
+          "end": 528
+        },
+        {
+          "start": 523,
+          "end": 534
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

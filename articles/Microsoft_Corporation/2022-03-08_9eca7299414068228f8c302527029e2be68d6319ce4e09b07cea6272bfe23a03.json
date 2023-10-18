@@ -1,0 +1,32 @@
+{
+  "_id": "9eca7299414068228f8c302527029e2be68d6319ce4e09b07cea6272bfe23a03",
+  "feed": "market-watch",
+  "title": "Google's $5.4 billion deal for Mandiant could have ‘a major ripple impact' within cybersecurity",
+  "text": "<p>The Google parent company announced Tuesday morning that it intends to purchase Mandiant MNDTfor $23 a share in cash, with plans to integrate the company into Google Cloud. Mandiant shares were down 2.2% in Tuesday trading, to about $22, after gaining 16.1% in Monday's session following a report from The Information saying that deal talks were ongoing. Shares are up roughly 45% since the start of February, after being boosted by an earlier report about acquisition interest from Microsoft Corp. MSFT</p><p>Wedbush analyst Dan Ives believes that Microsoft is not dropping out of the game, however.</p><p>“We believe this deal will have a major ripple impact across the cybersecurity space as cloud stalwarts Amazon AMZN and Microsoft MSFT will now be pressured into M&amp;A,” Wedbush analyst Dan Ives wrote.</p><p>The cybersecurity industry has long been seen as a tech sector in need of consolidation, as companies are forced to sign up with dozens of vendors for different security products for different needs. Cybersecurity professionals are in short supply, leaving large security operations like Cisco Systems Inc. CSCOdesperate for talent as they attempt to cobble together products that address the variety of security problems.</p><p>Among public takeover candidates, Ives sees Varonis Systems Inc. VRNS, Tenable Holdings Ltd. TENB, CyberArk Software Ltd. CYBR, Qualys Inc. QLYS, Rapid7 Inc. RPD, SailPoint Technologies Holdings Inc. SAIL, and Ping Identity Holding Corp. PING as “standout” names.</p><p>Read: ‘The Cold War was over, I think it's restarted' — Putin's cyberwar judo tactics, and how to deal with fear of hacks</p><p>RBC Capital Markets analyst Matthew Hedberg wrote that he was “bullish on the cybersecurity industry as we believe spending intentions and the strategic relevancy of the group remains at elevated levels,” though he took a more tempered view on the prospect of further big mergers.</p><p>“While we don't believe this necessarily forces other large technology vendors to follow suit with a large cybersecurity acquisition in the short-term, we believe it further illustrates the importance of cybersecurity in a cloud-first world and expect both large and small technology vendors to continue to invest (both organically and inorganically) to take advantage of strong market tailwinds,” RBC Capital Markets analyst Matthew Hedberg wrote.</p><p>Alphabet GOOGGOOGL expects that Mandiant will be complementary to the existing security offerings housed in Google Cloud, if the company can win approval for the deal amid antitrust scrutiny.</p><p>“With the addition of Mandiant, Google Cloud will enhance these offerings to deliver an end-to-end security operations suite with even greater capabilities to support customers across their cloud and on-premise environments,” the company said in a release.</p><p>Read:Ransomware boom comes from gangs that operate like cloud-software unicorns — ‘a truly incredible business model'</p><p>Piper Sandler analyst Thomas Champion wrote that the deal seemed to make “strategic sense” for Alphabet given that Mandiant “appears to have credible IP in security” as well as a consulting business that could help Google's enterprise ambitions.</p><p>The deal is Google's second-largest in its history and “well above the range of the company's typical targets,” according to Baird analyst Colin Sebastian.</p><p>“Since Google generally prefers to build products organically, we believe this combination demonstrates how important security is for GCP [Google Cloud Platform] from a product perspective, as well as the challenges in replicating some of Mandiant's core competencies, particularly advisory services,” he wrote.</p>",
+  "published": "2022-03-08T12:16:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 483,
+          "end": 498
+        },
+        {
+          "start": 715,
+          "end": 724
+        },
+        {
+          "start": 543,
+          "end": 552
+        },
+        {
+          "start": 483,
+          "end": 492
+        }
+      ]
+    }
+  ]
+}

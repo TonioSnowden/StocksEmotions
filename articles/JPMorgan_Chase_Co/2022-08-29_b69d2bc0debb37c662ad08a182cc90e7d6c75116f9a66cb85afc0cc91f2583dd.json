@@ -1,0 +1,38 @@
+{
+  "_id": "b69d2bc0debb37c662ad08a182cc90e7d6c75116f9a66cb85afc0cc91f2583dd",
+  "feed": "wall-street-journal",
+  "title": "'Buffer Funds' See Record $6 Billion Inflows Amid a Rocky Market; Investors hedge with the ETFs that aim to limit losses while capping potential gains",
+  "text": "<p>Buffer funds seek to protect investors against a set percentage of losses over a fixed period and allow investors to track the price of an underlying index such as the S&amp;P 500 while using options to mitigate against losses. In exchange for that protection, investors' gains are capped at a certain level.</p><p>Some strategists, however, caution that these funds don't come without drawbacks.</p><p>\"These strategies are built to have less risk than the stock market,\" said Roni Israelov, chief investment officer of NDVR Inc., a wealth-management firm that uses quantitative portfolio strategies. \"But after considering the limited gains, the potential costliness of the options traded and high fees, are buffered strategies worth it compared to an alternative?\"</p><p>JPMorgan Chase &amp; Co.'s hedged equity funds use a similar options strategy as buffer funds but actively manage the underlying stock portfolio as well. The largest of the three funds, JPMorgan Hedged Equity Fund I, closed to most investors in March 2021 after a surge in inflows. Total assets in all three currently sit at $26 billion. Options-trading funds, the Morningstar category that encompasses both hedged equity and buffer funds, have grown to a $56 billion industry from $16 billion in just the past four years.</p><p>The JPMorgan Hedged Equity Fund I and the U.S. Equity Power Buffer ETF from Innovator Capital Management—two of the biggest funds in the space—are easily beating the market this year. They are down 6.3% and 5.7%, respectively. That compares with the S&amp;P 500's 15% decline and the benchmark Bloomberg U.S. Aggregate Bond Index's 9.9% drop. Innovator is the largest provider of buffer ETFs.</p><p>During the first half, the protection that the funds offered against losses was more pronounced: Both funds fell about 11%, while the S&amp;P 500 dropped 23%. Since the market bottomed on June 16, however, their limited upside has come into play—the funds have risen 5.7% and 6.8%, respectively, while the index has climbed 11%.</p><p>\"Investors nearing retirement like the reduced volatility,\" said Bobby Blue, senior manager research analyst at Morningstar. \"But I would be reluctant to call these a good portfolio hedge; you are still exposed to where the equity market goes.\"</p><p>In some cases, investors are protected from only the first 9% or 15% of a market slide, depending on the terms of the fund. That means they could still lose money if markets fall further. Other funds expose investors to 5% of initial losses and provide more crash protection instead.</p><p>SHARE YOUR THOUGHTS</p><p>Have you invested in \"buffer funds\" as a way to guard against losses? Join the conversation below.</p><p>Additionally, unless an investor buys in at the start of an outcome period, the buffer and cap can vary from the initially advertised levels.</p><p>The fees can be chunky, too. JPMorgan's hedged equity products charge between 0.58% to 0.6%, while Innovator's funds carry a 0.79% fee. In comparison, the average expense ratio of actively managed equity mutual funds was 0.68% in 2021, according to ICI, while the popular SPDR S&amp;P 500 ETF, a passive tracker fund, charges 0.09%.</p><p>Investors in the Innovator funds forgo dividends as well, missing out on a steady source of income. Investors have piled in anyway: Innovator's funds have logged nearly $3 billion in inflows this year, according to Bloomberg data, nearly three times as much as the same period last year.</p><p>Write to Eric Wallerstein at eric.wallerstein@wsj.com</p><p>'Buffer Funds' See Record $6 Billion Inflows Amid a Rocky Market</p>",
+  "published": "2022-08-29T11:03:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 747,
+          "end": 767
+        },
+        {
+          "start": 2804,
+          "end": 2812
+        },
+        {
+          "start": 2779,
+          "end": 2788
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0011392,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.001139164,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

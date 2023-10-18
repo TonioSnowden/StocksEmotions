@@ -1,0 +1,66 @@
+{
+  "_id": "1e915812ad09aa9db572c07841ec05a71d03bfa6ee67985f06771ac1469a4f12",
+  "feed": "wall-street-journal",
+  "title": "Walmart Reaches Video-Streaming Deal to Offer Paramount+ to Members; Retailer to make ad-supported service available as a perk for membership program's subscribers",
+  "text": "<p>The companies agreed to a 12-month exclusivity agreement and a two-year deal that would give Walmart+ members access to Paramount's ad-supported streaming service, according to people familiar with the deal. The perk will be available starting in September, Walmart said.</p><p>Walmart's announcement on Monday came after The Wall Street Journal reported the two companies had reached an agreement. Walmart is scheduled to announce quarterly earnings on Tuesday.</p><p>The deal is the latest tie-up in the fast-changing streaming industry, where a growing group of companies are looking to bundle content to draw viewers or customers. YouTube is planning to launch an online store for streaming video services and has renewed talks with entertainment companies about participating in the platform. YouTube, which is owned by Alphabet Inc., would join Apple Inc., Roku Inc. and Amazon, which all have hubs to sell streaming video services.</p><p>Walmart executives have held talks in recent weeks to discuss a streaming deal with executives at Walt Disney Co., Comcast Corp. and Paramount Global, according to people familiar with the matter.</p><p>While this partnership is new, Paramount and Walmart have worked together for years. Paramount has had an office in Bentonville, Ark., dedicated to Walmart, which historically has been a big seller of its consumer products and home entertainment.</p><p>Paramount Global runs the Paramount+ service, which has shows such as \"Halo,\" the \"Star Trek\" series and \"Paw Patrol.\" The company said this month that Paramount+ had more than 43 million subscribers at the end of its latest quarter.</p><p>Walmart introduced Walmart+ in 2020 and aims to use the service to add new streams of revenue beyond selling goods, as well rival the success Amazon has had with its Prime membership services. A subscription to Walmart+ costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline. The retailer has added perks to build interest, such as six months of the Spotify music-streaming service.</p><p>Walmart said Monday that Walmart+ has had positive membership growth every month since its launch, without specifying membership numbers. A Morgan Stanley survey in May said the service has about 16 million members, compared with about 15 million the previous November.</p><p>Amazon has invested heavily to ramp up its own Prime Video service, adding original programming and live sports. Prime Video is included along with free shipping and other perks in its Prime membership, which costs $14.99 a month or $139 a year in the U.S. Amazon also recently added a year of Grubhub's restaurant delivery services for Prime subscribers.</p><p>The deal would give Paramount+ a new avenue for growth in an increasingly competitive streaming market now that all of the major entertainment companies have streaming offerings and growth in the U.S. among many services, such as Netflix Inc., has started to slow.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Walmart Reaches Video-Streaming Deal to Offer Paramount+ to Members</p>",
+  "published": "2022-08-15T21:11:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 257,
+          "end": 264
+        },
+        {
+          "start": 258,
+          "end": 265
+        },
+        {
+          "start": 270,
+          "end": 277
+        },
+        {
+          "start": 390,
+          "end": 397
+        },
+        {
+          "start": 920,
+          "end": 927
+        },
+        {
+          "start": 1161,
+          "end": 1168
+        },
+        {
+          "start": 1263,
+          "end": 1270
+        },
+        {
+          "start": 1593,
+          "end": 1600
+        },
+        {
+          "start": 2023,
+          "end": 2030
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

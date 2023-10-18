@@ -1,0 +1,64 @@
+{
+  "_id": "9be8a0eee30358e64fc9e7f28b535b7200f6c2573b8f51ac850e8026d55fc445",
+  "feed": "wall-street-journal",
+  "title": "Apple Privacy Feature Gives Users the Reins",
+  "text": "<p>On these pop-ups, you'll have two options to choose from: \"Allow\" or \"Ask App Not to Track.\" The idea is that instead of digging through complicated settings to opt out of tracking that you don't really see or are even aware of, you can now opt in, if you enjoy targeted ads. Apps will now ask you before sharing your data with other apps -- or third-party advertisers or data brokers. It's all part of Apple's effort to present you with more privacy controls.</p><p>But while the choices might seem simple, there's quite a lot happening behind the scenes. What exactly do these options mean, and how will they impact your privacy? Here's a breakdown of what Apple is calling App Tracking Transparency, and what happens if you opt out or opt in.</p><p>Wait, apps track me?</p><p>Oh, yes, apps have been tracking you. You know how you may search for something on one website and then the ad for that product can follow you around the web? Well, instead of using web-browser tracking tools like cookies, iPhone apps tend to use a secret string of numbers on your phone. It's called the IDFA (Identifier for Advertisers) and is used for tracking and identifying what you do in apps and across apps. (Android has something similar.)</p><p>Here's an example of how it works. You download a free, ad-supported meal-tracking app. Then a few hours later you start seeing ads for weight loss or healthy eating in your Facebook feed. You also start seeing ads based on what Facebook knows about you (maybe your interest in technology or comfy clothing) right in the food-tracking app.</p><p>What's happened behind the scenes?</p><p>The food-tracking app and Facebook matched information about you using your IDFA.</p><p>Since most apps use this ID, the data attached to your IDFA can include everything from what apps you've downloaded and what you've searched for to your purchase history and location -- and much, much more.</p><p>Why am I seeing these</p><p>pop-ups?</p><p>Unless you've been a religious reader of our columnsor are pretty tapped into this stuff, you have probably not been aware of the extent of all this tracking. So Apple decided it was time to make it less opaque. In iOS 14.5, apps can only gain your IDFA if they ask permission, and you grant it.</p><p>Many companies are now releasing compatible apps ahead of Apple's public release of iOS 14.5. This is why, for example, you may have started to see this appear in our very own Wall Street Journal iOS app.</p><p>Why is Apple doing</p><p>this?</p><p>Apple has long billed itself as a company with a commitment to user privacy. In 2017 the company made it harder for websites to use cookies to track people in the Safari browser on iOS and Mac devices.</p><p>But that ethos goes further back than that. It was a strong belief of Steve Jobs. \"Privacy means people know what they are signing up for in plain English,\" the late Apple co-founder said in 2010 at an All Things Digital conference. \"I believe some people want to share more data than other people do. Ask them.\"</p><p>Apple CEO Tim Cook has continued that commitment and condemned how app-tracking tools are turning consumers into ad magnets. Let's also not forget that Apple -- unlike Facebook or Google -- doesn't depend on ad revenue but the sale of hardware and services to consumers. Facebook has vocally opposed Apple's move, explaining that businesses rely on this personalized advertising.</p><p>What happens when I</p><p>tap 'Ask App Not to</p><p>Track'?</p><p>When you tap this option, you're opting out of tracking, and the app is prevented from accessing your IDFA.</p><p>Beyond that number, this prompt is a signal to apps that you don't want to be tracked in any other way, including personal information like email addresses and phone numbers. According to Apple, \"App developers are responsible for ensuring they comply with your choices.\"</p><p>What happens when I</p><p>tap 'Allow'?</p><p>When you tap this option, it's business as usual. You are opting into personalized, targeted advertising. You are allowing the app to collect information about you and share it with other apps or parties, including data brokers.</p><p>Apps get a chance to explain, in smaller text beneath the main prompt, what data they need and why they need it. A few apps will go even further, possibly with a full pop-up of their own explaining how advertising supports their businesses and how your information is used or shared.</p><p>When you are presented with the pop-up, you can't swipe away or even swipe back to your home screen. You must make a choice. But you can always change your permissions settings after the fact as well as see all of the apps that have prompted you. Go to Settings &gt; Privacy &gt; Tracking.</p><p>What if I don't want</p><p>any pop-ups?</p><p>Can I opt out from all</p><p>app tracking?</p><p>There is a universal setting that will make your default answer to developers \"no.\" Under Tracking, you'll see \"Allow Apps to Request to Track.\" If you have it turned on, the apps will continue to prompt you. If you have it turned off, the apps won't ask, and they won't have access to your identifier.</p><p>In other words, keep this setting off if you don't want to be bugged about tracking.</p><p>Here's where it gets a little confusing: You may not be seeing any pop-ups at all. One reason for that may be because \"Allow Apps to Request to Track\" has replaced a previous setting, called \"Limit Ad Tracking,\" which you may have turned on.</p><p>If you did, your \"Allow Apps\" switch is now off. Don't touch it! You're all set.</p>",
+  "published": "2021-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 403,
+          "end": 408
+        },
+        {
+          "start": 2068,
+          "end": 2073
+        },
+        {
+          "start": 3247,
+          "end": 3252
+        },
+        {
+          "start": 2800,
+          "end": 2805
+        },
+        {
+          "start": 2947,
+          "end": 2952
+        },
+        {
+          "start": 3671,
+          "end": 3676
+        },
+        {
+          "start": 653,
+          "end": 658
+        },
+        {
+          "start": 2260,
+          "end": 2265
+        },
+        {
+          "start": 2414,
+          "end": 2419
+        },
+        {
+          "start": 2432,
+          "end": 2437
+        },
+        {
+          "start": 3099,
+          "end": 3104
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

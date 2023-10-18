@@ -1,0 +1,32 @@
+{
+  "_id": "1eda360c270d9aa448820f1a63e888951a2a9766c2cbb5dbb761269ce072607c",
+  "feed": "wall-street-journal",
+  "title": "Walmart to Pay $3.1 Billion To Settle Opioid Lawsuits",
+  "text": "<p>The Walmart agreement was announced the same morning that the retail giant reported its latest quarterly results. The company said it took $3.3 billion in charges in the last quarter related to opioid settlements. It reported stronger-than-expected sales in the October-ended quarter and raised sales and profit goals for the year, signs the big discount chain is drawing in shoppers despite high inflation. Walmart shares rose 6.6%.</p><p>Each state, local government and tribe will need to decide whether to participate in the settlement. Walmart said it strongly disputes allegations in the lawsuits and the settlement isn't an admission of liability.</p>",
+  "published": "2022-11-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 408,
+          "end": 415
+        },
+        {
+          "start": 535,
+          "end": 542
+        },
+        {
+          "start": 4,
+          "end": 11
+        }
+      ]
+    }
+  ]
+}

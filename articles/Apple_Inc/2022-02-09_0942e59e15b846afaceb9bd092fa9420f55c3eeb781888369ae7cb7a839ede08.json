@@ -1,0 +1,44 @@
+{
+  "_id": "0942e59e15b846afaceb9bd092fa9420f55c3eeb781888369ae7cb7a839ede08",
+  "feed": "wall-street-journal",
+  "title": "Apple Turns Phone Into Cash Register",
+  "text": "<p>With the feature, merchants would be able to accept payment from customers by having them hold their iPhone or Apple Watch near the merchant's iPhone to pay with a digital wallet like Apple Pay or a contactless credit or debit card.</p><p>Payment processor Stripe Inc. will be the first platform to offer the feature this spring to its customers, which include Shopify's point-of-sale app, Apple said. Other payment platforms and apps will start offering the feature later this year, the company said.</p><p>The new feature could cut into the business of companies like Block Inc., formerly Square Inc., which makes hardware for stores and businesses that allows them to accept contactless payment. Shares of Block fell slightly on Tuesday.</p><p>Apple said that the company won't be able to access what is being purchased or who is buying it.</p>",
+  "published": "2022-02-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 111,
+          "end": 122
+        },
+        {
+          "start": 184,
+          "end": 193
+        },
+        {
+          "start": 729,
+          "end": 734
+        },
+        {
+          "start": 111,
+          "end": 116
+        },
+        {
+          "start": 384,
+          "end": 389
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 184,
+          "end": 189
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

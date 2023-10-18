@@ -1,0 +1,32 @@
+{
+  "_id": "9d71dcde3803fee3bd04157fa9768ae0a8bbf7fc5a54286d5edce8514d3eb650",
+  "feed": "wall-street-journal",
+  "title": "Fintech Stripe Valued at $95 Billion",
+  "text": "<p>Thanks to the new fundraising, Stripe is now worth more than other startup darlings like Instacart Inc. Globally, it still trails the Chinese fintech giant Ant Group Co. in terms of valuation.</p><p>As a payment processor to startups and fast-growing internet companies, Stripe benefited from the pandemic-induced boom in online shopping. Stripe customers including DoorDash Inc., Shopify Inc. and Wayfair Inc. all experienced a surge in demand as consumers shifted their spending from bricks-and-mortar establishments.</p><p>\"We're bigger now than the entire e-commerce [market] was when we first started Stripe,\" Dhivya Suryadevara, Stripe's chief financial officer, said. Stripe launched in 2010.</p><p>In the pandemic, some small businesses were unhappy with steps Stripe and other payment processors took to protect themselves from possible losses. The maneuvers, including sometimes making the businesses wait extra days or even months to access money deposited in their accounts, intensified a cash crunch at many firms.</p><p>Stripe doesn't disclose its payment volumes or financial results. The company said that it processes payments worth hundreds of billions of dollars a year for millions of businesses world-wide and that it counts as customers more than 50 companies that each use Stripe to process more than $1 billion annually.</p><p>In December, Stripe said it was teaming up with Goldman Sachs Group Inc., Citigroup Inc. and others to offer checking accounts and other business-banking services to merchants.</p>",
+  "published": "2021-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1360,
+          "end": 1384
+        },
+        {
+          "start": 1369,
+          "end": 1382
+        },
+        {
+          "start": 1369,
+          "end": 1376
+        },
+        {
+          "start": 1369,
+          "end": 1393
+        }
+      ]
+    }
+  ]
+}

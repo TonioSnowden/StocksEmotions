@@ -1,0 +1,38 @@
+{
+  "_id": "cbab860575cafb53532b83c887c5cfbd135dc531ed84de9a1cf54481b210dcf1",
+  "feed": "ftcomall",
+  "title": "AMTD: ‘Asia's GameStop' pits Superman against super-meme",
+  "text": "<p>It took just two days for the value of an obscure Hong Kong financial services firm to exceed $300bn. Even after the capitalisation of New York-listed AMTD Digital halved to the Thursday close, it was higher than that of Goldman Sachs.</p> <p>It will take more than meme traders' exuberance to keep the surge going.</p> <p>Only one thing is notable about AMTD Digital, which develops financial services technology for online businesses. It has a link to Li Ka-shing, Hong Kong's richest man. CK Group, the conglomerate he controls, holds around 4 per cent of the owner of AMTD Digital, the privately held AMTD Group.</p> <p>The apparent endorsement of Li — at one time known locally as “Superman” — gave credibility to AMTD Digital.</p> <p>Shares in the Asian fintech company rose <a href=\"https://www.ft.com/content/98c7f21d-d91c-4f85-bd9b-96b5dc1e2ad8\">14,000 per cent</a> from its listing last month to their peak this week. On Friday, it announced full exercise of its greenshoe, or overallotment option, to obtain additional shares at the initial offering price of $7.80 — a long way from the $800 closing price on Thursday.</p> <p>Now CK is in talks to offload its stake in AMTD Group. CK says it has no involvement in the operations or business plans of AMTD.</p> <p>Valued on fundamentals, there is even less to justify a rally in AMTD shares than there was for US meme trader favourite GameStop, a stumbling US video game retailer. AMTD booked just $25mn in revenue for the year to April. But its market value is now six times that of <a href=\"https://www.ft.com/topics/organisations/CK_Hutchison_Holdings_Ltd\">CK Hutchison</a>, the flagship company of Li's CK Group, which posted $57bn in sales last year.</p> <p>At an industry average multiple, that would give it an enterprise value of just over $40mn.&#xa0;The group's ties to Hong Kong expose it to regulatory scrutiny. The retail traders behind AMTD lack the passion and trading volume that GameStop enjoyed in the early weeks of its rally.</p> <p>Shares fell after CK distanced itself from the company. Expect them to tumble further.</p><p>Source:  2022 'AMTD: ‘Asia's GameStop' pits Superman against super-meme' FT.com 5 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-05T12:15:21.803Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 221,
+          "end": 234
+        },
+        {
+          "start": 221,
+          "end": 228
+        },
+        {
+          "start": 220,
+          "end": 233
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.199501,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.19950104,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

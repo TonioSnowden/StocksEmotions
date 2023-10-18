@@ -1,0 +1,24 @@
+{
+  "_id": "01ee9291a066b79cd7c260302ee59fe90280afc0add4379506e53f2e086ddc4e",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Having Covid-19 Raises Clot Risk, Study Says",
+  "text": "<p>U.S. officials have recommended a pause in the administration of the single-dose Covid-19 vaccine developed by Johnson &amp; Johnson as they study a possible link between the shot and a very small number of instances of severe blood clotting. The Oxford study didn't look at patient data for recipients of the J&amp;J shot.</p><p>The AstraZeneca shot hasn't been approved for use in the U.S., but many governments across Europe have restricted it, amid several instances of similar blood clotting involving cerebral venous thrombosis, or CVT, or CVST.</p><p>The scientists behind the Oxford study are different from the Oxford scientists who developed the vaccine in partnership with AstraZeneca. The study, which hasn't been peer reviewed, said it showed the clotting-related risks from getting sick with Covid-19 are much greater than any clotting risks presented following administration of the three Western-developed Covid-19 vaccines that are already in wide circulation, and should help assuage vaccine hesitancy. The researchers said CVT could be more common in Covid-infected adults than previously estimated, and they set out to compare the rate with severe blood clotting that appears to be linked to vaccinations.</p><p>They cautioned, however, against putting too much stock in the specific findings of the relative risks of Covid-infected and general populations or varying risks among vaccines. They said the data used was too limited for statistically valid comparisons of CVT occurrence among recipients of different vaccines or with the general population. The scientists said other limits of the data include the rarity of the clotting in all groups and the inclusion of children in the U.S. data set. The data review also didn't shed light on the cause of clots.</p><p>The main finding regarding CVT is that \"the risk is many-fold higher after Covid-19 than after receiving a vaccine,\" said Masud Husain, an Oxford professor of neurology and cognitive neuroscience who was part of the study.</p><p>The Oxford study, which looked at a database of primarily U.S. patient data, found the risk of CVT within two weeks of a Covid-19 infection is roughly 100 times greater than in the general population -- again caveated by data and statistical limitations. The study found the risk was eight to 10 times greater than among adults receiving any one of the three vaccines from Pfizer-BioNTech, Moderna and AstraZeneca.</p><p>Pfizer and Moderna have said their shots are safe.</p><p>The data included 513,000 patients who were diagnosed with Covid-19 from January 2020 through March 25, 2021.</p>",
+  "published": "2021-04-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 111,
+          "end": 128
+        },
+        {
+          "start": 306,
+          "end": 309
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

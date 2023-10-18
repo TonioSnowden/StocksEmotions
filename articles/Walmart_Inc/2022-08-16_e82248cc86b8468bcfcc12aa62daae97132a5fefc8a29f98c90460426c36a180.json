@@ -1,0 +1,34 @@
+{
+  "_id": "e82248cc86b8468bcfcc12aa62daae97132a5fefc8a29f98c90460426c36a180",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Third Point has bought a new stake in Disney and is calling on the media company to cut costs, buy the rest of Hulu, explore spinning off ESPN and refresh its board of directors.</p><p>Elliott Management has a large position in Cardinal Health and is seeking a handful of seats on the company's board, according to people familiar with the matter.</p><p>U.S. stocks ended higher, with the S&amp;P 500 and Dow both rising 0.4%, while the Nasdaq gained 0.6%. Commodity prices fell on worries about growth in China.</p><p>Andreessen Horowitz is investing in Flow, a real-estate startup led by former WeWork executive and co-founder Adam Neumann.</p><p>The Fed said it would adopt a tiered approach for determining whether to grant financial institutions access to its payment systems.</p><p>An investigation by WWE's board into allegations of sexual misconduct against Vince McMahon is \"substantially complete,\" the company said in a securities filing.</p><p>Walmart agreed to a deal with Paramount to offer the Paramount+ streaming service to Walmart membership program subscribers.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 909,
+          "end": 916
+        },
+        {
+          "start": 994,
+          "end": 1001
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4704093,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.52981627,
+        "tagPositionWeight": 0.00022554398,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

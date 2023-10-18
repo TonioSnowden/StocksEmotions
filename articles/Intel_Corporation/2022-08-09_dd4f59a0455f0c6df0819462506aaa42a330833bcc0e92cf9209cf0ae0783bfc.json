@@ -1,0 +1,54 @@
+{
+  "_id": "dd4f59a0455f0c6df0819462506aaa42a330833bcc0e92cf9209cf0ae0783bfc",
+  "feed": "wall-street-journal",
+  "title": "Chip Makers Expect Demand Slowdown to Expand Beyond PCs, Smartphones; White House commits to long-term U.S. chip expansion as companies dial down near-term spending",
+  "text": "<p>The latest sign of near-term concern, though, is that auto makers are becoming more cautious consumers of chips after struggling for about two years to secure adequate supply, Mr. Murphy added at an investor event. \"We are certainly seeing broader weakening,\" he said. </p><p>Micron's latest comments build on a flurry of bad news from chip makers, which have cited slowdowns in sales linked to PCs, graphics cards and videogames. Intel Corp. shocked the market two weeks ago with a quarterly loss and cut its full-year outlook. Advanced Micro Devices Inc. days later issued a muted outlook, and Nvidia Corp. on Monday warned that sales would come in below its own forecast.</p><p>The news has weighed on chip stocks. The PHLX Semiconductor Index is down 4.9% Tuesday and 27% for the year, compared with the 21% year-to-date decline for the Nasdaq.</p><p>The industry is reacting with rapid belt tightening, creating a disconnect between its near-term outlook and long-term prospects for semiconductor sales to more than double by the end of the decade—as well as the billions of dollars it plans to spend on new plants, fueling growth. </p><p>Smartphone chip designer Qualcomm Inc. said Monday that it signed a deal with contract chip maker GlobalFoundries Inc. to secure more than $4 billion of its manufacturing capacity through 2028. Micron said Tuesday that it would invest $40 billion in cutting-edge memory-chip manufacturing in the U.S., part of a $150 billion global investment plan over the coming decade. Intel, the U.S.'s biggest chip maker by revenue, is expanding its facilities in Arizona and building a new plant in Ohio, among other projects that could cost hundreds of billions of dollars if fully built out.</p><p>Washington plans to underwrite some of that expansion to ensure factories are built in the U.S. with funding that has enjoyed rare bipartisan support and is aimed at counteracting the industry's shift toward Asia in recent decades. Mr. Biden said the new law represents \"a once-in-a-generation investment in America itself.\"</p><p>There Aren't Enough Chips—Why Are They So Hard to Make?</p><p>An upstate New York factory shows the complicated process of turning silicon into a chip.</p><p>More immediately, though, the chip industry is trying to gauge how far-reaching the current downturn may be. One area of strength for chip companies' financial results in the past weeks has been demand for server chips, but even that area is flashing warning signals. Nvidia said its data center business was hit by supply-chain disruptions. Intel late last month cut its full-year sales outlook after its PC and server-chip divisions stumbled, and Bank of America analyst Vivek Arya said there were \"pockets of weakness\" in demand from corporate buyers and Chinese cloud-computing customers.</p><p>The reset now unfolding follows two years of supercharged growth driven by pandemic-era spending on laptops, phones, cars and appliances that strained the industry's capacity, leading to a broad shortage. Many electronics that were hard to obtain a year ago are now in freer supplyas inflation concerns and a shakier economic outlook weigh on consumers. </p><p>\"We are seeing some areas of the market beginning to rebalance supply and demand, including end markets such as low-end handsets, PCs and in general, the lower end of consumer electronics market,\" GlobalFoundries Chief Executive Tom Caulfield said on an earnings call Tuesday.</p><p>Chip makers most directly exposed to consumers have been the hardest hit. Intel pinned its disappointing results in part on weakness in PC sales. Qualcomm cut its phone-shipment forecast for this year in July and issued a muted sales outlook.</p><p>PC shipments are expected to fall by 9.5% this year, according to Gartner. The research firm also in late June revised its forecast downward for sales of phones capable of using superfast 5G networks.</p><p>Overordering by customers desperate for chips during the shortage is now swinging the other way in some segments of the market, said Michael Hurlston, CEO of Synaptics Inc., which makes chips that go into touchpads, headsets and other devices.</p><p>\"We have an over-rotation where people are trying to cut inventory to unhealthy levels and there's a pessimism that sits in the market that's also wrong,\" he said. \"So I think our picture is uncertain.\"</p><p>Mr. Murphy of Micron called the auto and industrial demand issues his company was experiencing a \"very recent development,\" adding that it could take a few quarters to get a clearer picture.</p><p>Micron said sales for its current fiscal quarter may come in at or below the roughly $7.2 billion it forecast in June, while projecting more challenges in the following quarter.</p><p>\"The bottom doesn't appear to be this quarter,\" he said.</p><p>John McKinnon contributed to this article.</p><p>Write to Asa Fitch at asa.fitch@wsj.com</p><p>Chip Makers Expect Demand Slowdown to Expand Beyond PCs, Smartphones</p>",
+  "published": "2022-08-09T22:18:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99999076,
+      "offsets": [
+        {
+          "start": 2496,
+          "end": 2501
+        },
+        {
+          "start": 424,
+          "end": 435
+        },
+        {
+          "start": 1490,
+          "end": 1495
+        },
+        {
+          "start": 421,
+          "end": 432
+        },
+        {
+          "start": 3447,
+          "end": 3452
+        },
+        {
+          "start": 2514,
+          "end": 2519
+        },
+        {
+          "start": 1480,
+          "end": 1485
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.0292583,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.02925837,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

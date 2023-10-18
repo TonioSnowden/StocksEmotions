@@ -1,0 +1,48 @@
+{
+  "_id": "c4af4b31d6929a5677ee780d9a8fb83c67e3980dd4fb43abfc2bf4aee618275b",
+  "feed": "wall-street-journal",
+  "title": "Intel to Focus on Chemicals to Meet Net-Zero Goal; Eliminating emissions from chip making hinges on addressing emissions of highly-polluting gases that are currently essential to the process",
+  "text": "<p>Intel's emissions have continued to rise in recent years as demand for computing power has boomed. Still, direct emissions over the past decade were 75% lower than they would have been if Intel hadn't improved its carbon intensity through efficiency gains and used more renewable energy, the company said. Intel will continue to invest in those areas, but deeper emissions cuts will mean addressing chemicals it uses in factories, according to Todd Brady, the company's chief sustainability officer.</p><p>\"We need to look fundamentally at the chemistry and if we can come up with completely new chemistries that have zero global warming potential,\" he said. \"It will be a big, big change.\"</p><p>Mr. Brady said the company would launch a cross-industry research-and-development effort to prevent the release of chemicals and put alternatives into widespread use.</p><p>Semiconductors are made by etching patterns into silicon wafers in industrial ovens that must be free of contamination; tiny imperfections can be disastrous. The process relies on chemicals that are far more potent greenhouse gases than carbon dioxide to etch chips and to keep equipment clean.</p><p>Up to 80% of the chemicals used in semiconductor manufacturing can be released into the air, according to the U.S. Environmental Protection Agency. One commonly used group of chemicals, perfluorocarbons, are warming gases between 6,500 and 9,200 times more potent than CO2, the EPA says.</p><p>Chemical makers including Belgium's Solvay SA and Germany's BASF SE are among companies that have developed alternatives to some of the polluting chemicals used in semiconductor manufacturing. But right now, chemical agents like perfluorocarbons remain essential.</p><p>\"The continued availability and use of these gases is considered to be critical to the future success of the [semiconductor] industry,\" the EPA says on its website.</p><p>Perfluorocarbons were Intel's leading source of direct greenhouse-gas—or Scope 1—emissions in 2020, the company's disclosures show, accounting for nearly half its Scope 1 footprint, which was equivalent to 1.97 million metric tons of carbon dioxide.</p><p>Further complicating the matter is how challenging it is to change materials and tools in chip making after production gets started, said Peter Hanbury, head of the Americas manufacturing practice at consultancy Bain &amp; Co.</p><p>\"Semiconductor companies must continue pushing sustainability considerations early in the design of each technology,\" he said. \"It's much easier to insert these new approaches and techniques early when designing a new process than it is to retrofit.\"</p><p>Last year, Taiwanese Semiconductor Manufacturing Co., one of the world's largest semiconductor makers, said it would reach net-zero emissions by 2050. When asked about polluting chemicals, a TSMC spokesperson said the company would explore ecofriendly alternatives and invest in research and development.</p><p>\"For those companies that move sooner, there's a business opportunity to come up with those solutions,\" he said.</p><p>As well as the industry-specific chemicals problem, Intel faces a more widespread challenge—energy use. As transistors on microchips get tinier and more sophisticated, making them requires more manufacturing steps and more complex tools, adding to energy demand and waste, according to Mr. Hanbury at Bain &amp; Co.</p><p>Intel said it plans to invest approximately $300 million in energy conservation at its facilities by 2030 and also aims to power its operations entirely with renewable energy. Mr. Brady said he is confident that Intel can continue to make processes more efficient despite concern in some circles that the decadeslong increase in computing efficiency is nearing its limits.</p><p>\"My take is: The innovation continues,\" he said. \"We have brilliant engineers and scientists who find novel ways to keep the efficiency going.\"</p><p>Write to Dieter Holger at dieter.holger@wsj.com</p><p>Intel to Focus on Chemicals to Meet Net-Zero Goal</p>",
+  "published": "2022-04-13T12:45:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 306,
+          "end": 311
+        },
+        {
+          "start": 1886,
+          "end": 1891
+        },
+        {
+          "start": 3058,
+          "end": 3063
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3318,
+          "end": 3323
+        },
+        {
+          "start": 3883,
+          "end": 3888
+        },
+        {
+          "start": 188,
+          "end": 193
+        },
+        {
+          "start": 3530,
+          "end": 3535
+        }
+      ]
+    }
+  ]
+}

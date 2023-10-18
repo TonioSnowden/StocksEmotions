@@ -1,0 +1,38 @@
+{
+  "_id": "61b3d9ef07c79307aabc3a40a5665655d86c528a5eaf1c3df6cc3bcc934c733a",
+  "feed": "wall-street-journal",
+  "title": "Merck Shuffles Board Chairmen; Chairman Ken Frazier plans to exit and Chief Executive Robert Davis will take on the role",
+  "text": "<p>The moves mean Mr. Frazier, who retired as chief executive last year, steps away from the company that he had run for a decade. Mr. Frazier served as chairman of the 14-member board since 2011.</p><p>\"I've got big shoes to fill following Ken,\" Mr. Davis said in an interview. Mr. Frazier is leaving, Mr. Davis said, with Merck's business performing well and pipeline of experimental drugs advancing.</p><p>Mr. Davis joined Merck as chief financial officer in 2014. He took the helm of the Rahway, N.J., company as it was seeking new sources of sales because its top-selling drug, cancer immunotherapy Keytruda, is expected to lose patent protection by the end of 2028.</p><p>As chief executive, Mr. Davis has given priority to deal making to expand the company's pipeline of promising new drugs that could furnish new sales. Among his biggest deals was the $11.5 billion acquisition of Acceleron Pharma in 2021.</p><p>Mr. Frazier, who joined Merck in 1992 and as general counsel steered the company through lawsuits over its recalled painkiller Vioxx, directed the drugmaker's entry into the new field of immunotherapy while chief executive.</p><p>Under Mr. Frazier, Keytruda overtook rival Bristol-Myers Squibb Co.'s Opdivo as the top-selling cancer immunotherapy. Keytruda, which treats lung and other tumors, totaled more than $17 billion in worldwide sales last year.</p><p>Mr. Frazier was among the few Black CEOs and chairmen at S&amp;P 500 companies and had encouraged companies to hire more Black employees. There are currently only eight Black CEOs in the S&amp;P 500, according to data firm Equilar.</p><p>—Theo Francis contributed to this article.</p><p>Write to Jared S. Hopkins at jared.hopkins@wsj.com</p>",
+  "published": "2022-10-27T00:29:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 315,
+          "end": 320
+        },
+        {
+          "start": 411,
+          "end": 416
+        },
+        {
+          "start": 918,
+          "end": 923
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0821824,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.08218253,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

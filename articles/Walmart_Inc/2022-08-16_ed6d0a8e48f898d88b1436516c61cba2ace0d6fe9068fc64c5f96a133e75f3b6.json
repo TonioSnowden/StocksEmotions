@@ -1,0 +1,66 @@
+{
+  "_id": "ed6d0a8e48f898d88b1436516c61cba2ace0d6fe9068fc64c5f96a133e75f3b6",
+  "feed": "wall-street-journal",
+  "title": "Walmart Revenue, Profit Rise as Higher Prices Lift Business; The nation's largest retail chain by sales says efforts to clear out excess inventory are continuing",
+  "text": "<p>Walmart Inc.'s revenue and profit rose in the second quarter as the retail giant benefited from higher prices and consumers stepping up shopping trips to its stores.</p><p>Walmart on Tuesday said that it is gaining market share in some categories such as grocery as shoppers grapple with inflation and that some Covid-19 related costs have shrunk. But higher prices have led shoppers to hold back on some purchases, prioritizing lower-margin food items, eating into profits. Walmart is also selling through a glut of inventory leading to higher discounts.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook for Walmart's business? Join the conversation below.</p><p>\"The actions we've taken to improve inventory levels in the U.S., along with a heavier mix of sales in grocery, put pressure on profit margin,\" said Walmart Chief Executive Doug McMillon in a statement.</p><p>Walmart's U.S. comparable sales, those from stores and digital channels operating for at least 12 months, rose 6.5% in the quarter ended July 29, helped by higher prices, market share gains in grocery and strong store brand product sales. Overall, revenue rose 8.4% to $152.86 billion.</p><p>Both Walmart, the nation's largest retailer by revenue, and Target Corp. sent warnings in recent weeks that efforts to clear out excess inventory and weaker-than-expected demand for a range of products would diminish their profits this year.</p><p>But in the latest quarter, profits rose. Walmart said its net income in the three months ended in July was $5.15 billion, compared with $4.28 billion a year earlier. On a per-share basis excluding one-time items, the profit was $1.77, compared with the $1.62 a share expected from analysts, according to a FactSet poll.</p><p>In early trading Walmart shares rose more than 3% to $137.17. Walmart shares through Monday's close are down 8.4% this year, compared with a 9.8% decline in the S&amp;P 500 index and 6.7% drop in the Dow Jones Industrial Average.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Walmart Revenue, Profit Rise as Higher Prices Lift Business</p>",
+  "published": "2022-08-16T11:44:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9999996,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 165,
+          "end": 172
+        },
+        {
+          "start": 466,
+          "end": 473
+        },
+        {
+          "start": 591,
+          "end": 598
+        },
+        {
+          "start": 840,
+          "end": 847
+        },
+        {
+          "start": 1129,
+          "end": 1136
+        },
+        {
+          "start": 1405,
+          "end": 1412
+        },
+        {
+          "start": 1699,
+          "end": 1706
+        },
+        {
+          "start": 1743,
+          "end": 1750
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

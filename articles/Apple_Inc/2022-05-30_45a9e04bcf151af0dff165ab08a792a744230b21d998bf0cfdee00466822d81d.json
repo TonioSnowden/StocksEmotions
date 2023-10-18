@@ -1,0 +1,30 @@
+{
+  "_id": "45a9e04bcf151af0dff165ab08a792a744230b21d998bf0cfdee00466822d81d",
+  "feed": "reuters",
+  "title": "UPDATE 1-Russia freezes trading in up to 14% of U.S.-listed shares on SPB Exchange",
+  "text": "<p>Financial links between Russia and external markets have been damaged by sweeping sanctions that the West imposed after Moscow sent tens of thousands of troops into Ukraine on Feb. 24.</p><p>Citing the need to protect investors' rights and interests, the central bank said it decided from May 30 to restrict trading in foreign shares that have been blocked by international clearing houses, except for shares of foreign companies that carry out \"production and economic activity mostly in Russia.\"</p><p>SPB said the decision was caused by restrictions imposed by Euroclear and will impact shares with primary listing in the United States.</p><p>\"Freely traded foreign securities will be completely separated from securities that cannot be traded until the change in Euroclear 's policy towards Russian depositories,\" SBP said in a statement.</p><p>This implies investors that used to trade U.S. stocks via SPB Exchange , which specialises on foreign shares, will retain their ownership rights but will lose access to some of their holdings of U.S. stocks, including blue chips, such as Apple or Tesla .</p><p>Tinkoff , one of Russia's leading brokerages, said it had engaged lawyers to protects interest and rights of its clients.</p><p>SPB saw a surge in trading volumes during the COVID-19 pandemic and, before Feb. 24, was hoping for a listing on the Nasdaq Global Select Market in the first half of 2022 after its domestic initial public offering.</p><p>In money terms, the separation will affect less than 14% of all shares in clients' portfolio and will have no impact on the number of shares the bourse offers, which currently exceeds 1,650, SBP said.</p><p>The central bank's decision will not affect shares of companies with Russian roots, such as HeadHunter Group Yandex N.V., Ozon Holdings PLC and Cian PLC .</p><p>\"The Bank of Russia, SPB Exchange and trading participants are constantly working to develop a system solution, interacting with international counterparties,\" SPB said.</p>",
+  "published": "2022-05-30T08:08:28.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99997985,
+      "offsets": [
+        {
+          "start": 1063,
+          "end": 1068
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000484,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.839897e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

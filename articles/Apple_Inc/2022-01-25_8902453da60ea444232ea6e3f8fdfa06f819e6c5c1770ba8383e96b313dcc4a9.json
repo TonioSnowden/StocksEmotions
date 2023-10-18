@@ -1,0 +1,24 @@
+{
+  "_id": "8902453da60ea444232ea6e3f8fdfa06f819e6c5c1770ba8383e96b313dcc4a9",
+  "feed": "ftcomall",
+  "title": "Google changes course on cookies plans following advertising industry backlash",
+  "text": "<p>Google has overhauled a central piece of technology it is building to replace advertising cookies, after complaints that it has not done enough to protect users' privacy and could end up further entrenching its own power in the advertising world.</p> <p>The change comes more than two years after the search company first proposed a way for publishers to target online adverts in place of cookies, the small text files inserted in users' browsers to track their online behaviour. </p> <p>The <a href=\"https://www.ft.com/content/6656d8f3-dc40-42eb-a107-956a4b841e42\">difficulty</a> of winning wide support in the online advertising world has already put the move, planned for the second half of 2023, <a href=\"https://www.ft.com/content/b42db1db-8cfd-4247-90f5-3c6f934b5b3d\">nearly two years</a> behind schedule.</p> <p>On Tuesday, Google conceded that a part of its replacement for cookies, known as Floc, might not do enough to protect the identity of individuals online, and did not make it easy enough for web users to understand or control how their data are being used.</p> <p>Vinay Goel, the product manager in charge of the project, told the Financial Times that Google decided to scrap Floc after “feedback” from publishers and others in the industry. </p> <p>He claimed that a replacement method for tracking users' interests, known as Topics, would meet the concerns, without causing further delays. “I realise some might think it's taking longer [but] we still believe in the timeline,” he said.</p> <p>The Floc plan involved analysing users' browsing habits on their own devices, rather than sending the data to Google's servers. The company had planned to use this to create “cohorts” of anonymous users with similar interests, then let advertisers bid to target adverts at the groups.</p> <p>The idea was attacked by rivals as a “black box” that would leave Google with too much control over how online audiences are assembled and sold to advertisers. </p> <p>Privacy campaigners complained that if the “cohorts” were too small, it might be possible to combine the data with other information to identify people individually. They also warned that groupings assembled out of a mix of different online interests might lead to people being put into categories that could increase the risk of discrimination.</p> <p>Google claimed that Topics would deal with the worries by allocating people to simpler categories that were easier to understand, for instance including someone in a “sports” category if they read about baseball.</p> <p>More general categories would also reduce the risk of people being individually identified, though Goel said Google would decide on the groupings after discussions with publishers and others.</p> <p>Scrutiny over how Google leverages its advertising power has only intensified as Apple has made privacy a selling point to consumers, by attacking the advertising-by-tracking industry as an invasion of user privacy. Apple claims that its own ads business respects users by only operating on the device, rather than by sending data to the cloud.</p> <p>Finding a broadly acceptable replacement for cookies has left Google treading a fine line between privacy and competition worries. </p> <p>A group of German publishers earlier this week <a href=\"https://www.ft.com/content/eccf5514-8b83-4d85-8305-f882adf5dac3\">complained</a> to the European Commission that the company's plans would unfairly hurt publishers and favour the company's own online advertising business. However, the UK's Competition and Markets Authority <a href=\"https://www.ft.com/content/6e0e3776-0f85-43b8-94ac-1b906c330c2d\">has accepted</a> Google's plan, at least in principle.</p><p>Source: Richard Waters and Patrick McGee in San Francisco 2022 'Google changes course on cookies plans following advertising industry backlash' FT.com 25 January. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-01-25T13:00:27.285Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2726,
+          "end": 2731
+        },
+        {
+          "start": 2591,
+          "end": 2596
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

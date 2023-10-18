@@ -1,0 +1,32 @@
+{
+  "_id": "db78fef86fe4a4bbcc6e60eb5090dc5bd6b23e4a8e69410e68083680720a8b30",
+  "feed": "market-watch",
+  "title": "The return of JEDI: Why the sequel to military's cloud contract could cost much more than the $10 billion original",
+  "text": "<p>JEDI was first. The successor, JWCC, has renewed hostilities among Amazon.com Inc. AMZN, Microsoft Corp. MSFT, Alphabet parent Google GOOGLGOOG, Oracle Corp. ORCL and International Business Machines Corp. IBM — with the stakes decidedly higher, and the deal more complex.</p><p>The Joint Enterprise Defense Infrastructure, or JEDI, was a Pentagon defense contract designed for just one vendor, leading to a controversial award to Microsoft in 2019 that sparked years of controversy and lawsuits that only ended this week, despite the government canceling the award in July.</p><p>As the JEDI fight dragged on for years, the cloud industry was undergoing rapid change from the single-source contract approach the Defense Department was then taking toward a so-called “multi-cloud” model of more than one vendor.</p><p>See also: The JEDI reboot allows U.S. to correct its mistake</p><p>The sequel — the Joint Warfighting Cloud Capability contract, due to be awarded in April 2022 — will go to multiple vendors, and Amazon and Microsoft have already claimed two of the spots. Google Cloud, Oracle and IBMconfirmed to MarketWatch that they will vie to join Amazon and Microsoft on the deal in recent days, and expect to hear if they are considered viable as early as this month.</p><p>The Defense Department has not affixed a value to JWCC, which would let troops access data in the unclassified, secret and top-secret classification levels, but it could be worth much more than the $10 billion JEDI deal. The Department of Defense said it “intends to seek proposals from a limited number of sources, namely the Microsoft Corporation (Microsoft) and Amazon Web Services (AWS),” according to a news release.</p><p>“JEDI, conceived with noble intent and a baseline now several years old, was developed at a time when the department's needs were different and our cloud conversancy less mature,” DoD Chief Information Officer John Sherman said in July, when the Defense Department simultaneously announced JWCC and the termination of JEDI shortly after Amazon dropped its legal challenge to JEDI. “The JWCC's multi-cloud environment will serve our future in a way that JEDI's single award, single cloud structure simply cannot do.”</p><p>In-depth: How Amazon created AWS and changed technology forever</p><p>The structure of JWCC is highly significant because it illustrates the industrywide shift to multi-cloud vendor contracts and away from all-in-one solutions, says Will Grannis, managing director of Google Cloud's office of the CTO.</p><p>“What you're seeing is across every enterprise — healthcare, financial services, government agencies, retail. Enterprises are choosing multi-cloud to meet service complexity,” Grannis told MarketWatch. “Multi-cloud is here to stay, and that is reflected by what is happening with JWCC.”</p><p>“Almost all large customers have a multi-cloud strategy. It's a logical continuation of moving more stuff to the cloud,” Clay Magouyrk, executive vice president of Oracle Cloud, told MarketWatch. He explained cloud infrastructure has quickly grown to a $150 billion market because “people are spending less on on-premise computing and more on the cloud.” [Overall IT spending globally is about $1 trillion, he added.]</p><p>The COVID-19 pandemic, in turn, has accelerated the movement to hybrid and multi-cloud systems as more people work remotely, putting a premium on “elastic, flexible” data systems, said Tom Keane, corporate vice president of Azure Global at Microsoft.</p><p>“There is growth across almost every industry via cloud,” he told MarketWatch.</p><p>Indeed, more than 80% of respondents to a Gartner study on cloud-data management said they are using more than one cloud service provider.</p><p>In November, for example, the CIA awarded its C2E contract for certain intelligence operations, potentially&#xa0;worth tens of billions of dollars, to AWS, Microsoft, Google, Oracle and IBM. The deal replaces the $600 million C2S bid awarded in 2013 to Amazon.</p><p>From 2019: Amazon, Oracle and IBM battle in mysterious world of military contracts</p><p>While the government moves to a multi-cloud deal, as such contracts are called, contracts with just one vendor continue to cause legal battles. A $10 billion secret cloud-computing contract awarded earlier this year by the National Security Agency to Amazon Web Services is being disputed by Microsoft, which filed a protest with the&#xa0;Government Accountability Office&#xa0;in July. Microsoft declined to comment on the NSA contract.</p><p>Microsoft's protest marks a reversal of what happened with JEDI. Oracle protested the original JEDI contract when it appeared Amazon would win it, and Amazon sued the federal government after it was awarded instead to Microsoft in October 2019, triggering complaints and litigation over the deal's single-source award structure and conflicts of interest. Amazon separately said the award was tarnished by then-President Donald Trump's animosity toward Amazon founder Jeff Bezos, who also owns the Trump-bashing Washington Post.</p><p>For more: What Amazon really accused Trump of doing in JEDI deal</p><p>Last month, Oracle asked the U.S. Supreme Court not to dismiss its case over JEDI despite it no longer existing. “Cases do not become moot simply because a defendant issues a press release claiming to have ceased its misconduct,” the company said in a supplemental brief&#xa0;against the DoD.</p><p>The Supreme Court rejected Oracle's case on Monday, effectively ending the yearslong JEDI battle. Now, the sequel commences.</p>",
+  "published": "2021-10-09T09:34:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 167,
+          "end": 198
+        },
+        {
+          "start": 3840,
+          "end": 3843
+        },
+        {
+          "start": 3945,
+          "end": 3948
+        },
+        {
+          "start": 205,
+          "end": 208
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

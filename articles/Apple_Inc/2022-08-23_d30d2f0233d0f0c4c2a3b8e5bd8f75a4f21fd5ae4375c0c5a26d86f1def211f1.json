@@ -1,0 +1,66 @@
+{
+  "_id": "d30d2f0233d0f0c4c2a3b8e5bd8f75a4f21fd5ae4375c0c5a26d86f1def211f1",
+  "feed": "wall-street-journal",
+  "title": "Apple Staff Petition to Ease Rules On Return To Office",
+  "text": "<p>In the petition, the group asked the company to let employees decide their own work arrangements with their managers. The group said it didn't want workers to have to provide private information or to ask for higher-level approvals to secure their chosen arrangements.</p><p>The employees who want more flexible work arrangements had compelling reasons, the petition said, including disabilities, health concerns and the fact that some of them are happier and more productive in flexible work environments.</p><p>\"For the past 2+ years, Apple's formerly office-based employees have performed exceptional work, flexibly, both outside and inside traditional office environments,\" the petition said.</p><p>Apple's most recent quarterly results were better than expected despite high inflation and other economic pressures. Although its profits slid almost 11%, the company reported last month that its iPhone sales continued to grow, showing that Apple has remained resilient.</p><p>The petition had more than 270 signatures as of Monday afternoon. It couldn't be determined how many of the signers were Apple employees.</p><p>The signatures represented only a fraction of Apple's global workforce. The tech giant, which is based in Cupertino, Calif., has more than 165,000 employees, according to Apple's website.</p><p>The company and AppleTogether didn't return requests for comment Monday.</p><p>Like many companies, Apple pushed back its return-to-office date several times during the pandemic as the Covid-19 virus spawned more contagious variants. Apple was one of the first U.S. companies to send its workers home in 2020 as the virus began to spread.</p><p>As Covid-19 cases dropped in the U.S. after the winter surge, some companies urged employees to return to the office. But companies have struggled to lure workers back, even with the promise of hybrid schedules or elaborate free meals.</p><p>Tsedal Neeley, a professor at Harvard Business School, said that Apple, like other companies, has had to reinvent its office culture, which it invested so heavily in when it opened its multibillion-dollar headquarters in 2017. \"It was an investment centered on the abiding faith that physical presence and having people around is part of their secret sauce,\" she said, \"and Covid debunked that perspective.\"</p><p>Dr. Neeley, who has advised companies on remote and hybrid work, said that employees across the workforce often push back on policies that require them to go to the office for a certain number of days a week.</p><p>Instead, she said, it is often more effective when companies ask their employees to come in for certain activities that benefit from in-person collaboration.</p><p>Tech companies have taken varied approaches to their return-to-office policies. Some, including Alphabet Inc.'s Google and Microsoft Corp., have told employees in recent months to work from the office for at least part of the week.</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 525,
+          "end": 530
+        },
+        {
+          "start": 681,
+          "end": 686
+        },
+        {
+          "start": 921,
+          "end": 926
+        },
+        {
+          "start": 1070,
+          "end": 1075
+        },
+        {
+          "start": 1132,
+          "end": 1137
+        },
+        {
+          "start": 1256,
+          "end": 1261
+        },
+        {
+          "start": 1365,
+          "end": 1370
+        },
+        {
+          "start": 1498,
+          "end": 1503
+        },
+        {
+          "start": 1901,
+          "end": 1906
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

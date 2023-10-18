@@ -1,0 +1,23 @@
+{
+  "_id": "59a523970e6e3bc294c0c5393ec71517d32a7de7e9ca7b8d275b255bad14bf40",
+  "feed": "reuters",
+  "title": "BRIEF-Spirit Aerosystems Reports Q4 Loss Of $1.15 Per Share",
+  "text": "<p>* Q4 LOSS PER SHARE $1.15</p><p>* Q4 ADJUSTED LOSS PER SHARE $0.84 EXCLUDING ITEMS</p><p>* Q4 REVENUE ROSE 22 PERCENT TO $1.1 BILLION</p><p>* BACKLOG AT THE END OF THE FOURTH QUARTER OF 2021 WAS APPROXIMATELY $35 BILLION</p><p>* SPIRIT AEROSYSTEMS - QTRLY REVENUE UP 22% DUE TO HIGHER PRODUCTION DELIVERIES ON BOEING 737, INCREASED REVENUE FROM A220 &amp; BOMBARDIER PROGRAMS</p><p>* SPIRIT AEROSYSTEMS - QTRLY REVENUE INCREASES PARTIALLY OFFSET BY LOWER WIDEBODY PRODUCTION RATES FROM IMPACTS OF COVID-19, PAUSE IN BOEING 787 DELIVERIES</p><p>* Q4 EARNINGS PER SHARE VIEW $-0.65, REVENUE VIEW $1.07 BILLION -- REFINITIV IBES DATA Source text for Eikon: Further company coverage:</p>",
+  "published": "2022-02-02T12:46:12.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

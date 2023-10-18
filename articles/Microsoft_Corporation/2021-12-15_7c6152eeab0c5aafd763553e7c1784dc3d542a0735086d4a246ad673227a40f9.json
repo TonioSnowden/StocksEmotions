@@ -1,0 +1,44 @@
+{
+  "_id": "7c6152eeab0c5aafd763553e7c1784dc3d542a0735086d4a246ad673227a40f9",
+  "feed": "wall-street-journal",
+  "title": "Hackers Backed by China Seen Exploiting Security Flaw in Internet Software; Researchers call it one of the most dire cybersecurity threats to emerge in years and could enable devastating attacks",
+  "text": "<p>Cybersecurity researchers say it is one of the most dire cybersecurity threats to emerge in years and could enable devastating attacks, including ransomware, in both the immediate and distant future. Government-sponsored hackers are often among the best-resourced and most capable, analysts say.</p><p>\"The effects of this vulnerability will reverberate for months to come—maybe even years—as we try to close these doors and try to hunt down all the actors who made their way in,\" said John Hultquist, vice president of intelligence analysis at the U.S.-based cybersecurity firm Mandiant Inc.</p><p>Both Microsoft and Mandiant said they have observed hacking groups linked to China and Iran launching attacks that exploit the flaw in Log4j. In an update to its website posted late Wednesday, Microsoft said that it had also seen nation-backed hackers from North Korea and Turkey using the attack. Some attackers appear to be experimenting with the attack; others are trying to use it to break into online targets, Microsoft said.</p><p>One of the groups exploiting the security hole in Log4j is the same China-backed group that was linked to a widespread attack on Microsoft Exchange servers earlier this year, Microsoft said. In July, the Biden administration blamed China for the Microsoft Exchange attack and said it had high confidence hackers tied to the Ministry of State Security were behind it. Dozens of other countries also blamed Beijing, which has denied involvement in the hacking. A spokesman at the Chinese Embassy in Washington didn't immediately respond to a request for comment early Wednesday.</p><p>Security researchers have seen no signs to date, however, that China or another nation-state hacking group is attempting widespread exploitation of the Log4j issue on the same scale as the Microsoft Exchange attacks, which infected hundreds of thousands of servers across the globe.</p><p>(more)</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com and Dustin Volz at dustin.volz@wsj.com</p><p>Hackers Backed by China Seen Exploiting Security Flaw in Internet Software</p>",
+  "published": "2021-12-15T13:20:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 592,
+          "end": 601
+        },
+        {
+          "start": 1002,
+          "end": 1011
+        },
+        {
+          "start": 780,
+          "end": 789
+        },
+        {
+          "start": 1264,
+          "end": 1273
+        },
+        {
+          "start": 1193,
+          "end": 1202
+        },
+        {
+          "start": 1147,
+          "end": 1156
+        },
+        {
+          "start": 1784,
+          "end": 1793
+        }
+      ]
+    }
+  ]
+}

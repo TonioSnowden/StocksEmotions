@@ -1,0 +1,28 @@
+{
+  "_id": "2e4462cb3b4c95eb446e52a0c5d8288e76499d70e2d8abccdd3926dced8ff451",
+  "feed": "wall-street-journal",
+  "title": "Samsung Expects To Beat Estimates",
+  "text": "<p>The South Korean firm also estimates revenue of 65 trillion won, up 17% from the prior year.</p><p>Samsung's estimates topped analysts' forecast, gathered by S&amp;P Global Market Intelligence, of about 9.1 trillion won in operating profit and 61.4 trillion won in revenue.</p><p>The tech giant reports full earnings this month. Samsung is considered a bellwether for the tech world, as it both makes major electronics products itself and supplies competitors, including Apple Inc. and Huawei Technologies Co., with components.</p><p>Samsung and other semiconductor companies during the pandemic have benefited from a short-term boom for memory chips from data centers ramping up capacity and consumers buying more devices to shift to working from home. But now many buyers, including auto makers, have encountered delays trying to purchase semiconductors as economies start to reopen.</p><p>The Biden administration is expected to meet next week with chip makers and other manufacturers, with Samsung a likely participant.</p>",
+  "published": "2021-04-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 455,
+          "end": 465
+        },
+        {
+          "start": 455,
+          "end": 460
+        },
+        {
+          "start": 455,
+          "end": 464
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

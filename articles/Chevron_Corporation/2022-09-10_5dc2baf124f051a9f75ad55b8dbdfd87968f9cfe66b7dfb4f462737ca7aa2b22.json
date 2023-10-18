@@ -1,0 +1,34 @@
+{
+  "_id": "5dc2baf124f051a9f75ad55b8dbdfd87968f9cfe66b7dfb4f462737ca7aa2b22",
+  "feed": "wall-street-journal",
+  "title": "REVIEW  ---  Play:  News Quiz  ----  By Daniel Akst",
+  "text": "<p>\n  1. Queen Elizabeth II died at 96. Who was prime minister when she ascended the throne? </p><pre> </pre><p>\n  A. David Lloyd George </p><p>\n  B. Winston Churchill </p><p>\n  C. Anthony Eden </p><p>\n  D. Harold Macmillan </p><p>\n  --- </p><p>\n  2. Activist investor Vivek Ramaswamy is pushing Chevron -- to do what? </p><pre> </pre><p>\n  A. Go all in on renewables </p><p>\n  B. Pump more fossil fuels </p><p>\n  C. Sell itself to Warren Buffett </p><p>\n  D. Acquire Occidental Petroleum </p><p>\n  --- </p><p>\n  3. Chilean voters rejected a proposed new constitution, leading to a cabinet reshuffling by the president. Who's that? </p><pre> </pre><p>\n  A. Gabriel Boric </p><p>\n  B. Michelle Bachelet </p><p>\n  C. Carolina Toha </p><p>\n  D. Mauricio Morales </p><p>\n  --- </p><p>\n  4. Clothing makers may start selling more garments made from unblended cloth. Why? </p><pre> </pre><p>\n  A. Fashionistas are reading Leviticus </p><p>\n  B. Fire safety lawsuits </p><p>\n  C. A Chinese tariff quirk </p><p>\n  D. Ease of recycling </p><p>\n  --- </p><p>\n  5. Who's just begun to divide their consulting and auditing businesses? </p><pre> </pre><p>\n  A. Deloitte </p><p>\n  B. KPMG </p><p>\n  C. Ernst &amp; Young </p><p>\n  D. Pennypacker Poole </p><p>\n  --- </p><p>\n  6. A judge allowed Elon Musk to amend his countersuit against Twitter -- by adding what? </p><pre> </pre><p>\n  A. Mismanagement charges from a whistleblower </p><p>\n  B. Tax returns showing he can't afford to buy Twitter </p><p>\n  C. Compromising texts from Jack Dorsey </p><p>\n  D. Allegations that social media causes tooth decay </p><p>\n  --- </p><p>\n  7. Official portraits of Barack and Michelle Obama were unveiled -- where? </p><pre> </pre><p>\n  A. The White House </p><p>\n  B. The National Gallery </p><p>\n  C. The National Portrait Gallery </p><p>\n  D. The Art Institute of Chicago </p><p>\n  --- </p><p>\n  8. A 31,000-year-old skeleton missing a foot may represent the earliest known case of amputation. Where was it found? </p><pre> </pre><p>\n  A. Tonga </p><p>\n  B. New Guinea </p><p>\n  C. Madagascar </p><p>\n  D. Borneo </p><p>\n  --- </p><p>\n  9. Porsche is going public. Who will continue to own 75% of the shares? </p><pre> </pre><p>\n  A. Mercedes </p><p>\n  B. BMW </p><p>\n  C. Volkswagen </p><p>\n  D. Stellantis </p><p>\n  --- </p><p>\n  ANSWERS </p><pre> </pre><p>\n  1. B </p><p>\n  2. B </p><p>\n  3. A </p><p>\n  4. D </p><p>\n  5. C </p><p>\n  6. A </p><p>\n  7. A </p><p>\n  8. D </p><p>\n  9. C </p><p></p>",
+  "published": "2022-09-10T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 219,
+          "end": 226
+        },
+        {
+          "start": 215,
+          "end": 222
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7562243,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.20866239,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

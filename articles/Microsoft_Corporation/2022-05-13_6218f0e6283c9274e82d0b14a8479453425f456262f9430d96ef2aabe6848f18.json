@@ -1,0 +1,24 @@
+{
+  "_id": "6218f0e6283c9274e82d0b14a8479453425f456262f9430d96ef2aabe6848f18",
+  "feed": "wall-street-journal",
+  "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations; Cirrus Nexus's TrueCarbon uses AI technology to track the environmental impact of a company's IT",
+  "text": "<p>The AI technology is constantly refining recommendations based on client-use patterns and the energy-consumption trends of data centers, said Chris Noble, the company's chief executive. It is also capable of helping customers move IT operations and processes to different data centers on the fly to minimize the carbon footprint of activities, he noted.</p><p>Regulators and shareholders are paying closer attention to sustainability initiatives, targets set by companies around reducing carbon emissions and installing other energy-efficiency operations.</p><p>The Securities and Exchange Commission in March offered a proposal that would require publicly traded companies to report greenhouse-gas emissions from their own operations as well as from the energy they consume, and to obtain independent certification of their estimates.</p><p>And as the relationship between digitization and carbon-based emissions becomes more evident, chief information officers have emerged as key agents in advancing companies' sustainability programs.</p><p>Some are doing this by leading efforts to unload power-hungry computer-processing applications to more energy-efficient cloud operations.</p><p>\"We have achieved higher energy efficiency and are partnering with [cloud] providers that have made commitments to 100% renewable energy use or carbon neutrality,\" said Citizens Financial Group Inc. Chief Information Officer Michael Ruttledge.</p><p>Data centers accounted for around 1% of global electricity use in 2020, excluding cryptocurrency mining, according to the International Energy Agency.</p><p>Mr. Noble declined to comment on customer numbers for the carbon-emissions management tool.</p><p>TrueCarbon is part of a growing number of carbon-accounting tools aiming to help companies meet sustainability requirements, said Ed Anderson, research vice president and distinguished analyst at Gartner Inc.</p><p>The global carbon-accounting software sector attracted $356 million of venture-capital funding last year, more than five times the $63 million total for 2020, according to research firm PitchBook Data Inc.</p><p>Major cloud providers also offer carbon-emissions-tracking tools. In March, Amazon.com Inc. introduced a carbon-tracking tool for AWS users that estimates a customer's emissions based on where they are and the share of green electricity powering the data centers they are using. Alphabet Inc.'s Google Cloud and Microsoft Corp.'s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020.</p><p>Write to Suman Bhattacharyya at suman.bhattacharyya@wsj.com</p><p>AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations</p>",
+  "published": "2022-05-13T16:22:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2373,
+          "end": 2388
+        },
+        {
+          "start": 2373,
+          "end": 2382
+        }
+      ]
+    }
+  ]
+}

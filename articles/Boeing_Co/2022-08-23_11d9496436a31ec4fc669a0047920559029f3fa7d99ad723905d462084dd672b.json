@@ -1,0 +1,34 @@
+{
+  "_id": "11d9496436a31ec4fc669a0047920559029f3fa7d99ad723905d462084dd672b",
+  "feed": "ftcomall",
+  "title": "Switzerland to hold referendum on purchase of US fighter jets",
+  "text": "<p>Swiss activists have triggered a national referendum to stop the country's purchase of 36 F-35A fighter jets from the US, a challenge that complicates plans for the modernisation of Switzerland's military and risks a spat with Washington.</p> <p><a href=\"https://www.ft.com/stream/ca051071-840a-3dd7-884a-18afb0e075b4\">Switzerland</a> became the 15th country to sign up to buying the jets, manufactured by Lockheed Martin, in June last year, but the decision has been mired in controversy, not least because military neutrality is the central tenet of Swiss foreign policy.</p> <p>Bern chose the F-35s, worth $6.1bn, over stiff competition from Boeing's Super Hornet, Dassault's Rafale and Airbus's Eurofighter Typhoon. The decision came after a 2020 national referendum backed the modernisation of the Swiss air force, but only with a wafer-thin majority of 50.1 per cent. The vote did not specify the aircraft to be acquired, leaving the decision up to the defence ministry.</p> <p>The Swiss federal chancellery said on Monday evening that more than 100,000 signatures had been verified in support of a second referendum, specifically on whether to opt for the F-35s. </p> <p>Under Switzerland's highly devolved constitutional system, the government is obliged to set a date for such a vote and abide by its outcome.</p> <p>Bern only has until March to finalise its contract with Lockheed, putting the Swiss government in a delicate position.</p> <p>So far Bern has indicated it will press ahead with the purchase.</p> <p>“This is a misunderstanding of popular law, if not an abuse of it,” said Thierry Burkart, head of Switzerland's FDP liberal party, which is supportive of the Lockheed contract.</p> <p>It now falls to the ruling Federal Council and Switzerland's parliament to finalise a date for a referendum. In order for the vote to be held before the March contract deadline, its terms will need to be agreed in the upcoming September session of parliament. However, supporters of the deal, who form a parliamentary majority, are likely to frustrate efforts for a quick popular vote. </p> <p>Critics of the deal, a coalition of Switzerland's Social Democratic party, Green party, and the Group for a Switzerland without an Army (GSoA), allege that the F-35's running costs far exceed those of rival aircraft.</p> <p>They have criticised the F-35 as a “luxury jet” that exceeds Switzerland's needs, and accuse the government of having been seduced by the US defence industry.</p> <p>Pollsters expect the outcome of any referendum to be too tight to call. So far, despite the war in Ukraine, Bern has struggled to articulate to voters a clear case for the F-35.</p> <p>The Federal Council is itself only halfheartedly behind the deal. A technical evaluation by Switzerland's defence ministry gave strong support to the F-35 on a cost and performance basis, but some councillors believed a broader range of diplomatic and financial factors needed to be taken into account in the June 2021 decision. </p> <p>Documents leaked this July to Switzerland's national broadcaster SRF revealed that the French government had lobbied intensively to try to win the contract for Dassault's Rafale jet, promising Bern billions in tax rebates and support in future negotiations with Brussels if they ditched the F-35.</p><p>Source: Sam Jones in Zurich 2022 'Switzerland to hold referendum on purchase of US fighter jets' FT.com 23 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-23T10:27:25.173Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 554,
+          "end": 560
+        },
+        {
+          "start": 552,
+          "end": 558
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0079799,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.007979751,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

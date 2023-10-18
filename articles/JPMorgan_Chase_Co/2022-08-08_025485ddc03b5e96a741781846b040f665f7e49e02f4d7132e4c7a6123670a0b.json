@@ -1,0 +1,42 @@
+{
+  "_id": "025485ddc03b5e96a741781846b040f665f7e49e02f4d7132e4c7a6123670a0b",
+  "feed": "wall-street-journal",
+  "title": "Wall Street Shuffles Bets on Consumer Loans as Economy Slows; Losses remain low, but investors are scrutinizing households' finances and picking safer bonds",
+  "text": "<p>Those who invest across many types of Americans' $16 trillion of household debt—such as mortgages, car loans and credit-card lines—are confronting a question that demands imagination as well as analysis: Which payments will families make first if hard times force hard choices over which bills to cover?</p><p>\"Not all kinds of consumer debt are created equally,\" said Matt Little, a partner in investment firm Castlelake's specialty-finance group. \"We now tend to think the glass is more probabilistically half empty than half full, and we want to be investing with that in our minds.\"</p><p>Consumers have made for reliable borrowers over the past two years, but recessions can quickly upend typical payment patterns. After the 2008 financial crisis, some homeowners chose to stop paying their mortgages as home values fell below how much they had borrowed in a wave of previously unthinkable \"strategic defaults.\"</p><p>On Friday, Labor Department data showed strong July job gains, casting doubt that a recession is imminent. This week, however, traders will peruse July's consumer-price index, set for release Wednesday, for clues about how aggressively the Fed is likely to try to slow the economy at its remaining meetings this year.</p><p>During the pandemic, a flood of government support and a faster-than-expected economic recovery turned families into more-dependable borrowers than at any time in recent history. Last November, the 12-year-old S&amp;P/Experian consumer-credit default index reached its all-time low, and it has ticked only slightly higher since then.</p><p>Even now, after months of elevated inflation has racked family budgets, wage gains and solid hiring figures are keeping missed payments below historical norms. But survey data show everyday people have a grim economic outlook, which many investors take as a warning of strained personal finances ahead.</p><p>\"Consumer-confidence numbers have declined pretty precipitously,\" said Keerthi Raghavan of Waterfall Asset Management, which invests in consumer debt. \"I would argue that what we're witnessing right now is probably the tail end of a pretty strong consumer that has been buoyed by stimulus and a strong job market.\"</p><p>Yield premiums on bonds backed by pools of consumer debt have edged consistently higher this year, reflecting perceptions of rising risk. Junior bonds made of bundles of subprime car loans, for example, now offer investors 4 percentage points' extra yield over comparable Treasury notes, up from 2.41 percentage points at the start of the year, according to JPMorgan data. Pricing for other kinds of consumer-debt investments shows a similar trend.</p><p>The darkening outlook has led Pacific Investment Management Co. to seek relative safety in higher-rated consumer-backed bonds, according to Mohit Mittal, a portfolio manager at the Newport Beach, Calif.-based bond firm.</p><p>Recently, Pimco has considered triple-A-rated bonds tied to student loans, credit cards and mortgages some of the most attractive consumer-backed investments, he said. Such top-rated bonds offer the slimmest returns but are the last to take losses if defaults begin to bloody a given pool of loans.</p><p>Wall Street also is chewing over which bills families might let lapse first if—as would be likely in a recession—higher unemployment stings some of the most-vulnerable debtors.</p><p>Households often give priority to keeping up with auto loans, which back about $221 billion of bonds, and credit cards—about $54 billion—said Nicholas Tripodes, a portfolio manager at Federated Hermes. Losing a car to repossession or maxing out a card can cripple a household overnight, so families keep up payments whenever possible.</p><p>Skipping a payment on a lump-sum personal loan, on the other hand, might dent the borrower's credit score but doesn't have material consequences right away. That could make repayment a lower priority for an unemployed borrower who also has, for example, a car to pay off.</p><p>Those distinctions are growing more apparent in the premiums investors are demanding when trading different types of consumer-backed bonds, Mr. Raghavan of Waterfall said.</p><p>In July, for example, triple-B-rated bonds backed by personal loans offered investors yields about 2 percentage points higher than did triple-B-rated bonds backed by subprime auto loans, JPMorgan data show—a much bigger price difference than earlier this year.</p><p>Despite rising risks, most of the sector's investors aren't shunning consumer-backed bonds entirely.</p><p>SHARE YOUR THOUGHTS</p><p>How would a recession affect your family's finances? Join the conversation below.</p><p>At a structured-finance conference in Las Vegas last month, gaggles of investors and lenders questioned how well individual consumers would weather a recession. But hardly any dwelt on worries that losses would wreck bondholders who have invested in bundled loans.</p><p>Proponents argue that consumer bonds' strong underwriting standards and investor-friendly financial structures will head off the kinds of synchronized defaults that blew up some mortgage bonds during the 2008 financial crisis.</p><p>Waterfall has turned pickier about consumer-backed bonds, favoring pools of debt, for instance, that exclude the weakest consumers. But if anything, the firm has become a more active buyer overall, Mr. Raghavan said.</p><p>Yields have swelled; not only have risk premiums over Treasurys grown, but Treasurys themselves are also yielding far more than they did last year. As a result, a typical double-B-rated consumer-backed bond may now offer a 6% yield, about three times as much as a year ago.</p><p>\"The market has really opened up for us,\" Mr. Raghavan said.</p><p>Still, investors mustn't divorce the higher returns from the risk a recession could quickly sap borrowers' finances, Pimco's Mr. Mittal said.</p><p>\"If inflation persists and earnings growth slows down, then consumers will have to make some choices,\" he said.</p><p>Write to Matt Grossman at matt.grossman@wsj.com</p><p>Wall Street Shuffles Bets on Consumer Loans as Economy Slows</p>",
+  "published": "2022-08-08T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 2529,
+          "end": 2537
+        },
+        {
+          "start": 4282,
+          "end": 4290
+        },
+        {
+          "start": 4257,
+          "end": 4265
+        },
+        {
+          "start": 2515,
+          "end": 2523
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

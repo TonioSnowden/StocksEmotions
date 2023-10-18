@@ -1,0 +1,43 @@
+{
+  "_id": "6eb8c04619b4b4522b6b4a3c7a7384e54e485a29b06fd00a243092d318622e65",
+  "feed": "wall-street-journal",
+  "title": "Brookfield  Looks to  Bigger Role  In Deals  ----  By Luis Garcia",
+  "text": "<p>   Brookfield Asset Management Inc., which has raised $33 billion in fresh investment capital since the end of June, expects to land more opportunities such as its recent construction-financing agreement with computer chip giant Intel Corp. as companies seek to repatriate manufacturing operations. </p><p>   Supply-chain disruptions and rising geopolitical instability are driving U.S. manufacturers to shift production home, and Brookfield aims to benefit from the trend. The Toronto firm has amassed roughly $21 billion in its latest main infrastructure fund and $17 billion in a real-estate investment pool as investors increasingly have turned to real assets to protect their portfolios against inflation. </p><p>   Brookfield executives reviewed some of the details of the Intel deal Thursday during an earnings conference call with analysts. In August, Brookfield agreed to fund 49% of the expected $30 billion cost of expanding Intel's semiconductor operations in Chandler, Ariz., with the company covering the rest. </p><p>   \"This is just one chip manufacturing facility and the trends towards deglobalization may result in similar opportunities going forward,\" Brookfield Chief Executive Bruce Flatt said on the call. </p><p>   Brookfield's global presence, available capital and operating expertise also make the firm an attractive partner for companies seeking to expand as market volatility makes deal financing more difficult, Mr. Flatt said. As an example, he cited Brookfield's recent acquisition, along with infrastructure-focused DigitalBridge Group Inc., of a 51% stake in Deutsche Telekom AG's telecommunications tower business for 6.6 billion euros, or $6.61 billion. </p><p>   \"Our recently announced partnerships are hopefully only the beginning of what we want to accomplish,\" Mr. Flatt said, referring to investments such as the Deutsche Telekom and Intel deals. </p><p>   Brookfield ended the third quarter with about $125 billion in deployable capital, including $88 billion of uncalled fund commitments, or \"dry powder,\" to invest across all its strategies. In total, the firm manages $762 billion across real estate, infrastructure, clean-energy, private-equity and credit strategies. </p><p>   The firm said it had raised roughly $21 billion for its fifth flagship infrastructure fund and $8.4 billion for its sixth main private-equity fund. Brookfield also said it has raised $2.8 billion so far for a new infrastructure-debt fund and $1 billion for a supercore-infrastructure vehicle focused on low-risk assets, among other ongoing fundraising efforts. </p><p>   Brookfield's stock jumped 8.6% Thursday in Toronto. </p><p></p>",
+  "published": "2022-11-11T07:05:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1823,
+          "end": 1828
+        },
+        {
+          "start": 756,
+          "end": 761
+        },
+        {
+          "start": 226,
+          "end": 231
+        },
+        {
+          "start": 913,
+          "end": 918
+        }
+      ]
+    },
+    {
+      "id": "First_Harvest_Corp%2E",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 226,
+          "end": 237
+        }
+      ]
+    }
+  ]
+}

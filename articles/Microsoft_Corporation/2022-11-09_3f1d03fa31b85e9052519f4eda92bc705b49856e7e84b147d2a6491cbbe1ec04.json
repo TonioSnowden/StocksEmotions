@@ -1,0 +1,88 @@
+{
+  "_id": "3f1d03fa31b85e9052519f4eda92bc705b49856e7e84b147d2a6491cbbe1ec04",
+  "feed": "wall-street-journal",
+  "title": "Business News:  A New Antitrust Complaint  Targets Microsoft in Europe  ----  By Kim Mackrael",
+  "text": "<p>   BRUSSELS -- Microsoft Corp. faces an antitrust complaint from a European industry group over its cloud services, adding to recent allegations of anticompetitive behavior against the U.S. tech company. </p><p>   Cloud Infrastructure Service Providers in Europe, or Cispe, a trade group, said it filed the complaint with the bloc's competition regulator, the European Commission, on Tuesday. The complaint alleges that Microsoft uses its dominance in productivity software to direct customers in Europe to its Azure cloud service and makes it difficult for them to switch to other cloud service providers, the trade group said. </p><p>   The Wall Street Journal reported earlier this year that a member of the trade group, French cloud provider OVHcloud, had filed a complaint against Microsoft over competition concerns related to its cloud services. </p><p>   Cispe said it supports the companies' concerns and wants to participate in any discussions about whether and how Microsoft might be forced to change its practices. </p><p>   Microsoft said it introduced licensing changes this fall that give customers and cloud providers more options for running and offering its software in the cloud. \"We remain committed to addressing valid licensing concerns and support a competitive environment where all providers can thrive,\" a spokesman said on Tuesday. </p><p>   A spokeswoman for the commission declined to comment on the complaint. </p><p>   Two other complaints filed in recent years against Microsoft cover related concerns about the company's practice of linking products together. German cloud-storage company Nextcloud complained to the European Union last year about Microsoft's practice of bundling its OneDrive storage product with the Windows operating system. </p><p>   Another complaint, filed in 2020 by business-messaging app Slack, accused Microsoft of trying to quash competition by tying its Teams platform for business communication with its Office productivity software. </p><p>   Microsoft has sought in recent months to disarm its cloud-services critics in Europe by meeting with regulators and competitors and laying out a set of principles Microsoft said its cloud business would follow. It also announced changes to its licensing practices, which took effect in October. </p><p>   Cispe said the changes don't do enough to address cloud-service providers' concerns. \"Microsoft's ongoing position and behaviors are irreparably damaging the European cloud ecosystem and depriving European customers of choice in their cloud deployments,\" the group said. </p><p>   It said its concerns could be addressed by measuring Microsoft's practices against a set of principles meant to ensure the company isn't unfairly giving preference to its own products or locking in customers. It said the same principles could apply to other dominant software providers. </p><p>   The EU recently finalized legislation that is expected to designate Microsoft and several other large U.S.-based companies as \"gatekeepers\" and impose new rules governing competition. </p><p>   The industry group's complaint against Microsoft comes as the company is separately seeking approval for a $75 billion acquisition of game developer Activision Blizzard Inc. The EU's competition watchdog is among several regulators worldwide that are looking at the transaction to determine whether it could harm competition in the videogame industry. </p><p>   The commission said on Tuesday that it would conduct an in-depth probe of the merger. </p><p></p>",
+  "published": "2022-11-09T07:11:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 49,
+          "end": 58
+        },
+        {
+          "start": 994,
+          "end": 1003
+        },
+        {
+          "start": 2087,
+          "end": 2096
+        },
+        {
+          "start": 1789,
+          "end": 1798
+        },
+        {
+          "start": 407,
+          "end": 416
+        },
+        {
+          "start": 943,
+          "end": 952
+        },
+        {
+          "start": 2845,
+          "end": 2854
+        },
+        {
+          "start": 12,
+          "end": 27
+        },
+        {
+          "start": 763,
+          "end": 772
+        },
+        {
+          "start": 1618,
+          "end": 1629
+        },
+        {
+          "start": 12,
+          "end": 21
+        },
+        {
+          "start": 1618,
+          "end": 1627
+        },
+        {
+          "start": 1924,
+          "end": 1933
+        },
+        {
+          "start": 3000,
+          "end": 3009
+        },
+        {
+          "start": 2305,
+          "end": 2314
+        },
+        {
+          "start": 1438,
+          "end": 1447
+        },
+        {
+          "start": 2543,
+          "end": 2554
+        },
+        {
+          "start": 2543,
+          "end": 2552
+        }
+      ]
+    }
+  ]
+}

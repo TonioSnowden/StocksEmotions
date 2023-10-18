@@ -1,0 +1,40 @@
+{
+  "_id": "aba7f7fa82849daca3b720481f57d360e279a7b0acf31062822e38e95ee99170",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: J&J Says Shot Protects Against Delta Variant",
+  "text": "<p>The positive performance adds to a growing set of evidence indicating currently authorized Covid-19 vaccines can safeguard against the Delta variant, which appears to be more contagious than earlier strains.</p><p>How well the J&amp;J shot fares against the Delta variant has been closely watched by health authorities around the world.</p><p>Many countries have been counting on supplies, especially because the vaccine is simpler to ship, handle and store than the shots from Pfizer Inc. and its partner BioNTech SE and from Moderna Inc.</p><p>The new findings \"reinforce the ability of the Johnson &amp; Johnson Covid-19 vaccine to help protect the health of people globally,\" said J&amp;J Chief Scientific Officer Paul Stoffels.</p><p>J&amp;J also said its vaccine, in a separate study, generated immune responses against Covid-19 lasting for at least eight months, the most time that researchers were able to study the shot's durability.</p><p>J&amp;J, of New Brunswick, N.J., released the findings in a news release, not a detailed and peer-reviewed study.</p><p>The Delta variant first emerged in India late last year. Since then, it has spread rapidly, becoming the most common strain of the Covid-19 virus in several countries, including the U.S.</p><p>Vaccination is the best defense against the Delta variant, according to public-health authorities.</p>",
+  "published": "2021-07-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 11,
+          "end": 14
+        },
+        {
+          "start": 659,
+          "end": 662
+        },
+        {
+          "start": 903,
+          "end": 906
+        },
+        {
+          "start": 571,
+          "end": 588
+        },
+        {
+          "start": 221,
+          "end": 224
+        },
+        {
+          "start": 703,
+          "end": 706
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

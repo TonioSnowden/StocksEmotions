@@ -1,0 +1,20 @@
+{
+  "_id": "0432c6c4e01bf280ba2b2621b5abd21af0f4ff6c0a8247081007e9a3a181d45e",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: U.S. Pulls Out of Emergent Contract",
+  "text": "<p>A U.S. Department of Health and Human Services division initially awarded Emergent a contract in 2012 to complete construction of a manufacturing plant in Baltimore that would make drugs and vaccines to be used in a pandemic or other public-health emergency.</p><p>The contract was issued under a program called the Centers for Innovation in Advanced Development and Manufacturing, or CIADM. The contract's initial term was eight years, with options to extend the pact to 25 years.</p><p>When the coronavirus pandemic hit in 2020, the U.S. government reserved capacity at Emergent for the manufacture of Covid-19 vaccines and treatments.</p><p>But Emergent encountered contamination problems at the Baltimore plant that ruined batches of the Covid-19 vaccine developed by Johnson &amp; Johnson earlier this year, constraining the initial supply of doses.</p><p>Emergent shares dropped 37%, or $19.50, to $33.11 in trading Friday on the New York Stock Exchange.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-11-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 754,
+          "end": 771
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

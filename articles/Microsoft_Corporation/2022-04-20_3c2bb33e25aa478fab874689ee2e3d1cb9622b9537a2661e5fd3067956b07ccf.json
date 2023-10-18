@@ -1,0 +1,24 @@
+{
+  "_id": "3c2bb33e25aa478fab874689ee2e3d1cb9622b9537a2661e5fd3067956b07ccf",
+  "feed": "wall-street-journal",
+  "title": "U.S. Taps Industrial and Cyber Firms for Help Amid Warnings of Russian Hacks; Program aims to share information about cyberattacks on critical infrastructure",
+  "text": "<p>The voluntary DHS initiative, organized by the Cybersecurity and Infrastructure Security Agency, aims to share information about threats between the public and private sectors. That could prove useful for industrial firms that analyze their own systems but lack visibility into other companies that may use similar equipment, said Kurt John, chief cybersecurity officer for industrial conglomerate Siemens USA.</p><p>\"Adding an additional layer of context through this collaborative will probably increase the value of the data that we're already processing internally,\" said Mr. John, whose firm provides equipment used in the energy sector, mail delivery and airport baggage handling, among other industries.</p><p>Mr. John hopes to exchange information about hacking tactics, such as indicators of compromise and specific internet-protocol addresses that can identify hackers' devices.</p><p>\"On a more strategic level, you might get a sense for exactly what the objectives of these attackers might be,\" he added.</p><p>Siemens is one of 10 firms in Wednesday's expansion of the program, in addition to industrial parts supplier Schneider Electric SE and conglomerate Honeywell International Inc. The JCDC's inaugural private-sector members last year included tech companies such as Amazon.com Inc., Microsoft Corp. and Alphabet Inc.'s Google.</p><p>It is unclear how industrial firms will share information about threats with U.S. officials and one another through the JCDC partnership.</p><p>\"All of the mechanisms have yet to be worked out,\" said Grant Geyer, chief product officer for cyber firm Claroty Ltd. Siemens, Claroty and other members plan to anonymize customer information before sharing it with the government clearinghouse for analysis.</p><p>The Biden administration increasingly has engaged industrial businesses through both voluntary and mandatory cyber initiatives after ransomware attacks last year disrupted meat processor JBS SA and Colonial Pipeline Co., which operates the East Coast's largest conduit for fuel. Officials including CISA Director Jen Easterly also have warned such businesses that they could be targets of Russia-linked hacking groups as the war in Ukraine has escalated.</p><p>On Wednesday, officials from the U.S., U.K., Canada, Australia and New Zealand jointly renewed those warnings, saying that critical-infrastructure operators should be on heightened alert for destructive malware, ransomware, cyber espionage and distributed-denial-of-service incidents that can knock computer systems offline.</p><p>\"This activity may occur as a response to the unprecedented economic costs imposed on Russia as well as materiel support provided by the United States and U.S. allies and partners,\" the alert said.</p><p>The war in Ukraine has been accompanied by steady but relatively low-level cyber conflict by state- and nonstate hackers. So far, however, the U.S. government's warnings of potentially dire cyberattacks against key U.S. industries haven't materialized.</p><p>The drumbeat of general alerts, which U.S. officials have branded as a \"Shields Up\" initiative, has led to stress and fatigue among some security teams, executives say.</p><p>\"Shields Up cannot be a permanent state of being,\" Claroty's Mr. Geyer said. \"Putting defenders on a heightened state of alert can be draining at times.\"</p><p>Kim S. Nash contributed to this article.</p><p>Write to David Uberti at david.uberti@wsj.com</p>",
+  "published": "2022-04-20T21:51:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1279,
+          "end": 1294
+        },
+        {
+          "start": 1279,
+          "end": 1288
+        }
+      ]
+    }
+  ]
+}

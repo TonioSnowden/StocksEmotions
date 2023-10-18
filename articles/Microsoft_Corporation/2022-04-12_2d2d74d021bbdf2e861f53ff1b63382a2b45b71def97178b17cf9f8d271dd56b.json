@@ -1,0 +1,32 @@
+{
+  "_id": "2d2d74d021bbdf2e861f53ff1b63382a2b45b71def97178b17cf9f8d271dd56b",
+  "feed": "wall-street-journal",
+  "title": "Ukraine Thwarts Cyberattack on Electric Grid, Officials Say; The attack, which was set for last Friday, used software similar to the 'industroyer' code used in a 2016 hack of Kyiv's grid, experts noted",
+  "text": "<p>\"I stress the point that civil infrastructure was targeted to disrupt the electricity supply,\" Farid Safarov, deputy minister of energy, said in a call with reporters Tuesday, through an interpreter. He declined to name the energy transmitter or the region that would have been affected, but said it is operated by a private company.</p><p>Had the hack been successful, millions of individuals, as well as businesses in the region, might have lost power, he said.</p><p>The foiled takedown was more sophisticated than the barrage of digital assaults that have pelted the country's critical infrastructure companies since the start of this year, said Victor Zhora, deputy chief of Ukraine's State Service of Special Communication and Information Protection.</p><p>The attempt incorporated several pieces of malware designed to inflict damage on both information and operational technology systems, then cover its tracks by self-destructing, said Jean-Ian Boutin, head of threat research at ESET, a Slovak cybersecurity firm that worked with Ukraine's Computer Emergency Response Team to analyze software samples taken from infected systems.</p><p>The multidimensional approach suggests the hackers had access to the transmitter's systems long before the attack was set to launch, he added. Mr. Zhora said the hackers accessed the energy company's system in February, and had enough time to prepare a thorough attack.</p><p>Customized malware targeted not only Microsoft Corp. Windows-based systems, but also those running on common Unix platforms Linux or Solaris, Mr. Boutin said.</p><p>The attempted hack is the most sophisticated researchers have seen since Russia invaded Ukraine on Feb. 24, Mr. Boutin said. Before and after the invasion, cyberattacks have involved wiper malware and relatively crude operations, such as distributed denial of service strikes, which overload servers and take them offline. To date, Russia has largely focused on conventional military assaults instead of the major cyber intrusions feared by analysts.</p><p>That a strike this intricate came so long after Russian troops invaded Ukraine reflects more the weeks and months it took to execute rather than the hackers' capabilities, Mr. Safarov said.</p><p>\"The complexity of such an operation demanded a lot of time to make sure that they penetrated into the system on the scope that our colleagues from CERT identified,\" he said. \"This is not an easy thing to do, it took time to find where the vulnerability of the weakest link is to penetrate the system.\"</p><p>Ukraine's CERT said it also worked with Microsoft to fend off the attack. A Microsoft spokeswoman declined to comment and said the company would be publishing details on the cyberwar in Ukraine in coming weeks.</p><p>Some of the malware resembled software used in a December 2016 attack on Ukraine's electric grid, ESET and the Ukrainian government said. That hack, which took down the electricity supply for an hour in parts of Kyiv, was attributed to a hacking group known as Sandworm and used destructive malware known as \"industroyer.\"</p><p>\"It is fair to say that they were probably trying to use it in a similar way this time around,\" Mr. Boutin said. Other components of the malware package included a worm built to infect other systems through compromised credentials, he said.</p><p>The U.S. has linked Sandworm to the Russian military, a notion Moscow has consistently denied. Last week, the U.S. Justice Department said it had taken down a botnet controlled by the group before attacks could be launched from it.</p><p>The Electricity Information Sharing and Analysis Center, a nonprofit group that facilitates sharing of details on cyber threats among electricity companies in the U.S., said it monitors cybersecurity threats, including those just released by Ukraine's CERT. The center has been coordinating with government offices in the U.S. and Canada and with other critical infrastructure sectors since the start of the war in Ukraine, Manny Cancel, the group's chief executive, said through a spokeswoman.</p><p>The U.S. Cybersecurity and Infrastructure Security Agency is exchanging information on the malware with the Ukrainian CERT, to protect American infrastructure, Jen Easterly, the agency's director, said in a tweet.</p><p>While no Ukrainian residents lost power as a result of the breach, hackers were able to penetrate the energy facility's industrial systems, Mr. Zhora said. Critical infrastructure companies, such as electricity transmitters, typically use computer systems designed for essential operations. One industrial component experienced disruptions, which Ukrainian cyber experts fixed, he said.</p><p>Authorities circulated details on the attack to other energy operators in the country and are still determining if any of them might have been targeted with the same malware, Mr. Zhora said.</p><p>Write to James Rundle at james.rundle@wsj.com and Catherine Stupp at Catherine.Stupp@wsj.com</p><p>Ukraine Thwarts Cyberattack on Electric Grid, Officials Say</p>",
+  "published": "2022-04-12T20:16:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2535,
+          "end": 2544
+        },
+        {
+          "start": 1429,
+          "end": 1438
+        },
+        {
+          "start": 2571,
+          "end": 2580
+        },
+        {
+          "start": 1429,
+          "end": 1444
+        }
+      ]
+    }
+  ]
+}

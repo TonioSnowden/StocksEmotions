@@ -1,0 +1,20 @@
+{
+  "_id": "83267455448ffa7619dee70adc52acb63f6abcd8a70a1c550ee636d1607e2d2e",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Tesla is readying a major upgrade of its driver-assistance software, but the head of the NTSB says the move may be premature.</p><p>---</p><p>Boeing is investigating the discovery of two empty liquor bottles that were found on one of its new Air Force One planes under development in San Antonio.</p><p>---</p><p>Investment firms Tiedemann and Alvarium are close to a deal to merge and go public through a blank-check company.</p><p>---</p><p>European cloud-services provider OVHcloud plans to launch a possible IPO as soon as Monday that could value the business at more than $4.7 billion.</p><p>---</p><p>TikTok maker ByteDance said it would restrict access to Douyin, the Chinese version of the app, to 40 minutes a day for users under 14.</p><p>---</p><p>Vivendi's spinoff of Universal Music Group, expected Tuesday, will test the market's appetite for music as an asset class.</p>",
+  "published": "2021-09-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 130,
+          "end": 136
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "f420fecac3f5fe8fa582e674faeb72dfb0f17c61928f840ac80fd7399ff7d6ee",
+  "feed": "wall-street-journal",
+  "title": "Walgreens Names Hsiao Wang as Next CIO; CIO of Michaels succeeds Francesco Tinto, who accelerated pharmacy chain's move to cloud",
+  "text": "<p>Before Michaels, Mr. Wang spent 16 years in various technology roles at Walmart Inc., including as the chief technology officer of Sam's Club.</p><p>Walgreens also said it was appointing Inderpal Bhandari, International Business Machines Corp.'s global chief data officer, to its board, and that the board's finance committee would be immediately reconstituted as the finance and technology committee.</p><p>\"Together with our board's new finance and technology committee, they will be instrumental to achieving our goals and truly differentiating Walgreens Boots Alliance in how we deliver the healthcare of the future,\" Ms. Brewer said in a statement about the executive moves.</p><p>In June, Walgreens reported that third quarter sales fell and earnings plunged as revenue from Covid-19 vaccinations dried up and the pharmacy chain paid out a $683 million opioid settlement. Executives said they were working to bolster profitability by further expanding the company's healthcare business, an area where they face competition from both traditional rivals and newer tech entrants including Amazon.com Inc. and Oracle Corp.</p><p>Mr. Tinto will be leaving Walgreens to pursue other opportunities, a company spokesperson said.</p><p>During his three years as CIO, Mr. Tinto played an important role in accelerating the company's move to the cloud and deploying an SAP SE system across all Walgreens stores to glean better real-time insights on stock levels and customer demand.</p><p>Mr. Tinto became Walgreens CIO in September 2019, just months before the Covid-19 pandemic began. His work also included implementing \"buy online, pick-up in store\" and executing a multichannel digital experience for Covid testing and vaccinations.</p><p>The current market for CIO talent is highly competitive, in part because demand is outstripping supply, said Paul Groce, partner at executive search firm, Leathwaite. An aging CIO population and the so-called great resignation have resulted in established and experienced CIOs leaving the workforce, he said.</p><p>As incoming CIO, Mr. Wang will likely face challenges getting acquainted with the company's global complexities, multiple lines of business and the regulatory components on the pharmacy side, Mr. Groce said.</p><p>Additionally, Walgreens would be looking for someone who can leverage data analytics and drive efficiency in supply chain and other areas, as well as the traditional CIO skill set of overseeing operations and infrastructure, according to Mr. Groce.</p><p>\"I am excited to work with an outstanding team to lead the continued transformation of technology and digital innovation at WBA, as well as unlock and create consumer-centric healthcare solutions,\" Mr. Wang said in a statement.</p><p>Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com</p><p>Walgreens Names Hsiao Wang as Next CIO</p>",
+  "published": "2022-09-09T18:10:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 72,
+          "end": 84
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6047859,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.654786,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

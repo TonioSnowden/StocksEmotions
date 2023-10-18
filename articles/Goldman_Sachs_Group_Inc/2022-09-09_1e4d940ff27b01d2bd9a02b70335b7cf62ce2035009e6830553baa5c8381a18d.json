@@ -1,0 +1,38 @@
+{
+  "_id": "1e4d940ff27b01d2bd9a02b70335b7cf62ce2035009e6830553baa5c8381a18d",
+  "feed": "ftcomall",
+  "title": "AMTD subsidiary hit with $264mn lawsuit over alleged ‘breach of contract'",
+  "text": "<p>A subsidiary of the AMTD Group, whose fintech company attracted scrutiny after its shares soared 21,000 per cent following its listing in July, is being sued by a Chinese bank for $264mn in Hong Kong over alleged breach of contract. </p> <p>AMTD Digital's market value briefly overtook Goldman Sachs when its shares rocketed. The surge put the spotlight on <a href=\"https://www.ft.com/content/2d93bc48-cb1f-4f0d-8e3f-8b6632a9d3de\">Calvin Choi</a>, the chair of AMTD Group who is contesting a two-year ban by Hong Kong financial regulators.</p> <p>AMTD Global Markets, an asset management unit under AMTD Group, was last week served with the claim by the Bank of Qingdao, a Chinese lender, over an alleged breach of an investment management contract dating back to 2015.</p> <p>In a filing to Hong Kong's High Court by Bank of Qingdao last Thursday, the lender accused the company of violating agreement terms with unauthorised transactions. The bank invested US$350mn in AMTD Global Markets from 2015 to 2017 for investment services, according to the court documents. </p> <p>Bank of Qingdao claimed AMTD Global Markets breached its contract when it subscribed to three securities worth $264mn issued by a Cayman Islands-based corporate entity called Everglory Strategic Investment in around June 2022, said the documents.</p> <p>The bank claimed that its contract stipulated that AMTD's total investment in securities issued by a single entity should not exceed $50mn. It had ordered a termination of the investment agreement in July and is now asking the AMTD unit to hand over the sum as damages.</p> <p>AMTD Global Markets on Monday disputed Bank of Qingdao's “wrongful” claims in a separate filing to the city's High Court.</p> <p>The company said the bank was “regularly updated” of its investment portfolio and that the clause relating to a $50mn cap on investments by a single securities issuer was removed in 2016 under mutual agreement.</p> <p>AMTD also said that the Bank of Qingdao's unilateral attempt to terminate the investment agreement in July was wrongful and that it was seeking compensation from the bank over undisclosed losses and damages stemming from the contract.</p> <p>AMTD's Choi had been on the board of directors of the Bank of Qingdao but had resigned a week before the bank filed its lawsuit. </p> <p>Choi “would not be able to dedicate enough time and attention to continue with his role . . . due to increasing demands on time to other engagements”, said the bank in a filing to the Hong Kong stock exchange in August. </p> <p>The securities that AMTD allegedly invested in, issued by Everglory Strategic Investment, were scrutinised by the city's stock exchange in 2019.</p> <p>Back then, the Hong Kong stock exchange disciplined a company called IntelliCentrics Global Holdings for not complying with listing rules. The company had ploughed $55mn of their $60mn in IPO proceeds into promissory notes acquired by the company through an AMTD vehicle, including some issued by Everglory Strategic Investment, according to a statement released by the exchange.</p> <p>AMTD did not reply to a request for comment. Qingdao said it had “hired a professional team of lawyers and will continue to pursue the litigation process in accordance with the law”.</p> <p>No court hearings have been scheduled for the cases, according to Hong Kong's judiciary.</p><p>Source: Chan Ho-him and Primrose Riordan in Hong Kong 2022 'AMTD subsidiary hit with $264mn lawsuit over alleged ‘breach of contract'' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T14:20:10.209Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 278,
+          "end": 291
+        },
+        {
+          "start": 278,
+          "end": 285
+        },
+        {
+          "start": 277,
+          "end": 290
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.117934,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.11793399,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

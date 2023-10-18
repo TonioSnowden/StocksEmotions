@@ -1,0 +1,48 @@
+{
+  "_id": "3cffc93d4cbf169db7f92c35f7b3252fa83d73d30831d4ee775cf903e8195c2a",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL JOURNAL  ---  PERSONAL TECHNOLOGY:  Are You the Family's IT  Person? Tech Tips to Help  ----  By Nicole Nguyen",
+  "text": "<p>\n   I am the family IT person, an unofficial job I imagine many of you have also held, willingly or not. Those of us who play low-rent Geek Squad for tech-deficient loved ones are used to questions about all sorts of modern problems -- jammed printers, disappearing files, misbehaving remotes and sluggish Wi-Fi -- especially when we're back at home. </p><p>\n  Instead of taking questions this year, take matters into your own hands. Gather your most frequent customers, sit them down and have them take out their phones. Run them through the following battery of fixes and tweaks to help them use tech more happily and easily -- and save the IT department (i.e., you) some headaches. </p><p>\n  Jameeka Green Aaron, chief information-security officer at identity-authentication company Auth0, often does this for her friends and family. She gave me two tips on talking tech at home: </p><pre>\n </pre><p>\n  -- Keep it simple. \"The more friction and complexity you introduce, the less likely that your family will keep the settings that you implement,\" she said. </p><pre>\n </pre><p>\n  -- Rip from the headlines. Ms. Aaron uses the news to help people understand tech threats and how those threats apply to their lives. </p><p>\n  With her guidance in mind, I created a checklist of helpful features and settings to set up on family members' devices. And sorry, no, none of these tips will prevent the printer from acting up. (The printer will always act up.) </p><pre>\n </pre><p>\n  Add a digital shortcut to their vaccine card </p><pre>\n </pre><p>\n  Most establishments will accept a simple photo of a vaccination record, but those get quickly buried in the photo library. Adding the card to their digital wallet is the fastest way to pull it up on the go. iPhone users with a record from a supported pharmacy or state immunization system can point their camera at the record's QR code, and it will be pulled into Apple Wallet. </p><p>\n   Android users first need to access their digital record from their health provider via email or text. Once the vaccination information is visible on screen, scroll down and press \"Save to Phone.\" Then, when prompted, choose to save it to Google Pay. </p><p>\n  You can also pin a photo of the card to the top of Apple's Notes app or Google Drive. </p><pre>\n </pre><p>\n  Turn on device location tracking </p><pre>\n </pre><p>\n  Device tracking helps locate phones, tablets, laptops -- even AirPods -- should they be lost or stolen. On Apple devices, your loved ones can do this in the Find My app. If they have an Apple Watch, show them how to remotely ping their phone by swiping up; tap and hold the phone icon to force a sound and flash. </p><p>\n  On Android phones, it's available in Find My Device. Show them \"Hey Google, ring my phone\" using a Google Home speaker. </p><pre>\n </pre><p>\n  Add an emergency contact </p><pre>\n </pre><p>\n  Have they already set up Favorites contacts? Be sure they also add an emergency contact. On iPhones, these contacts -- which can be added in the Health app within the Medical ID section, or in Contacts under a particular person's entry -- will receive a message with the phone's location when the Emergency SOS function is activated. (While you're at it, recommend adding a legacy contact, who can access their Apple account data after they die.) </p><p>\n  Android users can add emergency information to their lockscreens. </p><pre>\n </pre><p>\n  Clear their storage </p><pre>\n </pre><p>\n  \"I don't have any more space on my phone!\" is the most common complaint I hear. Do an audit of their apps and delete any they say they haven't used in six months. If they really need them in the future, they can always download them again. </p><p>\n  Then look for other bloatware. For iPhone users, head to Settings &gt; General &gt; iPhone Storage. You can manage and delete apps' data from this page. In Android's Settings, select Storage. Tap on an app to clear that app's cache or the storage it uses. You may also see a \"Free up space\" tool, which suggests big files to delete. </p><pre>\n </pre><p>\n  Check app subscriptions </p><pre>\n </pre><p>\n  Subscriptions have gotten out of hand, and your loved ones may be on the hook for recurring payments they've forgotten about. </p><p>\n  iPhone users: Open Settings, tap your name and then Subscriptions. Android users: Go to the Play Store, tap Menu and select Subscriptions. On Amazon, go to your Account and click Memberships and Subscriptions. </p><p>\n  When you're poking around, also look at the permissions granted to apps. \"A shopping app shouldn't have access to the microphone or camera,\" Ms. Aaron says. </p><pre>\n </pre><p>\n  Manage spam, avoid scams </p><pre>\n </pre><p>\n  If they're getting lots of robocalls and texts, adding their number to the FTC's Do Not Call Registry could help cut down on unwanted calls. Also tell them not to click on links or respond: By answering the phone or texting \"STOP\" or \"NO,\" they could help scammers confirm the number is active. </p><p>\n  Diverting texts from unknown senders could also help. On iPhones, go to Settings &gt; Messages to turn on Filter Unknown Senders, which sends texts from people who aren't in your contacts to a separate tab. Block people by tapping on their phone number and scrolling down to Block This Caller. In Android, open the Messages app and expand Settings. Select your SIM card and scroll to Spam Protection to enable the feature. </p><pre>\n </pre><p>\n  Set up password managers and two-factor </p><pre>\n </pre><p>\n  Don't wait until someone has stolen their identity or wiped their bank account. While I like password managers such as Dashlane and 1Password that function on as many platforms as possible, the simplest and best fit for the less tech savvy are the built-in ones like Apple's iCloud Keychain and Google's Password Manager. Plus, they're free. And Apple's is improving: There's an iCloud Passwords browser extension for Chrome on Windows machines, and you can now easily export passwords if you do switch to a more full-featured manager. </p><p>\n  Don't forget to have them turn on two-factor authentication (also known as 2FA) on all of their apps, and remind them never to share those codes -- or really any other login information -- with anybody. For even simpler logins, enable biometrics, such as face recognition or their fingerprint, wherever possible. </p><pre>\n </pre><p>\n  Give them a Wi-Fi upgrade </p><pre>\n </pre><p>\n   If they have an old router, a new fancy mesh system would be a great last-minute Christmas gift. </p><p></p>",
+  "published": "2021-12-21T07:01:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2288,
+          "end": 2293
+        },
+        {
+          "start": 3054,
+          "end": 3059
+        },
+        {
+          "start": 5402,
+          "end": 5407
+        },
+        {
+          "start": 2109,
+          "end": 2114
+        },
+        {
+          "start": 5323,
+          "end": 5328
+        },
+        {
+          "start": 1794,
+          "end": 1799
+        },
+        {
+          "start": 2367,
+          "end": 2372
+        },
+        {
+          "start": 2367,
+          "end": 2378
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

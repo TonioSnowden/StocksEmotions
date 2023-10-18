@@ -1,0 +1,40 @@
+{
+  "_id": "d10164262fa0bd043e48c4b01c17ceb28801c578b76bf212b223f21505c6e1d5",
+  "feed": "market-watch",
+  "title": "Hackers hijack Fast Company, send obscene push alert through Apple News",
+  "text": "<p>A similar message appeared on Fast Company's website, along with a claim from the hackers about how they were able to access the site's publishing tools. The messages were deleted from the page, and Fast Company took its site entirely offline as a precaution, where, as of 11 p.m. Eastern, users saw only a \"404 Not Found\" error message.</p><p>\"Fast Company's Apple News account was hacked on Tuesday evening,\" the company said in a tweet. \"Two obscene and racist push notifications were sent about a minute apart. The messages are vile and not in line with the content and ethos of Fast Company. We are investigating the situation and have suspended the feed &amp; shutdown http://FastCompany.com until we are certain the situation has been resolved.\"</p><p>In a tweet, Apple News said it had disabled Fast Company's channel.</p><p>It was unclear whether the Apple News platform was also compromised, or if the hack was entirely through Fast Company's web publishing tools.</p><p>Apple did not immediately reply to a request for comment.</p><p>Hackers hijack Fast Company, send obscene push alert through Apple News</p>",
+  "published": "2022-09-28T03:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 61,
+          "end": 66
+        },
+        {
+          "start": 953,
+          "end": 958
+        },
+        {
+          "start": 354,
+          "end": 359
+        },
+        {
+          "start": 755,
+          "end": 760
+        },
+        {
+          "start": 838,
+          "end": 843
+        },
+        {
+          "start": 1072,
+          "end": 1077
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "b5991a7501f7d8420dd06dd5a501e151ac8476f6cf1d226b314b6ed53d286c25",
+  "feed": "wall-street-journal",
+  "title": "Oracle CIO Jae Evans on Reshaping the Company's IT Department; The executive at the business-software giant has overseen an internal cloud transformation and molded a more centralized IT group",
+  "text": "<p>Since joining the software company, Ms. Evans has completed much of that cloud migration, spearheaded a diversity, equity and inclusion leadership program, and addressed the problem of some employees using disparate sets of tools and processes outside of IT's jurisdiction.</p><p>Ms. Evans reports to Oracle Cloud Infrastructure Executive Vice President Clay Magouyrk. She was previously a senior vice president of global infrastructure engineering and operations at retailer Walmart Inc.</p><p>CIO Journal spoke with Ms. Evans about how she shaped her role at Oracle and applied her experience from Walmart to her new position. Here are edited excerpts:</p><p>CIO Journal: Many of your customers are adopting Oracle's cloud-computing platform. What does your own internal cloud transformation look like?</p><p>Ms. Evans: In the past 18 months, we've actually finished the migrations for the areas that I'm responsible for—hundreds of applications that we support, critical for Oracle and Oracle's business to run—onto our own cloud platform.</p><p>The migration itself didn't take that long. The stuff to get to the point of doing the migration itself was what took some time. Getting an inventory of what you have, and then making a decision of, \"Hey, some of these things are either duplicative of things that we already have, some of the things we need to retire, some of the things we need to modernize, some of the things we need to move.\"</p><p>That took six months to go and do. We had to create those frameworks. We worked through a bunch of security policies that we standardized, and then made it more repeatable.</p><p>Then you can do that across a lot of your different applications, even though they're servicing different business units.</p><p>CIO Journal: You previously worked at Walmart. How does your experience at the retailer inform your work at Oracle?</p><p>Ms. Evans: I also had internal IT responsibilities of servicing over two million employees, as well as providing IT infrastructure for our e-commerce platform and brick-and-mortar stores.</p><p>When I first started at Walmart, there was a big difference in the technology we'd use inside stores and the technology we would use for our e-commerce experience. Frankly, the customers who were shopping both online and in the stores noticed the difference. The e-commerce side was much more advanced in how we built things, and the speed to innovation was much faster than in the stores.</p><p>One of the big things we did, and I was a part of, was consolidating some of those teams. Why do you have a separate networking team that's working on your e-commerce, and a separate networking team that's working on your stores?</p><p>While retail and being at a technology company are different, I [can] use the experience I had at Walmart's size and magnitude at Oracle's size and magnitude.</p><p>CIO Journal: Which areas of diversity, equity and inclusion are you tackling?</p><p>Ms. Evans: While there are various programs I'm sponsoring, an area I'm focused on quite heavily is this whole notion of \"broken rung\" in middle management. We're able to bring in really good, diverse talent at the entry levels, level one, level two, and then you have a few that are executive ranks. There's this drop-off from this funnel, and then there's this drop-off of trying to understand why and what's going on.</p><p>One of the big things I instituted is a mentoring circle of high-performing, high-potential managers and individual contributors in the middle level.</p><p>We're gonna start small. We want for the pilot to run and get feedback that I believe will help us get the data points to make this more broadly distributed across Oracle.</p><p>CIO Journal: You have said the IT function at Oracle was somewhat fragmented when you joined. How were you able to mold it into a more centralized department?</p><p>Ms. Evans: We had some \"shadow teams\" that were created because [some employees] didn't feel that we were working fast enough, that we were strategic enough and thinking innovatively.</p><p>Ownership was a bit blurred. We had somebody who would engage with the [internal] customer, then we'd have somebody that would actually go and build, design something, and then we'd have somebody else go and operate.</p><p>Integrating the shadow teams was addressed by developing common practices and tools including the [Oracle cloud] operations and security [standard], creating measurable [key performance indicators] and applying a \"you build it you own it\" mind-set. We're now a seat at the table, we're no longer an outsider. We're part of the team.</p><p>Write to Belle Lin at belle.lin@wsj.com</p><p>Oracle CIO Jae Evans on Reshaping the Company's IT Department</p>",
+  "published": "2022-11-29T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 2733,
+          "end": 2740
+        },
+        {
+          "start": 470,
+          "end": 482
+        },
+        {
+          "start": 588,
+          "end": 595
+        },
+        {
+          "start": 2039,
+          "end": 2046
+        },
+        {
+          "start": 1749,
+          "end": 1756
+        }
+      ]
+    }
+  ]
+}

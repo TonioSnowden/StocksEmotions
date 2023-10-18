@@ -1,0 +1,38 @@
+{
+  "_id": "364e53a10a63d1125f6abff148f6ee26721b9ad0a485c66d58984180a141eed6",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- The Score: The Business Week in 7 Stocks",
+  "text": "<p>A new drama is in development at Disney. Activist investor Dan Loeb said in a letter to Disney Chief Executive Bob Chapek released Monday that he wants the media company to buy the rest of streaming service Hulu and explore a spinoff of ESPN. His hedge-fund firm Third Point LLC, he said, has repurchased a \"significant stake\" in the media company after liquidating holdings earlier in the year. In his letter, Mr. Loeb also urged the company to engage with Third Point on a number of issues, from new members of its board to a cost-cutting program. Disney shares rose 2.2% Monday.</p><p>AMAZON.COM INC.</p><p>AMZN +0.1%</p><p>Amazon is searching Hollywood for a star. It has held conversations with senior movie-studio executives who work for rivals to help lead its entertainment division, The Wall Street Journal reported Wednesday. Former Paramount Pictures executive Emma Watts and Netflix Inc.'s Scott Stuber are among the Hollywood players who had conversations with Amazon, the Journal reported. At Netflix, where Mr. Stuber helped cement the company's status as the streaming industry's dominant player, he oversees a division that has produced dozens of movies. Amazon's shares rose 0.1% Thursday.</p><p>WALMART INC.</p><p>WMT +5.1%</p><p>A retailing giant known for its discounts is having success raising prices. Walmart's second-quarter revenue rose as it benefited from consumers paying more for goods and making more visits, the company said Tuesday. Rival Target Corp. said Wednesday its profit fell due to an effort to quickly unload excess inventory at a discount. Walmart's shares rose 5.1% on Tuesday, and Target fell 2.7% Wednesday.</p><p>LOWE'S COS.</p><p>LOW +0.6%</p><p>The foundation of Lowe's could use shoring up. Same-store sales at the home-improvement retailer fell for the second quarter in a row, and Lowe's said its results lagged due to reduced spending from the do-it-yourself cohort, which makes up 75% of its customer base. At Home Depot Inc., which has a higher share than Lowe's from professionals such as contractors and electricians, second-quarter revenue rose as higher prices more than offset a drop in transactions. Professionals tend to spend more per trip. Lowe's shares closed Wednesday up 0.6%, while Home Depot rose 4%.</p><p>STELLANTIS NV</p><p>STLA +0.6%</p><p>Dodge wants muscle-car enthusiasts to get charged up about its first vehicle to run on battery power. It unveiled a new concept car Wednesday evening that it hopes will replace models such as the Challenger and Charger whose loud, powerful engines have long been their main appeal. The move aligns with the ambitious plans of its parent company, Stellantis, which wants to spend $35 billion in the coming years adding more electric vehicles to its showrooms. Dodge's forthcoming EV is expected to go on sale in 2024. Shares of Stellantis rose 0.6% Thursday.</p><p>BED BATH &amp; BEYOND INC.</p><p>BBBY -41%</p><p>Billionaire Ryan Cohen cleaned up his involvement in Bed Bath &amp; Beyond. Mr. Cohen, the co-founder of pet-supply retailer Chewy Inc., helped ignite a new meme-stock frenzy in shares of Bed Bath &amp; Beyond earlier this year. But this week he sold all the stock held by his firm RC Ventures, according to a filing on Thursday. When he revealed his a stake in the company in March, he outlined steps the home-goods retailer should take to turn around. As of Wednesday, the shares were up more than 350% for the month of August, but plunged 20% Thursday and a further 41% Friday.</p><p>FOOT LOCKER INC.</p><p>FL +20%</p><p>A new leader raced to the front of the pack at Foot Locker. Former Ulta Beauty Inc. Chief Executive Mary Dillon was named Friday as the next chief executive of the athletic-goods chain. She joins as Foot Locker tries to shift out of shopping malls and lessen its dependence on Nike Inc. Foot Locker's lead independent director, Dona Young, will also assume the role of nonexecutive chair on Feb. 1, making Foot Locker one of a few publicly traded companies to have women in the top two jobs. Foot Locker shares rose 20% Friday.</p>",
+  "published": "2022-08-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 1278,
+          "end": 1285
+        },
+        {
+          "start": 1180,
+          "end": 1191
+        },
+        {
+          "start": 1534,
+          "end": 1541
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7962258,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.2037892,
+        "tagPositionWeight": 1.50203705e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 8
+    }
+  ]
+}

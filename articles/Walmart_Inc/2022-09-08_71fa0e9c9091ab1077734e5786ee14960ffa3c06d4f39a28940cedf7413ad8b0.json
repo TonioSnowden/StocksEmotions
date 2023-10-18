@@ -1,0 +1,34 @@
+{
+  "_id": "71fa0e9c9091ab1077734e5786ee14960ffa3c06d4f39a28940cedf7413ad8b0",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: Newell Brands Cuts Outlook as Stores Cut Orders",
+  "text": "<p>The consumer market has shifted dramatically this year, with high inflation cutting into spending and shoppers turning away from some goods in favor of travel and services. Retailers including Walmart Inc., Target Corp. and Macy's Inc. that pulled orders forward to get around supply-chain disruptions are discounting some goods, seeking to slough off excess inventories to off-price outlets and canceling orders with overseas suppliers.</p><p>\"Although we remain enthusiastic about the back-to-school season and continue to see solid growth in the commercial business, we have experienced a significantly greater-than-expected pullback in retailer orders and continued inflationary pressures on the consumer,\" Newell Brands Chief Executive Ravi Saligram said.</p><p>The company said it now expects to close the third quarter with net sales in the range of $2.21 billion to $2.32 billion, down from its previous guidance of $2.39 billion to $2.5 billion. For 2022, Newell expects net sales in the range of $9.37 billion to $9.58 billion, a drop from previous guidance of $9.76 billion to $9.98 billion, it said.</p><p>The new outlook would also represent a decline in sales when compared with year-ago periods, when it reported sales of $2.8 billion and $10.6 billion for the third quarter of 2021 and 2021 as a whole, respectively.</p><p>Newell shares rose about 0.8% to $17.21 in Wednesday trading.</p>",
+  "published": "2022-09-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 193,
+          "end": 205
+        },
+        {
+          "start": 192,
+          "end": 203
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.255723,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.25572312,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

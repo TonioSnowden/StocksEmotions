@@ -1,0 +1,20 @@
+{
+  "_id": "5305769a3427be37e83f923db1b881160f47caa7c1e9fca3da86a58bed34d9cc",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The SEC proposed measures that would significantly increase its visibility into private-equity funds and some hedge funds.</p><p>Boeing said production problems and delivery delays with its 787 Dreamliner would cost it another $4.5 billion.</p><p>Intel's earnings fell in the latest quarter as the company ramped up spending on new facilities and products.</p><p>Facebook's cryptocurrency venture is winding down and selling its technology to Silvergate Capital.</p><p>Musk said Tesla won't introduce new vehicles this year, as it bets on growth over diversifying its offerings.</p><p>The Bill &amp; Melinda Gates Foundation named four new members to its board of trustees.</p><p>William Ackman said his hedge fund has acquired a stake in Netflix, attracted by the recent stock selloff.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-01-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 123,
+          "end": 129
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

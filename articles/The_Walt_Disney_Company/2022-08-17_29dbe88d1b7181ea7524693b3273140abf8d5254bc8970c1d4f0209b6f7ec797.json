@@ -1,0 +1,94 @@
+{
+  "_id": "29dbe88d1b7181ea7524693b3273140abf8d5254bc8970c1d4f0209b6f7ec797",
+  "feed": "reuters",
+  "title": "ANALYSIS-Activist's call for ESPN spin-off may be a tough sell at Disney spin-off may be a tough sell at",
+  "text": "<p>Now, after a brief hiatus, Loeb is back and investing $1 billion in Disney , emboldened by making the right call on streaming.</p><p>He wants Disney to spin off ESPN , a move that Loeb argued would give the sports brand greater flexibility in pursuing opportunities like sports betting -- a step that Disney already is exploring.</p><p>In addition to ESPN , Loeb told Disney 's CEO, Bob Chapek , that Disney should accelerate the timetable for acquiring Comcast Corp 's minority stake in Hulu , the streaming service Disney controls.</p><p>Loeb's ideas are getting a tepid reception this second time around from senior entertainment executives and some analysts, who say these changes would deplete Disney of revenue at a time the company continues to lose money on streaming.</p><p>Disney was reported to have been considering spinning off ESPN last year before scrapping the idea. The cable sports network's streaming service, ESPN+, has become a centerpiece of collection of streaming services Disney sells to consumers.</p><p>Chief Executive Chapek credited live sports on TV and ESPN+ for helping to power Disney 's third quarter where operating profit jumped 50%. ESPN reported a recent surge in viewers drawn to college football playoffs, NBA playoffs and NHL Stanley Cup playoffs, though the number of subscribers has fallen to 74 million households, well off from its peak of 100 million in 2011, according to Nielsen.</p><p>Chapek assured investors during the recent earnings call that the company is exploring sports betting, saying, \"sports fans that are under 30 absolutely require this.\"</p><p>Barclays forecasts that Disney 's sports networks could generate as much as $12.4 billion in revenue and $3.9 billion in operating income this fiscal year.</p><p>“What is also not clear to us is what such a move would achieve strategically,\" by shedding ESPN , wrote Barclays analyst Kannan Venkateshwar in a note.</p><p>MoffettNathanson analyst Michael Nathanson wrote that a spinoff would be financially dangerous to Disney , given the importance of the cash flow it provides the company through cable fees and advertising.</p><p>There is little appetite for a media company whose business with expensive sport rights deals and revenues tied to the declining cable television business, Nathanson added, saying Fox Corp is the closest comparison. The company trades at roughly five times its enterprise value, versus Disney 's 14X multiple.</p><p>\"There seems to be little interest from investors in a highly leveraged asset with a majority of cash flow tied to linear domestic cable networks,\" Nathanson wrote. \"Given the heavy fixed cost base of ESPN 's sports rights, we would think that the market's aversion to this idea would be similar (or worse) to the reaction of the (Warner Bros Discovery ) merger.\"</p><p>Loeb's Hulu proposal met with similar skepticism.</p><p>Disney agreed to pay at least $5.8 billion to acquire Comcast 's one-third stake in the streaming service in 2024. It could well be forced to pay a premium to complete the deal earlier, which would eat into its cash on hand and do little to change the market dynamics for Disney 's domestic streaming operations, where growth has slowed. Former executives questioned why Disney would risk paying a premium to rush the Hulu deal.</p><p>\"Focusing on spinning off ESPN and buying in Hulu for a premium seem to be dusting off an older playbook when the market valued assets on different metrics rather than acknowledging the newer important reality of growing sustainable cash flows, in our view,\" Nathanson wrote.</p>",
+  "published": "2022-08-17T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 66,
+          "end": 72
+        },
+        {
+          "start": 68,
+          "end": 74
+        },
+        {
+          "start": 136,
+          "end": 142
+        },
+        {
+          "start": 295,
+          "end": 301
+        },
+        {
+          "start": 356,
+          "end": 362
+        },
+        {
+          "start": 389,
+          "end": 395
+        },
+        {
+          "start": 505,
+          "end": 511
+        },
+        {
+          "start": 681,
+          "end": 687
+        },
+        {
+          "start": 759,
+          "end": 765
+        },
+        {
+          "start": 973,
+          "end": 979
+        },
+        {
+          "start": 1081,
+          "end": 1087
+        },
+        {
+          "start": 1590,
+          "end": 1596
+        },
+        {
+          "start": 1973,
+          "end": 1979
+        },
+        {
+          "start": 2366,
+          "end": 2372
+        },
+        {
+          "start": 2804,
+          "end": 2810
+        },
+        {
+          "start": 3076,
+          "end": 3082
+        },
+        {
+          "start": 3175,
+          "end": 3181
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.681479,
+        "baseWeight": 17.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6814792,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

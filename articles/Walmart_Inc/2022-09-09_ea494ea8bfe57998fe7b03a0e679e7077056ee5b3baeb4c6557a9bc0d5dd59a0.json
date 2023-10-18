@@ -1,0 +1,42 @@
+{
+  "_id": "ea494ea8bfe57998fe7b03a0e679e7077056ee5b3baeb4c6557a9bc0d5dd59a0",
+  "feed": "ftcomall",
+  "title": "Kroger: private labels ring up retail gold",
+  "text": "<p>Lockdown “pantry-loading” has come to an end. But for US supermarket chains, inflation is proving just as good for business.</p> <p>With US inflation still hovering at around 40-year highs, consumers are cutting back on discretionary spending to focus on essentials. Many are eating out less and cooking more at home. This is helping to boost sales at US grocers.</p> <p><a href=\"https://ir.kroger.com/CorporateProfile/press-releases/press-release/2022/Kroger-Reports-Second-Quarter-2022-Results-and-Raises-Full-Year-Guidance/default.aspx\">At Kroger</a>, shoppers are changing what they buy too. Penny pinching has encouraged a switch to the company's cheaper private label brands. Like-for-like sales of own store brands rose 10.2 per cent in the second quarter compared with total growth, excluding fuel sales, of 5.8 per cent. Despite being sold at a lower price point, private label products tend to yield fatter margins. This is reflected in the 14 per cent jump in Kroger's operating profit for the quarter.</p> <p>None of this has been lost on investors. Kroger shares are up 12 per cent this year, compared to a decline of 15 per cent for the wider S&amp;P 500. The grocer's market value has swelled to $36bn. Management thinks it can continue its winning streak. Kroger raised its full-year sales and profit guidance for the second time in six months.</p> <p>Even so, Kroger, the country's largest standalone grocer with nearly 2,800 stores, is currently only trading at 12 times forward earnings. Sprouts Farmers Market, a much smaller rival, is on 13 times&#xa0;while big box store operators Walmart and Costco carry much headier multiples of 22 times and 38 times respectively.</p> <p>To be sure, competition is fierce when it comes to selling food and household essentials. Dollar stores, Walmart, Target, Costco have been chasing the frugal end of the market. Amazon, through its 2017 acquisition of Whole Foods, has bagged the well-heeled customers. </p> <p>But Kroger has shown it can hold its own. The stock's 2 per cent dividend yield is higher than Walmart's and more than double Costco's. High inflation is not going away. This should mean more upside for Kroger at least through next year.</p><p>Source:  2022 'Kroger: private labels ring up retail gold' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T17:16:10.595Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 1567,
+          "end": 1574
+        },
+        {
+          "start": 1377,
+          "end": 1384
+        },
+        {
+          "start": 1822,
+          "end": 1829
+        },
+        {
+          "start": 1585,
+          "end": 1592
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.4295022,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 2.1457672e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

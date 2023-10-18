@@ -1,0 +1,30 @@
+{
+  "_id": "7c33285f66910e2ae20bf1bad55cb815871fc4839c997bfb8a4828112bb5cb52",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Many employers are shrinking the number of paid weeks of maternity and paternity leave they will offer, survey data from the Society for Human Resource Management show.</p><p>Ford confirmed it is laying off roughly 3,000 white-collar and contract employees, its latest effort to slash costs as it makes a longer-range transition to electric vehicles.</p><p>Elon Musk's lawyers sent a subpoena to Jack Dorsey, the first indication that Twitter's co-founder and former CEO will be officially involved in the legal fight over Musk's stalled $44 billion deal.</p><p>McDonald's is shaking up its board with the departure of longtime member Sheila Penrose and the addition of three new directors.</p><p>Adidas said CEO Rorsted would step down next year, remaining in office until a new leader is appointed.</p><p>Toyota's chief rebuked the Hino commercial-truck unit over a scandal involving falsified fuel performance and emissions data.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 541,
+          "end": 551
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0089035,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.008903503,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

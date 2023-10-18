@@ -1,0 +1,38 @@
+{
+  "_id": "a1f7c79cdf734ba274bbed265936ae9ced1643223d899b03bd39594a8c6c1ab7",
+  "feed": "market-watch",
+  "title": "Apple workers tell CEO Tim Cook: 'We demand location-flexible work'; Petition launched by a group of workers calling itself AppleTogether",
+  "text": "<p>\"Those asking for more flexible arrangements have many compelling reasons and circumstances: from disabilities (visible or not); family care; safety, health, and environmental concerns; financial considerations; to just plain being happier and more productive,\" reads the petition, which had 150 signatures by midmorning Monday.</p><p>Apple had asked workers to return to work on Mondays, Tuesdays and Thursdays, but last week reduced that to Tuesdays and Thursdays after Labor Day, with a third day to be determined by teams, the Financial Times reported.</p><p>Remote work remains a priority for many workers. Roughly 30% of service-sector companies' employees are working remotely for an average of 3.3 days per week — almost three times the percentage before the pandemic, according to the New York Federal Reserve's August Business Leaders Survey, which is sent to a pool of 150 business executives.</p><p>Tuesdays, Wednesdays and Thursdays were most popular for in-person work, the New York Fed survey found.</p><p>But there are signs that companies expect a return to normal. \"The rise in remote work has not led to widespread reductions in the amount of workspace being utilized by businesses in the region,\" authors Jaison R. Abel, Jason Bram and Richard Deitz wrote in the Fed report.</p><p>Also read: How to handle the dreaded 'return-to-work' Zoom call with your boss</p><p>Apple AAPL did not immediately reply to a request for comment. Speaking at the TIME 100 symposium in New York in June, Apple's chief executive, Tim Cook, called the return to remote work \"the mother of all experiments.\" He voiced a belief in the \"serendipity\" of in-person office meetings.</p><p>Alphabet GOOGL, Facebook parent Meta META and Microsoft Corp. MSFT have requested that workers come back to the office at least a few days a week. JPMorgan Chase JPM and Goldman Sachs GS are among the financial groups that have also asked workers to return. Twitter TWTR is not mandating a return to the office.</p><p>Still, being called back to the office from remote work is a luxury problem. The Labor Department says just 7.1% of employees teleworked in July because of the pandemic.</p><p>More than one-third of \"knowledge\" workers — who deal in information — had returned to the office five days a week, according to findings released in April by the Future Forum, a consortium launched by Slack that aims to put a digital workplace first.</p><p>Learn how to shake up your financial routine at the Best New Ideas in Money Festival on Sept. 21 and Sept. 22 in New York. Join Carrie Schwab, president of the Charles Schwab Foundation.</p><p>Apple workers tell CEO Tim Cook: 'We demand location-flexible work'</p>",
+  "published": "2022-08-22T14:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 328,
+          "end": 333
+        },
+        {
+          "start": 329,
+          "end": 334
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

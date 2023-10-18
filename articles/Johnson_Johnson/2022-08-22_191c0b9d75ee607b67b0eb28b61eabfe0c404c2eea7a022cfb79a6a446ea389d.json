@@ -1,0 +1,62 @@
+{
+  "_id": "191c0b9d75ee607b67b0eb28b61eabfe0c404c2eea7a022cfb79a6a446ea389d",
+  "feed": "ftcomall",
+  "title": "J&J tries to extend its ‘Texas two-step' to halt two states' talc cases",
+  "text": "<p>Johnson &amp; Johnson used the contentious “Texas two-step” bankruptcy strategy to halt 38,000 personal injury cases claiming its talc-based baby powder caused cancer. Now, the company wants to block cases from two states who claim it misrepresented the safety of a consumer product it sold for decades. </p> <p>A New Jersey court is set on Tuesday to consider a request by a J&amp;J subsidiary to stop New Mexico and Mississippi from proceeding with their lawsuits against the parent company. Legal experts say the decision could set a precedent over whether and to what extent corporations can use the Chapter 11 <a href=\"https://www.ft.com/stream/1ee9b500-e351-4068-b069-2a5a53e95c7f\">bankruptcy </a>process to manage lawsuits alleging violations of state consumer protection regulations. </p> <p>Once in bankruptcy, the court allowed the subsidiary to stay the 38,000 personal injury cases that have been filed against <a href=\"https://www.ft.com/stream/03202114-3abe-4e53-9306-8f8aabae6c5a\">J&amp;J </a>over talc. It was a controversial move — critics said it will deny litigants a jury trial and pressure them to accept settlements, while J&amp;J argues it has helped it to manage billions of dollars' worth of legal claims. J&amp;J has established a $2bn trust to facilitate settlements in those cases.</p> <p>J&amp;J has already ceased sales of talc-based powder in the US and Canada, and said recently it would phase out worldwide sales of its talc-based baby powder in 2023. It said its position — that the product is safe and does not cause cancer — has not changed.</p> <p>In addition to the personal injury cases in bankruptcy court, some states have also sued, alleging the company marketed and sold its talc to consumers despite knowing it was sometimes tainted with cancer-causing asbestos, in violation of consumer protection laws. </p> <p>Forty US states and the District of Columbia are in talks with the LTL subsidiary for a potential settlement of consumer protection claims, they said in a filing. But two others, New Mexico and Mississippi, are seeking to take their cases to trial in their respective state courts. </p> <p>LTL has asked the bankruptcy court to issue an injunction preventing them from doing so. Allowing the litigation to move ahead would interfere with the company's ability to resolve the personal injury cases through the bankruptcy process and undermine ongoing mediation efforts on similar issues with the other states, the company said. &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</p> <p>“The continued pursuit of the state actions is not an exercise of the states' police power, but rather an effort to collect fines and penalties for past conduct from the debtor and other parties,” it said in a filing. </p> <p>The states' cases involve similar factual allegations but are distinct from the personal injury claims, which represent individuals who allegedly developed cancer as a result of using J&amp;J's talc-based baby powder. New Mexico and Mississippi are seeking monetary damages and penalties, as well as the ability to exercise state consumer protection powers to prevent it from resuming talc sales.</p> <p>Both states oppose the request to put their cases on hold, alleging it makes a “mockery” of bankruptcy law and seeks to trample states' right to “exercise police and regulatory powers”, according to court filings.</p> <p>“This is a bridge too far in a case already replete with questionable manipulations of the bankruptcy code by one of the wealthiest corporations on earth,” the states wrote in the filing.</p> <p>“[LTL] apparently believes . . . the bankruptcy code is the ultimate trump card — the court can simply waive its wand and principles of federalism vanish while a multi-billion-dollar entity contorts the bankruptcy code to shield itself from the states' constitutional and statutory exercise of their police and regulatory powers.”</p> <p>Jared Ellias, a professor of law at Harvard Law School, said a decision against the states “would be a precedent-setting order” for companies facing state law or consumer protection actions and hoping to use the bankruptcy system to block or stall those cases. </p> <p>Several companies facing asbestos-related claims, including Georgia-Pacific, a US unit of France-based Saint-Gobain and Trane Technologies, have <a href=\"https://www.ft.com/content/de1da1ea-d19a-4f2d-a790-8ff45368d7d1\">deployed</a> the same “Texas two-step” bankruptcy scheme as J&amp;J. </p> <p>And last month 3M <a href=\"https://www.ft.com/content/899b56c8-e03e-432e-8cd9-130ec272477f\">placed</a> its Aearo subsidiary into Chapter 11 in a bid to resolve hundreds of thousands of claims linked to allegedly defective earplugs. Claimants are challenging 3M's bankruptcy in a case that began on Monday. </p><p>Source: Jamie Smyth in New York 2022 'J&amp;J tries to extend its ‘Texas two-step' to halt two states' talc cases' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T09:00:01.797Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 0,
+          "end": 17
+        },
+        {
+          "start": 362,
+          "end": 365
+        },
+        {
+          "start": 818,
+          "end": 821
+        },
+        {
+          "start": 958,
+          "end": 961
+        },
+        {
+          "start": 1039,
+          "end": 1042
+        },
+        {
+          "start": 1113,
+          "end": 1116
+        },
+        {
+          "start": 2647,
+          "end": 2651
+        },
+        {
+          "start": 4045,
+          "end": 4048
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

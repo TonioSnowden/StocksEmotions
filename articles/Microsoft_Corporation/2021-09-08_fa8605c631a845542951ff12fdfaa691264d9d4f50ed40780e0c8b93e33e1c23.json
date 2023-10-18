@@ -1,0 +1,44 @@
+{
+  "_id": "fa8605c631a845542951ff12fdfaa691264d9d4f50ed40780e0c8b93e33e1c23",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Defending Wall Street | Is the REvil Ransomware Gang Back?",
+  "text": "<p>Cybercriminals have upped their game.</p><p>If you don't know these four tactics to protect yourself from ransomware-as-a-service (RaaS), you'll end up at their service.</p><p>Get Protected</p><p>Cyber Threat</p><p>After the 9/11 attacks, Wall Street bolstered its defenses. The nearly weeklong stock-market shutdown that followed the terror shock of Sept. 11 seems unimaginable in today's world of round-the-clock trading.</p><p>Yet some investors and officials worry that financial markets could still be crippled by an attack—one using sophisticated hacking tools rather than raw violence. Today, trading volume at the NYSE and other stock exchanges is overwhelmingly electronic, occurring in nondescript, tightly secured data centers in New Jersey.</p><p>In April, Federal Reserve Chairman Jerome Powell said in an interview with CBS that cyberattacks had become the foremost risk to the financial system, greater than the types of factors that led to the 2008 financial crisis.</p><p>Read the full story.</p><p>More Cyber News</p><p>Cyber extortion: The potential damage from ransomware attacks that unfold into data extortion goes well beyond the initial ransom payments. Victims face legal and reputational risks, in particular if sensitive or embarrassing information is leaked. What's more, there's no guarantee that hackers won't publish the stolen data even after the ransom has been paid. (WSJ)</p><p>In addition to notifying regulators, companies need to inform anyone affected by the attack before they find out through media reports or if their data is posted on dark web forums.</p><p>In some cases, attackers try to increase pressure on a company by letting its customers know that sensitive data pertinent to them has been stolen—sending the customer images of the data as proof, for example—and asking the customer to demand that the company pay the attackers' ransom fee.</p><p>School's out: A weekend ransomware attack on Howard University cancelled classes on Tuesday for students at the Washington, D.C., institution. Howard's tech staff shut down several student systems to prevent the malware spreading. WiFi was also down. Cloud applications remained accessible. \"This is a highly dynamic situation, and it is our priority to protect all sensitive personal, research and clinical data,\" the school said in a post on its website, adding that it is working with the FBI and local law enforcement to investigate. (Washington Post)</p><p>Revealed: During the SolarWinds attack discovered late last year, Microsoft \"identified dozens of impacted organizations, including other tech companies, government contractors, think-tanks and a university,\" Microsoft President Brad Smith said in a new book about the episode, \"Tools &amp; Weapons: The Promise and Peril of the Digital Age.\" Government officials have said the attack was one of the most serious in history. (Fast Company)</p><p>Some highlights:</p><p>Microsoft put more than 500 employees on the case.</p><p>CEO Satya Nadella held a meeting every evening to hear updates about findings and what to do next.</p><p>As customers shared information with Microsoft, it created a world map of locations potentially affected by corrupted SolarWinds software. Some customers who received a call from Microsoft about the attack thought it was a hoax.</p><p>Microsoft and web host GoDaddy worked to transfer control of the hackers' server to Microsoft, which activated a kill switch for the malware.</p><p>Newsletter Extra: The website of a ransomware gang that mysteriously went dark in July is back up again.</p><p>The so-called Happy Blog, where the hacker group REvil has posted stolen information to extort its victims, is back. The website of REvil, a group behind hacks this summer of meat-processing giant JBS and software provider Kaseya, had been down for nearly two months, puzzling cyber experts. It has yet to be updated with any new information, though.</p><p>Some security researchers suggested the gang may have gone on vacation during the hiatus; others saw the quiet period as possible evidence of more aggressive law enforcement efforts. The takedown came after a series of attacks on U.S. companies and as the Biden administration ratcheted up pressure on Russian President Vladimir Putin to crack down on ransomware gangs within Russian borders.</p><p>\"At this point, there are more questions than answers. Far more,\" said Brett Callow, a threat analyst for cyber company Emsisoft. \"The biggest question is, if REvil went offline due to pressure from Putin as some have speculated, why are they back? What's changed?\" —David Uberti</p><p>Privacy</p><p>French visa site compromised. About 8,700 applicants for travel visas are being notified that their personal information was exposed when the France-Visas website was hacked. Names, identification numbers and nationalities are among the data at risk. (InfoSecurity Magazine)</p><p>Tell Us What You Think</p><p>WSJ Pro Cybersecurity is conducting a survey that looks at key cybersecurity challenges facing organizations, including talent, preparedness and governance. The survey takes around 10 minutes to complete and the results will be shared in December. Click on the link above to participate. Thank you!</p>",
+  "published": "2021-09-08T13:23:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3214,
+          "end": 3223
+        },
+        {
+          "start": 3164,
+          "end": 3173
+        },
+        {
+          "start": 2835,
+          "end": 2844
+        },
+        {
+          "start": 2448,
+          "end": 2457
+        },
+        {
+          "start": 3022,
+          "end": 3031
+        },
+        {
+          "start": 3298,
+          "end": 3307
+        },
+        {
+          "start": 2591,
+          "end": 2600
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

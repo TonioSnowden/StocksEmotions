@@ -1,0 +1,50 @@
+{
+  "_id": "43c944c88d9542763e9259f60af283cc9cc4d4af88c8374d17de73a9ecec2142",
+  "feed": "reuters",
+  "title": "EXCLUSIVE-India's inclusion in key govt bond index delayed to next year - sources",
+  "text": "<p>NEW DELHI/HONG KONG, Sept 27 (Reuters) - India's long wait to win inclusion in JPMorgan 's influential emerging market debt index is set to be pushed out into next year due to a number of issues New Delhi needs to address, four sources familiar with the matter said.</p><p>Investors had hoped the green light for inclusion could have come as early this month after JPMorgan 's index experts sounded out money managers on their views back in August.</p><p>The consultation, along with this year's ejection of Russia from the bank's widely used GBI-EM index, led foreign investors to step up purchases of the growing number of Indian government bonds that no longer place caps on non-domestic ownership.</p><p>India's local bond settlement rules, tax complexities and the way in which investors will repatriate their money are among the operational issues that still need to be resolved, said a fund manager at a large global fund.</p><p>Index investors tend to favour international settlement platforms such as Euroclear but India has so far been reluctant to meet some of Belgium-based firm's tax treatment criteria, and has instead set it sights on onshore bond settlement, similar to the approach used by China.</p><p>\"India is working to get its bonds included but operationally it is not ready,\" one of the sources said.</p><p>The government and the Reserve Bank of India are expected to sort out some of these issues by the end of 2022, said two of the sources. If resolved, an announcement on India's inclusion could come early next year, they said. The sources did not want to be named as they are not allowed to speak to the media.</p><p>India's finance ministry and JPMorgan did not immediately respond to Reuters' request for comment.</p><p>GLOBAL AMBITION</p><p>News of the likely delay in the inclusion process saw the Indian rupee turn lower, while yields on the government's benchmark bonds - which move inversely to price - rose to 7.37% from the day's low of 7.27%.</p><p>Even once New Delhi gets the green light it will still require time for the inclusion process to start due to the sheer scale of the Indian bond market and the preparation time investors will need.</p><p>India has sought to be included in global bond indexes since 2013, but that ambition has been held up by a number of factors.</p><p>JPMorgan , whose GBI-EM index is tracked by an estimated $240 billion of funds globally, only began considering India's inclusion in its global bond index in 2021, a year after it began including China yuan-denominated debt.</p><p>If successful, India would be the last major emerging market to be added to the JPMorgan index. It could see investors pump $30 billion into India's bond market within 10 months and between $170 billion and $250 billion over the next decade, Morgan Stanley has estimated.</p><p>While most of JPMorgan 's investors are in favour of including India in the GBI-EM index, many think issues such as investor verification and settlement rules need to be ironed out first, three of the sources said.</p><p>India is opposed to providing any capital gains tax waivers to overseas debt investors and wants global bond index operators to consider the local settlement of its government securities if they are included in their indexes, according to two separate Reuters reports.</p><p>\"It is not insurmountable, but right now there is no transparency on how a capital gains tax would be calculated or levied, so we wouldn't be surprised if there was a delay (in a decision),\" said Jennifer Taylor, head of emerging market debt at State Street.</p>",
+  "published": "2022-09-27T23:05:13.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 359,
+          "end": 367
+        },
+        {
+          "start": 79,
+          "end": 87
+        },
+        {
+          "start": 2763,
+          "end": 2771
+        },
+        {
+          "start": 2557,
+          "end": 2565
+        },
+        {
+          "start": 2252,
+          "end": 2260
+        },
+        {
+          "start": 1633,
+          "end": 1641
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.624337,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6243373,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

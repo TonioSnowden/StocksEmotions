@@ -1,0 +1,34 @@
+{
+  "_id": "9bdbaf5ee77ba777359baf1cc1d83d2b8cf9f309861d08565a1a3ae6eb976fc2",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Boss Taking Over Starbucks Reinvigorated Lysol Maker",
+  "text": "<p>During his time as Reckitt's chief executive, Mr. Narasimhan reinvigorated the company's once flagging sales, casting hygiene -- and many of the company's brands -- as a cornerstone of health, just in time for the pandemic, when consumers flocked to disinfectants such as Lysol. Reckitt's share price improved, too.</p><p>Through the pandemic, he worked to broaden sales of the company's cleaners, launching a disinfectant laundry detergent and striking branded partnerships with hotel chains and airlines for Lysol. He sold off the company's struggling infant-formula business in China and kicked off a sale process for the rest of the company's formula business this summer.</p><p>Analysts and investors were surprised by Mr. Narasimhan's move. Reckitt, in announcing his departure hours before Starbucks named him as its new leader, said he was leaving for \"personal and family reasons\" and had been offered an opportunity to return to the U.S.</p><p>Investors recently have questioned the sustainability of Reckitt's strong performance, boosted by Lysol and a recent jump in sales of baby formula Enfamil amid a U.S. shortage. Reckitt's share price was up 4% compared with when Mr. Narasimhan took over, based on its closing price Wednesday, a day before investors sold off the stock on the news of his departure. Over the same three-year period, Reckitt rival Unilever PLC's shares have fallen about 24%. Procter &amp; Gamble Co. shares have risen by 15%.</p><p>Before his time at Reckitt, Mr. Narasimhan worked as global chief commercial officer at PepsiCo. Inc. Target Corp. CEO Brian Cornell, who worked with Mr. Narasimhan at PepsiCo and said they have known one another for about a decade, said that during their travels together, Mr. Narasimhan was able to connect with front-line workers in Latin America along with board executives.</p><p>\"His ability to transition from a boardroom and a leadership team to the frontline organization is one of the things that really stands out,\" Mr. Cornell said in an interview.</p><p>Mr. Narasimhan grew up in Pune, India, where his father established a startup supplying machine parts to the U.S. His mother worked as a teacher.</p><p>After getting a degree in mechanical engineering from the University of Pune in India, Mr. Narasimhan moved to the U.S. in 1991 to study at the University of Pennsylvania.</p><p>He has a master's degree in German and international studies from the University of Pennsylvania and an M.B.A. in finance from the university's Wharton School.</p>",
+  "published": "2022-09-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "nexusId": "10044575",
+      "name": "The Procter & Gamble Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1392,
+          "end": 1412
+        },
+        {
+          "start": 1384,
+          "end": 1404
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000019,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.9073486e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

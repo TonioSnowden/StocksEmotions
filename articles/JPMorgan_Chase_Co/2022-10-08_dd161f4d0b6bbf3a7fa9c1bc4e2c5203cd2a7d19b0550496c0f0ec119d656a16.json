@@ -1,0 +1,30 @@
+{
+  "_id": "dd161f4d0b6bbf3a7fa9c1bc4e2c5203cd2a7d19b0550496c0f0ec119d656a16",
+  "feed": "market-watch",
+  "title": "The drop in expected S&P earnings is in the sweet spot for big stock-market gains over the next 12 months; Remember, the stock market is always looking further ahead",
+  "text": "<p>The relevant data (courtesy of Ned Davis Research ) are plotted in this chart. Notice that the market's highest annualized return over the last century—25%—has been produced when the S&amp;P 500's SPX year-over-year change in four-quarter EPS has been in a range from 20% lower to just 5% higher.</p><p>With the exception of when this rate of change is less than minus 20%, there is an inverse relationship between earnings growth rates and the market's average return.</p><p>The reason this historical pattern is potentially good news for today's stock market DJIA is that fourth-quarter EPS growth rate is projected to fall squarely within the cohort associated with the highest average annualized return—as you can see from the table below. (Note that the growth rates for the third and fourth quarters are based partly on the consensus of analyst estimates.) </p><p> Quarter              Year-over-year growth rate in trailing four-quarter S&amp;P 500 EPS  Fourth quarter 2022  -5.2%  Third quarter 2022   +8.9%  Second quarter 2022  +21.1%  First quarter 2022   +54.4%</p><p>Discounting the future</p><p>The source of this otherwise surprising inverse relationship between the market and earnings growth rates is the stock market's focus on several quarters into the future.</p><p>By the time earnings growth rates are extremely high—as they were late last year and early this—they have long since been reflected in stock prices. During such periods, the market has instead shifted its focus to earnings several quarters hence—to factors such as the Federal Reserve having to put the brakes on an overheating economy.</p><p>Just the reverse will usually be the case by the time the year-over-year growth rate in trailing four-quarter EPS has gone negative. Instead of focusing on that, which will have long since been discounted in the market's level, investors will have shifted their focus to earnings' likely imminent rebound.</p><p>The exception to this general pattern occurs when EPS growth rates fall like a rock and therefore don't soon turn back up after falling into modestly negative territory.</p><p>A spectacular recent example came during the 2008 financial crisis. The S&amp;P 500's year-over-year growth rate in trailing four-quarter earnings was minus 19% in the fourth quarter of 2007, a rate that historically has been associated with a rising stock market. But earnings continued falling through 2008; by the fourth quarter of that year, the growth rate was minus 78%.</p><p>That seems unlikely this time around, at least according to S&amp;P Global's projections of the analyst consensus. The year-over-year growth rate of trailing four-quarter EPS is projected to gradually increase throughout 2023, and by the fourth quarter of next year to be 13%.</p><p>Unless those projections aren't just a little bit wrong but way off base, and you're instead anticipating a repeat of something like 2008's Great Financial Crisis, history suggests that the current earnings recession is not a reason to sell everything and go to cash.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com  .</p><p>More from MarketWatch</p><p>The bear market may not be over, but corporate insiders are acting like it is </p><p>This is the time when 'accidents' like Enron have happened — this JPMorgan quant says yields have peaked and prefers bonds over stocks </p><p>Stocks and bonds are 'discounting for a disaster' after the worst stretch for investors in 20 years </p><p>What will happen with inflation, interest rates and housing? Here's what to expect in the next two years, and what could go wrong. </p><p>The drop in expected S&amp;P earnings is in the sweet spot for big stock-market gains over the next 12 months</p>",
+  "published": "2022-10-08T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9999995,
+      "offsets": [
+        {
+          "start": 3296,
+          "end": 3304
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "b62cc495f067c00233ba1a1bd847a42e0a54f26caee3dead260682080a1fefc3",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Army Grounds Entire Chinook Helicopter Fleet  ----  By Andrew Tangel and Gordon Lubold",
+  "text": "<p>   The U.S. Army has grounded its entire fleet of CH-47 Chinook helicopters due to a risk of engine fires, U.S. officials said. </p><p>   Army officials are aware of a small number of engine fires with the helicopters, and the incidents didn't result in any injuries or deaths, the U.S. officials said. One of the officials said the fires occurred in recent days. </p><p>   The U.S. Army Materiel Command grounded the fleet of hundreds of helicopters \"out of an abundance of caution,\" but officials were looking at more than 70 aircraft that contained a part that is suspected to be connected to the problem, officials said. </p><p>   The grounding of the Chinook helicopters, a battlefield workhorse since the 1960s, could pose logistical challenges for American soldiers, depending on how long the order lasts. </p><p>   The grounding was targeted at certain Boeing Co.-made models with engines manufactured by Honeywell International Inc., people familiar with the matter said. The grounding took effect within about the last 24 hours, these people said. The Army has about 400 of the helicopters in its fleet, one of the U.S. officials said. </p><p>   Boeing declined to comment, referring questions to the Army. </p><p>   A Honeywell spokesman said the engine maker worked with the Army to determine that certain components known as O-rings didn't meet the company's design specifications. He said the parts were installed during routine maintenance at an Army facility. While he declined to name the company that made the parts, the Honeywell spokesman said the company is working to supply the Army with replacements. </p><p>   An Army spokeswoman said the service has identified the root cause of fuel leaks that caused \"a small number of engine fires among an isolated number\" of the helicopters. She said the Army is taking steps to resolve the issue. </p><p></p>",
+  "published": "2022-08-31T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1095,
+          "end": 1101
+        },
+        {
+          "start": 818,
+          "end": 824
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0005603,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00056028366,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

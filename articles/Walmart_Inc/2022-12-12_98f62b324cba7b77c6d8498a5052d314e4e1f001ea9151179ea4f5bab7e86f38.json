@@ -1,0 +1,30 @@
+{
+  "_id": "98f62b324cba7b77c6d8498a5052d314e4e1f001ea9151179ea4f5bab7e86f38",
+  "feed": "reuters",
+  "title": "Maersk appoints new CEO to steer shipping firm through 'turbulence' to come",
+  "text": "<p>\"The strong tail winds that benefited the supply chain industries during the pandemic are coming to an end,\" Maersk Chairman Robert Maersk Uggla told a press conference at the company's headquarters in Copenhagen.</p><p>\"I think it's an advantage for the company to have some new energy in the CEO position... at a time when we can see turbulence on the horizon,\" he said.</p><p>The change comes less than a year after Uggla, the grandson of Maersk Mc-Kinney Moller, the former Maersk head who transformed the group into an international conglomerate, was elected chairman of the board. Uggla also heads the holding company that controls Maersk .</p><p>Shares in Maersk have roughly doubled since Skou took over as CEO in 2016. Skou has overseen the group's transformation from a conglomerate into an integrated logistics company, a process that included selling its oil and gas business to France's TotalEnergies in 2017.</p><p>Clerc, currently head of the group's Ocean &amp; Logistics business, said he will focus on keeping costs down at a time when Maersk has been buying up warehouses and distribution centres to offer an end-to-end transportation service rather than just container shipping.</p><p>\"When we grow as fast as we have been, we want to be sure that we don't end up with too-high costs,\" Clerc said.</p><p>Maersk shares have lost more than 40% of their value since January's record high, and were trading 2.7% lower at 1218 GMT on Monday, underperforming Copenhagen's benchmark index.</p><p>\"We credit today's share price reaction to Soren Skou 's very successful tenure, but also to the fact that the timing and company's communication on outlook can be seen as rather gloomy,\" said DNB analyst Jorgen Lian in a written comment.</p><p>Clerc, a Swiss citizen born in 1972, joined Maersk in 1997 and has since held several senior positions including Chief Trade and Marketing Officer and Chief Commercial Officer.</p><p>Copenhagen-based Maersk is one of the world's biggest shipping and logistics companies, handling supply chains for large customers like Walmart and Nike . It employs more than 100,000 people in 130 countries.</p>",
+  "published": "2022-12-12T12:21:40.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9998368,
+      "offsets": [
+        {
+          "start": 2015,
+          "end": 2022
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

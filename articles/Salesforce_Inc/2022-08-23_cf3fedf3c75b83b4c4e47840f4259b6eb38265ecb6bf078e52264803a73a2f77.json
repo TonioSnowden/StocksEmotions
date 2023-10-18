@@ -1,0 +1,34 @@
+{
+  "_id": "cf3fedf3c75b83b4c4e47840f4259b6eb38265ecb6bf078e52264803a73a2f77",
+  "feed": "wall-street-journal",
+  "title": "Business News:  McDonald's  Shakes Up  Board and  Increases  Its Size  ----  By Will Feuer",
+  "text": "<p>   McDonald's Corp. is shaking up its board of directors with the departure of longtime member Sheila Penrose and the addition of executives from Marriott International Inc., Johnson &amp; Johnson and Salesforce Inc. </p><p>   Ms. Penrose, who leads the board's sustainability and corporate responsibility committee, will retire from the board effective Sept. 30, the fast-food chain said Monday. She has served on the board since 2006. </p><p>   Ms. Penrose's departure comes months after her seat on the McDonald's board was challenged by activist investor Carl Icahn, who criticized the fast-food chain over its suppliers' treatment of pregnant pigs. At the time, Mr. Icahn also targeted a seat held by Richard Lenny, the former chief executive of Hershey Co. </p><p>   McDonald's Chairman Enrique Hernandez Jr. said Monday that Ms. Penrose has overseen the company's progress on climate, responsible sourcing and diversity, equity and inclusion goals. </p><p>   McDonald's said it has elected Marriott CEO Tony Capuano, J&amp;J Worldwide Chair of Pharmaceuticals Jennifer Taubert and Salesforce Chief Financial Officer Amy Weaver to the board effective Oct. 1. </p><p>   The new additions increase the size of the board to 14, and increase the number of women on the board from three, including Ms. Penrose, to four. </p><p>   The move also comes after executives warned last month that the business outlook remains uncertain amid inflation and weakening consumer sentiment. </p><p>   McDonald's said last month that for the recently ended quarter, higher prices and value-menu offerings pushed same-store sales up 3.7% in the U.S. from a year earlier, outpacing analysts' expectations. Overall revenue, though, fell 3%, mostly because of the stronger U.S. dollar. </p><p></p>",
+  "published": "2022-08-23T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 194,
+          "end": 208
+        },
+        {
+          "start": 1033,
+          "end": 1043
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.2512956,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.2512957,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

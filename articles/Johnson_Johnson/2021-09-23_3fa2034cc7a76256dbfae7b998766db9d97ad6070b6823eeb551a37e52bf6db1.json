@@ -1,0 +1,28 @@
+{
+  "_id": "3fa2034cc7a76256dbfae7b998766db9d97ad6070b6823eeb551a37e52bf6db1",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Official Advises Not to Mix Boosters",
+  "text": "<p>\"Data are not available to inform the interchangeability of a booster dose of one vaccine with the primary series of another vaccine,\" Dr. Fink said at a meeting of the Advisory Committee on Immunization Practices, or ACIP, which advises the Centers for Disease Control and Prevention.</p><p>Officials expect to have more information on this in the future. The National Institutes of Health said in June it is studying giving extra Moderna Inc. doses to people who have received Pfizer, Johnson &amp; Johnson and Moderna vaccines.</p><p>The FDA has said it needs more time to review use of extra doses of Moderna and J&amp;J Covid-19 vaccines.</p><p>Some panel members asked about the risks of delaying a vote on Pfizer while waiting for an authorization for Moderna's vaccine so as not to privilege one group of vaccine recipients. They also expressed concerns about leaving behind people who receive the J&amp;J shot.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-09-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 481,
+          "end": 498
+        },
+        {
+          "start": 601,
+          "end": 604
+        },
+        {
+          "start": 880,
+          "end": 883
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

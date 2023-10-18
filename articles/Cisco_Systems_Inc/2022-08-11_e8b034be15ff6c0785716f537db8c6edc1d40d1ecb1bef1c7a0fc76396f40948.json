@@ -1,0 +1,50 @@
+{
+  "_id": "e8b034be15ff6c0785716f537db8c6edc1d40d1ecb1bef1c7a0fc76396f40948",
+  "feed": "market-watch",
+  "title": "Cisco says it was breached by hacker linked to notorious cybercrime groups; Cisco says no critical systems or customer data affected, but some internal files were posted on dark web",
+  "text": "<p>Earlier Wednesday, \"the bad actors published a list of files from this security incident to the dark web,\" Cisco said in a separate statement.</p><p>San Jose, Calif.,-based Cisco CSCO said the incident was contained to its corporate IT environment, and did not appear to involve sensitive customer data or private employee information.</p><p>\"We have not identified any evidence suggesting that the attacker gained access to critical internal systems, such as those related to product development, code signing, etc.,\" the company said. \"The only successful data exfiltration that occurred during the attack included the contents of a Box folder that was associated with a compromised employee's account. The data obtained by the adversary in this case was not sensitive.\"</p><p>Cisco said the hacker was successfully removed, but \"displayed persistence, repeatedly attempting to regain access in the weeks following the attack; however, these attempts were unsuccessful.\"</p><p>No ransomware has been observed, and steps have been taken to \"further harden\" Cisco's IT environment, the networking giant said.</p><p>Cisco said it had confidence the hacker was an initial access broker with ties to the UNC2447 ransomware gang, the Lapsus$ cybercriminal group and Yanluowang ransomware operators. Earlier this year, Lapsus$ targeted systems at Okta Inc. OKTA and Microsoft Corp. MSFT.</p><p>Cisco shares are down 27% year to date, compared to the 8% decline by the Dow Jones Industrial Average DJIA, of which it is a component.</p><p>Cisco says it was breached by hacker linked to notorious cybercrime groups</p>",
+  "published": "2022-08-11T00:52:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 76,
+          "end": 81
+        },
+        {
+          "start": 107,
+          "end": 112
+        },
+        {
+          "start": 1028,
+          "end": 1033
+        },
+        {
+          "start": 1078,
+          "end": 1083
+        },
+        {
+          "start": 1344,
+          "end": 1349
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "673f1fde0d5204f196b01aeb34336229113dd3fe0f559f7e6600b26676ffc863",
+  "feed": "wall-street-journal",
+  "title": "Tencent Deal Hurts Game Maker's Shares",
+  "text": "<p>Deal-making among videogame companies has surged in recent years, including Microsoft Corp.'s $75 billion deal earlier this year to buy Activision Blizzard. That led analysts and investors to hope that other big tech and media companies would snap up the few big independent game developers that remain, like Ubisoft -- pushing up their shares.</p><p>But under the terms of the Ubisoft investment, announced Tuesday, Tencent is agreeing only to buy nearly 50% of a family holding company that owns most of France's Guillemot family's shares in the videogame maker. It won't get any board seats or operational veto rights. Tencent, which currently owns 4.5% of the company directly, also agreed to cap its direct holdings at just under 10% for the next eight years.</p><p>\"We are excited to expand our engagement with the founders, the Guillemot family,\" Martin Lau, Tencent's president, said in a statement.</p><p>Analysts say the transaction keeps Tencent from making a full takeover that investors had hoped for -- but also deepens a partnership with the Chinese game maker that discourages other companies from making a bid.</p><p>\"Everyone had been hoping for a takeover,\" said Charles-Louis Planade, a game-industry analyst at TPI CAP. \"The message Tencent is sending to others is, 'Forget Ubisoft; it's for me.\"</p><p>A spokesman for Ubisoft said the deal with Tencent brings stability to its shareholder base, but that any other company could still make an offer to acquire the company. In that case, Tencent would no longer be bound by its cap and could make a counteroffer, the spokesman said.</p><p>The Ubisoft deal is the latest expansion by Tencent into foreign tech companies. Through a series of investments and deals, including the 2016 acquisition of mobile-game studio Supercell, Tencent has built itself into the world's largest videogame maker by revenue.</p><p>Ubisoft, founded by the Guillemot family in 1986, is one of the few remaining independent gaming studios that makes big, immersive games -- making it a prime target for takeovers.</p><p>Ubisoft in 2020 said multiple senior executives had left amid an internal investigation into allegations of misconduct and inappropriate behavior.</p>",
+  "published": "2022-09-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 76,
+          "end": 91
+        },
+        {
+          "start": 76,
+          "end": 90
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6372925,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6372925,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

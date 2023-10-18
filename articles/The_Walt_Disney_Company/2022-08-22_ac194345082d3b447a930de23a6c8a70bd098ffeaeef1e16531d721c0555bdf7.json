@@ -1,0 +1,34 @@
+{
+  "_id": "ac194345082d3b447a930de23a6c8a70bd098ffeaeef1e16531d721c0555bdf7",
+  "feed": "wall-street-journal",
+  "title": "Movie Theaters Brace for a Rough Intermission",
+  "text": "<p>The U.K.-based owner of the Regal Cinemas movie-theater chain is preparing to file for chapter 11 bankruptcy protection in the U.S. along with an insolvency filing in its home country. That came two days after the company warned investors of lower-than-expected admissions \"due to a limited film slate that is anticipated to continue until November.\" November actually comes two weeks after the release of \"Black Adam,\" the next entry in Warner Bros. Discovery's DC Comics franchise that stars the actor otherwise known as Dwayne Johnson. He is no slouch on the screen: Movies featuring the former wrestler in a leading role generated more than $5 billion in global box-office revenue, according to the movie-industry tracking site The Numbers. According to Wedbush analyst Alicia Reese, \"Black Adam\" is the next theatrical release expected to do significant business, defined as surpassing $100 million domestically. The movie is currently set for release on Oct. 21.</p><p>That pause is a problem for all movie-theater operators, and an insurmountable one for Cineworld. The company entered the pandemic deep in debt following a string of acquisitions, and an attempt to buy the Cineplex chain for about $1.7 billion in late 2019 turned out to be very poorly timed.</p><p>It didn't benefit from the meme-stock phenomenon that saved similarly indebted rival AMC Entertainment. A surge of interest from individual investors has helped AMC raise more than $2 billion from stock sales and reduce its borrowings, thus avoiding its own trip to bankruptcy court.</p><p>Still, news of Cineworld's filing took down shares of AMC nearly 7% on Friday, while smaller chains Cinemark and IMAX saw their shares fall by 4.5% and 3% respectively. None of those three face similar financial stress, but Cineworld's move was a stark reminder that the theatrical exhibition industry is still working its way out of the hole created by the pandemic.</p><p>The smashing success of \"Top Gun: Maverick,\" which has grossed nearly $1.4 billion worldwide, helped the industry close some of the gap with its prepandemic performance. The domestic box-office for this year's summer season has totaled about 72% of the average for the same period during the years 2015-2019, according to Box Office Mojo. The gap was 52% for the combined spring-summer seasons.</p><p>But the fall season is looking a bit dry at this point, at least until the release of \"Black Adam.\" Cinemark Chief Executive Officer Sean Gamble warned in his company's earnings call earlier this month that \"the next two months will be challenged by another temporary dip in new release volume\" due to a mix of production delays and release date shifts. Other major releases late in the season include sequels to Disney's \"Black Panther\" and \"Avatar\" films. Both are promising: \"Black Panther\" is the third-highest domestic grossing title in the Marvel Cinematic Universe, according to Box Office Mojo. And the first \"Avatar\" film from 2009 is still the reigning global box-office champ, with $2.8 billion under its belt, according to The Numbers.</p><p>That will give the Rock some heavy competition. But movie-theater chains will need all of them to do some pretty heroic work.</p>",
+  "published": "2022-08-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2722,
+          "end": 2728
+        },
+        {
+          "start": 2704,
+          "end": 2710
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

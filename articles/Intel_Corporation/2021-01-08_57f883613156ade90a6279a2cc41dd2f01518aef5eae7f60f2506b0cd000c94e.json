@@ -1,0 +1,20 @@
+{
+  "_id": "57f883613156ade90a6279a2cc41dd2f01518aef5eae7f60f2506b0cd000c94e",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Hack Likely Affected Federal Courts",
+  "text": "<p>\"An apparent compromise of the confidentiality of the [filing] system due to these discovered vulnerabilities currently is under investigation,\" the statement said. \"Due to the nature of the attacks, the review of this matter and its impact is ongoing.\"</p><p>Beginning Wednesday, highly sensitive court documents filed with federal courts on paper or via secure electronic devices will be stored in a stand-alone computer system, according to the statement, and won't be uploaded as usual to the electronic case-filing system. The new procedure wouldn't change public access to court records because sealed records already aren't available to the public, it said.</p><p>Gaining access to confidential judiciary records could be especially valuable to foreign spies, analysts said, because of the extreme sensitivity of information they often contain, including investigative techniques described in search warrants or specific email accounts or phone numbers being surveilled.</p><p>\"Documents like these are a road map of investigations,\" said Seamus Hughes, an expert on federal court records and deputy director of the Program on Extremism at George Washington University. \"In the right hands, they could tip off a target of investigation, be it an individual or a country's intelligence apparatus.\"</p><p>Sealed court records could also include information about informants or others cooperating with the Federal Bureau of Investigation,\" Mr. Hughes said. \"If exploited correctly, it'll set back criminal prosecutions for years,\" he said.</p><p>Investigators are still working to understand the full extent of the suspected Russian hack, which has been linked to a malicious update to widely used software provided by Texas-based network-management company SolarWinds Corp. Authorities believe that update was used to compromise U.S. government agencies and scores of private businesses across the globe.</p><p>A number of high-profile companies, including Microsoft Corp., Intel Corp. and Cisco Systems Inc., and the security vendor FireEye Inc., have confirmed that they were hacked or they downloaded malicious software related to the intrusion.</p><p>But many affected companies have remained silent, said Sen. Mark Warner, the top Democrat on the Senate Intelligence Committee, during a videoconference hosted by the Aspen Institute on Thursday.</p><p>\"The number of brand, brand-name players that are involved in this, what we call SolarWinds intrusion right now, that have not come forward would surprise the hell out of many of the people watching this,\" he said.</p><p>SolarWinds, which has been criticized for not being fully transparent about its breach, on Thursday said it was making changes to improve its product security. The company also has hired two well-respected security consultants: Alex Stamos, formerly chief security officer at Facebook Inc., and Chris Krebs, formerly the Department of Homeland Security's top cybersecurity official who was fired by President Trump in November.</p><p>Mr. Warner accused the White House of watering down a joint statement issued by four federal agencies this week that said the hack was \"likely Russian in origin.\"</p><p>Officials and others familiar with the matter have said evidence of the Russian government's culpability is overwhelming, and a senior official said that view is \"pretty unanimous.\" The White House National Security Council didn't respond to a request for comment.</p>",
+  "published": "2021-01-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1943,
+          "end": 1948
+        }
+      ]
+    }
+  ]
+}

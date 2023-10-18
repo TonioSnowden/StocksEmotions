@@ -1,0 +1,42 @@
+{
+  "_id": "8078860655be80fec5cd5edb73b3a7b7f3f03f66560c4a4bd5399f564f20729d",
+  "feed": "market-watch",
+  "title": "These quant funds poured nearly $1 billion into Warren Buffett's Berkshire Hathaway last quarter",
+  "text": "<p>According to Goldman Sachs research, 20 hedge funds disclosed their first stakes in Berkshire in June, and the firm ranked in the top 10 holdings for 22 hedge funds.</p><p>Almost 100 funds in total reported shareholdings in Berkshire, Goldman says.</p><p>The tech-driven investment funds, which work by using mathematical strategy and eyeing up signals in the market, dominated the list. Renaissance Technologies, a well-known quant fund, was the top hedge fund to increase its stake in Berkshire in the second quarter–– it bought up over 1.7 million more shares by the end of June, equating to almost $489 million in value.</p><p>Meanwhile, new entrants included long/short fund Hudson Bay Capital Management, which bought 745,000 shares, and quant fund Qube Research &amp; Technologies, which invested in 541,117 shares.</p><p>The funds bought up mostly Berkshire Hathaway class B stock, which has a lower price, and carries less voting rights, than the A class.</p><p>Shares in Berkshire Hathaway class B stock slid as much as 2% on Friday and closed at $277.67.</p><p>Berkshire Hathaway shares this year have dropped 7%, compared to the 18% decline for the broader S&amp;P 500 SPX.</p><p>These quant funds poured nearly $1 billion into Warren Buffett's Berkshire Hathaway last quarter</p>",
+  "published": "2022-09-05T10:22:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 228,
+          "end": 235
+        },
+        {
+          "start": 13,
+          "end": 26
+        },
+        {
+          "start": 229,
+          "end": 236
+        },
+        {
+          "start": 13,
+          "end": 20
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.9350915,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9350914,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

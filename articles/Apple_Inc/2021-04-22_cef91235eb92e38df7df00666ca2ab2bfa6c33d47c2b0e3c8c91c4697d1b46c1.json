@@ -1,0 +1,20 @@
+{
+  "_id": "cef91235eb92e38df7df00666ca2ab2bfa6c33d47c2b0e3c8c91c4697d1b46c1",
+  "feed": "wall-street-journal",
+  "title": "Business News: Fake Streaming Apps Found to Be Widely Used in Stealing Ad Money",
+  "text": "<p>The researchers described the fraud operation as sophisticated, but said it could be stymied if digital-ad players strictly followed industry guidelines for tracking the origins of traffic and implemented certain security features. Human Security didn't provide an estimate for how much money the swindlers collected.</p><p>Roku said the scheme didn't affect advertisers who bought ads from Roku directly. \"Roku is committed to fighting ad fraud in every form and to the development of leading practices for staying ahead of fraud globally,\" said Willard Simmons, vice president of product management at Roku.</p><p>A Google spokesman said the company has sophisticated defenses to protect its ad systems against fraud and issues credits or refunds when necessary. Representatives for Amazon and Apple declined to comment.</p><p>The connected-TV industry has been growing quickly and will command $13.4 billion in ad spending in 2021, according to research firm eMarketer. The sector's high prices -- ad space often goes for around $25 per thousand impressions, compared with a few dollars for static display ads -- make it an attractive target for fraud.</p><p>\"Measurement and security companies will just play whack-a-mole, as long as the industry hasn't upgraded to better defenses,\" said Michael McNally, Human Security's chief scientist.</p><p>Most online ad buying happens through exchanges. Buyers bid for available inventory, generally targeting certain audiences, and are matched with sellers by middlemen. Ad space in the connected-TV industry is often bought this way.</p><p>The researchers identified the company behind the apps that facilitated the fraud as TopTop Media, a subsidiary of Tel Aviv-based M51 Group. Neither TopTop Media nor M51 executives responded to requests for comment.</p><p>In the alleged scam, users downloaded what looked like legitimate apps on Android devices and were unaware the apps contained code to perpetrate ad fraud, Human Security said. TopTop Media created 29 such apps, according to Human Security. Google said it removed the apps after being notified of the alleged scheme. The TopTop apps sent signals to ad exchanges pretending to be some 6,000 apps on streaming-TV systems. The swindlers duped the advertisers, who believed they were buying space on real apps, the researchers said.</p>",
+  "published": "2021-04-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 784,
+          "end": 789
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

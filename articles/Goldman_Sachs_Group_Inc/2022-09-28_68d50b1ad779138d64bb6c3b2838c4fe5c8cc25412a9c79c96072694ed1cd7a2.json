@@ -1,0 +1,28 @@
+{
+  "_id": "68d50b1ad779138d64bb6c3b2838c4fe5c8cc25412a9c79c96072694ed1cd7a2",
+  "feed": "wall-street-journal",
+  "title": "Banks Fined In Probe Of Messages",
+  "text": "<p>The fines, which many of the banks had already disclosed to shareholders, underscore the market regulators' stern approach to civil enforcement. Fines of $200 million, which many of the banks will pay under the agreements, have typically been seen only in fraud cases or investigations that alleged harm to investors.</p><p>But the SEC, in particular, has during the Biden administration pushed for fines that are higher than precedents, saying it wants to levy fines that punish wrongdoing and effectively deter future potential harm.</p><p>The SEC's focus on record-keeping is likely to be extended next to money managers, who also have a duty to maintain written communications related to investment advice.</p><p>Last month, the SEC alleged that hedge-fund manager Deccan Value Investors LP and its chief investment officer failed to maintain messages sent over Apple iMessage and WhatsApp. In some cases, the chief investment officer directed an officer of the company to delete their text messages, the SEC said. The claims were included in a broader enforcement action, which Deccan settled without admitting or denying wrongdoing.</p><p>Eight of the largest entities, including Goldman Sachs and Morgan Stanley, agreed to pay $125 million to the SEC and at least $75 million to the CFTC. Jefferies will pay a total of $80 million to the two market regulators, and Nomura agreed to pay $100 million. Cantor agreed to pay $16 million.</p><p>The SEC said it found \"pervasive off-channel communications.\" In some cases, supervisors at the banks were aware of and even encouraged employees to use unauthorized messaging apps instead of communicating over company email or other approved platforms.</p>",
+  "published": "2022-09-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1162,
+          "end": 1175
+        },
+        {
+          "start": 1162,
+          "end": 1169
+        },
+        {
+          "start": 1155,
+          "end": 1168
+        }
+      ]
+    }
+  ]
+}

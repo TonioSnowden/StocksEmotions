@@ -1,0 +1,28 @@
+{
+  "_id": "9ad181edf90569ae8ae8ff14507d5b2fb82c435e3ae61b87e9fda5290d24b53e",
+  "feed": "wall-street-journal",
+  "title": "Company Data Hoards Create Tempting Targets for Hackers; The effects of data breaches are being widened by the amount of data companies gather on consumers",
+  "text": "<p>Damage from these events can be minimized in part by limiting what hackers can steal in the first place, cybersecurity experts say.</p><p>Companies often err on the side of gathering information that might be useful in the future, even if it doesn't have an immediate purpose, such as for marketing or customer service, said Oliver Tavakoli, chief technology officer of cybersecurity company Vectra AI Inc.</p><p>\"It is clear that many companies—and U.S. companies in particular—are retaining far too much data related to prospects, former customers and customers,\" he said.</p><p>The European Union 's General Data Protection Regulation and China's new Personal Information Protection Law  govern what information companies can retain and how it can be used, and prescribe penalties for noncompliance. Yet even the strictest privacy law in the U.S., the California Consumer Privacy Act, doesn't require companies to limit the amount of information they gather on consumers.</p><p>Most state laws that recommend curbs on what can be warehoused tend to frame them as best-practice guidelines rather than mandates, said Amy Keller, leader of the cybersecurity and technology law group at DiCello Levitt Gutzler.</p><p>\"Generally speaking, it's still the Wild West in the U.S. for the types of information that companies can keep on us,\" said Ms. Keller, who has served as co-lead counsel on class-action lawsuits over data breaches involving Equifax Inc ., Marriott International Inc . and Blackbaud Inc .</p><p>The California Privacy Rights Act, which will supplant the CCPA in 2023, does mandate data minimization to what is necessary to perform a specific task. However, the most valuable data for hackers is often the most useful to companies, which might use sensitive information such as birth dates, addresses and biographical data to inform product launches or store openings, or tailor services to specific demographics.</p><p>Federal regulation could better protect consumers, said Ms. Keller, and several bills have been proposed in both the House and Senate, without much movement . A federal law should set baseline standards for what data should be gathered and fines for data breaches, she said.</p><p>\"I refuse to accept a future in which companies say that they're sorry, and their failure to engage in data minimization is just a fact of life,\" she said.</p><p>Tom Kelly, president and chief executive officer of data-breach response company Identity Theft Guard Solutions Inc., known as IDX, advocates data warning labels. Just as tobacco manufacturers were forced to print warnings on cigarette packets about the health risks of smoking, Mr. Kelly said, companies should also clarify what information they collect and how it could be used to harm consumers.</p><p>\"There's not one shred of evidence that companies are doing anything to regulate themselves. So I believe at the very least, we're going to need legislation that requires greater transparency,\" he said.</p><p>Write to James Rundle at james.rundle@wsj.com </p><p>Leaks and Breaches</p><p>Some of the largest data missteps and hacks in recent years</p><p>* CAM4: A misconfigured server exposed 10.88 billion user records for adult website CAM4 in May 2020. The company said no information was accessed by outside parties.</p><p>* First American Financial Corp .: A title insurance unit of First American Financial Corp . accidentally exposed about 885 million sensitive records in 2019. It became the first business to be charged by the New York State Department of Financial Services under cybersecurity regulations.</p><p>* Marriott International Inc .: A compromise of Marriott's Starwood business unit resulted in a data breach affecting up to 339 million people, which the company disclosed in 2018. Stolen data included passport numbers, travel plans and payment information, the company said.</p><p>* Equifax Inc .: Credit bureau Equifax was the victim of a 2017 data breach that exposed information on about 148 million people. The company later entered into a $700 million settlement with state attorneys general and consumers.</p><p>* Yahoo Inc .: In 2017, Verizon Communications Inc . said that a 2013 hack of Yahoo , which it acquired that year, was worse than previously thought. Three billion accounts were affected by the breach, Verizon said, rather than the 1 billion figure Yahoo had estimated the previous year.</p>",
+  "published": "2021-08-23T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 4215,
+          "end": 4222
+        },
+        {
+          "start": 4037,
+          "end": 4059
+        },
+        {
+          "start": 4037,
+          "end": 4063
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "ba238f4f359f433bf512b8242e8d851595cf3a3839a43761df6bed5c495b228e",
+  "feed": "reuters",
+  "title": "Western airplane maintenance providers rush to sign Chinese contracts",
+  "text": "<p>* Services deals give manufacturers a foothold for decades</p><p>By Stella Qiu and David Kirton</p><p>ZHUHAI, Sept 30 (Reuters) - Western aircraft maintenance, repair and overhaul providers (MROs) signed a flurry of new contracts with Chinese customers and joint-venture partners at the country's biggest air show this week to strengthen their foothold in the lucrative market.</p><p>The quick rebound in traffic in China's domestic aviation market to pre-COVID levels, coupled with large declines in other parts of the world, has made China even more important to providers trying to minimise pandemic-driven revenue hits.</p><p>\"China is key to the future of aerospace because the centre of gravity of passenger traffic is moving east,\" Kailash Krishnaswamy, general manager at Spirit AeroSystems China, said on the sidelines of Airshow China in Zhuhai after signing a 10-year repair contract with cargo carrier SF Airlines . Spirit was attending the show for the first time.</p><p>Consulting firm Oliver Wyman estimates China's MRO market will be 8% larger this year than in 2019, making it one of two regions to surpass pre-pandemic levels, alongside eastern Europe. By 2031, it forecasts the MRO market in China will more than double its pre-COVID size to nearly $20 billion annually.</p><p>Honeywell International is a major supplier to Commercial Aircraft Corp of China 's (COMAC) C919 narrowbody programme and is bidding for work on the Sino-Russian CR929 widebody, said its China president, Steve Lien.</p><p>Such deals give it a foothold for the future when maintenance is needed. Honeywell this week signed a provisional agreement to provide MRO services for its C919 auxiliary power units with the plane's first customer, China Eastern Airlines , and said it expected to sign up other carriers as COMAC ramps up production.</p><p>Like Spirit, it also sees strong prospects in the cargo market, which has been growing rapidly with the rise of e-commerce and typically uses older planes that require more maintenance than the latest generation of jets.</p><p>\"The forecast forward for cargo is very strong,\" Lien said. \"China's cargo capacity is not as mature globally as in the U.S. and Europe. But it is in the national interest to make it mature.\"</p><p>Boeing Co and Guangzhou Aircraft Maintenance Engineering Co Ltd (GAMECO) signed a deal at the show to set up two 767 freighter conversion lines next year.</p><p>Chinese airlines will need 8,700 new airplanes through 2040 worth $1.47 trillion at list prices, Boeing said in a forecast last week.</p><p>At a time when China is focused increasingly on production of homegrown planes, Boeing China President Sherry Carbary said her company's strength in services was key to giving it a market foothold over the longer term.</p><p>\"It is the services that actually support that airplane over its life, over the next 20, 30, 40 years,\" Carbary said. \"So it is not a one-time sale. It is a lifetime relationship that is very important to us.\"</p>",
+  "published": "2021-09-30T00:58:16.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 2459,
+          "end": 2465
+        },
+        {
+          "start": 2207,
+          "end": 2216
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

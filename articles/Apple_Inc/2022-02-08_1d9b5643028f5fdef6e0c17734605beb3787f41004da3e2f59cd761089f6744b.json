@@ -1,0 +1,88 @@
+{
+  "_id": "1d9b5643028f5fdef6e0c17734605beb3787f41004da3e2f59cd761089f6744b",
+  "feed": "market-watch",
+  "title": "Apple will let merchants accept in-person payments with only an iPhone",
+  "text": "<p>The company announced Tuesday a new feature through which merchants will be able to use their phones as payment-acceptance devices without tacking on additional hardware. The feature will be compatible with various contactless payment methods including Apple Pay, tap-enabled credit and debit cards, and “other digital wallets,” according to a press release.</p><p>Privately held Stripe will be the first to partner with Apple AAPL on the program. It will roll out the Tap to Pay on iPhone offering to its merchant customers, “including the Shopify Point of Sale app,” during the spring, per the release. Apple plans to add other platforms and apps as the year goes on.</p><p>To use the feature, consumers can hold their iPhone near a participating merchant's iPhone, which enables the devices to transact through near-field communication (NFC) technology. The technology will also work with contactless credit or debit cards.</p><p>The consumer-electronics giant has already waded into payments with its Apple Pay mobile wallet that allows people to make purchases online and at contactless terminals that accept the payment type. It also offers Apple Cash, which lets users send money to friends.</p><p>It's become increasingly easy for merchants to accept card-based payments thanks to hardware from Block Inc.'s SQ Square and others that smaller merchants can plug into their existing phones or tablets or use on a standalone basis. Apple's new offering will make it so merchants can take payments without getting extra hardware, but at least one analyst doubted it would shake up the established ecosystem.</p><p>Barclays analyst Ramsey El-Assal wrote Tuesday that Apple's offering seems “additive rather than competitive” since the company mentioned that it planned to work with existing payment platforms.</p><p>“This should put to rest investor fears that [Apple]&#xa0;will roll out a competing payments solution,” he wrote.</p><p>Block shares are off about 1.1% in Tuesday's session, while Apple's are ahead 1.5%.</p><p>As for Square-parent Block, El-Assal also wasn't concerned about the fact that Apple's release specifically called out Stripe and Shopify Inc. SHOP</p><p>“Separately, while today's press release names a handful of Square competitors who will be first adopters of AAPL's product, we note these companies already have in-market hardware, and we do not expect the inclusion of [Apple's] Tap to Pay (which, to be clear, we think Square could also enable) will have a&#xa0;material impact on current competitive dynamics.&#xa0;</p><p>See more: Threat to Square from a potential Apple iPhone payments capacity is ‘overblown,' analysts say</p><p>Apple's stock has run up 15.8% over the past three months, while Block shares have tumbled 57.0% and the Dow Jones Industrial Average DJIA has eased 2.9%.</p>",
+  "published": "2022-02-08T12:21:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 415,
+          "end": 420
+        },
+        {
+          "start": 599,
+          "end": 604
+        },
+        {
+          "start": 1952,
+          "end": 1957
+        },
+        {
+          "start": 2055,
+          "end": 2060
+        },
+        {
+          "start": 2527,
+          "end": 2532
+        },
+        {
+          "start": 2587,
+          "end": 2592
+        },
+        {
+          "start": 987,
+          "end": 996
+        },
+        {
+          "start": 421,
+          "end": 425
+        },
+        {
+          "start": 1640,
+          "end": 1645
+        },
+        {
+          "start": 2233,
+          "end": 2237
+        },
+        {
+          "start": 1828,
+          "end": 1834
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1413,
+          "end": 1418
+        },
+        {
+          "start": 2344,
+          "end": 2350
+        },
+        {
+          "start": 1129,
+          "end": 1134
+        },
+        {
+          "start": 987,
+          "end": 992
+        },
+        {
+          "start": 253,
+          "end": 258
+        },
+        {
+          "start": 253,
+          "end": 262
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

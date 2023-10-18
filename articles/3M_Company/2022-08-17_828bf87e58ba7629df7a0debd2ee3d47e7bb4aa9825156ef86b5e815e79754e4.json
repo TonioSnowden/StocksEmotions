@@ -1,0 +1,106 @@
+{
+  "_id": "828bf87e58ba7629df7a0debd2ee3d47e7bb4aa9825156ef86b5e815e79754e4",
+  "feed": "wall-street-journal",
+  "title": "3M Share Buybacks Questioned in Earplug Bankruptcy Testimony; The pace of buyback and dividend payments sped up this year, which could affect 3M's ability to fund the earplug unit's bankruptcy, a witness said",
+  "text": "<p>Aearo filed for bankruptcy last month, saying it needed chapter 11 protections to resolve the 230,000 pending lawsuits against it and 3M, which allege the military earplugs were defective. 3M and Aearo Technologies have said the earplugs were effective and safe when they were used properly.</p><p>3M is now vying in bankruptcy court to receive the same protection against ongoing litigation that Aearo got automatically when it filed for chapter 11. Plaintiffs' lawyers have opposed extending bankruptcy protections to 3M, saying it shouldn't be allowed to move the earplug litigation into bankruptcy court, a more favorable forum for the company.</p><p>3M itself didn't file for bankruptcy protection.</p><p>Mr. Heaton took the stand as a witness called by mass tort law firm Keller Postman LLC and said he analyzed the potential impact of 3M's share repurchase programs on Aearo's chapter 11 proceeding.</p><p>In addition to $240 million to fund the administrative cost for bankruptcy, 3M has agreed to contribute at least $1 billion toward settling the earplug litigation.</p><p>3M has been actively repurchasing its stock in recent years, planning to spend up to $10 billion based on its buyback plan updated in 2018, according a filing with financial regulators. The pace of repurchasing, along with dividend payments, has sped up this year, Mr. Heaton said.</p><p>\"They've actually paid out more in dividends and net share repurchases than they generated in free cash flow,\" he said. \"So they've actually drawn their cash and marketable securities balances down from where they were at year-end.\"</p><p>A 3M spokesperson said the company disagrees with Keller Postman's assertion that 3M's repurchasing program could affect its ability to fund the bankruptcy case. He said 3M's commitment of $1 billion is uncapped if it is determined more money is necessary to equitably and efficiently resolve the claims.</p><p>Keller Postman lawyer Ashley Keller said if 3M were to benefit from the litigation shield based on Aearo's chapter 11, the bankruptcy court should prevent 3M from paying dividends, buying back stock or spinning off tens of billions of dollars in assets to shareholders, to ensure 3M can honor its obligations under the funding agreement.</p><p>While the hearing was occurring in the U.S. Bankruptcy Court in Indianapolis, Judge M. Casey Rodgers of the U.S. District Court in Pensacola, Fla., who has overseen most of the earplug lawsuits, declined for a second time to stop 3M from seeking protection from earplug lawsuits.</p><p>She said Tuesday she wouldn't intervene because the bankruptcy court overseeing Aearo's case can determine whether 3M is lawfully using the unit's chapter 11 for a proper restructuring purpose. The ruling follows a similar one made Sunday in response to a different plaintiff's motion.</p><p>Even so, she continued her criticism of the company, which she said was \"dismantling\" the earplug litigation because it disagreed with court rulings and jury verdicts against it. The judge also barred 3M from relitigating any issues that had already been decided.</p><p>3M believes Judge Rodgers' ruling won't affect the Aearo proceedings in Indianapolis, a company lawyer said in bankruptcy court.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com</p>",
+  "published": "2022-08-17T01:16:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 2
+        },
+        {
+          "start": 134,
+          "end": 136
+        },
+        {
+          "start": 142,
+          "end": 144
+        },
+        {
+          "start": 188,
+          "end": 190
+        },
+        {
+          "start": 290,
+          "end": 292
+        },
+        {
+          "start": 511,
+          "end": 513
+        },
+        {
+          "start": 639,
+          "end": 641
+        },
+        {
+          "start": 819,
+          "end": 821
+        },
+        {
+          "start": 959,
+          "end": 961
+        },
+        {
+          "start": 1046,
+          "end": 1048
+        },
+        {
+          "start": 1559,
+          "end": 1561
+        },
+        {
+          "start": 1639,
+          "end": 1641
+        },
+        {
+          "start": 1726,
+          "end": 1728
+        },
+        {
+          "start": 1904,
+          "end": 1906
+        },
+        {
+          "start": 2015,
+          "end": 2017
+        },
+        {
+          "start": 2140,
+          "end": 2142
+        },
+        {
+          "start": 2427,
+          "end": 2429
+        },
+        {
+          "start": 2591,
+          "end": 2593
+        },
+        {
+          "start": 2960,
+          "end": 2962
+        },
+        {
+          "start": 3022,
+          "end": 3024
+        }
+      ],
+      "weightsV2": {
+        "weight": 25.0,
+        "baseWeight": 20.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

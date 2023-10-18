@@ -1,0 +1,28 @@
+{
+  "_id": "24f566a8af376a64e5bdfe5bfa72f424f2a7c32754834cd937fd13de3444745b",
+  "feed": "wall-street-journal",
+  "title": "Google Invests $1 Billion in Exchange Giant CME, Strikes Cloud Deal; Tie-up gives Google's cloud arm a prize client in financial services",
+  "text": "<p>The companies said Thursday that their 10-year partnership would allow CME to bring on new users faster, streamline operations and develop new tools with Google technology, such as artificial-intelligence software for monitoring market risks.</p><p>In cloud computing, companies outsource computer processing and data storage to technology firms, rather than trying to run such systems themselves.</p><p>Cloud providers such as Amazon.com Inc., Google and Microsoft Corp. have been jockeying for position in the financial-services sector, which has been slower to adopt cloud computing than other industries. The reluctance stems in part from the tight regulatory oversight of banks and exchanges, as well as concerns over breaches of sensitive client data.</p><p>The CME deal gives Google Cloud a prize client in the sector. With a market capitalization of $79.2 billion, CME is the world's most valuable exchange operator, a title it recently reclaimed from Hong Kong Exchanges &amp; Clearing Ltd. The Chicago-based company runs an array of markets, from crude oil to gold to stock-market futures.</p><p>Google Cloud is the fourth-largest cloud provider, taking 6.1% of global cloud-infrastructure revenues last year, according to research firm Gartner Inc. The biggest player is Amazon, whose market share last year was more than 40%, followed by Microsoft and Alibaba Group Holding Ltd., Gartner data shows.</p><p>Alongside the cloud deal, Google made a $1 billion equity investment in nonvoting convertible preferred CME Group stock, the companies said. The transaction is the largest investment Google has ever made in the financial-services industry.</p><p>In an interview, Google Cloud Chief Executive Thomas Kurian called the investment \"a reflection of our commitment to the transformation of the financial system, not just to one company's infrastructure.\"</p><p>Moving CME's trading systems to the cloud will pose technical challenges beyond those of a typical corporate cloud project.</p><p>Exchanges like CME handle a vast number of price quotes and trades, many submitted by high-speed trading firms accustomed to having the exchanges' systems process orders in millionths of a second. And if an exchange goes down, it isn't just an inconvenience, but can have ripple effects throughout the financial markets.</p><p>Despite such difficulties, exchanges have begun to dip their toes into cloud technology. Nasdaq Inc. said last year that it planned to move its markets to the cloud over the next decade. The New York-based company hasn't yet said which tech provider it will use.</p><p>Amazon has also been eyeing the exchange business. The tech giant's cloud-computing arm, Amazon Web Services, completed a pilot project last year with Singapore Exchange Ltd. and European market operator Aquis Exchange PLC to prove it was possible to run an exchange capable of handling ultrafast, high-volume trading on AWS technology.</p><p>CME will begin moving its technology infrastructure to Google Cloud next year, the companies said. Initially, the companies plan to focus on CME's data and clearing services, which aren't as sensitive to speed as the core trading systems. Clearing is the behind-the-scenes process of settling transactions and moving money between market participants after trades. Eventually, the plan calls for moving all of CME's markets onto the cloud.</p><p>\"I wanted to be under a technology umbrella that has the bandwidth to allow me to grow my business,\" CME Chairman and Chief Executive Terrence Duffy said in an interview. \"I'm good at transactional businesses, myself and my team. Google is really good at technology. I think it's a marriage made in heaven.\"</p><p>Write to Alexander Osipovich at alexander.osipovich@dowjones.com</p><p>Google Invests $1 Billion in Exchange Giant CME, Strikes Cloud Deal</p>",
+  "published": "2021-11-04T17:48:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 444,
+          "end": 459
+        },
+        {
+          "start": 1322,
+          "end": 1331
+        },
+        {
+          "start": 444,
+          "end": 453
+        }
+      ]
+    }
+  ]
+}

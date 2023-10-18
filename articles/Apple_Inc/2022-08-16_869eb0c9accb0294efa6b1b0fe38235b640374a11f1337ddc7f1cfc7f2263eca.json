@@ -1,0 +1,38 @@
+{
+  "_id": "869eb0c9accb0294efa6b1b0fe38235b640374a11f1337ddc7f1cfc7f2263eca",
+  "feed": "wall-street-journal",
+  "title": "Signal, a Favorite App for Privacy Buffs, Says a Phishing Attack Compromised 1,900 Users; The encrypted messaging app said an attacker had accessed either users' phone numbers or registration codes through verification service Twilio",
+  "text": "<p>Signal said the attacker, whom it didn't identify, didn't access its users messages, contact lists or profile information. Still, the attacker saw either the users' phone numbers or the registration codes that some users received over text when they first signed up for Signal.</p><p>While the attacker no longer has access to that information, Signal said, they had already searched for three phone numbers connected to the attack and had re-registered at least one account.</p><p>Signal said that by Tuesday, it planned to have texted all 1,900 compromised users about registering their accounts again. It recommended that all users choose a personal identification number to lock their accounts.</p><p>Signal didn't immediately respond to a question Tuesday about when the hack occurred. Twilio, a San Francisco-based company, didn't immediately return a request for comment.</p><p>Twilio said on its website last week that it had learned earlier this month that attackers had texted some of its employees a link that tricked them into providing their credentials. The company, which builds communication software, said it hadn't identified the attackers but that it was working with a forensics firm to investigate what had happened. Twilio didn't say if this attack was linked to the one that compromised some Signal users' data.</p><p>Signal has been a go-to messaging app for users concerned about surveillance since the company Open Whisper Systems launched the app in 2014. Messages and calls are encrypted on both ends so that not even the company can access them, according to Signal's website. The app was installed more than 32 million times by June 2020, according to data analytics firm Sensor Tower.</p><p>The service is popular with privacy buffs who can set their messages to automatically disappear or who hope to keep their communication hidden from potential hackers. The Signal app can be downloaded on smartphones and desktop computers.</p><p>Signal has said its user data is so encrypted that when federal prosecutors subpoenaed Signal in 2016, it only had two user data points to share: the date a user created an account and the date of last use.</p><p>Other messaging services like WhatsApp, which is owned by Meta Platforms Inc., and Apple Inc.'s iMessage also offer end-to-end encryption. But Meta and Apple can still see more of their users' data than Signal can.</p><p>Write to Alyssa Lukpat at alyssa.lukpat@wsj.com</p><p>Signal, a Favorite App for Privacy Buffs, Says a Phishing Attack Compromised 1,900 Users</p>",
+  "published": "2022-08-16T15:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2198,
+          "end": 2208
+        },
+        {
+          "start": 2266,
+          "end": 2271
+        },
+        {
+          "start": 2283,
+          "end": 2288
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

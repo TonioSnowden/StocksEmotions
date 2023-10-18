@@ -1,0 +1,34 @@
+{
+  "_id": "942d7b6ed19be0f0cd0c93fe6944b8f99e22e6a8103dddc9afd56857d411ad17",
+  "feed": "wall-street-journal",
+  "title": "Pfizer Reaches $5.4 Billion Deal for Global Blood Therapeutics; New York drugmaker would pay $68.50 a share for GBT, which sells a drug for sickle-cell disease and has two in development",
+  "text": "<p>Pfizer Inc. has agreed to buy Global Blood Therapeutics Inc. for $5.4 billion, according to people familiar with the matter, in a deal that would give the big drugmaker a foothold in the treatment of sickle-cell disease.</p><p>Pfizer would pay $68.50 a share in cash for Global Blood Therapeutics, which has one of the few approved treatments for sickle-cell disease, the people said. The companies are expected to announce the deal Monday morning. The Wall Street Journal reported Friday that they were in advanced talks.</p><p>The acquisition continues a string of deals for Pfizer, which is flush with cash from sales of its Covid-19 vaccine and drug. It has said it wants to add $25 billion in revenue from business-development moves like mergers and acquisitions by 2030.</p><p>Adding Global Blood Therapeutics would bolster Pfizer's rare-diseases business and help it realize a longtime goal of selling drugs to treat sickle cell, an inherited blood disorder that affects about 100,000 people in the U.S. and 20 million worldwide, including many who are Black.</p><p>In patients with the disease, red blood cells look like crescents or sickles, rather than a normal disc shape. Due to their shape, the cells don't move easily and can block blood flow, damage organs and lead to strokes.</p><p>Researchers have been trying to develop effective treatments, including gene therapies, but the disease has proven hard to treat. A handful of drugs are approved, but most target the complications of sickle-cell disease, rather than its underlying cause. A bone-marrow transplant is the only cure.</p><p>New York-based Pfizer had tried to develop its own sickle-cell drug, but it failed.</p><p>In 2019, Global Blood Therapeutics won approval in the U.S. for a sickle-cell drug named Oxbryta. It has two other sickle-cell drugs in development.</p><p>Oxbryta produced $195 million in net sales last year for Global Blood Therapeutics, which is based in South San Francisco.</p><p>If each of the three Global Blood Therapeutics drugs is approved, the franchise has multibillion-dollar sales potential, especially if Pfizer can fold them into its global commercial network and market them worldwide, according to analysts.</p><p>The drugs could eventually face competition from gene therapies, however. Swiss drugmaker Novartis AG sells Adakveo, a treatment for pain crises in sickle-cell patients 16 years of age and older.</p><p>Pfizer's purchase, together with a recent agreement by Amgen Inc. to buy ChemoCentryx Inc., could help turn Wall Street sentiment on biotech shares. The former highfliers have slumped in recent months due to market turmoil, scientific setbacks and fear of antitrust scrutiny of combinations.</p><p>Write to Jonathan D. Rockoff at Jonathan.Rockoff@wsj.com</p><p>Pfizer Reaches $5.4 Billion Deal for Global Blood Therapeutics</p>",
+  "published": "2022-08-08T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2415,
+          "end": 2425
+        },
+        {
+          "start": 2396,
+          "end": 2406
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

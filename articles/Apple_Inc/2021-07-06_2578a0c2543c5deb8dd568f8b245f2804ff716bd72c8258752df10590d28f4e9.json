@@ -1,0 +1,64 @@
+{
+  "_id": "2578a0c2543c5deb8dd568f8b245f2804ff716bd72c8258752df10590d28f4e9",
+  "feed": "wall-street-journal",
+  "title": "Apple's  Tracking  Drives Off  Advertisers  ----  By Patience Haggin",
+  "text": "<p>   Advertisers have begun shifting their spending patterns in the months since Apple Inc. began requiring apps to gain iPhone and iPad users' permission to track them. </p><p>   After the tracking change took effect in April, many users of Apple's iOS operating system have received a high volume of prompts from apps asking permission to track them -- requests that most have declined. Less than 33% of iOS users opt in to tracking, according to ad-measurement firm Branch Metrics Inc. </p><p>   As a result, the prices for mobile ads directed at iOS users have fallen, while ad prices have risen for advertisers seeking to target Android users. Those shifts come after many in the digital-ad industry warned that Apple's changes, which the tech giant framed as part of a broader user-privacy crackdown, would limit advertisers' access to data about consumers and hurt their business. </p><p>   Digital advertisers say they have lost much of the granular data that made mobile ads on iOS devices effective and justified their prices. In recent months, ad buyers have deployed their iOS ad spending in much less targeted ways than were previously possible, marketers and ad-tech companies say. The shortage of user data to fuel Facebook Inc.'s suite of powerful ad-targeting tools reduces their effectiveness and appeal among some advertisers, ad agencies say. </p><p>   Apple, for its part, sells ads only in a handful of its own apps and doesn't take a cut of ad revenue in third-party iOS apps. While advertisers have shifted their spending habits across the ad products of Apple's large rivals Facebook and Google -- which depend much more heavily on ad revenue -- it isn't clear yet how the change has affected overall spending across the digital-ad giants. </p><p>   The effects of Apple's change were slow to appear in marketers' data after the company mandated compliance with its new tracking rules in April. The delay was in part because users wouldn't see the prompts until they upgraded their devices to a recent version of Apple's operating system. As of June 22, more than 70% of iOS devices had been upgraded to a version that requires the tracking prompt, according to Branch Metrics, allowing advertisers to begin assessing the impact. </p><p>   As more of that information has emerged, advertisers have adjusted their buying strategies. Spending on iOS mobile advertising fell by about one-third between June 1 and July 1, according to ad-measurement firm Tenjin Inc. Android spending rose 10% over the same period, Tenjin said. </p><p>   An Apple spokesman declined to comment. </p><p>   Digital-ad agency Tinuiti Inc. has seen a similar pattern in its clients' spending, research director Andy Taylor said. When iOS users opted out of tracking, Tinuiti advertisers couldn't bid on them, he said. </p><p>   That dearth of iOS users drove up demand -- and ad prices -- for Android users. About 72.8% of smartphones world-wide use the Android operating system, and about 26.4% use iOS, according to Statcounter. </p><p>   Tinuiti's Facebook clients went from year-over-year spending growth of 46% for Android users in May to 64% in June. The clients' iOS spending saw a corresponding slowdown, from 42% growth in May to 25% in June. Android ad prices are now about 30% higher than ad prices for iOS users, Mr. Taylor said. Tinuiti clients' overall spending on Facebook increased -- Android users gained a greater share of it, Mr. Taylor said. </p><p>   When iOS users opt out of tracking, it restricts the flow of data Facebook gets from apps to build user profiles. Those profiles allow Facebook's advertisers to target their ads efficiently, both for ads in Facebook's own apps and in third-party apps. </p><p>   Tinuiti said it saw an even steeper slide in spending for Facebook's Audience Network tool, which lets advertisers buy ads in non-Facebook apps using Facebook user data, where Tinuiti clients spend about 1% of their Facebook budgets. </p><p>   Tinuiti advertisers were allocating about 50% of their Audience Network spending to iOS users at the start of April. By the end of June, they were spending about 20% on iOS users, Mr. Taylor said. </p><p>   Advertisers have typically spent more per iOS user, seeing them as bigger spenders than Android users. </p><p>   Facebook has been among the most vocal critics of Apple's new tracker-blocking and warned in August 2020 that the change could lead it to shut down Audience Network. Facebook doesn't disclose the size of the Audience Network business within its nearly $70 billion digital-ad empire. Ad-tech consulting firm Jounce Media has estimated that Audience Network would bring in $3.4 billion in 2021. </p><p>   \"Third-party data tends to be unreliable and not representative of our business,\" a Facebook spokesman said. \"While we expect iOS 14.5 to be a headwind for the remainder of the year, the impact on our business will be manageable. What's most concerning is the impact to the smaller developers and businesses who rely on personalized advertising.\" </p><p></p>",
+  "published": "2021-07-06T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 227,
+          "end": 232
+        },
+        {
+          "start": 76,
+          "end": 86
+        },
+        {
+          "start": 1735,
+          "end": 1740
+        },
+        {
+          "start": 4193,
+          "end": 4198
+        },
+        {
+          "start": 1534,
+          "end": 1539
+        },
+        {
+          "start": 1328,
+          "end": 1333
+        },
+        {
+          "start": 2487,
+          "end": 2492
+        },
+        {
+          "start": 692,
+          "end": 697
+        },
+        {
+          "start": 1983,
+          "end": 1988
+        },
+        {
+          "start": 76,
+          "end": 85
+        },
+        {
+          "start": 76,
+          "end": 81
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

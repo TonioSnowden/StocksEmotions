@@ -1,0 +1,24 @@
+{
+  "_id": "3a7742406b53addb5bb8222222a0f1eb5725af6f67aab537cdc5aae1c0c3c28a",
+  "feed": "wall-street-journal",
+  "title": "Private Sector Urged to Review New Government Cyber Directive; Addressing a government-issued list of known vulnerabilities should be a high priority for companies, cyber specialists say",
+  "text": "<p>CISA directed federal agencies such as the Justice Department, Commerce Department and Department of Homeland Security to review the list and take immediate steps to fix them. The order doesn't cover the Defense Department, Office of the Director of National Intelligence or the Central Intelligence Agency.</p><p>Jen Easterly, CISA director, said the mandate \"fundamentally changes\" how the federal government manages cybersecurity flaws, adding that it shouldn't just be government organizations that get on board.</p><p>\"We strongly recommend every network defender view the known vulnerabilities posted at CISA.gov, and prioritize urgent remediation,\" Ms. Easterly said at a House Homeland Security Committee hearing Wednesday.</p><p>Officials are keen for the private sector to pay attention to the mandate to avoid supply-chain attacks that can affect the government, such as the hack of SolarWinds Corp. software in 2020 that led to the breach of several agencies. Over three-quarters of U.S. critical infrastructure is operated by private companies, leaving the government with little visibility into how essential businesses such as pipeline operators and logistics companies maintain their cyber defenses.</p><p>CISA's directive also applies to systems run by third parties on a federal agency's behalf.</p><p>CISA's order covers about 290 vulnerabilities exploited by hackers since 2017, including in popular tools from Microsoft Corp., Kaseya Ltd. and Accellion USA LLC. Hacks of those vendors' software this year hit numerous victims across the public and private sectors.</p><p>CISA is requiring government agencies to fix the worst flaws on the list within two weeks. Less serious fixes must be done within six months. Businesses should use the list to pick out the most serious problems from the barrage of vulnerability alerts they receive, said Alex Iftimie, a former Justice Department official who is now co-chair of law firm Morrison &amp; Foerster's global risk and crisis management group.</p><p>\"Companies should be patching these vulnerabilities as quickly as possible,\" he said.</p><p>Updating older computer systems or legacy software products managed within physical offices can prove especially challenging, said Allie Mellen, a cybersecurity analyst at Forrester Research Inc.</p><p>\"The older the software gets, the more updates it needs to have to get to the latest, greatest version,\" Ms. Mellen said. \"So it will take longer, inevitably, with some of these legacy code bases.\"</p><p>A 2021 report by the Government Accountability Office found that federal agencies' legacy computer systems \"are becoming increasingly obsolete,\" with some components or programming languages that are decades old. They include a 35-year-old Transportation Department system that holds sensitive aircraft information, as well as a nearly 50-year-old system used by the Education Department to hold student-loan data.</p><p>\"The cost of operating and maintaining legacy systems increases over time,\" the GAO said.</p><p>Organizations that haven't already patched the vulnerabilities highlighted by U.S. officials could be trying to avoid disrupting day-to-day operations, Ms. Mellen said.</p><p>\"Any time they're updating a system, that [requires] taking it offline for some amount of time,\" she said. \"They need to find the right time.\"</p><p>An organization's ability to meet CISA's deadlines will depend on the number of patches to implement, and the staff available to deploy them, said Scott Algeier, executive director of the nonprofit Information Technology-Information Sharing and Analysis Center.</p><p>Updating software can be complex, particularly in large companies using a range of technologies. Giving priority to patches can therefore be a balancing act, he said. \"You don't want to patch one thing if it will break another.\"</p><p>Catherine Stupp contributed to this article.</p><p>Write to James Rundle at james.rundle@wsj.com and David Uberti at david.uberti@wsj.com</p>",
+  "published": "2021-11-03T21:15:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1401,
+          "end": 1416
+        },
+        {
+          "start": 1401,
+          "end": 1410
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

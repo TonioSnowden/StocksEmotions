@@ -1,0 +1,28 @@
+{
+  "_id": "8b307c959fa4f39f0c05f317bf0d1dfaead10f2103ec5f2674a4d274809539c3",
+  "feed": "wall-street-journal",
+  "title": "Business News: Salesforce Increases Revenue Forecast",
+  "text": "<p>The company expects the growth to continue the following year. It predicts revenue between $31.65 billion and $31.8 billion for the fiscal year ending January 2023.</p><p>\"Digital transformation was certainly under way before the pandemic began,\" said Salesforce Chief Financial Officer Amy Weaver at the company's investor day on Thursday. \"But what the pandemic did is it compressed years, if not decades, into months as companies suddenly focused all of their energies on digital transformation.\"</p><p>The company's shares Thursday rose 7.2% on the news.</p><p>Salesforce has been one of the biggest beneficiaries of the pandemic, with companies embracing more cloud-based software tools to stay connected with their customers. Its shares are up about 84% since the virus started spreading around the world in March 2020.</p><p>Growth for companies selling cloud services has been gaining speed. When entire industries and governments were sent to remote work, they quickly bought up digital tools they needed to stay productive. The growth has continued even as organizations return to working from offices.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-09-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 547,
+          "end": 557
+        },
+        {
+          "start": 15,
+          "end": 25
+        },
+        {
+          "start": 246,
+          "end": 256
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

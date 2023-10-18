@@ -1,0 +1,20 @@
+{
+  "_id": "9a742d6c126f9efed13e1a6ca67f99f167d0da8b10554f2d8b225b9562b3fc38",
+  "feed": "wall-street-journal",
+  "title": "As Ukraine Prepares for Cyberattacks, Officials Warn of Ransomware in Disguise; Russia, other countries might use software to destroy data, mask government involvement, cyber experts say",
+  "text": "<p>Mr. Zhora says he expects to see another attack. \"This class of malware is rather popular and effective to attack infrastructure,\" he said.</p><p>Including in the 2017 attack, called NotPetya, wiper software masquerading as ransomware has been used several times by government-backed hackers looking to cover their tracks and cause damage to their adversaries, security experts say.</p><p>The cybersecurity firm CrowdStrike says that it is likely to reappear in future computer attacks on Ukraine. And a future attack could affect Western companies, said Adam Meyers, the company's senior vice president of intelligence. \"We don't believe the Russians will target the U.S. or Western entities, but if things escalate and they use additional cyber capability in Ukraine, there could be spillover,\" he said.</p><p>Russia has denied any involvement in the cyberattacks. The Russian Embassy in Washington didn't respond to a request for comment.</p><p>On Jan. 23, the U.S. Department of Homeland Security warned that Russia would consider a destructive cyberattack on U.S. networks if it viewed a response to a Russian invasion of Ukraine by the U.S. or North Atlantic Treaty Organization as a threat to its \"long-term national security,\" according to an intelligence brief that was sent to U.S. infrastructure providers and government institutions and viewed by The Wall Street Journal.</p><p>The agency said, however, that Russia's threshold for launching such an attack \"probably remains very high and we have not observed Moscow directly employ these types of cyberattacks against U.S. critical infrastructure.\"</p><p>There was spillover during 2017's NotPetya attack. While more than 70% of the infected computers were in Ukraine, systems in more than 60 other countries were also hit, according to Microsoft Corp.</p><p>The wiper ransomware technique is effective because the software looks on the surface like it was built by criminals—giving the government that created it a way of denying involvement. But it isn't really a criminal product, security officials say.</p><p>In other words, as with the NotPetya software, it is clear upon inspection that this software is designed only to cause damage, not make money, said Matthew Olney, director of threat intelligence and interdiction with Cisco Systems Inc.</p><p>\"If you make it look just like ransomware, you've applied no pressure to the other side, you've just caused them pain,\" he said. \"It's a subtle technique.\"</p><p>Russia isn't the only country to embrace this tactic of disguising wipers as ransomware software. Over the past decade, Iranian hackers have been linked to a number of destructive cyberattacks, including a 2012 incident at the national oil company of Saudi Arabia. But starting around 2020, a state-linked group known in the cybersecurity industry as \"Phosphorus\" or \"APT 35\" took a page from the Russian playbook and began using ransomware to perpetrate destructive attacks, according to Lior Div, chief executive with the cybersecurity firm Cybereason.</p><p>In research released Tuesday, Cybereason described how two Iranian hacking groups—Phosphorus and another called Moses Staff—have been destroying computers in the U.S., Israel, Germany and other countries using ransomware. \"You basically see the Iranians following the same methodology,\" Mr. Div said.</p><p>As Ukraine Prepares for Cyberattacks, Officials Warn of Ransomware in Disguise</p>",
+  "published": "2022-02-02T11:59:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 2247,
+          "end": 2265
+        }
+      ]
+    }
+  ]
+}

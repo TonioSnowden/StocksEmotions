@@ -1,0 +1,34 @@
+{
+  "_id": "c9827540c15afb4d4878ec91268d1e3ae2f7a61f7dfd41f14bd20832b4571ab1",
+  "feed": "market-watch",
+  "title": "S&P 500 earnings are rising only because of strength in this one sector; Excluding the energy sector, S&P 500 EPS growth would be negative 1.8%, according to I/B/E/S/ data from Refinitiv",
+  "text": "<p>Now that 479, or 95.2%, of S&amp;P 500 companies have reported earnings for the latest quarter through Friday morning, aggregate blended EPS growth, which includes reported results and estimates of still-to-be-reported results, was 6.3%, down from nearly 7% growth seen earlier in the month but up from 5.4% at the end of the first quarter, according to FactSet.</p><p>Don't miss: 5 things we've learned from earnings season so far: How big an impact is inflation having?</p><p>The slowing earnings growth comes after the heavy slate of retailers reported in the latest week, including giants like Walmart Inc. WMT, Home Depot Inc. HD and Target Corp. TGT</p><p>Although 73% of retailers beat EPS expectations, EPS growth for the group was negative 6.4%, according to I/B/E/S data from Refinitiv.</p><p>Despite the earnings weakness in the retailers sector, driven by actions to get rid of excess inventory and by changing consumer spending habits due to historically high inflation, revenue for the group rose 9.1%.</p><p>\"A retailer-heavy earnings week portrayed a consumer that continues to hold up despite confidence battered by inflation, and signs of relief in recent weeks — echoed by stronger-than-expected July retail sales [data],\" Evercore ISI analysts wrote in a research note.</p><p>Also read: Here's why Target was willing to pay so much to sell off excess inventory.</p><p>Read more: Here's what the big inventory problem for retailers looks like.</p><p>Still, blended EPS growth for the consumer discretionary sector was negative 18.5%, and was negative 15.7% for the consumer staple sector, according to FactSet.</p><p>Of the S&amp;P 500's 11 sectors, five have seen EPS decline and six have seen EPS increase. But the main reason for overall EPS growth was the energy sector, which saw EPS rocket 298.6% from a year ago, as crude oil and natural-gas prices have soared.</p><p>Excluding the energy sector, S&amp;P 500 EPS growth would be negative 1.8%, according to I/B/E/S/ data from Refinitiv.</p><p>Despite the weakness, excluding energy, it's still safe to say overall results were better than expected, or at the very least, a lot better than feared. Of the companies that reported, 77.8% beat consensus analyst expectations, according to Refinitiv, which compares with a 66% beat rate in a typical quarter going back to 1994.</p><p>Since earnings reporting season kicked off, with J.P. Morgan Chase &amp; Co. JPM reporting results before the July 14 market open, the S&amp;P 500 index SPX has run up 11.2% through Friday afternoon trading, after it had fallen 16.0% since the end of the first quarter.</p><p>For the third quarter, aggregate S&amp;P 500 EPS is expected to rise 3.9%, but that's down 5.2% earlier this month, and well below expectations of 9.5% growth as of March 31, according to FactSet.</p><p>For 2022, the growth estimate, which was 9.0% at the end of the first quarter, fell to 8.1% after rising to nearly 11% earlier this month.</p><p>S&amp;P 500 earnings are rising only because of strength in this one sector</p>",
+  "published": "2022-08-22T12:22:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 582,
+          "end": 594
+        },
+        {
+          "start": 580,
+          "end": 591
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8110368,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0060368776,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

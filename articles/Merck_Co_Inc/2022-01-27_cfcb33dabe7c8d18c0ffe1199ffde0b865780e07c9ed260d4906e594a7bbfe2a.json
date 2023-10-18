@@ -1,0 +1,32 @@
+{
+  "_id": "cfcb33dabe7c8d18c0ffe1199ffde0b865780e07c9ed260d4906e594a7bbfe2a",
+  "feed": "wall-street-journal",
+  "title": "Insurers Want to Avoid Covering War. Ukraine Hacks Put That to the Test. As U.S. officials warn of Russian cyberattacks, a court ruling could affect whether insurance covers the damage",
+  "text": "<p>The geopolitical standoff highlights legal gray areas around modern warfare, which increasingly threatens to disrupt faraway corporate computer networks, security and insurance experts say. The prospect of Russia-linked cyberattacks that could spill out of Ukraine has also raised the stakes for businesses trying to understand what their insurance covers, as well as for insurers that fear a cascade of claims at once.</p><p>\"The insurance industry, like many others, is one big pendulum between fear and greed,\" said Joshua Motta, chief executive of insurer Coalition Inc., which offers cyber-specific coverage. Mr. Motta said costly ransomware attacks in recent years have nudged the pendulum toward fear and pushed some insurers to ramp up prices or curtail coverage of cyber incidents generally.</p><p>Hackers recently disabled Ukrainian government computer networks and defaced official websites, leading Washington to warn of escalating breaches that could allow attackers to jump from initial targets in Ukraine to U.S. businesses.</p><p>While Ukrainian officials have blamed Russia for the hacks, the Kremlin has denied involvement, hinting at the difficulty of tying cyber activity to broader military campaigns. White House Press Secretary Jen Psaki on Wednesday said the U.S. could respond to future Russian cyberattacks in kind.</p><p>\"But I'm not going to get into a hypothetical\" about whether such hacks could constitute acts of war, she added.</p><p>Cybersecurity experts in recent weeks have warned of incidents similar to the Russian military's 2017 hack of a Ukrainian tax-preparation firm. That incident rippled across connected computer networks to disrupt businesses including U.S. delivery firm FedEx Corp. and Danish shipping company A.P. Moller-Maersk A/S.</p><p>Kenilworth, N.J.-based Merck, which said it incurred $1.4 billion in costs as part of the so-called NotPetya hack, sued its property insurers for breach of contract after they denied coverage under general exclusions for acts of war. Last month, Judge Thomas Walsh of the Superior Court of New Jersey issued a partial ruling in the pharmaceutical company's favor, in part because the clauses didn't specifically cite cyberattacks.</p><p>\"Having failed to change the policy language, Merck had every right to anticipate that the exclusion applied only to traditional forms of warfare,\" Judge Walsh wrote. He added that the source of the attack was irrelevant.</p><p>Merck didn't respond to requests for comment.</p><p>A similar case in Illinois could play out differently, said Judy Selby, a partner at Kennedys Law LLP who focuses on insurance.</p><p>Chicago-based Mondelez International Inc., which makes Ritz crackers and Oreo cookies, sued property insurer Zurich American Insurance in 2018 over NotPetya costs that the snackmaker said surpassed $100 million. In a court filing last week, Zurich American Insurance criticized the ruling in the Merck case in part because it failed to grapple with attribution of the NotPetya hack to the Russian military and treated hacks as a unique form of warfare.</p><p>Cyberattacks \"have been part of the arsenal of weapons available to and used by nation states—particularly Russia—for many years,\" said lawyers for Zurich American Insurance.</p><p>Zurich declined to comment further. Mondelez didn't respond to a request for comment.</p><p>The insurance industry continues to wrestle with cyber risk as more of daily life moves online and technology providers grow more connected. In November, Lloyd's Market Association, a trade group, published four first-of-their kind recommendations for how insurers can articulate act-of-war exclusions that cover hacks. Insurance experts say it is unclear how many insurers have adopted such language.</p><p>The Biden administration in recent months has looked to insurers to take a more prominent role in incentivizing companies to shore up their computer systems. Some cyber-specific insurers hope their in-house security expertise can help businesses avoid disruptive hacks and subsequent claims.</p><p>At Coalition, Mr. Motta's team has been evaluating customers' vulnerability to potential Russia-linked hacks in part by analyzing the Ukrainian government's technology vendors, which could act as vectors for subsequent attacks. Coalition also has warned clients with particular exposure to the conflict, such as defense contractors or foreign-aid organizations, to harden their systems.</p><p>Policies offered by Mr. Motta's firm exclude acts of war, as designated by a government, but cover cyber terrorism.</p><p>\"Most of these things are incredibly ambiguous and, in fact, attribution is remarkably difficult,\" he said. \"For all intents and purposes, nation-state related things that are going to affect our customers are going to be covered, unless it's outright declared as an act of military action or war.\"</p><p>Catherine Stupp and Elisa Cho contributed to this article.</p><p>Write to David Uberti at david.uberti@wsj.com</p>",
+  "published": "2022-01-27T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "name": "Merck & Co., Inc.",
+      "offsets": [
+        {
+          "start": 2230,
+          "end": 2235
+        },
+        {
+          "start": 1776,
+          "end": 1781
+        },
+        {
+          "start": 2876,
+          "end": 2881
+        },
+        {
+          "start": 2406,
+          "end": 2411
+        }
+      ],
+      "nexusId": "10042334"
+    }
+  ]
+}

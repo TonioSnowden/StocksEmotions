@@ -1,0 +1,34 @@
+{
+  "_id": "367315fdb368ad760a15fa096c11f08656ab5bab2eaa2f26e2d6d7a0518d32ca",
+  "feed": "wall-street-journal",
+  "title": "Retailers Cut  Forecasts  For Earnings  ---  Macy's, Nordstrom  say risk of economic  downturn threaten  consumer spending  ----  By Charity L. Scott",
+  "text": "<p>    Macy's Inc. and Nordstrom Inc. became the latest retailers to lower their financial guidance for the year, citing risks of a steeper economic downturn and slowdown in consumer spending. </p><p>   Macy's, the biggest U.S. department-store chain, on Tuesday said it was also adjusting its forecast to reflect markdowns and promotions the company thinks will be needed to get rid of old inventory. </p><p>   Nordstrom cited weakness among shoppers at its Nordstrom Rack discount chain, which targets lower-end consumers than its flagship stores. \"The uncertainty moving forward is significant,\" Chief Executive Officer Erik Nordstrom said on a call with analysts Tuesday. </p><p>   Macy's customers across income tiers slowed their spending, CEO Jeff Gennette told analysts on a call. Executives said customers aren't trading down to less expensive brands but are being more selective about what categories they shop and taking advantage of widespread promotions being offered by both Macy's and competitors. </p><p>   The revision comes despite Macy's posting better-than-expected results for its second quarter. Same-store sales, or sales from stores that have been open at least a year, fell 1.5% from the previous year. Analysts polled by FactSet expected a 2% drop. </p><p>   Macy's shares closed 3.8% higher for the day. Through Tuesday, shares were down nearly 29% for the year. Nordstrom reported after markets closed and its shares fell 14% in late trading. </p><p>   Overall inventory levels remained elevated, Macy's said, but were down 7% from the first quarter. Macy's said sales have been lower since Father's Day as it and other retailers grappled with excess inventory and a pullback in consumers' discretionary spending. </p><p>   \"Where we still have customer-wanted categories and there's more scarcity of product with us and with the market, we are getting the higher [average selling prices],\" Mr. Gennette said. </p><p>   The retail chain said it is implementing markdowns across several categories, including seasonal goods, its private brands and activewear and sleepwear, as it looks to clear aging stock from its shelves. </p><p>   Walmart Inc., Best Buy Co. and other retailers have revised their financial targets in recent weeks, saying high inflation and damping consumer spending were hurting financial results. </p><p>   Nordstrom said it is working to aggressively lower its inventory levels, which will also weigh on revenue growth this year. \"Managing our inventory levels conservatively will allow us to be more agile in responding to a rapidly changing business environment,\" Mr. Nordstrom said. Merchandise inventories were lower from the previous quarter, although they remain elevated when compared with the same period last year. </p><p>   Nordstrom said it now expects adjusted earnings per share of between $2.30 to $2.60 for the year, down from a range of $3.20 to $3.50 The department-store chain reported profit of $126 million for the second quarter, as sales rose 12% from the previous year. The company reported adjusted earnings per share of 81 cents, narrowly beating analyst predictions of 80 cents a share, according to FactSet. </p><p>   Macy's trimmed its net sales forecast to between $24.34 billion and $24.58 billion, from a range of $24.46 billion to $24.7 billion. It now expects per-share earnings excluding one-time items between $4 and $4.20, compared with its prior forecast of between $4.53 and $4.95. </p><p>   Macy's reported that revenue was slightly lower in the second quarter compared with the same period last year, $5.6 billion from $5.65 billion. </p><p>   Earnings for the period ended July 30 came in at $275 million from $345 million a year earlier. Stripping out one-time items, adjusted earnings were $1 a share. Analysts had been expecting 86 cents a share. </p><p>   Earlier this year, Macy's said it wouldn't separate its e-commerce business from its bricks-and-mortar stores amid calls from an activist investor to increase returns. </p><p>   Macy's had raised its earnings guidance in May when it reported its first-quarter results, in part to reflect its improved expectations in its credit-card revenue. Executives said card balances are rising as customers grapple with high inflation. </p><p>   \"We're just taking a measured view on bad debts for the remainder of the year -- we're monitoring credit delinquencies, we're monitoring payment rates,\" Macy's finance chief, Adrian Mitchell, told analysts. \"When we look at the industry more broadly, we see that inflation is outpacing wage growth, that's just not sustainable for the consumer.\" </p><p>   --- </p><p>   Dean Seal contributed to this article. </p><p></p>",
+  "published": "2022-08-24T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2049,
+          "end": 2060
+        },
+        {
+          "start": 2065,
+          "end": 2077
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

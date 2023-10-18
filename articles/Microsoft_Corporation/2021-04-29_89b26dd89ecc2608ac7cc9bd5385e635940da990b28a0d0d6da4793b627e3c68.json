@@ -1,0 +1,32 @@
+{
+  "_id": "89b26dd89ecc2608ac7cc9bd5385e635940da990b28a0d0d6da4793b627e3c68",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Amazon's Challenge  Over Pentagon Pact  Kept Alive in Court  ----  By John D. McKinnon",
+  "text": "<p>   WASHINGTON -- Amazon.com Inc.'s bid to win back the Pentagon's JEDI cloud computing contract stayed alive Wednesday as a federal judge rejected motions by the Defense Department and Microsoft Corp. to dismiss much of Amazon's challenge of the contract award. </p><p>   Judge Patricia Campbell-Smith of the U.S. Court of Federal Claims rejected the motions, according to a court docket entry. Her opinion and order in the case weren't made public immediately, making the extent of the government's legal defeat unclear. </p><p>   The move opens the door to continued protracted court battles over Joint Enterprise Defense Infrastructure, or JEDI. </p><p>   Some Pentagon officials have suggested in recent months that the Defense Department might have to consider other approaches to obtaining enterprise-level cloud services, rather than pursuing further years of litigation over the Joint Enterprise Defense Infrastructure, or JEDI, contract. </p><p>   Asked for comment, the Pentagon referred to a statement a Defense Department technology official made in January in connection with the JEDI litigation. </p><p>   \"Regardless of the JEDI Cloud litigation outcome, the Department continues to have an urgent, unmet requirement for enterprise-wide, commercial cloud services,\" that statement said. \"We will be prepared to ensure it is met one way or another.\" </p><p>   Amazon's cloud division, Amazon Web Services, said it was pleased with the ruling. \"AWS continues to be the superior technical choice, the less expensive choice, and would provide the best value to the DoD and the American taxpayer. </p><p>   A Microsoft spokesman dismissed the decision as procedural. \"Not once, but twice, professional procurement staff at the DoD chose Microsoft after a thorough review,\" he said. </p><p></p>",
+  "published": "2021-04-29T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1546,
+          "end": 1555
+        },
+        {
+          "start": 182,
+          "end": 191
+        },
+        {
+          "start": 1674,
+          "end": 1683
+        },
+        {
+          "start": 182,
+          "end": 197
+        }
+      ]
+    }
+  ]
+}

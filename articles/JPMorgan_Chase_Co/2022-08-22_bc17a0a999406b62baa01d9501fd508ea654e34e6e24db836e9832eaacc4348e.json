@@ -1,0 +1,30 @@
+{
+  "_id": "bc17a0a999406b62baa01d9501fd508ea654e34e6e24db836e9832eaacc4348e",
+  "feed": "ftcomall",
+  "title": "Elon Musk subpoenas Twitter co-founder Jack Dorsey in takeover fight",
+  "text": "<p>Elon Musk has subpoenaed Twitter co-founder Jack Dorsey for his communications with the social media site's executives regarding the prevalence of fake or bot accounts on the platform. </p> <p>The filing on Monday comes as part of <a href=\"https://www.ft.com/topics/people/Elon_Musk\">Musk</a>'s legal fight to back out of his $44bn deal to buy the company, primarily over what the Tesla chief executive contends was a misrepresentation of the number of Twitter's active users.</p> <p>Dorsey, who stepped down as Twitter chief executive in November, was an <a href=\"https://www.ft.com/content/4fbe0767-e13b-44fe-9e68-8f716f0cf4bf\">enthusiastic backer</a> of Musk's dramatic takeover offer. In April, he described Musk as “the singular solution I trust” to solve the platform's problems, adding: “I trust his mission to extend the light of consciousness.”</p> <p>The filing requested any communication between Dorsey and his executives since January 1 2019 that may be relevant to “the impact or effect of false or spam accounts on <a href=\"https://www.ft.com/stream/a54ba68e-4aa3-4aa0-8a11-61456f4dfaa1\">Twitter</a>'s business and operations”.</p> <p>It sought discussions and records over the use of “mDAU” — monetiseable daily active users — as a metric for measuring Twitter's user base. It also asked for documents or communications surrounding the Musk deal, the possibility he might join Twitter's board and his stake in the company.</p> <p>The demand is the latest effort, from both sides, to gather morsels of information from dozens of people regarding the deal as the matter <a href=\"https://www.ft.com/content/a400f5f3-fa3a-45af-8f79-6968157f7a4a\">heads to a trial</a> in the Delaware Court of Chancery. It is expected to begin on October 17 and last five days.</p> <p>Last week, the judge in the case, Kathleen McCormick, ordered Twitter to produce files from Kayvon Beykpour, a former senior executive who was dismissed by Twitter's current chief, Parag Agrawal, in May.</p> <p>Beykpour, the former head of product, could provide more insight into the company's userbase and its attempts to expand. This month, Musk offered his own estimate of the number of fake or bot users as making up at least 10 per cent of all Twitter users, compared with the less than 5 per cent figure Twitter has repeatedly claimed. </p> <p>Twitter <a href=\"https://www.ft.com/content/792a65a8-a10f-4626-a10e-6fbdd65f9e2a\">called Musk's independent estimate</a> “factually inaccurate, legally insufficient, and commercially irrelevant”.</p> <p>In August, Musk <a href=\"https://www.ft.com/content/56e657a0-01ae-42df-a5a4-67deb000952d\">subpoenaed Goldman Sachs and JPMorgan Chase</a> for details about how the Wall Street banks advised Twitter on the contentious deal.</p> <p>Twitter has also cast a wide net in gathering information, sending subpoenas to influential groups and figures in Musk's orbit, including Peter Thiel's Founders Fund and investors David Sacks and Marc Andreessen.</p> <p>A lawyer representing Musk on Monday declined to comment on the latest filing. A Twitter spokesperson declined to comment.</p><p>Source: Dave Lee in San Francisco 2022 'Elon Musk subpoenas Twitter co-founder Jack Dorsey in takeover fight' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T20:58:52.484Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 2133,
+          "end": 2147
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

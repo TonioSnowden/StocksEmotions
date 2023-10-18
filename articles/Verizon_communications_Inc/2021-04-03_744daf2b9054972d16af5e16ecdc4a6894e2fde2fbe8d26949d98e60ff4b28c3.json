@@ -1,0 +1,24 @@
+{
+  "_id": "744daf2b9054972d16af5e16ecdc4a6894e2fde2fbe8d26949d98e60ff4b28c3",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Digital-Ad Auction  Process Is Questioned  ----  By Patience Haggin",
+  "text": "<p>   A bipartisan group of lawmakers is asking questions about the inner workings of digital advertising amid worries the industry's user-targeting capabilities could pose a threat to national security. </p><p>   When anyone loads a webpage, a digital-ad auction occurs in seconds to determine which personalized ads the person will see. During that auction, the user's personal data -- including location, browsing history and demographic details -- may be sent to hundreds of companies bidding on the ad slots. The barriers to join these auctions are low, and any company participating in the auction can access user information without having to bid. </p><p>   On Friday, a group of U.S. senators led by Senate Finance Committee Chairman Ron Wyden (D., Ore.) sent a letter to the largest companies running these auctions -- AT&amp;T Inc., Index Exchange Inc., Alphabet Inc.'s Google, Magnite Inc., OpenX Software Ltd., PubMatic Inc., Twitter Inc. and Verizon Communications Inc. -- asking them what steps they take to make sure companies joining the auctions do so for the sole purpose of buying ad slots. </p><p>   They also askedthe companies to provide the names of all foreign clients that had access to user data through auctions over the past three years. </p><p>   \"As Congress debates potential federal privacy legislation, we must understand the serious national security risks posed by the unrestricted sale of Americans' data to foreign companies and governments,\" the senators said in the letter, a copy of which was reviewed by The Wall Street Journal. </p><p>   The letter was also signed by Sens. Kirsten Gillibrand (D., N.Y.), Sherrod Brown (D., Ohio), Bill Cassidy (R., La.), Mark Warner (D., Va.) and Elizabeth Warren (D., Mass.). </p><p>   The information gathered during the ad-auction process -- known in the industry as \"bidstream\" data -- can be packaged by data brokers, which resell it to companies and governments. Even though all user information available through these auctions is anonymized, it is possible to identify specific individuals by cross-referencing it with other data. </p><p>   Political campaigns, for instance, have successfully paired location data with voter files to advertise to individuals who have attended certain rallies. </p><p>   Federal agencies have purchased this personal data and used it to track down suspects withoutseeking warrants. The Defense Intelligence Agency, Department of Homeland Security and Internal Revenue Service have used this data -- without a warrant -- to monitor the locations of individuals through their mobile devices. </p><p>   An Index Exchange spokeswoman said the company voluntarily abides by high industry standards. \"We look forward to our active involvement in this important process with the U.S. Senate,\" the spokeswoman said. </p><p>   \"PubMatic has been at the forefront of consumer privacy and transparency initiatives and is committed to the promotion of integrity in the digital advertising ecosystem,\" a spokesman for PubMatic said. </p><p>   An AT&amp;T spokesman said, \"We received the letter and will respond as requested, but we have thorough processes in place to protect the data referenced in the letter.\" A Twitter spokeswoman said the company had received the letter and intended to respond. </p><p>   Google, Magnite and Verizon didn't respond to requests to comment. OpenX didn't provide comment. </p><p></p>",
+  "published": "2021-04-03T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 3202,
+          "end": 3209
+        },
+        {
+          "start": 925,
+          "end": 952
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "4dfaa2f6a90d50dd93a4ff4545e8af242355cffea2308685060bca07790e894a",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Best Buy Makes the Best of the Worst  ---  The retailer can't do much about conditions affecting consumer behavior, but it continues to excel at controlling what it can  ----  By Jinjoo Lee",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n   Best Buy's pandemic glory days are casting a long shadow, but the company is facing the consequences in stride. </p><p>\n  The retailer's U.S. same-store sales declined 12.7% year over year in its quarter ended July 30, slightly better than the 13.2% decline Wall Street was penciling in. Net income shrank by more than half from a year earlier but was nearly 8% higher than the number analysts had expected. </p><p>\n  Investors liked what they saw: Best Buy's shares rose 1.6% on another weak day for stocks. Its shares are down roughly 26% year to date, edging out a broad basket of retailers. </p><p>\n  The consumer-electronics slowdown was largely to be expected given how much demand Best Buy pulled forward in 2020 and 2021 as customers set up their work-from-home spaces for the first time. Revenue grew 8.3% and 9.5%, respectively, in those two years -- a massive jump compared with a compound annual growth rate of 1.6% in the five years through 2019. Additionally, Best Buy is clearly starting to see the effects of inflation-pinched wallets: The company said more customers are trading down to private label TVs, for example. Customers are still willing to pay up for mobile phones and gaming, categories in which they tend to be pickier about brands. </p><p>\n  While there isn't much Best Buy can do about the conditions affecting today's consumer behavior, the company continues to excel at controlling what it can. </p><p>\n  One metric worth pointing out is its inventory level, which was 5.8% lower last quarter compared with a year earlier. That is a feat that no other major retailer has been able to pull off. Walmart and Target each saw inventories rise 25% and 36%, respectively, in their latest quarters. Lean inventories should leave Best Buy with far less risk of depressed margins in the quarters ahead. </p><p>\n  Furthermore, Best Buy actually has become slightly better at squeezing out profit compared with prepandemic years despite higher online sales. </p><p>\n  Adjusted operating margins in the latest quarter declined from a year earlier but were actually slightly higher than they were in the comparable 2019 period. That is an impressive feat considering Best Buy derives 31% of its U.S. revenue online, up from 16.1% in 2019. The operational pivots Best Buy made over the past two years -- such as a flexible working model for employees and changed store formats -- seem to be bearing fruit. </p><p>\n  Best Buy on Tuesday stuck to its previously downgraded full-year guidance: It still expects comparable-store sales to decline roughly 11% this fiscal year and forecasts adjusted operating margins of 4%. </p><p>\n  Figures like that certainly are nothing to celebrate, but the past two challenging quarters have proven that Best Buy has the operational chops to weather the retail slowdown better than anyone else. </p><p></p>",
+  "published": "2022-08-31T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1602,
+          "end": 1609
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000002,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.3841858e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

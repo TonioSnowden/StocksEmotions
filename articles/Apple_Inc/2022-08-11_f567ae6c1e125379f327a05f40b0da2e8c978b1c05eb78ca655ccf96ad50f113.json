@@ -1,0 +1,42 @@
+{
+  "_id": "f567ae6c1e125379f327a05f40b0da2e8c978b1c05eb78ca655ccf96ad50f113",
+  "feed": "wall-street-journal",
+  "title": "Ultracostly  Phones Defy  Sales Drop  ----  By Jiyoung Sohn",
+  "text": "<p>   NEW YORK -- The smartphone industry is slumping except for the priciest devices. Samsung Electronics Co. is testing the limits of that high-end demand. </p><p>   On Wednesday, Samsung unveiled its latest models of two of the world's most-expensive phones. The Galaxy Z Fold 4, which becomes the size of a small tablet when opened, will cost about $1,800. The more compact Galaxy Z Flip 4 will go for around $1,000. The phones have prices similar to last year's versions and become available in the U.S. later this month. </p><p>   Total smartphone shipments slid 8% in the first half of this year versus the same period in 2021, largely because consumers have cut back spending on nonessential goods amid inflation and a shakier economic outlook, according to Counterpoint Research, a research firm. The declines were steepest for the lowest-price devices, it said. </p><p>   Foxconn Technology Group, the world's biggest iPhone assembler, on Wednesday said demand for smartphones and other consumer electronics is slowing, prompting it to be cautious about the current quarter. </p><p>   Shipments of \"ultrapremium\" phones -- devices sold for $900 or more -- grew by more than 20% during the same period, Counterpoint said. This category comprises mostly Apple Inc.'s iPhones and Samsung's flagship devices. </p><p>   The resilience of the phone industry's upper class mirrors that of the luxury-goods business, as wealthier consumers show a willingness to keep spending on clothing, handbags and jewelry despite economic rockiness. </p><p>   Apple, in its most recent quarter, reported a surprise rise in iPhone sales, defying analysts' expectations for a decline. There has been no obvious macroeconomic impact on iPhone sales in recent months, Apple Chief Executive Tim Cook said on an earnings call last month. </p><p>   Samsung, the world's largest smartphone maker, recently said it expects the overall smartphone market to see shipments stay flat or experience minimal growth this year. But the South Korean company expressed optimism that its foldable-display devices, which are among its most expensive products, would sell well. </p><p>   The smaller of the two new devices, the Galaxy Z Flip 4, is an update of the model that accounted for most of Samsung's foldable-phone sales last year. When fully open on its vertical axis, it has a display that measures 6.7 inches. When closed, it is half the size of most mainstream smartphones, and owners can view text messages and other alerts on a smaller, exterior screen. Compared with last year's version, Samsung said the Galaxy Z Flip 4 takes better photos and has a slimmer hinge and larger battery. </p><p>   The heftier Galaxy Z Fold 4 sports a tablet-size display that is 7.6 inches diagonally when fully opened. It opens and closes like a book, and when shut, it has a 6.2-inch outer screen that performs most smartphone functions. The new version has a slightly thinner hinge and improved camera capabilities, Samsung said. Both models are waterproof. </p><p>   The Galaxy Z Fold 4 is the first device to use Android 12L, a version of the operating system created by Alphabet Inc.'s Google specifically for tablets and foldable phones, Samsung said. </p><p>   Alongside the two foldable phones, Samsung on Wednesday introduced two new versions of its Galaxy Watch 5, as well as a new edition of its Galaxy Buds wireless earphones, the Galaxy Buds 2 Pro. </p><p>   Samsung has much riding on the Galaxy Z Fold 4 and the Galaxy Z Flip 4. </p><p>   Given their high price and fatter margins, foldable devices, plus other flagship handsets, could represent this year about 60% of Samsung's mobile-division operating profits, despite accounting for roughly one-sixth of the company's smartphone shipments, said Sanjeev Rana, a Seoul-based analyst at brokerage CLSA. Last year, Samsung's Galaxy Z Fold 3 and Galaxy Z Flip 3 saw stronger sales, helped by price cuts. </p><p></p>",
+  "published": "2022-08-11T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 1206,
+          "end": 1216
+        },
+        {
+          "start": 1472,
+          "end": 1477
+        },
+        {
+          "start": 1484,
+          "end": 1489
+        },
+        {
+          "start": 1675,
+          "end": 1680
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.7000113,
+        "baseWeight": 4.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.3000002,
+        "tagPositionWeight": 1.1563301e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

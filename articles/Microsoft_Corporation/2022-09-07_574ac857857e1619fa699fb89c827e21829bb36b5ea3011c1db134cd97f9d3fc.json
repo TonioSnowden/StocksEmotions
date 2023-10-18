@@ -1,0 +1,34 @@
+{
+  "_id": "574ac857857e1619fa699fb89c827e21829bb36b5ea3011c1db134cd97f9d3fc",
+  "feed": "wall-street-journal",
+  "title": "Amazon CEO Charts Slower Hiring Following Pandemic Boom; Andy Jassy says e-commerce company will likely scale back on its rate of hiring and sees healthcare as a growth opportunity",
+  "text": "<p>\"I don't think that you'll see us hiring at the same rates that we did,\" said Mr. Jassy at the Code Conference in Beverly Hills, Calif., on Wednesday. \"But we'll be hiring.\"</p><p>In its quarter ended in June, the company reported slowing sales and a second straight quarter of net loss as it faced continued weakness in its retail operations after a pandemic boom. For the second quarter, sales advanced by 7.2% annually to $121.2 billion. In the first quarter, the 7.3% annual sales growth marked the company's slowest growth in about two decades.</p><p>Since taking over as CEO a year ago from Amazon founder Jeff Bezos, Mr. Jassy has been working on cutting back on the excesses of the company's breakneck expansion of its e-commerce operation during the Covid-19 pandemic.</p><p>This year, Mr. Jassy and his team have attempted to shed some warehouse space by subletting it out as well as deferring the construction of new warehouses. Mr. Jassy has also closed down many of the company's bricks-and-mortar retail stores.</p><p>\"It was unprecedented growth,\" Mr. Jassy said at the conference. \"We had to double the size of our fulfillment network that we'd built the first 25 years and do it in 24 months.\"</p><p>Other tech companies have been seeking to rein in expenses amid growing concerns about slow economic growth, inflation and advertising. At the Code Conference on Tuesday night, Google Chief Executive Sundar Pichai said he wants to make the company 20% more productive. In a July memo to staff, Mr. Pichai had said that Google, a unit of Alphabet Inc., would be slowing the pace of hiring for the year.</p><p>Facebook parent Meta Platforms Inc. has said it would shrink some teams as it adjusts priorities, and Microsoft Corp. has been asking teams to work on controlling costs following a round of layoffs affecting less than 1% of its employees.</p><p>Social-media company Snap Inc. last week said it would slash about 20% of its staff after growing its head count by around 65% since the end of 2020. Online brokerage Robinhood Markets Inc. last month said it was cutting about 23% of its full-time staff after a sharp slowdown in customer trading activity.</p><p>Amazon's shares have fallen more than 20% so far this year, roughly in line with the decline of the tech-heavy Nasdaq Composite Index.</p><p>Amazon has been facing a unionization push among its fulfillment center workers, with workers in Staten Island voting in April to establish the company's first union in the U.S. Amazon objected to the election results, but a federal labor official recently upheld the union victory. Amazon has said it would appeal.</p><p>\"We think employers are better off in the structure they're in right now,\" Mr. Jassy said Wednesday.</p><p>Mr. Jassy said Amazon is looking for additional revenue beyond its huge e-commerce and cloud computing services businesses. He said he is focused on healthcare as a growth opportunity. His first major acquisition announced as CEO was Amazon's $3.9 billion deal to buy 1Life Healthcare Inc., which runs One Medical primary care clinics in 25 U.S. markets.</p><p>\"If there's one area that really needs to be reinvented, very obviously it's healthcare,\" he said.</p><p>Amazon faces regulatory scrutiny for that deal, with the U.S. Federal Trade Commission investigating. Mr. Jassy said he didn't know if the company will receive pushback on the deal, adding that the company has a small share of the market.</p><p>\"We feel that's a very, very, very large space of which One Medical is a very, very small share,\" he said.</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com</p><p>Amazon CEO Charts Slower Hiring Following Pandemic Boom</p>",
+  "published": "2022-09-07T20:54:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1678,
+          "end": 1693
+        },
+        {
+          "start": 1691,
+          "end": 1706
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

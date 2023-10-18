@@ -1,0 +1,34 @@
+{
+  "_id": "12386d0c25d9d752fe1337f08029dbcc55dffcd29521dd05126f991e19cfb36f",
+  "feed": "wall-street-journal",
+  "title": "Visa, Mastercard, Amex Urged to Track Gun Sales to Fight Crime; Attorneys general of California and New York say credit-card companies should treat gun stores as a separate merchant category to help flag suspicious patterns of transactions",
+  "text": "<p>Representatives for the credit-card companies didn't respond to requests for comment.</p><p>The proposal, if adopted, could expand the compliance expectations for financial institutions. They are already required to flag suspicious behavior to try to stop money laundering and terrorism, as Mr. Bonta and Ms. James noted. In the future, financial institutions could help prevent mass shootings, gun-driven domestic terrorism and weapons trafficking, the attorneys general said.</p><p>The attorney generals' exhortation comes after the Supreme Court in late June struck down New York state's system for issuing concealed-weapons permits, which required that applicants demonstrate \"proper cause\" and \"good moral character.\" New York state lawmakers shortly afterward passed legislation reinstating parts of the system and prohibiting the possession of weapons in a list of \"sensitive places,\" among other restrictions.</p><p>The two officials are pushing for a technical change in the standardized four-digit codes credit-card companies use to identify merchants. Adding what is known as a merchant category code for gun stores would facilitate the flagging of suspicious patterns of transactions, they said.</p><p>Right now, gun stores aren't treated as a separate class of merchants, though the credit-card companies assign discrete merchant category codes to grocery stores and bicycle shops, for example.</p><p>\"If tracking MCCs could stop just one mass shooting or derail one gun trafficker aiming to flood the streets with guns, the change would be justified,\" the two wrote.</p><p>New York City Mayor Eric Adams, a Democrat, and other city officials made a similar demand to the three credit-card companies earlier this week. That move drew plaudits from several gun-control organizations.</p><p>The MCC codes are set by an International Organization for Standardization committee that is scheduled to meet in Oslo in November.</p><p>\"Implying that firearm purchases are suspicious demonstrates an obvious bias these attorneys general hold against anyone choosing to exercise a fundamental constitutional right,\" said National Rifle Association spokesman Lars Dalseide said.</p><p>Todd Raque, an anti-money-laundering expert at Featurespace Ltd., a maker of financial-crime-detection software, said that businesses involved in processing payments are more lightly regulated than banks, with their systems currently focused on stopping fraud.</p><p>Mr. Raque predicted that some financial-services companies might try to fight any move that would add to their compliance burden, and said that monitoring systems now in place wouldn't allow any kind of real-time disruption of crime.</p><p>\"If somebody's building an arsenal for some kind of a domestic incident, or a mass shooting, the whole system's not really geared toward that,\" he said. \"But to me [this] sounds like a good step in the right direction.\"</p><p>Write to Richard Vanderford at richard.vanderford@wsj.com</p><p>Visa, Mastercard, Amex Urged to Track Gun Sales to Fight Crime</p>",
+  "published": "2022-09-02T23:11:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 4
+        },
+        {
+          "start": 2906,
+          "end": 2910
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "5138db91ee5a7738803e070774f0a8f9e312f43356dc28b4226fbe44175b38db",
+  "feed": "market-watch",
+  "title": "U.S. life expectancy has seen its biggest two-year decline during COVID in almost a century, report finds; As expected, FDA gives nod to omicron-targeting boosters with shots potentially starting in days",
+  "text": "<p>The decline was worst for Native Americans and Alaska Natives. For that group, average life expectancy shrank by four years in 2020 alone, and it has fallen by more than six years to 65 over the course of the pandemic. That's equal to the figure for all Americans in 1944, as the New York Times reported.</p><p>The Centers for Disease Control and Prevention said COVID was to blame for about half of the decline in 2021, which came as vaccinations became widely available but as new variants emerged that proved far more infectious than the original one. But drug overdoses, heart disease, suicide and chronic liver disease were also factors.</p><p>As expected, the Food and Drug Administration on Wednesday authorized an update to COVID booster doses that target the now-dominant omicron strain,the Associated Press reported. Targeted shots developed by Pfizer PFE with German partner BioNTech BNTX and by Moderna MRNA could be available in the coming days.</p><p>\"You'll see me at the front of the line,\" FDA vaccine chief Dr. Peter Marks told the Associated Press shortly before his agency cleared the new doses.</p><p>Read now: Dr. Fauci's advice has always been simple and on the mark</p><p>Until now, COVID-19 vaccines have targeted the original coronavirus strain, even as wildly different mutants emerged. The new U.S. boosters are combination, or \"bivalent,\" shots. They contain half that original vaccine recipe and half protection against the omicron subvariants BA.4 and BA.5, which are considered the most contagious yet.</p><p>The news comes as U.S. known cases of COVID are continuing to ease, although the true tally is likely higher given how many people are testing at home, where the data are not being collected.</p><p>The daily average for new cases stood at 90,428 on Tuesday, according to a New York Times tracker, down 10% from two weeks ago. Cases are currently rising in 11 states, namely Rhode Island, Tennessee, Louisiana, Alabama, South Dakota, Maine, Arkansas, West Virginia, Oklahoma, Connecticut and Illinois, and are falling everywhere else.</p><p>The daily average for hospitalizations was down 10% at 37,770, while the daily average for deaths is up 1% to 473.</p><p>Coronavirus Update: MarketWatch's daily roundup has been curating and reporting all the latest developments every weekday since the coronavirus pandemic began</p><p>Other COVID-19 news you should know about:</p><p>• Goldman Sachs GS will lift all COVID protocols that have kept some workers away as it pushes all employees to return to the office five days a week after Labor Day, the New York Post reported.In a memo sent Tuesday obtained by the newspaper, Goldman Sachs told workers it will no longer require vaccines, COVID testing or masks — a signal it won't accept excuses for employees who claimed COVID as a reason for working from home. \"There is significantly less risk of severe illness,\" the memo stated. \"In line with [the CDC's] updated protocols, if you have not been coming in to the office, please speak with your manager to ensure that you understand and adhere to your division's current return to office expectations.\" The official memo comes just days before the bank expects all employees to return to its offices five days a week, sources add.</p><p>• French tourism has recovered and revenues are above pre-pandemic levels, the AP reported,citing government estimates released this week. Crowds packed Paris landmarks and Riviera beaches, notably thanks to an influx of Americans benefiting from the weak euro, but also British and other European visitors reveling in the end of pandemic restrictions. According to the government's preliminary estimates, tourism spending in France this summer was 10% higher than 2019, based on data from bank card use and lodging and restaurant revenues.</p><p>• China's southern city of Guangzhou imposed fresh COVID curbs on Wednesday, joining the tech hub of Shenzhen, fueling uncertainty over commerce and daily life in two of the region's most economically vibrant metropolises,Reuters reported.China's so-called \"dynamic COVID zero\" policy makes it an outlier as other countries gradually do away with curbs, despite the cost to the world's second-largest economy, which already faces slower growth. Capital Economics estimates 41 cities, responsible for 32% of China's GDP, are grappling outbreaks – the highest number since April.</p><p>• Cyprus has lifted its face mask mandate in all indoor areas, the AP reported. The island nation's top health official said epidemiological data amid the coronavirus pandemic have \"significantly improved.\" Health Minister Michalis Hadjipantela told reporters after a cabinet meeting that the mask rule still applies to hospitals, nursing homes, clinics, pharmacies and public transport. It's recommended that those with chronic ailments continue using face coverings.</p><p>Here's what the numbers say</p><p>The global tally of confirmed cases of COVID-19 topped 602.4 million on Monday, while the death toll rose above 6.49 million, according to data aggregated by Johns Hopkins University.</p><p>The U.S. leads the world with 94.4 million cases and 1,044,915 fatalities.</p><p>The Centers for Disease Control and Prevention's tracker shows that 223.9 million people living in the U.S. are fully vaccinated, equal to 67.4% of the total population. But just 108.5 million have had a booster, equal to 48.5% of the vaccinated population, and just 21.8 million of the people 50 years old and over who are eligible for a second booster have had one, equal to 33.7% of those who had a first booster.</p><p>U.S. life expectancy has seen its biggest two-year decline during COVID in almost a century, report finds</p>",
+  "published": "2022-08-31T14:43:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2352,
+          "end": 2365
+        },
+        {
+          "start": 2352,
+          "end": 2359
+        },
+        {
+          "start": 2594,
+          "end": 2607
+        },
+        {
+          "start": 2579,
+          "end": 2592
+        },
+        {
+          "start": 2594,
+          "end": 2601
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

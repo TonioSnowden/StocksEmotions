@@ -1,0 +1,20 @@
+{
+  "_id": "5d36e0e73fa3f652c1647500d6f5efad6f425be16215280f0b8e633510d8b690",
+  "feed": "wall-street-journal",
+  "title": "Hospital Hacks Trace Back  To Ruthless Cyber Gang -2-",
+  "text": "<p>   On the same day as the Sky Lakes attack, the gang hit three-hospital St. Lawrence Health, according to a spokeswoman, including Canton-Potsdam Hospital, the only trauma center in St. Lawrence County, N.Y. </p><p>   The attack forced ambulances to bypass the hospital, leaving emergency crews a 90-minute drive should they need similar services, said Matthew Denner, director of emergency services for the county. No major traumas occurred before Canton-Potsdam reopened. </p><p>   The U.S. government and international law-enforcement agencies have worked with private-sector technology firms to take down Ryuk's \"botnets\" -- the undulating mass of thousands or millions of hacked computers that the organization controls. </p><p>   On June 4, the Justice Department announced a 47-count indictment against seven alleged members of the organization for the electronic bank thefts that were the group's mainstay before it moved to ransomware. One defendant, described by officials as a 55-year-old Latvian woman who used the screen name \"Max,\" was arrested in Florida while traveling in February. The identities of five Russian nationals and a Ukranian remain under seal. </p><p>   And in 2019, the U.S. Treasury Department levied financial sanctions on alleged Business Club member Maksim Yakubets, saying he has been \"working for the Russian FSB\" since at least 2017 and in 2018 \"was in the process of obtaining a license to work with Russian classified information from the FSB.\" </p><p>   Experts say the hackers shorten their recovery time with each setback. In September, the U.S. Cyber Command and Microsoft each targeted the botnet used to distribute the Ryuk ransomware, fearful it could be used to interfere in the 2020 general election. The hackers rapidly rolled out a major rewrite of the code that made it more resilient. </p><p>   The botnet has been spotted installing an alternative strain of ransomware known as Conti. Security experts believe the Ryuk gang has been renting this new strain to other hackers in exchange for a percentage of the profits. </p><p>   Last month, Conti was used in devastating attacks on Ireland's public-health infrastructure and 16 targeted attacks on U.S. emergency responders, including hospitals and 911 call centers, according to the FBI. </p><p></p>",
+  "published": "2021-06-11T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1554,
+          "end": 1563
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

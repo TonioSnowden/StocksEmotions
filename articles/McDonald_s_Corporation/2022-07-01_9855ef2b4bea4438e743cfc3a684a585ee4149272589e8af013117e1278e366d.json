@@ -1,0 +1,28 @@
+{
+  "_id": "9855ef2b4bea4438e743cfc3a684a585ee4149272589e8af013117e1278e366d",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>A Business News article on Tuesday about McDonald's Corp.'s incoming chief financial officer incorrectly said that some of the company's franchisees will have to pay McDonald's more money to continue running their locations.</p><p>(See: \"Business News: McDonald's Names Insider to Become Next Finance Chief\" -- WSJ June 28, 2022)</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p>",
+  "published": "2022-07-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "offsets": [
+        {
+          "start": 41,
+          "end": 51
+        },
+        {
+          "start": 247,
+          "end": 257
+        },
+        {
+          "start": 166,
+          "end": 176
+        }
+      ]
+    }
+  ]
+}

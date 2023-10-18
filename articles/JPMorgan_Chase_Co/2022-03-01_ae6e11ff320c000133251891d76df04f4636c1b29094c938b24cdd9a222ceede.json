@@ -1,0 +1,30 @@
+{
+  "_id": "ae6e11ff320c000133251891d76df04f4636c1b29094c938b24cdd9a222ceede",
+  "feed": "market-watch",
+  "title": "More than $500 billion of Russian securities at risk as banks and clearinghouses react to sanctions",
+  "text": "<p>Foreigners held Russian equities valued at $86 billion, the Financial Times reported, citing Moscow Exchange data.</p><p>The U.S. and its western allies have cut some Russian banks from the SWIFT messaging system, as the U.S. barred any transactions with Russia's central bank . On Tuesday, the U.K. said it's adding Sberbank to its list of sanctioned entities.</p><p>The clearing houses Euroclear and Clearstream are moving to stop clearing ruble-denominated securities, and MSCI said it may reclassify Russia as a “standalone” market, from its current emerging-market status. JPMorgan froze two funds that invest in Russia, The Wall Street Journal reported.</p><p>The moves aren't just one way — Russia is blocking payments to institutions outside the country. Bloomberg News reported the country isn't specifically blocking debt repayment, however. Russia's stock market has been closed for two days, and some global stock markets are limiting trading in Russian securities, though many companies continue to trade on the London Stock Exchange .</p><p>Gustavo Medeiros, head of global macro research at emerging-markets investor Ashmore, said there's a risk of a massive liquidity shock.</p><p>“If Russian banks cannot recover their claims or pay their liabilities to the rest of the world the global financial system may experience shockwaves of liquidity events (since unpaid transactions beget more failures), potentially leading to a liquidity crisis compared with the liquidity shock in March 2020 or even the default of Lehman Brothers in 2008,” he said in a note to clients.</p><p>Financial markets, however, are not pricing in such a scenario.</p><p>“The sanctions began to bite in Russia yesterday but the impact elsewhere in the world was remarkably mild, probably because the sanctions seem to be carving out an exception for the country's energy exports and therefore are likely to affect the rest of the world by less than expected,” said Marshall Gittler, head of investment research at BDSwiss Holding.</p><p>U.S. stock futures ES00 declined on Tuesday after a relatively mild 0.2% drop for the S&amp;P 500 SPX on Monday, the first trading day after the sanctions were announced.</p>",
+  "published": "2022-03-01T06:20:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 566,
+          "end": 574
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.86431587,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.14262497,
+        "tagPositionWeight": 0.0069408417,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

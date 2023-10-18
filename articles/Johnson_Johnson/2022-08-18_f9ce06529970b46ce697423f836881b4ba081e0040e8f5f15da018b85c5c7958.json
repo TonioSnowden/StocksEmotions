@@ -1,0 +1,38 @@
+{
+  "_id": "f9ce06529970b46ce697423f836881b4ba081e0040e8f5f15da018b85c5c7958",
+  "feed": "wall-street-journal",
+  "title": "3M Unit Defends Request to Shield Parent From Mass Earplug Lawsuits; A lawyer for bankrupt Aearo Technologies said the request to extend a litigation stay to parent company 3M was in line with recent rulings",
+  "text": "<p>\"Without this requested relief, we will have continued chaos with no focus,\" Mr. Husnick said, referring to multiple motions filed with the district court by personal-injury lawyers suing 3M since Aearo's bankruptcy filing last month. Those lawyers wanted the district judge to stop 3M's plan to shift the pending earplug lawsuits to the bankruptcy court, but the judge rejected their requests and instead will allow a bankruptcy court to decide whether to shield 3M from ongoing litigation.</p><p>Mr. Husnick said Aearo's request to extend a litigation stay to its parent company was in line with recent rulings, including the one by Judge Michael Kaplan of the U.S. Bankruptcy Court in Trenton, N.J., that has allowed an automatic-stay extension to Johnson &amp; Johnson in its subsidiary LTL Management LLC's chapter 11 to resolve talc-related mass lawsuits against J&amp;J.</p><p>Mr. Husnick said Aearo's request was even more legitimate because the 3M subsidiary is an \"organic structure\" that has been in existence for many years, while in some earlier cases, companies used a controversial merger strategy known as the Texas Two-Step.</p><p>\"We're not a Texas Two-Step,\" Mr. Husnick said. \"This is not a sham transaction.\"</p><p>Under agreements signed between Aearo and 3M, the parent company has committed to pay $240 million to fund Aearo's reorganization process and an unlimited amount toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug lawsuits.</p><p>Bankruptcy lawyer Robert Pfister representing tort claimants countered in his closing argument, saying that Aearo doesn't need the litigation stay for 3M because the publicly traded parent company can defend itself in federal court.</p><p>Another claimant lawyer, Kevin Barrett, said Judge Graham should deny Aearo's request because 3M drove Aearo into bankruptcy to get out of the litigation in the district court.</p><p>\"The court can say no to a well-heeled defendant,\" Mr. Barrett said of 3M. \"3M manufactured and imposed on its subsidiaries for the sole purpose of obtaining relief that it was not otherwise entitled to.\"</p><p>Judge Graham concluded the three-day hearing and said he would issue his ruling in writing in the coming weeks.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com</p>",
+  "published": "2022-08-18T15:03:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 857,
+          "end": 860
+        },
+        {
+          "start": 743,
+          "end": 760
+        },
+        {
+          "start": 745,
+          "end": 762
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0011857,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0011856556,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

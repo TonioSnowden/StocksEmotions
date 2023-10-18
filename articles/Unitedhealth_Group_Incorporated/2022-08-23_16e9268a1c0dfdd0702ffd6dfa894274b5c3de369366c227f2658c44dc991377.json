@@ -1,0 +1,58 @@
+{
+  "_id": "16e9268a1c0dfdd0702ffd6dfa894274b5c3de369366c227f2658c44dc991377",
+  "feed": "market-watch",
+  "title": "Signify Health has the kind of data that appeals to companies like Amazon and UnitedHealth Group; That may be why the companies are reportedly pursuing an acquisition of the home-health provider",
+  "text": "<p>If the buyer ends up being Amazon, it would be the e-commerce giant's second healthcare deal this summer following its $3.9 billion purchase in July of direct primary-care provider One Medical, which operates as 1Life Healthcare ONEM. That said, CVS, which operates the health insurer Aetna, and UnitedHealth, another health insurance giant, for years have been building out their care businesses.</p><p>\"We view interest in SGFY as consistent with our thesis that the home remains a critical linchpin in the move towards value-based care,\" Truist analyst David MacDonald told investors on Monday.</p><p>Much of the focus in the acute-care setting is on trying to keep sick people from spending unnecessary and costly time in hospitals. This is called value-based care, which is a concept that instead ties reimbursement to the overall quality of care for a patient, so it's no longer based on each appointment, emergency room visit, or hospital stay. One solution is to send home-health workers to patient homes. And by providing these kinds of home-health services, Signify is able to gather the kind of data that is appealing to major players in the healthcare market.</p><p>\"Signify gathers a tremendous amount of data on the health status and needs of the Medicare Advantage population, a feature that would make it valuable to Amazon or any other larger retailer intent on penetrating that demographic and broadening its reach in healthcare,\" William Blair analysts wrote in a note on Tuesday.</p><p>That also means that Signify competes with deeply entrenched healthcare companies like UnitedHealth, which provides a wide range of services, including insurance, pharmacy benefit services, and primary care. In Signify's most recent 10-K, the company said it competes with at least two UnitedHealth businesses, and its top 10 customers, which are health plans and provider organizations, generated 78% of Signify's total revenue last year.</p><p>\"Clearly part of the play here is also expanding clinical networks and access to clinical data,\" Cowen analysts told investors this week.</p><p>Signify's stock has soared 94.7% so far this year, while the broader S&amp;P 500 SPX is down 13.2%.</p><p>Signify Health has the kind of data that appeals to companies like Amazon and UnitedHealth Group</p>",
+  "published": "2022-08-23T16:17:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.9999816,
+      "offsets": [
+        {
+          "start": 78,
+          "end": 96
+        },
+        {
+          "start": 295,
+          "end": 307
+        },
+        {
+          "start": 296,
+          "end": 308
+        },
+        {
+          "start": 1561,
+          "end": 1573
+        },
+        {
+          "start": 1569,
+          "end": 1581
+        },
+        {
+          "start": 1759,
+          "end": 1771
+        },
+        {
+          "start": 1768,
+          "end": 1780
+        },
+        {
+          "start": 2234,
+          "end": 2252
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.62864,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6286398,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

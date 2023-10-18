@@ -1,0 +1,40 @@
+{
+  "_id": "cf9d1b9e534b188f5ee5841ed7d4e55d94945ea9b3a75b160f7b1f38e381df22",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Boeing Resumes Dreamliner Deliveries",
+  "text": "<p>The plane maker had halted deliveries of the popular jets in October after a series of production quality lapses. The problems have prompted stepped-up regulatory scrutiny and hindered Boeing's ability to generate cash amid the Covid-19 pandemic, which has hurt demand for air travel and the airplanes it produces.</p><p>A Boeing spokesman declined to comment on the pace of deliveries for the company's backlog of Dreamliners, which it has moved to produce at a rate of five airplanes a month. Since halting deliveries in October, Boeing has built up an inventory of more than 80 finished planes, according to aviation data provider Ascend by Cirium.</p><p>The Boeing spokesman said the company thoroughly examined many aspects of the 787 program to ensure newly delivered airplanes \"meet all regulatory requirements and Boeing's highest quality standards.\"</p><p>The Dreamliner production lapses spurred a broad review by the Federal Aviation Administration.</p>",
+  "published": "2021-03-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 317,
+          "end": 323
+        },
+        {
+          "start": 650,
+          "end": 656
+        },
+        {
+          "start": 526,
+          "end": 532
+        },
+        {
+          "start": 28,
+          "end": 34
+        },
+        {
+          "start": 810,
+          "end": 816
+        },
+        {
+          "start": 185,
+          "end": 191
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

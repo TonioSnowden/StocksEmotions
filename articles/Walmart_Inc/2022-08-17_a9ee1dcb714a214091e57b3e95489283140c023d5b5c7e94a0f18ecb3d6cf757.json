@@ -1,0 +1,30 @@
+{
+  "_id": "a9ee1dcb714a214091e57b3e95489283140c023d5b5c7e94a0f18ecb3d6cf757",
+  "feed": "ftcomall",
+  "title": "US stocks and bonds under pressure after Fed minutes and UK data",
+  "text": "<p>Stocks and bonds came under pressure on Wednesday as investors parsed disappointing earnings from US retailer Target, worse than expected UK inflation data, and minutes from the Federal Reserve's most recent meeting in which the central bank signalled that restrictive rates may be needed “for some time”.</p> <p>Wall Street's S&amp;P 500 share index ended the day down 0.7 per cent, while the technology-heavy Nasdaq Composite gauge fell 1.3 per cent.</p> <p>Target's shares fell 2.7 per cent on Wednesday after the US retailer missed earnings expectations for the three months to July 30 and its chief executive spoke of a “very challenging environment”. </p> <p>The figures were posted just a day after <a href=\"https://www.ft.com/content/331a22d4-022e-4639-8ba8-354a6a23c038\">earnings reports</a> from retail bellwether Walmart and do-it-yourself chain Home Depot indicated some resilience in consumer spending despite inflationary pressures affecting customers. Target's shares had fallen by as much as 5 per cent earlier in the day.</p> <p>Those market moves came as investors assessed another burst of economic data, starting with higher-than-feared inflation figures for the UK. The country's consumer price index registered a <a href=\"https://www.ft.com/content/2fb6f361-a7bb-4b98-8100-6847b5df79b4\">10.1 per cent year-on-year increase</a> for July, greater than June's figure of 9.4 per cent and above economists' consensus forecast of a 9.8 per cent rise.</p> <p>The UK figures sparked a <a href=\"https://www.ft.com/content/4117ce75-c7ec-491f-86e3-84f25e039323\">rout in the country's short-dated debt</a>, which is sensitive to changes in interest rate expectations, as investors raised their estimates of how high the Bank of England would lift borrowing costs to curb rapid price growth. </p> <p>The two-year gilt yield surged as much as 0.3 percentage points to 2.45 per cent, its highest level since the global financial crisis in 2008. The 10-year gilt yield added as much as 0.19 percentage points to 2.32 per cent. </p> <p>Low summer trading volumes exacerbated the moves in gilts, said Lyn Graham-Taylor, rates strategist at Rabobank. “Gilts have sold off more than I'd expected given the news. The size of that move has dragged Bunds and Treasuries with it.”</p> <p>That selling ricocheted across other countries' debt markets and pushed up the two-year Treasury to a two-month high in early trade. The move was not sustained, however, as the two-year dipped after the release of <a href=\"https://www.ft.com/content/8881b6d4-76e6-46cd-9ebe-efaeffeddb98\">minutes</a> from the Federal Reserve's latest policy meeting in July at which the US central bank raised interest rates by 0.75 percentage points. </p> <p>The market reaction suggested investors viewed the minutes as dovish despite the fact that they showed that Fed officials had discussed the need to keep interest rates at levels that restrict the US economy “for some time” in a bid to contain the highest inflation in roughly 40 years.</p> <p>The two-year Treasury yield ended the day up 0.02 percentage points at 3.28 per cent. </p> <p>Elsewhere in equity markets, Europe's regional Stoxx 600 closed down 0.9 per cent, while Germany's Dax slipped 2 per cent. In Asia, Japan's Topix index closed up 1.3 per cent, while Hong Kong's Hang Seng rose 0.5 per cent.</p><p>Source: Ian Johnston in London and Kate Duguid in New York 2022 'US stocks and bonds under pressure after Fed minutes and UK data' FT.com 17 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-17T20:35:25.547Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 717,
+          "end": 724
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0015374,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0015374422,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

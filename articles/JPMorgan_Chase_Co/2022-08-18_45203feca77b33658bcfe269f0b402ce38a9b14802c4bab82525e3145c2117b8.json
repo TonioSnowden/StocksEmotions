@@ -1,0 +1,38 @@
+{
+  "_id": "45203feca77b33658bcfe269f0b402ce38a9b14802c4bab82525e3145c2117b8",
+  "feed": "wall-street-journal",
+  "title": "Bank Stocks Make a Comeback; Major banks including Goldman Sachs and Morgan Stanley have outperformed S&P 500 since the end of June",
+  "text": "<p>Bank stocks have had a rough year. Lately they're showing signs of life.</p><p>Since the end of June, five of the six largest U.S. banks have outperformed the S&amp;P 500's 13% gain. Shares of Morgan Stanley and Goldman Sachs Group Inc. are up 20% and 19%, respectively. Wells Fargo &amp; Co. is up 18%, while Citigroup Inc. and Bank of America Corp. each have gained about 17%.</p><p>JPMorgan Chase &amp; Co. shares are up about 9% so far in the third quarter.</p><p>Bank stocks sold off sharply in the first half of 2022 after two years of significant gains, pushed lower by a number of factors. Russia's war in Ukraine upended commodities markets. Investors worried that the Federal Reserve rate-raising campaign against inflation would push the U.S. into recession. Corporate chiefs, unnerved by the uncertainty, moved to the sidelines, drying up the deal-making boom that buoyed banks throughout the pandemic.</p><p>Some analysts say that now, much of the bad news is baked in, both for banks and the broader market. Stocks have climbed across the board since June.</p><p>The rally could reverse if the Fed proves unsuccessful at lowering inflation, said Steven Chubak, analyst at Wolfe Research. \"Most people don't believe we're out of the woods quite yet,\" he said. \"We are in this sort of purgatory state.\"</p><p>Bank stocks tend to move up and down with expectations for the economy, and the rally has coincided with some signs that the economy is improving. U.S. employers continued to add jobs in July, inflation slipped and gas prices have been falling. Consumer sentiment has improved for the past two monthsas a result, after setting a record low in June.</p><p>\"It seems like inflation is coming down, but is it going to settle at a high level? If that's the case, the risk is higher that we get more bumps,\" said Christopher McGratty, analyst at Stifel Financial Corp. unit KBW.</p><p>Major credit-card issuers are spending heavily on marketing and trying to increase total card balances, a strategy that suggests they think consumer spending will remain strong.</p><p>SHARE YOUR THOUGHTS</p><p>Are you adding big bank stocks to your portfolio? Why or why not? Join the conversation below.</p><p>And even in a severe recession, bank stocks have some room to run, said Citigroup analyst Keith Horowitz. The Fed stress tests found in June that the largest U.S. banks would be able to keep lending to businesses and households in a bad downturn.</p><p>Still, investors continue to wrestle with concerns about a global slowdown. The U.S. economy has shrunk for two consecutive quarters, a common definition of recession. High prices for gas, groceries and rent have squeezed U.S. households. The Fed's repeated rate increases have slowed the housing market. Meanwhile, the pandemic-era surge in deal-making hasn't reappeared. The major banks all reported a second-quarter profit decline of at least 27% from a year earlier.</p><p>The six major banks are all in the red for the year, some of them worse than the decline in the broader market. The worst performer, JPMorgan Chase, is down about 23% for the year. The best performer, Wells Fargo, is down about 4%.</p><p>Write to Charley Grant at charles.grant@wsj.com</p><p>Bank Stocks Make a Comeback</p>",
+  "published": "2022-08-18T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2952,
+          "end": 2966
+        },
+        {
+          "start": 360,
+          "end": 380
+        },
+        {
+          "start": 365,
+          "end": 385
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.760694,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.29250002,
+        "tagPositionWeight": 0.053194046,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

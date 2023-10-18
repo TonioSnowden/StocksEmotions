@@ -1,0 +1,64 @@
+{
+  "_id": "f48476a99cb4a1926a606429260b617cdbcf4f74673e3c288bddc254a9b8d85d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Business News:  Apple Defends  Tools to Fight  Child Porn  ---  The plans have raised  concerns about an  erosion of privacy on  the iPhone  ----  By Joanna Stern and Tim Higgins",
+  "text": "<p>   A senior Apple Inc. executive defended the company's new software to fight child pornography after the plans raised concerns about an erosion of privacy on the iPhone, revealing greater detail about safeguards to protect from abuse. </p><p>   Craig Federighi, Apple's senior vice president of software engineering, in an interview emphasized that the new system will be auditable. He conceded that the tech giant stumbled in last week's unveiling of two new tools. </p><p>   One is aimed at identifying known sexually explicit images of children stored in the company's cloud storage service and the second will allow parents to better monitor what images are being shared with and by their children through text messages. </p><p>   \"It's really clear a lot of messages got jumbled pretty badly in terms of how things were understood,\" Mr. Federighi said. \"We wish that this would've come out a little more clearly for everyone because we feel very positive and strongly about what we're doing.\" </p><p>   The Cupertino, Calif., iPhone maker has built a reputation for defending user privacy and the company has framed the new tools as a way to continue that effort while also protecting children. Apple and other tech companies have faced pressure from governments around the world to provide better access to user data to root out illegal child pornography. </p><p>   While Apple's new efforts have drawn praise from some, the company has also received criticism. An executive at Facebook Inc.'s WhatsApp messaging service and others, including Edward Snowden, have called Apple's approach bad for privacy. </p><p>   The overarching concern is whether Apple can use software that identifies illegal material without the system being taken advantage of by others, such as governments, pushing for more private information -- a suggestion Apple strongly denies and Mr. Federighi said will be protected against by \"multiple levels of auditability.\" </p><p>   \"We, who consider ourselves absolutely leading on privacy, see what we are doing here as an advancement of the state of the art in privacy, as enabling a more private world,\" Mr. Federighi said. </p><p>   One of the tools, announced last week for release later this year, effectively sounds an alarm when somebody uploads known child pornography onto the company's cloud storage service, known as iCloud. </p><p>   Unlike other cloud providers, Apple doesn't scan everything in a user's online account. Instead, Apple came up with a means to identify images on the iPhone that match a database of known illegal images. </p><p></p>",
+  "published": "2021-08-14T06:16:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 250,
+          "end": 255
+        },
+        {
+          "start": 1779,
+          "end": 1784
+        },
+        {
+          "start": 1158,
+          "end": 1163
+        },
+        {
+          "start": 28,
+          "end": 33
+        },
+        {
+          "start": 9,
+          "end": 19
+        },
+        {
+          "start": 2313,
+          "end": 2318
+        },
+        {
+          "start": 1594,
+          "end": 1599
+        },
+        {
+          "start": 1525,
+          "end": 1530
+        },
+        {
+          "start": 2380,
+          "end": 2385
+        },
+        {
+          "start": 1326,
+          "end": 1331
+        },
+        {
+          "start": 9,
+          "end": 18
+        },
+        {
+          "start": 9,
+          "end": 14
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "7c81cf10645d0d2816ad8ff3611f447e6615c3b977760e288de6795162238c5b",
+  "feed": "wall-street-journal",
+  "title": "Bed Bath & Beyond Reaches Financing Pact  ----  By Jodi Xu Klein and Andrew Scurria",
+  "text": "<p>   Bed Bath &amp; Beyond Inc. has found a financing source to shore up its liquidity as it tries to weather recent missteps, according to people familiar with the matter. </p><p>   The company on Tuesday told prospective lenders that it has selected a lender to provide a loan following a marketing process conducted by JPMorgan Chase &amp; Co., people familiar with the matter said. </p><p>   A loan deal would provide liquidity and give vendors confidence they can continue to ship goods to Bed Bath &amp; Beyond, which is fighting to correct missteps from an ill-fated push into private-label brands. The retailer had been seeking about $375 million to pad its cash levels and help pay down existing debt, The Wall Street Journal previously reported. </p><p>   The size and structure of the final deal wasn't clear on Tuesday. Bed Bath &amp; Beyond didn't respond to a request for comment. JPMorgan declined to comment. </p><p>   The company's shares skyrocketed last week on a burst of interest from individual investors but have been sliding since billionaire activist Ryan Cohen announced his exit from the stock and sold off his 10% stake. </p><p>   The company has signaled it has to raise cash. While it has said it should be fine for a year, its business remains in decline. Bed Bath &amp; Beyond has said it would provide an update on efforts to strengthen its balance sheet at the end of the month. </p><p>   --- </p><p>   Laura Cooper contributed to this article. </p><p></p>",
+  "published": "2022-08-24T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 838,
+          "end": 846
+        },
+        {
+          "start": 844,
+          "end": 852
+        },
+        {
+          "start": 302,
+          "end": 322
+        },
+        {
+          "start": 303,
+          "end": 323
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.093061,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.09306097,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

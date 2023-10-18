@@ -1,0 +1,28 @@
+{
+  "_id": "d31c3da28a5a4cec9566cb6b81fd2c05c0e87063791b50de2eacea85eb2c1748",
+  "feed": "wall-street-journal",
+  "title": "World News: Catalent to Expand J&J Dose Production",
+  "text": "<p>J&amp;J has agreed to provide the EU with 200 million doses this year. The EU has the option of buying another 200 million.</p><p>Johnson &amp; Johnson declined to comment. The company has enlisted nearly a dozen companies to help produce its Covid-19 shot.</p>",
+  "published": "2021-03-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 120,
+          "end": 137
+        },
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 31,
+          "end": 34
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

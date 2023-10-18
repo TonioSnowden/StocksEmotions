@@ -1,0 +1,20 @@
+{
+  "_id": "14679840fc9b2819c57150186a14f2193fe93deaf1ed8bea0380eb221e76b269",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>U.S. stocks ended lower in Wednesday's session, with the S&amp;P 500, Dow and Nasdaq retreating 0.4%, 0.7% and 0.2%, respectively.</p><p>---</p><p>Celsius Network filed for bankruptcy protection, a month after the crypto lender halted withdrawals in the wake of a collapse in digital currency prices.</p><p>---</p><p>Netflix said it chose Microsoft to help launch a low-cost, advertising-supported streaming plan.</p><p>---</p><p>Berkshire has lifted its stake in Occidental to about 19%, nearing a threshold that would allow it to include the oil company in its results.</p><p>---</p><p>Delta Air Lines said strong demand for travel that offset higher costs helped it turn a profit in the second quarter.</p><p>---</p><p>Spirit Airlines agreed to push back its shareholder vote on its merger with Frontier as the two sides try to win more support from skeptical investors.</p><p>---</p><p>Unity Software agreed to buy Israeli mobile-app and ad-tech firm ironSource in a $4.4 billion all-stock deal.</p>",
+  "published": "2022-07-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 311,
+          "end": 320
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

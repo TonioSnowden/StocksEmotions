@@ -1,0 +1,30 @@
+{
+  "_id": "8ed7ac0018a5b7a37349fcd84be96d29fa65fd639fd5021ebded2590eceac269",
+  "feed": "market-watch",
+  "title": "These 3 stock market benchmarks nailed the dot-com bubble in 2000. Here's what they're saying now. Investors in this market can expect no bubble and no trouble",
+  "text": "<p>John Burr Williams, the original value investor, showed that the long-run return on stocks is approximately equal to the dividend yield plus the long-run growth of dividends. For example, a 2% dividend yield plus a 5% growth rate implies a 7% long-run stock return. One way to think about this is that stock returns consist of dividends plus capital gains and, if dividends grow by 5% a year, we can expect stock prices to grow by about 5% a year, too, in the long run.</p><p>On March 11, 2000, I spoke at a conference on the booming stock market and the widely publicized \"36K\" prediction that the Dow Jones Industrial Average DJIA would soon more than triple, from below 12,000 to 36,000. At the time, the S&amp;P 500 dividend yield was 1.16%. Adding a 5% long-run growth rate for dividends, the John Burr Williams approach implied a 6.16% long-run return for stocks, which was below the 6.26% interest rate on 10-year U.S. Treasury bonds BX:TMUBMUSD10Y. Taking into account two other benchmarks I will discuss below, I concluded my presentation with the warning, \"This is a bubble, and it will end badly.\"</p><p>In December 2008, I was interviewed about the stock market. The S&amp;P 500 was down 40% from March 2000 and the U.S. unemployment rate was 7.8% and rising as the economy hurtled into the Great Recession. Who would be crazy enough to buy stocks? I was. The S&amp;P 500 dividend yield was 3.23% and a 5% growth rate implied an 8.23% long-run return from stocks, which was 5.81% above the 2.42% 10-year Treasury rate at that time. I said this was a buying opportunity of a lifetime.</p><p>What about now? The S&amp;P 500 dividend yield is currently 1.63% and a 5% dividend growth rate implies a 6.63% long-run stock return, compared to a 3.20% 10-year Treasury rate. The stock-minus-bond difference as of the close on Sept. 7 was 6.63% – 3.27% = 3.36%, roughly halfway between the –0.10% difference in March 2000 and the 5.81% difference in December 2008 — halfway between a bubble and a buying opportunity of a lifetime</p><p>A second benchmark is Shiller's CAPE. I invert CAPE to give what I call CAEP = 1/CAPE. This benchmark, the cyclically adjusted earnings yield, is an estimate of the long-run real (inflation-adjusted) return on stocks and can be compared to the real return on Treasurys. In March 2000, CAEP was 2.31, which was 1.45% below the 3.76% real return on 10-year Treasurys (using a 2.5% inflation rate). This reinforced my conclusion that the market was in a bubble at the time.</p><p>In December 2008, CAEP was 6.61%, which was 6.59% above the –0.08% real yield on Treasuries — which reinforced my opinion that this was a rare buying opportunity. Now CAEP is 3.40%, which is 2.7% above the 0.7% real yield on Treasuries (again assuming a long-run 2.5% inflation rate). If you assume a higher rate of inflation, stocks look even more attractive.</p><p>My third benchmark uses John Bogle's insight that the percentage change in stock prices is equal to the percentage change in earnings plus the percentage change in the P/E ratio. I use Bogle's insight with a variety of assumptions for future values of the P/E and I won't go through the details here for March 2000 or December 2008; they can be found in my book, \"Money Machine: The Surprisingly Simple Power of Value Investing.\" Suffice it to say, they reinforced my conclusions at the time that March 2000 was a bubble and December 2008 was a great buying opportunity.</p><p>Currently the dividend yield is 1.63% and the S&amp;P 500 P/E is 19.84. If dividends and earnings grow, on average, by 5% a year and the P/E ratio 10 years from now is still 19.84, the annual return on the S&amp;P 500 will be 6.63%. If, instead, the S&amp;P 500 P/E in September 2032 is 15 or 25, the annual S&amp;P 500 return will be 3.88% or 8.97%, respectively, which can again be compared to the current 3.27% 10-year Treasury rate.</p><p>The proverbial bottom line. The John Burr Williams approach indicates that the long-run returns from stocks is currently 3.36% above the long-run return from 10-year Treasury bonds. CAEP indicates that the difference is 2.70%. The Bogle approach gives a range for the difference of from 0.55% to 5.64%.</p><p>You can use these three frameworks with your own assumptions to draw your own conclusions. My conclusion is that stocks look like a substantially better long-run investment than 10-year Treasury bonds, but not by a once-in-a-lifetime amount. From that perspective, the U.S. stock market certainly does not look even remotely bubbly.</p><p>Gary Smith is the Fletcher Jones Professor of Economics at Pomona College. He is the author of \" The Money Machine: The Surprising Power of Value Investing \" (AMACOM 2017), author of \" The AI Delusion, \"(Oxford, 2018), and co-author (with Jay Cordes) of \" The 9 Pitfalls of Data Science \" (Oxford 2019).</p><p>More: Bill Ackman says stocks will soon be a 'buy' now that the Fed is 'doing what it has to do' to fight inflation</p><p>Plus: Preferred stocks can offer hidden opportunities for dividend investors. Just look at this JPMorgan Chase example.</p><p>These 3 stock market benchmarks nailed the dot-com bubble in 2000. Here's what they're saying now.</p>",
+  "published": "2022-09-08T11:28:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 4937,
+          "end": 4951
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

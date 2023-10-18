@@ -1,0 +1,84 @@
+{
+  "_id": "7ff8b7c184ad9f5705afcafdf77f1a5c7b0c84a8e3688a346fb0a7a926fef141",
+  "feed": "wall-street-journal",
+  "title": "Banks Challenge Apple Pay  Over Fees for Transactions  ----  By AnnaMaria Andriotis",
+  "text": "<p>   Banks rushed to work with the Apple Pay mobile wallet when it launched in 2014. They have some regrets. </p><p>   When Apple Pay launched, the tech giant got big banks including JPMorgan Chase &amp; Co., Capital One Financial Corp. and Bank of America Corp. to agree to pay fees that would allow their cardholders to pay by iPhone. But some banks have grown unhappy with the costs, especially after Apple Inc. introduced its own new credit card in 2019, according to people familiar with the matter. </p><p>   Some banks are pushing back, nudging card network Visa Inc. to change the way it processes certain Apple Pay transactions, according to some of the people. The change would trim the fees that banks pay to Apple. </p><p>   Visa plans to implement the change next year, according to people familiar with the matter and a document viewed by The Wall Street Journal. Apple executives have told Visa executives they oppose the change, the people said. The two companies are in discussions and it is possible the planned change won't kick in. </p><p>   Currently, banks pay Apple a fee when their cardholders use Apple Pay. Under the planned new process, the fees wouldn't apply on automatic recurring payments such as gym memberships and streaming services. </p><p>   The dispute reflects a long-running tension between the giants of tech and finance. Companies such as Apple and Amazon.com Inc. have been expanding in consumer payments for years. The banks have often rushed into deals with them, afraid of being left behind. But the deals don't always work out: Alphabet Inc.'s Google, for instance, is abandoning plans to pitch bank accounts to users. </p><p>   Apple said in a statement that \"our banking partners are an important part of Apple Pay's growth.\" </p><p>   \"Our bank partners continue to see the benefits of providing Apple Pay and invest in new ways to implement and promote Apple Pay to their customers for secure and private in-store and online purchases,\" the company said. </p><p>   Major networks including Visa and Mastercard Inc. are the effective gateways between banks and Apple Pay because they help banks' cards get loaded onto the mobile wallet. The change would apply to Visa-branded cards, though other networks could follow suit. </p><p>    Mobile wallets are smartphone apps on which people can load their debit- or credit-card credentials and use their phone, rather than the tangible card, to make payments. The transactions are charged to the shopper's card. </p><p>   When Apple introduced Apple Pay in 2014, the iPhone had already clobbered music players, cameras and GPS systems. Banks and card networks worried it also would displace card payments. </p><p>   Banks agreed to pay Apple 0.15% of each purchase made by their credit cardholders. (They pay a separate fee on debit-card transactions.) Those fees account for most of the revenue that Apple makes from its digital wallet, according to people familiar with the matter. </p><p>   The terms had the potential to be uniquely lucrative for Apple. Banks don't pay fees to Google for its wallet. </p><p>   Visa and Mastercard also agreed to give Apple an unusual concession, according to people familiar with the matter: Apple would be able to choose which issuers it would allow onto Apple Pay and which of those issuers' cards it would accept. </p><p>   Visa and Mastercard generally require that entities that accept their credit cards must accept them all. Apple agreed to not develop a card network to compete against Visa and Mastercard, the people said. </p><p>   But since then, customers have been slower to adopt Apple Pay than bank and card network executives had expected. And some bank executives were angered when Apple launched its own credit card in 2019 with Goldman Sachs Group Inc., said people familiar with the matter, since it made Apple more of a direct competitor. </p><p>   Apple said in a statement that it partners closely \"with nearly 9,000 banking partners to offer Apple Pay to customers in nearly 60 countries and regions.\" </p><p>   Visa shared its planned technical change with at least some banks in recent months. A document reviewed by the Journal that explained the new process didn't mention the fees but detailed a change to so-called tokens that Visa issues for mobile-wallet payments. </p><p>   When consumers load their credit card onto Apple Pay, Visa issues a special token that replaces the card number. That allows the card to work on Apple Pay and helps keep the card secure in a potential data breach, among other benefits. </p><p>   Visa plans to start using a different token on recurring automated payments. That effectively means that after a first payment is made on a subscription, Apple won't get fees on the following transactions. </p><p>   Some big banks previously tried to get their Apple Pay fees lowered around 2017 but didn't succeed, according to people familiar with the matter. </p><p>   --- </p><p>   David Benoit contributed to this article. </p><p></p>",
+  "published": "2021-10-06T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 385,
+          "end": 394
+        },
+        {
+          "start": 385,
+          "end": 395
+        },
+        {
+          "start": 585,
+          "end": 590
+        },
+        {
+          "start": 691,
+          "end": 696
+        },
+        {
+          "start": 839,
+          "end": 844
+        },
+        {
+          "start": 1034,
+          "end": 1039
+        },
+        {
+          "start": 1321,
+          "end": 1326
+        },
+        {
+          "start": 2411,
+          "end": 2416
+        },
+        {
+          "start": 2610,
+          "end": 2615
+        },
+        {
+          "start": 2775,
+          "end": 2780
+        },
+        {
+          "start": 2915,
+          "end": 2920
+        },
+        {
+          "start": 3009,
+          "end": 3014
+        },
+        {
+          "start": 3084,
+          "end": 3089
+        },
+        {
+          "start": 3314,
+          "end": 3319
+        },
+        {
+          "start": 3571,
+          "end": 3576
+        },
+        {
+          "start": 3697,
+          "end": 3702
+        },
+        {
+          "start": 4539,
+          "end": 4544
+        }
+      ]
+    }
+  ]
+}

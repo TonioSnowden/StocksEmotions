@@ -1,0 +1,28 @@
+{
+  "_id": "293ad33a94650f4e4fba8d2e771c4e4aae0dab73cc5196208561182dd79614dc",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Chip Shortage Drives Tech  And Car Industries Closer  ----  By Asa Fitch",
+  "text": "<p>   Cooperation between semiconductor companies and the automotive industry is moving into the fast lane, driven by a chip shortage and a recognition that cars are becoming evermore digital. </p><p>   More than a year into the crisis, executives from car and chip makers are establishing closer ties to address the shortage and working together to introduce new products. The shift was on display as executives from such chip companies as Intel Corp., Qualcomm Inc. and Nvidia Corp. flocked to Munich last week for an annual auto show, lured by the promise of selling chips for new car displays, driver-assistance features and other vehicle applications. </p><p>   The chip crisis highlighted to car makers how dependent they have become on semiconductors, but Intel Chief Executive Officer Pat Gelsinger told car-industry officials at the event Tuesday that the appetite of the auto industry for processors is making it a more critical customer segment for semiconductor companies. A fifth of the cost of the materials that go into making premium-segment cars, he said, would be semiconductors by 2030, up from 4% in 2019. </p><p>   \"We need you, and you need us,\" he said at the event. \"This is a symbiotic future that we are off innovating and supplying as the automobile becomes a computer with tires.\" </p><p>   Even as cars started to sport more chips in recent years, the relationship between auto and chip makers often remained indirect. Car makers largely relied on their parts vendors to buy the chips their vehicles needed. That disconnect contributed to the auto chip crisis of recent months, car- and chip-industry executives have said. Those ties are being reset, industry officials are now saying. </p><p>    Daimler AG CEO Ola Kallenius told The Wall Street Journal last week that the company was now in direct contact with chip makers to monitor supply. The German company's luxury-car business, Mercedes-Benz, has had to juggle chip supplies, encountering delays for some models and giving priority to its most-profitable vehicles for processor allocations. </p><p>    Cristiano Amon, chief executive of the mobile-phone-chip company Qualcomm, said Wednesday in Munich that the deployment of superfast 5G communications networks would help enable new car features, including the deployment of self-driving cars. Car companies, he said, \"should all be seen as technology companies and part of the tech sector.\" That means auto makers need to have direct ties to tech companies, he added. </p><p>   Qualcomm said earlier in the week that its chips would drive infotainment systems in Renault SA's new electric cars. The chip company agreed in January to expand its work with General Motors Co. on digital-cockpit and driver-assistance features. In another sign of Qualcomm's interest in the auto sector, the company last month started a $4.6 billion bid for the Swedish auto-tech company Veoneer Inc. </p><p>   Analysts expect the chip and car industries' interdependence will only accelerate. The research firm IHS Markit Ltd. estimates the automotive chip market will be worth around $85 billion in 2027, up from around $52 billion this year. </p><p>   The auto sector provides chip makers with considerable expansion opportunities, unlike in more-mature semiconductor markets, said Phil Amsrud, an IHS auto analyst. </p><p>   At the car event, Mr. Gelsinger said Intel would start a robotaxi service using its Moovit mobility app it acquired a year ago for about $900 million and leveraging the self-driving technology of Mobileye, its roughly $15 billion bet on the automotive sector four years ago. Mobileye, an Israeli autonomous-driving company, supplies technology to established auto makers including BMW AG and Ford Motor Co. for their driver-assistance features. </p><p></p>",
+  "published": "2021-09-13T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 737,
+          "end": 742
+        },
+        {
+          "start": 3276,
+          "end": 3281
+        },
+        {
+          "start": 425,
+          "end": 430
+        }
+      ]
+    }
+  ]
+}

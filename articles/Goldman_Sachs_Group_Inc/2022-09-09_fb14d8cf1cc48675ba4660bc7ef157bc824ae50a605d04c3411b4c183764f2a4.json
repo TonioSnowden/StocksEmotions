@@ -1,0 +1,38 @@
+{
+  "_id": "fb14d8cf1cc48675ba4660bc7ef157bc824ae50a605d04c3411b4c183764f2a4",
+  "feed": "ftcomall",
+  "title": "Apollo veteran Josh Harris launches $5bn investment group",
+  "text": "<p>Josh Harris, the billionaire private equity executive who left Apollo Global Management last year after a messy succession battle, is returning to the investment industry with a firm that aims to be a contender in financial markets including private equity, credit and insurance.</p> <p>The venture, named 26North, is launching with $5bn in assets under management and a team of 40 executives, according to a statement on Friday.</p> <p>Among the newly announced recruits is Mark Weinberg, a veteran of Brookfield Asset Management and Lehman Brothers, who will take the reins at the firm's private equity division.</p> <p>Brendan McGovern, who left Goldman Sachs earlier this year after senior positions in the credit division of the bank's asset management arm, will assume responsibility for 26North's direct lending platform.</p> <p>Harris spent most of his career at <a href=\"https://www.ft.com/stream/74152c2f-00ac-4bd2-afbe-1170bcdc97cc\">Apollo</a>, the private equity firm founded in 1990 by billionaire financier Leon Black with a group of partners from the failed Drexel Burnham Lambert investment bank. </p> <p>Since then, what began as a scrappy investment partnership focused on companies in distress has evolved into an institutional manager with $515bn of assets, including a huge portfolio of corporate debt.</p> <p>Many of those investments are attached to Athene Holding, the annuities company that Apollo founded in 2009, and with which it <a href=\"https://www.ft.com/content/69202da4-5af2-4df8-a41e-5356ffddc876\">merged </a>earlier this year. </p> <p>Harris's venture, too, will manage assets for annuity and insurance industry clients, according to a filing with the US Securities and Exchange Commission on Friday.</p> <p>Black quit as Apollo chief executive last year, after a law firm hired by the private equity group concluded that he had paid $158mn to the late sex offender Jeffrey Epstein in return for tax advice, assistance handling art transactions and other professional services.</p> <p>The controversy touched off a succession battle in which Harris ultimately lost out to fellow Apollo partner Marc Rowan. Black earlier this year <a href=\"https://www.ft.com/content/526249e8-0fb4-43ac-ae05-5488b5e3b17c\">failed </a>to persuade a judge that Harris conspired with a Russian fashion model to publicise made-up allegations of sexual abuse that prompted his departure as Apollo's chief executive.</p><p>Source: Mark Vandevelde in New York 2022 'Apollo veteran Josh Harris launches $5bn investment group' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T20:45:17.062Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 628,
+          "end": 635
+        },
+        {
+          "start": 628,
+          "end": 641
+        },
+        {
+          "start": 625,
+          "end": 638
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0038533,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0038534403,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "7b132ceb62c02ca1d8175c2e4841402754926464267cc0179805f48cc7f6a801",
+  "feed": "market-watch",
+  "title": "Epic Games is coming to Microsoft's online app store",
+  "text": "<p>In a blog post, Microsoft said it would “allow third-party storefront apps to be discoverable in the Microsoft Store on Windows.” The storefronts of Epic and Amazon.com Inc. AMZN highlight the additions.</p><p>Microsoft Store is scheduled to launch Oct. 5, with Windows 11. Users of Windows 10 will have access to the new store a few months later.</p><p>“Microsoft is committed to creating a transparent and open Microsoft Store on Windows for our developers and customers,” a company spokeswoman told MarketWatch. “To that end, inviting third-party app stores is making sure our business terms and app store policies are fair and help promote innovation.”</p><p>The software giant's move offers a high-profile landing spot for Epic, which has warred with Apple Inc. AAPL over the iPhone maker's 30% commission fee — a dispute that led to a landmark antitrust lawsuit against Apple that went to federal court in May.</p><p>In what many interpreted as a split decision this month, a federal judge issued an injunction&#xa0;that Apple can no longer force developers to use its payment system, effectively bypassing commission fees of 15% to 30%. However, the iPhone maker was not ruled an antitrust monopolist.</p><p>Epic, which is appealing the judge's ruling, declined to comment further beyond Microsoft's statement.</p><p>Apple did not immediately respond to an email seeking comment.</p>",
+  "published": "2021-09-29T07:16:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 858,
+          "end": 863
+        },
+        {
+          "start": 998,
+          "end": 1003
+        },
+        {
+          "start": 738,
+          "end": 748
+        },
+        {
+          "start": 749,
+          "end": 753
+        },
+        {
+          "start": 1283,
+          "end": 1288
+        },
+        {
+          "start": 738,
+          "end": 743
+        },
+        {
+          "start": 738,
+          "end": 747
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

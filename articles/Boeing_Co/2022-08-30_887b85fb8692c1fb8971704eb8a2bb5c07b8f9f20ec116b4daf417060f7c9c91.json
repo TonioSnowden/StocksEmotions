@@ -1,0 +1,34 @@
+{
+  "_id": "887b85fb8692c1fb8971704eb8a2bb5c07b8f9f20ec116b4daf417060f7c9c91",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  NASA Scrubs Moon Mission Launch  ----  By Micah Maidenberg",
+  "text": "<p>   KENNEDY SPACE CENTER, Fla. -- NASA scrubbed a lunar-orbit launch set for Monday due to technical glitches, a fresh hurdle for the space agency as it looks to prove its most powerful rocket ever can handle planned missions to the moon. </p><p>   The National Aeronautics and Space Administration said engineers need time to resolve problems related to temperature and pressure in one of the four engines installed on the main part of the Space Launch System rocket. The space agency halted the countdown clock, and officials said they may again try to launch Friday pending further analysis. </p><p>   NASA officials described the engine-related problems with the agency's moon rocket as more about plumbing than with the engine itself. A process known as an engine bleed wasn't able to sufficiently cool down one of the rocket's engines to attempt a launch, a problem complicated by a leak in a valve that helps adjust pressure. </p><p>   \"The vent valve wasn't cooperating with us,\" said Mike Sarafin, who manages Artemis at NASA, the agency's effort to get back to the moon. \"It was this delicate balance of maintaining the pressure to establish the bleed on all four engines, and Engine 3 was not seeing the temperatures that it needed.\" </p><p>   Leaders at the space agency said in the run-up to Monday morning that the flight was designed to stress test its deep-space vehicles and warned that technical issues could emerge. Weather conditions also turned unfavorable during Monday's launch window, which was slated to open for two hours at 8:33 a.m. ET. </p><p>   \"This is a brand-new rocket -- it's not going to fly until it's ready,\" NASA Administrator Bill Nelson said. Agency engineers solved several problems ahead of Monday's launch, Mr. Nelson said, until \"they got to one that needed time to be solved.\" </p><p>   The engine-related issue that surfaced Monday involved a procedure where super-cold propellant is routed into the engines to prepare them for when fuel flows through them at liftoff, according to a NASA spokeswoman. The engines need to be within a certain temperature range to start them. </p><p>   NASA hadn't demonstrated it can complete that procedure before Monday's planned launch, according to Mr. Sarafin. \"We knew that that was a risk headed into this launch campaign,\" he said. </p><p>    Aerojet Rocketdyne Holdings Inc., which made the four main engines on the SLS and upgraded them for the proposed flight, said there are no early indications that Monday's launch was postponed because of problems with its RS-25 engines, according to a company spokesman. </p><p>   The SLS is the most powerful rocket that NASA has ever looked to blast off. Its attempted launch comes as SpaceX is developing its own powerful rocket system that aims to handle future deep-space missions, as SLS and the spacecraft Orion are designed to do. Orion sits on top of the rocket, and would travel to the moon during a normal launch. Monday's scrubbed mission would have sent an uncrewed Orion to a lunar orbit and back to Earth over more than 40 days. </p><p>   Aerojet's four engines were designed to burn for eight minutes following liftoff, helping to power Orion toward a lunar orbit. </p><p>    Boeing Co. developed the SLS rocket's core stage, which holds liquid propellant that feeds into the engines. The company declined to comment, and a spokeswoman said NASA officials are continuing to look into what happened. </p><p>   The rocket includes hardware that NASA has used in operations before. The engines installed on the main stage of the vehicle, including the one linked with a problem, previously helped power rockets used on space shuttle missions. </p><p>   The agency and the contractors behind Artemis I, NASA's name for the mission, and subsequent Artemis missions have faced pressure to get to the launchpad after grappling with technical setbacks that led to cost overruns and delays. </p><p>   The Artemis I mission would be the first major launch involving most of the main components that NASA and aerospace companies have assembled to help return astronauts to the lunar surface. No astronauts have reached the moon since 1972, but NASA aims through its Artemis program to make that happen as soon as 2025. </p><p>   --- </p><p>   Doug Cameron and Andrew Tangel contributed to this article. </p><p></p>",
+  "published": "2022-08-30T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3084,
+          "end": 3094
+        },
+        {
+          "start": 3106,
+          "end": 3116
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

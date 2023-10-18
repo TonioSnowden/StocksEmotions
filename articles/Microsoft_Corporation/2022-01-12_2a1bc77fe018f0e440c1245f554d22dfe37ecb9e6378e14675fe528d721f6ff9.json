@@ -1,0 +1,24 @@
+{
+  "_id": "2a1bc77fe018f0e440c1245f554d22dfe37ecb9e6378e14675fe528d721f6ff9",
+  "feed": "market-watch",
+  "title": "IBM stock slips amid questions about cloud competition, revenue growth",
+  "text": "<p>IBM IBM shares, which fell more than 5% to an intraday low of $127.97 Tuesday morning, pared some of those losses to close down 1.6% at $132.87. The Dow Jones Industrial Average DJIA, which counts IBM as a component, finished up 0.5%.</p><p>UBS analyst David Vogt cut his neutral rating on the stock to a sell Tuesday morning and lowered his price target to $124 from $136 because of near-term risks to the company's operating estimates, lower earnings-per-share estimates, “and an elevated valuation that leaves the shares vulnerable over the next 12 months.” The analyst's move follows the spinoff of IBM's managed infrastructure-service business Kyndryl KD, which began trading on the NYSE on Nov. 4.</p><p>“Our detailed bottom-up analysis of IBM's remaining segments supports our view that roughly 50% of IBM's top-line is unlikely to grow long-term and could decline,” Vogt said.</p><p>Vogt noted that public cloud, a market where IBM hopes to find the growth many of its older businesses lack, is dominated by companies like Amazon.com Inc. AMZN with AWS and Microsoft Corp. MSFT with Azure. While the market will continue to be one of the fastest growing IT categories at about a 25% to 30% compound annual growth rate over the next five years, IBM is unlikely to keep up with the competition's growth.</p><p>Red Hat's cloud business CAGR is expected to be about 14% “in part reflecting IBM's focus on large regulated enterprise workloads across industries like telecom, utilities and financials as IBM's presence in the [platform-as-a-service] and [infrastructure-as-a-service] market amounts to low single-digit share,” he said.</p><p>“Although Red Hat's revenue contribution doubles in the portfolio and improves the long-term revenue trajectory, we believe the market has already priced in that modest increase,” the UBS analyst said.</p><p>For more: IBM is still counting on Red Hat for growth</p><p>Vogt said he believes the market, which is “underwriting” IBM forecast growth “despite a history of execution issues,” is pricing 2022 and 2023 earnings-per-share estimates 10% higher than his own. The Street, on average, expects earnings of $10.94 a share in 2022 and $11.78 a share in 2023, according to FactSet data.</p><p>Last earnings season, analysts warned that the spinoff of Kyndryl had the potential to make results “messy” and executives assured analysts that the transition would create a “slight pause” in business, not the “disruption” that analysts feared. IBM is scheduled to report fourth-quarter earnings on Jan. 24.</p><p>Over the past 12 months, IBM shares are up 8%, compared with a 17% rise on the Dow. Of the 19 analysts who cover IBM, five have buy ratings, 12 have hold ratings, and two have sell ratings, with an average price target of $142.63, according to FactSet data.</p>",
+  "published": "2022-01-12T08:09:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1047,
+          "end": 1056
+        },
+        {
+          "start": 1047,
+          "end": 1062
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "_id": "8e96366733a59956823516e4dca1b21e1b4f4e292c2096f939a790cb23d59cfe",
+  "feed": "wall-street-journal",
+  "title": "Veterans in 3M Earplug Case Fight Bankruptcy-Court Venue",
+  "text": "<p>Aearo immediately filed for federal bankruptcy protection in Indianapolis. Bankruptcy provides corporate defendants, such as Aearo, leverage to settle mass-liability claims. Companies in chapter 11 usually can't be sued outside of bankruptcy court. Aearo said the bankruptcy should allow it to end trials and mediation talks between 3M and the claimants that have been under way in U.S. District Court in Pensacola, Fla., since 2019.</p><p>\"The verdicts were already outsized and untethered to reality,\" Aearo said in its July 26 bankruptcy filing. Aearo said the case is now the largest product-liability civil case in the U.S.</p><p>The prospect of a long, costly process for 3M to settle the claims is clouding the outlook for the company's business performance and causing investors to be wary of 3M's stock, according to industry analysts.</p><p>3M's shares are down 22% in the past year, compared with a decline of about 6% for the broad-market S&amp;P 500 index, according to FactSet.</p><p>As a part of Aearo's bankruptcy filing, 3M pledged more than $1 billion toward the cost of a settlement between Aearo and the claimants. 3M said its financial commitment to the settlement is uncapped and it is prepared to increase the funding.</p><p>Some veterans who have sued 3M have asked the federal judge in Florida presiding over test trials and claims consolidated from throughout the U.S. to maintain jurisdiction over the cases. A hearing on their motions is scheduled for Thursday.</p><p>\"The court should not allow 3M to simply wipe away the litigated record of these cases to the detriment of innocent claimants because 3M is displeased with the results,\" a plaintiff's lawyer said in a motion filed to block 3M from sidestepping continued litigation in the Florida court.</p><p>The plaintiff's filing described 3M's pivot to bankruptcy court from federal court in Florida as \"gaming the system\" in search of a more favorable outcome after 3M lost several bellwether trials in the Florida court that were intended to provide direction for potential settlement talks for the remaining claims.</p><p>The filing noted that 3M agreed to some of the procedures for processing the claims that it now objects to and has the option of appealing court decisions it doesn't like. It said said plaintiffs with claims pending in the Florida court will have to restart their cases from scratch if the claims are transferred to Aearo's bankruptcy.</p><p>A separate motion filed by another plaintiff in the Florida court challenges the transfer of liability for the earplugs to Aearo from 3M.</p><p>Aearo has been a wholly owned subsidiary of 3M for the past 15 years and largely indistinguishable from its parent company, the plaintiff's filing said. 3M never attempted to separate Aearo's liability from 3M's during the bellwether trials and in numerous filings in the Florida court, the plaintiff said. Aearo also wasn't represented by separate lawyers during the proceedings. \"It's always been about 3M,\" said Bryan Aylstock, the lead counsel for the plaintiffs. \"They can't claim the responsible party has been Aearo the whole time.\"</p><p>3M said in a statement the \"applicable law supports our position\" that the claims should be moved to bankruptcy court.</p><p>3M, which acquired Aearo for $1.2 billion in 2008, was attracted to the company's unique dual-sided earplug for the military. One side blocked all noise while the other side allowed the users to hear spoken voices, but protected them from loud, impulse noises, like explosions.</p><p>3M has said the earplugs are safe and effective when soldiers are given the proper training on how to use them.</p>",
+  "published": "2022-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 2510,
+          "end": 2512
+        },
+        {
+          "start": 1891,
+          "end": 1893
+        },
+        {
+          "start": 1763,
+          "end": 1765
+        },
+        {
+          "start": 826,
+          "end": 828
+        },
+        {
+          "start": 1098,
+          "end": 1100
+        },
+        {
+          "start": 783,
+          "end": 785
+        },
+        {
+          "start": 2719,
+          "end": 2721
+        },
+        {
+          "start": 3166,
+          "end": 3168
+        },
+        {
+          "start": 3442,
+          "end": 3444
+        },
+        {
+          "start": 660,
+          "end": 662
+        },
+        {
+          "start": 2665,
+          "end": 2667
+        },
+        {
+          "start": 3048,
+          "end": 3050
+        },
+        {
+          "start": 1002,
+          "end": 1004
+        },
+        {
+          "start": 2557,
+          "end": 2559
+        },
+        {
+          "start": 2064,
+          "end": 2066
+        },
+        {
+          "start": 1232,
+          "end": 1234
+        },
+        {
+          "start": 330,
+          "end": 332
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.071142,
+        "baseWeight": 17.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.071142435,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

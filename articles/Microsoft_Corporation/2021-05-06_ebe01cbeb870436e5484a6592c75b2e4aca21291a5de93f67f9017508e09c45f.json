@@ -1,0 +1,24 @@
+{
+  "_id": "ebe01cbeb870436e5484a6592c75b2e4aca21291a5de93f67f9017508e09c45f",
+  "feed": "wall-street-journal",
+  "title": "Data Scraping in EU Regulators' Sights As Spain Orders Equifax to Delete Information; Collecting personal data from public sources without individuals' consent violates privacy law, regulator says",
+  "text": "<p>Companies are under growing scrutiny for how they handle data they gather manually or with an automated process from public sources because using it without individuals' permission can violate European privacy rules. Regulators are looking into recent incidents  affecting users  of Facebook Inc . and Microsoft Corp.'s LinkedIn, and have sanctioned smaller firms for data scraping.</p><p>\"The European approach is you can't differentiate between public and other data. It's just data and it all comes down to privacy,\" said Peter Hense, a partner at law firm Spirit Legal in Leipzig, Germany.</p><p>The 2018 General Data Protection Regulation, the privacy law that applies in the 27 European Union countries, requires companies to protect personal data they process and prove that they legally obtained it. Data available on public social media profiles , databases or other sources are also covered by the rules.</p><p>The Spanish authority's penalty last month against Equifax highlights the risks companies face when using scraped data from individuals in EU countries.</p><p>Equifax didn't have the legal right to use information about individuals' debts and fines it had collected from Spanish government sources, the data protection regulator said in a decision published April 23. Nor did the company inform individuals that the data was fed into credit reports, the regulator said, adding that Equifax must delete the data it collected this way.</p><p>Some of the information was outdated and inaccurate, according to the regulator. Ninety-six people complained about how their data was used in Equifax's reports and around four million people could be affected because their information was publicly available in the same government registries, the authority said.</p><p>An Equifax spokeswoman said the company is evaluating the regulator's decision and believes its use of the data from Spanish government sources is legal. She didn't respond to a question about whether the company will appeal the penalty. The Spanish regulator's office declined requests for an interview.</p><p>The regulator's order that Equifax delete the personal data will have a ripple effect: Third-party companies that accessed Equifax's reports from certain Spanish government databases will also need to stop processing that information. That could have bigger effects on how financial-services firms in Europe collect data because other companies will be forced to stop using credit reports with illegally obtained data, said Jorge García Herrero, a privacy lawyer based in Valladolid, Spain.</p><p>Yet data scraping is part of doing business for financial-services firms, job recruiters and others, said Enza Iannopollo, a London-based senior analyst for Forrester Research Inc., a technology research and consulting firm. Over the past five or so years, more companies have started offering services based on data they scrape from public sources, she said.</p><p>In the U.S., a federal judge ruled in 2019 that the human-resources technology company hiQ Labs Inc. could scrape data from public profiles on LinkedIn and that doing so didn't violate the Computer Fraud and Abuse Act, a hacking law that prohibits unauthorized computer access.</p><p>Ordering companies to delete data can be more painful than a monetary fine if the data is central to a business application, said Jimmy Orucevic, a Zurich-based data protection consultant.</p><p>California-based facial-recognition company Everalbum Inc. shut down its services in August, and settled a case with the Federal Trade Commission in January that required it to delete images of users who had deactivated their accounts, as well as algorithms developed with those users' photos or videos.</p><p>Companies can try to avoid penalties by making sure they collect data ethically, Ms. Iannopollo said. That includes verifying the origin of the data and anonymizing it by stripping characteristics that could identify someone, meaning the company wouldn't process details such as a name or date of birth, she added.</p><p>\"There is a misunderstanding that if it's data that's publicly available, then I can take it and do whatever I want with it,\" she said.</p><p>Write to Catherine Stupp at Catherine.Stupp@wsj.com</p>",
+  "published": "2021-05-06T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 300,
+          "end": 315
+        },
+        {
+          "start": 300,
+          "end": 309
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

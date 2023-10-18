@@ -1,0 +1,20 @@
+{
+  "_id": "7d12d383e449924fe6e2a81442de8fdf4d43a4cb2f270fd352a943c800d17874",
+  "feed": "wall-street-journal",
+  "title": "Glitches at Slack, Peloton Prompt Disruptions for Users; Messaging company and fitness-equipment maker said issues were resolved several hours after glitches were initially disclosed",
+  "text": "<p>\"We've resolved the issue,\" Slack said. \"All impacted customers should now be able to access Slack.\"</p><p>There were more than 10,000 reports of Slack outages at around 9:30 a.m. ET, according to Downdetector, which tracks website outages. The number of reported outages decreased significantly by early afternoon. Salesforce.com Inc. acquired the company last summer.</p><p>Exercise-bike company Peloton also had technical issues Tuesday that lasted several hours. At around 2:45 p.m., the company said the issue was resolved. The company said in a tweet that it was investigating an issue with its services. Downdetector showed 5,490 reports of the service being down as of 10:38 a.m. but reports dropped shortly afterward.</p><p>Temporary interruptions for popular social-media sites, websites and messaging platforms are relatively common. Some of the outages have been felt more widespread as many employees turn to cloud services and other connected platforms to help them work remotely during the pandemic.</p><p>Write to Omar Abdel-Baqui at omar.abdel-baqui@wsj.com and Allison Prang at allison.prang@wsj.com</p><p>Glitches at Slack, Peloton Prompt Disruptions for Users</p>",
+  "published": "2022-02-22T20:49:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 310,
+          "end": 324
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

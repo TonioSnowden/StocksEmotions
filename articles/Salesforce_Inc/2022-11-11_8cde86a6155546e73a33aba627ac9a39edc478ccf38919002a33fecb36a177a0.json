@@ -1,0 +1,24 @@
+{
+  "_id": "8cde86a6155546e73a33aba627ac9a39edc478ccf38919002a33fecb36a177a0",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Jobless-Benefit Filings Rise, Stay Near Historic Lows",
+  "text": "<p>Claims remain low despite some recent corporate layoff and hiring-freeze announcements, particularly in the technology sector. Facebook parent Meta Platforms Inc. said this week it would cut more than 11,000 workers, or 13% of staff, in a signal of the increasing competitive and regulatory challenges facing Meta. Business-software company Salesforce Inc. also started laying off employees this week.</p><p>Layoffs in the tech sector and other interest-rate sensitive industries have yet to show up in government economic data. That could reflect a time lag between companies' statements and the data captured in the Labor Department's reports. It could also reflect the broader strength of the labor market, as tech layoffs account for a small portion of overall employment activity.</p><p>Employers added 261,000 jobs in October, a solid gain but the lowest in nearly two years. Other recent figures also indicate the job market is running strong. Job openings rose in September, while pay and benefits increased rapidly in the third quarter.</p><p>Jobless-claims data suggest many laid-off workers can quickly find new jobs. Continuing claims, a proxy for the number of people seeking continuing unemployment benefits, increased 6,000 to 1.49 million in the week ended Oct. 29. Those are below weekly totals ahead of the pandemic but up from the spring. Continuing claims are reported with a one-week lag.</p><p>The job market's resilience is a challenge for Federal Reserve officials, who are trying to cool the economy and bring down inflation from elevated levels. It raised interest rates by 0.75 percentage point last week -- the fourth consecutive increase of that size.</p>",
+  "published": "2022-11-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 341,
+          "end": 356
+        },
+        {
+          "start": 341,
+          "end": 351
+        }
+      ]
+    }
+  ]
+}

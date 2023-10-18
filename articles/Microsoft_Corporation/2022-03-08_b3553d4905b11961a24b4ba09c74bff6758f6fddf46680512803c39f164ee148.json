@@ -1,0 +1,20 @@
+{
+  "_id": "b3553d4905b11961a24b4ba09c74bff6758f6fddf46680512803c39f164ee148",
+  "feed": "wall-street-journal",
+  "title": "Google's Mandiant Deal Aims to Automate More Cybersecurity Services; Acquisition raises questions for companies that use different cloud platforms and operating systems",
+  "text": "<p>Businesses often need cybersecurity tools and services that work with a mix of cloud platforms, said Renee Guttmann, a cybersecurity startup adviser and a former chief information security officer at Campbell Soup Co. The complexity of such systems has grown in recent years as companies migrated more computer systems from physical offices onto cloud-based services hosted by tech giants such as the Alphabet Inc.'s Google division.</p><p>\"Everything is multi-cloud. They have to play in that environment no matter what,\" Ms. Guttman said. \"Will they be able to easily investigate hacking events on Microsoft systems? I don't know.\"</p><p>Google and Mandiant said Tuesday they will support customers with computer systems housed in physical offices as well as those working in cloud-only environments, whether the cloud platforms come from Google or its rivals. It isn't clear whether Mandiant will be an independent unit within the Google Cloud business or integrated more fully.</p><p>\"There's still a lot of decisions yet to be made about the precise structure, but we're very, very committed to keep supporting all of our customers and all of our partners as we go through this,\" Phil Venables, vice president and CISO of Google Cloud, said in a call with reporters.</p><p>The acquisition of Mandiant, expected to close later this year, would bring Google unique information about cyber threats, said Dave DeWalt, managing director of NightDragon LLC, a cyber-focused venture-capital firm.</p><p>Mandiant, which has close ties with the U.S. national security community, specializes in helping companies respond to cyberattacks, including attacks by foreign spy agencies and criminal ransomware gangs. That gives the company visibility into corporate computer systems and hacker activity that sometimes rivals that of governments.</p><p>\"When you look at the trends, the big cloud infrastructure providers are thirsty for data, thirsty for intelligence on their platform,\" said Mr. DeWalt, formerly Mandiant's chief executive when it was known as FireEye Inc.</p><p>The goal of the acquisition is to translate threat intelligence gathered by Mandiant employees when they respond to hacks into security tools that companies can deploy to quickly spot cyberattacks, said Mandiant Chief Executive Kevin Mandia.</p><p>\"By coming together with Google, we get the engineering investment we need to continue down the road of automating security expertise,\" he said during Tuesday's call. \"That's all software's ever been is the automation of human processes.\"</p><p>Automating cyber defenses is critical amid a global shortage of cyber talent and escalating cyberattacks, Mr. Mandia said.</p><p>\"Right now, as we're having this conversation, Mandiant's responding to over 150 breaches and I would say probably 85% to 90% of what our folks are doing -- maybe even more -- we've done it before,\" he said. \"But if we can automate so much of what we do, then the need for people will decrease.\"</p><p>Write to Kim S. Nash at kim.nash@wsj.com and David Uberti at david.uberti@wsj.com</p>",
+  "published": "2022-03-08T22:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 594,
+          "end": 603
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "d23963e8f8915ab2bc04cc666c7804454e7c8c58b9192ba9b1d0bed3426b4626",
+  "feed": "market-watch",
+  "title": "Do higher stock prices make it harder for the Fed to fight inflation? The short answer is 'yes'",
+  "text": "<p>Economists generally expect that higher bond yields will eventually drag down equity prices because higher yields translate to higher borrowing costs for corporations. And higher borrowing costs eat into profit margins.</p><p>See: Why the 10-year yield topping 3% can hurt stocks</p><p>The problem for the Fed, according to the Evercore ISI team, is that it needs to see financial conditions tighten if it hopes to succeed in its fight against inflation. Since the Fed can't directly influence commodity prices by increasing supply, its only option for reining in prices is to try and weaken demand. But even on the demand side, the Fed can only act indirectly by raising short-term interest rates and reducing the size of its balance sheet.</p><p>While the Fed's dramatic interest-rate hikes clearly impacted markets during the first half of the year, markets are complicated and influenced by myriad factors. Following the sharp selloff in stocks during the first half of the year, financial conditions have actually eased over the past month. As of Aug. 19, the national financial conditions index, published weekly by the Federal Reserve Bank of Chicago, had fallen to negative 0.28 from a peak of negative 0.14 on July 8.</p><p>In a report earlier this month, the team from Evercore ISI said that a continued easing in financial conditions could become problematic — especially if it persists during the first six months of the Fed's monetary tightening cycle.</p><p>\"Our assessment is that the Fed cannot afford a premature large and sustained easing in financial conditions so early in the process of moderating inflation back down to levels that it would view as acceptable relative to its 2 per cent target,\" wrote EvercoreISI's Peter Williams and Krishna Guha in a note dated Aug. 12. Williams confirmed in a phone call with MarketWatch that this remains their view.</p><p>When interest rates were at rock-bottom levels, market analysts used to talk about \"the Fed put\" — the notion that the Fed would step in to backstop the market if equity prices tumbled. Now that the Fed is in tightening mode, this relationship has become inverted, the Evercore team explained.</p><p>Instead of stepping in to rescue markets, it's more likely that the Fed would ramp up the pace of policy tightening if longer-duration bond yields and equity prices move too far in the wrong direction.</p><p>While it's difficult to say exactly where the Fed's tolerance would be tested, it's certainly notable that the rally in stocks stalled right around the S&amp;P 500's 200-day moving average.</p><p>See: Stock-market rally faces key challenge at S&amp;P 500's 200-daymoving average</p><p>Economists and market analysts will be listening closely for any reference to the Fed's thinking about financial conditions when Fed Chairman Jerome Powell speaks from Jackson Hole on Friday. In July, Powell appeared to downplay the market's reaction by saying that it would likely take time for the fullimpact of the Fed's jumbo rate hikes to manifest.</p><p>Goldman Sachs Chief Economist Jan Hatzius said in a recent note to clients that while the Fed probably sees the easing in financial conditions as \"unhelpful\", it hasn't yet arrived at the point where the Fed would need to react with more aggressive rate hikes. Based on this view, Hatzius expects the Fed will raise its benchmark interest-rate target by only 50 basis points in September.</p><p>\"We suspect that the Fed leadership saw the recent easing as unhelpful to its task of keeping the economy on a below-potential growth trajectory, but not problematic enough to scrap its plan to slow the pace of tightening,\" Hatzius wrote.</p><p>Treasury yields were relatively subdued on Thursday as investors waited to hear from Powell. On Thursday morning, the 10-year yield was off by BX:TMUBMUSD10Y 1.8 basis points to 3.094%.</p><p>U.S. stocks, meanwhile, traded higher on Thursday as thin trading volume exaggerated swings in the market. The S&amp;P 500 SPX was up 0.8%, while the Nasdaq Composite COMP advanced 0.9% and the Dow Jones Industrial Average DJIA gained 0.9%.</p><p>Do higher stock prices make it harder for the Fed to fight inflation? The short answer is 'yes'</p>",
+  "published": "2022-08-25T15:13:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 2962,
+          "end": 2975
+        },
+        {
+          "start": 2962,
+          "end": 2969
+        },
+        {
+          "start": 2945,
+          "end": 2958
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

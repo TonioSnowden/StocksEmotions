@@ -1,0 +1,46 @@
+{
+  "_id": "0ace0ad45a04fdc29cb58e3ba6f2b5c9bb80866caaf94786e1585ef76c4288ae",
+  "feed": "market-watch",
+  "title": "Biden finalized his plan to reign in Big Tech. Big Tech wasn't invited. White House outlines targets in tech push after 'listening session' that was largely populated with administration officials and representatives of only two tech companies, both of which are longtime critics of Big Tech's dominance",
+  "text": "<p>\"The rise of tech platforms has introduced new and difficult challenges, from the tragic acts of violence linked to toxic online cultures, to deteriorating mental health and well-being, to basic rights of Americans and communities worldwide suffering from the rise of tech platforms big and small,\" the White House said in a statementafter convening 16 experts — most of them administration employees — to discuss technology.</p><p>None of the Big Tech companies replied to request for comment on the listening session, but people familiar with the thinking at two of the companies weren't entirely surprised. They noted increased actions by the administration to hold social-media companies and purveyors of large digital platforms more accountable with the chances of a Senate vote seemingly dwindling by the hour.</p><p>Read more: As Congress flounders in Big Tech regulation push, the FTC isn't waiting around</p><p>Industry analysts, however, expressed disappointment at an exclusive, private meeting that recommended punitive actions against the industry's biggest players without offering a seat at the table. The most controversial reform mentioned on the administration's list called for \"the removal of special protections for large tech platforms,\" including changing Section 230 of the Communications Decency Act. The section generally provides website platforms immunity from third-party content.</p><p>\"Section 230 provides critical protections for platforms of all sizes to moderate content and take down harmful posts, and our research confirms these protections are most important for smaller sites,\" Chamber of Progress CEO Adam Kovacevich said. The trade group is funded by Amazon, Meta, Google, Apple, Twitter Inc. TWTR, Uber Technologies Inc. UBER and others.</p><p>Six broad goals listed by the White House mirror legislation slowly wending its way through Congress, the latest indication of a growing crackdown by the White House on high tech's influence while legislation wallows in the Senate and House. The Justice Department is expected to file antitrust lawsuits against Google for its online-ad business and Apple for its dominant App Store in coming weeks, according to reports in The Wall Street Journal, Politico and elsewhere.</p><p>Social media platforms — in particular, Meta, Twitter, TikTok and YouTube — have been identified as the scourge of politicians who are playing to popular sentiment for reining in digital-data collectors such as Meta and Amazon. Those two companies are prime targets of the Federal Trade Commission.</p><p>Congressional inaction was reflected earlier this week when a flustered Sen. Amy Klobuchar, a Minnesota Democrat who is author of a bill to tamp down the power of powerful digital platform landlords like Apple and Facebook, claimed an \"incredible onslaught of money\" has been an obstacle to passing the legislation.</p><p>\"What has slowed us down is the incredible onslaught of money, and that's what happens with monopolies,\" Klobuchar, author of the American Innovation and Choice Online Act, said Tuesday at the Code Conference in Los Angeles. \"The senators are talking about it, about the ads running in each state.\"</p><p>Opinion: Democrats promised to rein in Big Tech. They have failed.</p><p>Organizations funded by the technology industry have plowed more than $200 million on political ads and other lobbying efforts since the beginning of 2021, according to ad-tracking service AdImpact and others.</p><p>Klobuchar, who has written a book on antitrust reform and chaired the Senate Judiciary Committee's hearings on anticompetitive business practices for more than a year, has furiously pushed for a full Senate vote on her landmark bill as time melts with each passing day in the current legislative session. [The White House said Thursday it was encouraged to see bipartisan interest in Congress to adopt antitrust legislation to address the power of major U.S. tech companies.]</p><p>But absent any of the major principal companies in attendance, reporters pressed White House spokeswoman Karine Jean-Pierre on the participation of Mozilla CEO Mitchell Baker and Sonos CEO Patrick Spence to represent the views of the tech industry.</p><p>Sonos and Google are locked in a series of lawsuits against one another over speaker technology since 2020. Sonos called two suits filed last month by Google an \"intimidation tactic\" intended to \"retaliate against Sonos for speaking out against Google's monopolistic practices\" of royalty payments.</p><p>See also: Sonos stock rockets as patent win over Google could mean eventual financial gains</p><p>Nonprofit Mozilla, whose Firefox web browser competes with the likes of Google, has repeatedly clashed with Big Tech. On Friday, the company's chief security officer, Marshall Erwin, urged federal regulators to crack down on internet giants and browser makers that don't protect users' privacy.</p><p>\"Privacy online is a mess, consumers are stuck in this vicious cycle in which their data is collected, often without their understanding, and then used to manipulate them,\" Erwin said during an FTC forum on commercial surveillance and data security.</p><p>\"The way that we see the roundtable today, it is, again, the largest roundtable that we have seen from this administration to deal with tech,\" Jean-Pierre said. \"What you should take out from today, or take away from today, is that, you know, the president's going to and has long called for fundamental legislative reforms to address real issues. And so we're going to continue to do that.\"</p><p>The elusive reply came a day before Biden met in Ohio with Intel Corp. INTC CEO Pat Gelsinger at a groundbreaking ceremony for Intel's new $20 billion semiconductor manufacturing facility weeks after Congress passed the $280 billion Chips and Science Act in July.</p><p>\"The future of the chip industry is going to be made in America,\" Biden said at the event, a White House pre-midterms push to tout new funding for manufacturing and infrastructure. \"The industrial Midwest is back.\"</p><p>Full coverage: Biden touts U.S. economy's progress at Intel plant's groundbreaking in Ohio</p><p>Biden finalized his plan to reign in Big Tech. Big Tech wasn't invited.</p>",
+  "published": "2022-09-09T20:07:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.999424,
+      "offsets": [
+        {
+          "start": 5533,
+          "end": 5544
+        },
+        {
+          "start": 5975,
+          "end": 5980
+        },
+        {
+          "start": 6007,
+          "end": 6012
+        },
+        {
+          "start": 5601,
+          "end": 5606
+        },
+        {
+          "start": 5572,
+          "end": 5577
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 17
+    }
+  ]
+}

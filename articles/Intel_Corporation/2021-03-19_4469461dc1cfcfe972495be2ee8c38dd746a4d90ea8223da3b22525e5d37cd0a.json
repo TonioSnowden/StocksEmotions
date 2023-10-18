@@ -1,0 +1,20 @@
+{
+  "_id": "4469461dc1cfcfe972495be2ee8c38dd746a4d90ea8223da3b22525e5d37cd0a",
+  "feed": "wall-street-journal",
+  "title": "Micron Shows How Chip-Making Business Can Be Cutthroat",
+  "text": "<p>Late Tuesday, Micron announced its exit from 3D XPoint, an alternative memory-chip technology the company has been developing with Intel Corp. since 2015. The reason is fairly straightforward -- 3D XPoint simply wasn't generating enough business to be worth the effort, while other new technologies show more promise. As part of its exit plan, Micron says it will wind down and sell the fabrication facility in Utah that manufactured memory chips based on the XPoint technology.</p><p>It chose a good time to hit the market. Chip manufacturing is at a premium given the production constraints affecting industries such as autos. And the U.S. government is especially keen on building up a stronger domestic chip-making industry, with President Biden pushing for as much as $37 billion in funding to support more production expansion. Harlan Sur of J.P. Morgan says subsidies could help make Micron's Utah facility an attractive asset to chip companies that currently outsource \"a significant amount of production and have sufficient revenue scale\" to support production. He named Analog Devices, NXP Semiconductors, STMicroelectronics and Infineon as potential buyers.</p><p>But even if such a sale were imminent, Micron's Utah fab won't do much -- if anything -- to alleviate the current production crunch. A facility designed to produce a specialized form of memory that few were actually buying can't just be flipped to another chip format. Tim Arcuri of UBS says any other technology \"would require significant reconfiguration of the toolset.\" He estimates replacement costs for the equipment alone at the Utah fab to be around $3 billion.</p><p>Micron's move also should remind governments that autonomy in the chip business will come at a price. Part of the argument for securing more domestic production is to reduce dependency on foreign markets when geopolitical tensions are rising. But full autonomy will require having excess production capacity -- which is an expensive proposition in chip making. Micron estimates \"underutilization charges\" at the Utah fab were costing it around $400 million a year. That is a cost Micron will love to take off its books. It is one that governments politicizing the chip business should keep in mind.</p>",
+  "published": "2021-03-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 131,
+          "end": 136
+        }
+      ]
+    }
+  ]
+}

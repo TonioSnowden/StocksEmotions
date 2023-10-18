@@ -1,0 +1,36 @@
+{
+  "_id": "b1c14b6e880914a18023de0158840ec064854a4efcfaa858b13445de132cdaba",
+  "feed": "wall-street-journal",
+  "title": "To Lower Costs, Wireless Networks Such as Dish and Rakuten Head to the Cloud; Upstart operators are trying to get a cost edge over bigger, more-established rivals. The jury is still out on whether they will be successful.",
+  "text": "<p>That is especially true for wireless networks being built by upstart operators such as Dish Network Corp. and Japan's Rakuten Group Inc. that are trying to get a cost edge over bigger, more established rivals.</p><p>People using smart devices to download video, message friends and/or make old-fashioned phone calls typically don't give much thought to the machines that juggle the data behind the scenes. But the expense of installing and maintaining customized network equipment—made by suppliers such as Finland's Nokia Corp., Ericsson AB of Sweden and China's Huawei Technologies Co.—helps explain why the bill for an unlimited monthly cellular data plan can top $70.</p><p>A so-called virtualized network, by contrast, aims to put much of the functionality of that customized equipment into software programs that run on off-the-shelf servers. Tasks such as processing radio signals can then be done in the cloud, allowing carriers to reduce capital investment and operating costs.</p><p>One of the companies attempting to break into the market with a cloud-based wireless network is Rakuten, a Tokyo-based e-commerce company. Rakuten is building Japan's fourth nationwide wireless network, through which it has begun to offer high-speed fifth-generation, or 5G, service. It is competing against three incumbent carriers—NTT Docomo Inc., KDDI Corp. and Softbank Corp.—that together hold an 85% market share.</p><p>\"We came to the conclusion that we wouldn't be able to compete if we operated in the same way as the rest of the industry,\" says Nobuyuki Uchida, an executive at Rakuten's mobile unit.</p><p>Rakuten is a leading proponent of virtualizing and operating through the cloud both parts of a mobile network: the radio base stations with antennas that connect to individual devices and the core network that transfers traffic between devices. While the company still needs to place base stations in neighborhoods, the base stations are smaller and simpler than those deployed in traditional networks, because there is no need for specialized hardware to process voice calls and data requests. Instead, the base stations simply send signals from individual devices to software in the cloud for processing.</p><p>Companies such as Rakuten say maintenance costs are lower in a software-driven network, because updates can be done remotely and all at once, rather than individually at base stations. It also makes it easier to fix problems and to shift and adjust network resources to areas where there is a sudden surge in demand—say, when a region is hit by a natural disaster—proponents say.</p><p>Resources such as processing power can be shifted to areas where traffic suddenly surges because there is no dedicated hardware with transmission-capacity limits, they say. And because a virtualized network runs on multiple commercially available servers, rather than customized equipment, it is also easier to switch from one server to another when one goes down, according to Rakuten's Mr. Uchida.</p><p>Rakuten estimates it is saving 40% on the cost of building out its network, although it is still spending close to $10 billion, and that its operating costs could be 30% lower than those of the bigger wireless carriers. The company offers an unlimited monthly plan for the equivalent of about $30, about half the price of its competitors.</p><p>It's a bold experiment, but not one assured of success.</p><p>Gartner Inc. analyst Kosei Takiishi says cloud networks eventually may be essential for 5G service, because of their flexibility and cost. For now, though, traffic speeds may be superior on traditional networks that use equipment optimized for juggling lots of data quickly.</p><p>What's more, it hasn't yet been proved that a Rakuten-style network is truly more cost-effective than a traditional network, Mr. Takiishi says. General-purpose servers may consume more electricity, he says. And as a newcomer, Rakuten has yet to be tested by the huge traffic volume of its established rivals.</p><p>Still, newer carriers see little alternative to placing bets on virtualization and cloud-based networks. In August, Rakuten agreed to supply its technology to German wireless carrier 1&amp;1 AG, which plans to start the construction of a wireless network in Germany by the end of this year.</p><p>A spokeswoman for 1&amp;1 says the network would \"fully exploit the potential of 5G\" and give the company greater choice over suppliers rather than being limited to the handful of global giants such as Nokia and Ericsson that make specialized telecommunications equipment.</p><p>In the U.S., Dish is trying to become a fourth national player for mobile service after Verizon Communications Inc., AT&amp;T Inc. and T-Mobile US Inc.</p><p>Known mainly as a satellite-television provider, Dish plans to introduce a 5G network running on cloud computing operated by Amazon Web Services. The first test of the network will take place in Las Vegas later this year, the company has said.</p><p>Dish Chairman Charlie Ergen said on an earnings call Aug. 9 that virtualization would transform the telecom industry by giving operators that don't have existing infrastructure a chance to compete.</p><p>\"Our bet and our gut and everything we know, it's changing. We're helping change it,\" he said.</p><p>Incumbent operators are adopting cloud-based technology, too, although often more cautiously. Japan's top mobile operator, NTT Docomo, says it runs about half of its core network on off-the-shelf hardware and processes voice calls that way, as well. It plans to complete virtualization of its core network by 2025, but that plan doesn't include its base stations.</p><p>Yoshihiro Nakajima, a manager at Docomo working on virtualization, says the company believes it can maximize the gains from the transition by not doing it too abruptly.</p><p>Verizon and Samsung Electronics Co. say they recently completed an end-to-end fully virtualized 5G data session in Texas, Connecticut and Massachusetts. Verizon says the trials achieved speeds commensurate with traditional hardware-based equipment.</p><p>\"Virtualization is critical to delivering the services promised by advanced 5G networks,\" Verizon says.</p><p>Ms. Fujikawa is a reporter for The Wall Street Journal in Tokyo. Email her at megumi.fujikawa@wsj.com.</p><p>To Lower Costs, Wireless Networks Such as Dish and Rakuten Head to the Cloud</p>",
+  "published": "2021-10-12T15:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 4590,
+          "end": 4612
+        },
+        {
+          "start": 5720,
+          "end": 5727
+        },
+        {
+          "start": 5873,
+          "end": 5880
+        },
+        {
+          "start": 6059,
+          "end": 6066
+        },
+        {
+          "start": 4590,
+          "end": 4617
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

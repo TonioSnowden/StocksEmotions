@@ -1,0 +1,20 @@
+{
+  "_id": "46dcca978da909703626af01339de763ba302f446694e1846453f1e57ef70464",
+  "feed": "ftcomall",
+  "title": "Spreadsheets: error-ridden models take a toll",
+  "text": "<p>Spreadsheets are staples of business life. But — as with sausages and laws — it is harder to respect them if you know how they are made. Users are overwhelmingly self-taught. The migraine-inducing slog of plugging numbers and formulas to a tight deadline invites shortcuts. Unsurprisingly, errors are rife. Research suggests nine out of 10 spreadsheets contain a mistake.</p> <p>Iceland mispriced its sale of a slug of <a href=\"https://www.ft.com/stream/16a80ee3-e8ad-4945-9c8e-61dbbeecfc27\">Islandsbanki</a> shares earlier this year, after an Excel spreadsheet omitted investors' offers that had included “foreign commas or amounts defined as text”. The impact is disputed but might have cost as much as $16mn.</p> <p>Such failures of data error cleaning and testing are all too common, according to the European Spreadsheet Risks Interest Group (Eusprig). This group of researchers has been sounding&#xa0;the alarm for 20 years. High on its <a href=\"http://www.eusprig.org/horror-stories.htm\">list of spreadsheet horror stories</a> was JPMorgan Chase's $6.2bn “London Whale” trading losses in 2012. That featured an error-ridden model that required data to be manually copied and pasted from one spreadsheet.</p> <p>A spectacular blunder in an influential <a href=\"https://www.ft.com/stream/38bf05bb-2482-4c84-812c-8f909d7a2e62\">Harvard University</a> paper on public debt and growth cast doubt on a cornerstone of the austerity policies introduced after the financial crisis. The mistake was a simple one: the accidental omission of five rows of data&#xa0; when calculating an average.</p> <p>Another nightmarish slip-up arose when Public Health England misplaced nearly 16,000 Covid-19 test results. That was because someone had used the wrong Excel file format, XLS, which only has about 64,000 rows, so some cases vanished off the bottom.</p> <p>Sometimes, tools meant to help with accuracy add to the problem. Autocorrect errors are the bane of geneticists. Nearly a third of publications featuring gene names contain errors where the abbreviated form of a gene's name is incorrectly recognised as a date. For example, SEPT4 (septin 4) is changed to 4-Sep. </p> <p>People do not take spreadsheets seriously enough, says Eusprig's programme chair, Simon Thorne. Unlike software engineers who typically spend 40 per cent of their time testing their coding, many spreadsheet users hardly bother. </p> <p>Moreover, people are bad at picking up their own errors. Self-review catches, at most, about two-thirds of errors, according to research by Ray Panko of the University of Hawaii. Overconfidence is at the heart of the problem. People tend to be proudly aware of errors they fix. But they have no idea of how many remain.</p><p>Source:  2022 'Spreadsheets: error-ridden models take a toll' FT.com 20 November. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-11-20T07:00:24.788Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 886,
+          "end": 894
+        }
+      ]
+    }
+  ]
+}

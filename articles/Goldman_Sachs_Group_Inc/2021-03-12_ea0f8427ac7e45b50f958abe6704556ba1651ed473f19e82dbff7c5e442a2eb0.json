@@ -1,0 +1,38 @@
+{
+  "_id": "ea0f8427ac7e45b50f958abe6704556ba1651ed473f19e82dbff7c5e442a2eb0",
+  "feed": "wall-street-journal",
+  "title": "China's Baidu Aims to Raise $3 Billion in Hong Kong Share Sale; Internet search provider intends to sell 95 million new shares",
+  "text": "<p>Since Hong Kong's stock exchange relaxed its rules in 2018 to allow such secondary listings, 10 companies, including JD.com Inc ., NetEase Inc . and Yum China Holdings Inc ., have issued stock in Hong Kong, raising a combined $29.9 billion, Dealogic data shows. The biggest deal  was by e-commerce giant Alibaba Group Holding Ltd ., which raised $12.9 billion.</p><p>Baidu began taking orders from institutional investors Thursday, according to a U.S. filing and a term sheet seen by The Wall Street Journal. It intends to sell 95 million new shares, equivalent to 3.4% of its enlarged share capital, and plans to list on the Hong Kong stock exchange March 23, the term sheet said. The tentative deal value is based on the last closing price of the company's Nasdaq-listed American depositary receipts.</p><p>Although Baidu was once seen as the Google of China, its profits and market value haven't grown as quickly as those of China's two biggest technology companies, Alibaba and Tencent Holdings Ltd . It also faces competition for advertising dollars from newer players such as short-video app companies ByteDance Ltd . and Kuaishou Technology .</p><p>Still, the company has expanded into areas such as driverless cars, artificial intelligence and cloud computing. It holds a stake in iQiyi Inc ., a Netflix-like video-streaming platform, and is working with Zhejiang Geely Holding Group , the parent of Volvo Cars and Geely Automobile Holdings Ltd., to develop electric vehicles.</p><p>Baidu's American depositary shares rose 6.8% Thursday. The stock has more than doubled in the past 12 months, giving it a market capitalization of more than $91 billion, according to FactSet. For 2020, Baidu earned $3.4 billion of net income on revenue of $16.4 billion.</p><p>As is customary for Hong Kong share sales, the deal is split into two parts. Most of the shares will be sold to international institutional investors, while a small portion will be reserved for individual investors in the city.</p><p>It set the maximum offer price for individual investors at 295 Hong Kong dollars per ordinary share, or the equivalent of $38.03 each. The offer price for the portion reserved for institutional investors could be higher, the term sheet said. One ADR represents eight ordinary shares.</p><p>The deal is being led by units of Bank of America Corp ., Citic Securities Co . and Goldman Sachs Group Inc . The final deal size could increase by 15% to around $3.5 billion under a so-called green-shoe option. Baidu will fix the final offer price March 17.</p><p>Longstanding accounting concerns could lead to Chinese companies being delisted  from the U.S. in coming years, under a law signed by former President Donald Trump in December, if U.S. regulators aren't able to inspect their audit papers.</p><p>Write to Joanne Chiu at joanne.chiu@wsj.com </p><p>China's Baidu Aims to Raise $3 Billion in Hong Kong Share Sale</p>",
+  "published": "2021-03-12T01:42:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 2333,
+          "end": 2346
+        },
+        {
+          "start": 2333,
+          "end": 2356
+        },
+        {
+          "start": 2333,
+          "end": 2340
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.5688001,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.4311999,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

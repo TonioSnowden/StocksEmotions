@@ -1,0 +1,40 @@
+{
+  "_id": "34b0294a2fab6dd37a11a7318d797f6897b197a13e7b00f96eeba8bfc47e77e3",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Fined $64 Million in France Over Advertising Cookies; French regulator's action is part of a broader step up in enforcement of Europe's privacy laws",
+  "text": "<p>The regulator also ordered Microsoft to seek consent for another type of cookie that it places in web browsers for the purposes of detecting fraudulent views of ads—something the CNIL said wasn't necessary to make the search engine function. If Microsoft doesn't comply within three months, it could face additional fines of €60,000 a day, the CNIL said.</p><p>A Microsoft spokesman said the company had made changes to its cookie practices to add a reject button for advertising cookies, but that it remains \"concerned with the CNIL's position on advertising fraud.\" The company argues that such cookies \"shouldn't require consent by those intending to defraud others,\" he said. Microsoft hasn't decided whether to appeal the part of the decision that ordered it to seek consent for the cookie used to detect ad fraud, the spokesman said.</p><p>The CNIL's fine on Thursday is part of a broader effort by French regulator to pursue big tech companies and online publishers to force them to make reject buttons as prominent as those to accept online cookies when they relate to targeted advertising. Many regulators in the European Union don't regard targeted ads as necessary for the functionality of a website.</p><p>Earlier this year, the CNIL fined Alphabet Inc.'s Google €150 million and Meta Platforms Inc.'s Facebook €60 million over the same issue. Both Google and Facebook now have a button to reject nonessential cookies next to the one to accept them when visitors first land on their home pages.</p><p>Regulators across Europe have taken a hard-line approach against large tech companies and their treatment of user data in recent years. In particular, EU regulators have moved to rein in targeted advertising based on users' online activity. A body representing all EU privacy regulators recently ruled that Ireland's data watchdog must order Facebook and Instagram to stop making personalized ads based on users' activity a condition of using the services.</p><p>Many privacy cases against tech companies under the EU's General Data Protection Regulation, or GDPR, run through Ireland's Data Protection Commission because that is where many U.S. tech companies have their headquarters. But France's CNIL has been able to take on the cookie-consent issue because it is governed in part by an older EU law, the ePrivacy directive, which doesn't include the same provisions to shift investigations to the country where the company in question is based.</p><p>Write to Sam Schechner at Sam.Schechner@wsj.com and Mauro Orru at mauro.orru@wsj.com</p><p>Microsoft Fined $64 Million in France Over Advertising Cookies</p>",
+  "published": "2022-12-22T13:45:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 2518,
+          "end": 2527
+        },
+        {
+          "start": 245,
+          "end": 254
+        },
+        {
+          "start": 357,
+          "end": 366
+        },
+        {
+          "start": 674,
+          "end": 683
+        },
+        {
+          "start": 27,
+          "end": 36
+        }
+      ]
+    }
+  ]
+}

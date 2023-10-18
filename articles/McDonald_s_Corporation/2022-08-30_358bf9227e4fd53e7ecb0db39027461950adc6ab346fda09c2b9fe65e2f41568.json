@@ -1,0 +1,42 @@
+{
+  "_id": "358bf9227e4fd53e7ecb0db39027461950adc6ab346fda09c2b9fe65e2f41568",
+  "feed": "wall-street-journal",
+  "title": "California Fast Food Wages Would Be Set by Government Under Bill Passed by State Legislature; Representatives for chains including McDonald's persuaded Legislature to remove provision holding them liable for labor violations by franchisees",
+  "text": "<p>A previous version of the bill passed by the state Assembly in January also allowed the council to oversee workplace conditions such as scheduling and made restaurant chains joint employers of their franchise's employers, potentially opening them to liability for labor violations.</p><p>Representatives for companies including McDonald's Corp., Yum Brands Inc. and Chipotle Mexican Grill Inc. succeeded in having those provisions removed in the state Senate via amendments over the past week, though they still oppose the bill.</p><p>\"This is the biggest lobbying fight that the franchise sector has ever been in,\" said Matthew Haller, president of the International Franchise Association, a trade group whose members own many fast food restaurants.</p><p>A University of California, Riverside School of Business study commissioned by the franchisee association found that setting minimum wages between $22 and $43 would generate a 60% increase in labor costs and raise fast-food prices by about 20%.</p><p>California's current minimum wage is $15 and is set to increase by 50 cents on Jan. 1.</p><p>The final version of the Fast Act passed both houses of the Democratic-controlled state Legislature on Monday. In both the Assembly and the Senate, all of the \"yes\" votes came from Democrats and every Republican who voted opposed the bill.</p><p>Democratic Gov. Gavin Newsom now has until Sept. 30 to decide whether to sign or veto the bill.</p><p>Mr. Newsom hasn't taken a public stance on the current version of the bill, but his Department of Finance opposed the original version.</p><p>Labor unions backing the measure have long struggled to organize fast food workers, in part because the industry's franchise model means there are so many different employers.</p><p>California lawmakers first floated the bill last year, with proponents arguing that tighter regulations were needed to protect fast food workers, who are overwhelmingly Black or Latino and who they say experience unpaid overtime and other labor violations.</p><p>Despite the recent changes, proponents said the bill is still a significant step forward. Lorena Gonzalez Fletcher, a former Democratic legislator who introduced the bill when she was in the Assembly, said it moves California closer to a labor model used in Europe where unions negotiate for wages and work conditions in an entire sector, rather than company-by-company.</p><p>\"It's still a big bold idea. And just the notion of giving workers a voice at the table will be fundamentally different for those workers,\" said Ms. Gonzalez Fletcher, who now leads the California Labor Federation, the state's largest union umbrella group.</p><p>The recent amendments call for the council to shut down in 2028 unless it is renewed, though inflation-adjusted wage increases for workers would continue.</p><p>The bill covers fast food restaurants that are part of a chain, that have limited or no table service and where customers order their food and pay before eating. The chain must have 100 or more locations nationally, up from 30 in a previous bill version.</p><p>California accounts for around 14% of total U.S. restaurant sales, and policy in the state tends to affect the rest of the sector, Citigroup Global Markets Inc. analysts wrote in a client note earlier this month.</p><p>Service Employees International Union President Mary Kay Henry said she hoped the bill would be a catalyst for similar movements across the country.</p><p>Investors have begun to ask about the act's potential implications for restaurant chains at a time when companies are struggling with high food and labor costs, Wall Street analysts said.</p><p>\"Obviously, we think it's problematic on many, many fronts,\" said Paul Brown, chief executive of Dunkin' and Arby's owner Inspire Brands Inc., in an interview. \"I think it's actually trying to solve a problem that doesn't exist.\"</p><p>Chipotle, Yum Brands, Chick-fil-A Inc., In-N-Out Burgers, Jack in the Box Inc., and Burger King parent Restaurant Brands International Inc. have together spent more than $1 million to lobby lawmakers between 2021 and June 30 of this year, primarily on the Fast Act, state records show.</p><p>The International Franchise Association, which represents some 1,200 franchise brands, has spent $615,000 lobbying against the Fast Act and other legislation in that time.</p><p>Disclosures for lobbying spending since July 1 aren't due until later this year, but industry advocacy against the bill has ramped up considerably during that time, people familiar with the effort said.</p><p>Labor unions have collectively spent more than $5 million to lobby the Legislature since the beginning of 2021, mostly on the Fast Act, state records show.</p><p>McDonald's has encouraged franchisees around the country to email California lawmakers urging them to vote against the bill, according to a message viewed by The Wall Street Journal.</p><p>State Sen. Shannon Grove, a Republican, said on the Senate floor Monday that McDonald's representatives told her that if the Fast Act becomes law, the company could stop expanding in California or leave altogether.</p><p>\"Could we really survive without the golden arches?\" Ms. Grove said.</p><p>Write to Heather Haddon at heather.haddon@wsj.com and Christine Mai-Duc at christine.maiduc@wsj.com</p><p>California Fast Food Wages Would Be Set by Government Under Bill Passed by State Legislature</p>",
+  "published": "2022-08-30T03:50:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 131,
+          "end": 141
+        },
+        {
+          "start": 321,
+          "end": 337
+        },
+        {
+          "start": 4583,
+          "end": 4593
+        },
+        {
+          "start": 4842,
+          "end": 4852
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.4249735,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.42497373,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

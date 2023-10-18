@@ -1,0 +1,50 @@
+{
+  "_id": "c4e0b7e14d80acc782c054f4d1b19c499703e68fa2c472302ac1a5aa4928177b",
+  "feed": "ftcomall",
+  "title": "Ken Griffin's Citadel Securities borrows $600mn as trading revenues surge",
+  "text": "<p>Citadel Securities borrowed $600mn on Thursday to bolster its balance sheet and trading business, capitalising on strong demand from lenders after volatile markets helped one of the biggest US equity trading houses make a banner start to 2022.</p> <p>The company, which is majority owned by billionaire <a href=\"https://www.ft.com/topics/people/Kenneth_Griffin\">Ken Griffin</a>, forms a critical part of the plumbing of US financial markets. It was thrown into the spotlight last year as millions of investors piled into stock and option markets for the first time.</p> <p>The company told lenders, which include credit funds, that it planned to use the $600mn in part for additional trading capital. <a href=\"https://www.ft.com/stream/49c9e1af-8f09-4721-8a24-a0ebfb420d7c\">Citadel</a> has sought to expand into markets outside the US and build its business with institutional traders in fixed income.</p> <p>Documents circulated to lenders underscored Citadel Securities' dominance in US financial markets. The company executes more than a fifth of equities trading volume in the US and handles more retail stock trades than any other market maker.</p> <p>Net trading revenues surged 38 per cent in the second quarter from a year earlier to $1.9bn as financial markets whipsawed, according to people who saw the results and read them to the Financial Times.</p> <p>The high volatility — which came as the S&amp;P 500 fell into a bear market — <a href=\"https://www.ft.com/content/25e6100d-4cdd-45d0-aaab-6f9b77b14257\">benefited many players</a> on Wall Street, and trading revenues at Goldman Sachs, Morgan Stanley and JPMorgan Chase all rose considerably. Citadel's earnings before interest, taxes, depreciation and amortisation rose 53 per cent from the year prior to $1.1bn in the quarter.</p> <p>For the first half of the year, net trading revenues rose 23 per cent from a year earlier to $4.2bn, and ebitda climbed 30 per cent to $2.6bn. </p> <p>The company earlier this year was valued at $22bn when Griffin <a href=\"https://www.ft.com/content/188afc27-5c08-4b06-b066-d79522ed787e\">sold a $1.2bn stake in the business</a> to venture capital groups Sequoia and Paradigm. </p> <p>Its new backers are keen for Citadel to expand into cryptocurrency trading. The market-making business has been tapping credit markets for cash as it has grown, and the new borrowing will swell the size of an existing loan to more than $3.5bn.</p> <p>The loan matures in February 2028 and was issued with an interest rate 3 percentage points above Sofr, the new floating interest rate that has been widely adopted to replace Libor. The large appetite to lend to Citadel allowed the Goldman Sachs bankers marketing the deal to tighten the terms — it had initially offered the loan with an interest rate a quarter-point higher — and increase its size by $200mn.</p> <p>Analysts at credit rating agency Moody's said Citadel Securities had a “strong capital base, profitable track record during periods of varying market volatility, and solid risk management capabilities”.</p><p>Source: Eric Platt in New York 2022 'Ken Griffin's Citadel Securities borrows $600mn as trading revenues surge' FT.com 18 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-18T23:52:17.299Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 2286,
+          "end": 2299
+        },
+        {
+          "start": 1328,
+          "end": 1335
+        },
+        {
+          "start": 2301,
+          "end": 2308
+        },
+        {
+          "start": 1328,
+          "end": 1341
+        },
+        {
+          "start": 1320,
+          "end": 1333
+        },
+        {
+          "start": 2301,
+          "end": 2314
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000004,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 3.695488e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

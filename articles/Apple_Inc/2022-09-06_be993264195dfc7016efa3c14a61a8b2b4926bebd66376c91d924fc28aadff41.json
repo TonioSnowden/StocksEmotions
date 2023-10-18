@@ -1,0 +1,34 @@
+{
+  "_id": "be993264195dfc7016efa3c14a61a8b2b4926bebd66376c91d924fc28aadff41",
+  "feed": "market-watch",
+  "title": "Biden considering executive order that could limit TikTok data collection, outbound China investment",
+  "text": "<p>\"There are multiple options said to be under consideration, ranging from creating new disclosures to establishing a system that would give the government the ability to block investments,\" wrote Owen Tedford, senior research analyst at Beacon Policy Advisors, in a Tuesday note to clients. \"There is also a hybrid option where investments could be blocked if something problematic is in the disclosures.\"</p><p>The popular video-sharing app TikTok and its parent company ByteDance Ltd. could be the most high-profile target of the new measures, following concerns that the Chinese government could be misusing data collected on American users. Bloomberg reported Friday evening that the White House is considering issuing a stand-alone order addressed specifically at TikTok.</p><p>TikTok, with its an estimated 78.7 million American users, has long been the focus of U.S. policy makers. President Trump initiated a process that could have led to a ban on use of the app in the U.S., but Biden backed off that approach in favor of its own review of the matter.</p><p>Brendan Carr, the senior Republican on the Federal Communications Commission, wrote a letter in June to Apple Inc. AAPL CEO Tim Cook and Sundar Pichai, CEO of Google parent Alphabet Inc. GOOG requesting that they remove TikTok from their companies' app stores.</p><p>\"It is clear that TikTok poses an unacceptable national security risk due to its extensive data harvesting being combined with Beijing's apparently unchecked access to that sensitive data,\" Carr wrote.</p><p>In July, Democratic Sen. Mark Warner of Virginia and Republican Sen. Marco Rubio of Floridacalled on the Federal Trade Commission to launch an investigation into TikTok's data collection practices.</p><p>TikTok did not immediately respond to a request for comment, but the company said in a blog post following the Warner-Rubio letter that it is working on a system in partnership with U.S.-based Oracle Corp. ORCL that would \"reduce the need for data transfers across regions\" and would limit access to U.S. data by company officials outside the U.S.</p><p>Robert Kaminski, a policy analyst at Capital Alpha Partners, wrote in a recent note to clients that an FTC investigation could be the best outcome for the company because it may result in remedial actions that head off a more aggressive legislative or administrative attack on TikTok.</p><p>\"If this happens, we see this as positive for the company because any resulting FTC action would be remedial in nature and likely impose auditable policies and procedures TikTok could point to in their defense,\" he wrote.</p><p>Biden's planned executive order is also likely to create stricter conditions on how Americans can invest in China, after the administration publicly backed a provision in the recently passed CHIPS act that would create a disclosure system for such investments.</p><p>That provision didn't make it into the final bill, but Tedford of Beacon Policy Advisors wrote that \"the creation of a disclosure system remains our base case for a Biden executive order\" though it's possible the order could be written so that it's possible for the Commerce Department to block investments it deems contrary to national security interests.</p><p>Biden considering executive order that could limit TikTok data collection, outbound China investment</p>",
+  "published": "2022-09-06T16:56:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.90999997,
+      "offsets": [
+        {
+          "start": 1153,
+          "end": 1163
+        },
+        {
+          "start": 1164,
+          "end": 1168
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000196,
+        "baseWeight": 2.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.9669533e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

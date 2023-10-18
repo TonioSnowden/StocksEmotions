@@ -1,0 +1,68 @@
+{
+  "_id": "bdf0067984c73b910dc8d67d8bc8efb0f6750a84aa7b03d1e821b86424e4b29a",
+  "feed": "wall-street-journal",
+  "title": "Visa, Mastercard Draw New Government Scrutiny Over Debit-Card Routing; The Federal Trade Commission is examining whether the companies' security tokens prevent online debit-card payments from going over other networks",
+  "text": "<p>In recent months, the FTC expanded its focus to routing challenges that stem from the networks' security tokens, the people familiar with the matter said. It couldn't be determined if the investigation is a new probe or part of the previous one.</p><p>Visa and Mastercard are by far the two biggest card networks in the U.S., building and maintaining the plumbing that allows Americans to use credit and debit cards at stores and online. Their lion's share of that market has drawn increasing scrutiny from regulators and fueled tension with merchants, which pay fees set by the networks when a customer pays via card.</p><p>A Justice Department investigation on whether Visa has unlawfully maintained a dominant market share in debit cards is ongoing, according to people familiar with the matter.</p><p>Federal law requires that merchants have the ability to choose from at least two unaffiliated debit-card networks to route transactions. That is supposed to give merchants the option to send debit-card payments over the network that sets lower fees.</p><p>In most cases, when a person stores a card in a digital wallet such as Apple Pay, the 16-digit card number gets replaced by a \"security token\" — essentially a line of random numbers. The token is typically provided by the network listed on the card—often Visa or Mastercard.</p><p>The token is what's sent along to payment networks when the person makes a purchase.</p><p>When a debit-card number is tokenized by Visa for example, only Visa can understand the token so that it can be reassociated with an actual card. That makes it easy for the payment to go over Visa's network.</p><p>Alternatively, Visa can unscramble its token so a transaction can be handled by another debit network.</p><p>This setup reinforces Visa and Mastercard's position at the center of huge volumes of payments—even the payments that merchants might want to send over other networks.</p><p>Visa and Mastercard have pushed for widespread tokenization in recent years, noting that the tokens help protect the cards from fraud.</p><p>The FTC is looking into whether Visa and Mastercard have been limiting the information they send when they enable an online payment to go over a different network, the people said. That alleged practice, according to merchants, increases the chances that the card's issuing bank will reject the transaction when it is handled by a different network.</p><p>The FTC is also looking into whether Visa and Mastercard are restricting routing choice after shoppers store their debit-card information on merchants' websites or apps, or on pay tab buttons, the people familiar with the matter said. Tokens are often used in these cases.</p><p>This month, the Federal Reserve issued an update to banks, clarifying that they must enable at least two networks on all debit-card transactions, including online payments. The Fed has the authority to enforce these rules with respect to Fed-supervised banks, and the FTC has the power to enforce these rules with card networks.</p><p>The FTC's current probe is linked to the Fed's update, according to people familiar with the matter.</p><p>Write to AnnaMaria Andriotis at annamaria.andriotis@wsj.com</p><p>Visa, Mastercard Draw New Government Scrutiny Over Debit-Card Routing</p>",
+  "published": "2022-10-17T18:24:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 246,
+          "end": 250
+        },
+        {
+          "start": 1292,
+          "end": 1296
+        },
+        {
+          "start": 2398,
+          "end": 2402
+        },
+        {
+          "start": 1620,
+          "end": 1624
+        },
+        {
+          "start": 1730,
+          "end": 1734
+        },
+        {
+          "start": 1876,
+          "end": 1880
+        },
+        {
+          "start": 659,
+          "end": 663
+        },
+        {
+          "start": 2043,
+          "end": 2047
+        },
+        {
+          "start": 1461,
+          "end": 1465
+        },
+        {
+          "start": 1438,
+          "end": 1442
+        },
+        {
+          "start": 3124,
+          "end": 3128
+        },
+        {
+          "start": 1589,
+          "end": 1593
+        },
+        {
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

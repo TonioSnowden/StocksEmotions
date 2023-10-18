@@ -1,0 +1,50 @@
+{
+  "_id": "b9ccc7c48709e5a7481040f3084956f60c9c33dd836fda1218735991117fd844",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Heard on the Street:  One Stream Won't Rule Them All  ---  Services look to bundles, slower releases and expensive  shows to prevent churn, but viewers can still easily cancel  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  The ultimate irony of Jeff Bezos breaking the bank to make a \"Lord of the Rings\" TV series is that -- among streaming services -- Amazon might be least in need of it. </p><p>\n  This week saw the debut of \"The Lord of the Rings: The Rings of Power\" on Amazon's Prime Video service. It is the first major TV series based on J.R.R. Tolkien's iconic literary property. It is also the first time anyone has dropped $715 million on a single season of television -- and a short one at that. The first season will last eight episodes. If each runs about 60 minutes then that expenditure, which includes the rights paid to Mr. Tolkien's estate, works out to a little over $89 million an hour -- about triple the per hour cost of the blockbuster movie trilogy that started its theatrical run in 2001. </p><p>\n  Mr. Bezos, who was Amazon's chief executive until last summer, was closely involved with the negotiation of rights and development of the series. Such largess is striking for a man who long had his office employees work on desks fashioned from wooden doors. But Mr. Bezos also made it clear to his studio people that he wanted \"my Game of Thrones,\" according to the book \"Amazon Unbound,\" by Brad Stone. In other words, an epic on scale with the HBO hit that produces heaps of fans, critical praise, franchise potential and -- perhaps most important -- subscribers who stick around. </p><p>\n  Subscriber loyalty is taking on new prominence in a streaming industry that was once myopically focused on adding eyeballs. But in established, lucrative markets like North America, there are simply fewer of them to be had. According to data from HarrisX and MoffettNathanson, 81% of U.S. households now use at least one streaming service. Netflix's subscriber loss since hitting nearly 222 million globally at the end of last year only seems to underscore the degree of saturation. And unlike cable-TV services, which are a hassle to sign up for and an even bigger hassle to disconnect, streamers need to please customers who can sign off with a mouse click. </p><p>\n  Many are. According to data compiled for The Wall Street Journal by the subscriber-measurement firm Antenna, about 19% of streaming subscribers now qualify as \"serial churners\" -- meaning they canceled three or more subscriptions in the two-year period ended in June. That compares with 4% fitting that definition three years earlier. Antenna's data also suggests an upper limit to the number of subscriptions consumers are willing to juggle; the average per subscriber has gone up only 1.5 times since June 2019. Major streaming services HBO Max, Paramount+, Disney+, Apple TV+ and NBCUniversal's Peacock have all launched since then. </p><p>\n  In a market likely to face consolidation, streamers are driving hard to be among the last ones standing, and wowing customers with shows that cost a fortune is one way to do that. Amazon is hardly alone in going the blockbuster route: Netflix is now producing movies costing $200 million apiece, while the latest season of its \"Stranger Things\" series ran to $30 million an episode, according to the Journal. Disney's Marvel TV shows offer the same production values as its movies that now also cost about $200 million each, and the company has aired more than 40 episodes of those shows since the start of 2021. </p><p>\n  Hence, streamers are resorting to other, less-expensive tricks to keep subscribers engaged. More are staggering the release of TV episodes rather than using the binge-release model pioneered by Netflix. This has been most commonly deployed by newer services that lack a large, steady base of hit shows, such as Paramount+ and AppleTV+. By the end of 2021, both released more than 70% of their shows on a staggered basis compared with about 11% for Netflix, according to data from Ampere Analysis. Amazon is following the pack here as well; about 42% of its series content was released on a staggered schedule in the first half of this year, compared with 28% in the 2018 first half, according to Ampere. </p><p>\n  But Amazon isn't your average streamer either. It is a technology colossus with annual revenue approaching half a trillion dollars. That is double the combined annual revenue of Disney, Warner Bros. Discovery, Paramount and Comcast, the largest media companies running their own streaming outlets. And while Amazon offers an option to subscribe to just Prime Video for $8.99 a month, streaming has long been part of its larger Prime shipping service that -- despite a recent price hike -- still runs about midrange compared with the price of streaming-only services from media companies that don't also deliver packages. </p><p>\n  That makes Prime an especially sticky service, meaning that the expensive \"Rings of Power\" is a relatively modest risk even if it flops with viewers. Consumer Intelligence Research Partners estimates that Amazon Prime now has about 168 million subscribers in the U.S. alone, with 21% of those never even having tried the video service. </p><p>\n  Amazon's model is attractive enough that even others want in. The Journal reported Thursday that Disney is evaluating options for its own Prime-like offering that could bundle streaming services together with things like discounts on merchandise and theme-park purchases. Viewers might be less likely to click the off button if it means a longer wait for packages -- or more expensive churros. </p><p></p>",
+  "published": "2022-09-03T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.999856,
+      "offsets": [
+        {
+          "start": 2601,
+          "end": 2608
+        },
+        {
+          "start": 2621,
+          "end": 2628
+        },
+        {
+          "start": 3083,
+          "end": 3089
+        },
+        {
+          "start": 3106,
+          "end": 3112
+        },
+        {
+          "start": 4161,
+          "end": 4167
+        },
+        {
+          "start": 5031,
+          "end": 5037
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.643943,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -2.3560572,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

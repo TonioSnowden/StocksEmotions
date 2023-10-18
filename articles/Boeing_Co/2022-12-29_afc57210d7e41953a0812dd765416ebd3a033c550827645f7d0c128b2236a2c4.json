@@ -1,0 +1,24 @@
+{
+  "_id": "afc57210d7e41953a0812dd765416ebd3a033c550827645f7d0c128b2236a2c4",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Lockheed Challenges Army's Helicopter Pick",
+  "text": "<p>Lockheed Martin teamed up with Boeing Co. to offer an all-new helicopter, the Defiant X. The company said its chopper was far cheaper to build and operate than the winning Textron proposal, triggering Lockheed's decision to lodge a protest with the Government Accountability Office.</p><p>\"The data and discussions lead us to believe the proposals were not consistently evaluated to deliver the best value in the interest of the Army, our Soldiers and American taxpayers,\" Lockheed said in a statement.</p><p>The Army and Textron didn't immediately respond to requests for comment.</p><p>The Army sought a new helicopter that was faster and had more range than the Black Hawk.</p><p>The GAO has the power to recommend reopening competitions or amending existing contracts if it finds in favor of protests, which can take several months. The office has 100 days to make a final decision.</p><p>Winning bidders often have to stop work on programs until the GAO makes a decision. In 2018, the GAO rejected a protest from Boeing after its proposal for a new bomber built in partnership with Lockheed Martin lost to a rival design from Northrop Grumman Corp.</p>",
+  "published": "2022-12-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 988,
+          "end": 994
+        },
+        {
+          "start": 31,
+          "end": 41
+        }
+      ]
+    }
+  ]
+}

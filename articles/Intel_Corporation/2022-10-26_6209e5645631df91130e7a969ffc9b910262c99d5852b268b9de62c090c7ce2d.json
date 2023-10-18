@@ -1,0 +1,20 @@
+{
+  "_id": "6209e5645631df91130e7a969ffc9b910262c99d5852b268b9de62c090c7ce2d",
+  "feed": "wall-street-journal",
+  "title": "SK Hynix Halves Spending On Chips",
+  "text": "<p>SK Hynix is a dominant player in memory chips, trailing only Samsung Electronics Co. Last year, it ranked, alongside Samsung, Intel Corp. and Micron Technology Inc., as the biggest semiconductor firms in the world by revenue.</p><p>SK Hynix also owns and operates several facilities in China, where new U.S. export rules have added fresh barriers to production there. In a worst-case scenario for contingency planning, SK Hynix said it would consider exiting from the Chinese market if the U.S. restrictions make continued operations too difficult.</p><p>On Wednesday, SK Hynix reported net profit for the July-September quarter of 1.1 trillion won, a 67% decline from the prior year. Revenue reached 10.98 trillion won, a 7% drop from a year earlier.</p>",
+  "published": "2022-10-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 126,
+          "end": 131
+        }
+      ]
+    }
+  ]
+}

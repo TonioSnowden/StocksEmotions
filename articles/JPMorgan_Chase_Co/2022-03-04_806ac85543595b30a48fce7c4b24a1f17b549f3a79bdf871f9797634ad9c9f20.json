@@ -1,0 +1,20 @@
+{
+  "_id": "806ac85543595b30a48fce7c4b24a1f17b549f3a79bdf871f9797634ad9c9f20",
+  "feed": "wall-street-journal",
+  "title": "Russian Debt Default May Test Limits of Credit Default Swap Market; Derivatives meant to protect investors from a Russian default may not work as planned because of sanctions imposed by Washington and Moscow",
+  "text": "<p>The cost of buying a five-year contract for protection against a Russian government default has skyrocketed since the beginning of February from around 5% of the total value of the debt to be insured to 46% as of March 4, according to data from ICE Data Services. ICE is the main clearinghouse for European credit default swaps.</p><p>Typically, when a country or corporation defaults on a bond with a credit default swap, investment banks and brokerages that facilitate the swaps will participate in an auction to determine the value of the debt, usually at a discount to face value. Once the auction concludes and a final price is determined, the insurance provider pays out the remainder of the face value of the debt to whomever bought protection.</p><p>However, Russian sanctions precluding the secondary-market trading of Russian bonds may render the entire auction process moot.</p><p>\"The CDS auction mechanism in its normal functioning needs a secondary market for bonds to allow price discovery and transfer of bonds,\" wrote JPMorgan analysts in a March 2 note. \"If that is not able to happen due to sanctions on secondary market trading, then an auction in the standard way will not be possible.\"</p><p>Moscow's response to Western sanctions, including the imposition of capital controls, has already created a disruption in how Russia's public debt trades internationally.</p><p>Euroclear, a major debt clearinghouse based in Belgium, said on Wednesday that Russia's state depository had blocked its accounts, preventing trades of some of Russia's dollar- and euro-denominated debts from settling. The central bank of Russia on Feb. 28 also barred local brokers from handling sales of securities on behalf of foreign investors.</p><p>Current U.S. sanctions only forbid the trading of Russian sovereign debt issued after March 1. But if the Treasury Department widens the scope of its sanctions, it could also outright prohibit any trading in the securities, as it did with state-owned entities like Russia's VTB Bank and VEB RF.</p><p>An alternative may be to settle all credit default swaps trades purely in cash between counterparties, rather than attempting an auction process, although that could result in different recovery rates for the same underlying insurance contract, the JPMorgan analysts said.</p><p>While there are no CDS contracts attached to Russia's local debts, Russia owes around $115 million under dollar-denominated debt to investors due on March 16. If it doesn't pay, it has a 30-day grace period before a credit default swap event can be triggered, according to JPMorgan.</p><p>If they aren't lifted, Russia's capital controls and restrictions on its access to foreign-exchange reserves may cause the nation to default soon. Records showed that the country's finance ministry sent the interest payment for a local-currency bond maturing in 2024 on Wednesday. But the central bank has blocked the next step in the system that should then transfer it to foreign bondholders the following day.</p><p>\"This is a technicality, but for all intents and purposes, that is already a default,\" said Timothy Ash, senior sovereign strategist for emerging markets at BlueBay Asset Management in London. \"Given foreign-exchange liquidity constraints, it only seems a matter of time before external debt goes into default.\"</p><p>Write to Alexander Saeedy at alexander.saeedy@wsj.com</p><p>Russian Debt Default May Test Limits of Credit Default Swap Market</p>",
+  "published": "2022-03-04T20:59:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 2551,
+          "end": 2559
+        }
+      ]
+    }
+  ]
+}

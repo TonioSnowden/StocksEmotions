@@ -1,0 +1,58 @@
+{
+  "_id": "ae018696892af27fa7fe7034c6ec6d1139258e9ee24bd2adaafbac97fd72b6ee",
+  "feed": "ftcomall",
+  "title": "Spotify chief urges EU to accelerate antitrust case against Apple",
+  "text": "<p>The founder of music streaming app Spotify has used a rare visit to Brussels to apply personal pressure on the European Commission for a case against Apple's practices to be accelerated.</p> <p>In an interview with the Financial Times, Swedish billionaire Daniel Ek said he spoke with competition commissioner Margrethe Vestager about what he sees as Apple's “anti-competitive conduct”.</p> <p>“It's a picture of a company that keeps zigging and zagging to avoid doing anything,” he said, adding that other regulators, including in Japan, the Netherlands and South Korea, “have come down pretty hard on” Apple over similar issues. He urged the commission to do the same.</p> <p>“I was asking [her] what I can do to make sure this case moves faster. As an entrepreneur you always want anything to happen yesterday. These regulatory processes take time so, so far, I guess normal but that doesn't mean that one shouldn't try to accelerate them or try to make more progress.”</p> <p>Ek said he hoped his visit would speed the probe against Apple, which has taken almost four years. “I'm hoping [my visit] raises the awareness and the attention on the agenda and that the priority becomes even higher.”</p> <p>His remarks followed meetings with senior officials — including Vestager, commissioner Vera Jourova and the cabinet of internal markets commissioner Thierry Breton — to make his case for a speedy resolution on an antitrust probe against Apple.</p> <p>Spotify <a href=\"https://www.ft.com/content/73e0d448-4577-11e9-a965-23d669740bfb\">filed a complaint</a> with European regulators in 2019 claiming Apple was taking a 30 per cent cut of its subscription fees for featuring it in the App Store and denying the streaming service the right to tell its users that other ways of upgrading were available. The commission <a href=\"https://www.ft.com/content/de7a0c50-e087-4db3-9cb3-ed1d3c1a4b8b\">formally charged Apple</a> with breaking EU law earlier this year.</p> <p>Ek said Vestager told him she shared his frustration over the pace of the investigation. The commission did not comment after the meeting apart from to say they discussed “issues within the competition and digital portfolio”.</p> <p>There is no fixed deadline for the commission to issue its final ruling and officials have not indicated when it might be given. Whoever loses the case is likely to appeal to the EU courts. </p> <p>Critics of Spotify argue the company is so successful that it does not really need regulators to clamp down on Apple for it to thrive. But Ek rejected this, arguing the streaming service was successful “in spite of the environment”.</p> <p>Companies complaining against Big Tech have long said antitrust probes achieve too little and come too late for industry competition to benefit from any action. Fines are typically regarded as a cost of doing business.</p> <p>Beyond Spotify's case against Apple, Ek praised recent efforts in Europe to regulate the internet with two landmark regulations, the Digital Markets Act and the Digital Services Act, but said more efforts to tackle a rapidly moving market were needed.</p> <p>The DMA aims to curb the power of Big Tech by prohibiting anti-competitive behaviour such as platforms ranking their own services ahead of rivals on their own platforms. The DMA sets out the policing rules of the internet, including how to monitor and remove illegal content.</p> <p>Ek said: “We believe that the DMA and the DSA are very important cornerstones. Our question mark with them is how do we implement them truly. The speed at which this technological landscape is happening is accelerating. How do we get real remedies? Most of the current remedies we have seen in these cases are a slap on the wrist. They don't have to care about that.”</p><p>Source: Javier Espinoza in Brussels 2022 'Spotify chief urges EU to accelerate antitrust case against Apple' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T17:43:08.603Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 60,
+          "end": 65
+        },
+        {
+          "start": 150,
+          "end": 155
+        },
+        {
+          "start": 343,
+          "end": 348
+        },
+        {
+          "start": 1003,
+          "end": 1008
+        },
+        {
+          "start": 1475,
+          "end": 1480
+        },
+        {
+          "start": 1707,
+          "end": 1712
+        },
+        {
+          "start": 2275,
+          "end": 2280
+        },
+        {
+          "start": 2642,
+          "end": 2647
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.708688,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7086874,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

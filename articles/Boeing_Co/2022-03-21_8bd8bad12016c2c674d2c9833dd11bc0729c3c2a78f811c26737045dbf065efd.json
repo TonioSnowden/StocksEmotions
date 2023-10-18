@@ -1,0 +1,20 @@
+{
+  "_id": "8bd8bad12016c2c674d2c9833dd11bc0729c3c2a78f811c26737045dbf065efd",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Economic Calendar",
+  "text": "<p>U.S. new-home sales likely increased in February, according to economists surveyed by The Wall Street Journal, as builders stepped up construction and buyer demand remained strong.</p><p>Thursday: Surveys of purchasing managers at businesses in the U.S. and Europe are expected to record a modest slowdown in activity during the early weeks of March.</p><p>New orders for durable goods -- products designed to last at least three years -- are estimated to have declined in February after auto production was again held back by supply-chain bottlenecks and Boeing Co. had a relatively weak month for aircraft orders.</p><p>Friday: The University of Michigan's consumer sentiment index for the opening weeks of March is expected to post its worst reading since 2011.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-03-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 544,
+          "end": 554
+        }
+      ]
+    }
+  ]
+}

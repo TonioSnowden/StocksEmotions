@@ -1,0 +1,28 @@
+{
+  "_id": "658c6c56a2c058473cbea74aa4dfd920adecb9e4b28c72f85b38ccd3e6beef3f",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- CEO Quits Seat on Coca-Cola Board",
+  "text": "<p>Mr. Kotick's total compensation as a Coca-Cola director in 2020 was $340,003, according to the most recent public filings. His pay package at Activision, where he has served as CEO for more than 30 years, in 2020 was valued at $154.6 million.</p><p>Coca-Cola had faced calls from some investors for Mr. Kotick to exit from the company's board.</p><p>Microsoft in January agreed to buy Activision in an all-cash deal valued at about $75 billion. Mr. Kotick is expected to exit from the company after the deal with Microsoft closes.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-03-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "name": "The Coca-Cola Company",
+      "offsets": [
+        {
+          "start": 37,
+          "end": 46
+        },
+        {
+          "start": 243,
+          "end": 252
+        },
+        {
+          "start": 31,
+          "end": 40
+        }
+      ],
+      "nexusId": "10017668"
+    }
+  ]
+}

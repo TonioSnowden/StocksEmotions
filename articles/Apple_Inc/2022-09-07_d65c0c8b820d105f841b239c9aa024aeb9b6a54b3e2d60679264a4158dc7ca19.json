@@ -1,0 +1,74 @@
+{
+  "_id": "d65c0c8b820d105f841b239c9aa024aeb9b6a54b3e2d60679264a4158dc7ca19",
+  "feed": "market-watch",
+  "title": "Apple's iPhone 14 event could herald new satellite era for smartphones; All eyes will be on Apple's headquarters in Cupertino, California, today as the tech giant launches its latest products, including the widely anticipated iPhone 14.",
+  "text": "<p>Taken together, the tagline and the constellation-style image could suggest a new satellite era for smartphones.</p><p>Apple iPhone 14 event: A price hike is expected, but will there be 'one more thing'?</p><p>Analyst Ming-Chi Kuo recently wrote that Apple had completed hardware development for satellite communication prior to the launch of the iPhone 13 but the feature was ultimately not supported because the business model was still being hashed out.</p><p>Satellite communication is one of iPhone 14's test items prior to mass production, according to Kuo, who said that the satellite communication would mainly be used for emergency texting and voice services.</p><p>However, there are still question marks around the prospect of satellite connectivity on the latest iPhone. \"Whether iPhone 14 will offer satellite communication service depends on whether Apple and operators can settle the business model,\" the analyst wrote.</p><p>See Now: Apple schedules Sept. 7 event expected to mark iPhone 14 debut</p><p>But other phone makers are starting to overcome this hurdle, so why not Apple? On Tuesday, Huawei unveiled its Mate 50 Series, which includes phones capable of sending texts via China's global BeiDou satellite network, The Verge reports.</p><p>The BBC also reports that a British smartphone maker is planning a satellite-connected handset.</p><p>Last month T-Mobile US Inc. TMUS and SpaceX announced a partnership that aims to connect the vast majority of smartphones already on T-Mobile's network to SpaceX satellites. Despite the existence of powerful LTE and 5G wireless networks, over half a million square miles of the U.S. and vast stretches of ocean are untouched by cell signals from any provider, the companies said in a statement. To resolve this problem, the companies will create a new network, broadcast from Starlink's satellites using T-Mobile's mid-band spectrum nationwide.</p><p>North America is vast and the ability to communicate effectively in remote areas is critical, particularly against the backdrop of deadly wildfires and floods. \"The increasing frequency of natural disasters and geopolitical conflicts in recent years will likely make emergency texting/voice services via satellite communication a must-have smartphone feature,\" wrote Kuo.</p><p>Not surprisingly, there is plenty of interest in a satellite-connected iPhone. \"I will launch myself into space if the iPhone 14 doesn't have satellite connectivity,\" Sam Kohl, the editor-in-chief of AppleTrack, tweeted recently.</p><p>Tech journalist Mike Elgan thinks that Apple's satellite service won't come through a carrier. \"It will be provided by Apple itself, with its own satellite partnership. Why? Because Apple,\" he writes.</p><p>Satellite communications and wireless spectrum consultant Tim Farrar recently tweeted that the T-Mobile and SpaceX announcement was designed to pre-empt an Apple partnership with satellite company Globalstar GSAT. \"That should begin as soon as the new phone is released,\" he tweeted.</p><p>\"Importantly, Apple will be using existing satellite spectrum, with no need for any rule changes from the FCC,\" Farrar added. \"However, the service will be limited just to two-way texting – no voice calls or photos unless they invest in a new multi-billion dollar constellation.\"</p><p>Apple's stock has fallen 12.8% this year, compared with the S&amp;P 500 Index's SPX decline of 18%.</p><p>See Now: Apple already decimated Meta's ad-tech empire. Now, it's homing in on Facebook's advertisers, too.</p><p>Of 40 analysts surveyed by FactSet, 33 have an overweight or buy rating, seven have a hold rating and one has a sell rating.</p><p>Apple's iPhone 14 event could herald new satellite era for smartphones</p>",
+  "published": "2022-09-07T13:26:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 92,
+          "end": 97
+        },
+        {
+          "start": 112,
+          "end": 117
+        },
+        {
+          "start": 237,
+          "end": 242
+        },
+        {
+          "start": 239,
+          "end": 244
+        },
+        {
+          "start": 914,
+          "end": 919
+        },
+        {
+          "start": 1049,
+          "end": 1054
+        },
+        {
+          "start": 2487,
+          "end": 2492
+        },
+        {
+          "start": 2627,
+          "end": 2632
+        },
+        {
+          "start": 2801,
+          "end": 2806
+        },
+        {
+          "start": 3205,
+          "end": 3210
+        },
+        {
+          "start": 3309,
+          "end": 3314
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

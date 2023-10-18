@@ -1,0 +1,42 @@
+{
+  "_id": "43124e30c2170d1d0ae0f836bbdf8057cc3177d1faac5a1a2e8385733c89d8df",
+  "feed": "market-watch",
+  "title": "Apple wants workers back in the office 3 days a week starting Sept. 5: reports; Hybrid schedule to be implemented after more than a year of delays",
+  "text": "<p>Later Monday, The Verge published an internal memo laying out the hybrid work plan from Apple Chief Executive Tim Cook, who said changes had been made based on feedback and insights from employees and managers. According to the memo, employees will be able to work remotely two days a week, and up to four weeks a year. Apple employees in other regions will return in different phases, the memo said.</p><p>Apple did not immediately respond to a MarketWatch request for confirmation or comment.</p><p>The three-days-in-the-office hybrid plan was first announced in June 2021, but implementation has been delayed numerous times due to spikes in COVID-19 cases. The tech giant also faced a backlash from employees, who called for more flexibility with their schedules.</p><p>Also: 'I'm very outspoken about my desire to never work in an office again': CEOs and employees are locked in a battle of wills over when they return to the office</p><p>Tech companies, particularly ones in Silicon Valley, were among the first to shut their offices when the COVID-19 pandemic hit in 2020.</p><p>While nearly half of U.S. office workers have returned to their offices, workforces in New York and San Francisco have lagged, with return rates of just 40% and 37%, respectively, according to Kastle System's 10-city office occupancy tracker.</p><p>See: Life in America is getting back to 'normal,' except when it comes to the office</p><p>Workers at Alphabet Inc.'s GOOGL GOOG Google returned to the office at least three days a week starting in April, while Meta Platforms Inc. META employees returned in late March. But other tech companies, such as Twitter Inc. TWTR, Airbnb Inc. ABNB and Yelp Inc. YELP, have pivoted nearly fully to remote work.</p><p>Apple wants workers back in the office 3 days a week starting Sept. 5: reports</p>",
+  "published": "2022-08-15T23:52:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 88,
+          "end": 93
+        },
+        {
+          "start": 318,
+          "end": 323
+        },
+        {
+          "start": 398,
+          "end": 403
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

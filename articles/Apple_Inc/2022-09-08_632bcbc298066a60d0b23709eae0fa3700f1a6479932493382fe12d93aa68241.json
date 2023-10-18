@@ -1,0 +1,86 @@
+{
+  "_id": "632bcbc298066a60d0b23709eae0fa3700f1a6479932493382fe12d93aa68241",
+  "feed": "market-watch",
+  "title": "Apple still shows a flash of innovation despite lack of surprising iPhone 14 features; Aside from Apple's flat pricing strategy, one analyst highlighted a small change in the front-facing design as evidence of the company's innovation",
+  "text": "<p>See more: Apple keeps iPhone prices the same, offers free satellite connection for 2 years</p><p>Apple \"perhaps expects that flat pricing can spur demand for Pro models given the tough macro backdrop,\" Barclays analyst Tim Long wrote in a Wednesday note to clients.</p><p>On the topic of price consistency, Piper Sandler analyst Harsh Kumar chimed in that \"given the constrained economic environment we think this is an incremental positive for Apple.\"</p><p>Wells Fargo analyst Aaron Rakers added that \"investor sentiment reflected an expectation that Apple would increase its high-end iPhone 14 Pro &amp; Pro Max pricing by up to $100 vs. the prior entry points on the iPhone 13 Pro and Pro Max at $999 and $1,099.\" He noted that Apple not only kept base prices for the iPhone 14 Pro family steady from a year before, but also that those starting prices have been the same since the iPhone 11 line.</p><p>Of course, hardware pricing always comes with tradeoffs. Flat prices could perhaps make consumers feel more at ease about buying a still-expensive smartphone during a period of high inflation, but Apple also has its own inflationary issues to worry about as it looks at supply costs.</p><p>Rakers pointed to \"inflationary component pricing dynamics\" for Apple, though he noted that he \"now [sees] significant DRAM and NAND flash price declines\" in the second half of the year.</p><p>Despite a lack of groundbreaking feature enhancements, some saw reason for optimism about Apple's innovative capabilities. Oppenheimer's Martin Yang pointed to one physically small change: the creation of a Dynamic Island that replaces the maligned front-facing \"notch\" with a more animated cutout.</p><p>\"The feature turns an obvious eyesore (blackout area on display left by the TrueDepth camera) into a unique, adaptable, and user-friendly UI [user-interface] feature,\" he wrote. \"Dynamic Island, as a new feature, may be less effective than the upgraded camera at driving new iPhone sales, but it is arguably the loudest reminder of what makes Apple products unique.\"</p><p>He continued that \"[n]o other smartphone makers would invest as much in refining animations via hardware and software investments.\"</p><p>JP Morgan's Samik Chatterjee, meanwhile, weighed in on Apple's camera upgrades, which the company said will enable better low-light photography and selfies, among other things.</p><p>\"[W]e believe Apple's focus during the event on both the hardware and software updates to the camera for the higher-tiered iPhone models, including a 48MP main camera with a quad-pixel sensor, is worth keeping an eye on as tangible camera enhancements perceived by consumers have in the past driven strong traction from the installed base to upgrade,\" Chatterjee wrote.</p><p>Samsung flips off the iPhone 14: 'Let us know when it folds'</p><p>Apple also held prices steady with its new Apple Watch iterations amid pressure on the category. Cook acknowledged on Apple's latest earnings call that he saw \"some impact there that we would attribute to macroeconomic environment.\"</p><p>It remains to be seen how the new models will pay off for Apple, or how much they matter to the company's investment story.</p><p>\"With wearables accounting for 10% of AAPL revenue, it is less important than [the iPhone 14],\" wrote Long. \"Also wearables are seen as more discretionary in nature than iPhones, and we think wearables would have more macro sensitivity if [consumers] forgo buying less necessary products.\"</p><p>Read: Apple's satellite plans just sent this stock on a wild ride</p><p>Then there is the high end of the market, for which Apple made a splashy new addition to its product offerings. The company added the Apple Watch Ultra, a $799 watch that sports a new design, larger screen, and features for scuba diving and other adventure activities.</p><p>\"Apple's expanded Apple Watch line-up w/ the new Apple Watch Ultra intro [is] an incremental positive, as we expect this newly designed rugged Apple Watch to be very well-received,\" Wells Fargo's Rakers wrote, pointing to the \"completely new design w/ new capabilities.\"</p><p>Don't miss: Apple CEO Tim Cook won't raise iPhone 14 prices. He must first deal with a fierce rival — and it's not Samsung</p><p>Richard Windsor, an analyst with boutique research operation Radio Free Mobile, was less upbeat.</p><p>\"When the most exciting product launch is aimed at a tiny minority of the user base it becomes clear that Apple is struggling to find ways to get the mass market to buy a new device this year,\" he wrote in a note to clients that called the presentation \"probably the least exciting launch event I have seen for some time which is not what Apple needed.\"</p><p>Apple still shows a flash of innovation despite lack of surprising iPhone 14 features</p>",
+  "published": "2022-09-08T10:49:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 10,
+          "end": 15
+        },
+        {
+          "start": 91,
+          "end": 96
+        },
+        {
+          "start": 98,
+          "end": 103
+        },
+        {
+          "start": 707,
+          "end": 712
+        },
+        {
+          "start": 1071,
+          "end": 1076
+        },
+        {
+          "start": 1221,
+          "end": 1226
+        },
+        {
+          "start": 1433,
+          "end": 1438
+        },
+        {
+          "start": 2191,
+          "end": 2196
+        },
+        {
+          "start": 2742,
+          "end": 2747
+        },
+        {
+          "start": 3031,
+          "end": 3036
+        },
+        {
+          "start": 3151,
+          "end": 3155
+        },
+        {
+          "start": 3390,
+          "end": 3395
+        },
+        {
+          "start": 3502,
+          "end": 3507
+        },
+        {
+          "start": 3999,
+          "end": 4004
+        }
+      ],
+      "weightsV2": {
+        "weight": 24.0,
+        "baseWeight": 15.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

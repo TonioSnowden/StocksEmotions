@@ -1,0 +1,30 @@
+{
+  "_id": "740625c97bc7169db7afcd3b53a1d34cc59f1511b88d896a0486539b4c251fd8",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>A $600 million debt deal that Goldman and JPMorgan recently arranged for Avaya went bad within weeks, hitting investors who lent Avaya the money.</p><p>---</p><p>The chip industry is adjusting to a wider and sharper slowdown than it anticipated even as semiconductor firms prepare to spend billions of dollars on new factories.</p><p>---</p><p>Coinbase reported a loss of $1.1 billion for the second quarter, driven by the cryptocurrency market's spring meltdown.</p><p>---</p><p>Ford will raise prices for its new all-electric truck less than four months after it started shipping the vehicle to dealerships.</p><p>---</p><p>Musk sold Tesla stock valued at nearly $7 billion in recent days, regulatory disclosures show, amid uncertainty over the fate of his deal to buy Twitter .</p><p>---</p><p>U.S. stock indexes closed lower, with the S&amp;P 500, Nasdaq and Dow falling 0.4%, 1.2% and 0.2%, respectively.</p><p>---</p><p>AppLovin proposed a merger with Unity Software through an all-stock deal that would value Unity at $17.5 billion.</p><p>---</p><p>Walmart is looking to add a large video streaming service to its Walmart + membership program, according to people familiar with the situation.</p>",
+  "published": "2022-08-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9699999,
+      "offsets": [
+        {
+          "start": 30,
+          "end": 37
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7536149,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.851115,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

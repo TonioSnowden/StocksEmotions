@@ -1,0 +1,30 @@
+{
+  "_id": "d5b08aa571d4669c1e62863cdb60291928a2b80f5bf338e36015f2770ba8a7d6",
+  "feed": "market-watch",
+  "title": "Amazon said to be among bidders to buy Signify Health; Home-health services provider could be valued above $8 billion",
+  "text": "<p>CVS Health Corp. CVS is also among the suitors, The Wall Street Journal previously reported, as the drugstore and insurance giant looks to expand in home-health services. UnitedHealth Group Inc. UNH and another corporate buyer are also circling the company, according to the people.</p><p>There is no guarantee any of them will reach a deal for Signify, which has been exploring strategic alternatives. The healthcare company has a market value of roughly $5 billion, boosted since the Journal first reported on the possibility of a deal early this month.</p><p>An expanded version of this report appears on WSJ.com.</p><p>Also popular on WSJ.com:</p><p>Spam texts are surging. Here's how to avoid being swindled.</p><p>Stocks are divorced from the economy — but won't be forever.</p><p>Amazon said to be among bidders to buy Signify Health</p>",
+  "published": "2022-08-22T00:03:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 170,
+          "end": 192
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3089305,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.30893052,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "1064fd546184e2397a60ee59ad0a7e19618bb8b9d00db06568fad40257be2654",
+  "feed": "wall-street-journal",
+  "title": "My Ride: Car Fuels New York Love Story",
+  "text": "<p>Ms. Tosti di Valminuta: It was 4 o'clock in the morning when we met. He had this 1969 Cadillac Coupe de Ville convertible. He thought it was love at first sight, but I just really liked his car. He took me to Save the Robots, a famous after-hours spot, in his Cadillac.</p><p>Mr. Pena: The next day, she invited me for dinner. She cooked, and I never left.</p><p>Ms. Tosti di Valminuta: Four months later, the Cadillac died. Julio started looking for another car. He found this 1965 Eldorado on Long Island. He bought it and said to me: \"I know we are going to be together forever. And I want to give you this car.\" I was born in '63, and the car was born in '65, so we were about the same age. When Julio and I built our first restaurant, we used this car for everything. Home Depot. Building supply in Queens and Brooklyn. We filled it with two-by-fours, and Sheetrock.</p><p>Mr. Pena: For about 30 years, I have been parking the car on East Second Street. We named it \"Ms. Caddy,\" and we love her. The car has aches and pains. She has given me some major headaches over the years. She's been through some body shops, with many New York battle scars and stories.</p><p>But the car has become part of the East Village community. Our block on East Second Street is one of the safest blocks in the city. Once, the motor for an electric window broke, so for two days, I left the window open. Nobody touched the car.</p><p>Ms. Tosti di Valminuta: Everybody in the neighborhood looks out for it. They know if they see somebody lying on the car and having their picture taken, to yell at them: \"Hey, don't lie on the car!\" And we still use it for the restaurant. The farmers at the farmers markets love it when I show up with this car. Just yesterday, Julio had the car at a restaurant supply store in Jersey.</p><p>Mr. Pena: Parking on the street can be tough with a car this big. With alternate side of the street parking, I have to move the car frequently.</p><p>Is it easy to drive a car like this in Manhattan? If you were born and raised in the city, it's a breeze. My wife was born in Rome, and she has no problem driving this Cadillac in New York.</p><p>At this point, it's such a sentimental thing, and we love how much joy Ms. Caddy brings to the neighborhood.</p><p>Once this guy asked me if he could have his picture taken with the car and I said, \"How about I take the top down and you can sit in it?\" As my dad taught me: Be nice. It don't cost nothing.</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 748,
+          "end": 758
+        },
+        {
+          "start": 761,
+          "end": 771
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0011277,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0011278391,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "4f1d35bba651970fa3c19bdb8674c4e373519add914644e2488be0cbcaeb028c",
+  "feed": "wall-street-journal",
+  "title": "Apple iOS Update Offers Features for Kids, Music",
+  "text": "<p>Google's Android is the most-used smartphone software around the globe, but iOS remains more popular in the U.S. Along with updated capabilities, the latest software versions typically contain bug fixes and other tweaks that improve the iPhone user experience.</p><p>Sometimes it pays to wait a few days to upgrade, though. Installation can take longer than expected, especially at launch when many people try to download it at once. And if there are any glitches in the software itself, those usually come to light within a few days of the iOS release.</p><p>When you're ready to get iOS 15.2 on your iPhone, go to Settings &gt; General &gt; Software Update. From there, choose Download and Install, then follow the prompts.</p><p>iPad and Mac users get similar updates. (Mac users are also now able to access the SharePlay feature for watching videos, listening to music or working out with friends together over FaceTime.) You can download MacOS Monterey 12.1 by going to System Preferences &gt; Software Update &gt; Update Now. For iPads, you can follow the same process as on the iPhone to get iPadOS 15.2.</p><p>Here are the notable additions in the software updates:</p><p>Apple's new $4.99 subscription tier for Apple Music lets users control playback through Siri. The monthly plan doesn't include access to touch-screen controls, lyrics, music videos or offline playback -- but it gives you access to the full library through Siri-enabled gadgets including iPhones, iPads and the HomePod Mini.</p><p>You can subscribe to the Apple Music Voice Plan by saying, \"Hey Siri, start my Apple Music Voice trial.\"</p><p>A big issue today is figuring out what happens to your digital life when you die. Family members will want to access your photos and other files, and this enables them.</p><p>Apple will allow you to identify five people you'd like to have access to your iCloud data, including your Photos, Notes and Messages. Let those people know they're your legacy contacts, and Apple will give them a digital key that works only once you have passed.</p><p>A new tool for Apple's Messages app will warn kids under 18 before they send or open messages containing nude photos. Parents activate it in the Family Sharing settings.</p><p>Once it is enabled, flagged photos will appear blurred and present warnings before allowing users to proceed.</p><p>Apple won't notify parents when this happens, however.</p><p>Apple also updated the ways to get help in an emergency. You can now press the side button multiple times, or hold the side button and the volume button together to trigger an emergency call.</p><p>iPhone users who download iOS 15.2 will also gain access to an App Privacy Report detailing how often apps access their sensitive data like photos, contacts and location. The opt-in report also lists where that information is being shared. The report builds on Apple's App Tracking Transparency feature, which it rolled out in April.</p>",
+  "published": "2021-12-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2280,
+          "end": 2285
+        },
+        {
+          "start": 1138,
+          "end": 1143
+        },
+        {
+          "start": 1487,
+          "end": 1492
+        },
+        {
+          "start": 1178,
+          "end": 1183
+        },
+        {
+          "start": 1541,
+          "end": 1546
+        },
+        {
+          "start": 2788,
+          "end": 2793
+        },
+        {
+          "start": 1927,
+          "end": 1932
+        },
+        {
+          "start": 2335,
+          "end": 2340
+        },
+        {
+          "start": 1736,
+          "end": 1741
+        },
+        {
+          "start": 2015,
+          "end": 2020
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

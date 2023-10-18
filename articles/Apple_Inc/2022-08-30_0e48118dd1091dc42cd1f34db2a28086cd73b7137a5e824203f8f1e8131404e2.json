@@ -1,0 +1,38 @@
+{
+  "_id": "0e48118dd1091dc42cd1f34db2a28086cd73b7137a5e824203f8f1e8131404e2",
+  "feed": "economist-blog",
+  "title": "Silicon Valley v Wall Street; Dakin Campbell explains how innovation is reshaping tech IPOs",
+  "text": "<p>INITIAL PUBLIC offerings (IPOs) for technology firms have been on a rollercoaster ride of late. Last year 123 tech firms went public in America, raising $58bn, according to data compiled by Jay Ritter of the University of Florida. Those figures are more than three times higher than the level in 2019. But this year the IPO market has slowed down. Soaring inflation, the war in Ukraine and supply-chain issues have rattled markets. Startup bosses are wary of listing shares as a result.</p><p>An ipo is a crucial moment in the life of a company. It raises fresh funds while subjecting the firm to the scrutiny of public investors. Yet critics say the process is flawed. Over the past few years tech executives and venture capitalists have tried to change the system, mostly against the wishes of bankers, who underwrite the stock and offer advice to the company that wants to list. This power struggle is the subject of “Going Public”, a well-researched book by Dakin Campbell, a financial journalist.</p><p>Mr Campbell's book highlights many of the problems with ipos. The biggest gripe of entrepreneurs and venture capitalists is the dominance of investment banks. Critics say they deliberately underprice a company's shares and allocate them to favoured institutional investors, such as big pension funds. On the first day of trading the price surge, or “pop”, creates effortless profits for the investors. The favour is then returned when the investors send more business the bank's way, in the form of trading fees and brokerage commissions. Between 1980 and 2021 the average opening-day pop for a tech firm's listing was 31%, according to data compiled by Mr Ritter.</p><p>Some tech executives have long been wise to this strategy. Before Apple's ipo in 1980, Steve Jobs grilled financiers at Morgan Stanley, an investment bank, about how his company's shares were to be allocated and priced. He forced the bank to increase the opening price of Apple's shares, meaning the tech firm could raise more capital while giving away the same amount of equity. Suspicion of bankers was one reason why Sergey Brin and Larry Page, Google's founders, tried to reinvent the ipo system with an elaborate auction in 2004.</p><p>Mr Campbell argues that it wasn't until the listing of Spotify, a music-streaming firm, in 2018 that a wider shift began. Spotify opted to list its shares directly on a stock exchange, a procedure which does not require underwriters and so keeps banks at arm's length. The approach caught on: nearly a dozen large tech firms, including Palantir, a data-analytics outfit, and Roblox, a computer-game maker, have followed suit. Many more businesses, including Grab, a Singapore-based aspiring super-app, have listed through a “special-purpose acquisition company” (spac). These are listed shell companies which raise capital first and then hunt for a private firm with which to merge.</p><p>The book walks readers through the ipo process in vivid detail. It describes the heated meetings and lavish lunches at which the financial futures of the world's biggest tech firms were decided. It also illuminates what Mr Dakin calls the “elaborate cat-and-mouse game” between startups, investors and bankers behind each public listing. Take, for example, the way banks vie for the business of buzzy firms. When financiers from Credit Suisse pitched to lead the listing for Unity, a 3d-graphics developer, they rendered their presentation in the firm's software. In 2007 teams of investment bankers attended pitch meetings in yoga leggings to impress Lululemon, an athleisure-wear brand.</p><p>The timing of Mr Campbell's book is a tad unfortunate. It was published just as the IPO market began to cool off. Even so, the boom-and-bust nature of public listings means it will probably be topical again before long. When it is, for anyone who wants to understand this crucial moment in capitalism, “Going Public” offers a glimpse behind the curtain.</p><p>■</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1709,
+          "end": 1714
+        },
+        {
+          "start": 1727,
+          "end": 1732
+        },
+        {
+          "start": 1914,
+          "end": 1919
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.2580252,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.74197507,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

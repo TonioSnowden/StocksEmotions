@@ -1,0 +1,108 @@
+{
+  "_id": "3506485959dab3558d22de65bcadfcb0f6b23c366eb8be376cdf041f9cf592c0",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Keywords:  Is It Apple's Time to  Get Behind the Wheel?  ----  By Christopher Mims",
+  "text": "<p>   Now that the car is evolving into essentially a smartphone on wheels, it's no wonder Apple is kicking the tires. </p><p>   First, there is the transition from internal combustion engines to electric motors, which have far fewer mechanical parts. Now, enabled by that change, a second shift is under way -- one that's a prerequisite for a self-driving future. </p><p>   For a century, the automobile was a system of interoperating mechanics: engine, transmission, drive shaft, brakes, etc. As those mechanics evolved, electronic sensors and processors were brought in to assist them, but the concepts changed little. The result was cars with dozens or hundreds of specialized microchips that didn't talk to each other. Now that auto makers are moving to electric motors, elaborate entertainment systems and adaptive cruise control, cars need central computers to control all these things -- why not use them to control everything? </p><p>   At the hardware level, this might just mean fewer chips handling more of a car's functions. Yet it has profound implications for what future cars will be capable of, how car makers will make money, and who will survive -- and thrive -- in what could soon be a global automotive industry made unrecognizable to us today. </p><p>   No one inside Apple is saying exactly what its plans are, but the company has been contemplating a role in autos for years, spending huge sums on hiring hundreds, then eliminating their roles when its priorities change, and almost as quickly hiring other engineers with similar skill sets, then firing yet more engineers, all to realize a still-mysterious ultimate vision. </p><p>   The company also recently approached auto makers including Hyundai about a potential manufacturing partnership, then saw talks fizzle. It's just as likely Apple is, as usual, experimenting until or unless it hits on something it thinks it can do better than anyone else. </p><p>   \"We have seen enough echoes in the supply chain that we know Apple is really looking into every detail of car engineering and car manufacturing,\" says Peter Fintl, director of technology and innovation for Capgemini Engineering Germany, part of a multinational that works with dozens of auto makers and parts manufacturers. \"But nobody knows if what Apple creates will be a car or a tech platform or a mobility service,\" he adds. </p><p>   Many other tech companies, including Intel, Nvidia, Huawei, Baidu, Amazon and Google parent Alphabet, are pushing into the usually staid, conservative and relatively low-margin world of automobiles and their parts. Meanwhile, traditional auto makers like Ford, General Motors, Toyota, Daimler and Volkswagen, plus longtime automotive suppliers such as Bosch, ZF and Magna, are trying to behave more like those tech companies. </p><p>   Basically, everyone is shifting their emphasis to software -- and hiring like crazy to do it. In the past year, almost every major automotive company has advertised that it would like to hire many more software developers. Volkswagen, for example, announced in March 2019 that it would add 2,000 to its technical development team; the company already employs thousands of software engineers. </p><p>   \"Software is eating the world, and cars are next on the menu,\" says Jim Adler, managing director of Toyota AI Ventures, a venture-capital fund owned by the car maker. </p><p>   Today's most complicated automobiles have up to 200 computers in them, just smart enough to do their jobs controlling everything from the engine and automatic braking system to the air conditioner and in-dash entertainment, says Johannes Deichmann, a partner at McKinsey whose expertise is software and electronics in automobiles. These computers, made by an assortment of suppliers, tend to run proprietary software, making them largely inaccessible even to the auto maker. </p><p>   Such modularity is fine up to a point -- when building a Chevy Malibu, does GM really need to know how the windshield-wiper computer works? Yet the proliferation of these narrow-minded processors has led to unsustainable complexity, says Mr. Deichmann. </p><p>   Tesla, as you might imagine, has been instrumental in pushing the auto industry in a new direction. Since the first Model S, Tesla pioneered replacing hundreds of small computers with a handful of bigger, more powerful ones, says Jan Becker, chief executive of Apex.ai, a Palo Alto-based automotive-software startup. Systems that used to require dedicated microchips now run in separate software modules instead. </p><p>   This is why Tesla can add new capabilities to its vehicles through over-the-air updates, he adds. Want better acceleration, longer range, an enhanced self-driving system, or your in-dash entertainment system to play fart noises every time you flip your turn signal? Tesla has shown they're just a software upgrade away. It's very much like the model of continual updates to the software in our mobile devices we've come to expect. </p><p>   Following suit, auto makers are scrambling to build or commission their own whole-car operating systems. The field is still wide open, says Mr. Fintl. Nvidia offers its Drive OS, VW and Daimler have announced they are, like Tesla, working on their own, and Google is insinuating itself ever deeper into vehicles through its Android Auto OS. To date, it's still focused on in-dash entertainment and navigation, but Ford recently announced that as of 2023, it will use Android in the displays of all models sold outside of China -- including the just-revealed Ford F-150 Lightning -- and will also use Google to help manage the data streams collected from its vehicles. GM is also using Android in its all-electric Hummer. </p><p>   This is where Apple might face a tough decision: While it has the chance to flex its enormous software and chip-making expertise to create a next-generation platform for the highest bidder, the company tends to create products for its own brand, not components for others. Besides, the strategy of being just another supplier to auto makers is already being pursued by Intel (via Mobileye), Alphabet (via Waymo and Android Auto), Nvidia and others. </p><p>   The enormous complexity and expense of making and delivering vehicles by the thousands, much less millions -- and making them safe -- are why so many tech companies are joining forces with automobile companies, rather than trying to build their own vehicles, says Ryan Robinson, automotive research leader at Deloitte. </p><p>   While analysts for years predicted that big auto makers would make short work of Tesla, it turns out electric vehicles are more about software than hardware. And auto makers aren't yet good at the kind of software today's cars and drivers demand. Volkswagen decided last June that, despite years of development, it had to delay the debut of a flagship electric vehicle because its software wasn't ready. </p><p>   \"This is the big industry mystery, if a famous fruit company is entering the game,\" says Mr. Deichmann. </p><p>   Apple already has its CarPlay in-dash interface for iPhones. But it's limited to functions such as entertainment and navigation, and has nothing to do with the deeper integration and capabilities required of a true vehicle operating system. Apple has also demonstrated tremendous capabilities in designing the kinds of microchips and sensors that a smart automobile would require, though for now they're mainly found in iPhones, iPads and Macs. </p><p>   Apple didn't respond to requests for comment. </p><p>   Apple could build an operating system for a whole vehicle, and run it on its own silicon. But the company seeks to vertically integrate whenever possible, to control every aspect of the user experience. So the question is: Would a car maker let Apple treat it as the company once treated AT&amp;T, when it first rolled out its iPhone? Or the music labels, when it launched iTunes? At a stroke, it turned the tables and took control of massive markets and significant portions of our lives. </p><p>   This February, Apple's partnership talks with Hyundai broke down, possibly over Hyundai's concerns about being absorbed into the Apple Borg. Immediately after, Nissan signaled it might be willing to work with Apple. </p><p>   If there is any tech company on earth with the resources to go it alone, building a new auto maker from the ground up, it's Apple. But there is no indication this is the company's aim. If Tesla is the model here, it's unclear why Apple's executives would want to endure the tortuous process of building the manufacturing, testing and service capacities this path would require. </p><p>   If providing the brains for other auto makers' vehicles is unlikely, and competing directly with Tesla and every other electric vehicle startup unsavory, that still leaves another option for Apple. As the automotive industry inches toward self-driving taxi services, Apple's persistence in both acquiring and developing software and hardware for electric, autonomous vehicles could signal its long-term ambitions. Could an Apple mobility company, instead of an Apple car, make the most sense? </p><p>   GM's Cruise, Amazon's Zoox and many others are already moving down this path. But since no such robot-taxi service yet exists, save for some limited experiments Waymo is running in Arizona, there is potential for Apple to create something it controls completely, while also providing significant additional revenue to a struggling auto maker such as Nissan. </p><p>   Apple and others could design and commission vehicles that bear their branding, and operate as part of a service they provide, with no trace of the actual manufacturer on them, says Mr. Deichmann. </p><p></p>",
+  "published": "2021-05-22T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 85,
+          "end": 90
+        },
+        {
+          "start": 9280,
+          "end": 9285
+        },
+        {
+          "start": 9135,
+          "end": 9140
+        },
+        {
+          "start": 1935,
+          "end": 1940
+        },
+        {
+          "start": 1758,
+          "end": 1763
+        },
+        {
+          "start": 8852,
+          "end": 8857
+        },
+        {
+          "start": 7594,
+          "end": 7599
+        },
+        {
+          "start": 2224,
+          "end": 2229
+        },
+        {
+          "start": 8696,
+          "end": 8701
+        },
+        {
+          "start": 7850,
+          "end": 7855
+        },
+        {
+          "start": 7099,
+          "end": 7104
+        },
+        {
+          "start": 1244,
+          "end": 1249
+        },
+        {
+          "start": 8620,
+          "end": 8625
+        },
+        {
+          "start": 7349,
+          "end": 7354
+        },
+        {
+          "start": 8175,
+          "end": 8180
+        },
+        {
+          "start": 8890,
+          "end": 8895
+        },
+        {
+          "start": 5596,
+          "end": 5601
+        },
+        {
+          "start": 29,
+          "end": 34
+        },
+        {
+          "start": 6858,
+          "end": 6863
+        },
+        {
+          "start": 8044,
+          "end": 8049
+        },
+        {
+          "start": 7303,
+          "end": 7308
+        },
+        {
+          "start": 7964,
+          "end": 7969
+        },
+        {
+          "start": 8281,
+          "end": 8286
+        }
+      ]
+    }
+  ]
+}

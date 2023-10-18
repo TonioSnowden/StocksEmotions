@@ -1,0 +1,38 @@
+{
+  "_id": "915d816814029471b4c2929fbb9a3ef6fecc5ce97727fdb5e95a04a199b58403",
+  "feed": "market-watch",
+  "title": "Walmart reaches subscription video-streaming deal with Paramount+; Paramount+ shows will be part of perks retailer offers subscribers to Walmart+ membership program",
+  "text": "<p>Walmart and Paramount declined to comment. Walmart is scheduled to announce quarterly earnings Tuesday.</p><p>Walmart executives have held talks in recent weeks to discuss a streaming deal with executives at Walt Disney Co. DIS, Comcast Corp. CMCSA and Paramount Global, according to a Wall Street Journal article last week.</p><p>Paramount Global runs the Paramount+ service, which has shows such as \"Halo\" and a \"Star Trek\" series. The company said this month that Paramount+ had more than 43 million subscribers at the end of its latest quarter.</p><p>An expanded version of this story appears on WSJ.com.</p><p>Popular stories from WSJ.com:</p><p>* As Celebrity Backlash Grows, So Does Overall Private Jet Use</p><p>* If Your Co-Workers Are 'Quiet Quitting,' Here's What That Means</p><p>* Trump's Final Days Draw Scrutiny in Documents Probe</p><p>Walmart reaches subscription video-streaming deal with Paramount+</p>",
+  "published": "2022-08-15T19:56:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 42,
+          "end": 49
+        },
+        {
+          "start": 102,
+          "end": 109
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

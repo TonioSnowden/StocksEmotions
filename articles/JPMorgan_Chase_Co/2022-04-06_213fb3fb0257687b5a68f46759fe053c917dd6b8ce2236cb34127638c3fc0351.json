@@ -1,0 +1,20 @@
+{
+  "_id": "213fb3fb0257687b5a68f46759fe053c917dd6b8ce2236cb34127638c3fc0351",
+  "feed": "economist-blog",
+  "title": "Daily chart; A Russian debt default looks almost inevitable",
+  "text": "<p>Now a default—which would be its first foreign-currency default since 1917—seems all but inevitable. Although Russia's finance ministry has continued to make payments on its foreign-currency debt, it has only done so thanks to an exemption granted by America's Treasury Department allowing investors to receive debt payments through American banks until May 25th. On April 4th, in the wake of reported atrocities against civilians in Ukraine, the Treasury said it would start blocking such payments. “The US Treasury will not permit any dollar debt payments to be made from Russian government accounts at US financial institutions,” a spokesperson said in a news release. “Russia must choose between draining remaining valuable dollar reserves or new revenue coming in, or default.”</p><p>The news sent CDS spreads soaring once more. According to data provided by IHS Markit, a research firm, the cost of insuring Russia's government debt for five years hit 4,300 basis points on April 5th, up from 2,800 the day before (see chart). This means it now costs $4.3m to insure $10m of the country's securities for five years. Russian bond prices, meanwhile, are tumbling. A bond maturing in 2028 is trading at 34 cents on the dollar; another maturing in 2042 is fetching just 28.</p><p>The size of a default would be relatively small, by historical standards (see chart). The Russian government owes $40bn in foreign-currency debt, of which around half is held by foreign investors. But as Carmen Reinhart, the chief economist of the World Bank, recently pointed out, the exposure of non-bank institutions—such as hedge funds—to Russia is still unknown.</p><p>Bondholders may struggle to recover their money. As Jay Newman, a former hedge-fund manager, has written, Russia has declined to waive its sovereign immunity from lawsuits, limiting their ability to sue in the event of default. Their only recourse may be to ask courts for permission to seize Russian sovereign assets—such as ships or foreign-exchange reserves frozen in foreign banks—to repay the debts.</p><p>Not everyone is losing out, however. Some traders are reportedly profiting from the country's distressed debt. International Financing Review, a financial-news magazine, reports that Barclays, a bank, has made $50m trading the securities. JPMorgan and Goldman Sachs have reportedly each generated $100m apiece.</p><p>■</p><p>For a look behind the scenes of our data journalism, sign up to Off the Charts, our weekly newsletter. Our recent coverage of the Ukraine crisis can be found here.</p>",
+  "published": "2022-04-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 2282,
+          "end": 2290
+        }
+      ]
+    }
+  ]
+}

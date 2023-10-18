@@ -1,0 +1,30 @@
+{
+  "_id": "9ff9d7c82f9c8b68cfd8d29ef98c97b02ece2fd89b165a8812cdf758e27e8dd1",
+  "feed": "reuters",
+  "title": "Yum China , BYD say China's COVID curbs have impacted operations",
+  "text": "<p>Yum, the operator of KFC  and Pizza Hut  restaurants in China, said late on Monday during a regular earnings briefing that its operations had been significantly impacted by the latest outbreaks, and same-store sales fell 20% year-on-year in the first two weeks of March.</p><p>BYD, headquartered in Shenzhen where most companies have been told to ask staff to work from home, said that there had been some impact on production at its site in the city.</p><p>\"We are actively coordinating a response and carrying out epidemic prevention and control as required by the government,\" the company said.</p><p>Many provinces and cities across the country have been carrying out mass testing, with some shutting down public transport and cordoning off apartment blocks and office buildings.</p><p>Other companies that have reported disruptions include Chinese flash storage company Netac Technology. It said some shipments would be delayed as it had to suspend work at its Shenzhen facility. Meanwhile Apple  supplier Lens Technology said its unit in Dongguan city had stopped production.</p><p>iPhone assembler Foxconn , Toyota and Volkswagen  also said on Monday that they have had to shut factories.</p>",
+  "published": "2022-03-15T05:39:33.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99997336,
+      "offsets": [
+        {
+          "start": 969,
+          "end": 974
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5476856,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.00012373924,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

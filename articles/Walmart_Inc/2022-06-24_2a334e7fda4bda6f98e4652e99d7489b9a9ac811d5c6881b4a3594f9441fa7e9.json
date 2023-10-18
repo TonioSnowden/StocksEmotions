@@ -1,0 +1,60 @@
+{
+  "_id": "2a334e7fda4bda6f98e4652e99d7489b9a9ac811d5c6881b4a3594f9441fa7e9",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Walmart  Steps Up  Cloud  Capability  ----  By Aaron Tilley",
+  "text": "<p>   Walmart Inc. said on Thursday it has developed the capability to switch seamlessly between cloud providers and its own servers, saving millions of dollars and offering a road map to other organizations that want to reduce their dependence on giant technology companies. </p><p>   The retailer said it has used its own servers and software to deploy one of the largest so-called hybrid clouds in existence. The company's hybrid system draws on third-party platforms from Microsoft Corp. and Alphabet Inc.'s Google as well as an internal server network it has rapidly built out across Walmart facilities around the country. </p><p>   \"The hybrid cloud allows us to be able to draw the best that the public cloud providers can offer and to be able to combine that with something that is really purpose-built for us,\" Walmart Global Chief Technology Officer Suresh Kumar said. </p><p>   The new technology has helped the retailer reduce cloud costs and boost performance -- a feat that can be difficult with existing software or capabilities at most companies. </p><p>   Walmart's move points to a broader shift happening in the cloud industry as companies have sought to gain more independence from large cloud providers. For the past two years, the company has been building out a network of servers that sit at Walmart stores and in its distribution facilities. </p><p>   The company said it now has 10,000 of what it refers to as its edge nodes across the U.S. Walmart has also built custom software that allows it to run its back end operations across any cloud system, the company said. </p><p>   For the past decade, the movement to the cloud has been an enormous shift in information technology, as billions of dollars in spending shifted away from organizations buying and maintaining their own data centers to a model of renting those computers from third-party vendors. Three U.S. vendors -- Amazon.com Inc., Microsoft and Google -- dominate the business, accounting for 65% of the global market, according to market research firm Synergy Research Group. </p><p>   Their clout only grew during the pandemic as organizations rushed to facilitate remote work. </p><p>   But now, as they move to cut costs and get access to the best technology, companies are trying to grab more control back from the cloud giants. One popular emerging strategy has been the use of multiple clouds instead of relying on a single vendor. Others are seeing the benefits of controlling costs by investing in their own server networks. </p><p>   \"What many enterprises are doing is diversifying,\" said Eric Burgener, research vice president at market researcher International Data Corp. \"They have two or more public cloud providers and maintain their own infrastructure.\" </p><p>   Walmart said its cloud system has saved the company between 10% and 18% in annual cloud spending and has helped reduce cloud outages. The company's servers help increase the speed in which particular applications can be accessed. One possible use in stores would be to help employees use augmented or virtual reality in their work. </p><p>   As one of the largest consumers of cloud computing, Walmart has long been strategic about how it tries to stay independent from cloud giants. </p><p>   In 2017, Walmart told some enterprise software vendors that if they wanted Walmart's business, they couldn't run their product on Amazon's cloud and suggested Microsoft as an alternative, The Wall Street Journal reported. </p><p></p>",
+  "published": "2022-06-24T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 1270,
+          "end": 1277
+        },
+        {
+          "start": 2666,
+          "end": 2673
+        },
+        {
+          "start": 3050,
+          "end": 3057
+        },
+        {
+          "start": 3149,
+          "end": 3156
+        },
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 3215,
+          "end": 3222
+        },
+        {
+          "start": 794,
+          "end": 801
+        },
+        {
+          "start": 1027,
+          "end": 1034
+        },
+        {
+          "start": 573,
+          "end": 580
+        },
+        {
+          "start": 1411,
+          "end": 1418
+        }
+      ]
+    }
+  ]
+}

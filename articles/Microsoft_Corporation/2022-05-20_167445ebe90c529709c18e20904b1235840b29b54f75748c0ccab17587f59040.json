@@ -1,0 +1,64 @@
+{
+  "_id": "167445ebe90c529709c18e20904b1235840b29b54f75748c0ccab17587f59040",
+  "feed": "wall-street-journal",
+  "title": "Report Says Bing Censors Chinese Names",
+  "text": "<p>Last year Microsoft suspended the autofill feature in China to comply with Chinese laws. The new report provides evidence that censorship in China could influence search results for users in the U.S. and Canada.</p><p>Citizen Lab found that in tests late last year, Bing wouldn't surface autofill suggestions for search terms of the names of Chinese political dissidents and party leaders. Names -- including those of Chinese President Xi Jinping and the deceased human-rights activist Liu Xiaobo -- wouldn't appear in the autofill system in English or Chinese.</p><p>\"We consistently found that Bing censors politically sensitive Chinese names,\" the report said.</p><p>Microsoft said it had already addressed the issue, which was caused by what it called a technical error.</p><p>\"A small number of users may have experienced a misconfiguration that prevented surfacing some valid autosuggest terms, and we thank Citizen Lab for bringing this to our attention,\" a Microsoft spokeswoman said.</p><p>The autofill suggestions are driven largely by user behavior, and not seeing results doesn't mean those results have been blocked, she said.</p><p>Citizen Lab said its findings were the result of testing nearly 100,000 names using English and thousands of names using Chinese characters in December to see if politically sensitive names were treated the same as other names.</p><p>Autofill suggestions can be a quick way to find new information about a topic. People beginning to type \"Xi Jinping\" into a Google search might be shown search suggestions for topics including \"Xi Jinping net worth\" or \"Xi Jinping president for life.\"</p><p>Microsoft has previously had to contend with Chinese censorship. Last year, on the anniversary of the 1989 Tiananmen Square massacre, U.S.-based searches on Bing for images and videos of \"Tank Man\" -- a man who stood in front of a column of tanks following the massacre -- didn't show any results. Microsoft blamed it on human error.</p><p>Over the years, Microsoft's LinkedIn has blocked some China-focused human-rights activists, academics and journalists in the China version of the professional social network. LinkedIn said last year that it would shut down its social-media service in China as the country's Communist Party ratcheted up its control over large tech platforms.</p><p>Jeffrey Knockel, senior research associate at Citizen Lab, who worked on the report, said censorship rules seeping from one part of the world into another is a danger when internet platforms have a global user base.</p><p>\"If Microsoft had never engaged in Chinese censorship operations in the first place, there would be no way for them to spill into other regions,\" he said.</p><p>Microsoft has long been a presence in China, having first established an office there in 1992. It launched a heavily censored version of Bing in China in 2009. In 2020, Microsoft President Brad Smith said the country represented only 1.8% of its overall sales.</p><p>Alphabet Inc.'s Google dominates the search market. It accounts for more than 90% of the overall search traffic globally, while Microsoft is a distant second with 3%, according to Statcounter. In China, the domestic search champion, Baidu Inc., has a nearly 80% share, and Microsoft is second with nearly 9%, according to Statcounter.</p>",
+  "published": "2022-05-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 941,
+          "end": 950
+        },
+        {
+          "start": 652,
+          "end": 661
+        },
+        {
+          "start": 2806,
+          "end": 2815
+        },
+        {
+          "start": 1590,
+          "end": 1599
+        },
+        {
+          "start": 3171,
+          "end": 3180
+        },
+        {
+          "start": 2637,
+          "end": 2646
+        },
+        {
+          "start": 1888,
+          "end": 1897
+        },
+        {
+          "start": 10,
+          "end": 19
+        },
+        {
+          "start": 3026,
+          "end": 3035
+        },
+        {
+          "start": 2486,
+          "end": 2495
+        },
+        {
+          "start": 1940,
+          "end": 1951
+        },
+        {
+          "start": 1940,
+          "end": 1949
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

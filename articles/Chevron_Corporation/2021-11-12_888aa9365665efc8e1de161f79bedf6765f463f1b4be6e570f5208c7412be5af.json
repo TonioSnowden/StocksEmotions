@@ -1,0 +1,24 @@
+{
+  "_id": "888aa9365665efc8e1de161f79bedf6765f463f1b4be6e570f5208c7412be5af",
+  "feed": "wall-street-journal",
+  "title": "Energy Industry Uses 3-D Printing",
+  "text": "<p>The imported components did arrive at Gorgon in time, but Chevron was so impressed with the manufacturing specifications produced by AdditiveNow that it acquired the intellectual property for use on future projects, accelerating its 3-D printing research-and-development efforts by a year.</p><p>\"We've learned a lot from those parts,\" said Chevron manager Robert Rettew, whose materials R&amp;D portfolio includes 3-D printing. \"The most important thing is that we've shown that this flexible, right part, right time digital supply-chain approach can be successful, and it can meet our needs.\"</p><p>The pandemic is giving 3-D printing a shot in the arm. Factors including extensive congestion at ports and other transportation nodes have slowed delivery of goods just as companies try to meet demand unleashed by economies reopening.</p><p>For commodities industries, one missing part can be costly if it forces operations offline. An estimate by Energy and Industrial Advisory Partners LLC puts the average cost of unplanned downtime for Gulf of Mexico oil and gas operators at about $20 million annually, rising to $50 million for larger operators.</p>",
+  "published": "2021-11-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "offsets": [
+        {
+          "start": 58,
+          "end": 65
+        },
+        {
+          "start": 335,
+          "end": 342
+        }
+      ]
+    }
+  ]
+}

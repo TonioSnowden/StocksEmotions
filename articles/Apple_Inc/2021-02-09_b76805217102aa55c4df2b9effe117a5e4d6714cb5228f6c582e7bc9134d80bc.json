@@ -1,0 +1,208 @@
+{
+  "_id": "b76805217102aa55c4df2b9effe117a5e4d6714cb5228f6c582e7bc9134d80bc",
+  "feed": "wall-street-journal",
+  "title": "Technology  ---  PERSONAL TECHNOLOGY:  Unlock iPhone When Face ID Can't  ----  By Joanna Stern",
+  "text": "<p>\n   Apple in 2017: \"Nothing has ever been simpler, more natural, more effortless. We call this Face ID.\" This is an actual executive quote, from back when the company introduced facial recognition on the iPhone X. </p><p>\n  Apple in 2021: \"Nothing has ever been. . .less natural or more difficult. We call this Face No ID.\" This is a very made-up quote, reflecting the breakdown of facial recognition now that masks are essential apparel. </p><p>\n  The pandemic threw a wrench into Apple's cutting-edge, lickety-split mug scanner: Our faces can't be our passwords when our faces can't be seen. And typing passcodes in full view of strangers and co-workers can be a security risk. </p><p>\n  Well, mask or no mask, Apple's Face ID works again -- sort of. </p><p>\n  With the iOS 14.5 update -- released Thursday through the company's public beta software program, and expected to go into wide release this spring -- you can unlock your iPhone without typing a passcode, even if your face is obscured. Just one expensive little catch: You need an Apple Watch -- and it needs to be unlocked and on your wrist. Talk about a well-engineered Apple trap. That aside, this synergy is great. </p><p>\n  I've followed the developments of this crucial, life-altering struggle for nearly a year now. Last April, there was an effort to create Face ID-compatible masks. (Surprise! They didn't catch on.) Soon after, with iOS 13.5, Apple made the passcode screen come up faster when the phone can't see your face. (It's still a pain.) </p><p>\n  Compared with those, this new watch-dependent solution is almost as good as the naked-face real thing. It's fast and easy to set up. I've been testing a prerelease version for the past few days, unlocking my iPhone while wearing all sorts of masks, in all sorts of conditions. In anticipation of your questions, I've gathered the answers: </p><pre>\n </pre><p>\n  How Does It Work? </p><pre>\n </pre><p>\n  If your watch is unlocked on your wrist and your iPhone can't read your face, your watch will gently buzz and your iPhone will unlock. And it does it really fast. Check out the stats: </p><p>\n  Unlocking with no mask, using Face ID: 0.8 second </p><p>\n  Unlocking with mask, using watch trick: 1.4 seconds </p><p>\n  Unlocking iPhone SE with Touch ID fingerprint scanner: 0.7 second </p><p>\n  Unlocking with a passcode: a year. Fine, three whole seconds </p><p>\n  Here's what's happening behind the scenes: The array of sensors in that notch at the top of your iPhone's screen -- what Apple calls the TrueDepth camera -- tries to identify you as usual. If it can't see your nose and mouth, it looks for your unlocked watch to unlock your iPhone. If it doesn't see any face -- or sees an unmasked face it doesn't think is yours -- it stays locked. </p><pre>\n </pre><p>\n  How Secure Is It? </p><pre>\n </pre><p>\n  This solution is only as secure as your passcode. Remember, this isn't using biometrics to authenticate you. </p><p>\n  But let's pretend some bad guy stole your Apple Watch and thought that was his ticket into your iPhone. First, he'd have to put on your watch and enter your watch passcode. (It locks whenever you remove it from your wrist.) Then, to get this whole auto-unlock trick to work, he'd have to enter your passcode. At that point, he'd realize he didn't need your watch in the first place! </p><p>\n  Still, it's a good moment to remember the cardinal rule: Don't share those codes with people you don't trust with your life. And choose strong numeric passwords. </p><p>\n  A more realistic fear? That a masked person picks up your phone and is able to unlock it just by being close to the unlocked watch on your wrist. While the iPhone does check for the presence of a face, it could be anyone under the mask (and your eyes don't even have to be open). I tested this with several people. </p><p>\n  The person would have to be pretty close -- within about 10 feet, according to my tests. The proximity, like much of this software, isn't final, an Apple spokeswoman told me. Apple also seems to have anticipated this: You get an alert on your Apple Watch saying your iPhone has been unlocked. You can tap a button in the alert to lock the phone again. </p><p>\n  Plus, this Apple Watch shortcut is good only for unlocking your iPhone. If you're wearing a mask while trying to buy something via Apple Pay, App Store or iTunes, the phone will still require your passcode. </p><p>\n  You know what does all that and doesn't require an extra $200-and-up accessory? A fingerprint sensor. That's obviously a better option when wearing a mask, but the only current iPhone that still has Touch ID is the low-price iPhone SE. According to my reporting and what others have written, Apple is considering adding an in-screen fingerprint sensor along with facial recognition to future iPhones. Samsung's latest Galaxy already has both. Apple declined to comment on future products. </p><pre>\n </pre><p>\n  How Do I Get It? </p><pre>\n </pre><p>\n  This feature requires your iPhone to run iOS 14.5 and your Apple Watch to run Watch OS 7.4. Once you have that software, turn on the feature by going to Settings &gt; Face ID &amp; Passcode &gt; Unlock with Apple Watch. </p><p>\n  While Apple says the software is coming this spring, you can get it now if you sign up for Apple's beta program, where you test new software versions and provide feedback. Anyone can join at beta.apple.com. After you sign up, you'll need to install a special profile to your iPhone and follow the steps. You'll have to do the same for the Apple Watch. </p><p>\n  Usually, I guide the uninitiated against this. There can be bugs and battery drain with unfinished software. That said, I've been using it for five days, and haven't seen these issues so far. For those who constantly wear masks, and who own both an iPhone and Apple Watch, I can understand wanting to get rid of Face No ID ASAP. </p><p></p>",
+  "published": "2021-02-09T07:04:00.000Z",
+  "tags": [
+    {
+      "offsets": [
+        {
+          "start": 3854,
+          "end": 3865
+        },
+        {
+          "start": 4613,
+          "end": 4618
+        },
+        {
+          "start": 5229,
+          "end": 5236
+        },
+        {
+          "start": 4896,
+          "end": 4901
+        },
+        {
+          "start": 4094,
+          "end": 4101
+        },
+        {
+          "start": 458,
+          "end": 463
+        },
+        {
+          "start": 1090,
+          "end": 1097
+        },
+        {
+          "start": 3786,
+          "end": 3791
+        },
+        {
+          "start": 4094,
+          "end": 4099
+        },
+        {
+          "start": 999,
+          "end": 1010
+        },
+        {
+          "start": 4981,
+          "end": 4986
+        },
+        {
+          "start": 1360,
+          "end": 1365
+        },
+        {
+          "start": 3974,
+          "end": 3985
+        },
+        {
+          "start": 5229,
+          "end": 5240
+        },
+        {
+          "start": 5502,
+          "end": 5509
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3759,
+          "end": 3764
+        },
+        {
+          "start": 4462,
+          "end": 4467
+        },
+        {
+          "start": 2358,
+          "end": 2363
+        },
+        {
+          "start": 2793,
+          "end": 2804
+        },
+        {
+          "start": 4094,
+          "end": 4103
+        },
+        {
+          "start": 5229,
+          "end": 5234
+        },
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 3854,
+          "end": 3861
+        },
+        {
+          "start": 210,
+          "end": 215
+        },
+        {
+          "start": 3786,
+          "end": 3793
+        },
+        {
+          "start": 3759,
+          "end": 3766
+        },
+        {
+          "start": 2358,
+          "end": 2365
+        },
+        {
+          "start": 5502,
+          "end": 5507
+        },
+        {
+          "start": 4739,
+          "end": 4746
+        },
+        {
+          "start": 5502,
+          "end": 5513
+        },
+        {
+          "start": 4613,
+          "end": 4620
+        },
+        {
+          "start": 4739,
+          "end": 4750
+        },
+        {
+          "start": 210,
+          "end": 217
+        },
+        {
+          "start": 4462,
+          "end": 4469
+        },
+        {
+          "start": 679,
+          "end": 686
+        },
+        {
+          "start": 679,
+          "end": 684
+        },
+        {
+          "start": 4877,
+          "end": 4888
+        },
+        {
+          "start": 458,
+          "end": 465
+        },
+        {
+          "start": 1090,
+          "end": 1095
+        },
+        {
+          "start": 3974,
+          "end": 3981
+        },
+        {
+          "start": 4877,
+          "end": 4884
+        },
+        {
+          "start": 2793,
+          "end": 2800
+        },
+        {
+          "start": 4896,
+          "end": 4903
+        },
+        {
+          "start": 999,
+          "end": 1006
+        },
+        {
+          "start": 4981,
+          "end": 4988
+        },
+        {
+          "start": 4877,
+          "end": 4882
+        },
+        {
+          "start": 1360,
+          "end": 1367
+        }
+      ],
+      "name": "Apple Inc.",
+      "id": "US0378331005",
+      "nexusId": "10022657"
+    }
+  ]
+}

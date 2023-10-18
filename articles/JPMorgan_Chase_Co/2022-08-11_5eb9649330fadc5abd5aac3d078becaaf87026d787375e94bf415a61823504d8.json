@@ -1,0 +1,30 @@
+{
+  "_id": "5eb9649330fadc5abd5aac3d078becaaf87026d787375e94bf415a61823504d8",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>The Nasdaq entered a bull market, rising 2.9% after the release of the inflation data, while the S&amp;P 500 and Dow gained 2.1% and 1.6%, respectively. U.S. government bonds rallied.</p><p>---</p><p>Disney posted a 26% jump in revenue, driven by record results at its theme parks division and the addition of more new subscribers than projected to Disney +. The company lowered its forecast for future Disney + growth.</p><p>---</p><p>SoftBank said it would sharply reduce its stake in Chinese e-commerce giant Alibaba , a move that preserves cash at SoftBank as it rides out a severe downturn.</p><p>---</p><p>A federal jury in Chicago convicted two former traders at JPMorgan charged with manipulating gold prices, finding they used misleading orders to rig prices.</p><p>---</p><p>The SEC proposed requiring large hedge funds to report their cryptocurrency exposure through a confidential filing known as Form PF.</p><p>---</p><p>Samsung Electronics unveiled its latest models of two of the world's most-expensive phones.</p><p>---</p><p>United Airlines paid a $10 million deposit for 100 electric flying taxis, a sign it is growing more confident in the nascent technology.</p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 630,
+          "end": 638
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9061659,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.003665924,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

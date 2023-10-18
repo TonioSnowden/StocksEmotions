@@ -1,0 +1,20 @@
+{
+  "_id": "c3c67143ac99e44db4180c32542e864004c2d94c74f92335ad758a1359c11fea",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>---</p><p>The Democratic and Republican parties are weighing the political impact of the prospect of the Supreme Court overturning Roe v. Wade as they look ahead to midterm elections.</p><p>---</p><p>The FDA limited the use of the Covid-19 vaccine from Johnson &amp; Johnson after reviewing the risk of life-threatening blood clots.</p><p>---</p><p>The WHO estimated that nearly 15 million people had died from causes related to the coronavirus pandemic by the end of 2021.</p><p>---</p><p>The level of carbon dioxide in the atmosphere reached a record high in April, according to measurements at an observatory on Hawaii's Mauna Loa volcano.</p><p>---</p><p>A suspected terrorist attack in central Israel killed at least three people and injured several others, rattling the country as it celebrated independence day.</p><p>---</p><p>U.S. Indian Health Service hospitals in the Dakotas have faced delays in obtaining life-saving equipment.</p><p>---</p><p>Suspected Colombian drug kingpin Dairo Antonio Usuga was arraigned in a New York federal court.</p>",
+  "published": "2022-05-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 235,
+          "end": 252
+        }
+      ]
+    }
+  ]
+}

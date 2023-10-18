@@ -1,0 +1,164 @@
+{
+  "_id": "419bf5263e4f3012b6dca22470ce3fe5317b9b4964cfc75c808bccea0832e51a",
+  "feed": "wall-street-journal",
+  "title": "Epic Games Targets Core of Apple's App Store  ----  By Tim Higgins",
+  "text": "<p>   In its courtroom battle with Apple Inc., Epic Games Inc. is questioning a core tenet of the iPhone maker's App Store business: that its success relies upon rigorous policing of the platform. </p><p>   Apple for years has said its rules and vetting process for apps protect users from malicious software and abuse, work that helps justify the up to 30% cut it takes of digital transactions there. In documents and testimony in a lawsuit being argued this month before a federal judge in Oakland, Calif., Epic has said Apple's contentions don't hold up to scrutiny. </p><p>   The App Store's business model, which has been called a \"walled garden\" due to the company's tight controls, faces rising criticism from a host of developers, from Spotify Technology SA to Facebook Inc. </p><p>   Epic and others are seeking to undermine Apple's rationale for its control of third-party software on its more than one billion iPhones, claiming the operating system is what keeps users safe, not the App Store review process. Epic contends others could safely vet apps if allowed to create their own app stores. </p><p>   \"To justify its walled garden, Apple needed to convince those locked in and those locked out that the wall served some higher purpose, something more than profitability -- and so Apple security justification was born,\" Katherine Forrest, an Epic lawyer, told a judge this past week during the start of the trial, expected to last most of May. </p><p>   Apple disputes Epic's claims that it is a monopoly and defends its app-store rules as a way to provide users with a safe, private and reliable place to download software. Apple says customers would be opened up to harm without its controls. </p><p>   \"Epic is here demanding that this court force Apple to let into its App Store untested and untrusted apps in app stores, which is something that Apple has never done,\" Karen Dunn, a lawyer for Apple, told the judge last week. \"Apple's unwavering commitment to safety, security, reliability, and quality does not allow that, and the antitrust laws do not require it.\" </p><p>   The two tech companies have been at loggerheads since August, when Epic broke App Store rules by updating its \"Fortnite\" videogame with a payment system that circumvented Apple's in-app payment system. Apple responded by ejecting the game from its App Store. Epic then filed a lawsuit claiming Apple is an illegal monopoly by being the only way to distribute native apps onto iPhones and forcing developers to use its in-app payment system for all digital purchases. </p><p>   In its defense, Apple points to other ways that \"Fortnite\" can be distributed outside of its iPhones, such as videogame consoles, and argues that the game maker wanted to get out of paying a 30% commission for using its App Store. </p><p>   Epic must also convince U.S. District Judge Yvonne Gonzalez Rogers that steps Apple took around the app store weren't for legitimate competitive reasons such as providing security that benefited the customer. Expert witness testimony this coming week is expected to focus on complex technical details, including the definition of a market and security. </p><p>   \"Antitrust law will permit certain anticompetitive behavior\" if there is an offsetting competitive reason, said Paul Swanson, a Denver-based antitrust lawyer at Holland &amp; Hart LLP who isn't involved in the case but is following it closely. \"There will be a big fight about whether maintaining security is a legitimate\" justification. </p><p>   Epic is pointing to internal company emails to suggest Apple's process had holes and prioritized efficiency over accuracy. Some of those emails show Apple managers over the years dealt with troublesome apps that appear to have gotten through the review process, including apps involving scams, phishing and inappropriate content. \"I'm dumbfounded with how this could be missed,\" Trystan Kosmynka, head of app review at Apple,wrote in May 2018 about a \"school shooting game.\" </p><p>   Eric Friedman, who manages Apple's fraud-engineering algorithms and risk unit, lamented the inadequacies of the company's app review process on several occasions, according to internal company emails filed with the court. </p><p>   In an October 2013 email to a colleague, Mr. Friedman equated the review process to \"bringing a plastic butter knife to a gun fight\"; in January 2016, he cautioned another group about expecting the process would capture a sophisticated phishing attacker. More than a year later, he told a different colleague the review team was tasked with getting apps published and keeping developers happy: \"They are more like the pretty lady who greets you with a lei at the Hawaiian airport than the drug-sniffing dog,\" he wrote. </p><p>   Apple says Epic's handful of colorful emails will be outmatched by its own data and witnesses that show how much safer its environment is than others. </p><p>   \"Each of those examples is an example of why app review is needed,\" Ms. Dunn said. </p><p>   Ms. Dunn said Epic should appreciate Apple's policing of apps, noting that the review process stopped a \"Fortnite\" copycat called \"FortCraft.\" Apple's lawyers also tried to drive home the point that its security is an attractive feature during Epic Chief Executive Tim Sweeney 's testimony last week. </p><p>   On the stand, Mr. Sweeney confirmed he owned an iPhone partly because of Apple's approach to customer data security compared with competing operating systems. </p><p>   Apple touts its app-review process, which mixes automated and human vetting. All apps in the store are automatically screened for known malware and a team of 500 people review 100,000 apps each week. Some 40% of apps are rejected due to glitches, bugs or concerns about privacy or security, according to Apple. </p><p>   Epic questions why Apple has a special process for its iPhone compared with its popular laptop and desktop lines, and argues that the human review process is more concerned about Apple's business concerns than security matters. </p><p>   Epic's expert witness James Mickens, a computer science professor from Harvard University, is expected to take the stand this week. In court papers, he has said Apple could achieve a competitive and open distribution model by adopting the same operating system it uses for laptops. He also said iPhone security doesn't depend on the app review process. </p><p>   \"Apple considerably overstates the security benefits of its own centralized App Store model,\" he wrote in a court filing. </p><p>   Apple points to data that show malware infections on its mobile devices are a fraction compared with others. Apple's own expert witness, Aviel Rubin, a computer-science professor from Johns Hopkins University, argues in filed testimony that with more than one billion users, Apple's mobile devices face unique and heightened potential for threats. The iPhone, for example, has sensors that track a user's location as well as cameras and microphones that could be misused, and the need to prevent the phone from crashing like a computer is more critical. </p><p>   \"An unstable app that causes an iPhone to crash could have devastating consequences; picture, for example, an app that causes your iPhone to crash and be unable to make phone calls when you get a flat tire in the middle of the night,\" he wrote. </p><p></p>",
+  "published": "2021-05-10T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 6016,
+          "end": 6021
+        },
+        {
+          "start": 2504,
+          "end": 2509
+        },
+        {
+          "start": 5620,
+          "end": 5625
+        },
+        {
+          "start": 2797,
+          "end": 2802
+        },
+        {
+          "start": 29,
+          "end": 34
+        },
+        {
+          "start": 4893,
+          "end": 4898
+        },
+        {
+          "start": 27,
+          "end": 32
+        },
+        {
+          "start": 5316,
+          "end": 5321
+        },
+        {
+          "start": 5806,
+          "end": 5811
+        },
+        {
+          "start": 1249,
+          "end": 1254
+        },
+        {
+          "start": 1101,
+          "end": 1106
+        },
+        {
+          "start": 5230,
+          "end": 5235
+        },
+        {
+          "start": 1413,
+          "end": 1418
+        },
+        {
+          "start": 6439,
+          "end": 6444
+        },
+        {
+          "start": 6605,
+          "end": 6610
+        },
+        {
+          "start": 507,
+          "end": 512
+        },
+        {
+          "start": 191,
+          "end": 196
+        },
+        {
+          "start": 1700,
+          "end": 1705
+        },
+        {
+          "start": 4622,
+          "end": 4627
+        },
+        {
+          "start": 3825,
+          "end": 3830
+        },
+        {
+          "start": 1881,
+          "end": 1886
+        },
+        {
+          "start": 3555,
+          "end": 3560
+        },
+        {
+          "start": 1584,
+          "end": 1589
+        },
+        {
+          "start": 1799,
+          "end": 1804
+        },
+        {
+          "start": 2315,
+          "end": 2320
+        },
+        {
+          "start": 3908,
+          "end": 3913
+        },
+        {
+          "start": 798,
+          "end": 803
+        },
+        {
+          "start": 6209,
+          "end": 6214
+        },
+        {
+          "start": 1847,
+          "end": 1852
+        },
+        {
+          "start": 2223,
+          "end": 2228
+        },
+        {
+          "start": 3461,
+          "end": 3466
+        },
+        {
+          "start": 5646,
+          "end": 5651
+        },
+        {
+          "start": 6330,
+          "end": 6335
+        },
+        {
+          "start": 2192,
+          "end": 2197
+        },
+        {
+          "start": 4999,
+          "end": 5004
+        },
+        {
+          "start": 29,
+          "end": 38
+        },
+        {
+          "start": 29,
+          "end": 39
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "539d41ec310b62c5946b3c0047ff0ffc3027492d104af46cc626ca9cb89a5343",
+  "feed": "wall-street-journal",
+  "title": "Endo Creditor Group Considers Rival Chapter 11 Bid; Group holding more than $3 billion in Endo bank and bond debt weighs offer for bankrupt drugmaker's assets after company announced stalking-horse bid from first-lien creditors",
+  "text": "<p>The first-lien creditors behind the stalking-horse bid have agreed to acquire the business out of chapter 11 in exchange for forgiving $6 billion in company debt.</p><p>The cross-holding group includes J.P. Morgan Investment Management Inc., Citadel Equity Fund and funds managed by Franklin Advisers Inc. and Oaktree Capital Management LP, according to papers filed Thursday in the U.S. Bankruptcy Court in New York.</p><p>Andrew Rosenberg, a lawyer representing the group, said during Endo's debut bankruptcy hearing Thursday that his clients don't believe \"the keys to this company\" should be turned over to the stalking-horse bidders. The leading bid, he said, provides a starting point for a sale of the business and nothing more.</p><p>The creditor group formed in April 2021 and negotiated for months on a potential restructuring, but talks with Endo cooled off in the weeks leading up to the bankruptcy filing because the price of the drugmaker's debt had fallen, Mr. Rosenberg said.</p><p>But the price of Endo's first-lien debt rebounded after the company released information showing it \"vastly outperformed\" negative first-quarter guidance, Mr. Rosenberg said, adding the drugmaker's second-lien debt has also experienced a similar rebound.</p><p>\"We definitely are considering a bid but we're not promising what we'll do in these cases yet,\" Mr. Rosenberg said.</p><p>Endo's drugs include Percocet, a branded opioid, and Xiaflex, which treats a hand disease that causes bent fingers. The company has said it intends to continue marketing its assets during the chapter 11 case. It has targeted a Dec. 14 deadline for any prospective bidders to submit indications of interest and a Feb. 27 bid deadline, according to court documents.</p><p>Paul Leake, a bankruptcy lawyer representing Endo, said at Thursday's hearing that the company discussed sale proposals with each creditor group before striking a deal on the stalking-horse bid with creditors that hold roughly 54% of the drugmaker's first-lien debt. This is the most senior type of debt typically held by investors, meaning holders are usually repaid first in a bankruptcy and recover more money than junior creditors.</p><p>\"The stalking horse is just the starting point for higher and better bids,\" Mr. Leake said.</p><p>Endo is the latest drugmaker to file for bankruptcy because of factors including litigation related to the opioid crisis. The company, domiciled in Ireland with operations in Malvern, Pa., also struggled with $8 billion in debt and competition from generic pharmaceuticals.</p><p>The drugmaker has said in court papers that although it considered tackling its debt through a chapter 11 plan of reorganization, it didn't have support for such a restructuring plan from creditors, which would have \"presented unique challenges\" given its various legal liabilities. Instead, Endo opted instead to sell its business through chapter 11.</p><p>Endo has faced thousands of lawsuits—including hundreds from state and local governments—over the marketing and sale of its painkiller Opana ER, which it discontinued in 2017 at the request of the Food and Drug Administration.</p><p>The company said this week that it reached a deal with most states, as well as with city and county governments, to establish trusts funded with $550 million. Of that total, $450 million will go to state and local governments, $85 million to private entities including healthcare providers and $15 million to Native American tribes.</p><p>Endo had already reached individual settlements with a handful of other state and local governments before it filed for bankruptcy, but the company still faced about 3,100 opioid lawsuits, according to court documents.</p><p>Soma Biswas contributed to this article.</p><p>Write to Jonathan Randles at Jonathan.Randles@wsj.com</p>",
+  "published": "2022-08-19T18:28:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 195,
+          "end": 232
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.2491068,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.24910676,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

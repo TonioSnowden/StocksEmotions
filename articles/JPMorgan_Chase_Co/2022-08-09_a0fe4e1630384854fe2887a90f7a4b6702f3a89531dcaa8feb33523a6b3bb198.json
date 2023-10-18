@@ -1,0 +1,42 @@
+{
+  "_id": "a0fe4e1630384854fe2887a90f7a4b6702f3a89531dcaa8feb33523a6b3bb198",
+  "feed": "wall-street-journal",
+  "title": "Avaya's Collapsing Debt Deal Hits Clients of Goldman, JPMorgan; Company cut earnings forecast by more than 60% a few weeks after borrowing $600 million from the banks' investment clients; audit committee says it is investigating a whistleblower letter",
+  "text": "<p>A few weeks later, Avaya announced that it would miss by more than 60% its previous forecasts for adjusted earnings in the third quarter, which ended June 30. It gave no explanation. The company also said that it would miss revenue targets and announced it was removing its chief executive officer.</p><p>Prices of the newly issued debt plummeted, hitting investors who lent Avaya the money with paper losses exceeding $100 million, according to analyst commentary and data from MarketAxess and Advantage Data Inc.</p><p>Avaya said Tuesday that it \"has determined that there is substantial doubt about the Company's ability to continue as a going concern.\" It also said that the audit committee of the board of directors had opened an internal investigation \"to review the circumstances surrounding\" the most recent quarter. The committee is also investigating a whistleblower letter, but it didn't give details.</p><p>Avaya also tapped law firm Kirkland &amp; Ellis LLP to advise the company on its options, The Wall Street Journal reported Tuesday.</p><p>New CEO Alan Masarek held an abbreviated conference call Tuesday to discuss third-quarter earnings and declined to take questions from Wall Street analysts.</p><p>\"I understand very clearly that there is disappointment, there's worry, there's concern out there across effectively all Avaya stakeholders,\" Mr. Masarek said. \"I'm going to thank you in advance for your patience… Give us some time to demonstrate a better future.\"</p><p>Avaya's 6.125% bond due 2028 fell as low as 48.50 cents on the dollar after the presentation, down from a close of 56.25 cents on Monday, according to data from MarketAxess.</p><p>Some analysts were already skeptical of Avaya's financial forecasts.</p><p>\"Why [are] your projections always faltering when you report quarterly results? Why can't you have a stable outlook?\" asked Hamed Khorsand, an analyst at BWS Financial, after the company's last quarterly earnings report in May. Avaya undershot that quarter's adjusted-earnings targets by about 10%.</p><p>Then-CEO Jim Chirico attributed the fumble to Avaya's adoption of a new sales strategy that forced the company to recognize revenue more slowly. \"We believe we're over that hurdle,\" he said at the time.</p><p>Avaya emerged as a telecommunications-equipment supplier to corporations in 2000, when it spun out of Lucent Technologies. Private-equity firms TPG and Silver Lake Partners bought the company in 2007, but it struggled to transition from selling hardware to selling software, and with servicing debt from the buyout. The company filed for bankruptcy protection a decade later before reorganizing. Mr. Chirico took the helm in 2017 and shifted to developing cloud-based software for enterprises.</p><p>\"Avaya squandered a lot of money and time and has little to show for it,\" independent enterprise communications analyst Dave Michels wrote in a recent report. \"Many of us have wondered why the board didn't act sooner—years sooner.\"</p><p>A spokeswoman for Avaya declined to comment on analysts' critiques.</p><p>The financial crunch hit this spring when Avaya's cash reserves shrank to $324 million—down from almost $600 million a year earlier, according to company filings. The company tried to raise new debt to refinance a $350 million convertible bond that was coming due in 2023, according to company filings.</p><p>Goldman initially proposed a $500 million loan with a 12.6% yield but found few buyers, according to data provider LevFin Insights. The bank ultimately placed a $350 million secured loan yielding 15.5% with investors. Lenders included Symphony, which has invested in Avaya since before its bankruptcy, the people familiar with the matter said.</p><p>Avaya approached JPMorgan in late June to raise additional funds, according to one of the people. The bank placed a $250 million secured convertible bond. Investors included Brigade, the people said.</p><p>During the marketing process, Avaya executives told lenders that the company was on track to hit its earnings guidance, some of the people familiar with the matter said.</p><p>SHARE YOUR THOUGHTS</p><p>What can be learned from Avaya's collapsing debt deal? Join the conversation below.</p><p>The company had set Ebitda guidance of about $145 million for the quarter ended June 30. (Ebitda refers to earnings before interest, taxes, depreciation and amortization.) On July 28, Avaya revised forecast Ebitda for the quarter to about $55 million. That barely covers the quarterly interest expenses the company disclosed in recent earnings reports.</p><p>\"It is a surprising outcome for a company that priced $600 million of fresh capital…just four weeks ago,\" said Lance Vitanza, a stock analyst at Cowen Inc. \"It may be too late to accomplish much without radically restructuring Avaya's balance sheet.\"</p><p>The newly issued loans were quoted around 70 cents on the dollar last week, according to Advantage Data. The new convertible bond is likely to trade at similar prices in the near future, Mr. Vitanza said.</p><p>Losses have been heavier for owners of Avaya stock, which fell to as low as 82 cents last week from around $2.50 in early July and about $10 at the start of May. Avaya shares were down 36% at midday Tuesday, trading around 72 cents.</p><p>Alexander Gladstone and Andrew Scurria contributed to this article.</p><p>Write to Matt Wirz at matthieu.wirz@wsj.com</p><p>Avaya's Collapsing Debt Deal Hits Clients of Goldman, JPMorgan</p>",
+  "published": "2022-08-09T17:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9904001,
+      "offsets": [
+        {
+          "start": 54,
+          "end": 62
+        },
+        {
+          "start": 3624,
+          "end": 3632
+        },
+        {
+          "start": 3654,
+          "end": 3662
+        },
+        {
+          "start": 5319,
+          "end": 5327
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.736376,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7363752,
+        "titleWeight": 4.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

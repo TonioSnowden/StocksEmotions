@@ -1,0 +1,48 @@
+{
+  "_id": "84f3a30c05d030728d586b585269fad6c933b2aad67b47f69a291a40f2d3fad0",
+  "feed": "ftcomall",
+  "title": "Google boosts Android privacy protections in attempt to rival Apple",
+  "text": "<p>Google is strengthening privacy protections for Android users who want to make it harder for advertisers to track them when they move between apps, as the company tries to counter Apple's image as a better steward of personal data. </p> <p>In changes that will come as a fresh blow to the near $400bn-a-year digital advertising industry, Google will introduce extra safeguards for Android users that opt out of sharing their “Advertising ID” — a device identifier that allows marketers to track them as they switch from app to app. </p> <p>Android users are already able to limit ad tracking or reset their Advertising IDs, but developers have been able to circumvent those settings by relying on alternative device identifiers that Google is now cracking down on. </p> <p>Google announced the changes on Wednesday in an email to Play Store developers, in which it wrote that it wanted to “provide users with more control over their data, and help bolster security and privacy”. </p> <p>Following the overhaul, developers who try to access the advertising IDs of those who have opted out “will receive a string of zeros instead of the identifier”, Google added. </p> <p>Experts interpreted the new policy, which will be introduced later this year, as an attempt to compete with Apple. The iPhone maker last month bolstered its privacy credentials by turning off tracking by default, and giving users the ability to opt-in if they want. </p> <p>“For years, Google has told the public and regulators that their Android Advertising ID was safe-enough,” said Zach Edwards, who runs Victory Medium, a technical consulting firm. “But then, literally weeks after Apple shifted privacy standards to better protect device IDs, Google has decided to shift their own rhetoric and risk models.”</p> <p>The overhaul will mean that billions of Android users can opt out of “interest-based advertising”, handing more control to consumers while cutting marketers off from the sea of data they rely on to tailor their messages. </p> <p>Sean O'Brien, founder of the Yale Privacy Lab, said the change of policy showed Google had recognised “that unique identifiers such as advertising IDs are extremely sensitive,” adding: “I hope this is the first step in true anonymisation on Android smartphones.”</p> <p>Jackie Singh, a cyber security expert who worked on Joe Biden's presidential campaign, described the move as “a seismic shift” for the digital advertising industry as Google and Apple increasingly adopt the role of gatekeepers. </p> <p>“It is likely that Google perceives these changes to be in their best interest, not only for the purpose of managing public perception around privacy and competing with Apple, but to increase their control over user devices and data,” she said.&#xa0;</p> <p>However, Singh warned that the strengthening of privacy protections for both iPhone and Android users ran the risk of handing too much power to Apple and Google. </p> <p>“Building a ‘wall' of sorts to keep third parties out means that all the sensitive data is now behind the wall — which is owned by Google or Apple,” Singh said. “These changes are positive for user privacy in one realm, yet create significant risks in another.”</p><p>Source: Patrick McGee in San Francisco  2021 'Google boosts Android privacy protections in attempt to rival Apple' FT.com 3 June. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-06-03T04:00:48.129Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2837,
+          "end": 2842
+        },
+        {
+          "start": 2996,
+          "end": 3001
+        },
+        {
+          "start": 2616,
+          "end": 2621
+        },
+        {
+          "start": 2397,
+          "end": 2402
+        },
+        {
+          "start": 1608,
+          "end": 1613
+        },
+        {
+          "start": 62,
+          "end": 67
+        },
+        {
+          "start": 180,
+          "end": 185
+        },
+        {
+          "start": 1238,
+          "end": 1243
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

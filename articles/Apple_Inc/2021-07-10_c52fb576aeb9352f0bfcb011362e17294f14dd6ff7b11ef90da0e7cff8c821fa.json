@@ -1,0 +1,20 @@
+{
+  "_id": "c52fb576aeb9352f0bfcb011362e17294f14dd6ff7b11ef90da0e7cff8c821fa",
+  "feed": "economist-newspaper",
+  "title": "Adams's Apple",
+  "text": "<p>This content has been removed</p>",
+  "published": "2021-07-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 8,
+          "end": 13
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

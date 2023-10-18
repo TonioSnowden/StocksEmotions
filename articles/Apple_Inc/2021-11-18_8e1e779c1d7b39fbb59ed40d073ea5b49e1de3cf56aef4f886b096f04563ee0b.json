@@ -1,0 +1,36 @@
+{
+  "_id": "8e1e779c1d7b39fbb59ed40d073ea5b49e1de3cf56aef4f886b096f04563ee0b",
+  "feed": "market-watch",
+  "title": "LG Electronics stock rallies after media report on Apple car",
+  "text": "<p>Shares of LG Electronics jumped by as much as 12% to 137,500 Korean won ($116.23) in morning trade before drifting lower. They were 6.9% higher in late morning trade, outpacing the benchmark Kospi's KR:180721 0.1% gain.</p><p>Bloomberg reported early Friday that Apple plans to launch an electric, self-driving car as soon as 2025. Details remain thin, and Apple hasn't commented on the latest news report.</p><p>Apple has never confirmed periodic media reports that it is entering the EV market..</p><p>LG Electronics in July launched LG Magna e-Powertrain, a joint venture with Canadian auto-parts maker Magna International in a bid to bolster its electric-vehicle components business.</p><p>The Korean company gave no immediate comment on speculation of a partnership with Apple for what some call an iCar project.</p>",
+  "published": "2021-11-18T22:25:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 401,
+          "end": 406
+        },
+        {
+          "start": 752,
+          "end": 757
+        },
+        {
+          "start": 257,
+          "end": 262
+        },
+        {
+          "start": 351,
+          "end": 356
+        },
+        {
+          "start": 51,
+          "end": 56
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

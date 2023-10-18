@@ -1,0 +1,30 @@
+{
+  "_id": "b61d743f97f9958c18a13923d55375cd880900e1e927f7fb7a2fddb5389beed2",
+  "feed": "market-watch",
+  "title": "Dell sees PC sales decline worse than estimates, stock heads for second worst day since return to Wall Street; Executives indicate PC shipments are expected to decline nearly 20% in the second half of the year and 14% next year, shares in other PC makers such as HP and Apple also fall",
+  "text": "<p>Dell executives dialed back their expectations for the PC market after quarterly sales came up short of the Wall Street consensus estimate. As a pandemic-era boom in PC sales fell off in recent months, analysis firms reported the worst sales drop in at least a decade, and warned of more declines in the future.</p><p>From April: The pandemic PC boom is over, but its legacy will live on</p><p>Cowen analyst Krish Sankar noted, however, that Dell executives expect an even sharper drawback than analysis firm Gartner.</p><p>\"Interestingly, Dell also highlighted that its internal model sees 290M PC units in CY22 (-14% Y/Y), below Gartner forecast of 310M.\" Sankar said. \"We note that Dell's estimate indicates PC units declining by nearly 20% Y/Y in C2H22.\"</p><p>Sankar said commercial PC demand is slower than expected while consumer remains soft. Dell executives expect revenue from its PC group, known as Client Solutions Group, to decline in the high-teen percentages year-over-year in the October-ending quarter, after a 9% drop in the July-ending one. And there are other problems as well.</p><p>\"Consumer and commercial PC weakness in the near term is not a surprise, but Dell comments around slowing infrastructure product demand was an incremental negative,\" said Sankar, who has a market perform rating and a $45 price target on Dell.</p><p>\"Although server growth is decelerating, we believe backlog fulfillment is supporting near-term sales,\" Sankar said of Dell's Infrastructure Solutions Group revenue guide of growth in the low-teens percent year-over-year in the third quarter.</p><p>Read: PC industry suffered worst decline in years, but how bad it is depends on Apple</p><p>Citi Research analyst Jim Suva said it was good to hear Dell be so open about the changes in its market.</p><p>\"The earnings conference call by Dell was a sharp turn toward caution from a mere 3 months ago where demand was exceeding supply,\" said Suva, who has a buy rating and a $60 price target on Dell.</p><p>\"Now that interest rates have increased, corporate spending is being more cautious, and the supply chain is starting to normalize, we are seeing excess inventory in the PC industry not only in consumer but also a slowdown in enterprise spending.\" Suva said.</p><p>Raymond James analysts Simon Leopold, who has a $51 target price, said he is keeping his outperform rating even with the mixed outlook.</p><p>\"Although PC weakness was anticipated, the downtick was worse than expected,\" Leopold said. \"ISG continues to grow, but management cited slower demand and macro concerns that sounded worse than other IT equipment supplier commentary.\"</p><p>\"We believe Dell PCs are faring better than competitors', and are gaining share. Dell benefits from its bias towards commercial PCs, at ~78% of segment sales,\" Leopold said. \"We believe the enterprise vertical and U.S. demand remain healthier than consumer and international PC demand.\"</p><p>The slowing PC market, and the unofficial end to the global chip shortage, have been tough on PC makers as well as chip makers like Nvidia Corp. NVDA, Advanced Micro Devices Inc. AMD, Intel Corp. INTC, and most recently, Marvell Technologies Inc. MRVL</p><p>For more: Chip stocks tanked as pandemic demand for electronics slumped, but there are still some winners</p><p>Of the 21 analysts who cover Dell, 13 have buy-grade ratings and eight have hold ratings. Of those, eight lowered their price targets resulting in an average target price of $55.99, down from a recent $59.49.</p><p>Dell sees PC sales decline worse than estimates, stock heads for second worst day since return to Wall Street</p>",
+  "published": "2022-08-26T18:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 270,
+          "end": 275
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

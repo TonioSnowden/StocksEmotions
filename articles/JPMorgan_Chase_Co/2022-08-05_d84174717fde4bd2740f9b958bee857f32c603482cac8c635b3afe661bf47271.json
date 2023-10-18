@@ -1,0 +1,34 @@
+{
+  "_id": "d84174717fde4bd2740f9b958bee857f32c603482cac8c635b3afe661bf47271",
+  "feed": "wall-street-journal",
+  "title": "Wall Street Sentiment Survey Might Have Called the Stock Market's Turn; Investor pessimism peaked as the market began rallying in mid-June, according to Investors Intelligence's survey",
+  "text": "<p>This year, the S&amp;P 500 began rising on June 16 after closing down 24% from its peak on Jan. 3, 2022. It has since risen 13%.</p><p>Another indicator of investor sentiment, from the American Association of Individual Investors, has also shown increasing, though subdued, optimism. The indicator flashed its most bearish signal in late April when more than 59% of investors expected stocks to be lower over the next six months, compared with a reading near 39% for the week ended Wednesday.</p><p>The Investors Intelligence survey of independent investment newsletters, which launched in 1963, is considered one of Wall Street's longest-standing contrarian indicators, meaning that if sentiment appears to have moved too far in one direction, some investors see it as a signal to do the opposite.</p><p>When the bull/bear ratio is below 1, according to Ed Yardeni, president and chief Investment strategist of eponymous Yardeni Research, it \"is screaming that it is time to buy. It is one of the reasons I thought we probably made a bottom on June 16—the economic and financial situation is nowhere near as frightening as it was in 2009.\"</p><p>Since the June 21, 2022, reading, sentiment has improved rapidly along with stock markets, with the S&amp;P 500 posting itsbest monthly performance since 2020 in July. The proportion of bulls in the survey rose 10 percentage points to 41% this week, pushing the ratio to the highest reading since February at 1.37.</p><p>SHARE YOUR THOUGHTS</p><p>Do you lean more bull or bear right now? Join the conversation below.</p><p>To be sure, many forces continue to pressure markets, with investors considering the possible effects of interest-rate increases, inflationand a darkening economic outlook. The latest bull/bear reading, however, remains between levels adherents consider extreme—roughly, 1 and 3.</p><p>Elsewhere, institutional investors seem to be getting back into the market after largely exiting for most of the year, according to Deutsche Bank estimates. Also, asset managers and hedge funds have pulled slightly back after placing the most bearish bets against U.S. stocks since 2016, according to a JPMorgan Chase &amp; Co. analysis of futures tracking major stock indexes.</p><p>Write to Eric Wallerstein at eric.wallerstein@wsj.com</p><p>Wall Street Sentiment Survey Might Have Called the Stock Market's Turn</p>",
+  "published": "2022-08-05T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2089,
+          "end": 2109
+        },
+        {
+          "start": 2103,
+          "end": 2123
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

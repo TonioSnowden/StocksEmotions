@@ -1,0 +1,30 @@
+{
+  "_id": "f3762e8da2ca0234094c3aaaea90bbc75deeeb7e571f50ca783bbcf4a13fb3bc",
+  "feed": "wall-street-journal",
+  "title": "What's News: World-Wide",
+  "text": "<p>The CDC will be restructured to strengthen its response to public-health threats, the agency's director said, acknowledging shortcomings in its fight against the Covid-19 pandemic.</p><p>A judge ordered the owners of CVS, Walgreens and Walmart pharmacies to pay $650 million over 15 years to two Ohio counties after they were found liable for contributing to the opioid crisis.</p><p>Russia's intelligence services were hunting for saboteurs in Crimea after an explosion at an ammunition depot rattled Moscow's grip on the peninsula.</p><p>The U.S. said that it and Taiwan will start formal negotiations for a bilateral trade and investment initiative in the fall to deepen ties on a range of issues.</p><p>Iranian demands for guarantees from the U.S. have once again stalled efforts to revive the 2015 nuclear agreement.</p><p>What's News: World-Wide</p>",
+  "published": "2022-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 229,
+          "end": 236
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.183909,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.18390906,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

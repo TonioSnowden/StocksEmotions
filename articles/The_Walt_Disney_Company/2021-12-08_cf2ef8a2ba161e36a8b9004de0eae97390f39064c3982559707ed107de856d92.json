@@ -1,0 +1,20 @@
+{
+  "_id": "cf2ef8a2ba161e36a8b9004de0eae97390f39064c3982559707ed107de856d92",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Hourslong Outage Hits  Amazon's Cloud Unit  ----  By Omar Abdel-Baqui and Aaron Tilley",
+  "text": "<p>   An hourslong outage on Amazon.com Inc.'s cloud-computing unit Tuesday left Roomba vacuum cleaners dormant, streaming services blank and delayed buyers from snapping up Adele presale concert tickets. </p><p>   Users began reporting issues with Amazon Web Services around 10:45 a.m. EST, according to Downdetector, which tracks website outages. About a half-hour later, the site showed nearly 11,300 reports of outages. The outages appeared to be concentrated in New York, Washington and Chicago, according to Downdetector. </p><p>   AWS is the largest cloud-computing provider in the U.S. The service allows customers, including many large businesses, to rent computing, storage and network capabilities. Companies and consumers have increasingly come to depend on cloud-computing services as the pandemic has forced them to work from home. </p><p>   Downdetector showed outages on Tuesday for many Amazon services, including streaming service Prime Music, videoconferencing tool Chime and home-security system Ring. Many third-party applications that sit on top of Amazon's cloud were also receiving outage reports on Downdetector, such as Ticketmaster and streaming services from Walt Disney Co. and Netflix Inc. </p><p>   By 5 p.m., outage reports on Downdetector had dipped below 3,500. </p><p>   Amazon didn't respond to questions about how many users were affected by the outage or how long it is expected to continue. </p><p>   The company's shares rose 2.8% to end the day at $3,523.29, in line with the broader market. </p><p></p>",
+  "published": "2021-12-08T07:04:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 1151,
+          "end": 1162
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

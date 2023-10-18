@@ -1,0 +1,20 @@
+{
+  "_id": "05769c6a0662b36e92c1d4cc5750d7f61568852a2b33f057a07bd1bee3ca71d8",
+  "feed": "wall-street-journal",
+  "title": "One-Upping John D. Rockefeller; A dime in 1920s money still can't top a twenty today.",
+  "text": "<p>Bill Apple</p><p>New York</p><p>One-Upping John D. Rockefeller</p>",
+  "published": "2021-12-12T18:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5,
+          "end": 10
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

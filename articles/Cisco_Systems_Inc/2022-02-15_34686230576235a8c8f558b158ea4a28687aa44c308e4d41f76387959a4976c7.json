@@ -1,0 +1,20 @@
+{
+  "_id": "34686230576235a8c8f558b158ea4a28687aa44c308e4d41f76387959a4976c7",
+  "feed": "market-watch",
+  "title": "Splunk stock rallies on report of Cisco $20 billion offer to buy company",
+  "text": "<p>In morning activity, shares of Splunk were trading around their intraday high of $125.81, as much as 10% above their Friday close, for a market cap of $19.9 billion, according to FactSet data.</p><p>In December, Splunk reported quarterly revenue that fell short of Wall Street estimates, driving shares to a 52-week low.</p>",
+  "published": "2022-02-15T08:26:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 34,
+          "end": 39
+        }
+      ],
+      "nexusId": "10013206"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "f482b578ed920c328d6803da6a1b16a955a629249da199284cfeb9a0c1dd33a6",
+  "feed": "reuters",
+  "title": "UPDATE 1-India wants local settlement if its bonds join global index",
+  "text": "<p>NEW DELHI, Sept 1 (Reuters) - India wants global bond index operators to consider the local settlement of its government securities if they are included in their indexes, a government official said on Thursday.</p><p>Media reports last week said JP Morgan had started new consultations with investors about adding India to its emerging market index, rekindling expectations of an imminent listing of the country's securities.</p><p>The Indian government began considering listing its debt in global indexes in 2019 and has been in discussions with J.P.Morgan and Bloomberg-Barclays , while also talking to Euroclear about clearing and settlement.</p><p>A global bond index listing plan was widely expected to be announced early this year but the government's stance on the treatment of capital gains has hindered progress in talks with index operators, government officials have said.</p><p>\"The discussions are going on with some top index operators and we are happy they are understanding our point of view,\" the official said on Thursday.</p><p>Bonds listed on global indexes are typically settled outside the country's borders via international settlement platforms such as Euroclear.</p><p>\"Why can't these bonds be settled within our borders?\" said the official, who did not want to be named.</p><p>The official did not comment on when an index listing might be announced, but said a listing may not happen immediately.</p><p>The finance ministry did not immediately reply to an email and message seeking comment.</p><p>India has one of the largest bond markets among emerging-market economies with more than $800 billion in outstanding debt.</p><p>Long-standing restrictions on foreign buying of India's bonds have kept it out of the top benchmarks used by global money managers.</p>",
+  "published": "2022-09-01T08:52:16.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 536,
+          "end": 547
+        },
+        {
+          "start": 536,
+          "end": 546
+        },
+        {
+          "start": 240,
+          "end": 249
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.1663454,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.16634536,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

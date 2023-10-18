@@ -1,0 +1,32 @@
+{
+  "_id": "2896fd9e6ebd428751ada472da07fa91a541d7a940180941943cbd19215655e7",
+  "feed": "market-watch",
+  "title": "This fund beats the S&P 500 by using just 75 of its components. Here's how it works. A combination of quality and lower prices has worked well through bull and bear markets — it may be just the ticket for investors worried about a recession",
+  "text": "<p>Let's begin with a 10-year chart comparing total returns with dividends reinvested for the Invesco S&amp;P 500 GARP ETF SPGP and the SPDR S&amp;P 500 ETF Trust SPY, which tracks the benchmark S&amp;P 500:</p><p>So far this year, SPGP is down 12%, while SPY is down 16%. But the long-term chart shows significant and consistent outperformance for SPGP, even during the bull market.</p><p>The S&amp;P 500 GARP Index</p><p>GARP stands for \"growth at a reasonable price.\" SPGP tracks the S&amp;P 500 GARP Index, which is reconstituted and rebalanced twice a year, on the third Fridays of June and December. The next change occurs Dec. 16.</p><p>S&amp;P Dow Jones Indices assigns a growth score to each component of the S&amp;P 500 by averaging the three-year compound annual growth rate (CAGR) for earnings and sales per share.</p><p>The top 150 components of the S&amp;P 500 by growth score are eligible for inclusion in the GARP index. Those 150 are ranked by \"quality/value composite score,\" which is the average of these three ratios:</p><p>* Financial leverage — total debt to book value.</p><p>* Return on equity — trailing 12 months' earnings per share divided by book value per share.</p><p>* Earnings-to-price — 12 months' earnings per share divided by the share price.</p><p>The top 75 of the 150 by QV rankings are then included in the GARP index and weighted by the growth score, with portfolio weightings ranging from 0.5% to 5%.</p><p>There is a weighting limitation of 40% to any one of the 11 S&amp;P sectors.</p><p>Addressing concentration risk</p><p>The benchmark S&amp;P 500 Index SPX is weighted by market capitalization, which means it is more heavily concentrated than you might expect — success is rewarded, with rising stocks more heavily weighted over time.</p><p>That can backfire during a bear market, with Amazon.com Inc. AMZN down 47% and Tesla Inc. TSLA down 51% this year, to name two prominent examples.</p><p>Looking at the SPDR S&amp;P 500 ETF Trust SPY, which is the first and largest exchange traded fund and tracks the benchmark index by holding all of its components, six companies (Apple Inc. AAPL, Microsoft Corp. MSFT, Amazon, both common share classes of Alphabet Inc. GOOGL GOOG and Berkshire Hathaway Inc. BRK.B) make up 19.2% of the portfolio.</p><p>That percentage has come down this year, but a lot of risk remains concentrated in a handful of companies. (Apple alone makes up 6.4% of the SPY portfolio. Tesla is now the ninth-largest holding, making up 1.4% of the portfolio.)</p><p>One way to address high concentration in an index fund is to use an equal-weighted approach, which Mark Hulbert recently discussed.</p><p>For the Invesco S&amp;P 500 GARP ETF, the underlying index's selection methodology has resulted in much less portfolio concentration than we see in SPY, with the top five holdings making up 10.9% of the portfolio.</p><p>Here are the 10 largest holdings of SPGP: </p><p> Company                                       Ticker  Share of portfolio  Regeneron Pharmaceuticals, Inc.               REGN    2.49%  Cigna Corporation                             CI      2.26%  Everest Re Group, Ltd.                        RE      2.21%  Vertex Pharmaceuticals Incorporated           VRTX    1.98%  D.R. Horton, Inc.                             DHI     1.97%  Expeditors International of Washington, Inc.  EXPD    1.96%  Incyte Corporation                            INCY    1.92%  Goldman Sachs Group, Inc.                     GS      1.83%  Ebay Inc.                                     EBAY    1.81%  Pfizer Inc.                                   PFE     1.73%  Source: FactSet</p><p>Click on the tickers for more information about any company, ETF or index in this article.</p><p>You should also read Tomi Kilgore's detailed guide to the wealth of information for free on the MarketWatch quote page.</p><p>Don't miss: 10 Dividend Aristocrat stocks expected by analysts to rise up to 54% in 2023</p><p>This fund beats the S&amp;P 500 by using just 75 of its components. Here's how it works.</p>",
+  "published": "2022-12-10T17:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2000,
+          "end": 2004
+        },
+        {
+          "start": 1975,
+          "end": 1984
+        },
+        {
+          "start": 1989,
+          "end": 1999
+        },
+        {
+          "start": 2265,
+          "end": 2270
+        }
+      ]
+    }
+  ]
+}

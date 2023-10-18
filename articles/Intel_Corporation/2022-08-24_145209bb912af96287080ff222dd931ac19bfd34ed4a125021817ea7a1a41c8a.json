@@ -1,0 +1,94 @@
+{
+  "_id": "145209bb912af96287080ff222dd931ac19bfd34ed4a125021817ea7a1a41c8a",
+  "feed": "ftcomall",
+  "title": "Intel/Brookfield: infrastructure finance is absolutely fab",
+  "text": "<p>Investors hope a Canadian private capital giant will help revitalise Intel — with a little additional support from the US government. This week the beleaguered semiconductor company announced that it would partner with the infrastructure affiliate of Brookfield Asset Management to spend up to $30bn building two chip fabrication plants in Arizona. </p> <p>Intel is a large, mature company that must keep shareholders placated with a decent dividend. But it also wants to improve its market position against the likes of Taiwan's TSMC and other Asian rivals with better technology. Its plan includes entry into the so-called foundry or “fab” business, manufacturing chips for design-only firms. </p> <p>Along with Brookfield's multibillion-dollar firepower, Intel stands to benefit from the recent Chips Act signed by President Biden. This provides federal support for a domestic US semiconductor market. Intel's share of that bounty is substantial. Now all it needs to do is execute on its strategy.</p> <p>The investment partnership between Intel and Brookfield is split 51/49 per cent with Intel retaining control. The company estimates Brookfield's modelled return to be between Intel's annual cost of debt and cost of equity, at roughly six or seven per cent.</p> <p>Details from the company are vague but it appears the bulk of cash flows owed to Brookfield will come as production ramps up, making the new capital less onerous than debt. Overall, Intel says that its capital needs could be mitigated by nearly a third with these external sources. </p> <p>The seemingly modest return for Brookfield is mitigated by a few factors. The investor said it had secured “binding non-recourse financing” for much of its commitment. Its overall equity commitment comes in at less than $1bn. Moreover, private capital firms, particularly in infrastructure, often prefer to put long-term capital to work.</p> <p>Is Intel a sure thing? Hardly. In its last quarter, it missed revenue forecasts. Shares are down 34 per cent for the year. At least shareholders can be reassured that the business is not short of cash. &#xa0;</p> <p><em>The Lex team is interested in hearing more from readers. Please tell us what you think of the Intel/Brookfield alliance in the comments section below.</em></p><p>Source:  2022 'Intel/Brookfield: infrastructure finance is absolutely fab' FT.com 24 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-24T17:33:56.365Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 742,
+          "end": 747
+        },
+        {
+          "start": 1424,
+          "end": 1429
+        },
+        {
+          "start": 349,
+          "end": 354
+        },
+        {
+          "start": 1848,
+          "end": 1853
+        },
+        {
+          "start": 882,
+          "end": 887
+        },
+        {
+          "start": 1061,
+          "end": 1066
+        },
+        {
+          "start": 347,
+          "end": 352
+        },
+        {
+          "start": 1011,
+          "end": 1016
+        },
+        {
+          "start": 69,
+          "end": 74
+        },
+        {
+          "start": 1412,
+          "end": 1417
+        },
+        {
+          "start": 69,
+          "end": 76
+        },
+        {
+          "start": 1150,
+          "end": 1155
+        },
+        {
+          "start": 889,
+          "end": 894
+        },
+        {
+          "start": 1070,
+          "end": 1075
+        },
+        {
+          "start": 1160,
+          "end": 1165
+        },
+        {
+          "start": 1020,
+          "end": 1025
+        },
+        {
+          "start": 737,
+          "end": 742
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.668066,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.66806614,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

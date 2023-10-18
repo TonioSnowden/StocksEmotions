@@ -1,0 +1,40 @@
+{
+  "_id": "8f26818f1a789724ee10812645626e92125aaafd8da80cc917a97dfde43bfc13",
+  "feed": "wall-street-journal",
+  "title": "Business News: Verizon's TracFone Users Report Hacks --- Customers of newly acquired company reported stolen numbers",
+  "text": "<p>\"We were recently made aware of bad actors gaining access to a limited number of customer accounts and, in some cases, fraudulently transferring, or porting out, mobile telephone numbers to other carriers,\" TracFone said in a notice posted on its website this month.</p><p>In some cases, customers said they discovered their lines had been moved without their permission to Metro, a unit of T-Mobile US Inc. A T-Mobile spokeswoman said the company investigated and found \"no fraud or data breach of any sort\" on its side. The company added that such unauthorized transfers \"are unfortunately an industrywide issue.\"</p><p>Verizon, which acquired TracFone in late November in a $6.25 billion deal, said it had added security protections to the recently acquired services to prevent such fraudulent transfers. For instance, the prepaid operators will now send customers a text message notification when a transfer request is made.</p><p>A Verizon spokeswoman said the attack appeared to affect about 6,000 TracFone customers, a fraction of Verizon's roughly 24 million prepaid lines. \"We have no reason to think that this was caused by anybody on the inside,\" the spokeswoman said.</p><p>\"You've got the bad actors out there constantly trying to find points of weakness,\" Matt Ellis, Verizon's finance chief, said Tuesday in an interview. \"We've addressed that weakness.\"</p><p>The fix came too late for Enid Hagerty, an information-technology project manager in Michigan who noticed on Christmas Eve that her PIN-protected Total Wireless account was no longer under her control. The independent contractor had to tell clients in an email not to rely on the phone number until the problem could be worked out.</p><p>\"My blood pressure was in my eyeballs. I was so furious I wasn't getting the answers,\" she said. \"That was my lifeline to everything for 20 years.\"</p><p>She said she later regained control of the number but is using a different service provider.</p><p>Other customers of various TracFone brands said unknown attackers appeared to use their commandeered phone numbers to target cryptocurrency accounts.</p><p>Control of a mobile phone line can be an attractive entry point for scammers looking to break into a victim's bank account. Cryptocurrency wallets secured with mobile-phone authentication are another common target.</p><p>A 2020 Princeton University study of identity-verification measures among five prepaid cellphone carriers -- including Verizon and TracFone -- found all of the providers \"used insecure authentication challenges that could be easily subverted by attackers.\"</p><p>The Federal Communications Commission last year began accepting public comments to help shape rules aimed at preventing malicious takeovers of cellphone numbers through SIM swapping and port-out fraud.</p><p>It isn't yet clear who is responsible for the TracFone attack, said Allison Nixon, chief research officer at information-security company Unit 221B. But she said that the stories from victims targeted in the attack fit a pattern that is often caused by the work of a small group of well-practiced phone-number thieves.</p><p>\"We're at the stage where we've bred superbugs at this point,\" she said. \"I'm watching them become more mature and there are new people coming into this community and learning their ways.\"</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-01-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 1258,
+          "end": 1265
+        },
+        {
+          "start": 1020,
+          "end": 1027
+        },
+        {
+          "start": 2403,
+          "end": 2410
+        },
+        {
+          "start": 610,
+          "end": 617
+        },
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 919,
+          "end": 926
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

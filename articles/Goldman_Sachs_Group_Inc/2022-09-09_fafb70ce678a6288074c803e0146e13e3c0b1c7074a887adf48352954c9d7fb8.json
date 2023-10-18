@@ -1,0 +1,50 @@
+{
+  "_id": "fafb70ce678a6288074c803e0146e13e3c0b1c7074a887adf48352954c9d7fb8",
+  "feed": "market-watch",
+  "title": "The COVID cash horde at U.S. companies is mostly gone. Is it time to worry? Corporate debt deluge comes due as recession fears rise",
+  "text": "<p>The reversal of the pandemic cash trend, especially at highly rated companies, can be attributed to a deluge of stock buyback programs starting in 2021, a pullback in debt issuance as interest rates rise and the bite of high inflation.</p><p>Goldman Sachs credit researchers warned that liquidity positions \"have weakened quite materially,\" and that net margins have begun to fall, which will put a spotlight on how easily companies can continue to pay interest on their outstanding debt in the coming months.</p><p>Like households, it isn't necessarily declining income that immediately hurts a company, particularly if they have cash on hand, but the inability to keep up on ongoing debt payments that can lead to a default.</p><p>In that regard, investment-grade companies have been depleting a key source of liquidity: their ratio of cash to assets, which fell to about 3.5% this year from a 5.5% pandemic high (see chart), even though earnings relative to debt have remained elevated.</p><p>\"While interest coverage ratios are not necessarily showing cracks yet, they will be an important metric to watch going forward,\" wrote Lotfi Karoui's credit research team at Goldman, in a weekly client note.</p><p>Not only has new debt issuance slowed from its $1.4 trillion yearly peak in 2021 as the Federal Reserve hasraised its benchmark rate, but highly rated companies eventually need to replace pandemic bonds issued at low coupons with fresh debt.</p><p>About $600 billion in U.S. investment-grade corporate bonds come due next year, followed by another $690 billion in 2024 and roughly $750 billion in 2025, according to Goldman research.</p><p>Recession fears</p><p>Given Fed Chairman Jerome Powell's vow to quell inflation, corporate borrowing likely will come at steeper costs. The yield on the ICE BofA US Corporate Index was just shy of 5% this week, roughly a 13-year high, and up from an all-time low of 1.8% for the index in December 2020.</p><p>Higher rates make it more expensive for companies to borrow, which can weigh on the stock prices. Recession risks also make bond investors nervous about being paid too little to lend to businesses that could see their profits tumble if the economy tanks.</p><p>Underscoring these concerns, a review of second-quarter earnings showed that 240 companies in the S&amp;P 500 index SPX mentioned \"recession,\" according to earnings transcripts reviewed by FactSet, the highest since at least 2010.</p><p>The S&amp;P 500, Dow Jones Industrial Average DJIA and Nasdaq Composite Index COMP were set to post weekly gains on Friday, but were still off about 11% to 23% on the year, according to FactSet.</p><p>A big concern for debt and equity investors has been whether the Fed goes too far in its inflation fight, tipping a slowing economy into a recession.</p><p>Fed Gov. Christopher Waller said on Friday that the Fed may have to raise its benchmark interest rate \"well above 4%\" if inflation doesn't show signs of finding a path lower to the central bank's 2% target.</p><p>Dramatically higher benchmark rates already spelled trouble this year for total returns in U.S investment-grade corporate bonds, which were down 15% on the year through August, according to Deutsche Bank research.</p><p>The 10-year Treasury yield BX:TMUBMUSD10Y was near 3.3% on Friday, up from 1.6% about a year ago, according to Dow Jones Market Data.</p><p>Most individuals gain exposure to corporate bonds through exchange-traded funds. The biggest in the U.S., the iShares iBoxx $ Investment Grade Corporate Bond ETF LQD, was off 18% on the year through Friday, according to FactSet.</p><p>Read: Bad news for stocks: Fed will be surprised how hard rate hikes hit economy, says BlackRock</p><p>The COVID cash horde at U.S. companies is mostly gone. Is it time to worry?</p>",
+  "published": "2022-09-09T19:50:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 1591,
+          "end": 1598
+        },
+        {
+          "start": 1147,
+          "end": 1154
+        },
+        {
+          "start": 236,
+          "end": 243
+        },
+        {
+          "start": 1585,
+          "end": 1592
+        },
+        {
+          "start": 236,
+          "end": 249
+        },
+        {
+          "start": 235,
+          "end": 248
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.1741314,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.17413151,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

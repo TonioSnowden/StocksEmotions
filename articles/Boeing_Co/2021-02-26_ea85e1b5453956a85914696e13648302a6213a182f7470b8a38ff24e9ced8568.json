@@ -1,0 +1,20 @@
+{
+  "_id": "ea85e1b5453956a85914696e13648302a6213a182f7470b8a38ff24e9ced8568",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>GameStop shares surged for a second day as momentum surrounding the stock continued to build and derivatives activity heated up.</p><p>---</p><p>AT&amp;T agreed to sell a stake in its pay-TV unit to private-equity firm TPG and carve out the struggling business.</p><p>---</p><p>Boeing was planning to strengthen engine cowlings on its 777 jets months before two recent serious failures, according to an internal FAA document.</p><p>---</p><p>Costco will pay its U.S. workers at least $16 an hour starting next week, the company's CEO told Congress.</p><p>---</p><p>Initial jobless claims decreased by 111,000 to a seasonally adjusted 730,000 last week, the lowest level since November.</p><p>---</p><p>The CEO of Brazil's Petrobras said he would step down, paving the way for an army general picked by Bolsonaro to succeed him.</p><p>---</p><p>Airbnb posted a steep annual loss, as costs tied to its market debut capped a year in which the pandemic ravaged the travel industry.</p><p>---</p><p>DoorDash's revenue more than tripled in the fourth quarter, but the company offered a restrained outlook for growth.</p>",
+  "published": "2021-02-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 250,
+          "end": 256
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

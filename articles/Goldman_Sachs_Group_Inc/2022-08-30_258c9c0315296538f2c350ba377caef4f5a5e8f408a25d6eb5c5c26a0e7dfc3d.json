@@ -1,0 +1,38 @@
+{
+  "_id": "258c9c0315296538f2c350ba377caef4f5a5e8f408a25d6eb5c5c26a0e7dfc3d",
+  "feed": "wall-street-journal",
+  "title": "The Sun Will Keep Shining on Chinese Solar; China's solar firms face some long-term threats from U.S. policy, but look to benefit from global energy crisis and higher U.S. spending",
+  "text": "<p>Many of those installations will be in China itself. The country built a record amount of solar power capacity in 2021, and it will likely break that record again this year. China added 31 gigawatts in the first half of this year—more than double the new capacity installed during the same period last year. The government's push for distributed solar has driven a boom in rooftop panel installations everywhere from hospitals and schools to commercial buildings. Such distributed solar accounted for nearly two-thirds of new capacity additions in the first half this year.</p><p>But solar demand will likely shoot up faster in other parts of the world too as consumers aim to save on high electricity costs, especially in Europe. The U.S. is a more complicated case. It has imposed tariffs on panels made in China, but many Chinese companies now manufacture in Southeast Asia as well. The newly-passed Inflation Reduction Act extends tax credits for rooftop solar, and the legislation also includes extra incentives to spur domestic production. Chinese firms' dominance, both in panel manufacturing and further upstream in polysilicon, means they are likely to benefit substantially despite the complicated trade politics—at least in the short term until U.S. competitors can begin to scale up.</p><p>Prices of polysilicon, used to make panels, have more than tripled since the beginning of 2021. And the recent power crisis in China's Sichuan province—caused by a large reduction in hydropower output due to extreme drought—may further disrupt supply. Nomura expects supply tightness to last into the second half of this year. But new capacity additions could drive prices back down soon. Global polysilicon capacity will more than double from last year's level by 2023, even after accounting for potential delays or cancellations of projects, according to the Japanese bank. Most of that will be in China too.</p><p>Upstream companies such as wafer and solar cell manufacturers may be more vulnerable to polysilicon price swings. But companies further downstream such as Sungrow, a Shenzhen-listed provider of power control systems, will be more resilient. The company has around a third of global market share in solar inverters, according to Goldman Sachs.</p><p>However you slice it, skyrocketing demand for non-fossil-fuel energy sources all over the world adds up to a bonanza for China's solar industry—either in one part of the value chain or another. U.S. competitors might eventually regain some ground in certain niches, but the balmy weather for Chinese manufacturers looks set to last for a while.</p><p>Write to Jacky Wong at jacky.wong@wsj.com</p><p>The Sun Will Keep Shining on Chinese Solar</p>",
+  "published": "2022-08-30T12:41:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2211,
+          "end": 2224
+        },
+        {
+          "start": 2229,
+          "end": 2242
+        },
+        {
+          "start": 2229,
+          "end": 2236
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

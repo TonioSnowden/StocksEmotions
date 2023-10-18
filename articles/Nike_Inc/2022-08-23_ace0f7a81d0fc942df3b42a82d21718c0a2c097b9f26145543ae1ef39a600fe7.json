@@ -1,0 +1,42 @@
+{
+  "_id": "ace0f7a81d0fc942df3b42a82d21718c0a2c097b9f26145543ae1ef39a600fe7",
+  "feed": "ftcomall",
+  "title": "Adidas/Rørsted: challenge from Chinese brands is an obstacle to getting back on track",
+  "text": "<p>Adidas describes itself as a team of rebellious optimists. But the German group's can-do spirit has worn increasingly thin. A few weeks after the sportswear company warned on profits, it has announced the departure of chief executive Kasper Rørsted next year. His exit three years before his contract expires underscores the waning credibility of his ambitions. </p> <p>The share price fell 5 per cent on the <a href=\"https://www.ft.com/content/38a76f56-13e7-4e61-8861-d762b71ca109\">news</a>, cementing a decline of nearly 50 per cent over the past year. Adidas's shares have returned to where they started at the beginning of Rørsted's tenure in 2016. Over the same period Germany's Dax index has risen by a quarter.</p> <p>There were high hopes when Danish-born <a href=\"https://www.ft.com/stream/9b98e386-0745-4937-9134-c1b8d9cf15a2\">Rørsted</a>, who had previously boosted returns at Germany's Henkel, took over. Flogging more expensive items and cost-cutting duly pushed up Adidas's operating margins by 3.2 percentage points to a historic high of 11.3 per cent in the three years to 2019. </p> <p>This focus on profitability might have held back top-line growth. Sales expanded by 15 per cent in the five years to 2021, compared with more than double that for Nike. When Rørsted took over, <a href=\"https://www.ft.com/stream/ba22890f-c2f1-4baf-81b4-a744917e691f\">Adidas </a>was valued at a 45 per cent premium to Nike. Their positions have now reversed, with Adidas trading on a forward price/earnings multiple of 20 compared with 29 for Nike.</p> <p>China is the biggest hurdle. The region contributed more than 30 per cent of operating profits in 2019. It will deliver little more than half that this year, according to UBS. Rørsted insists that the overwhelming problem is China's lockdowns. But Adidas's stance on Xinjiang cotton prompted a consumer boycott there. That allowed domestic brands to snatch market share. </p> <p>Rørsted's departure means investors should brace for a paring back of the medium-term revenue growth targets of 8 to 10 per cent, even if the new boss&#xa0;opts — sensibly — to spend more on marketing to boost the top line. Given the dismal economic outlook and challenges in China, Adidas will have to run hard just to stand still. </p><p>Source:  2022 'Adidas/Rørsted: challenge from Chinese brands is an obstacle to getting back on track' FT.com 23 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-23T14:02:47.170Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 1078,
+          "end": 1082
+        },
+        {
+          "start": 1153,
+          "end": 1157
+        },
+        {
+          "start": 1277,
+          "end": 1281
+        },
+        {
+          "start": 1088,
+          "end": 1092
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0000415,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.1604042e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

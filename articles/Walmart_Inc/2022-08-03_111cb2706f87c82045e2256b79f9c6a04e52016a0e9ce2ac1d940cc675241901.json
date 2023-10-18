@@ -1,0 +1,24 @@
+{
+  "_id": "111cb2706f87c82045e2256b79f9c6a04e52016a0e9ce2ac1d940cc675241901",
+  "feed": "wall-street-journal",
+  "title": "Walmart Lays Off Hundreds of Corporate Workers; Retailer is restructuring headquarters operations after warning of profit troubles",
+  "text": "<p>This is a developing story and will be updated.</p><p>Walmart Lays Off Hundreds of Corporate Workers</p>",
+  "published": "2022-08-03T20:29:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 48,
+          "end": 55
+        }
+      ]
+    }
+  ]
+}

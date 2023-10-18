@@ -1,0 +1,34 @@
+{
+  "_id": "a930baf7a42c5371885e6cddc3325b467fec0420e64dce865db63d85a7416613",
+  "feed": "wall-street-journal",
+  "title": "Justice Department Recruits AB InBev Data Expert to White-Collar Crime Force; Former executive at brewer will be agency's resident compliance expert, advising prosecutors investigating foreign bribery and fraud",
+  "text": "<p>A former executive for the world's largest brewer who championed the use of machine learning to help companies detect and prevent employee misconduct is joining the Justice Department to help fight white-collar crime.</p><p>Matt Galvin, Anheuser-Busch InBev SA's former global compliance chief, will join the Justice Department's fraud section in Washington on Monday, a department spokesman said.</p><p>In a newly created position, he will work as the section's resident compliance and big data expert, advising prosecutors on the policies and procedures that companies put in place to stop employees from violating laws or internal policies.</p><p>The Justice Department has made assessing corporate compliance programs an increasingly important part of its investigations into corporate crime. Prosecutors often require improvements to a company's compliance procedures as part of settlements over alleged legal violations, and companies with strong compliance programs can receive lenient treatment under Justice Department guidelines.</p><p>The Justice Department's fraud section is one of the largest groups of prosecutors dedicated to investigating white-collar crime in the country. Its various units probe cases of foreign bribery by multinational companies, as well as those involving healthcare and securities fraud.</p><p>The addition of Mr. Galvin to the section is an unusual career pivot for the executive, who has never worked in government. He also is an atypical hire by the Justice Department, whose ranks are primarily staffed with attorneys focused on investigating, prosecuting and bringing cases to trial.</p><p>His hiring is part of an effort by Justice Department leadership across several successive administrations to add compliance expertise to the agency's white-collar crime programs, including its enforcement of the Foreign Corrupt Practices Act, an antibribery law.</p><p>Mr. Galvin is best known among corporate compliance professionals for spearheading the development at AB InBev of a cutting-edge analytics platform that analyzes troves of corporate data to identify risky business partners and suspect payments.</p><p>Although big data has become instrumental to corporate marketing and product development efforts, legal and compliance departments have been slower to adopt its use. Mr. Galvin has advocated for collaboration among companies to better train models and algorithms that can more effectively identify legal risks and, in some cases, prevent violations before they occur.</p><p>The Justice Department in recent years has encouraged companies to harness data when building compliance systems, both to root out misconduct and to test the effectiveness of their policies and procedures. Some of the agency's components, including the fraud section, have also developed analytics capabilitiesas a way of identifying crime and building cases.</p><p>Mr. Galvin's role will include work on the fraud section's data-analytics capabilities, the Justice Department spokesman said.</p><p>The Justice Department first sought to add compliance expertise to its fraud section in 2015, with the hiring of Hui Chen, a former prosecutor who had also worked as a lawyer for Pfizer Inc., Microsoft Corp. and Standard Chartered PLC.</p><p>Ms. Chen, who was a contractor rather than an employee of the Justice Department, left in 2017. Political appointees who took control of the department under the administration of former President Donald Trump said they wouldn't renew the position, but would seek to add compliance expertise in other ways, including by holding training sessions for prosecutors.</p><p>Several officials appointed under the Biden administration have brought new levels of compliance experience to the Justice Department, but Mr. Galvin will be the first compliance executive to step into a position similar to Ms. Chen's. The fraud section also has hired attorneys with experience working on compliance while at law firms to staff a unit focused on compliance and policy matters.</p><p>The department's criminal division, which oversees the fraud section, is headed by Kenneth Polite, a former U.S. Attorney for New Orleans who served for a year as chief compliance officer of Entergy Corp., an energy company operating in Arkansas, Louisiana, Mississippi and Texas.</p><p>Mr. Polite in June announced that he had hired Glenn Leon, Hewlett Packard Enterprise Co.'s chief compliance officer, to serve as head of the fraud section. Mr. Leon, who is slated to begin his new role Monday, is a veteran of the section, having served in its securities fraud unit from 2011 to early 2014.</p><p>Mr. Galvin worked for AB InBev for nearly seven years, serving as a global director before being promoted to lead its compliance department. Since departing the company in May, he has held research and teaching positions at Harvard Business School and at Sorbonne Université in Paris.</p><p>Write to Dylan Tokar at dylan.tokar@wsj.com</p><p>Justice Department Recruits AB InBev Data Expert to White-Collar Crime Force</p>",
+  "published": "2022-09-08T17:47:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 3155,
+          "end": 3170
+        },
+        {
+          "start": 3139,
+          "end": 3154
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "1cbe35eeeacc1274fc8abb83687446ef75d0c21447464f37d71d65fe3d74fb8e",
+  "feed": "market-watch",
+  "title": "Slack outage wreaks havoc for workers after the long Presidents' Day weekend",
+  "text": "<p>Slack, the business messaging app that's become a staple for many employees to communicate with each other in real time — and especially important for remote workers during the COVID-19 pandemic — appeared to be down beginning at 9 a.m. ET on Tuesday. This was the very beginning of the first workday for many Americans following a long holiday weekend.&#xa0;</p><p>So while Slack service was out, many of the workers unable to direct message each other or their bosses in real-time turned to Twitter TWTR to vent their frustrations and make jokes, instead. The most common sentiment: Slack being down meant that no one would be able to get any work done on a day when they were struggling to feel motivated, anyway.&#xa0;</p><p>“If Slack stays down for 15 minutes we legally get to go home,” tweeted one user.&#xa0;</p><p>“Does Slack being down mean I don't have to work today?” tweeted another.&#xa0;</p><p>https://twitter.com/maxasteele/status/1496124921453367299?s=20&amp;t=VJbcMaTkVH7pqvq0Nyc85ghttps://twitter.com/razorsharpe99/status/1496127106065084419?s=20&amp;t=VJbcMaTkVH7pqvq0Nyc85ghttps://twitter.com/Walldo/status/1496133106117582851?s=20&amp;t=VJbcMaTkVH7pqvq0Nyc85ghttps://twitter.com/metraux_julia/status/1496130171354722309?s=20&amp;t=VJbcMaTkVH7pqvq0Nyc85ghttps://twitter.com/MorningBrew/status/1496128456236711944?s=20&amp;t=VJbcMaTkVH7pqvq0Nyc85gThe company first wrote on its status page that “Slack is not loading for some users” at 9:25 a.m. ET. Its 10:23 a.m. ET update elaborated that, “We are continuing to investigate the cause and will provide more information as soon as it's available.” And an alert around 11:30 a.m. ET noted that some people were still struggling to connect to the service, and the company had no more information to share at this time.</p><p>A company rep also told MarketWatch that Slack teams are investigating the issue, and users should follow the Slack status page and @slackstatus Twitter thread for the latest updates.&#xa0;</p><p>https://twitter.com/SlackStatus/status/1496133874262368264?s=20&amp;t=KQoBPIVrUWdD58qnCB5eUQThe Slack status page also noted that there were service disruptions on Monday, Feb. 21, when some customers were also unable to connect or send messages. The company said an error code stemming from a code change within Slack “caused a conflict in the desktop app and web client, preventing a small number of customers from sending messages.” Slack reverted the code change, which resolved that issue on Monday, anyway. It was unclear whether Tuesday's outage was related.</p><p>Salesforce CRM acquired Slack in a $27.7 billion deal in late 2020. More than 10 million users and 750,000 companies use Slack, the service has reported.&#xa0;</p><p>A similar outage happened the first Monday of 2021, when Slack crashed worldwide on the first full work day of the new year following the Christmas and New Year's holidays.&#xa0;</p>",
+  "published": "2022-02-22T11:45:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 2470,
+          "end": 2480
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "991cc8c0d11138ba1ea2fd69f49bb309c029637e013cb258e66be3210fea5ee6",
+  "feed": "market-watch",
+  "title": "As Silicon Valley looks to cut back, service workers fear they could be first to go; Unions representing janitors, shuttle drivers and other workers on Big Tech campuses rallied outside Meta's headquarters on Thursday to call attention to expected cutbacks from Facebook's parent company, which has been paying service workers throughout the pandemic",
+  "text": "<p>The rally of about 150 union organizers, workers and supporters outside Meta Platforms Inc.'s headquarters in Menlo Park, Calif., was meant to urge the company to continue to protect service workers and support workers' right to organize. Meta META, the parent company of Facebook, Instagram and WhatsApp, was one of the tech giants that at the beginning of the coronavirus pandemic in 2020 promised to keep paying janitors, security guards, shuttle drivers and other service workers even as they closed their campuses.</p><p>As Meta enters what Chief Executive Mark Zuckerberg called \"one of the worst downturns\" in its history, service workers are already losing jobs. More than 40 bus drivers at Meta have been laid off this year, half in the past month, said Stacy Murphy, business representative for Teamsters Local 853, which represents many of the Bay Area's tech-shuttle drivers. Now, about 100 Meta janitors may lose their jobs as soon as September, according to janitors who spoke with MarketWatch, as well as union representatives for the SEIU-USWW.</p><p>Teresa Barrios, a janitor at Meta for four years, said Thursday outside Meta's main campus that if she gets laid off, she has another janitorial job elsewhere — but that it would have a \"drastic\" effect on her finances because she needs both jobs to survive and support her family.</p><p>\"A majority of people here, we have to have two jobs,\" she said, adding that if the contractor who employs her does lay off janitors at Meta, that would mean an increased workload for those who remain.</p><p>Meta, like many other big companies, uses vendors that provide workers for its campuses in Silicon Valley and elsewhere, and those vendors are the direct employers of those workers. Meta has changed vendors for janitorial services, a year after MarketWatch reported that its previous vendor had stripped holiday pay from janitors and had attributed the move to Facebook, which denied it asked for the cuts.</p><p>See: Facebook dumps contractor, but union says janitors will keep jobs</p><p>SBM, the vendor that now employs the janitors at Meta, did not return repeated requests for comment about its plans for job cuts. The previous vendor employed 368 workers at Meta. Huerta said publicly at Thursday's event that SEIU-USWW is expecting \"significant layoffs\" among janitors, and told MarketWatch that he was trying to \"mitigate the job cuts\" in negotiations with SBM.</p><p>Facebook's Menlo Park campus has reopened to employees, who are asked to be there at least two days a week, but the campus was noticeably less busy Thursday than before the pandemic. Meta spokesman Tracy Clayton said the company has adjusted on-site services and amenities to reflect the changing needs of its hybrid workforce, but that he was not aware \"of any job cuts our vendor partners have made or will make at this time.\" Asked whether the company has reduced the amount of money it pays to its vendors that supply service workers, he said he was unable to share that information.</p><p>Other tech companies that promised to pay service workers through the pandemic, such as Google parent Alphabet Inc. GOOG GOOGL and Apple Inc. AAPL, have not returned requests for comment about whether they are cutting back on on-campus services and service workers. Executives at both companies have reportedly indicated internally that they plan to cut costs and slow hiring due to an economic downturn. Google now expects employees to be at the office three days a week, a policy that will reportedly take effect at Apple in September.</p><p>Murphy, of the Teamsters, said she has already seen some service-worker job cuts throughout the pandemic and is afraid there will be many more as companies with huge campuses establish a permanent hybrid schedule where employees work in the office only a couple of days a week, or work from home all the time.</p><p>\"My gut is telling me that this [service] work isn't going to come back to what it used to be,\" she said.</p><p>Maria Noel Fernandez, campaign director for Silicon Valley Rising, an alliance of labor groups and community leaders, said \"we're kind of at this tipping point, and a new phase in the pandemic\" when decisions are being made about what comes next.</p><p>\"Whether it's layoffs, new organizing, or different issues, ultimately what these workers want is a seat at the table and a voice on the job,\" she said, adding that many of those workers are people of color. \"This is the moment when we're calling on tech companies to make a commitment to the service workers and the communities that have allowed them to thrive.\"</p><p>In 2020, Silicon Valley Rising and Working Partnerships USA published a report that showed there were about 14,000 unionized tech cafeteria workers, janitors and security officers in Silicon Valley, which it defined as Santa Clara and San Mateo counties. Of those, they found that 63% were Black or Latino. If all tech service workers in the valley lost their jobs, the effect could be catastrophic, according to the report: An estimated 12,000 would lose healthcare coverage and 8,300 renters would be at risk of being unable to pay rent.</p><p>The action at Meta headquarters on Thursday also involved a call for a vendor, Canon Business Process Services, to bargain with Teamsters representing mailroom workers. In December, 52 mailroom workers for Meta's Bay Area offices held a unionization vote that ended in a tie, which falls short of the majority needed to recognize the union. The Teamsters union, alleging union-busting tactics by Canon, is challenging that. A National Labor Relations Board hearing is scheduled for next month.</p><p>Canon spokeswoman Christine Sedlacek said \"we feel very strongly that we have complied with federal labor law at all times.\"</p><p>See: It's the end of 'fantasyland' for Big Tech and its workers</p><p>As Silicon Valley looks to cut back, service workers fear they could be first to go</p>",
+  "published": "2022-08-20T17:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99956805,
+      "offsets": [
+        {
+          "start": 3101,
+          "end": 3110
+        },
+        {
+          "start": 3503,
+          "end": 3508
+        },
+        {
+          "start": 3127,
+          "end": 3131
+        },
+        {
+          "start": 3486,
+          "end": 3491
+        },
+        {
+          "start": 3116,
+          "end": 3126
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.75,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.25,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

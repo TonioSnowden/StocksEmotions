@@ -1,0 +1,46 @@
+{
+  "_id": "4376e07612e0633dfd3165e8db5c79ab9452029eca3543741c3ad628eda2cfb3",
+  "feed": "ftcomall",
+  "title": "Taiwanese Apple supplier battles activists over $4bn cash pile",
+  "text": "<p>An Apple supplier based in Taiwan is battling an international investor over its multibillion-dollar cash pile in a case that signals burgeoning shareholder activism in the territory.</p> <p>Catcher Technology, which manufactures electronic casings for Apple devices made in China, is being challenged by Hong Kong-based investment firm Argyle Street Management to improve its governance and return some of its $4.2bn of net cash to shareholders, according to people familiar with the discussions.</p> <p>Argyle holds about 1 per cent of Catcher's shares and is one of a number of its foreign institutional shareholders alongside Franklin Templeton, Singapore's GIC and Cathay Life Insurance. It has approached Catcher executives over its concerns in a meeting in Taiwan, one of the people said.</p> <p>Shareholder activism has grown more slowly in Asia than in the US because of the dominance of family-controlled companies, but recent high-profile battles including in Hong Kong <a href=\"https://www.ft.com/content/38e3bf36-94f6-4f6f-a5a9-eadac529738c\">over HSBC</a> and Bank of East Asia, and in Japan over Toshiba, have raised its profile.</p> <p>Global investor appetite for <a href=\"https://www.ft.com/topics/places/Taiwan\">Taiwan </a>has increased in recent years, with foreign direct investment rising 275 per cent to a 15-year high of $8bn in the first half of 2022 owing to the nation's large industrial base and its status as a gateway to China. </p> <p>However, the island's <a href=\"https://www.ft.com/technology\">tech-reliant</a> stock market been hit following a sell-off by global funds and fears of a US recession. </p> <p>Argyle has accused Catcher's management of “hoarding cash” and using it to support a “bloated” executive structure, according to two people with knowledge of the situation. The company has a market capitalisation of about $4bn on Taiwan's stock exchange and is run by three brothers of the Hung family who sit on its board.</p> <p>In 2020, Catcher sold two units from its Chinese division that supplied Apple with iPhone casings for $1.43bn to a smaller competitor, Lens Technology, based in the mainland province of Hunan. The divestment of one of its main revenue generators came as Chinese companies pitched for new opportunities to access Apple's coveted supply chain following the China-US trade war.</p> <p>Argyle argues that, despite the disposal, Catcher has paid a “low” dividend of NT$10-NT$12 per share for the past five years that has totalled NT$42.95bn ($1.43bn) and said it would maintain that dividend level for the next three years.</p> <p>About 15 per cent of shares in the Tainan-based company are owned by the Hung family, including its chair Allen Hung, and approximately 43 per cent owned by foreign institutions.</p> <p>Catcher said it was “currently in the stage of business transformation” and was diversifying into areas including manufacturing automotive parts and medical technology. </p> <p>“The cash position we kept is mainly for investment opportunities,” the company said. “We pay at least 50 per cent of earnings as cash dividends. The cash dividends we've paid each year over the past five years is literally equivalent to our paid-in capital, essentially above market average.”</p> <p>In July, Taiwan prosecutors charged 14 people including members of Catcher's research and development team with breach of trust and taking commercial secrets for use overseas. Catcher said in a statement at the time that it “co-operates with the investigation and follows judicial procedures and judgments”.</p> <p>Taiwan has stepped up efforts in recent years to prevent the leak of sensitive technologies, such as semiconductors, to the mainland. In 2021, Taipei moved to restrict domestic tech companies from selling assets or subsidiaries to Chinese firms. </p><p>Source: Tabby Kinder in Hong Kong 2022 'Taiwanese Apple supplier battles activists over $4bn cash pile' FT.com 7 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-07T00:15:21.885Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 3,
+          "end": 8
+        },
+        {
+          "start": 10,
+          "end": 15
+        },
+        {
+          "start": 245,
+          "end": 250
+        },
+        {
+          "start": 1807,
+          "end": 1812
+        },
+        {
+          "start": 2046,
+          "end": 2051
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.985001,
+        "baseWeight": 5.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9850011,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "6b0aef03dbf3f94eeb1657edecee68e0d8d5b5efd0a4a780a8a50c71a726cace",
+  "feed": "ftcomall",
+  "title": "US bankruptcy courts struggle with product liability disputes",
+  "text": "<p>Maybe we are being cute. But not <em>that</em> cute. This seemed to be the posture of 3M, the Minnesota industrial titan with an enterprise value of $85bn, in July when it <a href=\"https://www.ft.com/content/899b56c8-e03e-432e-8cd9-130ec272477f\">placed a subsidiary in Chapter 11 bankruptcy</a>. The subsidiary, Aearo, along with 3M faced more than 200,000 individual lawsuits over earplugs that Aearo manufactured that allegedly caused hearing loss among US armed services members.</p> <p>The US bankruptcy system has increasingly become the forum where victims of so-called mass torts — often consumers of defective products — are awarded compensation. It had not been designed for this purpose. But beginning with asbestos liability cases in the 1990s, companies and many mass tort victims, though not all, have found that the particular powers of the Chapter 11 system have made settlements forged there fair bargains for both sides.</p> <p>A trickier consequence has emerged, however, in recent years. Rich players such as 3M, which themselves face liability, are putting another related party into bankruptcy while simultaneously finding a way to benefit from the protections of the Chapter 11 process. </p> <p>Members of the Sackler family never filed for bankruptcy but did still <a href=\"https://www.ft.com/content/0b9adde2-8485-45e9-a896-86e63ac00d72\">gain some protections</a> from the bankruptcy court when their opioids business, Purdue Pharma, went into Chapter 11. Most recently, Johnson &amp; Johnson used a controversial manoeuvre called<a href=\"https://www.ft.com/content/d90d99d0-aeca-4a7b-ad42-4cf5e0d1cf40\"> the “Texas Two-Step”</a> to conjure up a brand new subsidiary to house and then file for bankruptcy when the parent company faced potential liability over allegedly hazardous talcum powder. &#xa0;&#xa0;</p> <p>3M has argued that its gambit was nothing like the Texas Two-Step. Aearo was a longstanding subsidiary that had more than $100mn of sales and an independent board of directors that had won key concessions from 3M. It had contributed more than $1bn into Aearo to pay for potential liability along with a funding agreement to pay more as necessary.</p> <p>3M did want something in return for its largesse. It asked the federal bankruptcy court in Indiana to halt existing lawsuits against it, a benefit Aearo accrued by filing for bankruptcy, reasoning that such a cooling-off period would facilitate a fair settlement between all sides. &#xa0;</p> <p>To the surprise of some experts, 10 days ago the bankruptcy court <a href=\"https://www.ft.com/content/240a2ff7-b5c0-4615-9050-002d5b7fde89\">declined</a> to do so. The court's reasons are legally defensible, say those experts. Still, they also note that the traditional ways to resolve mass torts remain messy.</p> <p>Alleged victims of Johnson &amp; Johnson talc products had asked a bankruptcy judge overseeing that case to throw out the filing because they argued it had been made in bad faith. The judge, in a ruling earlier this year, not only declined to do so but went on to write that bankruptcy was effectively the perfect venue for mass tort cases. </p> <p>“The bankruptcy courts offer a unique opportunity to compel the participation of all parties in interest (insurers, retailers, distributors, claimants, as well as Debtor and its affiliates) in a single forum with an aim of reaching a viable and fair settlement.”</p> <p>The chief benefit of bankruptcy for a company is channelling the thousands of individual lawsuits into a single forum with a powerful judge who can guide all the sides to a binding settlement. Usually a trust fund is created to compensate current and future victims of an alleged wrongdoing.</p> <p>Aearo had been a part of another mass tort resolution mechanism called “multidistrict litigation”. In an MDL, a central clearinghouse is created and a judge overseeing the process allows for “bellwether” trials. These function as test cases that survey how much potential liability may exist. The traditional class-action lawsuits do not fit in many mass tort situations.</p> <p>The risk of these looser systems is that quick plaintiffs can benefit from a so-called “race to the courthouse”, getting payouts before a company runs out of money or a global agreement is reached.</p> <p>Bankruptcy judges have been willing to give the benefits of bankruptcy to “non-debtors” such as Johnson &amp; Johnson and the Sacklers because those parties have been willing to fund billion dollar cash settlements. 3M has appealed against the recent decision that denied its injunction of litigation and it still may get the protection it wants. &#xa0;</p> <p>Bankruptcy courts are adept at resolving pecuniary questions. Some victims, however, are not primarily motivated by money. They simply prefer their constitutional right to an ordinary jury trial where they can confront their alleged victimiser. For these claimants, Chapter 11's focus on preserving and distributing assets seems incomplete. “I want my day in court. That is what our legal system says I have the right to,” said Lindsey Simon, a law professor at the University of Georgia.</p> <p><a href=\"mailto:sujeet.indap@ft.com\"><em>sujeet.indap@ft.com</em></a></p><p>Source: Sujeet Indap 2022 'US bankruptcy courts struggle with product liability disputes' FT.com 5 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-05T04:00:14.115Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99998724,
+      "offsets": [
+        {
+          "start": 4056,
+          "end": 4058
+        },
+        {
+          "start": 75,
+          "end": 77
+        },
+        {
+          "start": 240,
+          "end": 242
+        },
+        {
+          "start": 1748,
+          "end": 1750
+        },
+        {
+          "start": 919,
+          "end": 921
+        },
+        {
+          "start": 1539,
+          "end": 1541
+        },
+        {
+          "start": 1883,
+          "end": 1885
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.6416426,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6416426,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

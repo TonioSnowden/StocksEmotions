@@ -1,0 +1,34 @@
+{
+  "_id": "6da9e3311e9f5c1b63a382b42e32d2a401688d742dd68558f651fe36b12a4295",
+  "feed": "wall-street-journal",
+  "title": "Wall Street Bets on Green Energy, Fossil Fuel",
+  "text": "<p>Fully avoiding fossil-fuel investments is impractical, many investors say, because oil, gas and coal account for about 80% of the world's energy. Energy and food shortages driven by the war in Ukraine hammered home that reality while highlighting the risks of haphazard shifts away from fossil fuels in some European countries.</p><p>The bill passed Friday by the House of Representatives appears to take a similar tack. Principal backer Sen. Joe Manchin (D., W.Va.) and others dubbed it an \"all-in energy policy.\"</p><p>That philosophy is being reflected in many investment portfolios, even among those who want to direct money to address climate-change risks.</p><p>\"The answer is not either-or,\" said Megan Starr, global head of impact at private-equity firm Carlyle Group Inc., which said it would work with portfolio companies such as Madrid-based Cia. Espanola de Petroleos SA -- known as Cepsa -- and Colombian oil-and-gas producer SierraCol Energy to bring down emissions. \"It's all of the above.\"</p><p>Officially part of what is called the Inflation Reduction Act, the energy spending package is expected to be signed into law by President Joe Biden this week. The legislation uses tax credits in hope of spurring investments in electric vehicles, renewable energy and batteries. Provisions supporting new oil-and-gas leases and tax credits for nascent technologies such as carbon capture and hydrogen are aimed at bolstering investments in those areas.</p><p>Republicans have said the legislation will hurt the economy. Some oil-industry trade groups criticized tax increases for leaks of methane and other provisions. The bill is seen by many as a boon for the largest fossil-fuel companies, banks and investment firms that have the money to back all types of energy projects.</p><p>There is criticism that the legislation doesn't do enough and that more aggressive action will be needed to meet climate goals.</p><p>\"We are getting to a point where it's inconceivable that you can continue to have your cake and eat it, too,\" said Rachel Kyte, dean of the Fletcher School at Tufts University and a climate adviser to the United Nations secretary-general.</p><p>Still, many climate investors support the legislation's mixed approach because they think it will level the playing field between renewables and fossil fuels, let markets decide what solutions to favor and lower emissions over time.</p><p>Funds designed to address environmental, social and governance concerns and which are managed by giant asset managers such as BlackRock Inc. and State Street Corp. hold shares of oil-and-gas companies such as Exxon Mobil Corp. and Chevron Corp. That is to maintain some investments across industries and avoid missing out when oil-and-gas assets outpace the market, as they have for much of the year.</p><p>Some investors say working with energy firms to lower emissions is one of the best ways they can fight climate change. Some firms such as BP PLC and Shell PLC are major players in renewables, including wind and solar. Many investors are betting oil-and-gas companies will become leaders in new areas such as renewable fuels and storing carbon underground.</p><p>It isn't just Wall Street betting on a gradual transition. Many clean-energy startups also plan to use natural gas for several years and are backed by established energy and utility companies.</p><p>\"You can't just switch overnight,\" said Shannon Miller, CEO of Mainspring Energy Inc., which sells cleaner power generators that can run on different energy sources including natural gas, hydrogen and ammonia.</p><p>Mainspring partners with utilities such as NextEra Energy Inc. and American Electric Power Co. and counts Bill Gates among its investors.</p><p>The bill could help Wall Street meet its clean-energy spending commitments. Reports from groups such as the Institutional Investors Group on Climate Change concluded banks aren't doing enough to meet their climate goals.</p><p>Bank executives say they can do only so much as financial intermediaries subject to broader business trends. Selling fossil-fuel assets or ending profitable business relationships that will be taken over by smaller financial firms doesn't benefit the climate, they argue.</p><p>Private conversations with companies and technological breakthroughs resulting from their investments often aren't captured in climate assessments, they say.</p>",
+  "published": "2022-08-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2590,
+          "end": 2603
+        },
+        {
+          "start": 2573,
+          "end": 2585
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

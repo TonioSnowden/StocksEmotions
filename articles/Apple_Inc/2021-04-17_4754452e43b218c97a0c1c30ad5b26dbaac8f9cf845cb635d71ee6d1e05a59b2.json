@@ -1,0 +1,32 @@
+{
+  "_id": "4754452e43b218c97a0c1c30ad5b26dbaac8f9cf845cb635d71ee6d1e05a59b2",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Heard on the Street:  Chip Shortage Hasn't  Hit Big Tech -- Yet  ---  Apple, Microsoft, Amazon, Google and Facebook  could still feel effects down the road  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre>\n </pre><p>\n  The world's largest tech companies effectively run on chips. But their prowess offers them some protection from the semiconductor production shortage plaguing other industries, at least for now. </p><p>\n  Just how much protection will become apparent in the coming slew of first-quarter earnings reports. Apple, Microsoft, Amazon.com, Facebook and Google-parent Alphabet are very different businesses, but to one degree or another all sell their own devices packed with processors, from smartphones to smart speakers to virtual-reality headsets. And they all run vast networks of giant data centers to deliver cloud software, e-commerce and social-networking services along with movies, TV shows and videogames. </p><p>\n  But the chip production shortage plaguing industries like autos isn't expected to register much in big tech's results for the March quarter. The five aforementioned companies are all expected to post strong double-digit growth in both revenue and operating income for the quarter relative to the same period last year, according to FactSet. In fact, the five are expected to increase revenue by an average of 29%. </p><p>\n  The clout of the world's tech giants generally puts them first in line with manufacturers of chips and other critical components. And chips like the central processors for smartphones, PCs and data centers command much higher prices than many of the chips that go into cars. As a result, chip makers give priority to production of these higher-end chips. </p><p>\n  Still, with the chip production shortage now expected to last into next year, big tech's risk of exposure remains. That is particularly the case for Apple, which derived 82% of its revenue over the last four quarters from hardware products. The company is reportedly cutting back production on some Mac and iPad lines due to the shortage. Microsoft was already dealing with sharp production constraints for its new Xbox videogame consoles in the December quarter, and those devices remain widely out of stock as of mid-April. </p><p>\n  Tech companies including Apple, Google and Amazon also design their own in-house processors for products and data centers. But those chips still require foundry capacity at manufacturers such as Taiwan Semiconductor Manufacturing and Samsung. Intel is getting into the foundry game as well, with plans to build two new chip fabrication facilities in Arizona dedicated to the effort. But new chip fabs take two to three years to build. TSMC said in its own first-quarter report Thursday that some of its major new facilities won't be up and running until 2023, leaving Chief Executive C.C. Wei to predict that \"this year and next year, I still expect the capacity tightening will continue.\" That's a long time for the world's tech titans to float above the fray. </p><p></p>",
+  "published": "2021-04-17T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 333,
+          "end": 338
+        },
+        {
+          "start": 1658,
+          "end": 1663
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 2060,
+          "end": 2065
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

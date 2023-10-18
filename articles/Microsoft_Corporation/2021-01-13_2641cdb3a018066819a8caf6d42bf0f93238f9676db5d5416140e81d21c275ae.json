@@ -1,0 +1,42 @@
+{
+  "_id": "2641cdb3a018066819a8caf6d42bf0f93238f9676db5d5416140e81d21c275ae",
+  "feed": "wall-street-journal",
+  "title": "SolarWinds Hackers' Attack on Email Security Company Raises New Red Flags; Customers of Mimecast were targeted in cyberattack, showing the multiple layers of potential victims at risk in massive hack",
+  "text": "<p>The Mimecast hackers used tools and techniques that link them to the hackers who broke into Austin, Texas-based SolarWinds Corp., according to people familiar with the investigation. The link to the SolarWinds hackers was reported earlier by Reuters.</p><p>U.S. government officials have blamed Russia for the SolarWinds attack. Moscow has denied involvement.</p><p>The SolarWinds Hack</p><p>* SolarWinds Discloses Earlier Evidence of Hack</p><p>* Trump Administration Says Russia Likely Behind Attack</p><p>* Hack Breached Justice Department System</p><p>Most of the companies and government agencies identified as victims to date were compromised via a piece of network management software called Orion that belongs to SolarWinds. But the Mimecast case, in which the vendor's customers became targets, highlights that not all victims had to be SolarWinds users themselves to be targeted.</p><p>Lexington, Mass.-based Mimecast said the hack potentially affected 10% of its users, or about 4,000 customers. The company added that likely only a low single-digit number of victims were targeted. Mimecast markets its services as helping customers protect themselves from ransomware attacks attempted via email attachments and providing other protections for sensitive business information.</p><p>The hackers may have gained access to Mimecast itself without the SolarWinds software. The email service provider once was a SolarWinds customer, but no longer uses its Orion network management software, according to a person familiar with the matter. The company hasn't determined how it was breached and if its earlier use of SolarWinds software enabled the hackers.</p><p>It is the latest twist in a wide-ranging hack whose breadth and sophistication has alarmed security experts and government agencies.</p><p>\"This is a massive concerted attack against a number of targets,\" said Glenn Chisholm, chief executive with Obsidian Security Inc., a security company that is investigating some of the intrusions.</p><p>Last week, the Department of Homeland Security warned that the SolarWinds hackers were using a variety of techniques aside from the compromised Orion software to break into their victims' companies, including guessing passwords and taking advantage of administrative credentials to systems that hadn't been properly secured.</p><p>The hackers also compromised at least one reseller of Microsoft's cloud-based computing services and tried to use that as a way of gaining access to emails belonging to the cybersecurity vendor CrowdStrike Inc. That attempt was unsuccessful, CrowdStrike has said.</p><p>With Mimecast digital certificates in hand, the hackers would likely be able to read email or other sensitive information stored on the Microsoft Exchange servers, Mr. Chisholm said.</p><p>In the SolarWinds break-in, the hackers created a malicious software update that was then shipped to customers and used to break into potentially hundreds of other companies.</p><p>SolarWinds says that about 18,000 of its customers ended up downloading malicious software, which was snuck into unsuspecting networks as an update to Orion.</p><p>SolarWinds this week said it found evidence the attack on its systems began at least a month earlier than first disclosed.</p><p>Mimecast learned of the hack from Microsoft, which has been investigating the SolarWinds breach, and which earlier disclosed that its internal software source code had been accessed by these hackers. Another security company, FireEye Inc was also compromised by the hackers.</p><p>A Microsoft Corp. spokeswoman said that the Mimecast certificate was obtained by a \"sophisticated actor.\" Microsoft 365 users who don't use Mimecast are unaffected by the incident, she said.</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p>",
+  "published": "2021-01-13T03:59:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 3207,
+          "end": 3216
+        },
+        {
+          "start": 2324,
+          "end": 2333
+        },
+        {
+          "start": 3450,
+          "end": 3464
+        },
+        {
+          "start": 3554,
+          "end": 3563
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.61,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.3900001,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

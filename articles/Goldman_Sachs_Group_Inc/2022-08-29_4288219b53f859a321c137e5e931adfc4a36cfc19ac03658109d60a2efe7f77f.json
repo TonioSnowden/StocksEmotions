@@ -1,0 +1,38 @@
+{
+  "_id": "4288219b53f859a321c137e5e931adfc4a36cfc19ac03658109d60a2efe7f77f",
+  "feed": "ftcomall",
+  "title": "BlackRock/ESG: game of Texas scold ‘em awards victimhood to both sides",
+  "text": "<p>It is a case of virtue signals crossed. The State of Texas recently published a “blacklist” of investment companies. It accuses them of boycotting the fossil fuel industry via policies with environmental, social and governance aims. Texas public bodies, notably pension funds, could divest their shares in nine listed European investment firms as well BlackRock</p> <p>Welcome to the world of ethical double think. The $10tn asset manager is emblematic of this. It is the favourite punch bag of sceptics and zealots of the ESG cause.</p> <p>Target investment groups have two ripostes. The first, that boycotts are counterproductive, is implicit self-criticism. The second is that values-driven investing is economically rational. Climate change, for example, is an inexorable trend that is creating investment opportunities. </p> <p>As for legacy oil and gas companies, they are furiously positioning themselves for clean energy transition — even if current cash flow comes from dirty origins.</p> <p>The Texas blacklist appears largely symbolic. The state may sell modest equity stakes in the managers itself. But its more meaningful investments are in funds run by them. These would remain unaffected. </p> <p>This manufactured dust-up may leave each side happy with their own selective victimhood.</p> <p>Previously, West Virginia banned five Wall Street lenders from state contracts accusing the likes of JPMorgan and Goldman Sachs of engaging in a “boycott of energy companies”. Several institutions sent letters quantifying the millions still committed to fossil fuel.</p> <p>Banks have taken a genuinely hard line with firearms makers. Another Texas law forced such institutions out of underwriting municipal bonds in the gun-loving Lone Star State. </p> <p><a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123366\">Academic research study</a> shows Texas, by relying on a smaller group of banks, could still pay perhaps $500mn of additional interest on $32bn in municipal debt issuance. Social conservatism thus happily cohabits with financial flexibility. Wall Street, always ahead, rarely lets any value surpass that of the dollar.</p><p>Source:  2022 'BlackRock/ESG: game of Texas scold ‘em awards victimhood to both sides' FT.com 29 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-29T17:18:48.668Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1362,
+          "end": 1375
+        },
+        {
+          "start": 1378,
+          "end": 1385
+        },
+        {
+          "start": 1378,
+          "end": 1391
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000024,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.3841858e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

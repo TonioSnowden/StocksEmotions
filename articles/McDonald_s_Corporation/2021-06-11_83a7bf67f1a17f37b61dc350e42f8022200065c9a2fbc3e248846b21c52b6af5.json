@@ -1,0 +1,36 @@
+{
+  "_id": "83a7bf67f1a17f37b61dc350e42f8022200065c9a2fbc3e248846b21c52b6af5",
+  "feed": "ftcomall",
+  "title": "McDonald's says breach exposed customer data in South Korea and Taiwan",
+  "text": "<p>McDonald's has reported a data breach that exposed some personal information from customers in South Korea and Taiwan, the latest instance of a global company being targeted by a hack. </p> <p>The Chicago-based burger chain said on Friday that it was quickly able to identify and contain “recent unauthorised activity” on its network. </p> <p>An investigation found “that a small number of files were accessed, some of which contained personal data”, the company said, adding that customer information was only accessed in South Korea and Taiwan. </p> <p>McDonald's said additional steps would be taken in a few other markets to address files that contained information about its employees. No payment information was contained in the files that were accessed, the company added, saying it would notify regulators and customers affected by the breach. </p> <p>The McDonald's breach comes amid a string of high-profile cyber attacks targeting companies in recent weeks. JBS, the world's largest meat processor, had its global operations hit by an <a href=\"https://www.ft.com/content/719a5e07-c8fa-45bb-8ce0-5af163c8f838\">attack</a> targeting the company's IT systems, weeks after the Colonial Pipeline, a major US fuel pipeline, had to be shut down following a separate hacking incident.</p> <p>Both the JBS and Colonial attacks involved the use of ransomware, in which hackers seize control of a target's computer systems or data by installing illicit software and demand payment for the release of the assets. </p> <p>JBS said it paid $11m to resolve the attack, while US officials this week said <a href=\"https://www.ft.com/content/43dab2dc-a7aa-4102-9779-d1b6ced2985b\">they recovered $2.3m</a> worth of cryptocurrency paid as ransom to hackers who shut down the Colonial Pipeline. </p> <p>The Colonial Pipeline incident highlighted the vulnerability of US infrastructure to cyber attacks and the Biden administration has vowed to crack down on ransomware hackers, who have taken advantage of the rise of cryptocurrencies to facilitate their operations.</p> <p>The McDonald's breach was not a ransomware attack. It exposed some business and contact information of employees and franchisees in the US, as well as some data on restaurants themselves, including seating capacity, according to the Wall Street Journal, which first reported the news. </p> <p>The company said it “will leverage the findings from the investigation as well as input from security resources to identify ways to further enhance our existing security measures.”</p> <p>McDonald's shares were up almost 1 per cent in New York trading on Friday to $236.39. </p><p>Source: Mamta Badkar and Andrew Edgecliffe-Johnson in New York 2021 'McDonald's says breach exposed customer data in South Korea and Taiwan' FT.com 11 June. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-06-11T14:53:13.427Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "name": "McDonald's Corporation",
+      "offsets": [
+        {
+          "start": 531,
+          "end": 541
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 832,
+          "end": 842
+        },
+        {
+          "start": 2311,
+          "end": 2321
+        },
+        {
+          "start": 1849,
+          "end": 1859
+        }
+      ],
+      "nexusId": "10050164"
+    }
+  ]
+}

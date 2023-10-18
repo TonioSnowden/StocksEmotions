@@ -1,0 +1,24 @@
+{
+  "_id": "3ebb5d2b3a263ad8bcbc72050916d3c5bebcbc1c58d56aac4e7b49f5d4b171fc",
+  "feed": "wall-street-journal",
+  "title": "Pro Take: Altera Bankruptcy Plan Spotlights Insider Probes; A bankruptcy judge is expected to weigh whether Altera's investigation into its owner Brookfield is enough",
+  "text": "<p>Funding for the proposed plan would also come from Brookfield, which has offered a $50 million bankruptcy loan to keep the business afloat. Such insider debts are always scrutinized in bankruptcy, but especially so for Altera.</p><p>Its chapter 11 case has centered on how bankruptcy courts should evaluate disputed transactions between a troubled company and its controlling investor, and on how to satisfy creditors' demands for an accounting while still saving the business.</p><p>Brookfield is in a position to bankroll the restructuring after a controversial debt exchange last year in which it swapped $699 million in unsecured bonds it held for an equivalent amount of secured debt. That effectively subordinated $276 million in similar claims held by BlackRock Financial Management, Capital Group and other creditors that elected not to participate in the exchange.</p><p>The chapter 11 plan nearly wipes out those bondholders, offering them only warrants for a minority stake in Altera. As it neared chapter 11 this year, the company decided to hire independent directors to review the debt exchange who found no viable causes of action against Brookfield. Altera has said that further investigation into its dealings with Brookfield, or the possible impact on its creditors, isn't needed.</p><p>\"The question has been asked and the question has been answered,\" Altera lawyer Joshua Sussberg said at a court hearing in August.</p><p>Unsecured creditors don't agree, saying that an outside probe is needed to determine whether Brookfield made off with value it doesn't deserve. So Altera is headed toward a contested hearing on its bankruptcy loan, which includes a broad release of liability for Brookfield in connection with the disputed exchange.</p><p>Brookfield is requiring that its proposed loan won't be used to fund \"a second investigation and the pursuit of claims against Brookfield that have already been determined by independent fiduciaries to be meritless,\" according to its court papers. At the same time, Altera has said it needs the funding urgently.</p><p>That raises a question that goes beyond Altera's case, according to Judge David Jones of the U.S. Bankruptcy Court in Houston. At a hearing Thursday, he wondered what a court should do when a business needs funding, but can only borrow from an insider, and the price of such funding is to grant a release from liability.</p><p>\"This is a big picture question,\" the judge said. \"What should a court do? Because we know there are instances in which there are those emergencies.\"</p><p>Altera has said the exchange was open to other bondholders to participate on an equal footing with Brookfield. None did, objecting to certain provisions in the deal terms.</p><p>Before considering the loan from Brookfield, Judge Jones is expected to consider the adequacy of the company's investigation. Such probes into insider dealings can hold significant sway in court, although the independence of the managers who conduct them is a matter of dispute among bankruptcy scholars and practitioners.</p><p>Judge Jones may add his voice to that debate.</p><p>Write to Andrew Scurria at Andrew.Scurria@wsj.com</p>",
+  "published": "2022-09-01T23:05:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 11
+    }
+  ]
+}

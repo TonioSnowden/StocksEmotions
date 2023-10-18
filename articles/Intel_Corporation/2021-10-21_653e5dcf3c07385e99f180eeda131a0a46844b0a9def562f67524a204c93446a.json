@@ -1,0 +1,52 @@
+{
+  "_id": "653e5dcf3c07385e99f180eeda131a0a46844b0a9def562f67524a204c93446a",
+  "feed": "wall-street-journal",
+  "title": "Chip Shortage Expected to Weigh on Intel's Quarterly Results; Earnings expected to come in flat as shortage eats into potential sales",
+  "text": "<p>Intel, which powers many personal computers, is expected to post $19.2 billion in third-quarter sales Thursday after the bell, roughly flat from the year-ago period, generating net income of $4.33 billion, according to analysts surveyed by FactSet.</p><p>The chip giant's top line has been held back, in part, by the dent in PC shipments, Morgan Stanley analysts said in a note.</p><p>\"While we would argue that PC demand remains reasonably solid thus far, supply constraints caused by other components (primarily power management chips) have held back the overall business,\" they wrote.</p><p>The lag between a company ordering a chip and its delivery has soared to an average of 22 weeks, said Susquehanna analyst Christopher Rolland, adding that the duration is the longest since he started tracking the data in 2013.</p><p>Mr. Gelsinger last month pledged to invest up to $95 billion in new chip production capacity in Europe, adding to more than $20 billion in U.S. factory investments he detailed earlier as Intel tries to cater to increased demand for semiconductors and become a leading contract chip maker. Taiwan Semiconductor Manufacturing Co., the world's leading contract chip maker, this month said it would build a new chip-manufacturing plant in Japan, and Samsung Electronics Co. and memory-chip maker Micron Technology Inc. are among others with expansion plans.</p><p>But new chip factories take time to build. Mr. Gelsinger has said he thinks the global chip shortage could last into 2023.</p><p>To provide some near-term relief, Mr. Gelsinger has said Intel is working with auto makers that have been particularly hard hit by the shortage. The company, he said, would dedicate manufacturing capacity at one of its factories in Ireland to the auto-chip sector and is creating a chip-design team to help others adapt their designs to be able to utilize Intel's manufacturing capabilities.</p><p>The Intel boss, in the job since February, also is pushing to revive the company's competitive edge after years of missteps. He laid out a plan in July for Intel to introduce at least one new, more advanced central processing unit—the brain of the modern computer—every year going forward until 2025.</p><p>The path isn't without challenges, though. In June, Intel delayed the planned introduction of a new server chip to add features.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>Chip Shortage Expected to Weigh on Intel's Quarterly Results</p>",
+  "published": "2021-10-21T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1876,
+          "end": 1881
+        },
+        {
+          "start": 2028,
+          "end": 2033
+        },
+        {
+          "start": 1537,
+          "end": 1542
+        },
+        {
+          "start": 2225,
+          "end": 2230
+        },
+        {
+          "start": 2391,
+          "end": 2396
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 990,
+          "end": 995
+        },
+        {
+          "start": 1836,
+          "end": 1841
+        },
+        {
+          "start": 35,
+          "end": 40
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "ef87738901710229528c857c625f1cdf59792959553a9417abcab1a11fde7cc2",
+  "feed": "market-watch",
+  "title": "Exclusive: The cloud boom isn't over yet, Harris Poll suggests",
+  "text": "<p>More than nine out of 10 corporate decision-makers (92%) expect an accelerated acceptance of cloud tech, especially hybrid and multicloud offerings, over the next few years, according to a first-time Harris Poll of more than 500 business decision-makers and IT pros that was commissioned by Microsoft Corp. MSFT and released Thursday. It was shared exclusively with MarketWatch ahead of the release.</p><p>Roughly two in three executives, 65%, said their use of hybrid-cloud technology increased significantly over the course of the pandemic, and 60% said the same about multicloud. Those numbers are expected to jump to 72% and 67%, respectively, over the next two years, according to the Harris Poll. Nearly all respondents (97%) said they need to be able to adopt cloud technology in some areas of their business.</p><p>Business were already moving their computing power onto the cloud en masse before the COVID-19 pandemic began. But the need for remote power increased significantly as workers moved the office to home. While investors have been concerned that years of growth were pulled forward and could lead to lesser growth in the future, these results suggest the move toward hybrid-cloud and multicloud solutions could give more legs to the boom.</p><p>The polling numbers underscore a shift in how companies and government agencies think strategically and how they leverage multicloud and hybrid for the foreseeable future, Microsoft's Erin Chapple, corporate vice president of Azure Core, told MarketWatch.</p><p>“Customers need flexibility and choice,” added Chapple, who calls the survey an “independent validation of what we are seeing in the field.”</p><p>A shift to what is known as a multi-cloud approach, handling the cloud-computing needs of enterprises and government agencies, has only accelerated since the pandemic, upturning a multibillion-dollar market as more industries become dependent on-premises data management, Gartner analyst Sid Nag said.</p><p>Consider competition over the Joint Warfighting Cloud Capability (JWCC), a multibillion-dollar Defense Department contract expected to be parceled to Microsoft, Amazon.com Inc. AMZN, Alphabet Inc.'s GOOGLGOOG Google and Oracle Corp. ORCL sometime in April. Its predecessor, the now-canceled&#xa0;Joint Enterprise Defense Infrastructure (JEDI), went to just Microsoft amid legal and PR jousting.</p><p>Read more: Why Amazon and Microsoft won't have a stranglehold on cloud computing forever</p><p>In the corporate world, Nokia Corp. FI:NOKIA, Wells Fargo &amp; Co. WFC, Royal Bank of Canada RY and KPMG International Ltd. are among those who have amped up strategic investment in multicloud offerings to support Microsoft's Azure, Amazon's AWS and Google Cloud Platform.</p><p>Nokia engineers previously entered data in spreadsheets and other manual methods for analytics. Now, they increasingly are operating in multicloud and hybrid environments to handle large amounts of data.</p><p>“Given the massive increase in network capacity and size, that wasn't sustainableanymore,” Paolo Tornaghi, who leads the technology and architecture team inNokia's cloud and cognitive services division, said in a blog post. “We needed applications that are scalable for customers.”</p>",
+  "published": "2022-01-27T13:10:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 291,
+          "end": 300
+        },
+        {
+          "start": 1419,
+          "end": 1430
+        },
+        {
+          "start": 2298,
+          "end": 2307
+        },
+        {
+          "start": 2362,
+          "end": 2371
+        },
+        {
+          "start": 291,
+          "end": 306
+        },
+        {
+          "start": 2096,
+          "end": 2105
+        },
+        {
+          "start": 2636,
+          "end": 2647
+        },
+        {
+          "start": 1419,
+          "end": 1428
+        },
+        {
+          "start": 2636,
+          "end": 2645
+        }
+      ]
+    }
+  ]
+}

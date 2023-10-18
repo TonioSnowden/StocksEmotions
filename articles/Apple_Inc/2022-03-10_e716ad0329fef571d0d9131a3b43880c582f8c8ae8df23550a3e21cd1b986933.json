@@ -1,0 +1,48 @@
+{
+  "_id": "e716ad0329fef571d0d9131a3b43880c582f8c8ae8df23550a3e21cd1b986933",
+  "feed": "ftcomall",
+  "title": "Big Tech raises its bets on chips",
+  "text": "<p>Steve Jobs died more than a decade ago, but his genius still pervades the tech industry. Forget the technology: the Apple co-founder taught other executives that, whatever was going on inside the casing of a smartphone or under the hood of a computer, the only thing that mattered to consumers were products and experiences that he liked to call “magical”.</p> <p>So it has come as something of a surprise to see Apple give such prominence at its recent events to the technical performance of its in-house chips. The company first came up with its own processor design for the original iPad more than a decade ago, but its silicon prowess has really come to the fore since 2020, when it began replacing Intel processors in the Mac with its M1 chips.</p> <p>Since then, it has delivered performance gains that have blown away the competition. Two larger versions of the M1 followed, before Apple <a href=\"https://www.ft.com/content/56c6d96c-65cf-4d72-9e34-5e58a1416bb6\">this week</a> yoked together two of its biggest M1 chips to power a new, pricey workstation aimed at video-editing professionals.</p> <p>Chip specifications make the average consumer's eyes glaze over, but the processors now designed in-house have become central to the ambitions of the biggest tech companies. These include Google's AI processors, known as TPUs, and Amazon Web Services' Graviton data centre chips. Given the scale at which companies like these operate, their in-house chips could foreshadow a wider industry realignment.</p> <p>One explanation for the new focus on in-house designs is the volume of chips the biggest tech companies consume. Another is that, for the most demanding applications, even small improvements in the price/performance equation can yield big gains. Google's TPUs, developed to handle data-intensive machine learning, have become the king of ASICs — chips designed for a specific task. In a similar way, Tesla's heavy investment in its AI chips could one day give it an edge in self-driving cars.</p> <p>The chip industry's complex supply chain has evolved to make it easier for companies like these to step in. For Apple, that means using designs from Arm as the basic building blocks for its chips, while at the other end of the process tapping into TSMC's most advanced production lines to turn out processors with world-leading specs. </p> <p>It is the ability to integrate chip design into their wider technology development plans that gives the big tech companies their biggest advantage — while posing the biggest challenge to traditional chipmakers.</p> <p>The integration can take many forms. AWS is able to bring new chips from its Annapurna design labs into production immediately they are finalised. Apple says all its applications runs faster on its own chips, as it tunes the software and silicon to work together.</p> <p>Google recently gave a glimpse into the many advantages that come from in-house chip design, spelling out<a href=\"https://www.gwern.net/docs/ai/2021-jouppi.pdf\"> 10 lessons</a> it has learnt from building its TPUs since 2015. These range from the economic (it's the total cost of a system, not just the chips, that matters) to the highly technical (chips can be optimised for the latest techniques in neural network design).</p> <p>With fewer gains to be made from simply shrinking chip feature sizes, according to Google's researchers, the best hope of producing new leaps forward in speed and performance lies in the co-design of hardware, software and neural networks — something that plays to the strength of companies that do all these things under one roof.</p> <p>Until now, much of the chip industry's attention has been on CPUs, or central processing units, accelerating the penetration of Arm designs into markets that have long been the preserve of Intel's X86 architecture.</p> <p>Next to feel the heat could be Nvidia, which has become the world's most valuable chip company thanks to its graphics processing units — first developed for video gaming but now widely used in “accelerated computing” applications like machine learning. Apple this week compared its latest M1 chips favourably to Nvidia's state of the art GPUs, or graphics processing units. AWS also recently claimed big performance gains over Nvidia with the second generation of its Trainium chip.</p> <p>Ultimately, the acid test will be the extent to which new chips like these carry the big tech companies into new markets. For Apple, that could include self-driving cars and headsets for virtual and augmented reality. These are products that will require a big leap in processing power. But if the spirit of Steve Jobs is still alive in Apple's HQ, then when the day finally comes to show them off to the world, the chips will be the last thing on anyone's mind.</p> <p><em>richard.waters@ft.com</em></p><p>Source: Richard Waters 2022 'Big Tech raises its bets on chips' FT.com 10 March. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-03-10T14:02:55.784Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2015,
+          "end": 2020
+        },
+        {
+          "start": 116,
+          "end": 121
+        },
+        {
+          "start": 3878,
+          "end": 3883
+        },
+        {
+          "start": 4445,
+          "end": 4450
+        },
+        {
+          "start": 4234,
+          "end": 4239
+        },
+        {
+          "start": 406,
+          "end": 411
+        },
+        {
+          "start": 2596,
+          "end": 2601
+        },
+        {
+          "start": 875,
+          "end": 880
+        }
+      ]
+    }
+  ]
+}

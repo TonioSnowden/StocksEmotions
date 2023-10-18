@@ -1,0 +1,38 @@
+{
+  "_id": "e3700fc9d155b40f9f8d311224bda6b00c088bf3e5fb76cc0f4b4619af225f78",
+  "feed": "wall-street-journal",
+  "title": "Biden Student Debt Plan Would Send More to Richer Families, JPMorgan Data Shows; Black and Hispanic borrowers would see biggest reductions in debt burdens, the bank's in-house think tank found",
+  "text": "<p>The White House has said that nearly 90% of relief dollars would go to individuals earning less than $75,000 a year.</p><p>Yet Institute researchers found households making over $76,000 would get nearly half of the $549 billion in total relief, with the wealthiest households, those making over $116,000, getting the largest total chunk.</p><p>SHARE YOUR THOUGHTS</p><p>What do you see as the pros and cons of student loan forgiveness? Join the conversation below.</p><p>The Institute looked at total household income because the bank's data suggested the vast majority of wealthier households with student debt were dual-filers. It said counting every borrower as a single individual would show more money going to lower-income brackets.</p><p>Still, some 67% of the poorest borrowers would see their student loans erased entirely because they tend to carry less debt relative to their wealthier peers, the Institute found.</p><p>\"A number of independent analyses—including from the Penn Wharton Budget Model and Goldman Sachs—have broadly agreed that our debt relief plan is targeted to lower- and middle-income people,\" a White House spokesman said.</p><p>JPMorgan's in-house think tank has a near-unparalleled view into the financial health of U.S. households because it has access to the bank's data on customer income, spending and debts. Yet the bank's customers skew wealthier, which means lower-income households could be undercounted in its data.</p><p>After the 2020 election, the Biden administration had asked the Institute to use its data to examine who would benefit from various student-loan forgiveness plans being discussed, The Wall Street Journal has reported. The Institute's research indicated that setting an income cap would lead to a more progressive outcome, where poorer and minority families benefited more.</p><p>Institute researchers found that, under the announced plan, Black borrowers would have the most debt canceled—on average, $11,258—while Hispanics would see their debts reduced by $9,516 and whites by $8,964. More than half of Blacks and more than 60% of Hispanics would have their student debt fully canceled.</p><p>Write to David Benoit at David.Benoit@wsj.com</p><p>Biden Student Debt Plan Would Send More to Richer Families, JPMorgan Data Shows</p>",
+  "published": "2022-09-02T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 60,
+          "end": 68
+        },
+        {
+          "start": 1109,
+          "end": 1117
+        },
+        {
+          "start": 1117,
+          "end": 1125
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.7086873,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7086874,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

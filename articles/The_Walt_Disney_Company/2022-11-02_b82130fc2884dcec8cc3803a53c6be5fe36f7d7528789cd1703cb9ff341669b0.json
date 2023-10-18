@@ -1,0 +1,30 @@
+{
+  "_id": "b82130fc2884dcec8cc3803a53c6be5fe36f7d7528789cd1703cb9ff341669b0",
+  "feed": "reuters",
+  "title": "China COVID curbs exact wider business toll on Yum, EV maker Nio",
+  "text": "<p>China is fighting its largest outbreak since the summer as cases erupt across several major cities, forcing millions of residents to be ordered to stay home or go to centralised quarantine facilities under the country's strict zero COVID-19 policy.</p><p>Yum China , operator of the KFC and Pizza Hut chains, said on Wednesday that 1,400 of its roughly 12,400 stores in the country were temporarily closed or had to provide limited services in October due to COVID-19, up from 900 stores in September and 400 on average in July and August.</p><p>\"Nationwide, consumers are travelling less and reducing expenditures,\" the company said in its quarterly earnings report. \"The COVID situations remain uncertain with regional outbreaks continuing to impact our operations.\"</p><p>For Tuesday, China reported 2,755 new local cases, the most since mid-August.</p><p>On Wednesday, shares in Nio , China's 13th-largest electric vehicle maker by sales, tumbled after it confirmed media reports that it stopped production at its two plants after struggling to cope with curbs imposed through October that saw various parts of Hefei locked down.</p><p>\"Our production base was severely impacted by the pandemic in October and so deliveries to a proportion of users was delayed. For this we apologise,\" Nio said in a statement on Tuesday that showed a 7.5% fall in October deliveries from the month before.</p><p>'IS THERE ANYONE UNLUCKIER?'</p><p>While China's zero COVID-19 policy is increasingly out of step with the rest of the world, it has vowed to stay the course in the face of mounting public and business frustration by reacting to even a single case with lockdowns and mass testing.</p><p>More than 80% of major Chinese cities reported cases last month, with the spread fuelled by holiday travel and new subvariants, according to research house Gavekal Dragonomics .</p><p>\"On some measures China's current COVID situation is about as bad as it has ever been,\" Capital Economics wrote in a Tuesday note, adding that while there is little sign of major industrial disruption, the risk of getting quarantine is depressing consumer activity.</p><p>\"And there's little prospect of a lasting change as long as zero-COVID remains the national goal,\" it said.</p><p>The European Union Chamber of Commerce in China told Reuters that China's lack of a clear exit strategy from the policy meant that the threat of lockdowns remained ever-present and a key source of uncertainty.</p><p>\"I am currently in home quarantine for seven days, while the European Chamber's Beijing office has a colleague stuck in Tianjin who, like many others currently, is finding it near impossible to travel back to the capital,\" its head, Joerg Wuttke , told Reuters this week.</p><p>In Shanghai, the fall-out from the shuttering of the city's Disney Resort after the visit of a single COVID-positive case continued, with affected residents going online to share notices they had received after they or someone they were in recent contact with had visited the park.</p><p>While some said on social media platforms such as Douyin and Xiaohngshu that they were sent to quarantine hotels, others said they were sent to sparsely furnished isolation rooms created from shipping containers.</p><p>\"Is there anyone unluckier than me?\" said Xiaohongshu user \"sanmingliu\", who posted photos of her shipping container room.</p><p>Reuters was unable to verify the authenticity of the posts.</p><p>Shanghai said on Tuesday it had tested 439,000 people in relation to the Disney resort situation. On Wednesday, it reported finding one locally transmitted case the day before.</p>",
+  "published": "2022-11-02T09:03:42.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9993588,
+      "offsets": [
+        {
+          "start": 3424,
+          "end": 3430
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

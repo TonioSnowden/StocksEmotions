@@ -1,0 +1,30 @@
+{
+  "_id": "2d9d0ce0a5886196b9e2d0fb9ddea5ec6d400a495c5435ba01cfb80f35ee52f6",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Investors settled into a sense of unease ahead of Friday's jobs report, with many now convinced the Fed will keep tightening monetary policy no matter what the economic data show.</p><p>---</p><p>The S&amp;P 500 and Dow edged up 0.3% and 0.5%, respectively, while the Nasdaq slipped 0.3%. Oil extended a streak of declines and bond yields hit their highest levels since June.</p><p>---</p><p>An administrative law judge ruled in favor of Illumina in its $7.1 billion acquisition of Grail, Illumina said, dealing a defeat to the FTC's efforts to unwind the transaction on antitrust grounds.</p><p>---</p><p>The U.K.'s competition authority said Microsoft's planned acquisition of Activision Blizzard could harm their rivals and newcomers to the videogame industry.</p><p>---</p><p>Chinese cities tightened measures to halt Covid-19 flare-ups, threatening further damage to the country's embattled economy.</p><p>---</p><p>The chairman of Lukoil died after falling from a hospital window in Moscow, according to Russian state media agency TASS.</p><p>---</p><p>A federal labor official has concluded that a union victory by labor organizers at an Amazon facility in New York should be upheld.</p>",
+  "published": "2022-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 604,
+          "end": 613
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0047518,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0047518015,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

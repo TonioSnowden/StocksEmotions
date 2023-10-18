@@ -1,0 +1,78 @@
+{
+  "_id": "0b52688a6da38255e7d9f5caf51c845e68d43ca35ca94180848d426c47d116a6",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Apple Staff  Petition to  Ease Rules  On Return  To Office  ----  By Alyssa Lukpat",
+  "text": "<p>   A group of Apple Inc. staffers is petitioning for a more flexible working environment after the tech giant recently told employees they will need to be in the office at least three days a week. </p><p>   The group, AppleTogether, said it represents current Apple workers. It wrote a petition following Apple's announcement that employees must work from the office for three days a week starting next month. </p><p>   In the petition, the group asked the company to let employees decide their own work arrangements with their managers. The group said it didn't want workers to have to provide private information or to ask for higher-level approvals to secure their chosen arrangements. </p><p>   The employees who want more flexible work arrangements had compelling reasons, the petition said, including disabilities, health concerns and the fact that some of them are happier and more productive in flexible work environments. </p><p>   \"For the past 2+ years, Apple's formerly office-based employees have performed exceptional work, flexibly, both outside and inside traditional office environments,\" the petition said. </p><p>   Apple's most recent quarterly results were better than expected despite high inflation and other economic pressures. Although its profits slid almost 11%, the company reported last month that its iPhone sales continued to grow, showing that Apple has remained resilient. </p><p>   The petition had more than 270 signatures as of Monday afternoon. It couldn't be determined how many of the signers were Apple employees. </p><p>   The signatures represented only a fraction of Apple's global workforce. The tech giant, which is based in Cupertino, Calif., has more than 165,000 employees, according to Apple's website. </p><p>   The company and AppleTogether didn't return requests for comment Monday. </p><p>   Like many companies, Apple pushed back its return-to-office date several times during the pandemic as the Covid-19 virus spawned more contagious variants. Apple was one of the first U.S. companies to send its workers home in 2020 as the virus began to spread. </p><p>   As Covid-19 cases dropped in the U.S. after the winter surge, some companies urged employees to return to the office. But companies have struggled to lure workers back, even with the promise of hybrid schedules or elaborate free meals. </p><p>    Tsedal Neeley, a professor at Harvard Business School, said that Apple, like other companies, has had to reinvent its office culture, which it invested so heavily in when it opened its multibillion-dollar headquarters in 2017. \"It was an investment centered on the abiding faith that physical presence and having people around is part of their secret sauce,\" she said, \"and Covid debunked that perspective.\" </p><p>   Dr. Neeley, who has advised companies on remote and hybrid work, said that employees across the workforce often push back on policies that require them to go to the office for a certain number of days a week. </p><p>   Instead, she said, it is often more effective when companies ask their employees to come in for certain activities that benefit from in-person collaboration. </p><p>   Tech companies have taken varied approaches to their return-to-office policies. Some, including Alphabet Inc.'s Google and Microsoft Corp., have told employees in recent months to work from the office for at least part of the week. </p><p></p>",
+  "published": "2022-08-23T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 21
+        },
+        {
+          "start": 12,
+          "end": 17
+        },
+        {
+          "start": 246,
+          "end": 251
+        },
+        {
+          "start": 247,
+          "end": 252
+        },
+        {
+          "start": 290,
+          "end": 295
+        },
+        {
+          "start": 1075,
+          "end": 1080
+        },
+        {
+          "start": 1315,
+          "end": 1320
+        },
+        {
+          "start": 1464,
+          "end": 1469
+        },
+        {
+          "start": 1526,
+          "end": 1531
+        },
+        {
+          "start": 1650,
+          "end": 1655
+        },
+        {
+          "start": 1759,
+          "end": 1764
+        },
+        {
+          "start": 1892,
+          "end": 1897
+        },
+        {
+          "start": 2295,
+          "end": 2300
+        }
+      ],
+      "weightsV2": {
+        "weight": 18.945055,
+        "baseWeight": 13.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.94505537,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

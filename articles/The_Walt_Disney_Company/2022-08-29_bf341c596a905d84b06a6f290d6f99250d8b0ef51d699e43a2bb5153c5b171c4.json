@@ -1,0 +1,62 @@
+{
+  "_id": "bf341c596a905d84b06a6f290d6f99250d8b0ef51d699e43a2bb5153c5b171c4",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Disney Wins One After Losing One in India Cricket Bidding Wars  ----  By Jennifer Hiller",
+  "text": "<p>    Walt Disney Co. has secured a deal to air four years of global cricket events to its subscribers in India, after losing broadcast rights earlier this year for a popular Indian cricket league. </p><p>   Disney Star, the company's international streaming brand, won the deal for Indian TV and digital rights for men's and women's global International Cricket Council events through the end of 2027, the ICC said Saturday. </p><p>   Financial terms weren't disclosed, but the single-round, sealed-bid process \"yielded a significant uplift to the rights fee from the previous cycle,\" the ICC said. The tender, bidding and evaluation process started in June. The ICC is cricket's world governing body. </p><p>   In June, Disney lost five years of the streaming rights for the Indian Premier League, the nation's most popular cricket league, which features shorter, more TV-friendly matches than other competitions. The winning bid of $2.6 billion for IPL came from Viacom18, a joint venture between Paramount Global, Indian billionaire Mukesh Ambani's Reliance Industries Ltd. and others. </p><p>   Disney this month lowered its forecast for future user growth of streaming platform Disney+, partly because it missed out on the rights to stream the Indian Premier League. </p><p>    Cricket broadcasts are a major lure for India's sizable population of potential streaming subscribers, and entertainment streaming companies like Disney are under pressure to add customers beyond the U.S. as growth has slowed domestically. The company has said cricket matches are an important driver of international subscriptions. </p><p>   K Madhavan, Disney Star's India country manager and president, said in a statement that with the acquisition, \"Disney Star has further strengthened its status as the premier destination for marquee cricket events in the country.\" </p><p></p>",
+  "published": "2022-08-29T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999966,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 681,
+          "end": 687
+        },
+        {
+          "start": 686,
+          "end": 692
+        },
+        {
+          "start": 1047,
+          "end": 1053
+        },
+        {
+          "start": 1131,
+          "end": 1138
+        },
+        {
+          "start": 1138,
+          "end": 1145
+        },
+        {
+          "start": 1365,
+          "end": 1371
+        },
+        {
+          "start": 1373,
+          "end": 1379
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "fbc993a7eefb3cd81fbd82a6ad3a35ed72edadb6152fd944825d4a4d23dbdc7e",
+  "feed": "wall-street-journal",
+  "title": "Wendy's Envisions AI-Rich Apps With New Google Cloud Deal; The fast-food chain plans to use voice recognition at its drive-ins, eliminating the need to shout into the drive-through menu board, among other novelties, says CIO Kevin Vasconi",
+  "text": "<p>Kevin Vasconi, the Dublin, Ohio, company's chief information officer, said he wants to put to work a vast store of customer data gathered during the coronavirus pandemic, when many outlets began to expand ordering and pickup services, creating online apps for car-side drop-offs and home deliveries.</p><p>At the height of the pandemic last year, Wendy's saw a 15% increase in app downloads in the U.S. between July and October.</p><p>\"Let's take all the great innovation that happened during Covid and figure out the next steps,\" Mr. Vasconi said. He expects to begin rolling out new digitally-enhanced customer services in the next few months, if not sooner, he said.</p><p>That includes the use of Google's AI to enable voice-recognition software to take customer orders—at the drive-through window or by phone—and transcribe them into text for line cooks and servers. With data-rich AI applications in place, Mr. Vasconi said, \"accuracy goes way up.\" The days of shouting into drive-through menu boards and distorted order confirmations are over, he said.</p><p>Down the road, voice recognition could be used to identify customers from past orders and personalize services, like anticipating favorite meals or sodas, or making suggestions.</p><p>\"Digital transactions are data-rich,\" Mr. Vasconi said. \"It's about unlocking that customer data to be more convenient.\"</p><p>Mr. Vasconi also wants to roll out computer-vision technology, which includes video cameras with software trained to recognize objects and convert them to data that triggers specific commands—replacing the need for kitchen and counter staff to endlessly watch monitors. The technology could be used to develop a system that detects, for instance, when lines are getting long at the drive-through window, alerting line cooks to drop another basket of fries in the fryer.</p><p>The system could also be used to remind cooks when burgers should be flipped on the grill, he said. \"The ability to apply vision in the store is a game changer,\" he said.</p><p>For its part, Google Cloud gains a high-profile customer in a bid to raise its game in a booming cloud market. By market share of global infrastructure-as-a-service sales, Google's cloud unit trailed those of Amazon.com Inc., Microsoft Corp. and Alibaba Group Holding Ltd., with roughly 6.1% of the market, or $3.9 billion in revenue last year, according to estimates by Gartner Inc. That is up from 5.2% in 2019, but still far behind Microsoft's Azure at 19.7% and Amazon's reigning AWS at 40.8%.</p><p>Google's cloud sales rose 54% to $4.63 billion in the latest quarter, the company reported in July. Part of the gains stem from a focus on software, especially advanced cloud-based apps bundled with AI and machine learning. They include its business intelligence and analytics tool, an edge-computing platform for in-store apps, and BigQuery, a digital warehouse that acts as a central repository of data.</p><p>\"Restaurants' data can be spread across many systems, or data silos, that make it nearly impossible to merge data to provide aggregated insights,\" said Janet Kennedy, vice president, North America regions, for Google Cloud.</p><p>With BigQuery, she said, Wendy's will be able to consolidate data on sales, restaurants, products and customers with third-party data on weather, social media, delivery partners and other sources.</p><p>By layering over Google's own data—on search trends, maps, marketing and ads, for instance—restaurant operators can better determine how weather, say, correlates with ice cream sales in San Diego, or other product and service insights, Ms. Kennedy said.</p><p>Mr. Vasconi, who came to Wendy's in late 2020 after leading IT at Domino's Pizza Inc. for eight years, said the deeper dive into Google Cloud's AI and machine-learning capabilities is aimed at \"unleashing a whole ton of innovation.\"</p><p>He isn't ruling out the use of autonomous delivery drones, which he experimented with during his time at Domino's.</p><p>\"One of the tenets of quick service is convenience,\" he said. \"I never say never.\"</p><p>Write to Angus Loten at angus.loten@wsj.com</p><p>Wendy's Envisions AI-Rich Apps With New Google Cloud Deal</p>",
+  "published": "2021-10-12T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2417,
+          "end": 2428
+        },
+        {
+          "start": 2208,
+          "end": 2217
+        },
+        {
+          "start": 2208,
+          "end": 2223
+        },
+        {
+          "start": 2417,
+          "end": 2426
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

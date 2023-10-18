@@ -1,0 +1,38 @@
+{
+  "_id": "4c6e370e36122d9a7ef307cff34a92de331fbe6253247b1166b932df990e8d45",
+  "feed": "wall-street-journal",
+  "title": "In a First, Viewers Spent More Time Streaming Than on Cable TV",
+  "text": "<p>\"Streaming is working everywhere. Everyone is pouring in,\" Netflix Inc. co-Chief Executive Reed Hastings said last month while discussing the company's latest results. \"It's definitely the end of [traditional] TV over the next five, 10 years.\"</p><p>The increase in time spent streaming is a welcome sign for the many companies that have launched new direct-to-consumer platforms in recent years and are vying to attract subscribers in a crowded market. Many of them have spent heavily on content to draw in new customers, sacrificing profitability for growth. The parents of Disney+, HBO Max and Peacock recently said their streaming businesses lost hundreds of millions of dollars in the latest quarter alone.</p><p>All the while, many streaming services are struggling to hold on to new subscribers long term. The rate of customer defections is rising throughout the industry, as more households jump from one service to the other when they are done watching a specific show.</p><p>Netflix was the most-watched streaming service last month, bolstered by its \"Stranger Things\" franchise, the Nielsen study found. The Los Gatos, Calif., company released the series's final set of season four episodes in early July. Other highly watched shows and movies include Hulu's \"Only Murders in the Building\" and Netflix's \"The Sea Beast,\" Nielsen said.</p><p>Overall, many streaming-video platforms -- including Netflix, Alphabet Inc.'s YouTube; Walt Disney Co.-controlled Hulu; and Amazon.com Inc.'s Prime Video -- attracted their highest respective shares of U.S. TV viewing time in July, topping records set in June, Nielsen said.</p><p>John Hodulik, a media and telecom analyst at UBS Group AG, said streaming services offer greater convenience to users because they can watch shows and movies whenever they want, while traditional pay-TV is losing its appeal beyond live events like sports. \"Appointment viewing is certainly dead for anything non-live,\" he said.</p><p>Broadcast TV's share of viewership shrank further in July to 21.6%, a nearly 10% decline from a year earlier, Nielsen said. It suffered during the month in part from a lack of new releases, which tend to start in earnest in September, and because a year ago, many households tuned into the Summer Olympics.</p><p>In summer months when school is out, children typically spend more time streaming content, which could have bolstered time spent on YouTube and other streaming platforms in July. There is also a dearth of major sporting events in the summer months, which would otherwise draw some audiences to cable channels where games often appear.</p><p>\"Without sports there would be no [TV] bundle,\" Mr. Hodulik said.</p><p>High-profile sporting events are increasingly making their way to streaming services like Apple Inc.'s Apple TV+, Comcast Corp.'s Peacock, Paramount Global's Paramount+ and Amazon's Prime Video.</p><p>Netflix has long been the dominant streaming platform and was the envy of some media companies as it accumulated subscribers and spent heavily on content. But it suffered its first subscriber loss in more than a decade in the first quarter and another in the second quarter.</p><p>This year, Netflix has put a sharper focus on costs, laying off hundreds of employees, stabilizing its expected spending on content and taking new steps like forming an ad-supported tier of its service to bring in fresh revenue. Executives said its content spending would likely hold steady in the range of the $17 billion it expects to spend this year.</p><p>Executives from several streaming companies told investors in the past two months that they are trying to balance spending on top content while ensuring that they get a return on their investments through subscriptions and revenue growth.</p><p>JB Perrette, Warner Bros. Discovery Inc.'s CEO of global streaming, recently told analysts that the strategy embraced by some in the video-streaming industry -- which he described as putting everything on streaming, \"overinvesting in content and offering it all at the same time for a low price\" -- wasn't something his company believed in.</p><p>Warner Bros. Discovery, the parent of HBO Max and Discovery+, this month made the unusual decision to pull the plug on the nearly completed superhero movie \"Batgirl\" that was made exclusively for HBO Max. In a subsequent call with investors to discuss the company's latest results, Chief Executive David Zaslav said the company's new approach was to put more emphasis on content quality.</p><p>\"It's not about how much,\" Mr. Zaslav said. \"It's about how good.\"</p>",
+  "published": "2022-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.982,
+      "offsets": [
+        {
+          "start": 565,
+          "end": 572
+        },
+        {
+          "start": 570,
+          "end": 577
+        },
+        {
+          "start": 1415,
+          "end": 1426
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.528008,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.4790025,
+        "tagPositionWeight": 0.0070103407,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

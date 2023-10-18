@@ -1,0 +1,50 @@
+{
+  "_id": "27d96ec4de9a446e747b670a6643ad8f40f17645f8bc546f8b7cc1675cf5984a",
+  "feed": "wall-street-journal",
+  "title": "Cox Rolls Out Cellphone Service With Starting Price of $15; Cable and internet provider among companies racing to bundle wireless services to keep and attract new customers",
+  "text": "<p>Cox Communications, one of the nation's largest broadband internet providers, serves nearly seven million homes and businesses across 18 states.</p><p>The launch comes as other U.S. cable and phone companies attempt to win over customers with similar services. Cable companies are promoting new and cheaper mobile phone plans, while wireless carriers are using excess capacity on next-generation networks to gain customers that were previously using traditional broadband internet.</p><p>The competition has even led to lower prices, in some cases, for customers as inflation drives up costs on other goods and necessities.</p><p>Cox's pilot service features two plans: $45 for unlimited data; or another at $15 a month for 1 gigabyte of data, and then $15 for each additional gigabyte of data, according to a company spokesman. Cox Mobile customers will also have access to 4G LTE and 5G networks, the company said.</p><p>Cable-internet providers see mobile services as key to holding on to customers. Comcast Corp. said last month that it lost residential customers in the most recent quarter for the first time ever. Charter Communications Inc. reported its first decline in almost a decade.</p><p>Companies like Cox launching their own mobile services aren't building out cell towers to serve customers like Verizon Communications Inc., AT&amp;T Inc. and T-Mobile US Inc. Instead, they are paying the wireless providers for access under reseller agreements, which still provides a boost to their businesses. Comcast and Charter rely on Verizon, while Altice USA Inc. has a deal with T-Mobile.</p><p>Cox has long sought to re-enter the wireless business. It stopped providing 3G service a decade ago, citing the inability to compete with larger carriers.</p><p>Cox later reached an agreement with Sprint to run its wireless service over the carrier's network if it ever relaunched one. But once Cox moved ahead with that plan, it turned to Verizon to be its network partner. T-Mobile completed its takeover of Sprint in 2020.</p><p>T-Mobile obtained an injunction last year against Cox from pursuing a deal with any other network provider, but the Delaware Supreme Court vacated that ruling in March, according to court filings. A Cox spokesman declined to disclose the company's mobile network operator. A Verizon representative couldn't immediately be reached for comment.</p><p>Cox Communications is the largest division of Cox Enterprises Inc., a closely held, Atlanta-based company that also owns newspapers such as the Atlanta Journal-Constitution and Dayton Daily News. Earlier this month, digital news site Axios agreed to be acquired by Cox Enterprises in a cash deal valued at $525 million.</p><p>Cox Rolls Out Cellphone Service With Starting Price of $15</p>",
+  "published": "2022-08-29T22:51:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.99994236,
+      "offsets": [
+        {
+          "start": 1282,
+          "end": 1309
+        },
+        {
+          "start": 1506,
+          "end": 1513
+        },
+        {
+          "start": 2239,
+          "end": 2246
+        },
+        {
+          "start": 1495,
+          "end": 1502
+        },
+        {
+          "start": 1273,
+          "end": 1299
+        },
+        {
+          "start": 1882,
+          "end": 1889
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.1442556,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.8557501,
+        "tagPositionWeight": 5.9604645e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

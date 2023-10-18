@@ -1,0 +1,40 @@
+{
+  "_id": "c81c138a38683f484dfcfd66bec5d97703a8c22cf1facea566d0017ab30b5940",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Emergent's J&J Shots Await FDA Approval",
+  "text": "<p>Mr. Kramer said the company, which makes vaccines and drugs under contract, has been taking corrective steps to fix the manufacturing problems at the plant.</p><p>Emergent has blamed some of the problems on having to produce two Covid-19 vaccines at large scale, which the company said strained the capacity of its equipment. The plant was also making AstraZeneca PLC's Covid-19 vaccine.</p><p>Emergent described some of the problems and its plan to fix them in a letter to the U.S. Food and Drug Administration, responding to the agency's finding of various deficiencies during an April inspection.</p><p>A subcommittee of the U.S. House Committee on Oversight and Reform released the April 30 letter ahead of its hearing about Emergent.</p><p>Emergent was producing a bulk key vaccine ingredient for Johnson &amp; Johnson's Covid-19 vaccine, but a mishap led to the contamination of material that could have yielded up to 15 million doses during January and February. The contamination came from viral material similar to what was used in the production of the AstraZeneca vaccine at the same plant, according to a memo from the Democratic staff of the House committee to members.</p><p>The incident ruined the batch of J&amp;J's vaccine ingredient and led to a halt in production of the J&amp;J vaccine, as well as a decision to relocate production of AstraZeneca's vaccine elsewhere. In addition, J&amp;J took over manufacturing at the Emergent plant.</p><p>At the hearing, Mr. Kramer said the company agreed last year with the federal government to manufacture both J&amp;J's and AstraZeneca's vaccines, though the plant hadn't previously produced vaccines at full capacity.</p><p>The FDA's inspection of the Emergent plant found it didn't maintain clean, sanitary conditions and didn't take proper steps to prevent contamination.</p>",
+  "published": "2021-05-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 778,
+          "end": 795
+        },
+        {
+          "start": 1252,
+          "end": 1255
+        },
+        {
+          "start": 1188,
+          "end": 1191
+        },
+        {
+          "start": 1359,
+          "end": 1362
+        },
+        {
+          "start": 1519,
+          "end": 1522
+        },
+        {
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "46e55d843e8a48eb50852195b41031ad1fc00a206a0928d183c9edb76c74a4fa",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Apple warned that shipments of its high-end iPhone models would be hindered amid Covid-19 restrictions at one of its major suppliers in China.</p><p>Merger activity dropped 43% in recent months and initial public offerings of stock plummeted to their lowest level in more than a decade as the Fed's rate increases siphoned capital out of the markets.</p><p>Shale companies are slowing their oil-field activity, keeping U.S. oil production roughly flat and offering little relief for tight global markets.</p><p>Berkshire Hathaway swung to a loss as a volatile stock market and losses from insurance underwriting offset gains in its manufacturing, service and retail businesses.</p><p>Walgreens is near a deal to combine a unit with the owner of CityMD.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-11-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ]
+    }
+  ]
+}

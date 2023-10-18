@@ -1,0 +1,72 @@
+{
+  "_id": "5bb176a7a5d6139a19b00772e4d09d1bb4d5815e506325c1a5042f0e938e1a8b",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Heard on the Street: There's Logic in Intel's Chip Ambitions --- The company is pondering a jump into contract manufacturing. It could be tricky, but rewarding.",
+  "text": "<p>The new Intel chief executive has been formally on the job less than six months. And it has been barely three since he articulated the chip maker's new strategy, which includes a move back into the foundry business.</p><p>Intel had dabbled in making chips designed by others before, but Mr. Gelsinger described those efforts as halfhearted. With chip manufacturing at a premium given the continuing production shortage -- and the federal government talking about showering billions in subsidies to boost the industry -- it seemed a good time for Intel to try again.</p><p>But Mr. Gelsinger is clearly thinking much bigger. The Wall Street Journal reported late Thursday that Intel is exploring a deal to buy GlobalFoundries, a U.S.-hubbed chip manufacturer owned by the Abu Dhabi government.</p><p>The deal could be worth around $30 billion. It would be Intel's largest ever, and nearly twice what it paid for Altera, a maker of programmable logic chips that was -- ironically -- the only notable customer of Intel's last foundry attempt.</p><p>Buying GlobalFoundries would give Intel a much bigger list of foundry clients. It could also bring a long list of complications, in that many of those clients are also Intel competitors. None more so than Advanced Micro Devices, which spun GlobalFoundries out of its own manufacturing operations in 2009.</p><p>AMD has come to rely much more on Taiwan Semiconductor Manufacturing of late, but it still has a recently amended agreement in place to purchase about $1.6 billion worth of wafers from GlobalFoundries by 2024.</p><p>That would put Intel in the position of making chips for the company that has successfully been eating into its share in the key personal computer and data-center markets.</p><p>Another complication is that GlobalFoundries no longer works in the most advanced chip manufacturing processes that Intel has long specialized in. The cost of keeping up with giants like Intel, TSMC and Samsung forced GlobalFoundries to step away from its work on 7-nanometer production back in 2018 and focus on older processes often called \"trailing edge\" that are used to economically produce lower-priced chip products.</p><p>But the current production shortage has warmed up even that end of the market, as many key chips used in end products like cars are made on trailing-edge processes. And Intel's political timing looks even better now, as the Senate passed a bill last month calling for $52 billion in funding to support domestic chip production.</p><p>The prospect of a homegrown chip giant taking ownership of U.S.-based manufacturing operations currently owned by a foreign government may be one of the few easy sells in today's Washington.</p><p>Whether Intel's investors will buy it is another question.</p>",
+  "published": "2021-07-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1551,
+          "end": 1556
+        },
+        {
+          "start": 216,
+          "end": 221
+        },
+        {
+          "start": 2301,
+          "end": 2306
+        },
+        {
+          "start": 991,
+          "end": 996
+        },
+        {
+          "start": 663,
+          "end": 668
+        },
+        {
+          "start": 540,
+          "end": 545
+        },
+        {
+          "start": 1189,
+          "end": 1194
+        },
+        {
+          "start": 1824,
+          "end": 1829
+        },
+        {
+          "start": 1055,
+          "end": 1060
+        },
+        {
+          "start": 2659,
+          "end": 2664
+        },
+        {
+          "start": 8,
+          "end": 13
+        },
+        {
+          "start": 836,
+          "end": 841
+        },
+        {
+          "start": 1895,
+          "end": 1900
+        },
+        {
+          "start": 51,
+          "end": 56
+        }
+      ]
+    }
+  ]
+}

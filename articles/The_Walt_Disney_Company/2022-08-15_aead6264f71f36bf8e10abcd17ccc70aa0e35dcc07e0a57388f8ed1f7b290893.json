@@ -1,0 +1,122 @@
+{
+  "_id": "aead6264f71f36bf8e10abcd17ccc70aa0e35dcc07e0a57388f8ed1f7b290893",
+  "feed": "wall-street-journal",
+  "title": "Dan Loeb's Third Point Buys New Stake in Disney; Activist investor suggests buying the rest of Hulu and spinning off ESPN",
+  "text": "<p>Mr. Loeb praised growth in Disney's streaming subscriber base, but also wanted Disney to more aggressively cut costs and consider a number of steps to shake up its portfolio.</p><p>Disney didn't immediately reply to a request for comment.</p><p>Third Point is pushing Disney to \"make every attempt\" to buy up Comcast Corp.'s remaining minority stake in the streaming giant Hulu before its contractual deadline in early 2024. Under a 2019 agreement, Comcast can require Disney to purchase its NBCUniversal subsidiary's one-third stake in Hulu by that deadline for at least $9 billion, assuming the streaming service has an equity value greater than $27.5 billion.</p><p>\"We believe that it would even be prudent for Disney to pay a modest premium to accelerate the integration but are cognizant that the seller may have an unreasonable price expectation at this time,\" Loeb's letter says.</p><p>The letter also states that there is a \"strong case to be made\" that Disney should spin off its ESPN business to shareholders to alleviate leverage at the parent company, despite ESPN's centrality to the company's streaming offerings and the significant free cash flow it generates.</p><p>Mr. Loeb suggests that synergies between Disney and ESPN could be replicated through contractual arrangements. A spinoff would drive better long-term value for Disney shareholders and result in a business \"no longer haunted by the specter of cord-cutting,\" the letter says.</p><p>Mr. Loeb's letter also urges the company to rethink the makeup of its board and consider a list of potential new members that Third Point has compiled. It also advocates for a wide-ranging cost-cutting program and the continuation of Disney's pandemic-era suspension of cash dividend payments.</p><p>Last week, Disney reported better-than-expected earnings and added 14.4 million new subscribers to its Disney+ streaming service, many of which came to the service amid its expansion internationally.</p><p>The company's new customer additions brought its total 221.1 million subscribers to all of its streaming services, including Hulu and ESPN+, narrowly ahead of rival Netflix, which last month reported it had 220.67 million subscribers.</p><p>Disney's share price is up more than 12% in the past week, but remains down about 20% since the start of the year, amid a broad pullback in technology and media stocks.</p><p>Last week, Disney also announced price increases to its streaming services, including for its planned ad-supported tier of Disney+, a move that industry executives and analysts said is intended to help drive profitability at its streamers.</p><p>Disney, whose direct-to-consumer segment has lost more than $7 billion since Disney+ launched in late 2019, predicts that Disney+ will achieve profitability by September 2024.</p><p>\"We have plenty of room on price value,\" Mr. Chapek said last week.</p><p>Third Point previously held 4.1 million shares of Disney and successfully pushed the company to suspend its $3 billion annual dividend and plow the funds instead into the streaming business.</p><p>But by the first quarter of this year, the hedge fund had completely exited its position. Mr. Loeb had become worried that it would take years for Disney's streaming business to reap the profits needed to boost the company's share price, a person familiar with his thinking told The Wall Street Journal in May.</p><p>Write to Dean Seal at dean.seal@wsj.com</p><p>Dan Loeb's Third Point Buys New Stake in Disney</p>",
+  "published": "2022-08-15T16:11:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 27,
+          "end": 33
+        },
+        {
+          "start": 41,
+          "end": 47
+        },
+        {
+          "start": 79,
+          "end": 85
+        },
+        {
+          "start": 174,
+          "end": 180
+        },
+        {
+          "start": 254,
+          "end": 260
+        },
+        {
+          "start": 454,
+          "end": 460
+        },
+        {
+          "start": 697,
+          "end": 703
+        },
+        {
+          "start": 934,
+          "end": 940
+        },
+        {
+          "start": 1188,
+          "end": 1194
+        },
+        {
+          "start": 1194,
+          "end": 1200
+        },
+        {
+          "start": 1306,
+          "end": 1312
+        },
+        {
+          "start": 1313,
+          "end": 1319
+        },
+        {
+          "start": 1652,
+          "end": 1658
+        },
+        {
+          "start": 1722,
+          "end": 1728
+        },
+        {
+          "start": 1732,
+          "end": 1738
+        },
+        {
+          "start": 1814,
+          "end": 1821
+        },
+        {
+          "start": 1824,
+          "end": 1831
+        },
+        {
+          "start": 2144,
+          "end": 2150
+        },
+        {
+          "start": 2323,
+          "end": 2329
+        },
+        {
+          "start": 2551,
+          "end": 2557
+        },
+        {
+          "start": 2843,
+          "end": 2849
+        },
+        {
+          "start": 2859,
+          "end": 2865
+        },
+        {
+          "start": 3129,
+          "end": 3135
+        },
+        {
+          "start": 3147,
+          "end": 3153
+        }
+      ],
+      "weightsV2": {
+        "weight": 29.865814,
+        "baseWeight": 24.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8658142,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

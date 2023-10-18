@@ -1,0 +1,28 @@
+{
+  "_id": "5f78d2b76189ecda04086df73d96007c6d4105a8af7234420b328a8bc3c8c07c",
+  "feed": "wall-street-journal",
+  "title": "The Ukraine Crisis: Flow of Moscow Cyberattacks Continues",
+  "text": "<p>What Ukraine hasn't seen is a successful type of massive, strategic-level attack on civilian infrastructure, given the aggression and technical ability that Moscow's elite hackers have displayed in the past.</p><p>Still, the cyber fight has been \"relentless,\" according to Tom Burt, Microsoft Corp.'s vice president of customer security and trust. Microsoft has seen \"at least one order of magnitude increase in the frequency and severity of the attacks since before the invasion,\" Mr. Burt said.</p><p>\"This is full-on, full-scale cyberwar,\" he said.</p><p>Moscow has routinely denied allegations of cyberattacks against other countries and said recently its government websites were facing unprecedented cyber disruptions.</p><p>While cybersecurity analysts and intelligence officials are working to understand why the scale of the Russian cyber-offenses has been so much more limited than feared, several theories have emerged.</p><p>Russian strategists assumed the conventional campaign would wrap up in a matter of days and didn't appear to deploy their toughest cyber weapons, said U.S. officials. Ukraine's cyber defenses have improved in recent years, under constant attack from Russian hackers. Some of Russia's intelligence agencies may be waging propaganda and disinformation campaigns instead of launching offensive strikes, analysts say. And Russia may have overestimated its capabilities and underestimated Kyiv's.</p><p>\"We're seeing B- or C-team players out of Russia,\" said Matthew Olney, a director with Cisco Systems Inc.'s Talos cybersecurity division. \"It's fairly easy to track these folks -- they are not overly creative.\"</p><p>For Victor Zhora, the state cyberprotection agency's deputy chief, the current cyberwar in Ukraine began on Jan. 14 -- weeks before the first Russian tanks rolled in. On that day, hackers took government websites offline and tried to install their destructive \"wiper\" software designed to render computer systems inoperable.</p><p>Since then, Ukraine's government and critical business networks have faced a constant drumbeat of smaller-scale but still tactically significant attacks.</p><p>During the conflict, tests of internet services in Ukraine have shown a 16% reduction in connectivity, compared with the weeks before the war started, say researchers at the Georgia Institute of Technology's Internet Outage Detection and Analysis project, which measures internet outages.</p><p>In addition, Ukraine has suffered hacks of government and corporate networks, phishing attacks, cyberattacks on citywide camera systems, near-daily attempts to install wiper software, and even tactical cyberattacks launched in conjunction with military strikes, according to representatives of Ukraine's State Service of Special Communications and Information Protection, and U.S. companies that are helping to defend these systems.</p><p>On Tuesday, ESET, a Slovak-based cybersecurity firm, and Ukraine's cybersecurity emergency response team reported that a new strain of malware had been wielded in an attack on high-voltage electrical substations in Ukraine that was scheduled to damage systems earlier this month.</p><p>The malware was similar to what was used in a previous grid attack in 2016 and was believed to be the handiwork of a notorious hacking unit within Russia's GRU military intelligence agency known as Sandworm, researchers said.</p><p>Officials didn't name the targeted utility but said it was privately run and that about two million people lived in the region that could have lost power. Though it was unsuccessful in knocking power offline, experts expressed alarm.</p><p>Yet, since the Ukrainian war began the worst hasn't come to pass. The Russians haven't taken down the Ukrainian power grid and they haven't caused a global cyber catastrophe.</p>",
+  "published": "2022-04-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 277,
+          "end": 292
+        },
+        {
+          "start": 342,
+          "end": 351
+        },
+        {
+          "start": 277,
+          "end": 286
+        }
+      ]
+    }
+  ]
+}

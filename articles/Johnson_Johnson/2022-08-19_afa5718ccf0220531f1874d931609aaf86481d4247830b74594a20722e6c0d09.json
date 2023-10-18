@@ -1,0 +1,38 @@
+{
+  "_id": "afa5718ccf0220531f1874d931609aaf86481d4247830b74594a20722e6c0d09",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: 3M Unit Defends Bid To Shield Its Parent",
+  "text": "<p>\"Without this requested relief, we will have continued chaos with no focus,\" Mr. Husnick said, referring to multiple motions filed with the district court by personal-injury lawyers suing 3M since Aearo's bankruptcy filing last month. Those lawyers wanted the district judge to stop 3M's plan to shift the pending earplug lawsuits to the bankruptcy court, but the judge rejected their requests and instead will allow a bankruptcy court to decide whether to shield 3M from ongoing litigation.</p><p>Mr. Husnick said Aearo's request to extend a litigation stay to its parent company was in line with recent rulings, including the one by Judge Michael Kaplan of the U.S. Bankruptcy Court in Trenton, N.J., that has allowed an automatic-stay extension to Johnson &amp; Johnson in its subsidiary LTL Management LLC's chapter 11 to resolve talc-related mass lawsuits against J&amp;J.</p><p>Mr. Husnick said Aearo's request was even more legitimate because the 3M subsidiary is an \"organic structure\" that has been in existence for many years, while in some earlier cases, companies used a merger strategy known as the Texas Two-Step. \"We're not a Texas Two-Step,\" Mr. Husnick said. \"This is not a sham transaction.\"</p><p>Under agreements signed between Aearo and 3M, the parent company has committed to pay $240 million to fund Aearo's reorganization process and an unlimited amount toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug lawsuits.</p><p>Judge Graham concluded the three-day hearing and said he would issue his ruling in writing in the coming weeks.</p>",
+  "published": "2022-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 857,
+          "end": 860
+        },
+        {
+          "start": 743,
+          "end": 760
+        },
+        {
+          "start": 745,
+          "end": 762
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0011857,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0011856556,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

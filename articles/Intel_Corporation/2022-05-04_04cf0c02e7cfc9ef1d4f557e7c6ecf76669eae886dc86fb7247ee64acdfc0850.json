@@ -1,0 +1,36 @@
+{
+  "_id": "04cf0c02e7cfc9ef1d4f557e7c6ecf76669eae886dc86fb7247ee64acdfc0850",
+  "feed": "market-watch",
+  "title": "AMD will finally give investors its data-center data as business soars; After closing Xilinx acquisition, AMD will begin disclosing data-center sales individually, a long-overdue change",
+  "text": "<p>AMD has appeared to be gaining some market share in the important server business at the expense of its biggest rival Intel Corp. INTC, but it was hard to compare the two directly because AMD did not provide raw sales information for its data-center segment, as Intel does. After closing its merger with chip maker Xilinx Inc. and announcing the acquisition of data-center software company Pensando in recent weeks, though, AMD plans to solve that problem.</p><p>From 2018: Why AMD believes it can challenge Intel in servers</p><p>While the change took too long, it arrives at a perfect time, as the information AMD does provide shows that the data-center business is booming. AMD said revenue from its data-center business doubled from a year ago, helping the segment in which it currently resides — enterprise, embedded and semi custom group sales — increase revenue 88%. Intel, in contrast, said it saw data-center sales jump 22% in the first quarter, which was solid but still a slower rate than AMD's. AMD will move from reporting two segments to four: data center, client, gaming and embedded.</p><p>There have been fears of a slowdown in spending by cloud companies, such as Amazon.com Inc. AMZN, so an independent data-center segment should show signs of that. When asked on the call about recent comments by some cloud companies about slowing down their investments, Chief Executive Lisa Su described AMD's demand as still \"robust.\"</p><p>\"We haven't seen that,\" Su said. \"We haven't seen that particular phenomena. We do see is that there needs to be good planning, so good planning with our server customers and our large cloud customers, and we're doing that. And our planning extends beyond 2022, extends into 2023 as well. And from what we can see, it's robust demand.\"</p><p>More from Therese:  The pandemic PC boom is over, but its legacy will live on</p><p>The server, or data-center business, has always been a big potential growth area for AMD, after it spent years with very slim market share before Su decided to challenge Intel, the dominant player. AMD has been trying to return as a serious challenger in that market, a role it played for a few years in the early 2000s.</p><p>Its more recent success in servers has joined big gains from personal computers and gaming consoles, leading to AMD's first $5 billion quarter and predictions of its first $6 billion quarter in the current period, even as the overall PC market is now slowing after a huge boost during the pandemic.</p><p>Investors were clearly pleased with AMD's progress, sending shares up 7% in after-hours trading Tuesday. Maybe executives who are still refusing to break out important business segments — such as Microsoft Corp. MSFT and its Azure cloud-computing business, or Meta Platforms Inc. FB and Instagram — will see those gains and finally take the plunge as well.</p><p>AMD will finally give investors its data-center data as business soars</p>",
+  "published": "2022-05-04T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 118,
+          "end": 123
+        },
+        {
+          "start": 262,
+          "end": 267
+        },
+        {
+          "start": 502,
+          "end": 507
+        },
+        {
+          "start": 862,
+          "end": 867
+        },
+        {
+          "start": 2007,
+          "end": 2012
+        }
+      ]
+    }
+  ]
+}

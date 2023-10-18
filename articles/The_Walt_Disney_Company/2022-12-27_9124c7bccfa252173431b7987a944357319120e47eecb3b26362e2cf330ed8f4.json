@@ -1,0 +1,20 @@
+{
+  "_id": "9124c7bccfa252173431b7987a944357319120e47eecb3b26362e2cf330ed8f4",
+  "feed": "wall-street-journal",
+  "title": "Bob's Your Uncle at Disney",
+  "text": "<p>Paul C. Katz</p><p>Falls Church, Va.</p>",
+  "published": "2022-12-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 20,
+          "end": 26
+        }
+      ]
+    }
+  ]
+}

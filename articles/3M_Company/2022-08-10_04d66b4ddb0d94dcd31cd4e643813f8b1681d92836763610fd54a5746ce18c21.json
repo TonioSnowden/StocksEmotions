@@ -1,0 +1,34 @@
+{
+  "_id": "04d66b4ddb0d94dcd31cd4e643813f8b1681d92836763610fd54a5746ce18c21",
+  "feed": "wall-street-journal",
+  "title": "Firm Retention Summary: Aearo Technologies LLC",
+  "text": "<p>FIRM TO BE HIRED: Ice Miller LLP</p><p>PRINCIPAL ASSIGNED TO THE CASE: Jeffrey A. Hokanson</p><p>DUTIES: The firm will provide the following services:</p><p>•Providing legal advice and services regarding local rules, practices, and procedures and providing substantive and strategic advice on how to accomplish the Debtors' goals in connection with the prosecution of these chapter 11 cases, bearing in mind that the Court relies on co-counsel such as Ice Miller to be involved in all aspects of these bankruptcy cases;</p><p>•Reviewing, revising, and/or preparing drafts of documents to be filed with the Court as co-counsel to the Debtors;</p><p>•Appearing in Court and at any meeting with the U.S. Trustee and any meeting of creditors at any given time on behalf of the Debtors as their co-counsel;</p><p>•Performing various services in connection with the administration of these chapter 11 cases, including, without limitation, (i) preparing agendas, certificates of no objection, certifications of counsel, notices of fee applications, motions and hearings, and hearing binders of documents and pleadings, (ii) monitoring the docket for filings and coordinating with Kirkland on pending matters, (iii) preparing and maintaining critical dates memoranda to monitor pending applications, motions, hearing dates, and other matters and the deadlines associated therewith, and (iv) handling inquiries from creditors, contract counterparties and counsel to parties-in-interest regarding pending matters and the general status of these chapter 11 cases and coordinating with Kirkland on any necessary responses;</p><p>•Interacting and communicating with the Court's chambers and the Court's Clerk's Office;</p><p>•Assisting the Debtors and Kirkland in preparing, reviewing, revising, filing and prosecuting pleadings related to contested matters, executory contracts and unexpired leases, asset sales, plan and disclosure statement issues and claims administration and resolving objections and other matters relating thereto, to the extent requested by the Debtors or Kirkland and not duplicative of services being provided by Kirkland;</p><p>•Providing logistical services in the form of access and use of conference and office space, equipment and personnel; and</p><p>•Performing all other services assigned by the Debtors, in consultation with Kirkland, to Ice Miller as co-counsel to the Debtors, and to the extent Ice Miller determines that such services fall outside of the scope of services historically or generally performed by the firm as co-counsel in a bankruptcy proceeding, Ice Miller will file a supplemental declaration pursuant to Bankruptcy Rule 2014 and give parties in interest opportunity to object</p><p>HOURLY COMPENSATION:</p><p>Members of the firm will be compensated at the following hourly rates:</p><p>Partners $445 - $975</p><p>Of Counsel $500 - $690</p><p>Associates $370 - $610</p><p>Paralegals $240 - $430</p><p>CASE BACKGROUND: Aearo Technologies LLC, a unit of 3M Co., filed for chapter 11 bankruptcy protection on July 26.</p>",
+  "published": "2022-08-10T16:55:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2892,
+          "end": 2898
+        },
+        {
+          "start": 2893,
+          "end": 2899
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

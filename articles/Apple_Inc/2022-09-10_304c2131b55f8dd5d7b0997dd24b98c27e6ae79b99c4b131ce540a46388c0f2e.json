@@ -1,0 +1,34 @@
+{
+  "_id": "304c2131b55f8dd5d7b0997dd24b98c27e6ae79b99c4b131ce540a46388c0f2e",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Robinhood Adds Index Tracking Its Users' Picks",
+  "text": "<p>Such an index could be of interest to financial professionals who monitor the activities of small investors as one of the underlying factors behind stock-market moves.</p><p>Robinhood says it has more than 22 million funded accounts, and the average age of its users is 32. The company's popular trading app played a key role in bringing an influx of new investors into the market during the Covid-19 pandemic.</p><p>Critics -- including a mix of regulators, financial watchdog groups and Wall Street veterans -- say Robinhood makes it too easy for newbies to pile into risky bets. Last year many customers used its app to jump into volatile meme stocks such as AMC Entertainment Holdings Inc. and GameStop Corp.</p><p>Robinhood's new index shows that its users favor a mix of meme stocks and more conventional investments. Initially, the biggest five stocks in the index are Tesla Inc., Apple Inc., Amazon.com Inc., Ford Motor Co. and AMC.</p><p>Stocks in the index are weighted by what Robinhood calls \"conviction,\" defined as the percentage of assets in a customer's portfolio devoted to that stock.</p><p>Robinhood said AMC would have been ranked even higher -- in the No. 3 spot -- if the movie chain hadn't issued preferred-equity units last month, effectively creating two ways for investors to hold AMC. The new units trade under the ticker APE and form the ninth-biggest component of the index. GameStop is the 10th-biggest. Robinhood plans to update the composition of its new index monthly.</p><p>One of Robinhood's aims in launching the index was to push back against public perceptions that its customers are the dumb money in the stock market, Robinhood Chief Brokerage Officer Steve Quirk said.</p><p>\"There is an antiquated narrative that says retail buys at the top and sells at the bottom,\" Mr. Quirk said. \"We just wanted to make sure that their behavior speaks for itself, so people can look at the actual behaviors and determine how they're doing.\"</p><p>Another reason why Robinhood launched the index was to provide its customers with insight into what their fellow investors are doing, according to Mr. Quirk. \"They like to know that like-minded people are considering similar investments,\" he said.</p><p>Mr. Quirk said Robinhood had no plans to license its index to providers of exchange-traded funds and there is no direct way to invest in the index or bet against it.</p><p>That could alleviate concerns that sophisticated hedge funds or high-frequency trading firms could use the index to place bets against Robinhood's customers.</p><p>Still, the new index raises worries, said Tyler Gellasch, CEO of Healthy Markets Association, a trade group representing institutional investors.</p><p>\"Even if the index isn't licensed to create a new fund, the insight Robinhood is giving into its customers' holdings and concentrations is extremely useful to sophisticated investors,\" Mr. Gellasch said. \"Disclosing its customers' 'convictions' may be good for hedge funds and market makers, but it's not clear how this would be good for Robinhood's other customers -- the actual retail traders on its platform.\"</p><p>Robinhood said the data shared in the index was aggregated across all of its customers, with no personally identifiable information from individual accounts.</p><p>An earlier experiment in which Robinhood shed light on its customer holdings fueled concerns that the data could be used in ways that hurt customers. During the early months of the pandemic, Robinhood released hourly data on the popularity of stocks among its customers, which were aggregated by the third-party website Robintrack.net. The site became a popular way to track retail-investor activity until Robinhood shut off the data feed in August 2020, citing concerns that its data could be \"misconstrued or misunderstood.\"</p><p>Robintrack creator Casey Primozic said the site's server logs showed evidence of automated visitor traffic from hedge-fund giants D.E. Shaw Group and Point72 Asset Management, a sign of potential interest from number-crunching traders. Representatives of D.E. Shaw and Point72 declined to comment.</p><p>A Robinhood spokesman said the new index was fundamentally different from the Robintrack data and would paint a more accurate picture of its customers' preferences.</p><p>\"We see evidence that the majority of our customers are primarily buy-and-hold investors and, by examining the investments that our customers buy and hold, we believe we're helping to cut through the noise and show how our customers are investing,\" he said.</p><p>Robinhood's approach to weighting stocks in the index by conviction is unusual. It means that if many Robinhood users devote a large part of their portfolio to one stock, it would rank higher in the index, even if those users' holdings were relatively small. Robinhood tends to have less-affluent customers, with smaller accounts, than other brokerages. The company says roughly half of its customers are first-time investors.</p><p>The index offers \"an interesting snapshot into their customer base,\" said Alex Matturri, former chief executive of index provider S&amp;P Dow Jones Indices. A more useful index would incorporate data from other brokerages that serve individual investors, giving a broader picture of what such investors are buying, he added. \"Does it provide a valuable insight? We'll see,\" Mr. Matturri said.</p>",
+  "published": "2022-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 865,
+          "end": 875
+        },
+        {
+          "start": 870,
+          "end": 880
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6293627,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0003502369,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

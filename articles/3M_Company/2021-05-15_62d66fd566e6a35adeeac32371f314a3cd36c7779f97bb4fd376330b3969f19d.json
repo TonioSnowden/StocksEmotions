@@ -1,0 +1,36 @@
+{
+  "_id": "62d66fd566e6a35adeeac32371f314a3cd36c7779f97bb4fd376330b3969f19d",
+  "feed": "wall-street-journal",
+  "title": "Obituaries: 3M Chemist Helped Invent Post-it Notes",
+  "text": "<p>Experimenting in a 3M Co. laboratory in 1968, Spencer Silver found something he wasn't looking for: an adhesive that could hold two surfaces together but wouldn't leave a residue when they were peeled apart.</p><p>The substance took the form of tiny spheres rather than a smooth film. \"They were optically clear, soft and rubbery,\" he told the New Jersey Star-Ledger later. Dr. Silver patented the adhesive and figured it must be good for something.</p><p>It took 3M more than a decade to decide exactly what it was good for. One of Dr. Silver's colleagues, Art Fry, was among those pondering the possibilities. While sitting with his church choir, Mr. Fry had trouble finding the right pages in a hymnal. Then it hit him: What about a bookmark that would stick to the page?</p><p>3M kept tinkering and in 1980 introduced a phenomenally successful home and office product: Post-it Notes.</p><p>Dr. Silver credited what his wife, Linda Silver, dubbed \"improv chemistry.\" There was no such thing as a failed experiment, he said. He saw connections between his scientific work and his hobby of painting with acrylics. Both thrived on serendipity.</p><p>Dr. Silver had a heart transplant in 1994 and retired two years later, saying he felt too good to work every day. He died May 8 at his home in St. Paul, Minn. He was 80.</p>",
+  "published": "2021-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "offsets": [
+        {
+          "start": 12,
+          "end": 14
+        },
+        {
+          "start": 19,
+          "end": 25
+        },
+        {
+          "start": 19,
+          "end": 21
+        },
+        {
+          "start": 452,
+          "end": 454
+        },
+        {
+          "start": 763,
+          "end": 765
+        }
+      ]
+    }
+  ]
+}

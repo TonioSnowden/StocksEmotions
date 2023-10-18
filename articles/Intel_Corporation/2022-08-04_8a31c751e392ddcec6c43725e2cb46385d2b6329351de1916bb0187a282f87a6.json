@@ -1,0 +1,52 @@
+{
+  "_id": "8a31c751e392ddcec6c43725e2cb46385d2b6329351de1916bb0187a282f87a6",
+  "feed": "wall-street-journal",
+  "title": "AMD Should Shine Through Chip Cloud --- Slumping PC sales won't leave chip maker unscathed, but another Intel misstep cracked the data-center market open even wider",
+  "text": "<p>Long the David to Intel's Goliath, the chip maker known as AMD eclipsed its rival by market value last week. That is due in part to Intel's self-inflicted wounds; the chip giant's shares slid more than 9% since its second-quarter report last Thursday that included news of a bug in its latest data center processor that will delay high-volume shipments of that product until next year.</p><p>AMD's second-quarter results late Tuesday added a new dimension: The company reorganized its segments, finally breaking out results for the data center business as well as its units that make chips for PCs and gaming. Those numbers showed AMD gaining rapidly on its much larger rival by market share. AMD's data-center revenue hit $3.7 billion in 2021 -- more than double the previous year in a period in which Intel's data-center business shrank by 1%. The trend has continued; AMD's data center revenue surged 83% year over year in the second quarter to $1.5 billion. Intel's fell 16% to $4.6 billion over the same period.</p><p>The new revelations weren't quite enough to assuage investors' fears that the entire semiconductor industry is on the cusp of a major correction following two years of booming growth. AMD's shares slipped about 1% on Wednesday as its overall revenue for the quarter barely exceeded the midpoint of its own forecast. That came after it had been averaging a beat of 8.4% over the previous eight quarters. Slumping PC sales were the main factor; AMD draws more than one-third of its revenue just from the central processors used in desktop and laptop computers. The company's forecast for the third quarter was slightly below analysts' projections, though it left its full-year outlook unchanged given new products coming later in the year.</p><p>The last one is an important point. Among AMD's new products will be a server processor called Genoa, which will be rolling off Taiwan Semiconductor Manufacturing's 5-nanometer production process. The Sapphire Rapids chip that Intel delayed uses a recently renamed \"enhanced\" version of the company's 10-nanometer process. Circuit size alone doesn't determine a chip's overall performance -- or its reception in the market -- but a smaller number is generally better.</p><p>Stacy Rasgon of Bernstein noted the delay from Intel gives AMD a \"wide-open window\" to keep picking up valuable market share in data centers. He estimates AMD's market share in data centers hit about 24% in the second quarter -- nearly double from the same period last year.</p><p>Share gains will help AMD even if the cloud computing giants such as Amazon.com, Microsoft and Google slow their data-center investments next year, as seems likely if a recession hits.</p><p>It also should help offset the weakening of the PC market. AMD Chief Executive Lisa Su said on the company's call Tuesday that PC unit sales are expected to come in the range of 290 million to 300 million units globally this year. That would be a drop of as much as 17% from what IDC tabulated for the global PC market last year, though still about 10% above the industry's prepandemic levels.</p><p>AMD can't fully escape that gravity, but its runaway success in data centers and its recent acquisition of Xilinx has made it far less dependent on PCs. AMD's client segment that comprises the bulk of its PC business now accounts for about 33% of total revenue compared with 50% for Intel. Most notably, AMD's overall revenue will be about 39% of Intel's this year based on current forecasts compared with just 9% in 2019.</p><p>The underdog is growing up fast.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1976,
+          "end": 1981
+        },
+        {
+          "start": 18,
+          "end": 23
+        },
+        {
+          "start": 2264,
+          "end": 2269
+        },
+        {
+          "start": 132,
+          "end": 137
+        },
+        {
+          "start": 956,
+          "end": 961
+        },
+        {
+          "start": 797,
+          "end": 802
+        },
+        {
+          "start": 104,
+          "end": 109
+        },
+        {
+          "start": 3354,
+          "end": 3359
+        },
+        {
+          "start": 3418,
+          "end": 3423
+        }
+      ]
+    }
+  ]
+}

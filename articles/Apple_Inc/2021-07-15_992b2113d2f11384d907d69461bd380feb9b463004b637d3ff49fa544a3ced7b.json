@@ -1,0 +1,52 @@
+{
+  "_id": "992b2113d2f11384d907d69461bd380feb9b463004b637d3ff49fa544a3ced7b",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Microsoft Moves Windows to the Cloud  ----  By Aaron Tilley",
+  "text": "<p>   Microsoft Corp. is betting hybrid work will provide an opening to make its Windows operating system more widespread, launching a new service aimed at getting users of Apple Inc. and Android products to use the software. </p><p>   Unlike the traditional Windows software that is typically installed on personal computers, the version Microsoft is introducing on Wednesday will run entirely in the cloud -- the remote software-hosting data centers that underpin many modern apps. Windows 365, the company said, will be accessible on any device running any operating system that has a web browser, such as Apple Mac computers, iPhones and iPads, or those running Android software made by Alphabet Inc.'s Google. </p><p>   The company said the new service is designed for businesses and to accommodate the growing demands of hybrid work environments, where employees split their time between the office and home, said Jared Spataro, a corporate vice president at Microsoft. Instead of having to commute with their PC, workers will be able to access their personalized cloud-based Windows desktop whether they log on from the office or at home, he said. </p><p>   \"This is our take on hybrid,\" Mr. Spataro said in an interview. \"Hybrid is really driving a bit of a rewiring of the operating model of our customers.\" </p><p>   Windows 365 represents the second major update to Microsoft's iconic software franchise in as many months. The company said in June it was launching Windows 11 this year, the product's first new version in almost six years. It seeks to reposition the operating system as a hub in a computing universe incorporating rival companies' platforms. </p><p>   The move to a cloud-based version that is able to run on a range of operating systems comes as Microsoft's share in that segment has eroded, with people gravitating toward doing more on their smartphones that are largely powered by Apple software or Android. Microsoft held 85% of the global operating system market across all PCs and smartphones a decade ago, according to analytics firm Statcounter. It is 30% today. </p><p>   Microsoft still generates significant income from Windows -- it had $22.3 billion in Windows-related sales in the most recent financial year -- though its Azure cloud-computing business has become more central to the software giant's growth. Chief Executive Satya Nadella restored Microsoft's strength through the bet on the cloud that has propelled the company into a $2 trillion corporate titan, second only to Apple. </p><p>   With Windows 365, Microsoft is bringing the software more in line with its cloud business, hosting the system entirely on Azure. It also should create a new source of revenue, Mr. Spataro said. </p><p>   Microsoft said the new service kicks off with a cloud-based version of Windows 10 available in August, with Windows 11 available later this year when it is rolled out also in the PC-based version. Businesses can subscribe to a monthly service, with pricing depending on the number of users and on the power of the PC-cloud they select. Microsoft hasn't, yet, spelled out pricing plans. </p><p>   The services, Microsoft said, could help businesses better deal with staff such as interns and contractors or software developers and designers -- groups that in some cases might not have access to company devices or tend to gravitate to Apple products. Microsoft introduced the new service at the start of its annual partner conference. </p><p>   Microsoft's effort to woo users of Apple products to run Windows at least remotely comes as the two tech giants have rekindled their corporate rivalry that dates back to the early days of the PC era, after a period of relative peace. Because Windows 365 is cloud-based and accessible through a browser, Microsoft can offer the service to Apple users without going through its rival's closely guarded app store. </p><p>   Windows 365 also offers security benefits, Mr. Spataro said, at a time cybercriminals have targeted a range of businesses, including Microsoft. By storing the data entirely in the cloud, the company said, the data can be better safeguarded and when an employee leaves a company there is less risk they take data with them. </p><p>   Shifting Windows to the cloud echoes what Microsoft has been doing with its Xbox gaming business. </p><p>   Microsoft still sells individual games and gaming consoles, but increasingly has focused its efforts on gaming cloud service, which allow users to play more than 100 games streamed over a web browser or application on devices like PCs, Macs or iPhones. In April, Microsoft said it had 23 million subscribers for its Xbox Game Pass service that includes cloud gaming in the most premium tier of the subscription offering. </p><p>   Microsoft said that subscribers spend 50% more on games and additional content, on top of the monthly fee, in contrast to nonsubscribers. </p><p></p>",
+  "published": "2021-07-15T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 167,
+          "end": 172
+        },
+        {
+          "start": 1856,
+          "end": 1861
+        },
+        {
+          "start": 3719,
+          "end": 3724
+        },
+        {
+          "start": 167,
+          "end": 177
+        },
+        {
+          "start": 593,
+          "end": 598
+        },
+        {
+          "start": 2456,
+          "end": 2461
+        },
+        {
+          "start": 167,
+          "end": 176
+        },
+        {
+          "start": 3416,
+          "end": 3421
+        },
+        {
+          "start": 3281,
+          "end": 3286
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

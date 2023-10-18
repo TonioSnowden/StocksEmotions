@@ -1,0 +1,38 @@
+{
+  "_id": "5624d8935e950dae9ebaaab792c4dbe2c816373c1ab857b8acd9f17de2031bc5",
+  "feed": "market-watch",
+  "title": "Gaetz to take on DeSantis critic Rebekah Jones in general election after primary win in Florida; Florida's First Congressional District will see a faceoff between the GOP's Matt Gaetz and Democrat who ripped Gov. Ron DeSantis's cavalier approach to COVID-19 data",
+  "text": "<p>See also: What are Pell grants? Biden student loan forgiveness includes $20,000 for Pell grant recipients</p><p>Gaetz, a favorite of former President Donald Trump, is currently under federal investigation in a sex trafficking case.</p><p>Jones, a former data scientist for the state of Florida, was ousted from her job as a COVID-19 data curator in 2020 after she raised questions about the integrity of Florida's publicly reported coronavirus data. Jones had been disciplined several times and was ultimately fired for violating Health Department policy by making public remarks about the information, state records show.</p><p>Don't miss: Republican midterm edge over Democrats shows sign of erosion</p><p>Jones feuded with Florida Gov. Ron DeSantis — widely perceived to be weighing a presidential run in 2024 should he win re-election this November against U.S. Rep. Charlie Crist, who served as the state's governor a decade-plus ago but as a Republican — over his handling of the pandemic, accusing his administration of misleading Floridians through the state's COVID-19 numbers.</p><p>See: Goldman Sachs has run the numbers on student-loan forgiveness. This is its assessment.</p><p>Currently, betting markets favor DeSantis slightly over Trump for the 2024 Republican presidential nomination.</p><p>One advantage enjoyed by Gaetz, the Republican incumbent, over Democrat Jones is the fact that the district has voted for the GOP candidate in every general election since 1992. That's 14 consecutive cycles.</p><p>Read on: Democrat Pat Ryan overcomes polling gap to win 'bellwether' special election in New York state for U.S. House seat</p><p>Gaetz to take on DeSantis critic Rebekah Jones in general election after primary win in Florida</p>",
+  "published": "2022-08-25T14:33:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1068,
+          "end": 1081
+        },
+        {
+          "start": 1068,
+          "end": 1075
+        },
+        {
+          "start": 1062,
+          "end": 1075
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000489,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.887581e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "ab950cee91d2388eb2f44581dce1b98e107d3df889d0d59e0b94c3b4c3d97014",
+  "feed": "wall-street-journal",
+  "title": "What's News: World-Wide",
+  "text": "<p>Iran established a clandestine banking and finance system to handle tens of billions of dollars in annual trade banned under U.S.-led sanctions, according to Western diplomats, intelligence officials and documents.</p><p>The Biden administration's tentative plan for a rollout of second Covid-19 booster doses in the fall is being roiled by funding questions.</p><p>A former Boeing pilot accused of misleading federal air-safety regulators before two 737 MAX jets crashed went on trial.</p><p>Texas Gov. Abbott issued a disaster declaration for 11 counties in the state in response to multiple wildfires.</p><p>Died: Don Young, 88, Alaska GOP congressman.</p><p>What's News: World-Wide</p>",
+  "published": "2022-03-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 363,
+          "end": 369
+        }
+      ]
+    }
+  ]
+}

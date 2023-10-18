@@ -1,0 +1,28 @@
+{
+  "_id": "fbe4544af5a1ef32d291c04a2aad88643163127e537d4ee6a19bed911f841353",
+  "feed": "market-watch",
+  "title": "JP Morgan stock analysts show how trendfollowers are making markets more volatile",
+  "text": "<p>In his latest note for JPM's clients, Kolanovic worked with Peng Cheng and Emma Wu to examine shifts in intraday trading patterns that have occurred over the past few years. They found that up until two years ago, momentum typically dominated markets, with returns in the morning trading hours and evening trading hours largely in sync.</p><p>But that started to change in 2020, when correlations between price action in the morning hours and heading into the close started to flip. As the chart below shows, over the past two years, afternoon returns increasingly have become disjointed from the morning, with the correlation shifting from positive to negative. The data suggests the inflection point typically arrives around 1 p.m. Eastern Time.</p><p>U.S. stocks benefited from a sharp afternoon rally on Tuesday, following a three-day holiday weekend, one of many examples of intraday reversals this year.</p><p>Another example used by Kolanovic and his team occurred on Monday, Jan. 24, 2022. On that day, the S&amp;P 500 SPX sank as much as 3.7% between Friday's 4 p.m. Eastern close to 12:40 p.m. Eastern Monday, but then ended the day up 0.3%, following a torrid afternoon rally.</p><p>\"Intraday reversal has only started to become noticeable in the last two years,\" the authors of the note said.</p><p>Indeed, between 2017 and 2020, equity returns intraday enjoyed a positive correlation. But starting in 2020, intraday correlation slipped into negative territory, which is an abberation for stocks, historically speaking.</p><p>So, what's causing this? Kolanovic and his team surmised that the shift in intraday correlation is a consequence of both low liquidity and the rise of systematic traders who typically trade equity futures. The team found that when there's a large \"imbalance\" in S&amp;P 500 e-mini futures trades initiated by sellers and those initiated by buyers between the European close and the prior day's U.S. close, the subsequent move in dealer hedging often causes the market to reverse.</p><p>Interestingly, Kolanovic and his team found that these reversals are more likely to occur when there's a \"negative\" imbalance — that is, a gulf between buyer- and seller-initiated futures trades in favor of the sellers — than when there's a \"positive\" imbalance.</p><p>The situation also means that reversals are more likely to happen in a down market, lending credence to Stanley Druckenmiller's fears about bear-market rallies.</p><p>Kolanovic and his team tried to illustrate the correlation between these imbalances, and market reversals, in the chart below, which shows that market returns intraday display a greater negative correlation when the order imbalance in stock-index futures is also solidly negative.</p><p>Kolanovic also pointed out that there has been a shift in the market's liquidity conditions: there are simply fewer trades happening during U.S. trading hours than there were years ago.</p><p>Ultimately, reversals are more likely to happen in a down market, Kolanovic said, because investors' tend to panic-sell when markets are red, which leads to more \"mispricing\" and becomes \"more inductive of price reversals.\"</p><p>Markets reversed sharply on Tuesday, but U.S. stocks traded slightly lower on Wednesday as investors awaited the release of the minutes from the Federal Reserve's latest policy meeting. The S&amp;P 500 SPX was down 0.4% at 3,814. The Dow Jones Industrial Average DJIA and the Nasdaq Composite Index COMP were down about 0.5%.</p><p>Meanwhile, the Cboe Volatility Index — better known as \"the VIX\" VIX, had risen above 27 on Wednesday. The VIX is a popular gauge of implied market volatility, based on trading in the options market. Kolanovic's observations looked at the correlation between U.S. equity returns intraday, a method of measuring the market's actual historical volatility.</p><p>JP Morgan stock analysts show how trendfollowers are making markets more volatile</p>",
+  "published": "2022-07-06T16:22:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 3765,
+          "end": 3774
+        },
+        {
+          "start": 23,
+          "end": 26
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ]
+    }
+  ]
+}

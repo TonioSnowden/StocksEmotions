@@ -1,0 +1,36 @@
+{
+  "_id": "c069c113e4bc6dc6a1648509f9f0a2350ae49faaafd4f2c0fc4d944d8e37efd2",
+  "feed": "wall-street-journal",
+  "title": "Apple's Shift Takes Varied Ad Bite",
+  "text": "<p>Apple in April introduced a change to its privacy policy that requires apps to ask users if they want to be tracked. According to mobile-app analytics provider Flurry, users agree to be tracked only 16% of the time, vastly diminishing apps' ability to gather data advertisers need to serve ads to specific categories of users.</p><p>With less data, targeted ads from platforms like Facebook and Snap -- whose ad businesses rely on tracking users' activity around other apps and websites, in addition to their own -- are a lot less precise than they once were.</p><p>A dozen e-commerce companies interviewed by The Wall Street Journal said they now have to spend a lot more money on these ads in order to get the same number of sales from them that they could expect before the new feature was rolled out. They also can't get enough data to know how effective these ads are at driving purchases. Many have reduced their ad spending on targeted-ad platforms. In a July poll of 118 e-commerce store owners by eCommerceFuel, 62% said they had decreased their Facebook ad spending since the iOS upgrade.</p><p>As a result of the data drought, many brands have shifted their ad spending to Google because its flagship search-ad business relies on customer intent -- users' search terms immediately reveal what they are interested in -- rather than data collected from app and web tracking.</p><p>\"I do think Google in the short term here will gain some of the performance dollars flowing out of some of these other platforms,\" said Mark Wagman, managing director at ad-consulting firm MediaLink.</p><p>The red-hot digital-ad market has accelerated this year, with global spending on track to grow 26%, up from earlier projections of 15%, according to GroupM, a media-buying firm. Much of that windfall has flowed to Google.</p><p>\"Google's data was superior to Facebook's for the purposes of dealing with the changes that iOS has brought,\" Brian Wieser, global president for business intelligence at ad-buying agency GroupM. \"But that's not necessarily a durable difference.\"</p><p>Apple has said its privacy change was meant to let users decide whether to share their data and with whom.</p><p>Overall, Google brought in $53.13 billion in ad sales in the quarter ended Sept. 30, compared with $28.28 billion for Facebook and $1.1 billion for Snap. Google did say that Apple's privacy moves had a modest impact on the revenue of YouTube, its video platform.</p><p>Twitter Inc., meanwhile, on Tuesday posted ad sales of $1.14 billion, up 41% from a year earlier -- a sign the company had largely dodged the ad-market turmoil caused by Apple's privacy crackdown. Twitter Chief Financial Officer Ned Segal said Apple's privacy change had been \"less of a factor\" for the company, compared with Snap and Facebook.</p><p>A greater share of Twitter's ad revenue comes from brand advertising, which is intended to burnish a brand's image, rather than direct-response advertising, which is designed to push users to make a purchase.</p>",
+  "published": "2021-10-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2315,
+          "end": 2320
+        },
+        {
+          "start": 2648,
+          "end": 2653
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 2574,
+          "end": 2579
+        },
+        {
+          "start": 2034,
+          "end": 2039
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

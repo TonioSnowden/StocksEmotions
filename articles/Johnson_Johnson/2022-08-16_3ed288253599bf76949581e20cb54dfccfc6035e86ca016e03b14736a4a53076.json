@@ -1,0 +1,78 @@
+{
+  "_id": "3ed288253599bf76949581e20cb54dfccfc6035e86ca016e03b14736a4a53076",
+  "feed": "wall-street-journal",
+  "title": "J&J Unit Tells Appeals Court Only Bankruptcy Can Settle Talc Claims; J&J's talc unit says that without bankruptcy protection its defense costs were expected to exceed $1 billion",
+  "text": "<p>LTL, which J&amp;J created last year to move mass talc litigation to bankruptcy, laid-out a defense of its strategy in its filing in the Third U.S. Circuit Court of Appeals, which is considering a request by injury claimants to have the subsidiary's chapter 11 bankruptcy thrown out of court.</p><p>The outcome of the appeal could dictate whether J&amp;J's restructuring strategy catches on more widely among companies facing costly litigation over allegedly dangerous or defective products.</p><p>Appeals judges are expected to scrutinize a type of corporate restructuring in which companies facing mass litigation create a new subsidiary with minimal business operations and under Texas law assign it responsibility for tort liabilities before placing it in chapter 11.</p><p>Filing for bankruptcy protection then unlocks powerful tools to drive settlement talks, while the parent company's business assets stay clear of chapter 11. Congress has been considering legislation that would restrict the use of the so-called Texas Two Step strategy, which plaintiffs' lawyers criticize as a misuse of bankruptcy law.</p><p>Although J&amp;J prevailed in most talc liability lawsuits that went to trial, LTL said the possibility that juries could issue multibillion-dollar judgments in any one case hindered attempts by J&amp;J's consumer health business to settle with plaintiffs and made it \"impossible\" to settle future liability.</p><p>J&amp;J created LTL months after the U.S. Supreme Court declined to review a $2.1 billion judgment for 20 women who alleged talc-based baby powder caused their ovarian cancer, which the company has denied.</p><p>LTL said that without bankruptcy protection, defense costs were expected to exceed $1 billion. LTL added that plaintiffs \"occasionally hit the jackpot with juries,\" a risk for J&amp;J's consumer health business that necessitated a chapter 11 filing.</p><p>J&amp;J's consumer health business made $3.6 billion in talc-litigation payments between January 2020 and September 30, 2021, an amount equal to 33% of the company's total sales during that period, according to LTL's court filing. It urged the appeals court to uphold a bankruptcy-court ruling that authorized LTL's chapter 11 case following a five-day trial on J&amp;J's motivations.</p><p>LTL said extensive evidence reviewed by Judge Michael Kaplan of the U.S. Bankruptcy Court in Trenton, N.J., including testimony from J&amp;J executives and expert witnesses, supported his finding that the bankruptcy restructuring was appropriate and offers no basis for disrupting the chapter 11 case.</p><p>Bankruptcy allows LTL to limit its legal costs and potentially resolve all pending and future talc litigation. Citing Judge Kaplan's ruling, LTL said a chapter 11 plan could still allow plaintiffs to press lawsuits through the tort system while capping compensatory and punitive damages they could recover, which would \"ensure that no claimant obtains a grossly disproportionate award at the expense of others.\"</p><p>The talc unit also refuted injury lawyers' portrayal of its bankruptcy, denying that the restructuring was an attempt to avoid compensating plaintiffs. LTL said its bankruptcy filing made J&amp;J financially responsible for resolving the talc litigation and frees up significant resources to compensate claimants.</p><p>According to LTL, a series of intercompany transactions in the 1970s meant J&amp;J wasn't previously responsible for the liabilities of its consumer health business.</p><p>LTL also highlighted a recent decision by Judge Kaplan to retain outside expert Kenneth Feinberg to value the litigation. Mr. Feinberg has mediated some of the largest product-liability cases in U.S. history, including the $20 billion settlement related to the BP PLC oil spill.</p><p>Mr. Feinberg is slated to issue a report before Judge Kaplan estimates how much talc-injury claimants are owed.</p><p>Write to Jonathan Randles at Jonathan.Randles@wsj.com</p><p>J&amp;J Unit Tells Appeals Court Only Bankruptcy Can Settle Talc Claims</p>",
+  "published": "2022-08-16T21:02:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 11,
+          "end": 14
+        },
+        {
+          "start": 69,
+          "end": 72
+        },
+        {
+          "start": 335,
+          "end": 338
+        },
+        {
+          "start": 1091,
+          "end": 1094
+        },
+        {
+          "start": 1273,
+          "end": 1276
+        },
+        {
+          "start": 1382,
+          "end": 1385
+        },
+        {
+          "start": 1758,
+          "end": 1761
+        },
+        {
+          "start": 1827,
+          "end": 1830
+        },
+        {
+          "start": 2184,
+          "end": 2187
+        },
+        {
+          "start": 2335,
+          "end": 2338
+        },
+        {
+          "start": 3096,
+          "end": 3099
+        },
+        {
+          "start": 3292,
+          "end": 3295
+        }
+      ],
+      "weightsV2": {
+        "weight": 18.0,
+        "baseWeight": 13.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

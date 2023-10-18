@@ -1,0 +1,24 @@
+{
+  "_id": "8a3097d7523328d782c4ac1083732fa9f47fb35d4d0afa11dd8a68ee2e1a8740",
+  "feed": "market-watch",
+  "title": "FTC files amended antitrust complaint against Facebook",
+  "text": "<p>Facebook FB, which has until Oct. 4 to respond to the FTC's amended complaint, was not immediately available for comment.</p><p>The FTC filed a lawsuit in December 2020 that accused Facebook of breaking antitrust law by snapping up Instagram and WhatsApp to gain an unfair advantage over smaller rivals. The agency is seeking to force Facebook to sell Instagram, which it bought in 2012 for $1 billion, and WhatsApp, which it bought in 2014 for $19 billion.</p><p>But in June, U.S. District Judge James E. Boasberg took issue with the FTC's claim that Facebook holds monopoly power, or more than 60%, in the personal social networking category. The definition excluded platforms used mainly for streaming video, such as Google's GOOGLGOOG YouTube, and interest-based platforms like Microsoft Corp.'s MSFT LinkedIn or the fitness social network Strava.</p><p>Boasberg said the 60% estimate was “too speculative and conclusory to go forward.”</p><p>“Such an unsupported assertion might (barely) suffice in a Section 2 case [of the Sherman Act] involving a more traditional goods market, in which the Court could reasonably infer that market share was measured by revenue, units sold, or some other typical metric,” Boasberg wrote.</p><p>But, he added, “this defect could conceivably be overcome by re-pleading.”</p><p>“While there are certainly bones that one could pick with the FTC's market-definition allegations, the Court does not find them fatally devoid of meat,” Boasberg wrote.</p>",
+  "published": "2021-08-19T12:01:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 770,
+          "end": 779
+        },
+        {
+          "start": 770,
+          "end": 785
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

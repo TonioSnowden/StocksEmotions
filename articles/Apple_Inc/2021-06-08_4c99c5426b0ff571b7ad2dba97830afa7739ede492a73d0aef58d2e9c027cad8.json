@@ -1,0 +1,28 @@
+{
+  "_id": "4c99c5426b0ff571b7ad2dba97830afa7739ede492a73d0aef58d2e9c027cad8",
+  "feed": "wall-street-journal",
+  "title": "Google Pays Fine to Settle French Probe --- Resolution of antitrust case, which alleged ad- sales abuse, provides template for others",
+  "text": "<p>Google's commitments will be binding for three years, the authority said.</p><p>\"We have agreed on a set of commitments to make it easier for publishers to make use of data and use our tools with other ad technologies,\" said Maria Gomri, Google's legal director in France in a blog post. \"We're committed to working collaboratively with regulators and investing in new products and technologies that give publishers more choice and better results when using our platforms,\" she said.</p><p>While Google's commitments are binding only in France, they will become a template for how the company could resolve similar complaints from publishers and advertising-technology rivals elsewhere -- potentially changing how Google operates its system around the world.</p><p>Ms. Gomri said Google would test its changes \"over the coming months before rolling them out more broadly, including some globally.\"</p><p>As part of the case, the French competition authority alleged that the company's advertising server -- historically known as DoubleClick for Publishers and used by most large online publishers to put ad space up for sale -- gave Google's online ad auction house, AdX, an advantage in advertising auctions, in part by providing information about rival bids.</p><p>The authority also alleged other forms of self-preferencing between Google's advertising-technology tools, including AdX's offering better interoperability options to DoubleClick for Publishers.</p><p>\"These practices were particularly serious because of their powerful impact on online advertising intermediaries,\" said Isabelle de Silva, the head of the French competition authority, in a news conference Monday.</p><p>The regulator said Google has made five general commitments as part of the settlement. They include no longer allowing AdX to use competitors' bids to optimize its own bids, and giving rival ad servers equal access to data about advertising auctions, the regulator said. An independent observer will be responsible for monitoring Google's compliance and will report back to French regulators.</p><p>The settlement is part of a broader wave of antitrust enforcement against big technology companies on both sides of the Atlantic. Last week, the European Union and the U.K. each said they were opening formal antitrust investigations into Facebook Inc.'s classified-ads feature, dubbed Marketplace. The EU has also filed antitrust charges against Apple Inc. and Amazon.com Inc. The companies deny wrongdoing and dispute the charges.</p><p>Google's business of brokering the sale of ads, part of a business that accounted for 13% of Alphabet's $182.53 billion in revenue last year, has long been a source of competition concerns from rivals.</p><p>Publishers and ad-tech competitors have complained for years about Google's ownership of some of the most widely used tools for buying, selling and auctioning ads. They have also criticized Google for both owning and operating its own ad-supported products, such as Google Search and YouTube -- saying that creates conflicts of interest that harm competition in online advertising.</p><p>A group of U.S. states led by Texas sued Google in December 2020 for allegedly operating a digital-advertising monopoly. The U.K. competition authority began an investigation in January into whether Google's plan to remove user-tracking tools called cookies from its Chrome browser could hurt competition in the online ad industry. The European Commission, the EU's top antitrust regulator, has also been investigating Google's advertising business.</p><p>The French case stems from a complaint brought to the authority in 2019 by a group of news publishers led by News Corp, the Journal's parent company. News Corp, which has historically been a vocal critic of Google's role in the advertising-technology industry, has since made a pact with it to be paid for its content but remains the lead complainant in the case.</p><p>The French competition authority has been investigating potential anticompetitive behavior in the online advertising business for several years, publishing a report on the topic in 2018.</p><p>The French authority spent about a year investigating the case brought by News Corp, and presented antitrust charges last year, the authority said. Google then offered to settle the claim and discussed remedies with the authority.</p><p>Ms. de Silva said the fine -- less than 2% of Google's 2020 profit -- was based on the amount of revenue for companies in the ad-tech sector that were affected.</p>",
+  "published": "2021-06-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2385,
+          "end": 2395
+        },
+        {
+          "start": 2385,
+          "end": 2394
+        },
+        {
+          "start": 2385,
+          "end": 2390
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

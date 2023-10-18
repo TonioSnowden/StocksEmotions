@@ -1,0 +1,42 @@
+{
+  "_id": "6f36ed8b2eedb804feb99464d287209e37aabd660edd7ee18ffb57dbf49c1bf7",
+  "feed": "market-watch",
+  "title": "'I was not prepared to take on a major distraction': Former Disney CEO shares why he balked at a deal for Twitter; As Tesla's Elon Musk seeks to back out of his mutually agreed Twitter purchase, former Disney chief Bob Iger elaborated on why the media giant declined to buy Twitter itself",
+  "text": "<p>Speaking Wednesday at the Code Conference, Iger explained that he and other Disney executives were intrigued by the prospect of folding Twitter into their business as they sought to expand into streaming and broaden their avenues for distribution, according to a recap of the presentation by Vox.</p><p>Iger and his team were \"really ready to execute\" on a deal after convincing the board of directors, but, after thinking it over, Iger determined he was \"not looking at this as carefully as I need to look at it,\" he explained. Whereas Tesla's Musk inked a deal for Twitter and is now set for a court battle as he seeks to terminate the arrangement, Iger backed away before agreeing to anything.</p><p>While Disney saw distribution benefits to having Twitter in-house, Iger, in the end, doubted whether the service fit in with Disney's brand given \"all the hate speech [on the platform] and potential to do as much harm as good.\" Though he acknowledged that there's been recent criticism of Disney's business and efforts, he said that the company is \"in the business of manufacturing fun … of doing nothing but good.\"</p><p>Opinion: Florida Republicans' feud with Mickey Mouse highlights the widening gap between corporate America and the GOP</p><p>To add Twitter to the mix would have been \"irresponsible,\" he continued.</p><p>Back when Musk was still voicing ongoing interest in owning Twitter, he was critical of the company's approach to moderation and suggested he would take a more lax posture, expressing eagerness to reinstate Donald Trump's account — even as the former president claimed he was not interested in its reactivation — and reserve permanent bans for other scenarios, like bot status.</p><p>Musk said he is seeking to back out of his Twitter acquisition agreement because the company hasn't been truthful about the extent of bot or spam activity on its platform. The Tesla chief contends that bot accounts represent a greater portion of Twitter's user base than the company has disclosed.</p><p>See more: Elon Musk says he'll reverse Twitter's ban of Donald Trump</p><p>Iger said in the Code Conference presentation that he also looked into the bot matter when considering a bid for Twitter. \"Interestingly enough, because I read the news these days, we did look very carefully at all of the Twitter users — I guess they're called users? — and we at that point estimated with some of Twitter's help that a substantial portion — not a majority — were not real,\" he said.</p><p>Twitter's legal team has said that Musk's real reason for seeking to terminate the deal is market climate that turned adverse after his unsolicited offer was accepted, as stocks broadly SPX COMP — and Tesla TSLA, notably — moved significantly lower.</p><p>In the case of Disney's deal exploration, however, dynamics were different. Iger said Wednesday that the bot-user issue was \"built into our economics\" and that \"actually\" the deal that Disney contemplated for Twitter \"was pretty cheap.\"</p><p>'I was not prepared to take on a major distraction': Former Disney CEO shares why he balked at a deal for Twitter</p>",
+  "published": "2022-09-08T15:23:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 60,
+          "end": 66
+        },
+        {
+          "start": 76,
+          "end": 82
+        },
+        {
+          "start": 202,
+          "end": 208
+        },
+        {
+          "start": 2696,
+          "end": 2702
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.708687,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7086874,
+        "titleWeight": 4.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

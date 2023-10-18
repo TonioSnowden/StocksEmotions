@@ -1,0 +1,54 @@
+{
+  "_id": "2953d5be23e8b189e18f44b3a5da4dcc4e2af7dc7a479769ca451e12888f4234",
+  "feed": "market-watch",
+  "title": "Walmart stock rallies after profit and sales beat expectations, and outlook was raised; Full-year EPS outlook was raised, 3 weeks after it was lowered",
+  "text": "<p>The stock climbed 3.4% ahead of the open, after rallying 5.5% amid a seven-session win streak through Monday. A gain on Tuesday would match the eight-day win streak that ended Oct. 25, 2021.</p><p>Net income for the quarter to July 31 rose to $5.15 billion, or $1.88 a share, from $4.28 billion, or $1.52 a share, in the same period a year ago. Excluding nonrecurring items, adjusted earnings per share of $1.77 beat the FactSet consensus of $1.62.</p><p>Revenue grew 8.4% to $152.86 billion, above the FactSet consensus of $150.99 billion. Walmart U.S. sales rose 7.1% to $105.1 billion, topping the FactSet consensus of $104.4 billion, while Sam's Club revenue jumped 17.5% to $21.9 billion to beat expectations of $21.2 billion. Read Walmart's earnings preview.</p><p>Walmart U.S. same-store sales increased 6.5%, beating the FactSet consensus for a 5.9% rise, while Sam's Club same-stores sales grew 9.5% but missed expectations of 10.1% growth.</p><p>Cost of sales increased more than revenue growth, rising 10.1% to $115.84 billion, as operating income as a percentage of revenue contracted to 4.5% from 5.2%.</p><p>\"The actions we've taken to improve inventory levels in the U.S., along with a heavier mix of sales in grocery put pressure on profit margin for Q2 and our outlook for the year,\" said Chief Executive Doug McMillon. \"We made good progress throughout the quarter operationally to improve costs in our supply chain, and that work is ongoing.\"</p><p>Also read: Walmart customers are spending on food, and not much else, as inflation takes a toll.</p><p>Looking ahead, Walmart raised its fiscal 2023 EPS growth guidance to a decline of 9% to 11% from previous guidance of a decline of 11% to 13% provided in late July. For sales, the company affirmed it outlook for 4.5% growth.</p><p>Separately, the company said overnight that it reached an agreement with Paramount Global to offer subscribers of the Walmart+ membership program access to the Paramount+ streaming service, starting September.</p><p>Walmart's stock has slumped 10.5% over the past three months through Monday, while the SPDR Consumer Staples Select Sector exchange-traded fund XLP has eased 1.4% and the Dow Jones Industrial Average DJIA has gained 5.2%.</p><p>Walmart stock rallies after profit and sales beat expectations, and outlook was raised</p>",
+  "published": "2022-08-16T11:24:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.999936,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 524,
+          "end": 531
+        },
+        {
+          "start": 719,
+          "end": 726
+        },
+        {
+          "start": 746,
+          "end": 753
+        },
+        {
+          "start": 1432,
+          "end": 1439
+        },
+        {
+          "start": 1532,
+          "end": 1539
+        },
+        {
+          "start": 1949,
+          "end": 1956
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "d4f6c84cc35d13afa3a6995327db1b24032c82fb3eb86962161ba3a6236dfa89",
+  "feed": "wall-street-journal",
+  "title": "Taiwanese Chip Wizard Drives  China's Technology Ambitions  ----  By Yang Jie",
+  "text": "<p>   In 2015, South Korea's Samsung Electronics Co. jolted the technology world with news that its chips were on par with the world's most advanced. </p><p>   This summer, the Chinese company Semiconductor Manufacturing International Corp. is drawing buzz in the same circles after word emerged that it, too, has made a big jump. </p><p>   One man links the two events, an engineer legendary in chip-industry circles and barely known outside them: Liang Mong Song. </p><p>   Mr. Liang, 70 years old, led Samsung's chip development at the time of its breakthrough and now is in charge of SMIC's operations in Shanghai. Earlier in his career, he also was one of the stars behind the rise of Taiwan Semiconductor Manufacturing Co., one of the most important suppliers for global electronics brands such as Apple Inc. </p><p>   He is the chip wizard with the magic touch, able to turn also-rans into champions. At the same time, say people who know him, he possesses a stubborn streak that tends to lead to conflict and land him back on the free-agent market. </p><p>   SMIC grabbed him five years ago and has managed to keep him on board as it leads China's drive to enter the top echelon of semiconductors. </p><p>   SMIC and Mr. Liang didn't respond to requests for comment. </p><p>   Beijing is competing in a global race that includes the U.S., where Congress last month passed legislation with $52.7 billion in direct financial assistance for building and expanding chip factories. President Biden is set to sign the legislation Tuesday. </p><p>   SMIC made news recently when an industry analytics firm, TechInsights Inc., said the Chinese company had made a 7-nanometer chip for a bitcoin miner. The figure, a fraction of the width of a human hair, refers to the space between transistors on a chip. That development put SMIC closer to the industry leaders, TSMC and Samsung. </p><p>   Although the U.S. has put sanctions on SMIC that prevent it from getting the latest semiconductor-manufacturing machines, engineers said SMIC's recent 7-nanometer feat was probably feasible with less-advanced machines from ASML Holding NV of the Netherlands. </p><p>   SMIC is both a profit-making enterprise with global clients and a vehicle for China's Communist government to develop independence from Western technology, which makes for some notable contrasts. Mr. Liang, SMIC's co-chief executive, is from Taiwan, the democratically self-governing island Beijing is threatening to capture by force. </p><p>   The executive, who holds a Ph.D. from the University of California, Berkeley, is pushing SMIC to invest in leading-edge chip designs that lean heavily on imported equipment and materials, say people familiar with his work. </p><p>   Mr. Liang has published more than 350 technical papers, according to his official biography. He joined TSMC in 1992, just a few years after it was founded, and helped build the company into the world's largest contract chip maker. </p><p>   \"He was a very gifted scientist and engineer,\" said Richard L. Thurston, a former executive at TSMC who worked with Mr. Liang. \"He had an excellent memory and was methodical.\" </p><p>   In 2003, TSMC jumped into prominence with a method of using low-resistance copper in certain connections to make smaller chips. TSMC, in its news release, named Mr. Liang second on the list of engineers responsible, behind only his boss at the time, Chiang Shang-yi. </p><p>   People who worked with Mr. Liang said he was a strict workaholic with an exacting attention to detail. When he was with TSMC, some recalled him bringing his young son to the office on occasion when he had to work on weekends or holidays. </p><p>   These people say Mr. Liang was convinced that making smaller chips was the best way to make powerful chips, while he believed others at TSMC were paying too much attention to other projects. The clashes were one factor behind his departure from TSMC in 2009, they say. </p><p>   In July 2011, Samsung said it had hired Mr. Liang, and within a few years the Korean company made its leapfrog to the top of the technology tables. In early 2015, TSMC said it had been slightly overtaken by Samsung in making the smallest chips at the time. </p><p>   TSMC executives were surprised and disappointed by Mr. Liang's defection to Samsung, say Mr. Thurston and others who were there. The company sued Mr. Liang in Taiwan, accusing him of leaking proprietary technology and working for Samsung before a two-year contractual cooling-off period expired. </p><p>   In August 2015, Taiwan's Supreme Court ruled in favor of TSMC, banning Mr. Liang from working for Samsung until the end of that year. A Samsung representative said Mr. Liang left the company in 2015 and declined to comment on the litigation. </p><p>   Mr. Liang's next stop was SMIC, which named him co-chief executive in 2017 in a news release that described him as a former TSMC senior director and didn't mention Samsung. The company was founded in Shanghai in 2000 by a Taiwanese-American, and it long employed many engineers and managers from Taiwan. </p><p>   Industry executives say that after Mr. Liang arrived at SMIC, the Chinese company improved the yield of its mass production and shrank the size of its chips. </p><p></p>",
+  "published": "2022-08-09T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 764,
+          "end": 773
+        },
+        {
+          "start": 768,
+          "end": 778
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0009613,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0009611845,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

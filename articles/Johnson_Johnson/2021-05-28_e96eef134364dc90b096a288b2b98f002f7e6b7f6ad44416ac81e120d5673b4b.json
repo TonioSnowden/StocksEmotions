@@ -1,0 +1,20 @@
+{
+  "_id": "e96eef134364dc90b096a288b2b98f002f7e6b7f6ad44416ac81e120d5673b4b",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>Senate Republicans presented a $928 billion infrastructure plan to the White House, closing the gap with the White House's latest $1.7 trillion offer as the two sides attempt to break an impasse.</p><p>---</p><p>Members of a WHO-led team investigating the origins of Covid-19 urged the U.N . agency's member states to mandate a second phase of research.</p><p>---</p><p>The FDA and Johnson &amp; Johnson expect to announce within days that contamination problems at a Covid-19 vaccine plant in Baltimore are resolved.</p><p>---</p><p>Prospects dimmed for an independent commission to investigate the Jan. 6 assault on the Capitol after most Senate Republicans lined up against the proposal at the urging of GOP leaders.</p><p>---</p><p>Bill Gates and Melinda French Gates are discussing changes to the structure of their foundation to add more governance and independence, as they plan to divorce.</p>",
+  "published": "2021-05-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 358,
+          "end": 375
+        }
+      ]
+    }
+  ]
+}

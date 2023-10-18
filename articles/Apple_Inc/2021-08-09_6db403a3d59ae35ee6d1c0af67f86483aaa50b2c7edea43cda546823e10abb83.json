@@ -1,0 +1,80 @@
+{
+  "_id": "6db403a3d59ae35ee6d1c0af67f86483aaa50b2c7edea43cda546823e10abb83",
+  "feed": "ftcomall",
+  "title": "Apple's move on child protection raises serious privacy questions ",
+  "text": "<p>Did Apple just take an important step towards limiting the spread of child pornography, while also adding extra protections for children who use its devices? Or did it open the door to creeping surveillance on the iPhone?</p> <p>Last week's news that the consumer tech giant will add <a href=\"https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f\">new layers of protection </a>to its American devices in the interests of child safety drew some predictable responses. Political leaders <a href=\"https://www.ft.com/content/43c1aa97-c4e7-4301-913d-2c89cc63800d\">welcomed</a> the more interventionist stance, while privacy advocates warned that Apple had set a precedent that could be used to police other forms of online content.</p> <p>So it goes with the technical battles that often help to shape perceptions of the most popular gadgets and digital services of the age. In reality, few people would question the desirability of building more protections into some of today's mass market technologies. The question is how best to do this with the least impact on the privacy and freedoms of users — and whether it should be governments or powerful tech companies that get to call the shots.</p> <p>Until now, Apple has risked looking ineffective at protecting users of its iMessage system from harmful content. Unlike Facebook, it doesn't have an army of moderators to help limit the worst material, and there is no mechanism for users to lodge a complaint. Some sort of action seemed overdue.</p> <p>But how best to do it without sacrificing important principles? In recent years, Apple has rejected US government requests to help break into the iPhones of suspected terrorists and loudly denounced the idea of building “back doors” into its gadgets that would make them inherently less secure. Like other tech companies, it has also been a strong advocate of “end-to-end encryption” — the principle that digital communications should be indecipherable to prying eyes, from the point of creation to the point of consumption.</p> <p>Last week's actions show that both of these concepts can be somewhat malleable. One of the new Apple policies involves matching images on every US iPhone that backs up to iCloud against an official database of child pornography. If a certain number of matches are found, Apple will disable the user's account and notify an agency that deals with child exploitation.</p> <p>This comes perilously close to putting a back door into the iPhone. The new tool Apple has built could easily be applied to other images that a particular government has ruled illegal, though Apple insists it will resist any government pressure to do this. </p> <p>The other move affects messaging. Parents will be able to activate a feature that monitors a child's messages for photos containing nudity. Offending images are automatically blurred and, if the child is under 13, parents can also ask to be notified.</p> <p>This appears to give the lie to end-to-end encryption in messaging. If a tech company is able to look over the shoulder of a user before or after a message is encrypted, then it raises a question about what other inroads might be made into private messaging in future.</p> <p>So does this mean that Apple's latest moves, however well-intentioned, mark a backward step? Not necessarily.</p> <p>The practical impact of changes like these depend on how they are implemented. They don't happen in a vacuum: they often prompt shifts in user behaviour that may mitigate some of their more negative effects. And by acting first, Apple may have reduced the chance that governments will force it to take more draconian measures later.</p> <p>It is also important to put such changes in a wider context. If Apple continues to add new privacy protections for users, then even if some of its policies have the opposite effect, the overall result could still be a net positive.</p> <p>Yet the circumstances of Apple's policy shift still leave a lot to be desired. By presenting the changes as a fait accompli, it has cut short debate about their potential impact. And if its approach now becomes a model for other tech companies then rival ideas for protecting children that others have been working on may never see the light of day.</p> <p>Acting alone also risks stirring up commercial rivalries. It was hardly a surprise last week when Apple's move drew criticism from WhatsApp, the messaging app owned by Facebook, which has been locked in a fierce dispute over new limits on the personal data it can collect from iPhone users.</p> <p>A united front from the tech industry to combat child pornography and protect children online would have instilled greater confidence. For better or worse, Apple has gone it alone — and users of its gadgets around the world will now have to hope that the privacy doomsayers have got it wrong.</p> <p><a href=\"mailto:richard.waters@ft.com\"><em>richard.waters@ft.com</em></a><br><br><strong>Letter in response to this article:</strong></p> <p><a href=\"https://www.ft.com/content/b53fc35c-0f5a-4d27-a300-935b2842c7d8\"><em>Apple's new child protection policies should be applauded / From John Carr, London NW5, UK</em></a></p><p>Source: Richard Waters 2021 'Apple's move on child protection raises serious privacy questions ' FT.com 9 August. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-08-09T16:10:58.097Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2409,
+          "end": 2414
+        },
+        {
+          "start": 3694,
+          "end": 3699
+        },
+        {
+          "start": 4661,
+          "end": 4666
+        },
+        {
+          "start": 1946,
+          "end": 1951
+        },
+        {
+          "start": 1407,
+          "end": 1412
+        },
+        {
+          "start": 2122,
+          "end": 2127
+        },
+        {
+          "start": 3501,
+          "end": 3506
+        },
+        {
+          "start": 2298,
+          "end": 2303
+        },
+        {
+          "start": 4,
+          "end": 9
+        },
+        {
+          "start": 488,
+          "end": 493
+        },
+        {
+          "start": 1041,
+          "end": 1046
+        },
+        {
+          "start": 4117,
+          "end": 4122
+        },
+        {
+          "start": 3017,
+          "end": 3022
+        },
+        {
+          "start": 4466,
+          "end": 4471
+        },
+        {
+          "start": 3333,
+          "end": 3338
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

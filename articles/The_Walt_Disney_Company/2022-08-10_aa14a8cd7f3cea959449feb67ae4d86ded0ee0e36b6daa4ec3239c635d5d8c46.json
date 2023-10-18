@@ -1,0 +1,110 @@
+{
+  "_id": "aa14a8cd7f3cea959449feb67ae4d86ded0ee0e36b6daa4ec3239c635d5d8c46",
+  "feed": "ftcomall",
+  "title": "Disney overtakes Netflix on streaming subscriptions",
+  "text": "<p>Walt Disney defied concerns about a slowdown in the streaming industry by adding a robust 14.4mn subscribers to its Disney Plus service in the latest quarter, pushing its total number of paying streaming customers to 221mn — slightly ahead of Netflix.</p> <p>But <a href=\"https://www.ft.com/stream/725b01e3-d084-43ce-8fde-e1569668ad2a\">Disney </a>reduced its long-term guidance for its total number of Disney Plus subscribers due to its recent loss of rights to stream Indian Premier League cricket matches. Instead of as many as 260mn total subscribers by 2024, company officials now expect Disney Plus to reach 245mn, they said on Wednesday. </p> <p>Disney stood by its goal of reaching profitability at Disney Plus by 2024, however. While Wall Street once cheered on as Disney and its rivals spent heavily on new <a href=\"https://www.ft.com/stream/48cfb3f7-987a-4c22-85cb-a380301cbcfd\">streaming </a>content to attract subscribers, investors are now focused on how the companies will reach profitability. </p> <p>The streaming business lost $1.1bn in Disney's third quarter, more than triple its loss of $293mn a year earlier. </p> <p>Aiming for profitability, Disney said it would raise the price of its streaming services — which include Hulu and ESPN Plus — in the US later this year, a move that will coincide with new ad-supported versions of the services. </p> <p>The details came as Disney reported strong third-quarter results, thanks in part to booming crowds at its theme parks in the US and France, where attendance has topped pre-coronavirus pandemic levels despite rising inflation. </p> <p>Disney chief executive <a href=\"https://www.ft.com/content/6eb1016e-78cb-4a65-b871-c3095f07bc51\">Bob Chapek</a> said the strong park performance was due in part to “pent-up demand”, but he added that the rebound was “far more resilient and far more long-lasting” than a short-term recovery from the pandemic. </p> <p>Revenue rose 26 per cent year on year to $21.5bn in the quarter and net profit rose 53 per cent to $1.4bn. Disney's earnings per share of $1.09 were ahead of Wall Street estimates of 96 cents. </p> <p>The results were a boost to Chapek, whose contract was renewed this summer after a bruising few months over Disney's response to Florida's <a href=\"https://www.ft.com/content/e4e84eac-8502-4a7f-b51b-c372752b4b38\">controversial law</a> to restrict discussion of sexual or gender identity in primary schools. </p> <p>“I'm incredibly pleased with our performance this quarter,” Chapek said, highlighting the theme park business and growth in its streaming services.</p> <p>The entertainment industry has been shaken this year following Netflix's revelation that it was <a href=\"https://www.ft.com/content/0e5038a2-dabd-49d4-a3f9-7685cad18f8c\">losing subscribers</a>, prompting concerns that the potential market for streaming was smaller than investors had believed. Earlier this month, Warner Bros Discovery announced a strategic shift that de-emphasised subscription streaming services. Like Disney, Netflix has also announced plans for an ad-supported service in hopes of luring more cost-conscious consumers.</p> <p>In June, Disney lost out in an auction for rights to stream IPL cricket matches, which have been an engine of subscriber growth for Disney Plus. Chapek defended the “disciplined decision” not to bid for the rights, which went for $3bn to Viacom18. </p> <p>Disney shares rose 6.6 per cent to $119.90 in after-hours trading. The stock is down nearly 30 per cent this year. </p><p>Source: Christopher Grimes in Los Angeles  2022 'Disney overtakes Netflix on streaming subscriptions' FT.com 10 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-10T23:16:06.757Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 0,
+          "end": 11
+        },
+        {
+          "start": 255,
+          "end": 261
+        },
+        {
+          "start": 256,
+          "end": 262
+        },
+        {
+          "start": 557,
+          "end": 563
+        },
+        {
+          "start": 614,
+          "end": 620
+        },
+        {
+          "start": 677,
+          "end": 683
+        },
+        {
+          "start": 681,
+          "end": 687
+        },
+        {
+          "start": 872,
+          "end": 878
+        },
+        {
+          "start": 973,
+          "end": 979
+        },
+        {
+          "start": 1193,
+          "end": 1199
+        },
+        {
+          "start": 1200,
+          "end": 1206
+        },
+        {
+          "start": 1398,
+          "end": 1404
+        },
+        {
+          "start": 1734,
+          "end": 1740
+        },
+        {
+          "start": 1927,
+          "end": 1933
+        },
+        {
+          "start": 1938,
+          "end": 1944
+        },
+        {
+          "start": 2535,
+          "end": 2541
+        },
+        {
+          "start": 2550,
+          "end": 2556
+        },
+        {
+          "start": 2662,
+          "end": 2668
+        },
+        {
+          "start": 2899,
+          "end": 2905
+        },
+        {
+          "start": 2917,
+          "end": 2923
+        }
+      ],
+      "weightsV2": {
+        "weight": 27.0,
+        "baseWeight": 21.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

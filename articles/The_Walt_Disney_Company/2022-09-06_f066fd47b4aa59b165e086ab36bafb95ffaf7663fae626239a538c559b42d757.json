@@ -1,0 +1,38 @@
+{
+  "_id": "f066fd47b4aa59b165e086ab36bafb95ffaf7663fae626239a538c559b42d757",
+  "feed": "wall-street-journal",
+  "title": "Netflix's Business Model Doesn't Work; Pure-play streaming is great for viewers but it doesn't pay.",
+  "text": "<p>Don't be surprised by the remarketing next of Netflix-trademarked shows to competing streamers or cable TV. Netflix's choice of Microsoft to develop its ad platform is seen as come-hither toward a possible merger with the software giant, illustrating another theme of this column: the pull of bundling to make the economics of streaming work. This is the approach Apple and Amazon are taking.</p><p>A newly minted rival in the streaming scramble, Warner Bros. Discovery, formed by the merger of reality TV specialist Discovery with the hallowed Warner studio properties, is also precariously rethinking. Bundling was its strategy under previous owner AT&amp;T, which could use HBO Max to lock in customers for its vastly more lucrative wireless and broadband services. Under the new owner that option no longer exists organically.</p><p>Warner management is left trying to make content production and ownership pay by other means: launching an ad-supported version of HBO Max, clinging more strongly to its relationship with cable operators, movie theaters and even competing streamers, who can help pay the bills by licensing Warner content for their own services.</p><p>Analyst Rich Greenfield calls it the \"arms dealer\" model, selling content to all comers. But it's really \"arms dealer plus combatant,\" since participants still want their own streaming affiliates as one of their monetization options.</p><p>Warner CEO David Zaslav has taken to dumping on his AT&amp;T predecessors implicitly, with his stock down 48% since the deal closed in April. He's being a mite unfair. In fact—see Netflix's bundling arrangement with T-Mobile—the whole industry is wishing it had the connection that Warner once had with AT&amp;T as a lifeboat in the storm.</p><p>Warner's strategy presumably requires now a supercomputer to optimize monetization of hours upon hours of new and old movies and TV episodes, each decision complicated by back-end rights owed to producers and performers. Already we're seeing some interesting outcomes, like its decision to bury a nearly complete, $70 million \"Batgirl\" movie in a vault where the public can't see it, in favor of a tax write-off.</p><p>But if there ever were a business model where execution, execution, execution matters, without the franchise-value safety net, the new Warner Bros. Discovery is it. And for the Warner properties to end up in this sorry situation still strikes me as a corporate governance fumble of the first order.</p><p>The deal last year to sell out AT&amp;T's stake was badly explained in the press—AT&amp;T didn't take a bath on the terms. It essentially sold 29% of Warner Media to Discovery in return for $40.4 billion in cash and assumed debt plus 71% ownership of the combined companies (albeit by AT&amp;T shareholders). The real question: Was this the best outcome for the high-quality Warner assets?</p><p>AT&amp;T management was clearly not trusted by the market to run the company it had previously created with the Warner merger, so management perhaps understandably undid the merger to keep itself in a job. Unfortunately any wisp that rolling the Warner assets into Discovery might be value-creating or at least value-preserving has dissolved along with the new company's market cap, down $29 billion.</p><p>It seems Amazon, Apple and, yes, AT&amp;T had it right the first time: Streaming for general entertainment purposes will be hard-pressed to pay for itself except as part of a bigger business model. This becomes clearer as Netflix, Hulu, Disney and the rest of the streaming flock suffer a plague of churn as customers sign up and cancel after they've watched the latest hot show.</p><p>Years ago, Netflix seemed to me destined to sell itself to a bigger, more diversified player and we're getting back there again. In between, with the giant valuation it for a while enjoyed, it might have used its highflying stock to link up with, say, Disney. The stock price is always telling you something. The key is to interpret it correctly. But Netflix CEO Reed Hastings missed perhaps the boat of a lifetime.</p><p>And yet perhaps there is still hope for an independent, relatively undiversified Netflix now that others are retreating from the streaming wars and trying to diversify their own business models. Netflix's knack is for churning out a large supply of good-enough, something-for-everyone content. Netflix might yet aspire to be the one must-have streaming purveyor among a plethora of nice-to-have streaming purveyors.</p><p>Netflix's Business Model Doesn't Work</p>",
+  "published": "2022-09-06T22:27:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 3412,
+          "end": 3418
+        },
+        {
+          "start": 3805,
+          "end": 3811
+        },
+        {
+          "start": 3436,
+          "end": 3442
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9902613,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.0097387,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

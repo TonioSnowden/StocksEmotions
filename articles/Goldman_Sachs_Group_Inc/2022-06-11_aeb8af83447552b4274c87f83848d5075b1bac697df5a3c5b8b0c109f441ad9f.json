@@ -1,0 +1,24 @@
+{
+  "_id": "aeb8af83447552b4274c87f83848d5075b1bac697df5a3c5b8b0c109f441ad9f",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The SEC is investigating Goldman's asset-management arm over its funds that aim to invest based on environmental, social and governance standards.</p><p>Meta's investigation of Sandberg's use of corporate resources is examining behavior going back several years, said people familiar with the matter.</p><p>Tesla plans a 3-for-1 stock split, joining other companies with lofty share prices that have taken such a step.</p><p>Revlon is preparing to file for chapter 11 bankruptcy protection as soon as next week, people familiar with the matter said.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-06-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 25,
+          "end": 32
+        },
+        {
+          "start": 25,
+          "end": 33
+        }
+      ]
+    }
+  ]
+}

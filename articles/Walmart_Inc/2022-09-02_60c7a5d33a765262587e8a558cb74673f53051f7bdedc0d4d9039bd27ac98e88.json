@@ -1,0 +1,34 @@
+{
+  "_id": "60c7a5d33a765262587e8a558cb74673f53051f7bdedc0d4d9039bd27ac98e88",
+  "feed": "wall-street-journal",
+  "title": "U.S. Lawmakers Press Customs on Enforcement of Uyghur Forced Labor Law; A group of Republican lawmakers want U.S. Customs to answer questions on its enforcement of a law that restricts the importation of goods from China's Xinjiang region",
+  "text": "<p>The lawmakers posed their inquiries in a letter sent Thursday to an official in U.S. Customs and the director of the U.S. Treasury Department's Office of Foreign Assets Control, which handles sanctions.</p><p>A representative for Customs didn't immediately respond to a request for comment. A Treasury representative declined to comment.</p><p>The public letter underscores the continuing scrutiny that Congress has put on the customs agency's enforcement of the UFLPA.</p><p>The Xinjiang region is an important supplier of a variety of goods—including cotton, tomatoes and solar panel materials—and the UFLPA has opened up companies to heightened legal and reputational risk. Companies have said the law could interrupt shipments and raise compliance costs, and many have taken steps to either reorganize or scrutinize their supply chains.</p><p>Some U.S. multinationals, such as Intel Corp. and Walmart Inc., have already distanced themselves from the region in response to the law.</p><p>Chinese authorities have criticized the U.S. law, saying in December that allegations regarding the use of forced labor are \"vicious lies.\"</p><p>Congress is putting pressure on Customs and other agencies to enforce the law, said Brandon Daniels, chief executive of Exiger LLC, a company that offers supply-chain risk management software.</p><p>\"Everyone is saying, we need to make sure that enforcement happens,\" he said, adding that Congress is eager to see that the law, which passed with overwhelming bipartisan support, gets upheld.</p><p>But Mr. Daniels said that the customs agency's detention of goods, in particular solar panels, already show a clear indication of its intent to enforce the law.</p><p>The signers of the letter are focusing on a particular kind of fruit, a variety of jujube date, which they said appears to have entered the U.S. despite the law that blocks the import of most products traceable from the region. Under the law, goods from Xinjiang are presumed to be made with forced labor. Companies can try to rebut that presumption, but they face a heavy burden.</p><p>The signers include Rep. Jim Banks of Indiana, Rep. Carlos Giménez of Florida, Rep. Dan Crenshaw of Texas and Rep. Debbie Lesko of Arizona.</p><p>The imported dates the representatives highlighted appeared in grocery stores, some in the Washington, D.C., suburbs, according to the letter. Some bore the logo of the Xinjiang Production and Construction Corps, a sanctioned organization the U.S. government says was involved in serious rights abuses in Xinjiang, the representatives said, citing research by the Washington-based advocacy group Uyghur Human Rights Project.</p><p>Other potentially proscribed dates were sold on Amazon.com Inc.'s website by a third-party seller, according to the letter. Amazon didn't respond to a request for comment.</p><p>The representatives want Customs to answer questions about how the agency is enforcing the law, what challenges it faces and what products it has seized. They also want OFAC to say whether any U.S. person violated sanctions by importing XPCC-sourced dates.</p><p>No Democrats signed on to the letter, though the UFLPA passed with strong bipartisan support. The office of Rep. James McGovern of Massachusetts, the Democratic sponsor of the legislation, didn't respond to a request for comment.</p><p>The United Nations human-rights agency said in a report issued Wednesday that China's government might have committed crimes against humanity in its treatment of ethnic Uyghurs and other Muslim minorities in Xinjiang, broadly supporting critical findings by Western governments and human-rights groups. A Chinese Foreign Ministry spokesman said the report was manufactured by the U.S. and other Western forces.</p><p>Write to Richard Vanderford at richard.vanderford@wsj.com</p><p>U.S. Lawmakers Press Customs on Enforcement of Uyghur Forced Labor Law</p>",
+  "published": "2022-09-02T00:23:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 867,
+          "end": 878
+        },
+        {
+          "start": 873,
+          "end": 885
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0003433,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00034320354,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

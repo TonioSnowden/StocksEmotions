@@ -1,0 +1,40 @@
+{
+  "_id": "176a6d712073ea62644838073671f394c8faa1b23c2f84f520af8361c6094d59",
+  "feed": "wall-street-journal",
+  "title": "Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage, Security Researchers Say; An Israeli security firm has been exploiting a significant security flaw since February",
+  "text": "<p>An Israeli security firm has been exploiting a significant security flaw since February to silently infect iPhones using an iMessage, according to the research group that discovered the issue.</p><p>Apple Inc. issued a critical security update fixing the flaw on Monday, but the vulnerability had been used in attacks by Israel's NSO Group, a cybersecurity surveillance firm, according to Citizen Lab. Citizen Lab is an academic research group that investigates cyberattacks on journalists and dissidents.</p><p>Reached Monday, an Apple spokesman was unable to comment immediately on Citizen Lab's findings.</p><p>The attack is particularly worrisome because it is what researchers at Citizen Lab refer to as a \"zero click\" attack, meaning, unlike most other iPhone attacks, the user does not need to click on a link or open a document to be infected. \"Anyone with iMessage on their phone could be silently infected,\" said John Scott-Railton, a researcher with Citizen Lab. \"They would see nothing.\"</p><p>The flaw was exploited by software that CitizenLab linked to NSO Group, an Israeli-based company that sells hacking tools that are used by governments worldwide to conduct surveillance.</p><p>NSO Group has come under fire for allegedly allowing its tools to be used by certain governments to target activists and journalists. An NSO Group spokesman was unable to comment immediately on the Citizen Lab report. The company has previously said that its software is only licensed to government intelligence and law enforcement agencies \" for the sole purpose of preventing and investigating terror and serious crime.\"</p><p>The software used in the iPhone attacks \"is rare and probably expensive thing and it would have represented a substantial amount of development work,\" Mr. Scott-Railton said.</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage, Security Researchers Say</p>",
+  "published": "2021-09-13T20:45:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 193,
+          "end": 203
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1818,
+          "end": 1823
+        },
+        {
+          "start": 519,
+          "end": 524
+        },
+        {
+          "start": 193,
+          "end": 198
+        },
+        {
+          "start": 193,
+          "end": 202
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

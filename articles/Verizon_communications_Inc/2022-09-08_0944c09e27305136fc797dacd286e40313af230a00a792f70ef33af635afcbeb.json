@@ -1,0 +1,46 @@
+{
+  "_id": "0944c09e27305136fc797dacd286e40313af230a00a792f70ef33af635afcbeb",
+  "feed": "market-watch",
+  "title": "T-Mobile announces $14 billion share-buyback program; T-Mobile has been by far the best performer among U.S. wireless stocks this year",
+  "text": "<p>Though the authorization gives the company the ability to repurchase up to $14 billion in shares, T-Mobile TMUS is not obligated to do so.</p><p>Analysts expected the company to launch a buyback program soon, with Morgan Stanley's Simon Flannery recently noting that T-Mobile paused a three-year buyback program, which had been launched in 2018, as it pursued its acquisition of Sprint Corp. That deal closed in 2020.</p><p>Flannery recently commented that T-Mobile's management team had hinted at a 2021 analyst day of up to $60 billion in shareholder-return initiatives from 2023 to 2025, though the company had also signaled that these efforts could start earlier.</p><p>T-Mobile has come a long way since it announced its merger with Sprint. At the time, analysts were worried about the state of Sprint's subscriber baseand the impact of the deal on T-Mobile's financial position.</p><p>But T-Mobile has curried favor on Wall Street more recently, with many analysts saying that the company has a lead over rivals Verizon Communications Inc. VZ and AT&amp;T Inc. T when it comes to network quality, thanks in part to spectrum acquired through the Sprint deal.</p><p>Back in the day, T-Mobile's network was seen as lagging Verizon's and AT&amp;T's.</p><p>T-Mobile has been by far the best performer of the big U.S. wireless stocks this year. Its shares are up 25% over the course of 2022, while Verizon's have lost 20% and AT&amp;T's have dropped 10%.</p><p>T-Mobile announces $14 billion share-buyback program</p>",
+  "published": "2022-09-08T20:59:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 1346,
+          "end": 1353
+        },
+        {
+          "start": 1192,
+          "end": 1199
+        },
+        {
+          "start": 994,
+          "end": 1001
+        },
+        {
+          "start": 1186,
+          "end": 1193
+        },
+        {
+          "start": 994,
+          "end": 1021
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0000963,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 9.6440315e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

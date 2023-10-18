@@ -1,0 +1,32 @@
+{
+  "_id": "529d3dd29ea6f6c4739b2cc8cea11d7fcf935489d0bee97e3589fe3d64bf6029",
+  "feed": "wall-street-journal",
+  "title": "U.S. to Probe Cyberattacks Linked to Lapsus$; The hacking collective has been behind recent corporate attacks affecting Uber, Microsoft and others",
+  "text": "<p>The board didn't identify specific hacks it would probe, but high-profile victims include Uber Technologies Inc., chip maker Nvidia Corp., Microsoft Corp., online access-management vendor Okta Inc., Samsung Electronics Co. and others, according to the companies.</p><p>\"Lapsus$ has targeted some of the most sophisticated companies on the planet,\" said Robert Silvers, chair of the board and undersecretary for policy at the Department of Homeland Security, which oversees the board's activities. \"As a unified effort between government and industry, we will advise on how to repel and respond to these types of cyber-enabled extortion attacks.\"</p><p>Lapsus$ is an amorphous team that hides behind anonymous online aliases, but members of the group have left enough digital breadcrumbs that some of them have been identified by law enforcement and private researchers. The group likely includes members from Brazil and the U.K.—several of them teenagers—according to security researchers and law-enforcement officials. Some members have been arrested, but the group is believed to still pose a threat, according to security experts.</p><p>In its short life, Lapsus$ has developed a set of techniques that, while not technically sophisticated, have proven to be devastatingly effective at breaking into the networks of global tech firms that spend millions annually on cybersecurity. The group has often relied on bypassing commonly used security tools popular across industries to breach a range of networks, exposing major, overlooked security gaps in interwoven software ecosystems.</p><p>Some of its hacks, though high-profile, have proven to be more of a nuisance than a debilitating breach. In the case of Uber, the company said Lapsus$ gained access to its internal systems and posted messages, including a graphic image, to employees.</p><p>But the intrusions have at times been alarming. Samsung, Nvidia and Microsoft all said the group stole source code or proprietary information from them, according to statements released by the companies in March.</p><p>The board, which has no regulatory authority and doesn't have the power to issue fines, was formed by the Biden administration earlier this year and is designed to review significant national cybersecurity events that affect government, business and critical infrastructure.</p><p>Loosely modeled on the National Transportation Safety Board, which probes airplane crashes and trail derailments, the cyber board publishes reports on its findings and offers security recommendations. It published its first report on the Log4J bug in July, concluding that a major flaw in the widely used logging software was an \"endemic vulnerability\" that could persist for more than a decade as an avenue for hackers to infiltrate computer networks.</p><p>In a media briefing, Mr. Silvers said the board wanted to move quickly to finish its review of the Lapsus$ criminal group but didn't offer a timeline for when it would complete the report.</p><p>\"Lapsus$ actors have perpetrated damaging intrusions against multiple critical infrastructure sectors, including healthcare, government facilities and critical manufacturing,\" said Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency. \"The range of victims and diversity of tactics used demand that we understand how Lapsus$ actors executed their malicious cyber activities so we can mitigate risk to potential future victims.\"</p><p>Write to Dustin Volz at dustin.volz@wsj.com</p><p>U.S. to Probe Cyberattacks Linked to Lapsus$</p>",
+  "published": "2022-12-02T14:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 126,
+          "end": 135
+        },
+        {
+          "start": 139,
+          "end": 154
+        },
+        {
+          "start": 1876,
+          "end": 1885
+        },
+        {
+          "start": 1887,
+          "end": 1896
+        }
+      ]
+    }
+  ]
+}

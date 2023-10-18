@@ -1,0 +1,34 @@
+{
+  "_id": "07cd06d2bfb87fa97850c0f4015d72ef93bd9a0a6df76edc9dbfe5a4e834d205",
+  "feed": "wall-street-journal",
+  "title": "CVS Is in Advanced Talks to Buy Signify Health for Around $8 Billion; Drugstore-chain owner appears to prevail over interested parties including Amazon and UnitedHealth Group",
+  "text": "<p>There is still no guarantee that CVS will reach a deal for Signify, which has been exploring strategic alternatives since earlier this summer.</p><p>Bids for the company were due Sept. 6, but people familiar with the matter have said that an eager buyer could make a move before then.</p><p>Signify's valuation has ballooned since The Wall Street Journal reported in August that it was for sale. Shares of the company closed at $28.77 on Friday, giving it a market capitalization of roughly $6.7 billion.</p><p>Signify works with a large group of doctors to facilitate house calls. It uses analytics and technology to help physician groups, health plans, employers and health systems with in-home care. It offers health evaluations for Medicare Advantage and other plans.</p><p>At the close of its deal this year to buy Caravan Health, Signify said that it supported roughly $10 billion in total medical spending.</p><p>The company went public in February 2021, raising more than $500 million as a result of the offering. On the day of its initial public offering, shares of the company priced above its expected range, at $24.</p><p>New York-based New Mountain Capital has backed Signify since 2017. The firm—which had more than $37 billion in assets under management as of early August—has steadily expanded Signify through a series of mergers and acquisitions since its initial investment.</p><p>New Mountain is well-versed in the healthcare sector. It previously sold the healthcare payments firm Equian LLC to UnitedHealth for roughly $3.2 billion in 2019.</p><p>For CVS, the deal builds on an effort years in the making to transform itself into a major provider of healthcare services through acquisitions and expanded medical services. The company had been struggling to counter slowing revenue from prescription drugs, which drive the bulk of its sales, and to ward off competition from Amazon for retail dollars.</p><p>CVS, the nation's largest drugstore chain by stores and revenue, acquired Aetna in 2018, arguing that melding the insurance company's patient data with its network of nearly 10,000 bricks-and-mortar sites would squeeze out costs while improving care and convenience.</p><p>The strategy has paid off, buoyed by a surge in demand for Covid-19 vaccines and tests at the height of the pandemic. CVS's market capitalization has grown to more than $130 billion from around $75 billion since the Aetna deal.</p><p>The company is outperforming Walgreens Boots Alliance Inc., which opted against major acquisitions, in the years since. Walgreens, also racing to expand into healthcare, focused largely on partnerships rather than deals. But last year it bought a controlling stake in the primary-care network Village MD, giving it doctors' offices that CVS had said it could do without.</p><p>CVS Chief Executive Karen Lynch has since said that the company must have a foothold in primary care if it is to become a full-service medical provider.</p><p>CVS had previously been interested in a deal for the parent of One Medical, people familiar with the matter have said. Amazon agreed to purchase the primary-care clinic operator for about $3.9 billion in July.</p><p>The Federal Trade Commission is currently investigating the deal. The parent company of One Medical, 1Life Healthcare Inc., disclosed the investigation in a securities filing. The disclosure said One Medical and Amazon each received a request for additional information about the deal from the FTC.</p><p>While Wall Street has largely focused on CVS's efforts to acquire primary-care practices, executives have also discussed ambitions to expand its in-home health presence.</p><p>A deal for Signify would represent a bright spot in an otherwise lackluster run for deals lately. Deal volumes globally are down roughly 30% this year after a flurry of activity last year, because of a drop in companies' valuations, market volatility and other factors including Russia's war in Ukraine.</p><p>Healthcare deal making in particular has slowed more than many other sectors. Over $200 billion of healthcare deals announced so far this year has compared with over $400 billion at this time last year, according to Dealogic. The largest healthcare deal to date this year in the U.S. is Pfizer Inc.'s $11.6 billion agreement in May to purchase the rest of Biohaven Pharmaceutical Holding Co.</p><p>Write to Laura Cooper at laura.cooper@wsj.com, Sharon Terlep at sharon.terlep@wsj.com and Cara Lombardo at cara.lombardo@wsj.com</p><p>CVS Is in Advanced Talks to Buy Signify Health for Around $8 Billion</p>",
+  "published": "2022-09-03T00:30:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2398,
+          "end": 2427
+        },
+        {
+          "start": 2379,
+          "end": 2407
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290125,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

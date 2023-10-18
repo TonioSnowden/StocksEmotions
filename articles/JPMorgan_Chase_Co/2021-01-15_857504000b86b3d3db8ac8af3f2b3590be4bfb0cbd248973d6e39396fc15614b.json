@@ -1,0 +1,34 @@
+{
+  "_id": "857504000b86b3d3db8ac8af3f2b3590be4bfb0cbd248973d6e39396fc15614b",
+  "feed": "reuters",
+  "title": "BUZZ-Bouygues : Telecom's high capex, lack of near-term targets weigh",
+  "text": "<p>** JP Morgan points to the lack of a mid-term revenue target</p><p>** Analysts also flag high capex - EUR 1.5 bln per annum over 2021-25 and EUR 1.4 bln in 2026</p><p>** \"We suspect the near-term share reaction may prove focused on the disappointing nearer term messages around EBITDA margins and capital intensity,\" JPM says</p><p>** Bouygues Telecom eyes 2026 EBITDA of EUR 2.5 bln ($3.04 bln) and FCF of around EUR 0.6 bln</p><p>** Credit Suisse says targets are very ambitious and points to 2020 estimates of EBITDA and FCF of 1.5 bln and EUR 250 mln respectively</p><p>** Bouygues generates the bulk of its sales from its construction division, but telecoms is the fastest-growing division</p><p>** Shares were down over 7% in the last 12 months as of Thursday close</p><p>($1 = 0.8234 euros)</p>",
+  "published": "2021-01-15T08:46:26.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 3,
+          "end": 12
+        },
+        {
+          "start": 305,
+          "end": 308
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.985001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9850011,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

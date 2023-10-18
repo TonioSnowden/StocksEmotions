@@ -1,0 +1,86 @@
+{
+  "_id": "6bcbe367e024ea9fc65dcd8205a74eedb12e9ca47e24f0208c455a2db2700a3b",
+  "feed": "wall-street-journal",
+  "title": "REVIEW & OUTLOOK (Editorial):  Walmart Takes On Lina Khan",
+  "text": "<p>   Federal Trade Commission Chair Lina Khan has been smacking around businesses, but last week Walmart swung back hard against an abusive lawsuit by challenging the agency's enforcement power. This one could be fun -- and legally significant. </p><p>   Ms. Khan last year declared that she wants to use her power to shape \"the distribution of power\" in the economy, and she seems to mean by any means necessary. The FTC's lawsuit against Walmart in June is a case in point. </p><p>   --- </p><p>   The FTC claims Walmart aided and abetted con artists who swindled its customers. That's a weighty accusation, but the agency's evidence is paper thin. The FTC doesn't show any wrongdoing by Walmart. It argues instead that the company turned a \"blind eye\" by processing money transfers at the request of customers who had been scammed. </p><p>   Blind eye? Walmart operated numerous anti-fraud programs including requiring customers to show government-issued photo identification and posting warnings about scams. Yet the FTC claims Walmart should have done more to stop the less than estimated 0.08% of payments that customers unknowingly sent to scammers via its money-transfer services. </p><p>   The lawsuit is especially rich coming after the U.S. was bilked out of hundreds of billions of dollars in pandemic relief. The FTC complaint is a corollary to the Justice Department's dubious lawsuit against Walmart for fulfilling fraudulent opioid prescriptions, which is pending in federal court. In both cases Walmart didn't knowingly commit any wrongdoing. </p><p>   Yet the FTC claims Walmart violated Section 5 of the FTC Act prohibiting unfair trade practices as well as the agency's Telemarketing Sales Rule against inducing money-transfer payments. The agency says Walmart's mere awareness that some customers might be conned makes it liable for damages. </p><p>   Walmart's motion to dismiss the lawsuit dismantles the FTC's complaint point-by-point and mounts a strong constitutional challenge to the agency's power to bring lawsuits in federal court. This is where Ms. Khan may have led with her chin. </p><p>   The Supreme Court's unanimous decision in AMG Capital last year limits the FTC from seeking monetary damages in federal court for alleged unfair business practices. The FTC may seek only injunctive relief, yet its allegations in the Walmart case concern past misconduct by third parties. There's nothing for a federal judge to enjoin. </p><p>   Walmart makes a strong case that Congress \"exceeded the limit on the powers that may be constitutionally vested\" in the FTC when it granted the agency the authority to sue businesses in federal court. The reason stems from the Court's Humphrey's Executor (1935) precedent. </p><p>   In that case, the Court upheld restrictions on the President's removal authority of FTC commissioners on grounds that the agency was an \"administrative body\" that exercised only \"quasi-legislative or quasi-judicial powers\" such as conducting administrative adjudications and making investigations and reports to Congress. </p><p>   But Congress in the 1970s gave the agency fundamentally executive powers by allowing it to seek injunctions and monetary relief in federal court. Walmart argues that this grant of enforcement authority is invalid under Humphrey's Executor. If the President can't fire commissioners at will, then they can't exercise executive power. </p><p>   The power of federal officers \"to seek daunting monetary penalties against private parties on behalf of the United States in federal court\" is \"a quintessentially executive power not considered in Humphrey's Executor,\" Chief Justice John Roberts wrote in the Court's Seila Law decision (2020) overturning removal restrictions on the Consumer Financial Protection Bureau (CFPB) Director. </p><p>   Seila Law also stressed that Humphrey's Executor rested on the view of \"the FTC (as it existed in 1935) as exercising 'no part of the executive power.'\" But today's FTC wields sweeping executive power to seek injunctions against acquisitions, alleged unfair or deceptive trade practices, and other putatively anti-competitive conduct. </p><p>   Ms. Khan is increasingly regulating by enforcement, as is CFPB Director Rohit Chopra and Securities and Exchange Commission Chair Gary Gensler. But Mr. Chopra thanks to Seila Law can be removed by the President at will. Ms. Khan and Mr. Gensler can't. That means they aren't accountable to the President though they exercise enormous executive power. </p><p>   Walmart isn't asking to overturn Humphrey's Executor, only to reaffirm its limitations. But its legal motion exposes how supposedly independent agencies have become constitutional monstrosities that wield unaccountable power. Ms. Khan may find her grasp for power has constitutional limits. </p><p></p>",
+  "published": "2022-09-07T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 30,
+          "end": 37
+        },
+        {
+          "start": 92,
+          "end": 99
+        },
+        {
+          "start": 425,
+          "end": 432
+        },
+        {
+          "start": 655,
+          "end": 662
+        },
+        {
+          "start": 811,
+          "end": 818
+        },
+        {
+          "start": 987,
+          "end": 994
+        },
+        {
+          "start": 1352,
+          "end": 1359
+        },
+        {
+          "start": 1457,
+          "end": 1464
+        },
+        {
+          "start": 1524,
+          "end": 1531
+        },
+        {
+          "start": 1708,
+          "end": 1715
+        },
+        {
+          "start": 1798,
+          "end": 1805
+        },
+        {
+          "start": 2271,
+          "end": 2278
+        },
+        {
+          "start": 2373,
+          "end": 2380
+        },
+        {
+          "start": 3114,
+          "end": 3121
+        },
+        {
+          "start": 4374,
+          "end": 4381
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.851116,
+        "baseWeight": 15.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.851115,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

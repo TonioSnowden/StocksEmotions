@@ -1,0 +1,34 @@
+{
+  "_id": "36655e7adea31c0ca4dd034d2b8ac36775205ab355f08dd1163a50760e2d03f9",
+  "feed": "wall-street-journal",
+  "title": "Burger Prices to Remain High as Cattle Ranchers Shrink Herds; Drought adds to feed costs, prompting cutbacks that threaten meatpackers' profits, household budgets",
+  "text": "<p>Beef production in 2023 is expected to decline 7% and cattle prices are expected to increase to record highs, the U.S. Department of Agriculture said this month. Those higher prices will cut into profits for meatpackers like Tyson Foods Inc., JBS USA Holdings Inc., Cargill Inc. and National Beef Packing Co., industry executives said, and likely add to consumers' already rising shopping bills.</p><p>Jeanie Alderson, a fourth-generation rancher in Birney, Mont., said she sold about 75 aging mother cows from her herd of about 250 in recent months. In a normal season, she would buy new ones in the spring, but it has been too expensive to take on any more this year, she said. Wildfires in the southeast portion of the state are burning up pastures where cattle typically feed, and some of her Montana neighbors have had to spend more on pricey livestock feed, squeezing their budgets and prompting them to reduce the size of their herds.</p><p>\"It's really stressful,\" Ms. Alderson said. \"A lot of ranchers are in deep, deep debt, and if they have to go more in debt, some people will go out of business in the next few years.\"</p><p>Drought conditions and higher operating costs for ranchers encouraged the rapid culling of beef cows in the first quarter of 2022, according to the USDA. Cattle producers have lost money five of the past eight months, according to estimates from Iowa State University.</p><p>Beef prices for consumers in April were up about 14% from a year earlier, according to the USDA. Rising food prices are starting to change some consumers' shopping habits, industry executives have said, leading some to switch to less-expensive meat, cooking oil and frozen food.</p><p>Red meat prices aren't coming down anytime soon for consumers as cattle availability tightens throughout this year, though prices could see some relief over the summer as meatpackers bolster staffing at their plants and increase production, said Brian Earnest, an animal-protein economist at CoBank.</p><p>The combination of shrinking U.S. cattle herds and consumers looking for cheaper meat options threatens the lofty profits beef processors have enjoyed over the past two years.</p><p>Since the pandemic, meatpacking companies including Tyson, JBS and National Beef have boasted surging profit margins from their beef businesses. Those profits have drawn criticism from Washington lawmakers and from the Biden administration, which has accused major meat companies of using their market power to increase prices for restaurants and supermarkets while underpaying farmers.</p><p>Meatpacker officials have said that because many of their plants remain short-staffed, they can't process as many cattle. That has left more livestock on the market, they said, leading to lower cattle prices as well as constrained supplies of beef products. Meanwhile, demand from grocery stores and restaurants hasn't let up, executives have said, boosting wholesale meat prices over the past year.</p><p>Ranchers' moves to shrink their herds are changing that dynamic, company officials and industry analysts said.</p><p>Tim Klein, chief executive of National Beef, said on an April earnings call for Brazilian-owner Marfrig Global Foods SA that he expects the U.S. cattle supply to decline in the third and fourth quarters of this year. Shrinking herds mean cattle will be more expensive for processors to purchase, analysts and meat executives said.</p><p>Live-cattle costs increased by about $545 million in Tyson's quarter that ended April 2, the company said. As of February, 54% of cattle inventory was in areas experiencing drought conditions, meaning herds in those places are likely to shrink further through the remainder of the fiscal year, Tyson finance chief Stewart Glendinning said on a call with analysts this month.</p><p>\"We've had some really extraordinary margins over the last couple of years. We don't think that will maintain that level,\" Donnie King, Tyson's CEO, told analysts on the call.</p><p>Arkansas-based Tyson also said it expects more customers to shift to its chicken or prepared and packaged foods products, such as Jimmy Dean sausage. The company said it hopes its wide swath of products will distance itself from the traditional meat business's boom-and-bust cycles.</p><p>Exports to countries such as China are still strong and likely to help keep meatpackers' beef profit margins steady, analysts said.</p><p>Ranchers, however, said they have been dealing with chronically low profits for years, as the sums they receive for their cattle lag behind rising retail beef prices. Now, rising livestock feed prices and higher farmland costs are squeezing ranchers further, prompting some to reduce their herds, said Geoffery Stolle, vice president of marketing for the Nebraska Cattlemen.</p><p>\"Do I want to invest this much in this animal to keep her around, or do I trim my numbers back at this point?\" Mr. Stolle said, referring to rising feed costs. \"We're in a rather aggressive liquidation phase at this point.\"</p><p>Price increases are starting to affect consumer demand, with some consumers trading down to cheaper options in supermarket meat cases. Higher food costs are causing shoppers at Walmart Inc. to shift to lower-cost private label brands for several meat and dairy products, John Furner, head of Walmart U.S., said on a call with analysts earlier this month.</p><p>While shopping at a Westside Market grocery store in New York City, Sal Traina said he has noticed higher food prices in recent weeks and is buying more pork and chicken, which tend to cost less.</p><p>\"I think it goes with the territory because of inflation,\" he said, adding that he still buys red meat from time to time.</p><p>Write to Patrick Thomas at Patrick.Thomas@wsj.com</p>",
+  "published": "2022-05-28T11:33:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99998343,
+      "offsets": [
+        {
+          "start": 5115,
+          "end": 5127
+        },
+        {
+          "start": 5115,
+          "end": 5126
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

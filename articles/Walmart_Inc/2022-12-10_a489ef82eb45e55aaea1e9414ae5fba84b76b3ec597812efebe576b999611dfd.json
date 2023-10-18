@@ -1,0 +1,24 @@
+{
+  "_id": "a489ef82eb45e55aaea1e9414ae5fba84b76b3ec597812efebe576b999611dfd",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>The WTO said its dispute-settlement panels found that the U.S. violated international trade rules with its tariffs on imported steel and aluminum.</p><p>---</p><p>Prosecutors urged a judge to hold Trump's legal team in contempt for failing to fully turn over all classified documents in the ex-president's possession, a person familiar with the matter said.</p><p>---</p><p>The Biden administration warned that military ties between Russia and Iran were expanding into \"a full-fledged defense partnership.\"</p><p>---</p><p>China's Xi used the last day of a visit to Saudi Arabia to pledge more energy deals with big Gulf oil producers.</p><p>---</p><p>Over two years before a Walmart supervisor killed six workers, Walmart executives investigated employee workplace complaints against him, according to former and current employees.</p><p>---</p><p>Thanksgiving spurred on more respiratory infections in an already busy virus season, and the coming holidays could be worse, public-health officials say.</p>",
+  "published": "2022-12-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 628,
+          "end": 635
+        },
+        {
+          "start": 667,
+          "end": 674
+        }
+      ]
+    }
+  ]
+}

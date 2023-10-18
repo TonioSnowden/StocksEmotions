@@ -1,0 +1,20 @@
+{
+  "_id": "c4b0563bbbf915136a35f2dbea7dea5a34f3da3401c012873f647983f3d3aff7",
+  "feed": "ftcomall",
+  "title": "Amazon buys encrypted message platform Wickr",
+  "text": "<p>Amazon's cloud computing business has acquired a US encrypted communications platform popular among government and military agencies, citing demand for more secure messaging in the work-from-home era. </p> <p>Wickr offers end-to-end encrypted messaging, voice and video calls and file sharing. Amazon Web Services <a href=\"https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/\">did not disclose</a> the price it was paying for the business.</p> <p>“Today, public sector customers use Wickr for a diverse range of missions, from securely communicating with office-based employees to providing service members at the tactical edge with encrypted communications,” said Stephen Schmidt, chief information security officer for AWS.</p> <p>“Enterprise customers use Wickr to keep communications between employees and business partners private, while remaining compliant with regulatory requirements.”</p> <p>He added that demand for secure communications was “accelerating” as people increasingly shift towards so-called hybrid working, with time split between home and the office — a change that has opened up <a href=\"https://www.ft.com/content/49b81b4e-367a-4be1-b7d6-166230abc398\">new opportunities for hackers</a>.</p> <p>Founded in 2012, San Francisco-based Wickr has <a href=\"https://www.crunchbase.com/organization/wickr\">raised</a> a total of $73m over four funding rounds, the last in December 2018, according to Crunchbase.&#xa0;</p> <p>AWS remains a growing part of Amazon's business, accounting for $4.2bn in operating income in last quarter — almost half the group total. Some of its biggest contracts come from governments around the world.</p> <p>Amazon is locked in a <a href=\"https://www.ft.com/content/3ab2f254-4e96-11ea-95a0-43d18ec715f5\">legal battle</a> with Microsoft over a $10bn contract to provide cloud computing services to the US Department of Defense, the so-called Jedi contract.</p> <p>According to Wickr's website, its teleworking services meet the security criteria recommended by the National Security Agency for federal agencies.</p> <p>The need for ultra-secure government messaging was highlighted at the end of last year when <a href=\"https://www.ft.com/content/c13dbb51-907b-4db7-8347-30921ef931c2\">it emerged</a> that Russian spies had burrowed their way into the email systems of several government agencies as part of the SolarWinds hack.&#xa0;</p> <p>“I suspect [Amazon] want to gain credibility in the encrypted cloud space,” said Ashkan Soltani, an independent privacy researcher and former chief technologist at the Federal Trade Commission. The acquisition brings expertise in cryptography to AWS, he added.&#xa0;</p> <p>The acquisition comes at a time of rising complaints that big tech companies are bending to requests from national governments to share data on clients — prompting an increase in the popularity of smaller independent encrypted messaging services, such as non-profit Signal.&#xa0;</p> <p>“The question is how they balance the need to offer strong end-to-end encrypted messaging products with the need to comply with law enforcement needs, especially at a time where we're seeing more aggressive stances from not just our own international partners, but our own Department of Justice,” Soltani said. </p><p>Source: Hannah Murphy in San Francisco 2021 'Amazon buys encrypted message platform Wickr' FT.com 25 June. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-06-25T18:09:23.287Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1436,
+          "end": 1445
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

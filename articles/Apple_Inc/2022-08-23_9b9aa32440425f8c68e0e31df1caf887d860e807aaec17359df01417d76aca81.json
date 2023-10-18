@@ -1,0 +1,42 @@
+{
+  "_id": "9b9aa32440425f8c68e0e31df1caf887d860e807aaec17359df01417d76aca81",
+  "feed": "wall-street-journal",
+  "title": "World News:  China Extends Power Rationing  ---  Heat wave, drought  prompt officials to  curb factory output,  mall hours in areas  ----  By Brian Spegele and Yang Jie",
+  "text": "<p>   BEIJING -- Authorities in central China extended power curbs limiting factory production and opening hours for shopping malls, as the region grapples with its worst heat wave in six decades and a hydropower-depleting drought. </p><p>   In the Sichuan provincial capital of Chengdu, a major manufacturing hub, auto makers and components suppliers reported lower production because of the power constraints. </p><p>   Farther east, in central China's sprawling metropolis of Chongqing, home to more than 30 million people, shopping malls were told they could open Monday only between 4 p.m. and 9 p.m. because of power rationing, state broadcaster China Central Television cited the local government as saying. </p><p>   The combination of the drought and heat wave is leading to high electricity demand as residents need air conditioning to stay cool and denting supply from hydropower dams that are crucial to the region. </p><p>   Rainfall feeding the Yangtze River basin was down 40% in July from a year earlier. The river is a key source of water for hydropower production and key for transportation. Levels for some parts of the river have been at their lowest points since records began, China's Ministry of Water Resources said last week. </p><p>   The power rationing is undercutting industrial production, exacerbating the damage caused to China's economy by the government's stringent Covid-19 control measures. China is one of several countries that face droughts, which are challenging global supply chains and risk driving up food and energy costs. </p><p>    General Interface Solution Holding Ltd., a Taiwanese maker of touch sensors and display components for electronics, said its subsidiary in Chengdu extended a suspension of production in accordance with the local government's contingency plans. Apple Inc., which had previously named the company as one of its suppliers, didn't respond to a request to comment. </p><p>   Foxconn Technology Group, one of the biggest suppliers to Apple, has also been hit by power rationing. The company's production in Chengdu was continuing to run at a low level Monday, said people familiar with the matter, although it was up slightly from last week. Foxconn was in talks with the local government to gradually increase production later this week, the people said. </p><p>   A Foxconn spokesman said the current impact on production wasn't significant. He didn't comment further. </p><p>   Meanwhile, the suspension because of the power curbs at Volkswagen AG's plant in Chengdu continued Monday, a spokeswoman said, adding that the company expects to make up for any delays with increased production in the future. Toyota Motor Corp., which last week suspended production at its Chengdu plant, has conducted a test run on its production lines with its own power generator, a spokesman said. The plant wasn't operating at normal levels, he added. </p><p>   The high temperatures have extended across much of southern China. The country's meteorological administration said that 65 weather stations registered record temperatures. The heat advisory was listed as a \"red alert,\" its highest level, while the state forecaster put the drought warning at its second-highest level of orange. </p><p>   The heat has also sparked wildfires. More than 5,000 firefighters, police and other personnel have been called in to battle blazes that ignited late last week south of Chongqing's downtown. Authorities said the fires had been extinguished by Monday morning. </p><p>   --- </p><p>   Selina Cheng and Qianwei Zhang contributed to this article. </p><p></p>",
+  "published": "2022-08-23T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1918,
+          "end": 1923
+        },
+        {
+          "start": 1745,
+          "end": 1755
+        },
+        {
+          "start": 1929,
+          "end": 1934
+        },
+        {
+          "start": 1755,
+          "end": 1765
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

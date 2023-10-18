@@ -1,0 +1,28 @@
+{
+  "_id": "3a2ce061fa8e82b8479bd74f33b6fe3562b943d336d4b921348855324fa6112e",
+  "feed": "market-watch",
+  "title": "FDA advisers recommend Merck's COVID-19 pill in close vote",
+  "text": "<p>Shares of Merck &amp; Co. Inc. MRK were up nearly 1% in after-hours trading on Tuesday. The company is developing the pill, which is called molnupiravir, with the privately held Ridgeback Biotherapeutics.</p><p>The FDA is now expected to deliver its final decision, likely before the end of the year. The regulator often takes into account the recommendation of its advisory committees but is not required to do so.&#xa0;</p><p>If molnupiravir is authorized by the FDA in the coming weeks, as has been expected, it will be the first oral COVID-19 pill during the pandemic that you can take at home.</p>",
+  "published": "2021-11-30T17:03:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "name": "Merck & Co., Inc.",
+      "offsets": [
+        {
+          "start": 10,
+          "end": 21
+        },
+        {
+          "start": 10,
+          "end": 26
+        },
+        {
+          "start": 23,
+          "end": 28
+        }
+      ],
+      "nexusId": "10042334"
+    }
+  ]
+}

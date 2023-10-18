@@ -1,0 +1,48 @@
+{
+  "_id": "7273b3ca051be2cbbca8a4e3758e5cc7ce84a0e3e57b0693d02a548e4598c398",
+  "feed": "ftcomall",
+  "title": "Israel's Candiru sold states spyware to hack journalists and dissidents ",
+  "text": "<p>An Israeli cyber warfare group weaponised vulnerabilities in Microsoft and Google products, allowing governments to hack more than 100 journalists, activists and political dissidents globally, <a href=\"https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/\">new research</a> has found.</p> <p>The relatively unknown player, which markets itself as Candiru, is part of a lucrative Israeli offensive cyber industry that often recruits veterans of the army's elite units, and sells software that allows its clients to hack computers and cell phones remotely.</p> <p>Companies like Candiru and the largest player in this opaque industry, NSO Group, which was valued at $1bn in a 2019 transaction, said their software is designed to be used by government and law enforcement agencies to thwart potential terrorism and crime. </p> <p>But the UN, the University of Toronto's Citizen Lab and rights groups such as Amnesty International have regularly traced the spyware to the phones and computers of journalists, political dissidents and activists critical of repressive regimes.</p> <p>Emails sent to multiple addresses listed for Candiru executives seeking comment either bounced back or went unanswered.</p> <p>In this instance, Microsoft and Citizen Lab found that Candiru sold a spyware tool that exploited flaws in Microsoft Windows, allowing those deploying it to steal passwords, export files and messages from devices, including from encrypted messaging app Signal, and send messages from email and social media accounts. </p> <p>The report said that its analysis found Candiru's systems,&#xa0;which are sold exclusively to governments, had been “operated from Saudi Arabia, Israel, UAE, Hungary, and Indonesia, among other countries”.</p> <p>Candiru's spyware targeted at least 100 members of civil society, including politicians, human rights activists, journalists, academics, embassy workers and political dissidents, the report said, in places like the UK, Spain, Singapore and within Israel and the occupied Palestinian territories.</p> <p>The researchers also found more than 750 fake websites posing as groups including Amnesty International, the Black Lives Matter movement and the Russian postal service that were laced with its spyware. </p> <p>“Candiru has tried to remain in the shadows ever since its founding,” said Bill Marczak, senior fellow at the Citizen Lab. “But there is no space in the shadows for companies that facilitate authoritarianism by selling spyware used against journalists, activists, and civil society.”</p> <p>Microsoft <a href=\"https://blogs.microsoft.com/on-the-issues/2021/07/15/cyberweapons-cybersecurity-sourgum-malware/\">said in a blog post</a> that it had issued a software update this week “that will protect Windows customers from exploits [the company] was using to help deliver its malware”.</p> <p>Separately, the Citizen Lab report found that two Google Chrome <a href=\"https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/\">vulnerabilities disclosed</a> by the Silicon Valley company on Wednesday had been exploited by Candiru. While Google did not explicitly link the exploits to Candiru, it attributed them to a “commercial surveillance company”. </p> <p>The report shines a harsh spotlight on the growing mercenary spyware industry, which is increasingly drawing ire from the Big Tech platforms whose software can be weaponised by the groups. Candiru's larger rival NSO group is currently facing a lawsuit from WhatsApp, supported by other technology groups, for allegedly selling tools that allowed clients to inject its software surreptitiously into phones via WhatsApp calls. </p> <p>In a Candiru marketing document from 2019, seen by the Financial Times, the group promoted its “superpower-grade cyber intelligence system”, saying that “installation and exfiltration processes are stealth and covert, with no interruption to the regular activity of the target”.</p> <p>It added that “proprietary infiltration agents are silently deployed into the target's device, using our in-house developed set of attack vectors and zero-day vulnerabilities” — suggesting that the Microsoft Windows flaw is just one of those it has been exploiting. </p> <p>Google said in its post this week that there were “more commercial vendors selling access to 0-days than in the early 2010s”. </p> <p>Cristin Goodwin, general manager of Microsoft's Digital Security Unit, said: “A world where private sector companies manufacture and sell cyberweapons is more dangerous for consumers, businesses of all sizes and governments.” </p><p>Source: Hannah Murphy in San Francisco and Mehul Srivastava in London 2021 'Israel's Candiru sold states spyware to hack journalists and dissidents ' FT.com 15 July. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-07-15T18:00:29.062Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1120,
+          "end": 1129
+        },
+        {
+          "start": 61,
+          "end": 70
+        },
+        {
+          "start": 4001,
+          "end": 4010
+        },
+        {
+          "start": 3771,
+          "end": 3788
+        },
+        {
+          "start": 2402,
+          "end": 2411
+        },
+        {
+          "start": 1209,
+          "end": 1226
+        },
+        {
+          "start": 4001,
+          "end": 4012
+        },
+        {
+          "start": 1209,
+          "end": 1218
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

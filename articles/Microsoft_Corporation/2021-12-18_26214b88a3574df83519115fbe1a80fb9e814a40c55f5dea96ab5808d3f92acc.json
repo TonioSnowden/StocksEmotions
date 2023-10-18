@@ -1,0 +1,24 @@
+{
+  "_id": "26214b88a3574df83519115fbe1a80fb9e814a40c55f5dea96ab5808d3f92acc",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The jury was instructed to begin deliberating in the trial of Theranos founder Elizabeth Holmes, whose alleged fraud has underpinned one of the biggest white-collar criminal cases in Silicon Valley history.</p><p>Blackstone is in advanced talks to acquire a 49% stake in a new Manhattan office tower in a deal that values the skyscraper at $2.85 billion.</p><p>Microsoft's Bing said it suspended the autofill suggestion feature in China to comply with Chinese laws, while some users in the country said the search engine had become inaccessible.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-12-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 349,
+          "end": 358
+        },
+        {
+          "start": 349,
+          "end": 360
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

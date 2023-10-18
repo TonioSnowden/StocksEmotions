@@ -1,0 +1,36 @@
+{
+  "_id": "877a3066fbf89690a71e0179e5f001985e3a57bbc417e44711fb2657bb424fa1",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Moderna  Is Best at  Preventing  Hospital  Stays  ----  By Sarah Toy",
+  "text": "<p>   The Covid-19 vaccine made by Moderna Inc. is more effective at keeping people out of the hospital than those from Pfizer Inc. and partner BioNTech SE or Johnson &amp; Johnson, new research indicates. </p><p>   In a study published by the Centers for Disease Control and Prevention on Friday, researchers studied more than 3,600 adults hospitalized in the U.S. between March and August 2021. They looked at people admitted to 21 hospitals who had at least one Covid-19 symptom and a positive PCR or antigen test, as well as patients admitted to a hospital who tested negative for Covid-19. They then compared their vaccination status and which vaccine they received. </p><p>   The researchers found that the Moderna vaccine's effectiveness against hospitalization was 93%, compared with 88% for Pfizer-BioNTech's and 71% for J&amp;J's. The effectiveness of the Moderna and Pfizer-BioNTech vaccines also seemed to stand up better over time than that of J&amp;J's. </p><p>   \"These real-world data suggest that the two-dose Moderna and Pfizer-BIoNTech mRNA vaccine regiments provide more protection than does the one-dose Janssen viral vector vaccine regimen,\" the authors wrote, referring to the J&amp;J vaccine by its branded name. They added that although there are differences in vaccine effectiveness, all three of the vaccines provide substantial protection against hospitalization. </p><p>   The Moderna and Pfizer-BioNTech vaccines also produced higher post-vaccination antibody levels than the J&amp;J vaccine, the researchers said. </p><p></p>",
+  "published": "2021-09-18T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 153,
+          "end": 170
+        },
+        {
+          "start": 800,
+          "end": 803
+        },
+        {
+          "start": 1152,
+          "end": 1155
+        },
+        {
+          "start": 1444,
+          "end": 1447
+        },
+        {
+          "start": 923,
+          "end": 926
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

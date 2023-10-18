@@ -1,0 +1,34 @@
+{
+  "_id": "5f84f029dbb4e84994cbfdc2f23fba0092c8b2209c056309d643ed6d795a4ece",
+  "feed": "wall-street-journal",
+  "title": "Elon Musk Tweets He's Buying England's Manchester United Soccer Team; Billionaire's post comes amid court battle over whether he can walk away from $44 billion agreement to buy Twitter",
+  "text": "<p>Mr. Musk didn't immediately respond to a request for comment late Tuesday.</p><p>Mr. Musk, the world wealthiest person and one of Twitter's most prominent users, with more than 100 million followers, has used the platform before to drop big pronouncements—some serious, many of them not.</p><p>Weeks after persuading Twitter Inc. to accept his $44 billion acquisition offer in April, he used the platform to say that the deal was \"temporarily on hold\" pending clarity on questions about the company's user data. He later cited the same issue, in part, as reason for trying to walk away from the deal, prompting Twitter to sue the billionaire to enforce the contract. A trial in that case is scheduled for October in Delaware's Court of Chancery.</p><p>Mr. Musk also tweeted several days after inking the Twitter acquisition deal that he was acquiring Coca-Cola Co., which at the time had a market value of about $282 billion. \"Next I'm buying Coca-Cola to put the cocaine back in,\" Mr. Musk wrote.</p><p>In December, Mr. Musk tweeted that he was \"thinking of quitting my jobs &amp; becoming an influencer full-time wdyt,\" using an abbreviation for \"what do you think?\" Mr. Musk remains CEO of Tesla as well as rocket company SpaceX, formally known as Space Exploration Technologies Corp.</p><p>In 2018 Mr. Musk suggested on Twitter he had \"funding secured\" to take Tesla private. The Securities and Exchange Commission fined Mr. Musk for what it deemed a false statement. Mr. Musk also relinquished his role as Tesla chairman as part of the settlement. Mr. Musk is suing to have the settlement thrown out.</p><p>While the price tag for Manchester United Ltd.—which is listed on the New York Stock Exchange and has a market value of around $2 billion—would be considerably smaller than Twitter's, buying the storied Premier League football team would further stretch Mr. Musk's finances amid uncertainty over whether the Delaware court will force him to go through with the Twitter takeover. Earlier this month he sold nearly $7 billion in Tesla stock, saying he acted in case he had to buy Twitter. He also said he planned no further Tesla share sales.</p><p>When Russian oligarch Roman Abramovich earlier this year sold Chelsea FC after he was sanctioned in the wake of Russia's invasion of Ukraine, the team went for £4.25 billion, equivalent to around $5.3 billion. It was acquired by a group led by Los Angeles Dodgers part-owner Todd Boehly.</p><p>Manchester United is widely considered one of the world's most valuable sports brands, with a base of passionate supporters that reaches around the globe, but it is also a club that has frequently been in turmoil. The U.S.-based Glazer family, then led by the late corporate raider Malcolm Glazer, took over the club in a leveraged buyout in 2005. The club went public on the New York Stock Exchange in 2012, but the Glazers are the only entity holding more than 10% of its shares, according to the Manchester United website. The Glazers also own the Tampa Bay Buccaneers of the National Football League.</p><p>A Buccaneers spokesman said the team operates completely separately from Manchester United. The English team didn't immediately respond to an email request for comment.</p><p>From the start, the Glazers have had a contentious relationship with the team's fan base, which was upset about ceding control of the team to American buyers who had taken on significant debt to make the acquisition. The club has won five Premier League titles during their ownership, but \"Love United, Hate Glazers\" stickers—the remnants of a fan campaign against the owners—are nonetheless affixed to some seats at Old Trafford, the club's stadium.</p><p>Trouble around the team has only intensified this season, as United lost its first two matches of the new season, placing it in last place in the standings and stoking fears that it has fallen out of England's soccer elites. Michael Knighton, a former director of the club, has said recently that he is trying to put together a group that could wrest control of United from the Glazers.</p><p>Bruce Orwall and Andrew Beaton contributed to this article.</p><p>Elon Musk Tweets He's Buying England's Manchester United Soccer Team</p>",
+  "published": "2022-08-17T03:51:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 828,
+          "end": 841
+        },
+        {
+          "start": 925,
+          "end": 934
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3971816,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.60332537,
+        "tagPositionWeight": 0.0005069971,
+        "titleWeight": 0.0
+      },
+      "typeRank": 10
+    }
+  ]
+}

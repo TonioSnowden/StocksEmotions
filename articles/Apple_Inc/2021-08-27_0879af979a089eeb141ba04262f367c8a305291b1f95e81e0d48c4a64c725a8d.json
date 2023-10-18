@@ -1,0 +1,24 @@
+{
+  "_id": "0879af979a089eeb141ba04262f367c8a305291b1f95e81e0d48c4a64c725a8d",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Apple announced changes to its App Store regulations that will allow software developers to tell customers about other ways to pay for services outside Apple's ecosystem, part of a proposed settlement of a class-action lawsuit.</p><p>---</p><p>BofA unveiled its most significant executive shake-up in years, saying that operating chief Tom Montag and Anne Finucane, a vice chairman, will retire.</p><p>---</p><p>The hacker who is taking responsibility for breaking into T-Mobile's systems said the wireless company's lax security eased his path into a cache of records.</p><p>---</p><p>Major U.S. stock indexes posted declines, with the S&amp;P 500 and Nasdaq both retreating 0.6% and the Dow industrials losing 0.5%.</p><p>---</p><p>ABC News' president told staffers that she has requested an independent inquiry into how the network handled sexual-assault allegations against a former executive producer of \"GMA.\"</p><p>---</p><p>Lordstown Motors named Daniel Ninivaggi, a veteran auto-industry executive and onetime lieutenant to Carl Icahn, as its new CEO.</p><p>---</p><p>Axel Springer agreed to buy Washington, D.C., publisher Politico, expanding the German publisher's portfolio of U.S.-based media holdings.</p>",
+  "published": "2021-08-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 152,
+          "end": 157
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

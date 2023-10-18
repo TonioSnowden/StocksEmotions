@@ -1,0 +1,29 @@
+{
+  "_id": "6f71bc21b67fb34b83db48c29798b0fcb64d302290298b1c314094c53dd38b83",
+  "feed": "reuters",
+  "title": "Leonardo recoups some losses after problems with sub-contractor",
+  "text": "<p>The state-controlled conglomerate said the sub-contractor, Italy's Manufacturing Processes Specification (MPS), was among sub-suppliers qualified by Boeing .</p><p>\"The sub-supplier is under scrutiny by prosecutors therefore Leonardo is an injured party and will not bear any potential costs associated with this issue,\" Leonardo said on Thursday.</p><p>It said MPS was no longer one of its suppliers.</p><p>MPS has worked for a broad set of aerospace companies including Spirit AeroSystems , according to industry sources and documents.</p><p>It is also an approved supplier to Airbus , according to a list available via the planemaker's website.</p><p>\"The reaction of the shares already prices in the potential risk of non-recurring expenses, but the reputational problem for (Leonardo's) Aerostructures division remains,\" broker Equita said.</p><p>The division is already suffering from a fall in demand and is expected to burn through cash this year as some of plants operate below capacity.</p><p>Shares in Leonardo were up 1.1% at 0833 GMT, outpacing a 0.6% rise in Italy's blue-chip index FTSE MIB.</p>",
+  "published": "2021-10-15T09:18:05.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999831,
+      "offsets": [
+        {
+          "start": 149,
+          "end": 155
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3678435,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.3678435,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

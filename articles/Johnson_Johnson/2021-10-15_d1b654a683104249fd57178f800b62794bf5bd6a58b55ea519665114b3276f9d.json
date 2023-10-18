@@ -1,0 +1,36 @@
+{
+  "_id": "d1b654a683104249fd57178f800b62794bf5bd6a58b55ea519665114b3276f9d",
+  "feed": "wall-street-journal",
+  "title": "Business News: J&J Places Talc Liabilities Into Chapter 11",
+  "text": "<p>The chapter 11 filing makes J&amp;J the latest company to turn to chapter 11 as a mechanism to settle large numbers of lawsuits over defective products or other harms.</p><p>Victims' lawyers had criticized J&amp;J for exploring a bankruptcy over talc, saying that chapter 11 wasn't meant to help healthy companies avoid accountability.</p><p>The company's actions underscore the risks it faces from talc litigation, which as of July totaled roughly 34,600 lawsuits linking Johnson's Baby Powder to ovarian cancer, asbestos poisoning and other illnesses.</p><p>Thursday's bankruptcy also confirms the fears of injury lawyers, who had voiced worries that J&amp;J would put talc claims into chapter 11 to stop jury verdicts, protect assets a pressure plaintiffs to accept settlements.</p><p>\"We are taking these actions to bring certainty to all parties involved in the cosmetic talc cases,\" said Michael Ullmann, J&amp;J's executive vice president and general counsel.</p>",
+  "published": "2021-10-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 196,
+          "end": 199
+        },
+        {
+          "start": 15,
+          "end": 18
+        },
+        {
+          "start": 28,
+          "end": 31
+        },
+        {
+          "start": 627,
+          "end": 630
+        },
+        {
+          "start": 875,
+          "end": 878
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

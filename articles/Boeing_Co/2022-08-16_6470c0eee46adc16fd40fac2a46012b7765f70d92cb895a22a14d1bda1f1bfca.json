@@ -1,0 +1,34 @@
+{
+  "_id": "6470c0eee46adc16fd40fac2a46012b7765f70d92cb895a22a14d1bda1f1bfca",
+  "feed": "wall-street-journal",
+  "title": "American Airlines Agrees to Buy 20 Boom Supersonic Jets; Carrier joins United Airlines in betting on return of faster-than-sound flying nearly two decades after Concorde's last flight",
+  "text": "<p>Aerospace startup Boom is developing new planes capable of traveling at supersonic speeds, faster than the speed of sound. Overture is being designed to carry 65 to 80 passengers at Mach 1.7 over water, or 1.7 times the speed of sound—about twice as fast as commercial planes can fly today.</p><p>American joins United Airlines Holdings Inc., which last year agreed to buy 15 of Boom's Overture jets, as the airlines look to revive supersonic travel nearly two decades after the Anglo-French Concorde was retired.</p><p>\"Supersonic travel will be an important part of our ability to deliver for our customers,\" Derek Kerr, American's chief financial officer, said in a statement Tuesday.</p><p>Boom has said Overture will be able to fly over 600 routes in half the time those flights currently take—such as Miami to London in under five hours, and Los Angeles to Honolulu in three hours—at fares comparable with current business-class prices.</p><p>Some industry observers are skeptical both about the level of demand for ultra-fast travel and of Boom's plans. Boom has said it expects its newly redesigned four-engine Overture jets to roll off the production line in 2025 and to carry passengers by 2029.</p><p>The jet still doesn't have an engine maker. Boom has had discussions with Rolls-Royce Holdings Plc, and a spokeswoman said Tuesday that Boom is now evaluating the results of Rolls-Royce's work and assessing market requirements and design alternatives.</p><p>Other companies have tried to develop supersonic business jets and small passenger planes since the Concorde was retired in 2003. Aerion Supersonic, a startup backed by Boeing Co., closed last year after running out of money.</p><p>Only British Airways and Air France bought the Concorde. High costs and concerns about the noise the Concorde produced wound up curtailing its use to pricey luxury trips between Europe and the East Coast. Declining demand after a fatal crash in 2000 and the travel slump after the 9/11 attacks led to the Concorde's retirement.</p><p>Boom Chief Executive Blake Scholl has said previously that there have been significant technological advances since the Concorde was designed, such as lighter carbon-fiber components.</p><p>Boom currently has 130 orders for its Overture, the company said Tuesday, compared with 14 Concordes that ever entered service. In addition to United and American, Japan Airlines Co. Ltd. preordered 20 of the aircraft in 2017.</p><p>United last week agreed to put down a $10 million deposit for its order of air taxis being developed by Archer Aviation Inc, deepening its commitment to another nascent aviation technology.</p><p>American Airlines Agrees to Buy 20 Boom Supersonic Jets</p>",
+  "published": "2022-08-16T14:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1603,
+          "end": 1613
+        },
+        {
+          "start": 1593,
+          "end": 1603
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290127,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 2.3841858e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "21f544e5928e2997ec4e29a6fa2ae65b1d57e679e61e6cb9c301425565079a8c",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Goldman Sachs Lifts Covid-19 Protocols  ----  By Talal Ansari and Charley Grant",
+  "text": "<p>    Goldman Sachs Group Inc. is getting rid of its Covid-19 protocols. </p><p>   The bank said employees can enter most of its offices regardless of vaccination status, effective Sept. 6, according to a memo sent to Goldman employees Tuesday and viewed by The Wall Street Journal. Employees would no longer be required to participate in regular Covid-19 testing or wear masks, the memo said. </p><p>   \"With many tools including vaccination, improved treatments and testing now available, there is significantly less risk of severe illness,\" Goldman said in the memo. The company cited the Centers for Disease Control and Prevention, which recently relaxed many pandemic precautions. </p><p>   The new rules are set to take place on Sept. 6, the day after Labor Day. </p><p>   The New York Post earlier reported that Goldman would be lifting its Covid-19 protocols. </p><p>   Goldman has been among the more aggressive banks about bringing employees back to the office. It was one of the first firms to bring employees back to the office full-time last year. </p><p>    In the memo, Goldman said it will also reduce the number of Covid tests in their offices. </p><p>   Additionally, Morgan Stanley sent a memo to New York metro staffers last week saying it would discontinue Covid testing and health requirements, according to a person familiar with the matter, which included exposure notification emails for quarantine and isolation. </p><p>   Still, Morgan Stanley wants employees who test positive for Covid-19 to continue to isolate for five days, and then wear a mask for five days, the person said. Those who have had a positive exposure don't need to isolate or quarantine, but should wear a mask for 10 days and get tested on the fifth day of exposure, the person said. </p><p></p>",
+  "published": "2022-08-31T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999999,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 0,
+          "end": 23
+        },
+        {
+          "start": 0,
+          "end": 24
+        },
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 15,
+          "end": 28
+        },
+        {
+          "start": 201,
+          "end": 208
+        },
+        {
+          "start": 202,
+          "end": 209
+        },
+        {
+          "start": 518,
+          "end": 525
+        },
+        {
+          "start": 767,
+          "end": 774
+        },
+        {
+          "start": 773,
+          "end": 780
+        },
+        {
+          "start": 815,
+          "end": 822
+        },
+        {
+          "start": 822,
+          "end": 829
+        },
+        {
+          "start": 1009,
+          "end": 1016
+        },
+        {
+          "start": 1018,
+          "end": 1025
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 11.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

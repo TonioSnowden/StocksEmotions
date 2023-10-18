@@ -1,0 +1,30 @@
+{
+  "_id": "1fc02967b5626918e3f68b826839b985085b11c8271553ec111df08f049f4cbf",
+  "feed": "wall-street-journal",
+  "title": "U.S. Stocks Climb, Finish With Weekly Gains; Earnings drive outsize moves among some stocks such as Kroger; more volatility expected",
+  "text": "<p>Stocks began the week lower but then made up ground over the following days, with shares of banks, manufacturers and consumer-discretionary companies helping lead the charge. Analysts said at least some of the recovery seemed to be fueled by investors looking for bargains after three straight weekly losses that had wiped out much of the market's summer rally.</p><p>Investor sentiment has reached extremely negative levels, Bank of America said in a report Friday. One measure of investor sentiment tracked by the bank, based off of hedge fund positioning, flows into credit and equity funds and other factors, has hit rock bottom—an indication that markets look oversold and investors should start buying again, analysts said.</p><p>Moreover, earnings results have largely pointed to resilience among U.S. corporations. Walmart and Home Depot shares jumped earlier in the week after the two retailers posted better than expected results.</p><p>\"I don't see an earnings collapse,\" said Jack Ablin, chief investment officer of Cresset Capital. \"Obviously, if we go into a recession, it's a different matter.\" For right now, though, companies seem to be weathering inflation and slowing growth well, he added.</p><p>Others, however, caution that the market faces a rocky path ahead. Central banks from the Federal Reserve to its counterparts in the U.K. and the eurozone have made clear their intent to bring down inflation, even if tighter monetary policy winds up pushing economies into recessions. The outlook for global growth also looks vulnerable with risks such as Covid-19 lockdowns in China and Europe's energy crisis.</p><p>\"We've got this long-running, learned, Pavlovian response that when demand appears to be faltering or equity values are declining, we've been conditioned for central banks to top up the punch bowl for investors,\" said Richard McGuire, head of rates strategy at Rabobank.</p><p>But with inflation above their target, central banks are instead working to make sure demand for goods and services declines by raising rates and selling off bond portfolios, Mr. McGuire added. \"That clearly is not good news for risky assets,\" he said.</p><p>The market's rally was broad. All 11 sectors of the S&amp;P 500 posted weekly gains for the first time since February 2021, according to Dow Jones Market Data.</p><p>Earnings drove some of the market's bigger moves.</p><p>Shares of RH, formerly known as Restoration Hardware, jumped 4.5% after the upscale home retailer reported better-than-expected results for the second quarter.</p><p>Grocery-chain Kroger added 7.4% after raising its guidance for full-year earnings.</p><p>Government bond yields rose, with the yield on the 10-year U.S. Treasury note going up to 3.321% from 3.291% Thursday. Yields, which rise as bond prices fall, have climbed for six consecutive weeks—a feat bond traders have attributed to increasing optimism about the economic outlook in the U.S.</p><p>Meanwhile, the dollar fell against most major currencies Friday, pushing the WSJ Dollar Index down 0.7%. That marked a reversal for the greenback, which has been rallying as European currencies have come under pressure from rocketing energy prices and Japan's yen has suffered from loose monetary policy.</p><p>Elsewhere, the Stoxx Europe 600 gained 1.5%, led higher by shares of basic-resource companies and banks.</p><p>Hong Kong's benchmark Hang Seng Index rose 2.7% after China's August inflation readings fell short of analysts' expectations. China's CSI 300 index gained 1.4%, with the healthcare and property sectors among the biggest gainers.</p><p>China's consumer prices rose 2.5% in August from a year earlier, China's National Bureau of Statistics said, a more subdued rise than July's 2.7% increase. Slower inflation should offer relief to policy makers as they come up with ways to stimulate the economy, which is facing challenges including an ailing property sector.</p><p>—Rebecca Feng contributed to this article</p><p>Write to Joe Wallace at joe.wallace@wsj.com and Akane Otani at akane.otani@wsj.com</p><p>U.S. Stocks Climb, Finish With Weekly Gains</p>",
+  "published": "2022-09-09T20:04:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 806,
+          "end": 813
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9506317,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.00063169,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

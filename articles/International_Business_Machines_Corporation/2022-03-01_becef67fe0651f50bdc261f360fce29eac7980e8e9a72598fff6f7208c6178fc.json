@@ -1,0 +1,24 @@
+{
+  "_id": "becef67fe0651f50bdc261f360fce29eac7980e8e9a72598fff6f7208c6178fc",
+  "feed": "wall-street-journal",
+  "title": "Toyota Shutdown Over Cyberattack at a Supplier Reflects Cautious Culture; Production in Japan to resume Wednesday after car maker hits stop button over malicious virus in supplier's computers",
+  "text": "<p>The company applied that practice dating to the 20th century when it was hit this week with a 21st-century problem—a cyberattack that paralyzed one of its suppliers. Plastic-parts maker Kojima Industries Corp. said it realized early Monday evening that it couldn't operate as usual on Tuesday, and it quickly relayed that news to its main customer, Toyota.</p><p>So Toyota hit the stop button for a whole day. Its 14 factories in Japan didn't build any cars Tuesday.</p><p>\"It's better to stop and figure out what the problem is, rather than to continue working while worrying that something might go wrong,\" said a Toyota spokesman.</p><p>The company said production would resume Wednesday. The daylong shutdown was the latest woe for Toyota after problems with semiconductor supplies.</p><p>In recent years, Toyota President Akio Toyoda has given speeches and held training sessions to spread the philosophy of Toyota's production system beyond the factory floor. Subordinates have applied the factory principle of avoiding \"muda,\" or waste, to economizing on office supplies.</p><p>Kojima is one of the more than 1,000 suppliers in the Toyota empire that play a role in keeping production lines running smoothly.</p><p>The parts maker said it noticed problems with its servers at around 9 p.m. Saturday, forcing a restart. After the system was restarted, Kojima said it discovered a computer virus and received a threatening message. That can be a hallmark of a ransomware attack in which criminals seek payment in return for restoring a computer system to normal.</p><p>A Kojima spokesman said the company at this point isn't using the word ransomware and continues to examine what happened. It said it was working with local police to counter the attack.</p><p>After calling in outside security experts and shutting off all its systems, Kojima struggled to restore normal functioning and on Monday realized it couldn't properly exchange information with Toyota about supplying parts, Kojima said. While the car maker has eased away from some elements of its \"just-in-time\" production system in recent years, it still often counts on suppliers to deliver just enough product each day.</p><p>Factories are set to operate the rest of the week with a trimmed-down version of Toyota's parts-ordering system, the Toyota spokesman said. Normally, the system monitors in real time how much of a particular part gets used so suppliers can fine-tune their deliveries. It will go without that function for now, the spokesman said, with full restoration set for next week.</p><p>Cyberattacks on manufacturing companies, particularly those involving ransomware, have exploded in the past year, according to a February report by International Business Machines Corp. Manufacturing overtook financial services and insurance as the biggest target of ransomware attacks in 2021, IBM said.</p><p>In May 2021, Toyota Auto Body Co., a Toyota Motor subsidiary, and Toyota affiliate Daihatsu Diesel Mfg. CoDaihatsu Diesel Mfg. Co. were hit by cyberattacks.</p><p>Toyota said it had information-security policies that it requires all its suppliers to follow. The company said it reminded suppliers of those policies after the Kojima attack.</p><p>Write to Sean McLain at sean.mclain@wsj.com</p><p>Toyota Shutdown Over Cyberattack at a Supplier Reflects Cautious Culture</p>",
+  "published": "2022-03-01T13:26:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 2807,
+          "end": 2810
+        },
+        {
+          "start": 2660,
+          "end": 2691
+        }
+      ]
+    }
+  ]
+}

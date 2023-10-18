@@ -1,0 +1,58 @@
+{
+  "_id": "886f54513999c5bc005e858228717bd5aab820116281c61fe434104e2f4f8fd5",
+  "feed": "wall-street-journal",
+  "title": "J&J to Stop Selling Talc-Based Baby Powder Globally Next Year; Company had already switched product in U.S., Canada, citing decline in customer demand amid safety concerns",
+  "text": "<p>J&amp;J is facing thousands of lawsuits alleging the talc powder has harmed women who had used it for years. Some of the lawsuits have led to costly jury verdictsagainst the company.</p><p>J&amp;J has been fighting the lawsuits and verdicts, and says its talc-containing powder is safe. The company said Thursday its position on the safety of its cosmetic talc remains unchanged.</p><p>\"As part of a worldwide portfolio assessment, we have made the commercial decision to transition to an all cornstarch-based baby powder portfolio,\" the company said in a statement.</p><p>In 2020, J&amp;J said misinformation about the product and \"a constant barrage of litigation advertising\" had caused the demand for talc-based Johnson's Baby Powder in North America to decline.</p><p>The baby-powder lawsuits have generally alleged that talc, a mineral that is crushed to create Johnson's Baby Powder, can cause inflammation that leads to cancer.</p><p>Some of the lawsuits further allege that asbestos in the powder contributed to cancer. Asbestos, a mineral once widely used in construction, has been linked to increased risk for mesothelioma.</p><p>The company has repeatedly said its talcum powder doesn't contain asbestos.</p><p>In October 2019, it recalled about 33,000 bottles of Johnson's Baby Powder after the U.S. Food and Drug Administration found a small amount of asbestos in a single bottle. J&amp;J said it issued the recall out of an abundance of caution. It hired its own labs to test the same bottle and others in the lot and concluded there was no detectable asbestos.</p><p>Talc lawsuits against J&amp;J in the U.S. are on hold after the bankruptcy filing last year by LTL Management LLC, a subsidiary created to ferry the company's talc-related liabilities into chapter 11.</p><p>There were roughly 38,000 talc-related lawsuits pending against J&amp;J when it moved them into bankruptcy court. By then, settlements and verdicts in talc cases had cost J&amp;J $3.5 billion, with more lawsuits expected for years to come, court papers say.</p><p>Plaintiffs' lawyers have sought to have LTL's chapter 11 case thrown out, saying it filed bankruptcy as a negotiating tactic to benefit J&amp;J. In February, a bankruptcy judge ruled that the chapter 11 case was filed for the legitimate purpose of resolving mass litigation. A federal appeals court is reviewing that decision.</p><p>—Andrew Scurria contributed to this article.</p><p>Write to Talal Ansari at talal.ansari@wsj.com</p><p>J&amp;J to Stop Selling Talc-Based Baby Powder Globally Next Year</p>",
+  "published": "2022-08-11T23:29:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.9999975,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 177,
+          "end": 180
+        },
+        {
+          "start": 551,
+          "end": 554
+        },
+        {
+          "start": 1330,
+          "end": 1333
+        },
+        {
+          "start": 1528,
+          "end": 1531
+        },
+        {
+          "start": 1766,
+          "end": 1769
+        },
+        {
+          "start": 1868,
+          "end": 1871
+        },
+        {
+          "start": 2086,
+          "end": 2089
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

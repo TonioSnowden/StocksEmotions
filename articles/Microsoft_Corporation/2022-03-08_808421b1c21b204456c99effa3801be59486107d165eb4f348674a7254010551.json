@@ -1,0 +1,28 @@
+{
+  "_id": "808421b1c21b204456c99effa3801be59486107d165eb4f348674a7254010551",
+  "feed": "ftcomall",
+  "title": "Google buys cyber security company Mandiant for $5.4bn",
+  "text": "<p>Google has agreed to pay $5.4bn to acquire Mandiant, one of the best-known sleuths that track sophisticated cyber attacks, giving it a prime position on the front lines of the battle against cyber crime and digital warfare.</p> <p>The all-cash deal comes as the internet giant looks to boost its cloud computing business, Google Cloud, in an attempt to catch up with Amazon and Microsoft, which offer cyber security products through their bigger cloud platforms. </p> <p>Thomas Kurian, chief executive officer of Google Cloud, said that the deal was a response to fact that “the sophistication and severity of attacks that were previously used to target major governments are now being used to target companies in every industry”.</p> <p>Mandiant is one of the best known threat intelligence providers, tracking the cyber campaigns of nation-state actors such as Russia, Iran, China and North Korea, as well as criminal groups — including ransomware gangs that have over the past two years unleashed millions of debilitating attacks on companies and government entities.</p> <p>Its incident response team is also regularly called out to respond to high-profile attacks and works closely with the US government. Last year, it was drafted to help investigate an audacious hack by a ransomware cartel on the Colonial Pipeline, which led to petrol shortages on America's East Coast.</p> <p>In 2020, the company first revealed the <a href=\"https://www.ft.com/content/3558b9b6-465f-4338-9d66-70b2fbe8f900\">SolarWinds hack</a>, a sophisticated cyber espionage campaign attributed by US officials to Russia's foreign intelligence service, after the company was itself breached by the same hackers.</p> <p>The acquisition will allow Google to better match the cyber capabilities of cloud services rival Microsoft, which has long developed in-house threat intelligence expertise but also last year acquired smaller cyber security companies, including RiskIQ and ReFirm Labs.</p> <p>“Given Mandiant's close relationship with the US federal government, [Google] gains a foothold in an important and difficult to penetrate segment of the market,” said Youssef Squali, head of internet research at Truist Securities.</p> <p>He added that the acquisition was both “strategic and somewhat defensive” as Google seeks to “compete aggressively with the much larger AWS and [Microsoft] Azure”.</p> <p>Kevin Mandia, founder and CEO of Mandiant, said that the wide reach of Google's network and its AI capabilities would make it possible to automate much of his company's work and apply it more broadly, at a time when Mandiant was struggling to find enough people to handle demand. </p> <p>“We have a massive shortage of [cyber security] expertise on the planet,” he added.</p> <p>Mandiant employs hundreds of consultants and analysts to work with organisations that have suffered attacks and to study how the intrusions were mounted, looking for patterns that identify the attackers and help weed out future assaults. Around half of its revenue comes from selling professional services. </p> <p>The deal, which would be the second-largest ever mounted by Google parent Alphabet, comes at a time when the internet company is already under intense antitrust scrutiny. </p> <p>Phil Venables, chief information security officer for Google Cloud, claimed that “the client security space is highly competitive” and that the acquisition “significantly increases competition in the market”. </p> <p>He added that Google expects to complete the deal before the end of the year, suggesting that it is does not anticipate the kind of in-depth regulatory investigation that has become <a href=\"https://www.ft.com/content/f30452bd-bf13-4841-8038-264a83c9295d\">common in deals</a> by the biggest tech companies. </p> <p>Google already offers cyber security services to customers of its Cloud software including Chronicle, which offers security analytics and automation, and Security Command Center to help groups detect and protect themselves from cyber threats.</p> <p>Mandiant, which had been acquired by US cyber security group FireEye in 2013, became a standalone publicly traded company again last year when it sold its products business and the FireEye name for $1.2bn to a consortium led by private equity firm Symphony Technology Group. </p> <p>Mandiant's shares closed up 16 per cent on the Nasdaq on Monday after reports of the deal were published. </p><p>Source: Hannah Murphy and Richard Waters in San Francisco, Madhumita Murgia in London 2022 'Google buys cyber security company Mandiant for $5.4bn' FT.com 8 March. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-03-08T13:13:09.169Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1673,
+          "end": 1682
+        },
+        {
+          "start": 2219,
+          "end": 2229
+        },
+        {
+          "start": 371,
+          "end": 380
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

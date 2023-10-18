@@ -1,0 +1,32 @@
+{
+  "_id": "46f1f2fd22a9c8266d9de6c0e7c343ee402a99b7bc78a18a3d9b847220194bbe",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: Citi Earnings Soar 48% as Rainy-Day Cash Is Freed",
+  "text": "<p>Revenue fell 1% to $17.15 billion, better than the $16.98 billion analysts expected. Excluding the sale of its Australian consumer business, revenue would have been up 3%.</p><p>In the institutional clients group, strong investment banking offset a drop in trading, and revenue rose 4% to $10.79 billion. In the consumer bank, revenue fell 13% to $6.26 billion, hit by the Australian deal.</p><p>Citigroup freed up $1.16 billion it had set aside last year to cover loan defaults. A year ago, the bank was still building up reserves and took a more than $2 billion charge on credit. JPMorgan Chase &amp; Co., Bank of America Corp. and Wells Fargo &amp; Co. also released some of their rainy-day funds, boosting quarterly profits.</p><p>Citigroup's results are heavily tied to Wall Street, which enjoyed some of its best quarters ever in the past year. Businesses called on Citigroup bankers to help raise cash, sell bonds and strike deals, while buoyant markets led to active trading.</p><p>Investment banking fees were up 39%, with a record pace for global mergers powering advisory fees to $539 million, more than triple the prior year. Debt underwriting and equity underwriting fees rose 19% and 5%, respectively.</p><p>But trading volumes have slowed down for fixed-income assets, as expected, denting third-quarter results across the industry. Citigroup's trading revenue fell 5%, matching rival JPMorgan. Citigroup fixed-income revenue fell 16%, while equities revenue rose 40%.</p><p>Its shares rose 0.8% Thursday.</p>",
+  "published": "2021-10-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 570,
+          "end": 590
+        },
+        {
+          "start": 564,
+          "end": 584
+        },
+        {
+          "start": 1362,
+          "end": 1370
+        },
+        {
+          "start": 1350,
+          "end": 1358
+        }
+      ]
+    }
+  ]
+}

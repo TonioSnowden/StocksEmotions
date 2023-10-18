@@ -1,0 +1,34 @@
+{
+  "_id": "cc7de95d738e2df69fae933bf03fda2dcb147a194fa7f9d5fef825e852748067",
+  "feed": "wall-street-journal",
+  "title": "Meet 'Ms. Caddy,' the 1965 Cadillac That Keeps a Restaurant Cooking; Julio Pena and Beatrice Tosti di Valminuta's Eldorado convertible is a staple of Manhattan's East Village, where they own Il Posto Accanto",
+  "text": "<p>Ms. Tosti di Valminuta: It was 4 o'clock in the morning when we met. He had this 1969 Cadillac Coupe de Ville convertible. He thought it was love at first sight, but I just really liked his car. He took me to Save the Robots, a famous after-hours spot, in his Cadillac. </p><p>Mr. Pena in the 1965 Cadillac Eldorado, with the couple's dog, Jojo. PHOTO: Sam Williams for The Wall Street Journal </p><p>The 1965 Cadillac's back end. Parking a big car on the street in New York City can be tough, Mr. Pena says. PHOTO: Sam Williams for The Wall Street Journal</p><p>Mr. Pena: The next day, she invited me for dinner. She cooked, and I never left.</p><p>Ms. Tosti di Valminuta: Four months later, the Cadillac died. Julio started looking for another car. He found this 1965 Eldorado on Long Island. He bought it and said to me: \"I know we are going to be together forever. And I want to give you this car.\" I was born in '63, and the car was born in '65, so we were about the same age. When Julio and I built our first restaurant, we used this car for everything. Home Depot. Building supply in Queens and Brooklyn. We filled it with two-by-fours, and sheetrock.</p><p>Mr. Pena: For about 30 years, I have been parking the car on East 2nd Street. We named it \"Ms. Caddy,\" and we love her. The car has aches and pains. She has given me some major headaches over the years. She's been through some body shops, with many New York battle scars and stories. But the car has become part of the East Village community. Our block on East 2nd Street is one of the safest blocks in the city. Once, the motor for an electric window broke, so for two days, I left the window open. Nobody touched the car.</p><p>Ms. Tosti di Valminuta: Everybody in the neighborhood looks out for it. They know if they see somebody lying on the car and having their picture taken, to yell at them: \"Hey, don't lie on the car!\" And we still use it for the restaurant. The farmers at the farmers markets love it when I show up with this car. Just yesterday, Julio had the car at a restaurant supply store in Jersey. </p><p>The Cadillac logo is set between radio speakers mounted in the back seat. PHOTO: Sam Williams for The Wall Street Journal </p><p>Ms. Tosti di Valminuta and Mr. Pena in the Cadillac with Jojo. 'We named it \"Ms. Caddy,\" and we love her,' he says. PHOTO: Sam Williams for The Wall Street Journal</p><p>Mr. Pena: Parking on the street can be tough with a car this big. With alternate side of the street parking, I have to move the car frequently. Is it easy to drive a car like this in Manhattan? If you were born and raised in the city, it's a breeze. My wife was born in Rome, and she has no problem driving this Cadillac in New York. At this point, it's such a sentimental thing, and we love how much joy Ms. Caddy brings to the neighborhood. Once this guy asked me if he could have his picture taken with the car and I said, \"How about I take the top down and you can sit in it?\" As my dad taught me: Be nice. It don't cost nothing.</p><p>Write to A.J. Baime at myride@wsj.com.</p><p>my ride</p><p>* Her Road to Motorsports Began With a Vintage Ford Pickup</p><p>* She Rode Home After School in a Convertible Fit for a President</p><p>* U-2 Spy Planes Need Cars Like His Camaro to Touch Down Safely</p><p>* Her Small Citroën Conquered the Alps</p><p>* A 1941 Chevrolet Special Deluxe Rules the Wyoming Roads</p><p>Meet 'Ms. Caddy,' the 1965 Cadillac That Keeps a Restaurant Cooking</p>",
+  "published": "2022-08-27T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1034,
+          "end": 1044
+        },
+        {
+          "start": 1018,
+          "end": 1028
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000758,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 7.581711e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

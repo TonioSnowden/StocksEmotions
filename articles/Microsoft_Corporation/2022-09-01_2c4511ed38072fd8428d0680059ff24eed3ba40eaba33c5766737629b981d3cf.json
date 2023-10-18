@@ -1,0 +1,42 @@
+{
+  "_id": "2c4511ed38072fd8428d0680059ff24eed3ba40eaba33c5766737629b981d3cf",
+  "feed": "wall-street-journal",
+  "title": "Microsoft's Activision Deal Could Raise Competition Concerns, Says U.K. Watchdog; Regulator to expand probe into whether the deal hurts competition unless companies address concerns",
+  "text": "<p>If the CMA isn't satisfied at that stage, the probe will enter a second phase involving a panel of independent reviewers, it said.</p><p>Microsoft President Brad Smith said the company is ready to work with the CMA on next steps and address any of its concerns.</p><p>Write to Sarah E. Needleman at sarah.needleman@wsj.com and Kim Mackrael at kim.mackrael@wsj.com</p><p>Microsoft's Activision Deal Could Raise Competition Concerns, Says U.K. Watchdog</p>",
+  "published": "2022-09-01T11:49:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 130,
+          "end": 139
+        },
+        {
+          "start": 131,
+          "end": 140
+        },
+        {
+          "start": 352,
+          "end": 361
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

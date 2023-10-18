@@ -1,0 +1,35 @@
+{
+  "_id": "b9aec1a10d2a76cc35d40d69aec4cac665b5a2af77a71a57ce5a7a04646e40b2",
+  "feed": "market-watch",
+  "title": "Broadcom's $61 billion deal for VMware faces EU investigation; European Commission voices concerns about Broadcom using VMware software to establish dominance over hardware rivals",
+  "text": "<p>The European Commission wants to know if Broadcom will use that software division to its advantage over competitors, however. Specifically, the announced inquiry will investigate whether Broadcom will degrade or make inoperable VMware's software on competing hardware; whether VMware will continue to work with Nvidia Corp. NVDA, Intel Corp. INTCand Advanced Micro Devices Inc. AMD in a project to develop better network interface controllers for those companies; and if VMware will be bundled with Broadcom's other software offerings and not offered as a stand-alone product.</p><p>The European Commission expects to issue a ruling within 90 days, by May 11, 2023. When the deal was struck, Broadcom stated that it was seeking to close the acquisition by the end of its fiscal year, in October 2023. \"We continue to expect the transaction will close in Broadcom's fiscal year 2023,\" a Broadcom spokesperson said Tuesday.</p><p>\"We look forward to continuing our constructive work with the European Commission as part of their thorough review process. We are making progress with our various regulatory filings around the world, having received legal merger clearance in Brazil, South Africa, and Canada, and foreign investment control clearance in Germany, France, Austria, and Italy,\" the emailed statement read.</p><p>VMware lost three top executives last week, part of multiple changes at the software pioneer that was founded by entrepreneur Diane Greene, her husband Mel Rosenblum and three others in 1998 and popularized the concept of virtualization, which lets different operating systems run on the same hardware simultaneously, as if they were all running on their own machine. Chief Executive Pat Gelsinger left to become CEO of Intel in early 2021, just before Dell Technologies Inc. DELL spun out its majority control of VMware, which it acquired as part of the then-record acquisition of EMC.</p><p>Broadcom shares fell after the inquiry was announced Tuesday, and were most recently down a bit more than 1%. Shares have declined 18.3% in 2022, as the S&amp;P 500 index SPX has dropped 19.9%</p><p>Broadcom's $61 billion deal for VMware faces EU investigation</p>",
+  "published": "2022-12-20T17:31:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 330,
+          "end": 335
+        },
+        {
+          "start": 1723,
+          "end": 1728
+        }
+      ]
+    },
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Arias Intel Corp.",
+      "offsets": [
+        {
+          "start": 330,
+          "end": 341
+        }
+      ]
+    }
+  ]
+}

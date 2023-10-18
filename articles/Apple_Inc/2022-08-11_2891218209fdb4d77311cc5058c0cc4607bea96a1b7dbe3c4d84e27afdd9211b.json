@@ -1,0 +1,34 @@
+{
+  "_id": "2891218209fdb4d77311cc5058c0cc4607bea96a1b7dbe3c4d84e27afdd9211b",
+  "feed": "market-watch",
+  "title": "U.S. stock futures rally to 3-month high amid more signs of easing inflation",
+  "text": "<p>* S&amp;P 500 futures ES00 rose 32 points, or 0.8%, to 4,242.</p><p>* Dow Jones Industrial Average futures YM00 climbed 270 points, or 0.8%, to 33,545.</p><p>* Nasdaq-100 futures NQ00 added 113 points, or 0.9%, to 13,505.</p><p>On Wednesday, the Dow Jones Industrial Average DJIA rose 535 points, or 1.63%, to 33310, the S&amp;P 500 SPX increased 88 points, or 2.13%, to 4210, and the Nasdaq Composite COMP gained 361 points, or 2.89%, to 12855. The S&amp;P 500 is up 14.8% from its 2022 closing low hit in mid-June but remains down 11.7% for the year to date.</p><p>What's driving markets</p><p>Stock futures advanced to fresh three-month highs on Thursday after the July producer-price index showed the cost of goods paid by wholesalers dropped by 1.8% in July, the largest decline since April 2020.</p><p>The data appeared to confirm that inflationary pressures had eased by a larger-than-expected degree last month following a cooler-than-expected reading on U.S. consumer-price growthreleased on Wednesday.</p><p>The headline number showed prices charged by wholesalers dropped 0.5%, which was less than the 0.2% advance that economists polled by The Wall Street Journal had anticipated.</p><p>See: U.S. producer price inflation moderates in July</p><p>Hopes that the pace of price rises has hit a peak are encouraging investors to believe the Federal Reserve might be less aggressive in hiking interest rates. Less-aggressive hikes in borrowing costs will also lower the chances that the U.S. will enter a deeper economic downturn in the coming months.</p><p>Traders have piled back into equities in response, particularly growth stocks that had been so badly hit during the market rout that culminated in June. The tech-heavy Nadasq Composite is up 20.8% from its mid-June trough, and the S&amp;P 500 is on track to open at its highest since May.</p><p>\"The softer than expected U.S. inflation reading pushed the market odds narrowly back in favor of a +50 basis point Fed hike in September…and delivered a significant boost to long-duration assets. Growth stocks beat their value counterparts across all the major regions,\" said Ian Williams, economics and strategy research analyst at Peel Hunt.</p><p>Alex Pelle, U.S. economist at Mizuho, said in a note to clients: \"We do have some very preliminary evidence that inflation may be taking a step down from an underlying pace around 8% to the something closer to the 5% level. This is a level that will still keep the Fed hiking, but the July round of data — taken as given — gives the bulls an early win.\"</p><p>Also supporting the upbeat tone was a well-received earnings report from Walt Disney DIS, which helped the media group's shares bounce 5.9% in premarket action.</p><p>Overall, the second quarter earnings season has helped underpin the market. With companies representing 91% of S&amp;P 500 market capitalization having reported, sales growth has been 15.1% and earnings growth 7.9% – surprising by plus 3.5% and plus 3.6%, according to Evercore ISI.</p><p>However, the latest surge in stocks may have left the market overextended and vulnerable to a pullback. The CBOE Vix index VIX, an options-based gauge of expected S&amp;P 500 volatility, has dipped below its long-run average of 20, suggesting traders may be getting a tad complacent.</p><p>In addition, the S&amp;P 500's 14-day relative strength index, a closely watched momentum gauge, is around 74, where any reading above 70 is considered overbought territory. The RSI for market behemoth Apple AAPLis 76, the highest since December.</p><p>Companies in focus</p><p>* Shares of GSK PLC GSK, Haleon PLC UK:HLN and Sanofi FR:SAN amid controversy surrounding serious side effects caused by the heartburn drug Zantac.</p><p>* Six Flags Entertainment Corp. SIX shares were down more than 14% in premarket trade after the company released disappointing earnings.</p><p>* Canada Goose Holdings Inc. CA:GOOS shares climbed more than 6% in pre-opening trade after the company reported higher than expected revenue, which offset a larger-than-expected loss.</p><p>How are other assets faring</p><p>* Oil was seeing modest gains, with West Texas Intermediate crude for August delivery up $1.15, or 1.3%, to $93.08 a barrel.</p><p>* The 10-year Treasury yield BX:TMUBMUSD10Y fell 5.8 basis points to 2.737%.</p><p>* The ICE Dollar index DXY fell 0.2% to 104.97 as traders priced in a less aggressive Fed. But a softer buck did not help gold GC00, which lost 0.6% to $1,083 an ounce</p><p>* Bitcoin BTCUSD advanced 2.3% to $24,410.</p><p>* Asia markets mostly got a lift from Wall Street's overnight surge with Hong Kong's Hang Sang HK:HSI adding 2.2%, though Japan missed out because of the Mountain Day holiday. In Europe the Stoxx 600 XX:SXXP was up 0.2%.</p><p>U.S. stock futures rally to 3-month high amid more signs of easing inflation</p>",
+  "published": "2022-08-11T13:16:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3395,
+          "end": 3400
+        },
+        {
+          "start": 3373,
+          "end": 3378
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

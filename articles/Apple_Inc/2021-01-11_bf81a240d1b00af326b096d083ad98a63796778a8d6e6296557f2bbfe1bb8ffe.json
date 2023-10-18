@@ -1,0 +1,30 @@
+{
+  "_id": "bf81a240d1b00af326b096d083ad98a63796778a8d6e6296557f2bbfe1bb8ffe",
+  "feed": "wall-street-journal",
+  "title": "PC Sales Notch Strongest Growth in a Decade; Pandemic drives sales as employees and students do their work remotely",
+  "text": "<p>IDC counted 302.6 million units sold globally last year, up 13% from the previous year. Research firm Gartner said PC shipments reached 275 million units in 2020, up 4.8% on the year. Similarly, Canalys pegged the increase at 11% to 297 million units, the highest annual growth since 2010 and the highest shipment volume since 2014.</p><p>Much of the difference in the tallies from the data providers comes from how each company defines PCs. Hardware makers in recent years have increasingly blurred the lines between personal computers and devices such as tablets.</p><p>The blockbuster figures come out just as CES, the world's largest tech show, gets under way—virtually this year because of the pandemic. The annual gathering is often the staging ground for PC makers to unveil their latest models, which could help drive future sales.</p><p>The latest results showed strong sales in the fourth quarter, typically a strong period because of holiday sales. The pandemic added to demand as school districts, company employees and families sought to buy PCs.</p><p>IDC said fourth-quarter sales rose 26% to 91.6 million units; Gartner said sales rose nearly 11% to 79.4 million units; and Canalys pegged growth at 25% to 90.3 million units.</p><p>Mr. Reith said that while growth in 2020 centered on work-from-home and remote-learning needs, gaming PCs and monitor sales remain at record levels. He also said Chrome-based devices are expanding beyond education into the consumer market.</p><p>Chromebook shipments reached 11.7 million units in the fourth quarter alone, according to preliminary data from Gartner. For the year, the firm said Chromebook shipments increased by more than 80% to nearly 30 million units, driven by the North American education market.</p><p>The pandemic reversed a yearslong \"phone-first focus,\" Mikako Kitagawa, research director at Gartner, said in a statement. Ms. Kitagawa sees the PC momentum carrying through at least the first half of 2021.</p><p>The high demand, however, continues to result in shortages. IDC's Jitesh Ubrani said in some cases vendors were forced to resort to airfreight, which drove up costs to cut delivery times.</p><p>Lenovo Group Ltd. was ranked as the No. 1 vendor in 2020, followed by HP Inc., according to industry data. Dell Technologies Inc., Apple Inc., and Acer Inc. rounded out the top five.</p><p>Write to Maria Armental at maria.armental@wsj.com</p>",
+  "published": "2021-01-11T23:17:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999313,
+      "offsets": [
+        {
+          "start": 2256,
+          "end": 2266
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

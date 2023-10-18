@@ -1,0 +1,36 @@
+{
+  "_id": "f988703f298cfc42641cdc0dd861f084260a03ac3ab9e779b12c834b70a78ae2",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Member of  FCC Cites  Data Risks  Of TikTok  ----  By John D. McKinnon",
+  "text": "<p>   WASHINGTON -- A federal communications regulator has asked Apple Inc. and Google to remove Chinese-owned TikTok from their app stores, citing the security risks posed by the data collected by the short-form video site on American users. </p><p>   \"It is clear that TikTok poses an unacceptable national security risk due to its extensive data harvesting being combined with Beijing's apparently unchecked access to that sensitive data,\" Federal Communications Commission member Brendan Carr wrote in a letter to Apple and Google, a unit of Alphabet Inc. </p><p>   Apple and Google didn't respond to a request for comment. </p><p>   TikTok, which is owned by Beijing-based ByteDance Ltd., said it uses encryption and security monitoring to secure user data, and that its access- approval process is overseen by a U.S.-based security team. </p><p>   \"TikTok has consistently maintained that our engineers in locations outside of the U.S., including China, can be granted access to U.S. user data on an as-needed basis under those strict controls,\" the company said. It added that U.S. user traffic is now routed through Oracle Corp., and that it is working on \"additional safeguards on U.S. data for improved peace of mind for our community.\" </p><p>   The U.S. military has already banned its members from using TikTok on government-issued devices, citing the security risk. Former President Donald Trump sought a broad ban on the popular app, but executive actions implementing his order were ultimately blocked by two separate federal-court rulings. </p><p>   The Biden administration rescinded the Trump executive orders last year and decided not to pursue appeals, instead saying it would study whether TikTok and other apps controlled by foreign adversaries pose a security threat to the U.S. The White House didn't respond to a request for comment. </p><p>   The letter from Mr. Carr, a Republican, cited a recent report by BuzzFeed, based on leaked audio recordings, that ByteDance officials repeatedly accessed U.S. users' data. </p><p>   As one member of the FCC, Mr. Carr has no power to compel action by the two companies. The FCC also has generally steered clear of regulating apps, although it does have broad jurisdiction over communications. </p><p></p>",
+  "published": "2022-06-30T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 59,
+          "end": 68
+        },
+        {
+          "start": 502,
+          "end": 507
+        },
+        {
+          "start": 59,
+          "end": 69
+        },
+        {
+          "start": 544,
+          "end": 549
+        },
+        {
+          "start": 59,
+          "end": 64
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "046c791598d5a9ff84572a68b48057eaa7ae9e9d489f422724419219649cd7dd",
+  "feed": "wall-street-journal",
+  "title": "Tom Alberg, Early Amazon Investor and Long-Time Amazon Board Member, Dies at 82; Known in business circles as a 'Day 1 investor' in Amazon, he served on the company's board for 23 years",
+  "text": "<p>\"Tom was a visionary and also just a wonderful, good man,\" said Mr. Bezos, Amazon's founder, in a tweet Saturday.</p><p>Mr. Alberg, in a book published last year, recalled that in early 1995 he was approached by another lawyer who represented a group of investors considering the internet bookstore that Mr. Bezos was creating. The lawyer was seeking Mr. Alberg's expertise on \"internet and tech stuff\" and asked him to talk to Mr. Bezos, Mr. Alberg wrote.</p><p>After meeting with Mr. Bezos and discussing his business plan and vision of what he was trying to build, Mr. Alberg called the lawyer and said he might invest in Amazon himself. The lawyer's group eventually passed on investing because they thought Mr. Bezos's valuation of Amazon at $5.2 million was too high, he wrote.</p><p>In the following months after Amazon was launched, Mr. Alberg said he received periodic calls from Mr. Bezos about the startup's sales progress, including when the first European order came through. Finally in December 1995, after Mr. Bezos raised $1 million from others, Mr. Alberg said he wrote him a check for $50,000.</p><p>\"It wasn't a crazy speculation—at least in my mind. I thought investing in Amazon was a measured risk in a technology that appeared to have great potential to change lives,\" Mr. Alberg said in his book, \"Flywheels: How Cities Are Creating Their Own Futures,\" published in 2021.</p><p>\"I was not just investing in Jeff's book idea. It was really about the notion that people would do many things on the internet,\" Mr. Alberg said. Mr. Bezos invited Mr. Alberg to be one of Amazon's first three advisory directors, he wrote. The company is now valued at about $1.43 trillion.</p><p>Mr. Alberg was born on Feb. 12, 1940 and grew up in the Ballard neighborhood of Seattle. He graduated from Harvard University and Columbia Law School.</p><p>He worked at the law firm of Cravath, Swaine &amp; Moore LLP before returning to Seattle in 1967. He wrote that at that time, the tech industry had yet to spring up there, and Boeing Co. was the city's big business employer.</p><p>He later became a partner at Perkins Coie LLP, one of Seattle's largest law firms; an executive at Seattle's McCaw Cellular Communications, which was acquired by AT&amp;T in 1994, and co-founder in 1995 of the Madrona Venture Group. He worked with and mentored several business leaders, helped build the Seattle Four Seasons and supported hundreds of startups over the years, according to Madrona.</p><p>In Seattle, Mr. Alberg helped raise funds for the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering to build a 85,000 square-foot facility, and also helped start Challenge Seattle, a hub of business and community leaders focused on civic issues.</p><p>He wrote in his book that businesses and city governments needed to do more to address homelessness as well as problems in public education and transportation.</p><p>\"A tech-driven economy is not sufficient,\" he said. \"We also must figure out how to solve the civic and social problems of our big cities: mounting homelessness, fraying public safety and increasing traffic congestion. Also unsolved are the older, deeper problems of systemic discrimination and inadequate public education, particularly for children of color.\"</p><p>Mr. Alberg is survived by his wife, Judi Beck, five children and four grandchildren.</p><p>Write to Esther Fung at esther.fung@wsj.com</p><p>Tom Alberg, Early Amazon Investor and Long-Time Amazon Board Member, Dies at 82</p>",
+  "published": "2022-08-07T18:19:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1985,
+          "end": 1995
+        },
+        {
+          "start": 1969,
+          "end": 1979
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "cf76a7c7fa0913a2a87ff6f805bf358046c02c4b8098c03c7e9244ce860d433d",
+  "feed": "wall-street-journal",
+  "title": "Walmart to Cover Medically Necessary Abortions for Workers; Retailer to also cover travel under healthcare plan, an expansion of policy covering the procedure only when the health of the mother was in danger",
+  "text": "<p>On Friday Walmart, based in Bentonville, Ark., sent a memo to its roughly 1.7 million U.S. workers that said its healthcare plan would cover the cost of abortion when \"there is a health risk to the mother, rape or incest, ectopic pregnancy, miscarriage or lack of fetal viability.\"</p><p>Previously, Walmart's health plan said the company would cover the procedure \"when the health of the mother would be in danger if the fetus were carried to term, the fetus could not survive the birthing process, or death would be imminent after birth.\"</p><p>Walmart's policy contrasts with some other large companies, including banks, technology companies and retailers such as Target Corp., which broadly cover abortion and related travel under company healthcare plans.</p><p>Walmart's expanded coverage was earlier reported by CNBC.</p><p>Walmart to Cover Medically Necessary Abortions for Workers</p>",
+  "published": "2022-08-19T17:50:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 533,
+          "end": 540
+        },
+        {
+          "start": 746,
+          "end": 753
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

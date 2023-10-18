@@ -1,0 +1,36 @@
+{
+  "_id": "2b029179f54bc989184a2237b104613e3451327a8e8586575ee599db8f64feb6",
+  "feed": "ftcomall",
+  "title": "Google bets on the cloud breaking up",
+  "text": "<p>Google's giant data centres are temples of the information age. Built for consumer services that reach billions of people, they also serve as a platform for the search company's push into cloud computing — a market that could one day be even larger than its advertising business.</p> <p>This week, however, Google tried a different tack. In its latest bid to catch up with Amazon and Microsoft in cloud computing, it took a step beyond its own data centres. In the process, it shone a spotlight on two of the most important trends shaping the future of cloud computing — and, by extension, much of the IT world.</p> <p>One of these goes by the name multi-cloud. As the name suggests, it involves harnessing the resources of a number of different public clouds to handle a computing task. For customers, it reduces the risk of lock-in by a single cloud supplier — while for Google, it could open the way to becoming a more serious player in a market it was late to attack.</p> <p>At the moment, the search company is a distant third in cloud computing. Its Google Cloud Platform has become one of the company's most promising businesses: analysts at Jefferies estimate its revenue will jump 56 per cent this year, to $10.4bn. But that will still leave it well behind the estimated $61bn of Amazon Web Services and $37bn of Microsoft's Azure.</p> <p>Google's latest bid for relevance came at its annual cloud conference this week, with the general release of a data warehousing service that taps into data held in a number of different clouds, not just its own. If customers already have much of their data sitting in Amazon's S3 storage service, then this is a way for Google to reach in and make use of it for one of its own services.</p> <p>Breaking down cloud boundaries like this could turn data storage into a commodity — or, more precisely, prevent storage from becoming something that ties customers to a cloud provider's other, higher-value services.</p> <p>It also highlights where Google's best chance may lie in the cloud wars. The search company likes to tout the efficiency and security of its own IT infrastructure. But its real edge may lie in the higher-value services like data analytics and AI that have been honed on its giant consumer services.</p> <p>The other important trend highlighted by Google this week involves moving the cloud closer to customers. Rather than centralising computing in large data centres, this means setting up smaller facilities to handle some of the work locally — creating something known as a distributed cloud. </p> <p>The same software and single interface are used to control these far-flung computing resources, but customers have the comfort of keeping their data locally, and response times are faster. The forces pushing computing to the edge of the network are likely to grow as the demand rises to process ever-larger volumes of data in real time.</p> <p>AWS and Microsoft got to this idea first, with services known, respectively, as Outposts and Azure Stack. Cloud computing, however, is still only estimated to account for 5-10 per cent of the global IT market: it is still relatively early days in this slow-moving revolution, with plenty of time for all three to create giant businesses around the idea.</p> <p>Moving data storage and processing closer to customers could seed a new market for smaller, local operators in what has become known as “edge” computing.</p> <p>Instead of giant, monolithic clouds dominating the future of computing, this could support a more diverse collection of local players — though the software orchestrating these more disparate networks would still come from a handful of dominant operators.</p> <p>For Google, which has always shown a high level of tech self-assurance (some would call it arrogance), all of this marks a significant departure. Its early strategy for the cloud — build the best technology and assume that customers would beat a path to its door — did not work. Adapting to the realities of a more heterogeneous IT world, where customers already rely on multiple suppliers, has opened a new avenue.</p> <p>“Google has always been an innovation engine — what we're now seeing is a much more external focus,” says Ed Anderson, an analyst at Gartner.</p> <p>At their own annual cloud events in the coming weeks, Microsoft and AWS will doubtless have much more to say on these themes as well. As they square up to each other in cloud computing, this is at least one market where some of the giants of Big Tech are slugging it out in fierce competition with each other.</p> <p><em>richard.waters@ft.com</em></p><p>Source: Richard Waters 2021 'Google bets on the cloud breaking up' FT.com 14 October. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-10-14T16:02:26.767Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1301,
+          "end": 1310
+        },
+        {
+          "start": 4224,
+          "end": 4233
+        },
+        {
+          "start": 377,
+          "end": 386
+        },
+        {
+          "start": 2857,
+          "end": 2866
+        },
+        {
+          "start": 1301,
+          "end": 1312
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "_id": "17bc378f0a63c6664d41cb42a27e6c6159c556e2ed9915dfc885be66f8ddefb0",
+  "feed": "wall-street-journal",
+  "title": "Apple to Delay iPhone Update That Could Scan Device for Illegal Content; Tech giant says it will take more time to collect input and make improvements before releasing feature",
+  "text": "<p>As part of the latest initiative, the company planned to roll out a system through an iPhone software update later this year that could identify known child-pornography images, then alert Apple if a certain number of those images were uploaded to the company's cloud storage service known as iCloud.</p><p>Apple had vigorously defended its new program as being privacy friendly, arguing that other cloud providers trying to combat exploitative images rely on technology that scans an entirety of a user's data while Apple had hatched a way to look at only items that were flagged as in violation. Apple's system wouldn't flag offending content if it wasn't uploaded to the cloud.</p><p>Privacy experts and critics worried the feature was a signal that the tech giant was softening its posture toward how it protects data via encryption. The company has battled with law enforcement and government officials for years over the ability to harvest encoded data from its devices.</p><p>\"Based on feedback from customers, advocacy groups, researchers and others, we have decided to take additional time over the coming months to collect input and make improvements before releasing these critically important child safety features,\" Apple said. Apple didn't address when it could roll out the updates.</p><p>Friday's announcement is the latest of several policy retreats and setbacks for Apple. It has twice in recent weeks announced changes to its App Store rules for software developers in the face of legal and regulatory complaints.</p><p>And last year it delayed another feature that it said was aimed at protecting users' privacy, involving changes to iPhone software intended to give people more say in how their data was being used by apps for advertising purposes.</p><p>That delay came after Facebook Inc. and others had vigorously complained that the updates would hinder an ad industry built on user data for personalized messages. Apple eventually released the changes earlier this year.</p><p>Alongside the child-pornography detection tool, which Apple unveiled last month, the company had announced another child-safety update in August aimed at helping children and parents spot sexually explicit photos sent in text messages. If an account designated as a child in iCloud Family Sharing receives or prepares to send a sexually explicit photo in the Messages app, the photo would appear blank. In accounts of children 12 and under, parents can opt to receive notifications when a child views or sends such an image.</p><p>All of the child-protection measures announced last month are being re-evaluated, Apple said.</p><p>In an interview last month, Craig Federighi, Apple's senior vice president of software engineering, conceded that the announcement of the tools hadn't gone smoothly. \"It's really clear a lot of messages got jumbled pretty badly in terms of how things were understood,\" Mr. Federighi said. \"We wish that this would've come out a little more clearly for everyone because we feel very positive and strongly about what we're doing.\"</p><p>The new initiatives raised concerns in several areas. Some privacy advocates worried a tool capable of scanning users' content could be adapted for other purposes, such as by governments looking for political speech—something Apple said it would stand against.</p><p>Some parents worried their family photos of children in the bathtub, for example, could end up getting flagged as inappropriate. Apple tried to assure that wasn't the case.</p><p>Matthew Green, an associate professor at Johns Hopkins University who was an early critic of Apple's plans, welcomed the delay but said he remained concerned about the company's image-scanning algorithm. Cybersecurity researchers last month demonstrated ways that the algorithm Apple uses could misidentify photos.</p><p>He said that Apple should follow the lead of other technology companies and only scan shared images, not private ones.</p><p>\"Don't scan private photos,\" he said. \"It would definitely reduce the scope for abuse.\"</p><p>Robert McMillan contributed to this article.</p><p>Write to Joanna Stern at joanna.stern@wsj.com and Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple to Delay iPhone Update That Could Scan Device for Illegal Content</p>",
+  "published": "2021-09-03T16:10:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1222,
+          "end": 1227
+        },
+        {
+          "start": 1359,
+          "end": 1364
+        },
+        {
+          "start": 300,
+          "end": 305
+        },
+        {
+          "start": 1903,
+          "end": 1908
+        },
+        {
+          "start": 3398,
+          "end": 3403
+        },
+        {
+          "start": 4094,
+          "end": 4099
+        },
+        {
+          "start": 3535,
+          "end": 3540
+        },
+        {
+          "start": 3720,
+          "end": 3725
+        },
+        {
+          "start": 3770,
+          "end": 3775
+        },
+        {
+          "start": 510,
+          "end": 515
+        },
+        {
+          "start": 1210,
+          "end": 1215
+        },
+        {
+          "start": 2567,
+          "end": 2572
+        },
+        {
+          "start": 591,
+          "end": 596
+        },
+        {
+          "start": 3234,
+          "end": 3239
+        },
+        {
+          "start": 188,
+          "end": 193
+        },
+        {
+          "start": 2014,
+          "end": 2019
+        },
+        {
+          "start": 2624,
+          "end": 2629
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

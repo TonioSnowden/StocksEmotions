@@ -1,0 +1,24 @@
+{
+  "_id": "158d724be24d93a21483485ddf5a5119ea2fdff9ec373eb525d02637193f1cb6",
+  "feed": "wall-street-journal",
+  "title": "Demand Falls for Blue-Chip Bond Funds",
+  "text": "<p>Funds that buy bonds of blue-chip companies like Coca-Cola Co. and Microsoft Corp. lost about 4% this year, according to data from Bloomberg Barclays, counting price changes and interest payments. Driving the decline: a selloff in U.S. Treasurys, which act as a benchmark for corporate debt.</p><p>Nevertheless, individual investors continue plowing money in and the funds' assets grew about 3% since the end of December to $1.68 trillion, according to data from Lipper.</p><p>Much of the buying was based on past performance, as investment-grade bonds returned a stellar 10% in 2020, outstripping almost every other fixed-income strategy, according to data from Citigroup Inc.</p><p>The tide may be turning. Inflows dropped 48% in the last week of March from the previous week to $1.7 billion, the smallest amount of net purchases since early November when they briefly turned negative, according to data from Lipper.</p><p>The four-week average inflow fell to $3.4 billion from $4.4 billion at the end of February.</p><p>BlueBay Asset Management is bullish on U.S. corporate bonds, given the prospects for economic recovery this year, but has been purchasing swaps to hedge against potential outflows from investment-grade mutual funds that could trigger selling, said Andrzej Skiba, head of U.S. credit at BlueBay Asset Management.</p><p>\"There have been unprecedented inflows into U.S. investment-grade bond funds,\" Mr. Skiba said. \"Let's say that reversed. It would absolutely be a minus for the market.\"</p><p>One beneficiary of the potential flagging demand for investment-grade bonds could be the junk bond-market, which tends to follow stocks more than Treasurys. High-yield bond funds took in about $809 million in the last week of March, the biggest inflow since early February, according to Lipper.</p><p>Sentiment could change if interest rates pause their months-long climb, or even reverse course. Treasury yields dropped in recent days and were relatively stable ahead of Wednesday's release of notes from the Federal Reserve's latest policy meeting.</p><p>Treasury yields dropped in recent days and the yield of the 10-year note fell as low as 1.628% Wednesday morning before closing at 1.653%, little changed from the Tuesday close, according to data from Tradeweb.</p>",
+  "published": "2021-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 67,
+          "end": 82
+        },
+        {
+          "start": 67,
+          "end": 81
+        }
+      ]
+    }
+  ]
+}

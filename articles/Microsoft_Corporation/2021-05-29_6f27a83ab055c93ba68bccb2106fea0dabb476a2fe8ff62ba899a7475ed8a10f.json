@@ -1,0 +1,44 @@
+{
+  "_id": "6f27a83ab055c93ba68bccb2106fea0dabb476a2fe8ff62ba899a7475ed8a10f",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  SolarWinds Hackers Blamed for Phishing  ----  By Robert McMillan",
+  "text": "<p>   The Russia-linked hackers behind the cyberattack on SolarWinds have returned, launching a phishing attack targeting about 3,000 email accounts belonging to workers at more than 150 organizations, Microsoft said late Thursday. </p><p>   The attack on SolarWinds is considered by investigators to be one of most stealthy and sophisticated ever detected, but the phishing attack was in some ways the opposite of that. The hackers took over an online account used for mass emails by the U.S. Agency for International Development and sent deceptive phishing emails that contained malicious links. </p><p>   Although the attack appears to have been largely unsuccessful -- most of the emails were marked as spam, Microsoft said -- investigators say it shows that the hackers behind SolarWinds aren't going away. </p><p>   A Microsoft spokesman declined to say how his company had linked the attack to the SolarWinds incident. U.S. government officials have said that the SolarWinds hack was conducted by Russia's Foreign Intelligence Service, known as the SVR. Russia has denied that the agency was behind the SolarWinds attack. </p><p>   The Kremlin dismissed the Microsoft report, saying that the company's allegations were unfounded. </p><p>   \"It's an abstract statement [by Microsoft],\" Kremlin spokesman Dmitry Peskov told reporters Friday. \"It's like if we said we believe a large threat is coming from Microsoft and the software. It would be the same unfounded accusation.\" </p><p>   The phishing campaign began in late January and involved several waves, but it escalated significantly on Tuesday when the hackers took over an email marketing account used by the U.S. agency, Microsoft said. USAID, as it is known, dispenses billions in U.S. assistance to foreign countries. </p><p>   The phishing campaign was reported earlier on Thursday by the cybersecurity investigations company Volexity Inc. </p><p></p>",
+  "published": "2021-05-29T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1119,
+          "end": 1128
+        },
+        {
+          "start": 788,
+          "end": 797
+        },
+        {
+          "start": 1354,
+          "end": 1363
+        },
+        {
+          "start": 687,
+          "end": 696
+        },
+        {
+          "start": 1619,
+          "end": 1628
+        },
+        {
+          "start": 196,
+          "end": 205
+        },
+        {
+          "start": 1223,
+          "end": 1233
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

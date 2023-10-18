@@ -1,0 +1,34 @@
+{
+  "_id": "17d3c413b76233f80c9cb8cde9e2bc53128cea141ed640a70e12e32c2ee8ad36",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The S&amp;P 500 and Dow edged up 0.3% and 0.5%, respectively, while the Nasdaq slipped 0.3%. Oil extended a streak of declines and bond yields hit their highest levels since June.</p><p>An administrative law judge ruled in favor of Illumina in its $7.1 billion acquisition of Grail, Illumina said, dealing a defeat to the FTC's efforts to unwind the transaction on antitrust grounds.</p><p>The U.K.'s competition authority said Microsoft's planned acquisition of Activision Blizzard could harm their rivals and newcomers to the videogame industry.</p><p>Chinese cities tightened measures to halt Covid-19 flare-ups, threatening further damage to the country's embattled economy.</p><p>The chairman of Lukoil died after falling from a hospital window in Moscow, according to Russian state media agency TASS.</p><p>A federal labor official has concluded that a union victory by labor organizers at an Amazon facility in New York should be upheld.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 409,
+          "end": 418
+        },
+        {
+          "start": 412,
+          "end": 421
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8379272,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.032927275,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

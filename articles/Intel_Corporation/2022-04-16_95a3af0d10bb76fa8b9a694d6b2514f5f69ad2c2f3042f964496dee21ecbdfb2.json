@@ -1,0 +1,24 @@
+{
+  "_id": "95a3af0d10bb76fa8b9a694d6b2514f5f69ad2c2f3042f964496dee21ecbdfb2",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  The Chip That Saved  Apple's -2-",
+  "text": "<p>   As the chips passed final validation in 2020, production could begin at factories run by Taiwan Semiconductor Manufacturing Co., the silicon-fabricating giant that also makes chips for Intel. The arrangement let Apple reduce costs associated with buying chips from a supplier like Intel, said Mr. Lam, the analyst at CCS Insight. \"They're clearly saving money,\" he said. </p><p>   The first computers to get the M1 chips were MacBook Air and Mac Mini models that went on sale soon after, followed in 2021 by higher-performance computers offered with M1 Pro and M1 Max. The first M1 chip had 16 billion transistors. </p><p>   That figure would grow larger with more capable versions of the M1. The M1 Ultra, introduced in the $3,999 version of the MacStudio computer this past March, has 114 billion transistors and has a graphic-processing unit that's eight times the size of the one in the original M1. </p><p>   In classic Apple style, Mr. Srouji remained mum on what the future might hold, including whether Apple has developed its own powerful processor for an autonomous car, similar to what Tesla has developed. </p><p>   \"I'm not going to talk about any of that,\" he said laughing. </p><p></p>",
+  "published": "2022-04-16T06:14:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 185,
+          "end": 190
+        },
+        {
+          "start": 281,
+          "end": 286
+        }
+      ]
+    }
+  ]
+}

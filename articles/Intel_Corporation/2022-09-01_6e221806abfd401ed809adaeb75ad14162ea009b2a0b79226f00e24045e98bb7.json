@@ -1,0 +1,34 @@
+{
+  "_id": "6e221806abfd401ed809adaeb75ad14162ea009b2a0b79226f00e24045e98bb7",
+  "feed": "wall-street-journal",
+  "title": "Nvidia Warns of Sales Hit From New U.S. Chip Licensing Requirements for China; New rule puts up to $400 million of quarterly sales into jeopardy, company says",
+  "text": "<p>The company doesn't sell chips to Russia, it said, but the restriction on China could affect its outlook of about $5.9 billion of sales in the current quarter. The company was in talks with Chinese customers to fulfill planned purchases with other products and may seek licenses from the government if the replacements weren't sufficient, it said.</p><p>The U.S. imposed the requirement to address the risk that those products could get into the hands of military users in China and Russia, Nvidia said in its filing.</p><p>The rule isn't limited to Nvidia and sets a performance threshold on chips that handle advanced artificial-intelligence calculations that are becoming increasingly crucial to businesses, governments and militaries, according to an industry official. Nvidia dominates the market for these kinds of chips.</p><p>Advanced Micro Devices Inc. said it also has been notified of the new licensing demand, which prevented it from shipping an advanced chip aimed at the AI and high-performance computing markets. The company said it doesn't expect a material impact on its business.</p><p>The new licensing requirements come at a difficult time for chip makers. Demand for personal computers, videogames and smartphones, among other gadgets, has slowed with soaring inflation and a worsening economic outlook, pressuring people's ability to spend.</p><p>Nvidia shares fell more than 5% in after-hours trading Wednesday.</p><p>In early August, Nvidia posted revenue of $6.7 billion for the quarter ended July 31, some 17% below the $8.1 billion it had forecast in May, amid a 33% drop in gaming revenue to $2.04 billion.</p><p>Intel Corp. in July reported a surprise quarterly loss and cut its full-year outlook, reflecting a slump in personal-computer purchases and product delays.</p><p>The Nvidia chips affected by the licensing rule include its A100, a powerful chip introduced two years ago that is used in big data centers to conduct artificial-intelligence calculations. The company's so-called H100 chips, a more advanced AI chip announced this year, is also affected, it said.</p><p>The U.S. Commerce Department, which handles export restrictions, declined to comment on changes to its policy but said that it was taking action to protect U.S. national security and prevent China from acquiring American technology to advance its military and engage in other activities the U.S. opposes.</p><p>The Chinese embassy in Washington didn't immediately respond to a request for comment outside regular business hours.</p><p>Restrictions on U.S. dealings with China and Chinese chip makers have become commonplace in recent years as tensions between the countries have escalated. The U.S. also has tried to arrest exports of chip-making equipment to China to thwart the country's ambition for chip-factory dominance.</p><p>U.S. export limits have put a damper on the expansion of key Chinese chip makers including its largest one, Semiconductor Manufacturing International Corp. They have also made it more difficult for China to obtain advanced chips from contract manufacturers like Taiwan Semiconductor Manufacturing Co., the world's largest.</p><p>A new $52 billion push under President Biden to increase U.S. chip manufacturing included provisions barring recipients of grants from building advanced factories in China.</p><p>Past restrictions on chip sales to China have dented sales by U.S. companies, notably after the U.S. added telecom giant Huawei Technologies Co. to an export blacklist in 2019. But the licensing requirements Nvidia is subject to could have a more significant impact than usual on a single company, potentially altering the competitive landscape.</p><p>The Santa Clara, Calif., company said rivals could benefit even if the U.S. grants needed export approvals. \"The licensing process will make our sales and support efforts more cumbersome, less certain, and encourage customers in China to pursue alternatives to our products, including semiconductor suppliers based in China, Europe, and Israel,\" Nvidia said in a regulatory filing.</p><p>Nvidia said the rules prevent the company from shipping any future chip that achieved unspecified performance thresholds similar to the A100's without first getting a license. The company also would need a license to support or develop products subject to the restriction. Those demands, it said, might affect its ability to complete the H100's development on time and may require it to move some operations out of China.</p><p>Write to Asa Fitch at asa.fitch@wsj.com</p><p>Nvidia Warns of Sales Hit From New U.S. Chip Licensing Requirements for China</p>",
+  "published": "2022-09-01T00:12:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1588,
+          "end": 1599
+        },
+        {
+          "start": 1599,
+          "end": 1610
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000002,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.3841858e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 26
+    }
+  ]
+}

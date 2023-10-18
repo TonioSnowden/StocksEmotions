@@ -1,0 +1,30 @@
+{
+  "_id": "3eb0049375c4aa6cd4a5d934a296238152ae2a364c525f5649834c835ad2a4c9",
+  "feed": "market-watch",
+  "title": "Nvidia stock falls after U.S. moves to restrict its data-center sales in China; Government adds license requirement for Nvidia's highest performance data-center offerings, which could affect $400 million in predicted China sales in the current quarter",
+  "text": "<p>\"We are working with our customers in China to satisfy their planned or future purchases with alternative products and may seek licenses where replacements aren't sufficient,\" an Nvidia spokesperson said in an emailed statement. \"The only current products that the new licensing requirement applies to are A100, H100 and systems such as DGX that include them.\"</p><p>Nvidia shares fell 6.6% in after-hours trading after closing with a 2.4% decline at $150.94. The stock has declined 48.7% so far this year amid challenges in its core gaming-chip business, while the S&amp;P 500 index SPX has fallen 16.4%.</p><p>Rival chip maker Advanced Micro Devices Inc. said Wednesday that U.S. officials have also told it to stop exporting its top AI chips to China, according to a Reuters report, but said it did not expect the restrictions to have a material effect on its business.</p><p>While sales of gaming cards have plunged in recent months after inventory built up, Nvidia's business has relied on data-center sales. Data-center revenue grew to $10.6 billion last year from $6.7 billion the year before, and analysts on average expect server sales to reach $15.79 billion this year, according to FactSet.</p><p>Wednesday's news could hurt future business in the data-center segment, as Nvidia admitted in the filing that the development of the H100 could be affected and that \"any future Nvidia integrated circuit achieving both peak performance and chip-to-chip I/O performance equal to or greater than thresholds that are roughly equivalent to the A100, as well as any system that includes those circuits\" will face the same requirement.</p><p>\"The new license requirement may impact the company's ability to complete its development of H100 in a timely manner or support existing customers of A100 and may require the company to transition certain operations out of China,\" the SEC filing reads. \"The company is engaged with the [U.S. government] and is seeking exemptions for the company's internal development and support activities.\"</p><p>Nvidia said that the federal government's new license requirements are meant to \"address the risk that the covered products may be used in, or diverted to, a 'military end use' or 'military end user' in China and Russia.\" The U.S. has for years been making moves to prevent China's military from obtaining high-performance semiconductor technology, including blocking proposed acquisitions by Chinese parent companies and restricting sales.</p><p>Other U.S. makers of server chips also saw shares decline in after-hours trading Wednesday, though Nvidia appears to be the company most impacted by the decision. AMD AMD shares declined about 4%, while Intel Corp. INTC shares fell about 1.5%.</p><p>Nvidia stock falls after U.S. moves to restrict its data-center sales in China</p>",
+  "published": "2022-09-01T00:16:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 2647,
+          "end": 2658
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 46
+    }
+  ]
+}

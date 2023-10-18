@@ -1,0 +1,30 @@
+{
+  "_id": "155feb1fca066a9b96480a8114bb64b8f0f9c19153b6d3b8e74f77fa07ea1c6e",
+  "feed": "reuters",
+  "title": "Russian retail investors ask VTB to compensate them for foreign losses",
+  "text": "<p>In the letter, they said VTB - among the first Russian entities sanctioned after Moscow sent troops into Ukraine on Feb. 24 - closed operations for retail investors too quickly and so deprived them of a chance to sell their now-frozen assets.</p><p>They said VTB blocked retail clients from selling foreign shares on March 3, 13 days before Euroclear, one of two big Western clearing houses, suspended operations with its Russian counterpart, the National Settlement Depository, on March 16.</p><p>The letter, seen by Reuters, asked VTB to reimburse the retail investors at SPB Exchange , the main trading platform for foreign stocks in Russia, for the March 3 value of their holdings and said they would take legal action if the state-owned bank declines. It did not say how much money the retail investors were claiming.</p><p>VTB declined to comment when contacted by Reuters.</p><p>Reuters could not independently confirm that VTB had halted share trading for retail customers on March 3. The National Settlement Depository issued a notice on its website on March 17 saying Euroclear had suspended operations with it.</p><p>The United States put full blocking sanctions on VTB, which accounts for one-fifth of Russian banking assets, on the day Moscow began what it calls a special military operation in Ukraine, severing the bank's ties with Western counterparts.</p><p>According to VTB, it held about 2.6 trillion roubles ($47 billion) of retail investors' assets last year.</p><p>Russia's central bank says sanctions have stopped some 5 million Russians from accessing shares they own in foreign companies, with a total value of over 320 billion roubles.</p><p>Igor Deryabin, a 25-year-old Muscovite, and his wife Darya, were among those protesting at VTB 's headquarters in Moscow's financial district on Friday.</p><p>\"We were buying the most secure shares hoping for price increase and dividends,\" Igor told Reuters. \"We wanted to build a bigger capital for larger purchases, to buy a flat.\"</p><p>He said his family had lost access to shares worth over 1 million roubles in two dozen foreign companies including IBM and Shell . The average monthly salary in Russia is 67,000 roubles.</p><p>The couple were among more than 450,000 people that VTB said used its app to manage their stock holdings.</p><p>Interest in stock market investments boomed in Russia during coronavirus lockdowns two years ago. As of last year, 17 million Russians - about one in five people - held nearly 8 trillion roubles in brokerage accounts, according to the central bank.</p><p>Moscow has retaliated for Western sanctions by blocking foreign investors' access to Russian securities, including stocks and rouble bonds, ending years in which money had flowed into Russia's stock market and economy. ($1 = 55.3750 roubles)</p>",
+  "published": "2022-07-22T18:02:13.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.999997,
+      "offsets": [
+        {
+          "start": 2063,
+          "end": 2066
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

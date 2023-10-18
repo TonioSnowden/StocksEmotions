@@ -1,0 +1,24 @@
+{
+  "_id": "b6556669ffc43be7b36fd62c94cdf5656e7318ca556b845c443e2d23f2fe4d97",
+  "feed": "wall-street-journal",
+  "title": "Ray-Ban Maker Sues Bank Over Theft",
+  "text": "<p>JPMorgan declined to comment on the lawsuit, which was filed Monday with the U.S. District Court in Manhattan.</p><p>Essilor disclosed the theft in late 2019, saying it would take a loss. In the lawsuit, the company said an employee at its Thailand plant managed to fake authorization of 243 payments to shell companies scattered across Asia. The company has recovered about $100 million of the stolen funds, according to the lawsuit.</p><p>Essilor accused JPMorgan of failing to monitor the account properly and said it should have noticed a series of changes from its normal behavior.</p><p>For instance, the volume of transactions and dollars moving out of the New York account suddenly skyrocketed to more than $140 million from about $15 million a month. The individual transactions were all done in round numbers, without cents, and authorizations took less than a minute instead of hours, the lawsuit said.</p><p>The money was sent to shell companies with names such as Guangzhou Wendy Hair Products or Citgo Oil Trading LLC, signaling they weren't in the eye-care business, according to the lawsuit.</p><p>Essilor is seeking a trial for an unspecified amount of damages from the bank.</p>",
+  "published": "2022-04-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 8
+        },
+        {
+          "start": 445,
+          "end": 453
+        }
+      ]
+    }
+  ]
+}

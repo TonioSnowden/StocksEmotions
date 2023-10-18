@@ -1,0 +1,34 @@
+{
+  "_id": "5528fc62b12b96ba5aa9a47a23e398a60c762eaa27ce7bc05fe1aeee8b894b74",
+  "feed": "wall-street-journal",
+  "title": "Micron Rains on U.S. Chip Parade",
+  "text": "<p>On Tuesday morning, the memory-chip maker became the latest semiconductor company to warn of a seriously weakening market. As a result, Micron again cut its planned capital expenditures on manufacturing equipment for the fiscal year ending next August. The company said it now expects equipment capex to be \"down meaningfully\" in fiscal 2023 compared with the current fiscal year, which ends later this month.</p><p>That marks a notable change in tone even from the company's downbeat forecast barely a month ago as part of its fiscal third-quarter results. It was also a notable contrast to a separate Micron announcement Tuesday, which touted plans to invest $40 billion in memory chip production facilities in the U.S. through the end of the decade. That announcement came as President Biden signed into law the Chips Act, which provides up to $53 billion in direct financial subsidies for domestic chip-making operations. Executives from Micron, Intel and other tech companies were present at the signing Tuesday morning.</p><p>In evaluating the disjointed messages, investors are well advised to consider the second as political theater -- similar to other claims made recently by chip companies seeking favor. And while $40 billion over the next eight years might sound like a lot, consider that Micron spends more than $10 billion a year in total capex now and has several chip-manufacturing facilities in the U.S. Funds from the Chips Act aren't expected to start being disbursed until sometime next year and -- according to analysts for Bernstein Research -- will be \"spread well out through 2031.\"</p><p>That will be far too late to help Micron or any other chip company in dealing with the present pain. Micron's warning Tuesday is just the latest signal of a rapidly weakening semiconductor market, following Intel's disastrous second-quarter results two weeks ago and Nvidia's revenue warning on Monday.</p><p>And according to Micron, the slowdown is extending beyond the well-known pockets of weakness in PCs and smartphones. During an investors' conference Tuesday, Micron Chief Financial Officer Mark Murphy said \"inventory adjustments\" are taking place in the cloud and automotive sectors as well. In the case of the former, Mr. Murphy said demand is still strong for cloud services, but service operators are \"taking stock of the macro uncertainty\" and reducing their inventory levels. Capital investments by the three largest cloud companies -- Amazon, Microsoft and Google -- slowed notably during the June quarter, with all three companies signaling the potential for reduced spending ahead.</p><p>Hence, passage of the first major subsidies for U.S. chip manufacturers was greeted with a sharp drop in chip stocks. Micron fell nearly 4%, while chip manufacturing gear makers Applied Materials, Lam Research and KLA each dropped more than 7%. The PHLX Semiconductor Index, which rallied last month on renewed hopes about passage of the bill, has slid more than 7% over the last three sessions and is down 27% for the year, compared with a 20% decline for the Nasdaq Composite. Even the U.S. government's checkbook has its limits.</p>",
+  "published": "2022-08-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2448,
+          "end": 2457
+        },
+        {
+          "start": 2434,
+          "end": 2443
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

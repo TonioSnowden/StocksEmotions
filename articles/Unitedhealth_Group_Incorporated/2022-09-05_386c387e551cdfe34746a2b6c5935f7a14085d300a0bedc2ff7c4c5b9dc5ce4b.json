@@ -1,0 +1,30 @@
+{
+  "_id": "386c387e551cdfe34746a2b6c5935f7a14085d300a0bedc2ff7c4c5b9dc5ce4b",
+  "feed": "ftcomall",
+  "title": "CVS buys home healthcare group Signify Health for $8bn",
+  "text": "<p>CVS Health has agreed to buy home healthcare provider Signify Health for about $8bn, beating Amazon in a hotly contested takeover battle and opening a front in the pharmacy chain's effort to become a diversified healthcare juggernaut.</p> <p>Signify shareholders will receive $30.50 per share in cash, a 6 per cent premium to the company's share price as of Friday's close. </p> <p>The Dallas, Texas-based company boasts a network of 10,000 clinicians across the US who provide in-home <a href=\"https://www.ft.com/companies/health\">health</a> assessments to a wide range of patients, including those covered by the government-funded Medicare programme.</p> <p>“Signify Health will play a critical role in advancing our healthcare services strategy and gives us a platform to accelerate our growth in value-based care,” said <a href=\"https://www.ft.com/stream/17244c50-dfde-4883-a90f-3ba2e4d58ecd\">CVS Health</a> chief executive Karen Lynch.</p> <p>CVS was already the largest drugstore chain in the US when it bought insurance group Aetna in 2019 in what it characterised as an effort to build a heavyweight company with the power to bring down domestic healthcare costs.</p> <p>That transaction signalled a trend towards consolidation across the US healthcare sector. CVS's larger rival, UnitedHealth Group, has <a href=\"https://www.ft.com/content/42c2999b-fc2e-4023-8444-30fbad2e14e1\">also announced deals</a> for companies that are active in home healthcare and other clinical services.</p> <p>Analysts said the push for diversified healthcare companies reflected incumbents' need to curb cost inflation as well as defend against potential disrupters. Amazon had also been among the bidders for Signify, the Financial Times and other outlets have previously reported. </p> <p>The CVS deal represents a turnround in the fortunes of Signify shareholders. The company's shares commanded $24 in an initial public offering last year but changed hands for less than $13 at the beginning of this year and remained below the IPO price until news of a potential deal was reported last month.</p><p>Source: Ortenca Aliaj, Mark Vandevelde and James Fontanella-Khan in New York 2022 'CVS buys home healthcare group Signify Health for $8bn' FT.com 5 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-05T22:12:05.597Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.9999995,
+      "offsets": [
+        {
+          "start": 1126,
+          "end": 1144
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95002574,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 2.5749207e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

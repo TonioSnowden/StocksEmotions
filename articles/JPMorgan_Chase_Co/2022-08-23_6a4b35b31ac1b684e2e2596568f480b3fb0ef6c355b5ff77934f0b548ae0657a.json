@@ -1,0 +1,34 @@
+{
+  "_id": "6a4b35b31ac1b684e2e2596568f480b3fb0ef6c355b5ff77934f0b548ae0657a",
+  "feed": "wall-street-journal",
+  "title": "Why Warren and Sanders Object to Crypto Rules; Sensible regulation would make it harder to establish a financial system under total government control.",
+  "text": "<p>PHOTO: Chad Crowe</p><p>America's $15 trillion national banking system is supervised by more than 2,000 examiners. Many work full-time on bank premises to ensure that risks to the financial system are caught early. The system isn't perfect. It failed to prevent the 2008 financial crisis and other major problems over the years. During our tenure overseeing the Office of the Comptroller of the Currency, we imposed almost $1 billion in fines on various banks for risk-management violations. But the U.S. requires banks to undergo the most rigorous oversight of any industry because it makes the system safer.</p><p>That is why we were so surprised to read the recent letter from Sens. Elizabeth Warren, Bernie Sanders, Dick Durbin and Sheldon Whitehouse urging our old agency to keep cryptocurrency activities out of the supervised banking system. Crypto is a large and growing sector that will increasingly compete with the traditional banking industry as a vehicle for payments, savings and lending. The crypto market, at between $1 trillion and $3 trillion in market capitalization over the past year, isn't trivial compared with the banking sector. It presents tremendous opportunities to improve the legacy financial system, but it also presents growing risks that urgently need to be managed.</p><p>These risks have become manifest in recent months. A so-called stablecoin project called TerraUSD blew up, causing billions in losses, when the liquidity of its sister token, Luna, went to zero. Compliance with OCC requirements, rules governing collateral ratios between Terra and Luna, and position limits and other risk-management rules would have mitigated the disaster. </p><p>A crypto lender called Celsius then failed when the bets it made to generate the income required to pay its customers' interest went sideways. Had these counterparty risks occurred within the regulated banking system, Celsius would have been required to hold capital against them and to conduct rigorous third-party risk management. And crypto exchange Coinbase disclosed in a recent quarterly filing that customer assets could be at risk in the unlikely event of a bankruptcy—a risk that wouldn't exist if those assets were in the custody of a national bank.</p><p>In short, crypto risk would be lower if more activity were conducted inside the supervised national banking system. This doesn't mean that crypto would cease to be risky. Then again, traditional banking activity is risky even within the heavily regulated, OCC-supervised system. Who can forget JPMorgan's \"London Whale\" loss of $6 billion, or Citibank's hundreds of millions of dollars of fraudulent loan losses in its Banamex unit, or the spectacular failure of Washington Mutual, a regulated $300 billion thrift? </p><p>But these very real risks didn't prompt calls to push traditional lending outside the banking system. On the contrary, Sens. Warren, Sanders, and others called for tighter controls on nonbank lenders to push more lending activity into the banking system. </p><p>Why are these senators comfortable expanding risky lending inside the banking system while fighting to keep crypto risks outside? If they believed that bank supervision reduces the risks presented by financial intermediation, they would presumably treat crypto the same as other risky financial activity. Their push to keep crypto outside the regulated sphere means something else is going on.</p><p>Here's our theory: Crypto developers are trying to build a financial system where users have more control. In that system, credit is allocated by algorithms rather than loan officers, payments are settled instantly on blockchains rather than slowly inside the Federal Reserve, and customer funds are secured by cryptographic keys rather than by hackable debit-card PINs. A user-controlled financial system threatens the vision of a government-controlled system for which Sens. Warren and Sanders continue to advocate. </p><p>One version of their government-sponsored financial system would have the U.S. Postal Service offer banking services to the public. An even more extreme version would have Americans hold their deposits directly at the Federal Reserve. This would allow the government to trim bank balances to control the money supply, decide which payments to approve and disapprove, and otherwise directly intervene in private financial decisions.</p><p>Establishing a financial system controlled by the government would require federal legislation, and there is no sign that congressional leaders of either party have the appetite for that. This is why Sens. Warren and Sanders are using their pens and phones to try to influence the OCC to slow the growth of a crypto-powered, user-controlled financial system. The problem is that the OCC under the Biden administration has reaffirmed what we concluded on our watch: Existing law allows banks to serve as custodian for crypto assets, to support dollar-backed stablecoins, and to participate in blockchains for sending and receiving payments. </p><p>We agree with the administration's caveat that those crypto powers should be exercised only by banks that can demonstrate adequate risk management. But we also believe that it is backward to say that only riskless activities should be allowed inside the banking system. On the contrary: The purpose of bank supervision is to take risky financial activities for which there is high customer demand, and make them less risky.</p><p>Mr. Brooks is CEO of Bitfury Group. He served as acting U.S. comptroller of the currency, 2020-21, and was chief legal officer of Coinbase, 2018-20. Mr. Calomiris is a professor of financial institutions at Columbia Business School. He served as chief economist of the Office of the Comptroller of the Currency, 2020-21.</p>",
+  "published": "2022-08-23T17:14:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2496,
+          "end": 2504
+        },
+        {
+          "start": 2516,
+          "end": 2524
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "_id": "bf290304d3e9df2f61c4342f409195fb508aa4d7e0fa31eac3dc22eef265671e",
+  "feed": "market-watch",
+  "title": "'Irrational expectations' are keeping commodity prices unsustainably low, warns Goldman",
+  "text": "<p>\"Today, commodity markets appear to hold irrational expectations, as prices and inventories fall together, demand beats expectations and supply disappoints,\" wrote Goldman's head of commodities research Jeffrey Currie and his team, in a note that published late Thursday.</p><p>They note the commodity space has moved from hoarding to destocking, with consumers using up inventory at higher prices on the hopes that a broad softening of the economy will create extra supply.</p><p>\"Yet should this prove incorrect and excess supply does not materialize as we expect, the restocking scramble would exacerbate scarcity, pushing prices substantially higher this autumn, potentially forcing central banks to generate a more protracted contraction to balance commodity markets,\" said Currie.</p><p>Financial markets are now pricing in a soft economic landing outcome, minimal further interest rate hikes, sufficient growth to keep earnings supported into 2023 and dissipating inflation. Evidence of the latter emerged this week as both U.S. consumer and producer price inflation missed expectations, driving hopes that the Federal Reserve may be able to ease up on policy tightening sooner than later.</p><p>\"In our view, macro markets are pricing an unsustainable contradiction — it is difficult to square a softening [financial conditions index], a more accommodative Fed pivot, falling inflation expectations and drawing commodity inventories,\" said the Goldman team.</p><p>The team said they see \"growing tail risks to commodity prices inherent in thescenario of sustained growth, low unemployment and stabilized household purchasing power.\"</p><p>While off highs seen after Russia's invasion of Ukraine earlier this year, both U.S. CL.1 and international benchmark Brent crude BRN00 are around 30% higher so far in 2022. Crude is up over 4% this week, boosted by a higher forecast for oil-growth demand from International Energy Agency, which said Europe summer heat waves and tight natural-gas supplies were driving more oil use for power generation.</p><p>Other warnings may also be going unnoticed, Currie and the team explained.</p><p>\"Today, equity and commodity markets are signaling to investors more persistent demand and higher commodity inflation, while rates and inflation curves are signaling an impending slowdown and softening of the economy. Until we see real commodity fundamentals soften, we remain convicted of the former, not the latter,\" they said.</p><p>The Goldman analysts said investors should also take a look at history, noting that outside of pandemic lockdowns that rapidly hit demand in March 2020, every prior recession has seen commodity prices rally in the initial months owing to demand remaining above supply. Exogenous shocks such as the 2001 terrorist attacks and the credit crisis of 2008 are exceptions as demand sharply decelerated following those events.</p><p>And while high prices are keeping overall activity constrained, notably in Europe and among emerging markets, what's occurring is hardly looking like a commodity-based recession as oil demand remains healthy, alongside copper, alumunium and soybeans.</p><p>\"In fact, of the major commodities, only corn and iron ore demand areexpected to contract in the near term, as feed demand destruction and a weak Chinese property sector drive micro-related softening,\" they said.</p><p>Read: Goldman cuts forecasts for gold and silver prices</p><p>Read: Why Goldman's commodity guru Jeff Currie is bullish on oil despite July's pullback</p><p>'Irrational expectations' are keeping commodity prices unsustainably low, warns Goldman</p>",
+  "published": "2022-08-12T14:19:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9996161,
+      "offsets": [
+        {
+          "start": 80,
+          "end": 87
+        },
+        {
+          "start": 81,
+          "end": 87
+        },
+        {
+          "start": 164,
+          "end": 171
+        },
+        {
+          "start": 165,
+          "end": 172
+        },
+        {
+          "start": 1428,
+          "end": 1435
+        },
+        {
+          "start": 1429,
+          "end": 1436
+        },
+        {
+          "start": 2413,
+          "end": 2420
+        },
+        {
+          "start": 2425,
+          "end": 2432
+        },
+        {
+          "start": 2426,
+          "end": 2433
+        },
+        {
+          "start": 3312,
+          "end": 3319
+        },
+        {
+          "start": 3372,
+          "end": 3379
+        },
+        {
+          "start": 3530,
+          "end": 3537
+        },
+        {
+          "start": 3531,
+          "end": 3537
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.620052,
+        "baseWeight": 13.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.620051,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

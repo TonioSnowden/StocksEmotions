@@ -1,0 +1,34 @@
+{
+  "_id": "1b569a0e2aec78fbc6484bdad21136c4b5fe3fb6914d60e5841410d6196fd095",
+  "feed": "wall-street-journal",
+  "title": "Snap Scraps Development on Flying Selfie Pixy Drone; Move comes after company reported disappointing earnings and less than four months after the drone was launched",
+  "text": "<p>Snap Inc. is sunsetting future development of its Pixy flying selfie cameraless than four months after launching the product publicly, according to people familiar with the matter, becoming the latest technology company to adjust product plans during the economic downturn.</p><p>Snap Chief Executive Evan Spiegel recently told staff during a regular question and answer session of the decision around the Pixy drone. The effort to halt further development of the project is part of broader reprioritization of company resources, Mr. Spiegel told staff, the people said.</p><p>Pixy is a small drone that takes off and lands in the user's hand. It was introduced at the end of April during Snap's annual partner summit with a $230 starting price. When it first launched, Mr. Spiegel said it planned to sell a limited quantity of them.</p><p>Snap will continue to sell the current iteration of Pixy, according to a person familiar with the matter. As of Thursday morning, it was available for online purchase.</p><p>The company behind the social-media platform Snapchat has been particularly hard hit in recent months from disruptions in the digital advertising market, posting its weakest-ever quarterly sales growth in July. Shares tumbled almost 40% on those results. T</p><p>The company also still is grappling with changes Apple Inc. introduced to its privacy policy, denting Snap's ad business and that of other social-media companies. Snap shares have slumped more than 80% over the past year.</p><p>Snap's step back from Pixy echoes actions other tech companies have taken to reallocate resources in recent weeks. Facebook parent Meta Platforms Inc. has moved to prioritize efforts around the creator economy and away from its Facebook News tab and newsletter platform called Bulletin, The Wall Street Journal reported last month. The changes came amid a broader shift within the company toward the so-called metaverse, a more immersive form of the internet, and its efforts to fend off competition from short-form video platform TikTok.</p><p>Microsoft Corp. recently laid off some employees in its Modern Life Experiences group, which helps develop software products for consumers, the Journal has reported. The ride-hailing company Lyft Inc. said last month that it was curtailing its car rental program for rides, which allowed consumers to rent its fleet of cars on the app.</p><p>Launching successful hardware products has long been a goal for the company. In 2016, Snapchat renamed itself Snap Inc. It has billed itself as a camera company instead of simply a social-media platform. It launched a set of sunglasses with a camera in them, called Spectacles, for $130.</p><p>Snap's latest decision around the Pixy drone follows other belt tightening the company has undertaken. The company last month said that it would substantially reduce its rate of hiring and that headcount would remain roughly flat. Meta and Twitter Inc. have also said they plan to throttle back on adding employees. Robinhood Markets Inc. this month said it was slashing about 23% of its full-time staff.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>Snap Scraps Development on Flying Selfie Pixy Drone</p>",
+  "published": "2022-08-18T15:23:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1286,
+          "end": 1295
+        },
+        {
+          "start": 1296,
+          "end": 1306
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7147553,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 5.2452087e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

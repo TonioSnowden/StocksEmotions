@@ -1,0 +1,32 @@
+{
+  "_id": "7b45381cee92515909d542c5f9260adf885446057ae8da7d3a6103d746533cc5",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Hackers Backed by China Seen Exploiting Log4j Flaw",
+  "text": "<p>Hackers linked to China and other governments are among these Log4j attackers, according to cybersecurity firms and Microsoft. Nation-state hacking groups are often among the best-resourced and most capable.</p><p>So, yes, patches are a must. But even when you identify what looks like updated software in your systems, security experts advise verifying that the patch is, in fact, legitimate and that it was applied by your people. Hackers sometimes break in through a known vulnerability and then patch it up behind them. A mysterious patch might signal intrusion.</p><p>More below on what we know so far about Log4j exploits linked to China and other countries.</p><p>Explore Six Months of Threat Actor Innovation</p><p>The enormous upswing in innovation by threat actors isn't going away anytime soon. Check out our infographic for more details on landscape trends and attack activity from the first half of 2021.</p><p>View Infographic</p><p>Cybersecurity researchers say the zero-day Log4j flaw is one of the most dire cybersecurity threats to emerge in years and could enable devastating attacks, including ransomware, in both the immediate and distant future.</p><p>\"The effects of this vulnerability will reverberate for months to come—maybe even years—as we try to close these doors and try to hunt down all the actors who made their way in,\" said John Hultquist, vice president of intelligence analysis at cybersecurity firm Mandiant Inc.</p><p>Both Microsoft and Mandiant said they have observed hacking groups linked to China and Iran launching attacks that exploit the flaw in Log4j, a free bit of code that logs activity in computer networks and applications.</p><p>Microsoft said that it had also seen nation-backed hackers from North Korea and Turkey using the attack. Some attackers appear to be experimenting; others are trying to break into online targets, Microsoft said.</p><p>A spokesman for the Chinese Embassy in Washington said Wednesday that Beijing opposes \"cyberattacks of any kind\" and highlighted that the Log4j vulnerability was first reported by a security team in China.</p><p>Read the full story.</p><p>What Is the Log4j Vulnerability?</p><p>Read our explainer for the latest information on the Log4j vulnerability and how cyber and tech teams can protect their systems from the threat.</p><p>More Cyber News</p><p>U.S.-Australia pledge to ease cyber investigations. A bilateral pact signed Wednesday by the U.S. and Australia is intended to remove bureaucratic obstacles to sharing electronic evidence in cybercrime, terrorism and other criminal probes. International cyber investigations can be slow, in part due to restrictions in various countries on data sharing. Requests for information often have to go through a legal review and some are denied for inadequate privacy protections.</p>",
+  "published": "2021-12-16T14:28:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1627,
+          "end": 1636
+        },
+        {
+          "start": 1823,
+          "end": 1832
+        },
+        {
+          "start": 116,
+          "end": 125
+        },
+        {
+          "start": 1413,
+          "end": 1422
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

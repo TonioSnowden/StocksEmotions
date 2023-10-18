@@ -1,0 +1,58 @@
+{
+  "_id": "b7f883714f7dd97afe56c67c6c04579bfbf41a7d8525388f51c2fa2cf7feaf1c",
+  "feed": "wall-street-journal",
+  "title": "Time to Upgrade Your Old Phone? More Consumers Say, 'Not Yet'; Global smartphone shipments fell nearly 9% in the second quarter, as inflation worries outweigh the urge to get the latest phone",
+  "text": "<p>China's Xiaomi Corp., the world's third-largest smartphone maker after Apple Inc. and Samsung Electronics Co., said Friday that it shipped 26% fewer smartphones in the April-to-June quarter compared with a year earlier, and smartphone-related revenue fell 28% to the equivalent of $6.2 billion.</p><p>Xiaomi cited shrinking consumer demand in China, which had pandemic-related lockdowns in the quarter, as well as rising food and fuel prices around the globe.</p><p>In the same quarter, worldwide smartphone shipments declined nearly 9% compared with a year earlier to 286 million units, according to research firm International Data Corp. The biggest drag on the market was China, but the U.S. and most other regions were also weaker, IDC said.</p><p>Sean Mullee, a 23-year-old economist in Washington, D.C., recently moved to the capital from Ohio and said he found the cost of living high, especially now with inflation running at more than 8%. Mr. Mullee, who has an iPhone X he got a couple of years ago, said he wasn't planning to upgrade for now.</p><p>\"When your car breaks down, it's like, 'OK, well I need a car, so I have to go get one.' But until then, I'm going to keep putting it off,\" he said.</p><p>The situation has changed from the first two years of the pandemic, when people staying at home were using their phones more. In that period, demand was strong and the biggest problem for the industry was the supply chain, which was hit by shipping delays, Covid-19 lockdowns and a shortage of semiconductors. Those issues haven't gone away but are gradually easing.</p><p>\"What started out as a supply-constrained industry earlier this year has turned into a demand-constrained market,\" said Nabila Popal, an analyst with IDC.</p><p>The slowdown isn't uniform. Sales of smartphones priced above $900 grew more than 20% in the first half of this year compared with the same period a year earlier, according to Counterpoint Research. The segment includes Samsung's foldable smartphones and many of Apple's latest iPhones.</p><p>Only about one in 10 smartphones globally fell into that premium category in the first half of the year, but it accounted for 70% of industry profits, Counterpoint said. Canalys Research analyst Runar Bjørhovde said wealthy consumers aren't as bothered by the higher cost of daily expenses and still want to have the latest phones in their pockets.</p><p>On the flip side, some big carriers are seeing more subscribers default on their payments as inflation takes a bite out of household finances. \"Naturally they're not going to see people buying new phones if they can't even pay for their phone subscriptions,\" said Mr. Bjørhovde.</p><p>Samsung introduced budget 5G models in March, a move it said was aimed at stimulating demand, while it is also pitching foldable phones that cost as much as $1,800 in the premium market.</p><p>Apple, which is expected to roll out the latest versions of its iPhone in September, benefits from being primarily a high-end brand, but there are signs that it can't rest easy.</p><p>The biggest iPhone assembler, Foxconn Technology Group, said this month that it saw slowing demand for smartphones, as did Qualcomm Inc., a chip supplier to Apple and others, in July.</p><p>Apple supplier Taiwan Semiconductor Manufacturing Co., a leader in advanced smartphone chips, said recently that its smartphone business is no longer its biggest revenue generator. The No. 1 spot is now held by high-performance computing chips that are used in applications such as graphics processing and autonomous driving.</p><p>China, which accounts for nearly a quarter of global smartphone shipments, is at the center of concerns about global demand.</p><p>From July 29 to Aug. 1, Apple took the unusual step of discounting its iPhones in China and running ads online advertising the sale. It knocked the equivalent of nearly $100 off the price of its iPhone 13 Pro Max and 13 Pro models.</p><p>Wang Xiang, the president of Xiaomi, alluded to a similar situation on Friday when reporting the company's weak results, including a 67% drop in net profit. \"Due to the weak market demand, we are trying various ways to clear our inventory, which has caused a decline in profit,\" he said.</p><p>Zhao Haijun, co-chief executive officer of Shanghai-based Semiconductor Manufacturing International Corp., said he saw some companies involved in making smartphones or smartphone parts suddenly cutting orders.</p><p>\"That triggered a panic in the supply chain,\" Mr. Zhao said on an investor call this month.</p><p>Feng Xiao, a 37-year-old sports-event organizer based in Shanghai, echoed Mr. Mullee in the U.S. when asked whether she was planning to upgrade her phone. \"My iPhone 12, which I've used for about two years, is still just fine,\" she said.</p><p>Analysts said they thought demand would likely start to improve later this year or next year and the people who say they are happy with their phones would eventually get restless. That assumes there won't be major global disruptions such as a deepening of the U.S.-China conflict over Taiwan or a new surge in inflation.</p><p>\"We continue to believe that any reduction today is not demand that is lost, but simply pushed forward,\" said IDC's Ms. Popal.</p><p>Jiyoung Sohn contributed to this article.</p><p>Write to Yang Jie at jie.yang@wsj.com and Sarah Donaldson at sarah.donaldson@wsj.com</p><p>Time to Upgrade Your Old Phone? More Consumers Say, 'Not Yet'</p>",
+  "published": "2022-08-21T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999416,
+      "offsets": [
+        {
+          "start": 71,
+          "end": 80
+        },
+        {
+          "start": 71,
+          "end": 81
+        },
+        {
+          "start": 1956,
+          "end": 1961
+        },
+        {
+          "start": 1970,
+          "end": 1975
+        },
+        {
+          "start": 2789,
+          "end": 2794
+        },
+        {
+          "start": 3123,
+          "end": 3128
+        },
+        {
+          "start": 3149,
+          "end": 3154
+        },
+        {
+          "start": 3620,
+          "end": 3625
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.989754,
+        "baseWeight": 7.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -1.6694436,
+        "tagPositionWeight": 0.6591977,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

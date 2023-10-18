@@ -1,0 +1,62 @@
+{
+  "_id": "20b4fca451d2852e5230a52d53740b266fadbc20525d272d003d763aaa87d1b1",
+  "feed": "wall-street-journal",
+  "title": "Coca-Cola and Pepsi Wash Down Currency Worries; Global beverage makers show they can overcome the strong dollar, inflation and other economic turbulence",
+  "text": "<p>Coca-Cola's organic sales, a closely watched industry measure that strips out the impact of currency movements and mergers, soared 16% from a year earlier. Analysts had expected 9.5% growth, according to Visible Alpha. Even including the drag from the extraordinarily strong dollar, which makes foreign-currency revenues worth less in dollar terms, all-in revenue still rose 10% from a year earlier. Crucially, this was thanks to both price increases and underlying volume growth, showing resilient consumer demand for Coca-Cola's brands. Coca-Cola shares were up around 1% in early trading Tuesday.</p><p>This follows Pepsi, which on Oct. 12 reported 16% organic growth and 8.8% growth in total revenue for their fiscal third quarter ending Sept. 3. The conventional wisdom is that companies with so much international sales should underperform when the dollar is rising against other global currencies. Last year, Coca-Cola derived 66% of revenue outside North America, while Pepsi, with its more domestically-focused Frito-Lay snacks business, got 44% from outside the U.S.</p><p>Exchange rates seem to be a bigger worry for industrial exporters, which have a high concentration of costs in dollars and keen competitors around the world eager to undercut them on price. For companies such as Coca-Cola and Pepsi, with production costs distributed around the world, iconic brands and strong pricing power, the problem seems manageable. Coca-Cola Chief Financial Officer John Murphy, on a conference call with analysts on Tuesday, repeatedly stressed that \"we do see a path to generating\" earnings-per-share growth in dollar terms in 2023.</p><p>Through Monday's close, Coca-Cola and Pepsi shares were down 2.8% and up 2.3% so far this year, respectively. That somewhat uninspiring performance is still far better than the S&amp;P 500, which has fallen 20.3% this year, and even its consumer staples subindex, which has declined 9.1%.</p><p>Investors look too pessimistic on Coca-Cola in particular. Its shares are down around 12% since mid-August, possibly due to currency worries—the U.S. Dollar Index is up about 4% over that same time. Yet Tuesday's results suggest those fears are overdone. Coca-Cola can keep on sparkling.</p><p>Write to Aaron Back at aaron.back@wsj.com</p>",
+  "published": "2022-10-25T14:43:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 519,
+          "end": 528
+        },
+        {
+          "start": 539,
+          "end": 548
+        },
+        {
+          "start": 910,
+          "end": 919
+        },
+        {
+          "start": 1283,
+          "end": 1292
+        },
+        {
+          "start": 1426,
+          "end": 1435
+        },
+        {
+          "start": 1653,
+          "end": 1662
+        },
+        {
+          "start": 1948,
+          "end": 1957
+        },
+        {
+          "start": 2169,
+          "end": 2178
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

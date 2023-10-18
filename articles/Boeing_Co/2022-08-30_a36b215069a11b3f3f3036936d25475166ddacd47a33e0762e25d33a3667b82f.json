@@ -1,0 +1,50 @@
+{
+  "_id": "a36b215069a11b3f3f3036936d25475166ddacd47a33e0762e25d33a3667b82f",
+  "feed": "wall-street-journal",
+  "title": "Companies Slow  To Revive Payouts  ----  By Mark Maurer",
+  "text": "<p>   Over two years after the pandemic ravaged corporate balance sheets, dozens of companies haven't turned their dividends back on. Some of them are wondering whether now -- during an economic slowdown -- is the right time to do so. </p><p>   Nearly 190 U.S.-listed companies stopped paying dividends in 2020 to save much-needed cash, according to S&amp;P Global Market Intelligence. Thirty-nine went back to them that same year, 53 followed suit in 2021, and 23 have done so this year. However, 72 companies, or 38.5%, have yet to reinstate their dividend, including Boeing Co. and Walt Disney Co. </p><p>   Faced with the decision of if and when to resume their dividend, executives are considering other spending priorities, such as reducing their debt or buying back shares, and the uncertain economic outlook. The U.S. economy contracted at a 0.6% annualized rate in the second quarter, and economists expect it to slow further as the Federal Reserve continues to raise interest rates to combat inflation. </p><p>   \"The companies that have not come back yet are the ones that are still unsure about their future,\" said Howard Silverblatt, senior index analyst at S&amp;P Dow Jones Indices, a unit of S&amp;P Global Inc. </p><p>   Dividends oblige companies to pay shareholders on a quarterly or annual basis, meaning executives must have visibility into future cash flows and allocate sufficient capital to cover payments. Cutting or canceling a dividend is often a sign that worries investors. </p><p>   Boeing will consider issuing shareholder rewards again once liquidity is back to the levels seen before the 737 MAX scandal and the pandemic, Chief Executive David Calhoun said in April. Two plane crashes in 2018 and 2019 involving the 737 MAX jet dented the plane maker's reputation and finances. The company is giving priority to investment in research programs, instead of shareholder rewards, as its cash flow grows, Mr. Calhoun said at the time. </p><p>   \"I don't think we're talking about a 10-year time frame here,\" Mr. Calhoun said at Boeing's shareholder meeting. \"I think we're talking about something way short of that.\" Cash and cash equivalents totaled $8.05 billion in 2021, up 3.9% from the prior year but down 15.1% from 2019 and 8.6% lower than in 2017, before the first MAX crash. Boeing paid a dividend of $2.055 per share before the pandemic. The company declined to comment beyond Mr. Calhoun's remarks. </p><p>   Walt Disney will contemplate reinstating its dividend once it further reduces its debt, which rose after the 2019 acquisition of entertainment assets from 21st Century Fox for $71.3 billion and the pandemic, Chief Financial Officer Christine McCarthy said at a May conference. \"Dividends is something that's top of our mind and we will resume them at the appropriate time,\" Ms. McCarthy said. </p><p>   The company, which paid shareholders 88 cents twice a year before the pandemic, had $38.64 billion in net debt as of July 2, down 2.8% from a year earlier and 14.5% compared with the 2020 period, S&amp;P said. Disney didn't respond to a request for comment. </p><p>   S&amp;P 500 companies paid a combined $118.36 billion in common dividends during the quarter ended June 30, up 11.8% from the prior-year period and up 17.2% from the 2020 period, according to S&amp;P Global Market Intelligence. Spending on buybacks increased 11.7% to $205.9 billion. </p><p>    General Motors Co. this month said it plans to reinstate its quarterly dividend in September. \"With the balance sheet as strong as it is, we felt it was the right time to be returning cash to shareholders,\" CFO Paul Jacobson said. The auto maker, which is investing heavily to increase its electric-vehicle business, is confident that it will generate sufficient cash. Cash and cash equivalents stood at $16.71 billion during the second quarter, down 27% from a year before. </p><p>   --- </p><p>   Nina Trentmann contributed to this article. </p><p></p>",
+  "published": "2022-08-30T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9998847,
+      "offsets": [
+        {
+          "start": 546,
+          "end": 556
+        },
+        {
+          "start": 550,
+          "end": 560
+        },
+        {
+          "start": 1436,
+          "end": 1442
+        },
+        {
+          "start": 1445,
+          "end": 1451
+        },
+        {
+          "start": 1979,
+          "end": 1985
+        },
+        {
+          "start": 2220,
+          "end": 2226
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.008471,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.008471131,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "15c2637160b5b65f0682cb65a76c41d8955d6bd563874e3934c59de272192492",
+  "feed": "reuters",
+  "title": "UPDATE 1-Egypt expects debt to be 'Euroclearable' by November, says minister",
+  "text": "<p>Egypt signed an agreement to create a cross-border link with Euroclear, Europe's biggest settlement house for securities, in 2019.</p><p>In a speech to the American Chamber of Commerce , Maait said that Egypt also expected to join JPMorgan 's GBI-EM investment index in a listing that could lift its local currency bond markets.</p><p>Egypt and Ukraine have been placed on review for joining the widely tracked index and expect to receive a decision within the next six months.</p><p>Maait presented details of Egypt's strategy for managing its debt, which includes reducing debt interest payments as a proportion of gross domestic product (GDP) to 6.9% by 2023/24 from 8.8% this financial year.</p><p>This year 35.1% of government spending went to interest payments on its debt. The government aims to reduce that to 29.6% by 2023/24.</p>",
+  "published": "2021-04-27T14:12:07.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 225,
+          "end": 233
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.190699,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.19069898,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

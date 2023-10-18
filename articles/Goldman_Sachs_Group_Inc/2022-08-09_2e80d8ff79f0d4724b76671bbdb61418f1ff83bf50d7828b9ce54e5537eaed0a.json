@@ -1,0 +1,42 @@
+{
+  "_id": "2e80d8ff79f0d4724b76671bbdb61418f1ff83bf50d7828b9ce54e5537eaed0a",
+  "feed": "wall-street-journal",
+  "title": "EnCap  Flatrock  Seeks  $3 Billion  ----  By Luis Garcia",
+  "text": "<p>   EnCap Flatrock Midstream is seeking to raise $3 billion for a new fund to back developers of oil-and-gas infrastructure even as private-equity firms are finding it easier to sell than to buy assets in the sector. </p><p>   The target for EnCap Flatrock Midstream Fund V LP is nearly 8% lower than the $3.25 billion that the San Antonio-based firm raised for a predecessor vehicle back in 2018. </p><p>   EnCap Flatrock backs management teams, often multiple times, that then acquire and develop infrastructure for the oil-and-gas sector across the U.S., including pipelines, gathering systems, natural-gas-processing units and storage terminals. For its new fund, the firm also sees opportunities in infrastructure related to hydrogen and biofuels as well as systems that capture carbon dioxide and store it underground, said people familiar with the matter. </p><p>   EnCap Flatrock is returning to the marketing trail following a series of pipeline operator sales by private-equity firms to larger, publicly traded buyers. A sharp rise in commodity prices has improved the oil-and-gas sector's outlook, a factor that likely helped drive such sales, said Stacey Morris, head of energy research at financial-technology firm VettaFi LLC. </p><p>   For example, last month, Targa Resources Corp. acquired Lucid Energy Delaware LLC from Riverstone Holdings and Goldman Sachs Group Inc. for $3.55 billion, while in February Enterprise Products Partners LP bought Warburg Pincus-backed Navitas Midstream Partners LLC for $3.25 billion. </p><p>   \"The bias this year has definitely been more toward private-equity exits than acquisitions,\" Ms. Morris said. \"Maybe these were deals that firms wanted to get done in 2020 or 2021 and they couldn't because of the macro environment.\" </p><p></p>",
+  "published": "2022-08-09T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1318,
+          "end": 1342
+        },
+        {
+          "start": 1318,
+          "end": 1331
+        },
+        {
+          "start": 1318,
+          "end": 1325
+        },
+        {
+          "start": 1312,
+          "end": 1336
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.900004,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 4.053116e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

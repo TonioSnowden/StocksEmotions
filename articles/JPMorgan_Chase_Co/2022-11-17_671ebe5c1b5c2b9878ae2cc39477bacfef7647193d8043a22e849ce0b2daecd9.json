@@ -1,0 +1,33 @@
+{
+  "_id": "671ebe5c1b5c2b9878ae2cc39477bacfef7647193d8043a22e849ce0b2daecd9",
+  "feed": "reuters",
+  "title": "BRIEF-JPMorgan 's Long Position In Hong Kong Shares Of Li Auto Rises To 5.17% - HKEX Filing",
+  "text": "<p>Source text Further company coverage:</p>",
+  "published": "2022-11-17T09:54:56.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999654,
+      "offsets": [
+        {
+          "start": 6,
+          "end": 14
+        },
+        {
+          "start": 6,
+          "end": 16
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "514f0f9f3702e32c2057ec173ffec841a0a7487fb38992107210f97e8ca8b2bc",
+  "feed": "wall-street-journal",
+  "title": "Margin Loans  Magnify the Pain  Of Crypto Rout  ----  By Justin Baer and Orla McCaffrey",
+  "text": "<p>   Eugene Erlikh had about $25,000 in his account at Celsius Networks LLC last September when he borrowed $4,000 in a so-called margin loan to buy cardano, a cryptocurrency. </p><p>   The loan put the 32-year-old Los Angeles resident on the wrong side of one of the great meltdowns in the cryptocurrency world. On June 12, Celsius told users that it was pausing withdrawals and transfers. On June 18, Celsius said Mr. Erlikh would need to transfer the company half of a bitcoin -- worth about $10,000, or more than twice the amount of his loan -- or face liquidation of his account. </p><p>   In July, Celsius filed for bankruptcy protection. </p><p>   With transactions still suspended, Mr. Erlikh said he couldn't close out the loan or post additional collateral as instructed. He said his repeated calls and emails to the company have gone unanswered. Celsius hasn't liquidated his account, which now shows a $20,000 balance, but he can't use it either. </p><p>   \"For me to pay them $10,000 to get back my collateral makes no sense if I could just pay back the loan itself,\" said Mr. Erlikh, who co-hosts a talk show called \"Crypto Junkeez\" on crypto investing. </p><p>   Celsius said it isn't seeking court approval to allow customer withdrawals at this time, meaning accounts will stay frozen as the lender restructures in bankruptcy and addresses customer claims through the chapter 11 process. On July 18, Mr. Erlikh received an email from Celsius informing him the company had paused margin calls and liquidations, and directing him to an independent firm to file a claim on his funds. </p><p>   Margin loans are one of the most common sources of the borrowed money, or leverage, that underlies the zigs and zags of financial markets. During the current winter for crypto firms and their investors, leverage is exposing crypto lenders' risk-management failures and exposing many of their customers to significant losses and stressful uncertainty. </p><p>    Trading on margin is a longstanding, if risky, practice in which investors borrow from their brokers to amplify their bets. When the value of the investor's collateral on the loan drops below a predetermined level, the broker can either ask for more or have the investor pay off the loan. </p><p>   Market crashes and financial crises have taught traditional banks and brokers painful lessons on how to navigate the fraught decisions that often accompany calling margin loans. Liquidating an account can not only end the broker's relationship with that client, but it can tip the counterparty into insolvency. Contracts are precise, as are the lender's rights to seize collateral. </p><p>   In crypto, the legal and regulatory structures are far less developed. It isn't always clear what a crypto lender can do with a counterparty's collateral once it moves to liquidate. Lenders and the investment firms that borrow from them tend to have a much less-complete picture of each others' finances than, say, a big bank like Goldman Sachs Group Inc. and its hedge-fund clients, said Richard Lee, a partner at Crowell &amp; Moring LLP. </p><p>   \"All of those things are clear and battle-tested,\" Mr. Lee said of margin trading at traditional financial firms. \"From what I've seen in the crypto space, people are still trying to sort that out.\" </p><p>    Margin calls can play out differently depending on the lender. In one corner of the crypto market, decentralized finance platforms, terms are set in transparent smart contracts, most loans are overcollateralized and liquidations are automated. But on centralized crypto-lending platforms, the required collateral and even the timing of a potential margin call in some cases are negotiable. </p><p>   \"Centralized exchanges and lending desks represent the vast majority of liquidations versus decentralized protocols,\" says Jack Neureuter, a research analyst at Fidelity Investments's crypto unit, Fidelity Digital Assets. </p><p>   In June, crypto broker Voyager Digital Ltd. said the hedge-fund firm Three Arrows Capital Ltd. defaulted on $675 million in loans. Three Arrows had suffered heavy losses on its crypto bets, including the collapsed cryptocurrency Luna, and couldn't repay Voyager. </p><p>   Three Arrows' troubles rippled through the crypto world. Voyager filed for bankruptcy earlier this month. That same day, the chief executive of another crypto broker, Genesis Trading, confirmed Three Arrows had also failed to meet its margin call. Genesis's Michael Moro said it had sold Three Arrows' collateral. A British Virgin Islands court ordered Three Arrows to liquidate. The fund still owes Genesis $1.2 billion, according to court filings. </p><p>   Three Arrows also has an outstanding loan from Celsius for $40.6 million, according to court filings. Celsius owes users $4.7 billion in deposits, according to filings. </p><p>   BlockFi Inc. CEO Zac Prince said the company had liquidated its over-collateralized loan to Three Arrows but had incurred an $80 million loss from the hedge-fund's collapse. </p><p></p>",
+  "published": "2022-07-21T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2895,
+          "end": 2919
+        },
+        {
+          "start": 2895,
+          "end": 2902
+        },
+        {
+          "start": 2895,
+          "end": 2908
+        },
+        {
+          "start": 2875,
+          "end": 2898
+        }
+      ]
+    }
+  ]
+}

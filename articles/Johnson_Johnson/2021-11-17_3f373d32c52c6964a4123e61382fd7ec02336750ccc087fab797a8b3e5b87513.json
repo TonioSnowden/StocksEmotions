@@ -1,0 +1,24 @@
+{
+  "_id": "3f373d32c52c6964a4123e61382fd7ec02336750ccc087fab797a8b3e5b87513",
+  "feed": "economist-newspaper",
+  "title": "Daily chart; Which vaccine is the most effective against the Delta variant?",
+  "text": "<p>THE RESULTS OF the first trial that showed that a vaccine could prevent symptomatic cases of covid-19, in November 2020, were greeted by the media with delight. As Nature put it: “It works!”. But the emergence of variants of SARS-CoV-2, the virus that causes covid, complicated the picture, since vaccines may work well against one variant, but not against another. Understanding the shots' effectiveness against Delta, the variant that is now globally dominant, is a pressing concern.</p><p>The Economist has collected what is possibly the largest set of vaccine results against the Delta variant, in terms of hospitalisation and symptomatic infection. We looked at results from a host of real-world and phase-three clinical trials of vaccines approved by American and European regulators, such as those made by AstraZeneca and Moderna, as well as shots made elsewhere in the world, including by China's Sinovac and Sinopharm, India's Bharat Biotech, which makes Covaxin, and the Russian vaccine, Sputnik V. (Some vaccines, such as the one being developed by CureVac, a German firm, do not yet have publicly available results against Delta and so are not included here.) Our comparison is not perfect. Differences might arise from variations in the conduct of trials or the rates at which immunity wanes for different jabs. Vaccines whose trials were conducted later after they had been administered, or on more vulnerable populations, might appear worse than similarly protective jabs.</p><p>We found that vaccines continue to provide significant protection against symptomatic infection with the Delta variant—all surpassed the 50% minimum threshold recommended by the World Health Organisation. And they provided even better protection against hospitalisation. But some results are more impressive than others.</p><p>Take hospitalisations first. In stage-three trials, a vaccine made by Sichuan Clover Biopharmaceuticals, a Chinese firm, and Covaxin both eliminated hospitalisations among the vaccinated altogether, although the small number of hospitalisations in the control groups makes efficacy estimates uncertain for the former and impossible for the latter. Data from a trial in St Petersburg suggests an effectiveness of 68-88% (with a 95% confidence interval) for the two-dose regimen of Sputnik V*. That is roughly equal to the single-dose Johnson &amp; Johnson jab, which is 79-84% effective when it comes to preventing hospitalisations. Other vaccines, including those widely used in America and Europe, do even better (see chart), with central estimates ranging from 90% and 92% for two separate trials of AstraZeneca, and 98% for Moderna.</p><p>For symptomatic infections, more plentiful data make ranges narrower and easier to compare. Two mRNA vaccines, Moderna and Pfizer-BioNtech, performed best. They are followed by AstraZeneca, which in a trial in Canada was 68-96% effective (though a trial in England gave a worse result of 61-72%, possibly due to protection from past infections in the control group). Chinese and Indian shots are not as impressive. In a very small real-world trial in Guangzhou, a city in southern China, data from recipients of two shots of vaccines made by either Sinopharm or Sinovac indicated an effectiveness of 16-82% (with 59% as the most probable). Clover's product had an efficacy against Delta of 57-90% in its phase-three trials. That is better than two doses of Covaxin (33-83%), and roughly equal to a single dose of Johnson &amp; Johnson (77-80%).</p><p>These findings have implications for the trajectory of the pandemic. They make China's zero-covid strategy, for example, look even less tenable, since the two most widely used Chinese vaccines appear among the least effective at limiting transmission of the Delta variant.</p><p>■</p><p>Editor's note (November 19th 2021): This article has been updated to provide more details of the trial in St Petersburg.</p><p>For a look behind the scenes of our data journalism, sign up to Off the Charts, our weekly newsletter.</p><p>*It is estimated that 96% were vaccinated with Sputnik V, and the rest with EpiVacCorona or KoviVac.</p>",
+  "published": "2021-11-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 3448,
+          "end": 3465
+        },
+        {
+          "start": 2336,
+          "end": 2353
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

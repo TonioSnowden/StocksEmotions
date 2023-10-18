@@ -1,0 +1,30 @@
+{
+  "_id": "a077efab693d85cf5dbe934d8dfcd910e5fe422fbd018f7354a4c7bef2d6d0e1",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: JPMorgan Offices Are Searched in German Tax Probe",
+  "text": "<p>A spokesman for the Cologne prosecutor's office said authorities have been in the offices of an unnamed bank, and in auditing and tax-consulting firms, since Tuesday. It looked for emails and other written correspondence in the homes of four suspects.</p><p>The offices of Morgan Stanley, Bank of America Corp. and Barclays PLC were also searched this year, and representatives for the banks said they were all cooperating.</p><p>The probe centers on historical cum/ex transactions, which are trades executed during the handful of days before and after companies' scheduled dividend-payment dates.</p><p>Cum/ex transactions typically involve banks, brokerage firms, hedge funds and wealthy individuals entering into agreements to buy, borrow and sell shares during a brief window around a dividend payout. The carefully coordinated timing of the transactions has allowed many parties to claim a refund for taxes paid on the dividends.</p><p>German officials argue that tax credits have been artificially claimed through these types of trades, in ways that could constitute fraud. Authorities have moved to prevent such transactions in Germany, and closed the tax loophole in 2012.</p><p>Other countries, including Austria and Denmark, have launched investigations. Germany's probe has been going on for years and involves prosecutors in Cologne, Munich and Frankfurt.</p><p>Cologne's prosecutor's office said the probe involves 1,500 suspects in 110 cases. Several defendants have been sentenced to prison by a court in Bonn, according to a spokesman. Some banks have settled.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 19,
+          "end": 27
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

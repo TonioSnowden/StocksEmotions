@@ -1,0 +1,20 @@
+{
+  "_id": "77e5a97de6acc8e7ef123cd230d92897a851264bf566f2ea89f4f7ee86afe755",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Hack of Email-Security Firm Raises New Red Flags  ----  By Robert McMillan",
+  "text": "<p>   A breach at email security provider Mimecast Inc. underscores that Russia-linked hackers appear to have targeted victims along multiple avenues of attack in what is shaping up as one of the most successful cyber campaigns of U.S. government and corporate systems. </p><p>   The attack potentially adds thousands of victims to the yearslong intelligence operation and likely was aimed at gaining access to email systems, security experts say. Mimecast, in a Tuesday blog post, said the hackers were able to obtain a digital certificate used by the company to access its customers' Microsoft 365 office productivity services. </p><p>   Most of the companies and government agencies identified as victims to date were compromised via a piece of network-management software called Orion that belongs to Austin, Tex.-based SolarWinds Corp. But the Mimecast case, in which the vendor's customers became targets, highlights that not all victims had to be SolarWinds users themselves to be targeted. </p><p>   The Mimecast hackers used tools and techniques that link them to the hackers who broke into SolarWinds, according to people familiar with the investigation. </p><p>   U.S. government officials have blamed Russia for the SolarWinds attack. </p><p>   Mimecast, based in Lexington, Mass., said the hack potentially affected 10% of its users, or about 4,000 customers. The company added that likely only a \"low single digit number\" of victims were targeted. Mimecast markets its services as helping customers protect themselves from ransomware attacks attempted via email attachments and providing other protections for sensitive business information. </p><p>   The hackers may have gained access to Mimecast itself without the SolarWinds software. The email service provider once was a SolarWinds customer but no longer uses its Orion network-management software, according to a person familiar with the matter. The company hasn't determined how it was breached and if its earlier use of SolarWinds software enabled the hackers. </p><p>   It is the latest twist in a wide-ranging hack whose breadth and sophistication has alarmed security experts and government agencies. \"This is a massive concerted attack against a number of targets,\" said Glenn Chisholm, chief executive with Obsidian Security Inc., which is investigating some of the intrusions. </p><p>   Last week, the Department of Homeland Security warned that the SolarWinds hackers were using a variety of techniques aside from the compromised Orion software to break into their victims' companies. </p><p></p>",
+  "published": "2021-01-13T07:11:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 570,
+          "end": 579
+        }
+      ]
+    }
+  ]
+}

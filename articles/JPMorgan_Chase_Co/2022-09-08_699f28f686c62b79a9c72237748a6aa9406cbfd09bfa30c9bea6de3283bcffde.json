@@ -1,0 +1,30 @@
+{
+  "_id": "699f28f686c62b79a9c72237748a6aa9406cbfd09bfa30c9bea6de3283bcffde",
+  "feed": "wall-street-journal",
+  "title": "Warburg Pincus Partner Stephanie Geveda to Launch New Firm; Ms. Geveda has resigned as head deal maker for business services investments at the private-equity firm",
+  "text": "<p>\"Stephanie has resigned from the firm to start her own middle-market private-equity fund,\" the firm said via a spokeswoman without elaborating. \"We wish Stephanie all the best in this endeavor.\"</p><p>Jim Neary, the co-head of U.S. private equity at the firm who managed the business services team before Stephanie, will resume management of the team for now, according to the letter.</p><p>Ms. Geveda has been with New York-based Warburg for 12 years and heads its business services investment strategy as a partner and managing director. Her new venture will benefit from her experience at the global firm, particularly in backing businesses involving human capital and technology-enabled services, two of the people said.</p><p>Ms. Geveda joined Warburg in March 2010 and most recently led the growth of its business services investment unit, which totals around 20 professionals, according to one of the people. She has led or co-led investments in more than a dozen of the firm's portfolio companies and more than 60 add-on deals, this person added.</p><p>In recent years, for example, Ms. Geveda led or co-led investments in companies that include engineering and construction business TRC Cos., street and highway cleaning specialist Sweeping Corp. of America and Spins LLC, a data and analytics technology provider for brands and retailers in the wellness and natural products sectors.</p><p>She also helped steer a number of portfolio companies to exits in recent years, including food safety and environmental testing company Hygiena LLC, which the firm sold to German strategic buyer EW Group GmbH last year. Another portfolio company, Sotera Health Co., went public through a $1.1 billion initial public offering in late 2020.</p><p>Before joining Warburg, Ms. Geveda built her private-equity career at firms such as Silver Lake, Fox Paine &amp; Co. and JP Morgan Partners, according to her LinkedIn page.</p><p>Ms. Geveda ranks among a growing number of female private-equity executives launching or co-launching their own firms. Last year, the number of women- and minority-owned private markets firms increased to 627 from 502 in 2020, according to a report by private markets firm Fairview Capital Partners Inc. Some 280 of those sought to raise capital last year, up from 234 in 2020, according to the report.</p><p>Other firms founded or co-founded by women in recent years include healthcare-focused Biospring Partners, which closed its debut fund with $245 million earlier this year, music and entertainment-focused HarbourView Equity Partners, which commenced investment operations in 2021 with backing from Apollo Global Management Inc., and Clearhaven Partners, which closed a $312 million debut fund last year.</p><p>Write to Laura Kreutzer at laura.kreutzer@wsj.com</p>",
+  "published": "2022-09-08T20:12:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.6,
+      "offsets": [
+        {
+          "start": 1826,
+          "end": 1835
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "40b26b286c3a1cb003d65d4be3980a7cb9037c9933a8b864265e1d0438992dcc",
+  "feed": "wall-street-journal",
+  "title": "Target Bites the Bullet When It Comes to Inventory",
+  "text": "<p>The retailer said on Wednesday that comparable sales grew 2.6% in its quarter ended July 30, lower than the 3.2% growth that analysts polled by Visible Alpha were expecting to see. Consumers appear to still be cautious about spending, though they are buying small indulgences. The fastest-growing category was food and beverage, for which comparable-store sales grew at least 10%, Target said on its earnings call on Wednesday. The runner-up was beauty, which grew by a high-single-digit percentage. Though demand for electronics and home goods waned, Target is seeing healthy demand for some discretionary categories such as toys, luggage, seasonal goods and fashion-forward apparel.</p><p>The more concerning metric was Target's 1.2% operating margin, which was worse than its downgraded guidance of 2%. A year earlier, Target's operating margin reached 9.8%. That was mostly due to a rather bold decision from Chief Executive Officer Brian Cornell, who decided to ruthlessly clear out excess merchandise -- including through impairments. He said on Wednesday's call that dragging out the process over several quarters would have worsened the experience for guests and store employees by cluttering sales floors and preventing new items from getting on the shelves.</p><p>The problem is that even after such decisive moves, Target's shelves still aren't quite cleared of excess stock. Inventory levels at the end of the second quarter were $6 billion higher than in the same period in 2019. Of that increase, roughly $3 billion had to do with higher unit costs, while $1 billion to $2 billion was related to ordering merchandise earlier to get in front of a slow supply chain. That leaves the company with at least $1 billion of excess merchandise, similar to Walmart, which said on Tuesday it had roughly $1.5 billion of excess inventory.</p><p>Surprisingly, Target stuck to its full-year guidance. The retailer said it expects to see revenue grow by a low-to-mid single-digit percentage this year. It also expects to see its operating-margin rate improve to 6% in the back half of its fiscal year. Given Target's recent record of missing its forecast, investors have some reason to be skeptical. But during his tenure at Target, which started in 2014, Mr. Cornell has had a record of making bold but prescient strategic moves, including investments in store remodels that raised eyebrows initially but paid off in a big way.</p><p>Despite the worse-than-expected numbers, Target's shares sank by 2.6% on Wednesday, merely unwinding Tuesday's rally following Walmart's optimistic results. Even after a 24% drop year to date, Target's shares -- as a multiple of forward earnings -- remain pricier than its five-year average. That is the premium that Target can command for having a keen management team, but it means that falling short any more of its own guidance could be that much more costly going forward.</p>",
+  "published": "2022-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 2520,
+          "end": 2527
+        },
+        {
+          "start": 1738,
+          "end": 1745
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "2389e6646bd041b644904cdc63508a878ad93f0f94651403d43da180929a5153",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Moderna Is Best at Preventing Hospital Stays",
+  "text": "<p>The researchers found that the Moderna vaccine's effectiveness against hospitalization was 93%, compared with 88% for Pfizer -BioNTech's and 71% for J&amp;J's. The effectiveness of the Moderna and Pfizer -BioNTech vaccines also seemed to stand up better over time than that of J&amp;J's.</p><p>\"These real-world data suggest that the two-dose Moderna and Pfizer -BIoNTech mRNA vaccine regiments provide more protection than does the one-dose Janssen viral vector vaccine regimen,\" the authors wrote, referring to the J&amp;J vaccine by its branded name. They added that although there are differences in vaccine effectiveness, all three of the vaccines provide substantial protection against hospitalization.</p><p>The Moderna and Pfizer -BioNTech vaccines also produced higher post-vaccination antibody levels than the J&amp;J vaccine, the researchers said.</p>",
+  "published": "2021-09-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 796,
+          "end": 799
+        },
+        {
+          "start": 503,
+          "end": 506
+        },
+        {
+          "start": 273,
+          "end": 276
+        },
+        {
+          "start": 149,
+          "end": 152
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

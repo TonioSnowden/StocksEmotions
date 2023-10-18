@@ -1,0 +1,20 @@
+{
+  "_id": "8489c581b8db57de88b12aecf1ba03e847e3294674bf968e2e45b0a028822c6d",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Americans continue to venture out to buy services they went without for over a year, a shift that is adding fuel to the recovery and stirring higher inflation.</p><p>---</p><p>Boeing has halted deliveries of its 787 Dreamliners, adding fresh delays for customers following a recent suspension in handing over the aircraft due to production problems.</p><p>---</p><p>Many of the world's biggest investment firms helped elect directors proposed by an upstart environmental-activist fund to Exxon Mobil's board.</p><p>---</p><p>The S&amp;P 500 and Dow clinched gains for the month of May, while the Nasdaq logged a decline.</p><p>---</p><p>Soccer superstar Neymar lashed out at Nike, questioning how the company handled a Nike employee's allegation of a sexual assault and disputing its reason for why he and the firm parted ways.</p>",
+  "published": "2021-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 164,
+          "end": 170
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

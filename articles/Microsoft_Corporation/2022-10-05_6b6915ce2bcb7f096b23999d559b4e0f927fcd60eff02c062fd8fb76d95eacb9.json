@@ -1,0 +1,24 @@
+{
+  "_id": "6b6915ce2bcb7f096b23999d559b4e0f927fcd60eff02c062fd8fb76d95eacb9",
+  "feed": "wall-street-journal",
+  "title": "Dollar Hits Tech Stocks",
+  "text": "<p>Microsoft Corp., which in July reported its slowest revenue growth since 2020, warned that it believes the stronger dollar will shave five percentage points off its revenue growth for the following quarter. Google parent Alphabet Inc. and Facebook parent Meta Platforms Inc. have also said currency fluctuations will likely hurt their results in the coming earnings season. All three companies are expected to post quarterly results this month.</p><p>\"If we think about the list of things that have gone wrong for tech this year, [the dollar] is just the icing on the cake,\" said Denny Fish, a portfolio manager who manages Janus Henderson Investors' global technology and innovation strategy.</p><p>Technology stocks jumped with the broader market in the first two days of the week but remained down for the year. The tech-heavy Nasdaq Composite was down 32% for the year through Friday and suffered its worst first nine months of a year since 2002, according to Dow Jones Market Data. The Nasdaq has also fallen for three consecutive quarters, its longest losing streak since the three quarters through March 2009.</p><p>In the past, investors have sometimes been willing to look past fluctuations in the currency market because other factors, like a growing economy, have helped offset the drag from a strong dollar.</p><p>What makes this year different is that the dollar is rising at a time economists widely expect growth to slow materially -- both outside and inside the U.S.</p><p>The speed and scale of the dollar's gain this year have also compounded investors' pain.The WSJ Dollar Index, which measures the dollar against a basket of 16 currencies, is up 16% for the year through Friday.</p><p>Historically, every 8 to 10 percentage points the dollar gains against other currencies shaves off about 1 percentage point from U.S. earnings growth, said Jonathan Golub, chief U.S. equity strategist and head of quantitative research at Credit Suisse.</p>",
+  "published": "2022-10-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "f655cd5e2cd75cbd16d61a0423451db9d7bf8903ec357556b979e9c577284b60",
+  "feed": "wall-street-journal",
+  "title": "iPhone Reality Doesn't Fully Ground Satellite Dreams; Globalstar shares crash after iPhone 13 reveal but remain elevated as 'mystery project' continues",
+  "text": "<p>Mr. Kuo cited Globalstar, which operates a low-earth-orbit satellite network, as a likely partner, sending that company's shares rocketing upward by 64% on a single day—at more than 24 times their average daily volume over the previous three months. Rival satellite network operator Iridium saw its shares jump 15%, while AST SpaceMobile's stock rose nearly 13%.</p><p>But Apple made no mention of such an ability during its launch event on Tuesday, sending all three stocks back down. But they all remain elevated from their pre-rumor levels, especially Globalstar—which was up 24% as of Thursday's close. Mike Crawford of B. Riley Securities notes that Globalstar has a \"mystery project\" in the works that has so far yielded about $90 million in payments from an unnamed customer.</p><p>That project, begun in early 2020, involves \"the assessment of a potential service utilizing certain of our assets and capacity,\" Globalstar said in its last 10-K filing in March. Mr. Crawford doesn't speculate that Apple is the customer, but he points out that both Apple and Google have intellectual property related to \"dual-mode satellite cellular telephone systems.\"</p><p>Still, making an iPhone that can connect to satellites is no slam dunk. Satellite phones typically require large antennas—presenting major technical and aesthetic challenges for a company like Apple that places a premium on svelte designs.</p><p>And even coming up with a powerful-enough internal antenna poses real-estate problems within the device itself. Ed Snyder, an analyst with Charter Equity who specializes in radio-frequency chip technologies, said in an Aug. 30 report that putting such a large transmit signal in close proximity to the receive signal powering the phone's GPS capabilities \"is a recipe for problems.\"</p><p>It is unclear if the Globalstar project even involves a phone-based service. And if it does, there is also the question of whether such a move would be worth the extra cost and technical trade-offs.</p><p>Satellite services are generally used for voice calls in areas without traditional cell coverage. Smartphones, by contrast, are mostly used as hand-held internet terminals, for which they depend on superfast data networks.</p><p>Also note that Apple hasn't historically blazed trails in terms of the network ability of its devices. Its first iPhone in 2007 was a 2G device when 3G services were already widely available, and several handset makers launched devices for the newest 5G networks before Apple's first late last year.</p><p>Apple could always break from that tradition. And its sharply elevated R&amp;D spending—up an average of 18% annually over the past five years to its current level of just over $21 billion—suggests the company has plenty of ideas cooking. But satellite investors will have to wait at least another year to see if the iPhone will hook them up. That may prove to be a long time to keep some of these stocks in orbit.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>iPhone Reality Doesn't Fully Ground Satellite Dreams</p>",
+  "published": "2021-09-17T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 367,
+          "end": 372
+        },
+        {
+          "start": 1342,
+          "end": 1347
+        },
+        {
+          "start": 2209,
+          "end": 2214
+        },
+        {
+          "start": 1044,
+          "end": 1049
+        },
+        {
+          "start": 2494,
+          "end": 2499
+        },
+        {
+          "start": 993,
+          "end": 998
+        },
+        {
+          "start": 2464,
+          "end": 2469
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

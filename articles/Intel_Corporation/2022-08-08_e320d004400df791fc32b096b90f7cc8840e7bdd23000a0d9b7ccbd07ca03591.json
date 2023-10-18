@@ -1,0 +1,86 @@
+{
+  "_id": "e320d004400df791fc32b096b90f7cc8840e7bdd23000a0d9b7ccbd07ca03591",
+  "feed": "wall-street-journal",
+  "title": "Nvidia Loses Its Game; Slump in PC demand and weak videogame trends lead to rare revenue shortfall by chip maker",
+  "text": "<p>Nvidia might have learned from Intel Corp.'s major stumble less than two weeks ago. Intel's second-quarter results were roundly considered a disaster, with revenue missing Wall Street's forecasts by 15% and operating earnings in its vital data center chip business virtually disappearing. Intel blamed the shortfall on slumping PC sales and \"competitive pressure,\" but also noted that a bug found in its latest data center processor would delay high-volume shipments of that chip until next year. Even though PC weakness was well known to investors by then, the magnitude of the disappointment was still shocking. Intel drew questions from analysts on its conference call about why it hadn't issued a warning sooner.</p><p>Still, Nvidia is no Intel. The former noted Monday that its data center revenue for the July quarter was up 61% year over year to $3.8 billion. By contrast, Intel's data center sales slid 16% year over year for the June quarter. Intel once could have made the claim that its much larger business is more susceptible to global economic forces, but Nvidia has closed that gap significantly. Nvidia's projected data center revenue for the fiscal year ending in January is about four-fifths of Intel's projected revenue for the same segment for 2022, according to FactSet. Three years ago, Nvidia's data center business was barely one-tenth of Intel's.</p><p>But Nvidia's shortfall is still a notable stumble for a chip maker whose performance over the past few years has been nothing short of stellar. The company said Monday that its gaming revenue will come in around $2.04 billion for the most recent quarter, down 33% year over year and the first decline for that segment in nearly three years. The company said sales \"declined significantly as the quarter progressed\" and that it has started cutting prices as a result. And the data center segment isn't free of challenges either; despite the aforementioned gain, Nvidia said data center revenue for the July quarter was \"somewhat short\" of its own expectations. It also was about 6% shy of Wall Street's forecasts.</p><p>Signs have been swirling for weeks about the weakening market for PCs and other chip segments such as smartphones. Videogames also are experiencing a summer slump; game publishing giants Electronic Arts and Activision Blizzard both reported year-over-year declines in net bookings for the June quarter in their respective results last week. Data center demand has remained relatively stable given strong capital spending by cloud computing giants, but even that could wane in the quarters ahead if a major recession hits. Nvidia didn't offer any comments on the current or coming quarters on Monday, though it is expected to do so in its full report on Aug. 24.</p><p>Getting the bad news out early doesn't mean there isn't more to come.</p><p>Nvidia Loses Its Game</p>",
+  "published": "2022-08-08T18:27:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 31,
+          "end": 42
+        },
+        {
+          "start": 31,
+          "end": 41
+        },
+        {
+          "start": 84,
+          "end": 89
+        },
+        {
+          "start": 867,
+          "end": 872
+        },
+        {
+          "start": 946,
+          "end": 951
+        },
+        {
+          "start": 610,
+          "end": 615
+        },
+        {
+          "start": 732,
+          "end": 737
+        },
+        {
+          "start": 1357,
+          "end": 1362
+        },
+        {
+          "start": 1198,
+          "end": 1203
+        },
+        {
+          "start": 938,
+          "end": 943
+        },
+        {
+          "start": 1347,
+          "end": 1352
+        },
+        {
+          "start": 874,
+          "end": 879
+        },
+        {
+          "start": 287,
+          "end": 292
+        },
+        {
+          "start": 83,
+          "end": 88
+        },
+        {
+          "start": 1207,
+          "end": 1212
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.84623,
+        "baseWeight": 14.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.84622943,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

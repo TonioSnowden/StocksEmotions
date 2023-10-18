@@ -1,0 +1,30 @@
+{
+  "_id": "b3b828fe49cc2d37cb1e9a80a873c09e63757bce37270cdacb4f50d95afa1fb9",
+  "feed": "reuters",
+  "title": "BREAKINGVIEWS-Maersk 's cash machine is economic storm warning",
+  "text": "<p>LONDON, Aug 2 (Reuters Breakingviews) - Shipping giants are sending out an unlikely warning signal about the global economy. Danish behemoth A.P. Moller-Maersk said here   on Tuesday it would probably land a whopping $37 billion of EBITDA this year due to sky-high freight rates. The trouble is its valuation gives minimal credit to what lies beyond the immediate horizon, implying stormier seas ahead.</p><p>Container operators have been one of the biggest beneficiaries of pandemic-related disruptions. With port closures throwing ocean timetables – and thus global supply chains - into disarray, freight rates have soared as companies fork out hefty premiums to secure berths. Last September, the average cost of moving a container from A to B was $11,000, compared to around $1,300 in 2019, according to forwarder Freightos . With their fixed cost bases, companies like Maersk saw their profits increase fourfold from pre-pandemic levels.</p><p>Getting the global logistics system back on an even keel thus ran counter to Maersk 's short-term interests. Happily for its shareholders, this hasn't happened as quickly as expected, mainly due to extended lockdowns in Chinese commercial hubs like Shanghai. Maersk Chief Executive Soren Skou is now predicting $37 billion of EBITDA this year, against a previous forecast of $30 billion.</p><p>Such a hefty adjustment from a firm that controls 17% of global shipping is testament to the unpredictability of freight markets, and illustrates why companies are having trouble forecasting costs. There's a more worrying omen. Maersk 's $50 billion enterprise value is just 1.4 times Skou's new 2022 EBITDA estimate, compared to the six or seven times forward multiple at which it traded before Covid-19 struck. In other words, investors are expecting a big fall in EBITDA after this year.</p><p>The most likely explanation is a precipitous correction in freight rates, triggered by a global recession. Investors may be a little too bearish. JPMorgan analysts value Maersk 's logistics and terminals unit at $30 billion, and reckon Skou can return $26 billion of cash to investors in coming years. If so, its core freight business, which generated 79% of last year's $62 billion of revenue, is valued at zero, the bank said in a May report. Still, the depressed valuation is a powerful indication of where Maersk shareholders think the world economy is headed.</p><p>Follow @edwardcropley here  on Twitter on</p><p>CONTEXT NEWS A.P. Moller-Maersk raised its 2022 profit guidance on Aug. 2 after beating second-quarter revenue expectations as congested global supply chains boosted freight rates.</p><p>The Danish shipping group said it now expected $37 billion of underlying EBITDA this year, versus a previous forecast of $30 billion.</p><p>Maersk shares were up 1.2% at 19,990 Danish crowns by 0745 GMT on Aug. 2.</p>",
+  "published": "2022-08-02T11:24:55.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999833,
+      "offsets": [
+        {
+          "start": 1960,
+          "end": 1968
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "af11bc7b224b236449982e5c9866deb49894849b0b28c018da0c5d7c4390427c",
+  "feed": "ftcomall",
+  "title": "Stablecoin issuers hold $80bn of short-dated US government debt",
+  "text": "<p>Stablecoin issuers such as Tether and Circle now hold $80bn worth of short-term US government debt, highlighting the expanding role of digital asset players in traditional financial markets.</p> <p>Tether and its peers accounted for 2 per cent of the market for Treasury bills — debt instruments that are commonly used as a cash equivalent on corporate balance sheets — as of May, according to research from JPMorgan, more than the proportion owned by Warren Buffett's investment behemoth Berkshire Hathaway. JPMorgan said the newer issuers had “considerable room to grow should stablecoins become a form of digital payment”. </p> <p>The rising prominence of stablecoin issuers in a market historically dominated by lower-risk investors is one of the factors driving global financial regulators to step up their scrutiny of the broader crypto industry.</p> <p>Stablecoins are cryptocurrencies designed to act as a bridge between the crypto and traditional markets, making it faster and easier for traders to buy and sell digital tokens. They are normally pegged to the world's biggest and most stable currencies. The top three stablecoins by market cap, Tether, Circle's USDC and Binance's BUSD have a combined market cap of roughly $140bn, according to price-tracking site Coingecko. These are typically supposed to be backed at all times by reserves of highly liquid mainstream financial assets. </p> <p>But in May, that backstop was called into question when <a href=\"https://www.ft.com/content/5887ef43-d43a-4608-a1ac-aacc99f076b9\">Tether's US dollar peg briefly snapped</a> under punishing selling pressure — a slip-up that came hot on the heels of the failure of a smaller stablecoin, TerraUSD.</p> <p>Janet Yellen, US Treasury secretary, said the collapse of TerraUSD was an event that “simply illustrates that this is a rapidly growing product and there are rapidly growing risks”. </p> <p>Regulators have particular concerns over the quality of the assets that stablecoin operators say they hold in reserve. Terra was an algorithmic stablecoin that had no portfolio of reserves, relying on computers and financial incentives to track the value of $1.</p> <p>The proposed Responsible Financial Innovation Act, co-sponsored by senators Cynthia Lummis and Kirsten Gillibrand, has also called for reserve disclosure requirements for stablecoin issuers.</p> <p>Tether, the biggest stablecoin operator, has pledged to reduce its reliance on a type of corporate short-term debt known as commercial paper and buy US Treasury bills, which are considered to be ultra-low risk assets. </p> <p>Circle*, the industry's second-biggest participant, has already cut its reliance on commercial paper for its stablecoin, USDC.</p> <p>Tether's market dominance has shrunk from more than $80bn in May to below $70bn. But Circle's USDC has been steadier, with about $53bn in issue.</p> <p>“We believe one of the primary drivers behind the dramatic shift has been the superior transparency and asset quality of USD Coin's reserve assets,” said JPMorgan.</p> <p>*<em>This story has been amended to clarify that Circle no longer holds commercial paper.</em></p> <a href=\"http://www.ft.com/cms/db61d9b1-5244-4ba0-accc-7a85378313c0.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a><p>Source: Scott Chipolina in London  2022 'Stablecoin issuers hold $80bn of short-dated US government debt' FT.com 20 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-20T11:00:50.419Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.999232,
+      "offsets": [
+        {
+          "start": 502,
+          "end": 510
+        },
+        {
+          "start": 500,
+          "end": 508
+        },
+        {
+          "start": 401,
+          "end": 409
+        },
+        {
+          "start": 2872,
+          "end": 2880
+        },
+        {
+          "start": 400,
+          "end": 408
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0359726,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.035972476,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "d0692ba7d6abd31fd8c561769623012cc2a993cb1154d2e6ecf891bbd9b6678b",
+  "feed": "ftcomall",
+  "title": "Market falls pose challenge for 60/40 portfolios",
+  "text": "<p>Global stocks and bonds have been falling in tandem since mid-August with galloping inflation forcing big central banks such as the Federal Reserve, Bank of England and European Central Bank to ramp up the pace of monetary policy tightening.</p> <p>Policymakers have repeatedly signalled they will continue with interest rate rises until they have tamed the worst inflationary pressures in four decades, but fears are growing among investors that the combination of monetary tightening and high energy prices will lead to an economic recession in both the US and Europe.</p> <p>Since the start of the year, both the FTSE All World index (including dividends) and the Bloomberg Global Aggregate bond index have dropped 16.8 per cent.</p> <p>This synchronised weakness has created problems for investors who model their portfolios on a classic “60/40” ratio, where three-fifths of their money is invested in <a href=\"https://www.ft.com/equities\">equities</a> and the rest goes into bonds. That provides investors with exposure to both the capital gains and dividends offered by shares and the safe income stream of a bond.</p> <p>Goldman Sachs warned in November last year that <a href=\"https://www.ft.com/content/61be210b-2b92-4438-9bc2-5bfd14465407\">60/40 portfolios</a> could be facing a “lost decade” of sub-5 per cent returns if valuations for stocks and bonds were to return to their long-run averages. </p> <p>According to Goldman, 60/40 portfolios on both sides of the Atlantic have registered losses of about 15 per cent over the past 12 months. </p> <p>For example, Vanguard's LifeStrategy Moderate Growth fund — a global 60/40 strategy — has delivered a total return (including dividends and net of fees) of minus 14.9 per cent in dollar terms so far this year. &#xa0;That decline has reduced the fund's annualised returns to 6.5 per cent over the decade to the end of August.</p> <p>Peter Oppenheimer, Goldman's chief global equity strategist, said the recovery for US stocks between mid-June and mid-August was a temporary “bear market” rally so investors should prepare for more volatility. &#xa0;</p> <p>“We expect further weakness and bumpy markets before a decisive trough is established,” he said, adding that investors would price in more recessionary risk as interest rates continued to rise.</p> <p>BlackRock also warns that recession risks are not yet fully priced into equity markets and the threat that high inflation rates will persist is still being underestimated by investors</p> <p>Jean Boivin, head of the BlackRock Investment Institute, says that neither the Federal Reserve nor the ECB has grasped the severity of the economic recession that will be needed to crush inflation.</p> <p>But BlackRock also thinks that both the Fed and ECB will be forced to stop raising interest rates “well short of market projections” once the gravity of the damage being done to the economy and jobs by monetary tightening becomes clearer. </p> <p>This could leave the Fed's preferred measure of inflation — the core personal consumption expenditures index, which excludes food and energy prices — running at closer to 3 per cent annually than the official 2 per cent target. </p> <p>BlackRock's current forecast is for a 60/40 global portfolio to deliver annualised nominal returns of 7.1 per cent over the next decade. But net returns to investors will inevitably be lower if central banks do not succeed in controlling inflation. </p><p>Source: Chris Flood 2022 'Market falls pose challenge for 60/40 portfolios' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T14:13:23.630Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999972,
+      "offsets": [
+        {
+          "start": 1058,
+          "end": 1065
+        },
+        {
+          "start": 1735,
+          "end": 1742
+        },
+        {
+          "start": 1058,
+          "end": 1071
+        },
+        {
+          "start": 1726,
+          "end": 1734
+        },
+        {
+          "start": 1266,
+          "end": 1273
+        },
+        {
+          "start": 1053,
+          "end": 1066
+        },
+        {
+          "start": 1272,
+          "end": 1279
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.0000534,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 5.340576e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

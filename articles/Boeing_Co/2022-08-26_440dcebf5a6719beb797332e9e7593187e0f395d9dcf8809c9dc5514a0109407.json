@@ -1,0 +1,94 @@
+{
+  "_id": "440dcebf5a6719beb797332e9e7593187e0f395d9dcf8809c9dc5514a0109407",
+  "feed": "wall-street-journal",
+  "title": "Business News: Pressure Eases on Boeing Monitors --- Fewer employees who work on behalf of FAA report interference from management",
+  "text": "<p>\"We consider this to show some progress,\" said Tom Galantowicz, a Boeing vice president for product and services safety. \"But we also know that there's work ahead of us and more improvement to go.\"</p><p>The FAA allows employees of U.S. aerospace companies to perform various tasks on the agency's behalf. Federal lawmakers flagged threats to such Boeing employees' independence as a problem in the wake of two 737 MAX crashes in 2018 and 2019 that took 346 lives.</p><p>The Boeing survey was conducted anonymously. Among its 26 questions, it asked employees to provide written descriptions of what they perceive as interference and whether they experienced pressure to meet business goals at the expense of quality or safety. The company declined to release many of the survey's results.</p><p>A Boeing spokesman said responses described perceived interference by management and other sources.</p><p>Mr. Galantowicz said company executives, through different employee-reporting channels, have heard of perceived interference and that Boeing is using surveys to address emerging problems.</p><p>\"We're looking for people to just highlight to us where they start to see risks, so that we can go address something before it crosses the line to an issue that actually needs corrective action,\" he said.</p><p>The FAA said it was encouraged that Boeing is taking steps to \"identify and further protect the ability of key team members to raise safety and quality concerns without fear of interference or pressure.\"</p><p>Last year, the FAA sampled a small group of Boeing employees who represent regulators and found that 35% reported problems, including pressure and hurdles to communicating openly with the air-safety agency.</p><p>Boeing said its most recent survey found that about half of respondents reported seeing improvements related to perceived interference over the past 12 months. Three years ago, about 19% reported improvements related to undue pressure.</p><p>Concerns about retaliation also fell, according to Boeing. The company said this year's survey showed about 24% of respondents expressed some concern around retaliation for reporting interference. In 2019, about 37% reported concerns about retaliation.</p><p>The Boeing-sponsored survey was conducted by Integrity Lab, a consulting firm founded by Harvard Business School professor Eugene Soltes. It was conducted in May, covered employees' experiences over the prior 12 months and drew responses from 71% of the approximately 1,000 employees in Boeing's Organization Designation Authorization group, or ODA.</p><p>After the 737 MAX crashes, federal lawmakers strengthened protections for ODA members to bolster their independence from Boeing management. These Boeing employees often perform routine safety approvals for the FAA, but can also play major roles in decisions related to aircraft safety and development.</p><p>Recently, the FAA relied on them to act as an additional layer of scrutiny for various manufacturing defects with Boeing's 787 Dreamliner. Boeing recently resumed deliveries of the jets after spending much of two years trying to resolve the problems.</p><p>Mr. Galantowicz said Boeing plans to conduct similar surveys every two years, or possibly more frequently.</p><p>Boeing has also made various internal changes since the 737 MAX crashes. It reorganized its engineering department and created new positions, including a liaison for employees who work on behalf of the FAA. The position's creation was the result of a legal settlement with shareholders.</p>",
+  "published": "2022-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 33,
+          "end": 39
+        },
+        {
+          "start": 66,
+          "end": 72
+        },
+        {
+          "start": 339,
+          "end": 345
+        },
+        {
+          "start": 459,
+          "end": 465
+        },
+        {
+          "start": 463,
+          "end": 469
+        },
+        {
+          "start": 772,
+          "end": 778
+        },
+        {
+          "start": 1003,
+          "end": 1009
+        },
+        {
+          "start": 1507,
+          "end": 1513
+        },
+        {
+          "start": 1669,
+          "end": 1675
+        },
+        {
+          "start": 1954,
+          "end": 1960
+        },
+        {
+          "start": 2439,
+          "end": 2445
+        },
+        {
+          "start": 2622,
+          "end": 2628
+        },
+        {
+          "start": 2646,
+          "end": 2652
+        },
+        {
+          "start": 2915,
+          "end": 2921
+        },
+        {
+          "start": 2939,
+          "end": 2945
+        },
+        {
+          "start": 3071,
+          "end": 3077
+        },
+        {
+          "start": 3156,
+          "end": 3162
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.836481,
+        "baseWeight": 17.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8364812,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

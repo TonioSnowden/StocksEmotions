@@ -1,0 +1,34 @@
+{
+  "_id": "7fbda5040785bbdf468ffaf144823a43cf0163d3c705a7bf4143081456604809",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Cholesterol  Injection  May Favor  The Brave  ---  Verve's shot is gradually  making clinical progress  ----  By David Wainer",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  More than 200 million people around the world take statins daily to lower their bad cholesterol, known as LDL. A majority fail to stick with their daily pills, putting them at risk of heart disease. </p><p>\n  A biotech company formed by one of the top heart-disease experts wants to change that with a single injection that would permanently reduce bad cholesterol. It is a treatment based on a gene-editing technology known as Crispr. But unlike the traditional Crispr approach, which acts like a pair of scissors to make a cut to the DNA, Verve Therapeutics uses a new technology known as base editing, which acts more like a pencil and eraser, substituting a single letter of DNA for another. The gene Verve seeks to edit, PCSK9, regulates LDL levels. Early results look promising. The company raised $259 million last month. It recently struck a deal with biotech Vertex to develop a liver-disease treatment, giving it another source of cash during turbulent times for small biotechs. </p><p>\n  Verve's chief executive and co-founder is cardiologist Sekar Kathiresan, a former director of the Massachusetts General Hospital Center for Genomic Medicine. Dr. Kathiresan left academia to form a company inspired by his discoveries around natural mutations that lower LDL. </p><p>\n  Verve's strategy is to focus on patients with an inherited form of high cholesterol known as familial hypercholesterolemia, or FH, which increases the likelihood of coronary-heart disease at a young age. This summer, a New Zealand patient was the first to receive the injection. Another 39 patients are set to be tested with different doses, with results starting to read out next year. The injections reduced bad cholesterol in monkeys by over 60%. </p><p>\n  It will take years of testing, but the start of the process in New Zealand marked a step forward. Verve's next step is to seek approval to begin trials in the U.S., where the Food and Drug Administration set a high bar for gene-editing trials where alternative therapies already exist. FDA-approved high-cholesterol treatments include statins as well as newer injections targeting PCSK9. </p><p>\n  Dr. Kathiresan says Verve has been in talks with the FDA and is confident the company can meet the high bar for a trial in the U.S., though some analysts are skeptical. The company will submit a clinical trial application in the U.S. and the U.K. later this year. \"The bottom line right now is that despite all the treatments available, roughly 3% of patients with FH are actually at the right LDL level,\" says Dr. Kathiresan. \"So there's still a huge unmet need.\" </p><p>\n  Even if Verve's technology works, it would be up against recently approved injections. The shots from Amgen Inc. and Sanofi SA must be taken every few weeks while a Novartis injection is taken twice a year. None of the drugs have so far become blockbusters, partly because insurers balked at their price and they require repeated injections to be effective. Verve would have to offer its therapy at an attractive price. </p><p>\n  Kostas Biliouris, an analyst at BMO Capital Markets, says the company might be able to charge $90,000 for a one-time treatment, which is equivalent to about 15 years of PCSK9 injections at $6,000 yearly. The price could be lower and the market limited to a subset of the million or so patients with FH in the U.S. But, if the company were to expand into the broader heart-disease market, Mr. Biliouris reckons potential revenue could reach billions of dollars annually. </p><p>\n  The other big challenge would be persuading patients to accept the risk of altering their genes. Dr. Kathiresan says it is important to remember that \"this kind of editing that we're doing, it's not that different from some surgical procedures because we're not passing on the edit to future generations,\" he says. </p><p>\n  Verve's technology is a scientific moonshot, at the forefront of a novel approach to medicine whose risks are still largely unclear. Verve's stock has more than tripled from a June low of $11.14 but it is trading at about half its peak of $74 last year. For those with appetite for some risk, the payoff could be large. </p><p></p>",
+  "published": "2022-08-19T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2695,
+          "end": 2705
+        },
+        {
+          "start": 2672,
+          "end": 2682
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

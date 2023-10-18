@@ -1,0 +1,32 @@
+{
+  "_id": "525d0c9d96e3fab4c2beee8604d6cb26eb741a32724c0eab39390cd1a88e5225",
+  "feed": "wall-street-journal",
+  "title": "Discount Tire's Tech Revamp Positions It for Shift to Electric Cars, CIO Says; New IT system will provide greater visibility about the regions where demand for electric-vehicle tires is highest, says CIO Gary Desai",
+  "text": "<p>Electric-vehicle tires typically have a lower rolling resistance and thicker sidewalls compared to conventional tires in order to support the added weight of high-performance batteries, among other differences. </p><p>Mr. Desai, who became Discount Tire's CIO in January 2020, said the company's sudden shift to an online and mobile sales model to cope with Covid-19 lockdowns and other restrictions required new systems that offer \"greater visibility into what products were available in which locations,\" he said. Discount Tire operates more than 1,000 retail locations across 35 states.</p><p>Thanks to the company's IT overhaul, Mr. Desai said he plans to leverage its machine-learning engine to crunch data on state vehicle registrations, aiming to identify markets where electric-vehicle sales are rising and channel supplies of EV tires to nearby stores.</p><p>\"We are seeing an increasing number of EVs come through our stores, especially from fleet management companies,\" Mr. Desai said. \"We're seeing EV drivers need to replace tires more frequently, and I think that's a trend that will continue,\" he said.</p><p>Electric-vehicle sales in the U.S. doubled last year to 656,866, including both pure electrics and plug-in hybrids, equivalent to 4.4% of the total passenger-vehicle market, according to data from EV-Volumes, a global database of electric-vehicle sales. </p><p>As it did elsewhere, the pandemic wreaked havoc on the tire industry. Scarce supplies of rubber forced tire manufacturers like Goodyear Tire &amp; Rubber Co. to temporarily shut down plants in the first half of 2020. Goodyear's annual sales that year fell 16% to $12.3 billion.</p><p>At the same time, fewer new vehicles were hitting the road as consumers held off on major spending plans and auto makers grappled with a shortage of semiconductors and other parts.</p><p>For Discount Tire, that meant wild swings in demand for replacement tires from drivers looking to get a few more miles out of older vehicles, coupled with an uncertain supply chain. \"We had to be able to source tires in real time,\" Mr. Desai said, adding that the company's older system wasn't up to the task.</p><p>After Covid-19 struck, Discount Tire shifted customer services online and into the cloud. Working with Cisco Meraki, a cloud-networking unit of Cisco Systems Inc., store parking lots and service bays were outfitted with Wi-Fi access points. A software app enabled drivers to use smartphones to choose tires, book installation appointments and check in at the store with a preassigned QR code.</p><p>\"Customers never have to go into the store,\" said Bill Farnsworth, Cisco's global strategy lead for the retail industry. Discount Tire also installed smart cameras designed to read license plates to monitor customer queues and quickly match orders with vehicles before they arrive in the service bay, Mr. Farnsworth said.</p><p>On the inventory side, the system feeds data into a new inventory-tracking platform as workers scan customers' QR codes provided by the new engine and pull tires from storage shelves to fulfill orders. That has streamlined the replenishment process by more closely and accurately tracking the movement of inventory, Mr. Desai said.</p><p>Since deploying the system, Discount Tire has reduced the time it takes to change a set of tires by roughly 30%, the company says. It recently set a target of no more than 20 minutes. </p><p>Mr. Desai said the company is currently developing added features to route data into machine-learning software designed to better anticipate demand, in part by combining real-time sales data with a range of other factors, including local store promotions and weather.</p><p>John-David Lovelock, chief forecaster at IT research and consulting firm Gartner Inc., said companies over the past two years have raced to modernize areas like customer service, enterprise resource planning and inventory management systems, in part to mitigate added supply-chain risks sparked by Covid-19.</p><p>\"Where you may have been able to float along with your old system, that's no longer an option,\" Mr. Lovelock said. Gartner estimates that companies world-wide will spend nearly $10 billion this year on cloud-based supply-chain tools, up 24% from 2021. Spending on enterprise asset-management systems—one of the largest areas of the enterprise resource-planning market—is expected to grow 4.8% this year to roughly $2 billion.</p><p>Write to Angus Loten at angus.loten@wsj.com</p><p>Discount Tire's Tech Revamp Positions It for Shift to Electric Cars, CIO Says</p>",
+  "published": "2022-01-20T22:28:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 2221,
+          "end": 2226
+        },
+        {
+          "start": 2262,
+          "end": 2280
+        },
+        {
+          "start": 2262,
+          "end": 2275
+        },
+        {
+          "start": 2578,
+          "end": 2583
+        }
+      ],
+      "nexusId": "10013206"
+    }
+  ]
+}

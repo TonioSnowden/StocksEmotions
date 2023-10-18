@@ -1,0 +1,20 @@
+{
+  "_id": "b2c04b08630782efea7c944024b364890d5265df90f4563169145efcac89363c",
+  "feed": "wall-street-journal",
+  "title": "SupportLogic Raises Funds to Help Businesses Gauge Customer Attitudes; The AI startup said it raised $50 million as interest grows for tech that can help retain customers",
+  "text": "<p>The Series B funding round was led by WestBridge Capital and General Catalyst. SupportLogic has raised $62 million since its founding in 2016. It declined to discuss its valuation.</p><p>SupportLogic's platform, SupportLogic SX, uses natural-language processing and other artificial-intelligence techniques to track emails and other communication flowing through a business's customer-relationship management system.</p><p>It is designed to identify dissatisfied customers, score their level of dissatisfaction, gauge their sense of urgency, and predict which customers might be ready to end a business relationship, such as canceling a subscription or ending a project.</p><p>The customer-service-and-support software market hit $24.6 billion in 2020, up 12.9% from the previous year, according to information-technology research and consulting firm Gartner Inc . Some of the companies competing in the space include Salesforce.com Inc ., Oracle Corp . and Zendesk Inc ., Gartner said.</p><p>A big reason for heightened interest in customer-support tools, such as SupportLogic, is that many companies last year slashed their sales and marketing budgets and focused more on retaining customers during the economic contraction caused by the Covid-19 pandemic, said Kate Leggett, a vice president, principal analyst, at Forrester Research .</p><p>\"Post-purchase engagement and support becomes a lot more important,\" she said.</p><p>SupportLogic is targeting business-to-business customers and has signed on a number of tech firms, including Cloudera Inc ., Databricks Inc. and Snowflake Inc . Customer service and support is often a key differentiator for technology companies, Mr. Raja said, which is why technology was among the first markets it targeted.</p><p>The company's platform deploys different natural-language processing technologies to analyze customer correspondence, including emails and sales-representatives' notes. Natural language processing, or NLP, is a form of artificial intelligence that can interpret human language.</p><p>First, the correspondence is analyzed using a neural-network technique that can examine thousands of documents, pick out individual words and word patterns, and assess whether the communication is negative or positive about a company and its products and services. Neural network technology is an advanced form of AI composed of various layers of artificial neurons designed to mimic the way a human brain works and is extremely good at picking out patterns.</p><p>The negative communications are then analyzed by a more advanced NLP system to determine what a customer is unhappy about. It can, for example, tie a reference to \"your product\" in one part of an email to \"I'm really frustrated\" in another section of the same email and make the connection that a customer is unhappy with the performance of a product.</p><p>SupportLogic's platform then applies a proprietary scoring system that uses another NLP system to detect both sentiment, such as confusion and frustration, and the level of urgency expressed in the correspondence, such as impatience.</p><p>The system sends an alert to company experts with the skills, availability, and background on the customer to resolve the issue as quickly as possible. Complex cases, such as those with high levels of frustration and urgency, can be sent to a company's more experienced engineers.</p><p>Existing investors Sierra Ventures and Emergent Ventures participated in the funding round.</p><p>Write to John McCormick at john.mccormick@wsj.com</p>",
+  "published": "2021-10-12T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 900,
+          "end": 914
+        }
+      ]
+    }
+  ]
+}

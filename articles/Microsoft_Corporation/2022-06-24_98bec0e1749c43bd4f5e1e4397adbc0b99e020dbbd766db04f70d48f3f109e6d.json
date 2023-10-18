@@ -1,0 +1,24 @@
+{
+  "_id": "98bec0e1749c43bd4f5e1e4397adbc0b99e020dbbd766db04f70d48f3f109e6d",
+  "feed": "ftcomall",
+  "title": "Correction: Meta, not Microsoft",
+  "text": "<p>Meta is a member of the Frontier consortium of blue-chip companies, not Microsoft as incorrectly stated in a <a href=\"https://www.ft.com/content/64ab152b-f5a1-4b33-a6c3-bbd94e42d0ea\">column</a> last weekend.</p><p>Source:  2022 'Correction: Meta, not Microsoft' FT.com 24 June. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-06-24T20:11:21.317Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 22,
+          "end": 31
+        },
+        {
+          "start": 72,
+          "end": 81
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "_id": "630ad9cbadccf72ea95d243266c7385a02dc17d4b022f412e84eb86b8f793cf2",
+  "feed": "wall-street-journal",
+  "title": "Google Plans to Curtail Cross-App Tracking on Android Phones; Alphabet unit to continue support of existing approach for at least two years as it follows Apple in challenging Facebook",
+  "text": "<p>Apple's changes, which went into effect last year, have already upended the digital-ad industry and contributed to a wipeout of more than $300 billion from Meta's market value.</p><p>Google said Wednesday that it plans to develop more privacy-focused replacements for the alphanumeric identifiers associated with individual smartphones that some apps use to gather and share information about users.</p><p>The Alphabet Inc. unit said it plans to keep supporting current smartphone identifiers for at least the next two years and to give the industry substantial notice before any changes. It said it plans to work with the industry to develop the replacements.</p><p>Google declined to give many details about its plans for how its new systems would work. What they might look like for users or advertisers remained unclear.</p><p>The open-ended approach could help Google reduce anxiety from marketers and scrutiny from regulators, from whom it received substantial blowback when it said in 2020 that it aimed to phase out support for web-browser identifiers called third-party cookies within two years. Google was later forced to delay that timeline.</p><p>\"We don't think there should be a forced choice between privacy and developers building their business,\" said Anthony Chavez, vice president, product management for Android security and privacy.</p><p>The changes come as the practice of tracking users for digital advertising faces increased scrutiny in Europe from regulators who are examining the legality of certain kinds of targeted advertising.</p><p>Smartphone apps, which range from news publications and videogames to women's ovulation trackers, share a string of letters and numbers connected to an individual device that allows ad-tech companies to infer users' interests from their online behaviors, powering an industry worth hundreds of billions of dollars a year.</p><p>Last year Apple moved to curtail those practices across iPhones by prompting users to allow or prevent an app from tracking them. U.S. users opted out of tracking more than 80% of the time, according to the mobile-app analytics provider Flurry, causing mobile ad prices on iPhones to plunge and Android ad prices to rise.</p><p>Google's decision to make changes in the wake of Apple's actions last year has the potential of turning the challenge to the marketing and app-development business into more of a global predicament. The iPhone maker has about a 50% share of the smartphone market in the U.S., while Google's Android operating system is used by about 85% of smartphone owners world-wide, including customers of Samsung Electronics Co.</p><p>Meta's Facebook, which has been critical of Apple's privacy change, saying it will cost the company $10 billion this year in lost sales, struck a different tone on Google's proposal. \"Encouraging to see this long-term, collaborative approach to privacy-protective personalized advertising from Google,\" tweeted Dennis Buchheim, Meta's vice president of advertising ecosystem, speaking on behalf of the company. \"We look forward to continued work with them and the ecosystem on privacy-enhancing tech through industry groups.\"</p><p>Two key reasons that Meta is less concerned about Google's proposal than Apple's privacy change is that the search-giant has provided a longer timeline to implement its proposal and is taking a collaborative approach, according to a person familiar with Meta's thinking on the matter. Facebook has defended its targeting practices, saying that users appreciate seeing ads relevant to them and that its technology enables marketers to reach precise slices of potential customers.</p><p>Some ad tech executives said that Google's long time frame for making changes to device identifiers could give the mobile ad industry cause for relief—given the impact of Apple's changes and the expectation that Google would eventually follow suit.</p><p>\"Two years is an eternity in tech and effectively Google is saying you don't have to worry about it for two years,\" said Ari Paparo, an ad tech executive who sold his company to Comcast Corp. He said he expected a decline in mobile ad effectiveness when the change happens. A delay is \"a positive for the mobile advertising community,\" he said.</p><p>In a blog post, Google criticized Apple's approach to improving privacy, calling it ineffective and pointing to a security app's blog post saying it failed to limit tracking across apps. The search company said its goal is to create \"privacy enhancing advertising solutions, where users know their information is protected, and developers and businesses have the tools to succeed on mobile.\"</p><p>Mr. Chavez said Google will collect feedback on future proposals from developers, privacy advocates, regulators and other interested parties in the coming months and begin beta-testing proposed changes by year-end. It will scale up its testing in 2023, he said.</p><p>Google said that the app-tracking replacements it plans to develop for mobile phones will work similarly to those it is proposing for web browsers, where it plans to replace user-tracking technology called third-party cookies. In one proposed replacement, users' Android devices will track their app usage and analyze it on their devices, rather than sending raw usage information to outside companies. The phones will then tell third parties the user's interests so they can be targeted with relevant ads without the advertisers knowing that user's smartphone identifier.</p><p>Other systems Google says it is building are intended to allow for targeted ads based on products users had looked at, or measure how ads perform.</p><p>Mr. Chavez didn't say whether the company had reviewed the proposals with privacy advocates, who have previously taken issue with significant elements of Google's web-based proposals to remove third-party cookies. Still, he said, \"We think this can be a pretty big step forward for reducing the potential for covert data collection and sharing.\"</p><p>The new ad-measurement functions Google plans to build might bear some similarity to a system that Apple introduced for iPhones, which allows ad buyers to measure their ads' effectiveness by receiving data about how many people clicked or made a purchase after viewing their ads.</p><p>Google's changes will be watched closely by rivals, regulators and lawmakers because of the company's tremendous power over the digital-ad economy. Google has already promised to give the U.K.'s competition regulator oversight of its removal of support for third-party cookies, and the plans remain under investigation in the European Union as part of a broader probe of Google's ad-tech business.</p><p>On Wednesday, Google said it would continue to work with the U.K.'s competition regulator and others as it draws down individual app tracking on Android devices.</p><p>Unlike Apple, which makes the majority of its money from selling smartphones, Google uses its Android operating system as a vehicle to extend its advertising reach by putting its search engine, mapping system and YouTube video network into the hands of mobile users.</p><p>SHARE YOUR THOUGHTS</p><p>How do you expect the battle over big-tech privacy protections to develop in the coming years? Join the conversation below.</p><p>Apple's changes are credited with helping the company increase its share of marketing dollars spent on advertising for app downloads through its in-house business, Search Ads, according to Branch Metrics, a mobile-measurement company. A similar change at Google, the world's largest digital ad company, could invite allegations of anticompetitive behavior.</p><p>Mr. Chavez said it was too early to speak to how the changes would affect Google's ad business. Sales increases last year for its in-app advertising system, AdMob, helped boost annual revenue for its Google Network business nearly 40% to $31.7 billion.</p><p>In early February, Meta's Chief Financial Officer David Wehner criticized Apple and Google for contributing to its struggles and said Google had benefited from Apple's changes. He suggested that Google's gains weren't a coincidence, adding that the company paid Apple billions annually to be the default search engine on iPhones.</p><p>\"The incentive clearly exists for this policy discrepancy to continue,\" Mr. Wehner said.</p><p>In its blog post, Google included nearly a dozen comments of support from developers for its planned changes, including from the social-media company Snap Inc. Facebook wasn't among them. Mr. Chavez declined to comment on how Facebook has responded to the proposal.</p><p>Write to Tripp Mickle at Tripp.Mickle@wsj.com, Sam Schechner at sam.schechner@wsj.com and Patience Haggin at patience.haggin@wsj.com</p><p>Google Plans to Curtail Cross-App Tracking on Android Phones</p>",
+  "published": "2022-02-16T20:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3760,
+          "end": 3765
+        },
+        {
+          "start": 2216,
+          "end": 2221
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1855,
+          "end": 1860
+        },
+        {
+          "start": 6002,
+          "end": 6007
+        },
+        {
+          "start": 7838,
+          "end": 7843
+        },
+        {
+          "start": 8026,
+          "end": 8031
+        },
+        {
+          "start": 3183,
+          "end": 3188
+        },
+        {
+          "start": 6750,
+          "end": 6755
+        },
+        {
+          "start": 4217,
+          "end": 4222
+        },
+        {
+          "start": 154,
+          "end": 159
+        },
+        {
+          "start": 7924,
+          "end": 7929
+        },
+        {
+          "start": 7154,
+          "end": 7159
+        },
+        {
+          "start": 2628,
+          "end": 2633
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "c4a0543621e4a657cbce9e5b091c56cf86e4ee98863b990a833d2e6f69b1c5e4",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: SolarWinds Hackers Targeting More Firms",
+  "text": "<p>\"This recent activity is another indicator that Russia is trying to gain long-term, systematic access to a variety of points in the technology supply chain,\" said Tom Burt, Microsoft's corporate vice president for customer security and trust, according to a blog post.</p><p>Security experts say last year's SolarWinds incident was concerning because it showed how a compromise at one widely used link in the technology supply chain could be made into a jumping off point for further attacks. After government officials attributed it to Russia's foreign intelligence service, the Biden administration in April punished Moscow for the attack and other alleged malicious cyber activity with financial sanctions and diplomatic expulsions.</p><p>That doesn't appear to have deterred the hackers. Microsoft says it observed the group linked to the SolarWinds attack targeting 609 companies 22,868 times between July 1 and Oct. 19 of this year. That is more attempts than Microsoft observed from all government-linked hackers in the previous three years, Mr. Burt said.</p><p>The intrusion at SolarWinds, which went undiscovered for more than a year, was part of a hacking campaign that gave intruders footholds in at least nine federal agencies and 100 private companies. Microsoft itself and the cybersecurity company FireEye were compromised during the incident.</p><p>But not all of the break-ins involved SolarWinds software. Government officials say 30% of the victims didn't use SolarWinds products.</p><p>The hack is regarded as one of the U.S.'s worst intelligence failures in years. Moscow has denied involvement. A representative for the Russian Embassy in Washington didn't respond to a message seeking comment.</p><p>The latest disclosure of Russia's alleged activities comes as the Biden administration has sought to curtail Moscow's cyber aggression through a variety of means, including continuing bilateral meetings intended to address a glut of ransomware attacks from Russian cybercriminal gangs on critical American infrastructure and businesses. Officials have offered mixed views on whether Moscow has cracked down on those criminal groups in response to U.S. pressure.</p><p>A U.S. government official briefed on Microsoft's findings said the latest intrusion attempts appeared to be largely routine hacking handiwork from Russia.</p><p>\"Based on the details in Microsoft's blog, the activities described were unsophisticated password spray and phishing, run-of-the mill operations for the purpose of surveillance that we already know are attempted every day by Russia and other foreign governments,\" the official said.</p>",
+  "published": "2021-10-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1249,
+          "end": 1258
+        },
+        {
+          "start": 780,
+          "end": 789
+        },
+        {
+          "start": 2331,
+          "end": 2340
+        },
+        {
+          "start": 2188,
+          "end": 2197
+        },
+        {
+          "start": 954,
+          "end": 963
+        },
+        {
+          "start": 173,
+          "end": 182
+        },
+        {
+          "start": 2188,
+          "end": 2199
+        },
+        {
+          "start": 2331,
+          "end": 2342
+        },
+        {
+          "start": 173,
+          "end": 184
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

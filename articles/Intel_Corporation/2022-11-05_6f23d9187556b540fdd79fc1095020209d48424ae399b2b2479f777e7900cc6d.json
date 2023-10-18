@@ -1,0 +1,43 @@
+{
+  "_id": "6f23d9187556b540fdd79fc1095020209d48424ae399b2b2479f777e7900cc6d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Chip Makers Retrench --- Slump in demand leads to less hiring, spending",
+  "text": "<p>Qualcomm Inc., a major mobile-phone chip maker, joined the cost-cutting chorus on Wednesday, saying it was curtailing spending in some areas and pausing hiring after giving a pessimistic outlook for its current quarter. \"We are prepared and committed to making further reductions to operating expenses as needed,\" Chief Executive Cristiano Amon said.</p><p>Intel Corp. in late October said it would lay off an unspecified number of staff as part of a dramatic effort to reduce costs by as much as $10 billion a year by 2025.</p><p>The company also said it would run some factories less aggressively and, while it moves forward on building plants due to come online in a couple of years, it will defer some of the most costly equipment spending until demand warrants those investments. Intel rival Advanced Micro Devices Inc. this past week said the company was being cautious about hiring given slumping demand as it dials up efforts to control operating expenses.</p><p>The belt-tightening represents a turnabout after two heady years characterized by sky-high demand for computers, smartphones, cars and internet services that rely on chips. While the chip industry is notoriously cyclical, this wave rose higher and lasted longer than one has in decades, propelled by a pandemic that drove a societal shift toward working and learning from home.</p><p>\"What has happened is that the macroeconomic environment deteriorated, and we went from a period of supply shortages to demand declines,\" Akash Palkhiwala, Qualcomm's chief financial officer, said in a call with analysts.</p><p>Capital spending plans that reached unheard-of heights during the boom are also getting fresh scrutiny, even amid expectations for longer-term growth. Memory-chip maker Micron Technology Inc. in September reduced its capital spending plans for its current fiscal year by 30% to around $8 billion. Intel has lowered its expectation for capital outlays for this year by $2 billion to about $25 billion. Taiwan Semiconductor Manufacturing Co., the largest contract chip maker in the world, recently cut its capital spending forecast for this year by 10%.</p><p>For some chip makers, the usual seasonal rules have also been tossed out. Electronics manufacturers tend to stock up on chips ahead of the holiday selling season, but that hasn't played out this year, according to Mr. Palkhiwala. \"What we're seeing is the opposite, so it does come as a surprise in terms of how quickly the environment changed,\" he said.</p><p>The PHLX Semiconductor Index is down about 40% this year through Friday, almost double the decline in the S&amp;P 500.</p><p>Nvidia Corp. will report quarterly earnings later this month and has warned about sagging consumer demand and the impact of U.S. chip export restrictions to China.</p><p>The strength of the boom is turning into extra pain in the current downturn. When consumers clamored for digital goods, many manufacturers responded by stocking up on chips to respond to demand more quickly. Now that consumers aren't buying as many phones or PCs, manufacturers are running through those chip inventories rather than placing new orders.</p><p>\"We are planning for the economic uncertainty to persist into 2023,\" Intel CEO Pat Gelsinger said on a recent earnings call.</p>",
+  "published": "2022-11-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1850,
+          "end": 1855
+        },
+        {
+          "start": 3161,
+          "end": 3166
+        },
+        {
+          "start": 773,
+          "end": 778
+        },
+        {
+          "start": 351,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "First_Harvest_Corp%2E",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 351,
+          "end": 362
+        }
+      ]
+    }
+  ]
+}

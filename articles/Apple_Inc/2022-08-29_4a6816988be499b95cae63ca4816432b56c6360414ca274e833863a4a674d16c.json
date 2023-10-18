@@ -1,0 +1,34 @@
+{
+  "_id": "4a6816988be499b95cae63ca4816432b56c6360414ca274e833863a4a674d16c",
+  "feed": "wall-street-journal",
+  "title": "Investors Ramp Up Bets on A Market Slump --- Net short positions against S&P 500 hit highest in two years as rally enthusiasm fades",
+  "text": "<p>Many traders and portfolio managers are debating whether stocks' climb from the 2022 lows in mid-June marks the start of a new bull market or is merely a temporary bounce. The S&amp;P 500 has risen 11% since June 16 but remains down 15% for the year.</p><p>\"There's so much skepticism, so we're still in the sell-the-rally mentality,\" said Mark Hackett, chief of investment research for Nationwide. \"If everybody feels we're in a bear market rally, it will almost become a self-fulfilling prophecy.\"</p><p>This week investors will parse the latest monthly jobs report, consumer confidence survey and manufacturing index for insight on the health of the economy. They will also review quarterly results from Best Buy Co., HP Inc. and Campbell Soup Co., among other companies.</p><p>Some of the recent enthusiasm in markets appears to have evaporated of late. The S&amp;P 500 is coming off a second consecutive week of losses after Federal Reserve Chairman Jerome Powell said Friday that the central bank must continue raising interest rates and will hold them at a higher level until policy makers are confident inflation is under control. The index suffered its worst day in more than two months on Friday.</p><p>Inflation moderated slightly in July, which investors initially took to mean the Fed could soon slow the pace of its rate increases. Mr. Powell, however, said those price readings were \"welcome\" but fell \"far short\" of what the Fed is looking for.</p><p>Corporate earnings, meanwhile, have held up better than feared, but analysts and investors expect them to come under further pressure in the months ahead. For the year, analysts polled by FactSet project profits to grow about 8%, down from a 10% estimate at the beginning of July.</p><p>Investors again pulled money from U.S. stock funds in the latest week. The funds logged $1.2 billion in net outflows in the period ended Wednesday, according to Refinitiv Lipper data, after a brief stretch of inflows in the first half of August. All told, investors yanked $44.1 billion from equity funds in June and July.</p><p>\"The mood went from sour, to less sour, to now more sour,\" said Charles Kantor, senior portfolio manager for the Neuberger Berman Long Short Fund. \"That's a very dangerous game in this environment.\"</p><p>The S&amp;P 500 futures contract netted more than 260,000 short positions as of Tuesday among the category of traders mostly consisting of hedge funds, according to the latest Commodity Futures Trading Commission data, near June 2020 highs.</p><p>Investors are also increasing their bets against some of the large-cap technology stocks that have propelled the market's summer rebound. Short sellers borrow shares and sell them, hoping to buy them back at a lower price and pocket the difference as profit. They may be placing an outright bet that stocks will fall or aiming to protect portfolios against downside risk.</p><p>The Invesco QQQ Trust exchange-traded fund -- which tracks the Nasdaq-100 and includes bellwethers like Apple Inc., Microsoft Corp. and Amazon.com Inc. -- has posted the largest increase in short selling among ETFs as of late, according to technology and data-analytics company S3 Partners. Short interest in the QQQ rose $5.4 billion, or 28%, to nearly $25 billion, or 14% of its free float, in the 30 days ending Wednesday.</p><p>Short positioning in the market can help participants gauge sentiment and can influence the magnitude of stock moves, investors and strategists said. If stocks rally, short sellers might be squeezed to cover positions, which could accelerate the market's upward move. If stocks fall, short sellers might also buy to cover and take a profit, which could cushion the downward fall.</p><p>\"Positioning doesn't necessarily drive the direction of the market,\" said Greg Boutle, U.S. head of equity and derivative strategy at BNP Paribas. \"But once the market trades in a certain direction, positioning often impacts how it trades.\"</p><p>Bob Doll, chief investment officer of Crossmark Global Investments, said his firm's equity market neutral fund has been adding to short positions in stocks with hefty price-to-earnings ratios that trade on the premise of high growth down the line.</p><p>\"They led the market on the way down,\" said Mr. Doll of the richly valued shares of unprofitable companies. \"In the rally, they led the market on the way up. They've been struggling a little bit since.\"</p><p>Although short positioning in S&amp;P 500 futures indicates a bearish outlook from institutional investors, individual investors appear to have a rosier take. Retail purchases of inverse ETFs, risky funds that use leverage to offer investors a chance to profit off the opposite of an index's move and a method for individuals to effectively short indexes, have tapered off in the past few weeks, according to VandaTrack data.</p><p>\"Retail investors are actually pretty optimistic,\" Mr. Hackett said. \"It's more likely that in the near term, a period where retail investors get more pessimistic causes the market to drop.\"</p>",
+  "published": "2022-08-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2923,
+          "end": 2932
+        },
+        {
+          "start": 2945,
+          "end": 2955
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "4b28bfae515138b3f4b58b8e3d6a025fb797ab6aed77be204d9283ca3f2fea8d",
+  "feed": "wall-street-journal",
+  "title": "Companies Review Capital Budgets for Savings in Uncertain Economy; Chief financial officers are looking for potential cuts after a recent increase in capital spending",
+  "text": "<p>\"It is on the table for discussion, which is a deviation from where we have been. So that is a change,\" said Hardik Sheth, a partner and associate director at Boston Consulting Group, a business advisory firm, discussing capital expenditure cuts.</p><p>Companies in recent months have boosted capital spending as they put large piles of cash accumulated during the pandemic to work. During the second quarter, companies in the S&amp;P 500 spent $187.4 billion on capital investments, according to S&amp;P Global Market Intelligence, whose data includes 88% of companies in the index that have reported results. That is a 10% increase from the prior-year period, when capital expenditures in the S&amp;P 500 totaled $170.4 billion. Companies including Alphabet Inc.'s Google and PepsiCo Inc. have increased capital spending, which at big U.S. companies has risen at a faster clip than spending on buybacks.</p><p>Tempur Sealy International Inc. plans to make a decision during the third quarter about whether to scale back on capital and operating expenditures for the remainder of 2022 and into 2023. The Lexington, Ky.-based mattress company, which benefited from an increase in home-goods spending early on during the pandemic, now confronts lower demand this year as consumers have pulled back on large-ticket purchases. Net sales during the quarter ended June 30 rose about 4%, to $1.2 billion. Profit slid 36%, to $90.6 million.</p><p>\"The consumer was behaving differently than we anticipated they would at the beginning of the year,\" said Bhaskar Rao, Tempur Sealy's CFO, discussing the second quarter.</p><p>Tempur Sealy this year plans to spend over $250 million on capital projects, including a new foam-pouring plant. That is up from $125 million in 2021 and $110 million a year earlier. If the company decides to pull back on capital spending, it would aim to protect projects that are crucial to its long-term growth, Mr. Rao said. \"The capacity that we have about to come online is important,\" he said.</p><p>Targeting capital expenditures is just one way that finance chiefs are positioning their companies for a potential downturn. Large technology companies have said in recent months that they plan to slow down hiring. Other companies have weighed new cuts to operating expenses, including scaling back in areas such as office space, packaging and consulting services.</p><p>Inflation has pushed up costs for companies and consumers over the past year, prompting the Federal Reserve to raise interest rates. High inflation and rising rates have put pressure on consumer spending and U.S. economic output, which shrank during the second quarter for the second consecutive period. In recent weeks, some large companies, including Walmart Inc., the largest U.S. retailer, have cut their profit forecasts because of weaker demand.</p><p>Capital expenditures are investments in areas such as property, equipment and technology that companies make to expand and generate additional sales. Trimming or delaying capital projects can help finance chiefs conserve cash. But the decision to do so comes with risks, including slowing down or hindering a company's growth plans, corporate advisers said.</p><p>Chip maker Intel Corp. in July cut its forecast for capital expenses this year by $4 billion, to $23 billion, and is tapping other sources of external capital, such as government incentives, to fund its investments. Intel plans to add new chip-making facilities in the U.S. and Europe as part of an expansion effort.</p><p>Intel during the second quarter reported a surprise quarterly loss and cut its sales outlook for the year, following a slump in personal computer purchases. \"On a long-term basis, we're always looking at our CapEx in relationship to demand. We're building supply to meet demand, and modulating that as the signals change,\" Intel CFO David Zinsner said.</p><p>Companies that spend heavily on capital projects while revenue declines could put themselves at risk of being overleveraged, said Josh Nelson, a principal at Hackett Group Inc., a business advisory firm. \"It puts them at more risk financially,\" he said.</p><p>Beyond Meat Inc., which makes plant-based meat substitutes, is looking for ways to defer some of its planned capital spending, it told investors on an Aug. 4 earnings call. The company plans to reduce its capital spending this year by 41%, to $80 million. El Segundo, Calif.-based Beyond Meat is slashing operating expenses as the company confronts weaker demand for its products.</p><p>Write to Kristin Broughton at Kristin.Broughton@wsj.com</p><p>Companies Review Capital Budgets for Savings in Uncertain Economy</p>",
+  "published": "2022-08-15T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2699,
+          "end": 2711
+        },
+        {
+          "start": 2679,
+          "end": 2690
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

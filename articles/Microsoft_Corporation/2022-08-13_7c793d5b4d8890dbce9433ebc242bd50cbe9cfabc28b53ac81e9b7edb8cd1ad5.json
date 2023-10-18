@@ -1,0 +1,34 @@
+{
+  "_id": "7c793d5b4d8890dbce9433ebc242bd50cbe9cfabc28b53ac81e9b7edb8cd1ad5",
+  "feed": "wall-street-journal",
+  "title": "Best Buy, Peloton Cut Jobs, Slash Costs",
+  "text": "<p>Peloton said it would shed about 800 jobs -- roughly 13% of its workforce -- as part of efforts to reduce its operating footprint and restructure the company. It also plans to raise prices on some of its fitness equipment and scale back its bricks-and-mortar retail ambitions.</p><p>\"These are hard choices because we are impacting people's lives,\" said Peloton Chief Executive Barry McCarthy in an email to staff Friday. \"These changes are essential if Peloton is ever going to become cash flow positive. Cash is oxygen. Oxygen is life.\"</p><p>The latest job cuts come as the overall U.S. job market remains strong. The unemployment rate dropped to 3.5% last month, a half-century low also seen just before the pandemic in early 2020, according to the Labor Department.</p><p>A handful of major employers are pulling back on hiring or cutting some jobs. Walmart Inc., the country's largest private employer, cut hundreds of corporate jobs earlier this month. Ford Motor Co. is preparing to cut thousands of white-collar workers, while technology giants such as Microsoft Corp. and Facebook parent Meta Platforms Inc. have pulled back on hiring for certain roles.</p><p>Some retailers and consumer goods companies benefited from a huge surge in sales during the pandemic as spending shifted away from eating out or traveling in favor of in-home fitness equipment, home office electronics and other items. In addition, government stimulus payments propped up spending last year, helping some consumers splurge. That era has ended.</p><p>Inflation is near four-decade highs, consumers are wary about their finances and spending has shifted back to pre-pandemic priorities such as travel. Some companies are feeling the sudden shift, laying off workers, cutting costs and shifting sales strategies.</p><p>\"The consumer, I would say, is growing increasingly concerned about the future,\" said Spencer Ware, a managing director at the business advisory firm Riveron. As concerns mount regarding inflation, wages and spending power, \"people are taking a pause and being more cautious.\"</p><p>Best Buy and Peloton were among the companies helped by a surge in demand earlier in the pandemic. At the beginning of the health crisis, many people rushed to buy laptops, videogame systems and other tech gadgets to work or entertain themselves at home.</p><p>Peloton's business was bolstered by gyms being closed and people rushing to sign up for at-home fitness classes.</p><p>Peloton wanted to make the buzzy pandemic moment permanent. It bought a maker of fitness equipment to help expand the product line and invested in boosting its in-house manufacturing capabilities to avoid supply-chain disruptions that hindered growth.</p><p>But the company's star turned as gyms and live fitness classes reopened, consumers balked at buying the equipment and some marketing strategies backfired over the past year. Mr. McCarthy, who took the helm as CEO earlier this year, has been unwinding some prior corporate bets, seeking to hand over manufacturing and other functions back to third-party partners where possible.</p><p>Peloton has also been cutting staff to rein in costs and it previously announced an $800 million restructuring plan. It announced plans to shed about 2,800 workers in February. It had roughly 6,000 employees before the latest announcement, which included eliminating the North American field operations warehouses and cuts within the member-support team.</p><p>Mr. McCarthy said the price of its premium stationary bike, called the Bike+, will increase by $500 to $2,495, though the original stationary bike will not have a price change. Its treadmill will go up $800 to $3,495. While Peloton doesn't plan on closing any retail stores this year, it will provide updates on which locations will be impacted by its shift away from in-person retail in the coming months, the memo said.</p><p>The company's stock, which gained 14% in Friday trading, is down roughly 62% this year.</p><p>Best Buy, even prior to the pandemic, has seen its future in selling more goods through digital channels and boost efficiency within its bricks-and-mortar spaces.</p><p>Best Buy had around 105,000 workers in the U.S. and Canada as of January, down from around 125,000 workers in early 2020, according to financial filings. It had 1,144 stores as of January, down 7% over the same time period.</p><p>Shares in Best Buy ended the day 0.2% lower, and is down about 21% for the year, compared with a 10% decline in the S&amp;P 500.</p>",
+  "published": "2022-08-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1034,
+          "end": 1049
+        },
+        {
+          "start": 1044,
+          "end": 1059
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000646,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 6.4611435e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

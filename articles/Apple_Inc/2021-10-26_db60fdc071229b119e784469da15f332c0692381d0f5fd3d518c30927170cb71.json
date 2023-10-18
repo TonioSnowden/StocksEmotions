@@ -1,0 +1,28 @@
+{
+  "_id": "db60fdc071229b119e784469da15f332c0692381d0f5fd3d518c30927170cb71",
+  "feed": "wall-street-journal",
+  "title": "Google Nearly Clears a Very High Bar; While advertising avoids a bite from Apple, the soaring stock price left little room for error",
+  "text": "<p>But Google is doing just fine. Advertising revenue jumped 43% year over year to $53.1 billion, beating Wall Street's forecasts. And, despite adding nearly 6,000 workers to its rolls during the quarter, Google's spending stayed relatively in check, allowing operating income to surge 88% year over year to a record $21 billion—17% above analysts' projections. That also tipped the company's operating margin just over the 32% mark for the first time in at least a decade. Free cash flow hit a record $18.7 billion in the quarter, up 61% year over year.</p><p>Still, the stock's recent run left no room for error. Revenue for both YouTube ads and Google Cloud each jumped more than 40% year over year but still came in slightly lower than Wall Street's forecasts. Google Cloud's growth lagged behind that of Microsoft's much larger Azure cloud service for the same period; the software company reported Tuesday that Azure revenue jumped 50% year over year. Alphabet's share price slipped 0.8% following the results.</p><p>The pain will likely be short-lived. Google's broad-based ad business is seen as much less vulnerable to recent changes by Apple, which has limited advertisers' ability to track users over Apple devices. Google's advertising revenue growth exceeded the 33% growth seen by Facebook's smaller ad business in the same period, and its cloud business is still in a good position to capitalize on rising corporate technology spending in that area. Google Cloud still loses money, but it is a much more defensible investment area than the \"metaverse.\" Facebook told investors Monday that its investments in that area alone are clipping $10 billion from its operating-income line this year.</p><p>Despite its recent run, the stock isn't that expensive. Alphabet's current multiple around 26 times forward earnings is actually 16% below that of the Nasdaq Composite—among the highest valuation gaps to the broad index over the past five years, according to FactSet. Google has its share of challenges, but its business is still clicking.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Google Nearly Clears a Very High Bar</p>",
+  "published": "2021-10-26T22:55:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1131,
+          "end": 1136
+        },
+        {
+          "start": 1197,
+          "end": 1202
+        },
+        {
+          "start": 75,
+          "end": 80
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

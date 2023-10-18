@@ -1,0 +1,34 @@
+{
+  "_id": "ec85ec9f1de26a7dec1bc43db6c2a3ee75fdef55f326742ff47d9f6ecab9716b",
+  "feed": "market-watch",
+  "title": "Here's what the big inventory problem for retailers looks like; Inventory-sales ratio for general merchandise stores spike to 15-year high",
+  "text": "<p>Also read: Here's why Target was willing to pay so much to sell off excess inventory.</p><p>This is depicted in the following chart of the ratio of retail inventories to sales for general merchandise stores through June, from the Federal Reserve Economic Database (FRED), using U.S. Census Bureau data.</p><p>The chart shows inventories divided by monthly sales on a seasonally adjusted basis. The latest reading of 1.61 for June, which is the highest since April 2007, means it would take 1.6 months at the current sales rate to deplete inventory.</p><p>This is likely what Target Corp. TGT and Walmart Inc. WMT were seeing when they warned earlier this year that profits would take a hit as they took quick and early action, such as cutting prices, to get rid of excess inventory. And note that those two retail giants saw inventory growth slow in the latest quarter, while some other retailers saw inventory growth accelerate.</p><p>Here is what some of the retailers that have reported earnings in the past week are seeing in terms of inventory growth:</p><p>* Target Corp.: Inventories climbed 32.1% from a year ago to $15.32 billion in the quarter to July 30, after rising 43.1% to $15.08 billion in the previous quarter. Second-quarter revenue increased 3.5% to $26.04 billion.</p><p>* Walmart: Inventories for the quarter to July 31 rose 25.5% to $59.92 billion, after rising 32.0% to $61.23 billion in the previous quarter. Total second-quarter revenue increased 8.4% to $152.86 billion.</p><p>* Home Depot Inc. HD: Merchandise inventories for the quarter to July 31 climbed 38.0% to $26.09 billion, after increasing 31.9% to $25.30 billion the previous quarter. Total second-quarter sales increased 6.5% to $43.79 billion.</p><p>* Kohl's Corp. KSS: Merchandise inventories for the quarter to July 30 jumped 47.6% to $2.73 billion, after rising 40.1% to $3.74 billion the quarter before. Meanwhile, total second-quarter revenue fell 8.1% to $4.09 billion.</p><p>* TJX Companies Inc. TJX: For the quarter to July 30, merchandise inventories grew 39.3% to $7.08 billion, after growing 36.7% to $6.99 billion in the previous quarter. Total sales for the latest quarter fell 1.9% to $11.84 billion.</p><p>Here's what the big inventory problem for retailers looks like</p>",
+  "published": "2022-08-20T18:08:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 574,
+          "end": 586
+        },
+        {
+          "start": 578,
+          "end": 590
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.006409,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00640893,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "2d3435b2a4683a8829db11386d9104ca335ad74e449932bab6ac53b6f9726719",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Silicon Valley Security Aid Sought",
+  "text": "<p>Presidential administrations have long sought to forge strong ties with Big Tech, urging the companies to share cyber-threat intelligence, secure agreements on the production of advanced technologies or quietly cooperate on surveillance programs.</p><p>At the State Department, cybersecurity has in years past often been seen as a second-tier priority ceded to other federal agencies, a perception a new dedicated cyber office is trying to change, current and former officials have said.</p><p>\"We have a profound stake in shaping our technological future, and American diplomacy has a key role to play in bolstering and drawing on our country's unique strengths -- one of which is our industrial and innovation base,\" Mr. Blinken said in a statement to The Wall Street Journal.</p><p>Last year, the State Department established a bureau of cyberspace and digital policy, and Mr. Blinken named former technology executive and former Marine Corps officer Nathaniel Fick to lead it. The bureau's budget in the 2022 fiscal year was $41.2 million, including a diplomatic engagement budget of $18.2 million.</p><p>Mr. Fick, the nation's first ambassador-at-large for cyber, said the war in Ukraine underscored the need for greater alignment of cyber defensive capabilities among countries in the North Atlantic Treaty Organization. The government must be a better intermediary between U.S. tech firms and foreign governments in need of their services, he said.</p><p>Since the start of the war in Ukraine, large U.S. tech firms like Microsoft Corp. and Alphabet Inc.'s Google unit have been sharing cyber insights with Kyiv and the public about the activities of suspected Russian hackers. Major Western tech companies have suspended operations or withdrawn from the country. Twitter, Inc., Meta Platforms Inc.,'s Facebook, and Alphabet's YouTube and Google have cracked down on fake feeds and hackers.</p>",
+  "published": "2022-10-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1498,
+          "end": 1513
+        },
+        {
+          "start": 1498,
+          "end": 1507
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

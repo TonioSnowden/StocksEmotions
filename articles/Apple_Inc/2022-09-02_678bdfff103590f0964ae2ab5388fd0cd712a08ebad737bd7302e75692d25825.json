@@ -1,0 +1,34 @@
+{
+  "_id": "678bdfff103590f0964ae2ab5388fd0cd712a08ebad737bd7302e75692d25825",
+  "feed": "wall-street-journal",
+  "title": "World News: New Lockdown Hits Chinese Cities --- Chengdu is among the locales that is ordering residents to stay home as Covid-19 cases rise",
+  "text": "<p>Chengdu, the capital of Sichuan province, is the economic heart of China's vast inland area and the largest city put under a quasi-lockdown since Shanghai in April. Tighter Covid-19 controls had been spreading as about 700 locally transmitted infections of the virus were reported in the city in the past week.</p><p>The beginning of the new school term has been postponed and an automotive fair called off. Restaurants were told to stop dine-in services and public transport was reduced. Companies engaged in activities deemed essential, such as those delivering food and utilities, can still operate.</p><p>Other major Chinese cities, including Shenzhen and Guangzhou in the export powerhouse of Guangdong province, and the northeastern port city of Dalian, also have stepped up restrictions as cases mounted. With Chengdu, they account for about 7.5% of China's economic output.</p><p>The measures in Chengdu could further depress factory operations of global manufacturers including Apple Inc. assembler Foxconn Technology Group, Toyota Motor Corp. and Volkswagen AG.</p><p>Manufacturers in southwest China, which heavily relies on hydropower, have scaled back production recently because of a heat wave and drought.</p><p>VW's Chengdu plant will start operating in a closed-loop system Thursday evening, a company spokeswoman said. Toyota is discussing its response to the order for its Chengdu factory, said a company spokesman.</p><p>Stocks and industrial metals fell on the news, which adds to the headwinds dragging down China's economy. Copper, seen as a bellwether for economic growth, fell 2.3%. Hong Kong's benchmark Hang Seng Index closed 1.79% lower Thursday.</p><p>While overall numbers of new cases remain relatively low, strains of the highly contagious Omicron variant have been recorded in all of China's 31 provincial-level regions in recent weeks. There were 1,875 new cases recorded nationwide on Wednesday, according to a National Health Commission release published Thursday, around the average for the previous 14 days.</p><p>As the Communist Party gears up for next month's congress, Beijing has been defending its zero-Covid strategy, which aims to extinguish outbreaks through rapid and stringent control measures. Chinese leader Xi Jinping, who is expected to claim a third five-year term as party chief at the meeting, has claimed the approach is superior to the West's decision to live with the virus.</p><p>Meanwhile, the prolonged zero-tolerance policy has hammered China's already wobbly economy. Factory activity contracted and home sales tumbled in August.</p><p>Local officials have tended to swiftly ratchet up control measures when they see momentum picking up, but have been more cautious about imposing a citywide lockdown after the monthslong shutdown of Shanghai sparked discontent among residents and disrupted supply chains.</p><p>Chengdu residents rushed to stock up on food and other essentials as no date was given to end the home-isolation order. The city also urged residents not to try to leave the city unless necessary. Flights to and from Chengdu were cut back. About 70% of the flights at the city's two airports were canceled Thursday, according to flight-information tracker Flight Master.</p><p>On Tuesday, the organizer of the 10-day Chengdu Motor Show, which opened Aug. 26, closed the event because of the city's gathering restrictions. Auto makers were hoping to launch new models and boost sales at the Chengdu fair after the country's biggest auto show scheduled for April in Beijing was delayed indefinitely. Last year, about 40,000 vehicles were sold at the Chengdu event.</p><p>In Shenzhen, where Tencent Holdings Ltd. and other Chinese tech juggernauts are based, the city center has been placed under stricter control measures. Residents must take daily tests to enter their residential compounds and have been urged to stay put. All entertainment venues are closed and public events are suspended.</p><p>Shenzhen logged 62 local cases for Wednesday, a jump from 37 on Tuesday. Residents were asked not to leave the city unless absolutely necessary, and anyone who does exit must show proof of two negative Covid-19 tests within 48 hours.</p><p>The central area of Dalian has been under a five-day lockdown that is set to end Saturday midnight. Like Chengdu, Dalian allowed only one person from each household to go out for grocery shopping once a day.</p><p>Many colleges in the Chinese capital also have tightened controls on student activities. Universities including the elite Tsinghua University have required students to remain in dorms and buy meals from designated canteens in the first three days after they return to the campus, according to notices reviewed by The Wall Street Journal.</p>",
+  "published": "2022-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 969,
+          "end": 979
+        },
+        {
+          "start": 962,
+          "end": 972
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8051327,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.00013279915,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

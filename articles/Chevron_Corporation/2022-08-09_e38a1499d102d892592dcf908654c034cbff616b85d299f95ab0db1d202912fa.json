@@ -1,0 +1,30 @@
+{
+  "_id": "e38a1499d102d892592dcf908654c034cbff616b85d299f95ab0db1d202912fa",
+  "feed": "wall-street-journal",
+  "title": "The FTC Heads for Legal Trouble",
+  "text": "<p>If Ms. Khan succeeds, she will transform the FTC's regulation of American business. But there's a strong chance this regulatory blitz will fail. The FTC is a textbook case for how federal agencies could be affected by the re-examination of administrative law under way at the Supreme Court.</p><p>Administrative law, loosely speaking, is the law that governs the government. It has emerged as a defining interest of the John Roberts court, which is taking a fresh look at issues touching all three branches of government. That includes questioning whether courts should continue to defer to agency interpretations of ambiguous laws, a practice (known as Chevron deference) that some believe lets agencies usurp Congress's power to make policy decisions and judges' authority to declare what the law is.</p><p>At the same time, a majority of justices have expressed interest in reinvigorating the nondelegation doctrine. That doctrine is supposed to prevent Congress from sloughing its legislative responsibilities to agencies through statutes granting them open-ended authority. The court hasn't applied the doctrine to strike down a law since 1935. The justices are also interested in guarding against erosions of presidential authority -- and accountability -- through statutes that restrict the president's ability to oversee executive-branch agencies.</p><p>The FTC and its current agenda trip each of these three wires. Start with the leeway agencies have under ambiguous statutes. West Virginia v. Environmental Protection Agency, which the court handed down on the last day of its term, applies the \"major questions doctrine\" to rule that EPA can't base its controversial Clean Power Plan on a novel interpretation of a relatively obscure provision of the Clean Air Act. An agency rule of such vast \"economic and political significance,\" Chief Justice Roberts wrote, requires \"clear congressional authorization.\"</p><p>An FTC regulation of employment noncompete agreements would run headlong into the major-questions doctrine. The agency would claim the rule is an exercise of its authority to regulate \"unfair methods of competition.\" But historically the FTC has addressed unfair competition by case-by-case adjudication targeting specific companies' practices, not through binding nationwide rules.</p><p>Fifty years ago a federal appellate court ruled that the FTC had the authority to make rules regarding specific competitive practices. But the judges recognized the question was close, the FTC hasn't adopted a competition rule since, and the FTC throughout its history has questioned whether it has any such rule-making authority. This is not the \"clear\" statutory authorization the FTC will need to defend its first-ever restrictions on employment noncompete agreements, which historically have been regulated by states, not the federal government.</p><p>If the FTC did persuade a court that Congress gave it clear authority to adopt regulations for unfair methods of competition, it would face the question whether Congress in doing so violated the nondelegation doctrine. Strikingly, the last time the Supreme Court deployed that doctrine to hold that Congress delegated too broad and open-ended a mandate, the statute authorized adopting codes \"of fair competition\" -- words that on their face are indistinguishable from the FTC Act's mandate to address \"unfair . . . competition.\" An aggressive FTC competition rule could be a tempting target for a reinvigorated nondelegation doctrine.</p><p>Finally, the FTC is at the center of one of the oldest -- and most bitter -- fights in administrative law: Humphrey's Executor v. U.S. (1935). In a decision that many consider fundamental to \"independent\" agencies like the Securities and Exchange Commission and Federal Communications Commission, the Supreme Court found that the FTC had \"quasi-legislative\" and \"quasi-judicial\" responsibilities and lacked significant enforcement power. On that basis, the court ruled that Congress didn't intrude on the president's executive power when it prohibited him from removing FTC commissioners except for \"inefficiency, neglect, or malfeasance.\"</p><p>Humphrey's Executor has long rankled proponents of the separation of powers and presidential authority. A majority of the current justices appear to believe it was wrongly decided. If the court wants to overrule or further limit Humphrey's Executor, it could do so by revisiting its 1935 finding that the FTC has little enforcement authority -- a finding that would surprise companies on the receiving end of the commission's current investigative onslaught. Since 1935 Congress has given the FTC significant new enforcement authority, including the ability to sue in federal district court and to seek retrospective remedies.</p><p>As the FTC advances its aggressive agenda, there's a distinct possibility it will end up restricting not American business but the FTC itself.</p><p>---</p><p>Ms. Gans is a former senior official at the FTC. Mr. Scalia served as U.S. labor secretary, 2019-21. Both are Washington lawyers.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 648,
+          "end": 655
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.003063,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0030629635,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

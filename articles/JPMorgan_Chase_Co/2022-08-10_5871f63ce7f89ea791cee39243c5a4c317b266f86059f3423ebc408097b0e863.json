@@ -1,0 +1,86 @@
+{
+  "_id": "5871f63ce7f89ea791cee39243c5a4c317b266f86059f3423ebc408097b0e863",
+  "feed": "wall-street-journal",
+  "title": "Ex-JPMorgan Traders Convicted in Federal Fraud Trial; Justice Department had alleged that the precious-metals traders spoofed gold futures for years",
+  "text": "<p>After deliberating for more than eight days, the jury convicted Gregg Smith, once the bank's top gold trader, and Michael Nowak, the former head of its precious-metals desk, of charges including spoofing and wire fraud. A sales executive who worked with them, Jeffrey Ruffo, was acquitted.</p><p>Spoofing is defined as sending orders that traders intend to cancel. The misleading orders are a ruse to trick the market into thinking supply or demand have changed. That causes other traders to update their prices, benefiting the spoofer.</p><p>Prosecutors used charts of trades and orders to show a pattern they said was spoofing. Proving the case was harder than in some prior spoofing trials because the Justice Department lacked chats or other messages to reveal the traders' intent for their orders. In earlier spoofing cases, prosecutors found electronic messages that showed traders bragging about spoofing. The case against Mr. Ruffo was also different—he wasn't a trader but was nonetheless charged with involvement in a conspiracy.</p><p>The jury cleared all three defendants of conspiracy and racketeering charges. The latter count indicated prosecutors believed the precious-metals desk essentially functioned as a criminal enterprise inside JPMorgan.</p><p>David Meister, a lawyer for Mr. Nowak, said, \"While we are gratified that the jury acquitted Mr. Nowak of racketeering and conspiracy, we are extremely disappointed by the jury's verdict on the whole, and will continue to seek to vindicate his rights in court.\"</p><p>Guy Petrillo, a lawyer for Mr. Ruffo, said, \"We always believed in Jeff's innocence, and we are grateful that these unfortunate charges are now behind him.\" Attorneys for Mr. Smith didn't return a request for comment.</p><p>In addition to charts, prosecutors used a trio of cooperating witnesses—former traders at JPMorgan or other banks—who testified over the course of three weeks about how they spoofed and watched Messrs. Smith or Nowak do the same thing to get better prices on gold futures trades and make more money for the bank.</p><p>Mr. Smith was a rapid-fire trader who used his mouse to manually enter and cancel orders so fast that colleagues joked he needed to put ice on his fingers to cool them down, according to trial testimony. Mr. Smith spoofed \"all the time,\" according to Christian Trunz, a former junior trader who pleaded guilty in 2019 and testified that he learned the tactic by looking over Mr. Smith's shoulder.</p><p>Attorneys for Mr. Smith told jurors that prosecutors cherry-picked a handful of trades to concoct a misleading theory of why he traded so fast and successfully.</p><p>Mr. Nowak was the head of JPMorgan's precious-metals desk during the period scrutinized by prosecutors. He also spoofed, but less than Mr. Smith, according to the traders who testified.</p><p>Prosecutors alleged that spoofing was critical to JPMorgan's ability to serve hedge-fund clients such as Moore Capital Management, Soros Fund Management LLC and Tudor Investment Corporation. Mr. Ruffo, who was acquitted, was the bank's salesman dealing with those big traders and sometimes encouraged spoofing to get better prices for them, according to John Edmonds, a former JPMorgan trader who pleaded guilty in 2018 and testified for prosecutors.</p><p>Defense attorneys during the trial sought to undermine the credibility of the cooperating witnesses, pointing out that they had misled authorities in the past about their trading. Mr. Edmonds acknowledged lying to FBI agents when they first approached him about his trading. Mr. Trunz admitted lying to JPMorgan's compliance team about spoofing in 2016.</p><p>Mr. Nowak's attorneys said the charges against him weren't credible. He traded differently than Mr. Smith and used gold futures to offset the risk of his options positions, they said. After a JPMorgan trader in London was fired for spoofing in 2013, Mr. Nowak told his traders that if any of them were doing the same thing, he wanted to know.</p><p>The DOJ's fraud section, which tried the case, won convictions in two prior spoofing trials in Chicago, where the futures exchange operated by CME Group Inc. is based. Former gold and silver traders at Deutsche Bank AG and Bank of America Corp. were convicted of spoofing-related crimes in 2020 and 2021, respectively.</p><p>In the Deutsche Bank case, the defendants were sentenced to serve one year and a day in prison. The former Bank of America traders haven't been sentenced. Messrs. Smith and Nowak will be sentenced at a future date.</p><p>Write to Dave Michaels at dave.michaels@wsj.com</p><p>Ex-JPMorgan Traders Convicted in Federal Fraud Trial</p>",
+  "published": "2022-08-10T23:54:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 3,
+          "end": 11
+        },
+        {
+          "start": 1224,
+          "end": 1232
+        },
+        {
+          "start": 1234,
+          "end": 1242
+        },
+        {
+          "start": 1800,
+          "end": 1808
+        },
+        {
+          "start": 1814,
+          "end": 1822
+        },
+        {
+          "start": 2603,
+          "end": 2611
+        },
+        {
+          "start": 2621,
+          "end": 2629
+        },
+        {
+          "start": 2811,
+          "end": 2819
+        },
+        {
+          "start": 2831,
+          "end": 2839
+        },
+        {
+          "start": 3137,
+          "end": 3145
+        },
+        {
+          "start": 3158,
+          "end": 3166
+        },
+        {
+          "start": 3511,
+          "end": 3520
+        },
+        {
+          "start": 3535,
+          "end": 3543
+        },
+        {
+          "start": 3751,
+          "end": 3759
+        },
+        {
+          "start": 3778,
+          "end": 3786
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.985,
+        "baseWeight": 15.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9850011,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

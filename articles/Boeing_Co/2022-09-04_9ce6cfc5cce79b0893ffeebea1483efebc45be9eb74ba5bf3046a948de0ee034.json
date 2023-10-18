@@ -1,0 +1,30 @@
+{
+  "_id": "9ce6cfc5cce79b0893ffeebea1483efebc45be9eb74ba5bf3046a948de0ee034",
+  "feed": "ftcomall",
+  "title": "Nasa calls off moon launch for second time after hydrogen leak",
+  "text": "<p>Technical problems with fuelling its giant new moon rocket forced Nasa to call off its second attempt at a launch in less than a week.</p> <p>The US space agency's engineers struggled for more than three hours on Saturday to contain a leak in a hydrogen line being used to fill one of the tanks on the core part of the rocket, but abandoned the effort more than two hours before the scheduled blast-off.</p> <p>The leak was the latest in a string of technical glitches that have delayed the first launch of the SLS rocket, which the US hopes to use to take astronauts back to the moon in 2025.</p> <p>A hydrogen fuel leak also forced a delay in the countdown at Monday's <a href=\"https://www.ft.com/content/2c2ee15e-dfbf-4096-a4a3-877774a03ac0\">first launch attempt</a>, though it was fixed in time to allow fuelling to be completed. The launch was eventually called off after a faulty sensor led to worries that one of the main rocket's four engines was not being cooled as needed.</p> <p>Ahead of Saturday's second attempt, Nasa had warned that it might need to scrap the launch again if it faced a similar series of small problems that proved too much to resolve in the two-hour launch window that was available.</p> <p>Later on Saturday, Nasa ruled out a third launch attempt early next week and said it may not be ready to try again until late October. It would decide Monday or Tuesday whether to leave the rocket on the launch pad while it tried to fix the leak, or to move it back to the hangar for further work, officials said.&#xa0;</p> <p>Nasa's engineers earlier this week described the last-minute launch problems as common issues with new rocket programmes, and said they had not discovered any more serious flaws with the rocket engines or fuel tanks.</p> <p>The launch is a big test for <a href=\"https://www.ft.com/content/4ef1a4c0-ce0d-4f9c-811a-1d28e0049c69\">Boeing</a>, the lead contractor for the rocket, given that the SLS is already years late and billions of dollars over budget. A Nasa auditor has estimated that a single test of the rocket will cost $2.2bn, with another $1.9bn being spent on the Orion capsule, ground systems and other operations.</p> <p>The US has planned four launches of the rocket in the coming years as part of its Artemis programme to take astronauts back to the moon for the first time since 1972 and lay the ground for a future trip to Mars. </p> <p>It has not committed to any launches beyond that, and many space experts believe that new rockets being developed by Elon Musk and Jeff Bezos will soon offer a cheaper alternative for reaching the moon and beyond. &#xa0;</p>&#xa0;<p>Source: Richard Waters in Los Angeles 2022 'Nasa calls off moon launch for second time after hydrogen leak' FT.com 4 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-04T11:57:41.427Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999723,
+      "offsets": [
+        {
+          "start": 1670,
+          "end": 1676
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000001,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

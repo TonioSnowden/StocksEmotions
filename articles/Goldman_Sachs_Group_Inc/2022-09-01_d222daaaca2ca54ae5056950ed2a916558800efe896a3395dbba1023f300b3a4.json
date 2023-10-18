@@ -1,0 +1,42 @@
+{
+  "_id": "d222daaaca2ca54ae5056950ed2a916558800efe896a3395dbba1023f300b3a4",
+  "feed": "wall-street-journal",
+  "title": "Technology:  New SAP CFO Is Set  To Focus on the Cloud  ----  By Jennifer Williams-Alvarez",
+  "text": "<p>   SAP SE's new finance chief, an industry outsider from Airbus SE, will be tasked with advancing the software giant's cloud transformation and lifting sagging margins. </p><p>   Walldorf, Germany-based SAP on Wednesday named Dominik Asam chief financial officer, effective March 7, 2023. He is set to succeed Luka Mucic, who joined SAP nearly three decades ago and has served as CFO since 2014. The company this year said Mr. Mucic plans to leave SAP in March 2023. </p><p>   Mr. Asam joins SAP from European aircraft maker Airbus, where he has been CFO since 2019. Before his time at Airbus, he led the finances of semiconductor firm Infineon Technologies AG and held other finance roles at RWE AG, one of Germany's largest power producers, and industrial conglomerate Siemens AG. Mr. Asam started his career in Goldman Sachs Group Inc.'s investment-banking division. </p><p>   His appointment comes as SAP is battling lower operating margins and a decline in its share price. </p><p>   The company in July reported operating profit of 1.68 billion euros on a non-International Financial Reporting Standards basis, equivalent to $1.69 billion, down 13% compared with the prior-year period. </p><p></p>",
+  "published": "2022-09-01T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99976,
+      "offsets": [
+        {
+          "start": 791,
+          "end": 804
+        },
+        {
+          "start": 791,
+          "end": 798
+        },
+        {
+          "start": 791,
+          "end": 815
+        },
+        {
+          "start": 785,
+          "end": 808
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9007791,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0007791519,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "e7fdacdc7711ad01b2ac59dced4acd4e747adddf10fbac2b10178492e6a26bd9",
+  "feed": "wall-street-journal",
+  "title": "FTC Investigating Amazon Deal to Buy One Medical Network of Health Clinics; Probe adds to issues Amazon faces at antitrust enforcement agency",
+  "text": "<p>Amazon's bid for One Medical added momentum to the push by technology and retail giants to make inroads into the nation's $4 trillion healthcare economy. The deal was the first major acquisition announced during the tenure of Chief Executive Andy Jassy, for whom expansion into healthcare is a priority.</p><p>The FTC's move to investigate the deal could delay its completion as federal competition investigations often take months to finish. Significant U.S. antitrust probes on average take about 11 months, according to data compiled by law firm Dechert LLP.</p><p>FTC Chairwoman Lina Khan is a critic of Amazon, having written a 2017 law review article that argued Amazon's conglomerate-like structure shouldn't have escaped antitrust scrutiny. Ms. Khan said Amazon's entry into businesses beyond its e-commerce platform allowed it to gather data it could use to undercut other companies.</p><p>The FTC is investigating Amazon's Prime membership program, according to a legal petition Amazon filed last month. The company argued that FTC staff had made excessive demands on founder Jeff Bezos and other company executives and asked officials to quash the subpoenas.</p><p>An Amazon spokeswoman declined to comment.</p><p>Mr. Jassy is focused on healthcare as an industry in which Amazon could find significant growth opportunities. The company recently revealed that it plans to shut down a healthcare unit it launched in 2019 called Amazon Care after it announced the One Medical deal.</p><p>The transaction would give Amazon more than 180 clinics with employed physicians across roughly two dozen U.S. markets. One Medical Chief Executive Amir Dan Rubin is expected to remain as CEO once the deal closes.</p><p>As Amazon seeks to grow in healthcare, the company faces added challenges from competitors such as UnitedHealth Group Inc.'s Optum health-services arm and CVS Health Corp., in addition to hospital systems.</p><p>In a memo to employees, Neil Lindsay, senior vice president of Amazon Health Services, said the healthcare industry continues to be an important arena for innovation.</p><p>\"As we take our learnings from Amazon Care, we will continue to invent, learn from our customers and industry partners, and hold ourselves to the highest standards as we further help reimagine the future of health care,\" Mr. Lindsay wrote.</p><p>Write to Dave Michaels at dave.michaels@wsj.com</p><p>FTC Investigating Amazon Deal to Buy One Medical Network of Health Clinics</p>",
+  "published": "2022-09-02T23:06:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 1774,
+          "end": 1797
+        },
+        {
+          "start": 1761,
+          "end": 1784
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

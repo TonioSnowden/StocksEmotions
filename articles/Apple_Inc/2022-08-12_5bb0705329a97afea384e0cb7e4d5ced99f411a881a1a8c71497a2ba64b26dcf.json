@@ -1,0 +1,42 @@
+{
+  "_id": "5bb0705329a97afea384e0cb7e4d5ced99f411a881a1a8c71497a2ba64b26dcf",
+  "feed": "wall-street-journal",
+  "title": "Facebook Marketplace and DoorDash Team Up for Local Deliveries; The service will pick up and deliver items that fit in a car trunk to destinations up to 15 miles away",
+  "text": "<p>Meta and DoorDash tested the service in several U.S. cities in recent months, the companies said. The service lets Facebook users purchase and receive items from Marketplace without leaving their homes. It can deliver items that fit in a car trunk and are up to 15 miles away, people familiar with the plan said. Deliveries would be made within 48 hours, the people said.</p><p>Shares of Meta were up more than 1% on Friday while DoorDash's stock price was up slightly.</p><p>Meta and DoorDash confirmed the tests and said the partnership is in early stages. The companies have been offering free delivery to entice customers to try the service, according to one of the people familiar with the plan. It couldn't be determined how the companies would charge for deliveries in the future.</p><p>For Meta, the idea behind the partnership was to try to get more people, especially younger ones, to use Marketplace more often, according to a person familiar with its plans. Marketplace is a feature within Facebook that lets people sell new and used goods to one another. Facebook has struggled to add younger users, who now prefer rival TikTok. Marketplace has been one of the few Facebook features popular among young people, the person said. Facebook takes a small cut of sales processed through Marketplace to cover the cost of payment processing and to cover purchase protection for buyers.</p><p>Over the past two years, Meta has increased its efforts to expand e-commerce on its social-media apps because it would help it sell ads. The company lost ad revenue over the past year after Apple Inc. changed its privacy policy for iPhones and iPads. The changes, made in April 2021, made it easier for people to stop apps from tracking their devices. That tracking data helped Meta measure the effectiveness of advertisements.</p><p>Increased use of Facebook Marketplace would help Meta better measure the effectiveness of ads, and reclaim some of the data it lost after Apple changed its policy, because commerce channels provide more-detailed data for advertising.</p><p>The partnership comes after Meta added DoorDash's chief executive, Tony Xu, to its board of directors in January.</p><p>The pandemic served as an unexpected boon for DoorDash, the nation's largest food-delivery service. The app expanded to delivering items including toothpaste to Tylenol, as spending on delivery surged.</p><p>It also doubled down on logistics partnerships with retailers including Sephora and JCPenney. Under those partnerships, DoorDash uses its fleet of gig workers to deliver orders placed directly on other websites.</p><p>Now DoorDash and rival Uber Eats are trying to build logistics businesses that sell speed and convenience, rather than just food. The delivery companies say powering next-hour delivery for consumers and businesses—which includes delivering everything from drugstore staples and alcohol to clothes and cosmetics on demand—is the prize that could sustain their growth.</p><p>DoorDash's deal with Meta marks its first foray into ferrying goods between consumers. The companies had been discussing a partnership since at least 2021, according to one of the people familiar with Meta's plans.</p><p>DoorDash approached Facebook about a partnership in part to create more work for its drivers, especially when drivers aren't busy delivering lunch and dinner, this person said.</p><p>In a statement, DoorDash said it continuously explores and tests new innovations that focus on providing convenience.</p><p>Write to Salvador Rodriguez at salvador.rodriguez@wsj.com and Preetika Rana at preetika.rana@wsj.com</p><p>Facebook Marketplace and DoorDash Team Up for Local Deliveries</p>",
+  "published": "2022-08-12T19:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1550,
+          "end": 1559
+        },
+        {
+          "start": 1564,
+          "end": 1574
+        },
+        {
+          "start": 1923,
+          "end": 1928
+        },
+        {
+          "start": 1940,
+          "end": 1945
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0000005,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

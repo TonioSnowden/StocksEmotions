@@ -1,0 +1,24 @@
+{
+  "_id": "5d68fca0bde0e2b821af5a488d4f4539bec1c71af6b39bb06ce790c5d4f6ac01",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  New Cases Continue  To Edge Higher  ----  By David Hall",
+  "text": "<p>   Newly reported coronavirus cases in the U.S. rose, as the temporary suspension of Johnson &amp; Johnson's Covid-19 vaccine complicated vaccination efforts at some federal and state sites. </p><p>   The U.S. reported 77,878 new cases for Tuesday, according to the latest data compiled by Johns Hopkins University. Not all states report data on new cases daily. Tuesday's total was up from the 70,230 cases reported on Monday, and is similar to tallies seen last week, though it is higher than levels recorded in early-to-mid-March, according to Johns Hopkins data. </p><p>   The seven-day average, which helps smooth out differences in data reporting, was 71,234 on Tuesday, while the 14-day average was 67,915, according to a Wall Street Journal analysis of Johns Hopkins data. When the seven-day average is higher than the 14-day average, it indicates cases are rising. </p><p>   The country reported 913 Covid-19 fatalities for Tuesday, bringing the total death toll to more than 563,400, according to Johns Hopkins data. </p><p>   U.S. health authorities on Tuesday recommended a pause in the use of Johnson &amp; Johnson's Covid-19 vaccine to investigate rare but severe cases of blood clots. </p><p></p>",
+  "published": "2021-04-15T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 82,
+          "end": 99
+        },
+        {
+          "start": 1059,
+          "end": 1076
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

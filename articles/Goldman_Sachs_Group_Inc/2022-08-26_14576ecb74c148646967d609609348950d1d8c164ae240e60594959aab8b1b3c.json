@@ -1,0 +1,38 @@
+{
+  "_id": "14576ecb74c148646967d609609348950d1d8c164ae240e60594959aab8b1b3c",
+  "feed": "wall-street-journal",
+  "title": "Battery Metals Mining Has a Resource Nationalism Problem; Inflation, competition with China for resources will hand further leverage to metal-rich low-income countries",
+  "text": "<p>Chile's proposed new constitution will be put to a referendum on Sept. 4. Although its passage—a priority of the new leftist government—remains highly uncertain, it would make mining more difficult, uncertain and costlier. It would grant indigenous groups, including those who live near northern Chile's vast lithium deposits, more autonomy over ancestral lands and require their consent for new projects. It bans mining activity in glaciers and protected areas. It also amends the system of private water rights. This would all affect lithium mining, which requires extracting brine from northern Chile's salt flats. Chile is the largest producer of copper in the world and the second largest producer of lithium. Copper, like nickel and cobalt, goes into wind turbines and electric vehicles in large amounts.</p><p>Such metals are facing a wave of demand comparable to that of iron ore during the early 2000s. Prices of battery-grade lithium carbonate in China are currently nine times higher than they were in the beginning of 2021, according to Rystad Energy. The International Energy Agency estimates that lithium demand from EVs and battery storage will need to grow 40-fold by 2040 to meet Paris Climate Accord goals. Nickel, cobalt and graphite demand will need to rise as much as 25-fold.</p><p>Unsurprisingly, the prospect of insatiable demand and rising prices have motivated greater state control and a more skeptical approach to project approvals. In addition to Chile, Bolivia and Mexico are also tightening mining regulations, noted S&amp;P Global in early August.</p><p>And the trend isn't unique to Latin America. Serbia revoked Rio Tinto's license for its Jadar lithium project in January due to concerns about the potential environmental impact. Susan Zou, senior analyst at Rystad Energy, thinks such incidents are likely to pose a significant challenge to battery mineral supply chains already at risk of falling behind the world's needs by the later years of this decade.</p><p>Indonesia, the world's top nickel producer, may impose a tax on some product nickel exports this year as Southeast Asia's largest economy seeks to force investment into higher value-added processing segments.</p><p>Some miners are responding by investing in regions which might have been considered too unstable in the past. BHP announced a nickel project in Tanzania early this year, the miner's first new investment in Africa in years. Chief Executive Mike Henry signaled a new willingness to venture into \"tougher jurisdictions\" in comments at a mining summit last October.</p><p>And although the feverish battery metal rally has cooled somewhat of late—helped along by a May Goldman Sachs report predicting that robust investment should deliver plentiful lithium supply in the middle of the 2020s—it might be a mistake to assume that most of those projects will proceed without a hitch.</p><p>The green revolution is handing additional leverage to countries where metals like copper and nickel are being dug up. Expect them to use it.</p><p>Write to Megha Mandavia at megha.mandavia@wsj.com</p><p>Battery Metals Mining Has a Resource Nationalism Problem</p>",
+  "published": "2022-08-26T12:14:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 2639,
+          "end": 2652
+        },
+        {
+          "start": 2639,
+          "end": 2646
+        },
+        {
+          "start": 2618,
+          "end": 2631
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

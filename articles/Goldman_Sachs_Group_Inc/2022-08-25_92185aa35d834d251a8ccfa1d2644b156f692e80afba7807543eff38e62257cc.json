@@ -1,0 +1,42 @@
+{
+  "_id": "92185aa35d834d251a8ccfa1d2644b156f692e80afba7807543eff38e62257cc",
+  "feed": "wall-street-journal",
+  "title": "Bank of Mexico Flexible on Size of Future Rate Increases, Minutes Show; The central bank raised the overnight interest-rate target from 7.75% to 8.5% at Aug. 11 meeting",
+  "text": "<p>The magnitude of future increases will depend on prevailing conditions, the Bank of Mexico said.</p><p>All board members expressed concern about inflation, which is running at its highest level since December 2000, led by rising food costs, and most said there remains significant upside risk, according to the minutes.</p><p>Members also noted the rise in near- and medium-term inflation expectations, which remain above the central bank's 3% inflation target. Inflation rose from 8.15% in July to 8.62% in mid-August, and core inflation, which excludes energy and agricultural goods but includes processed food, rose from 7.65% to 7.97%.</p><p>The Bank of Mexico's last two interest-rate moves matched in size the U.S. Federal Reserve's previous two increases in the federal-funds rate.</p><p>One member of the board of governors said it could be necessary for the Bank of Mexico to decouple from the Fed \"relatively soon\" to avoid Mexico's interest rates from becoming overly restrictive and affecting economic activity. But another member considered it necessary to maintain the spread between local and U.S. interest rates, which has contributed to peso stability.</p><p>Most members agreed more interest rate increases are needed, but three favored keeping a flexible approach to the size of those moves. They appeared to be \"implicitly leaning to consider a milder rate hike,\" Goldman Sachs' chief Latin America economist Alberto Ramos wrote in a research note.</p><p>Twenty-seven of 35 banks polled this week by Citigroup Inc.'s Mexican unit Citibanamex said they expect the Bank of Mexico to raise the policy rate by a half percentage point at its September meeting, with a median estimate that the rate will end the year at 9.5%.</p><p>Write to Anthony Harrup at anthony.harrup@wsj.com</p>",
+  "published": "2022-08-25T18:52:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1354,
+          "end": 1368
+        },
+        {
+          "start": 1354,
+          "end": 1361
+        },
+        {
+          "start": 1354,
+          "end": 1367
+        },
+        {
+          "start": 1346,
+          "end": 1359
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000029,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.861023e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

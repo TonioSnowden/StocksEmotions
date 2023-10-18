@@ -1,0 +1,42 @@
+{
+  "_id": "6818d8724f6728dbebd523102ce1a63e78aca2c3b517fc9ed9eb87bfdbc8d658",
+  "feed": "economist-newspaper",
+  "title": "\"Bambi\": Burning up",
+  "text": "<p>About 40 minutes in (no, it's not in the first ten minutes, although many share that false memory, too), doe and fawn are running from unseen hunters through a snowy meadow. A gunshot is heard. Bambi races back to his shelter in \"the thicket\", only to realise, after a second of elated relief, that he is alone. His majestic father then looms over him in silhouette and murmurs: \"Your mother can't be with you any more.\" And that's that. There are no poignant last words, no mourning period or slow recovery. The film immediately cuts to a tra-la-la-ing song about falling in love in the springtime, and Bambi's mum is never mentioned again. For Bambi, Thumper and their woodland friends, death is just an everyday part of growing up. The film's viewers may be perturbed by this attitude, but the animals aren't.</p><p>This brisk lack of sentiment is typical of a film which is far bolder than its fluffy reputation might suggest. Adapted from a novel by Felix Salten, an Austro-Hungarian author, Disney's fifth feature-length cartoon is a gorgeous tapestry of different animation techniques. There is no adventure plot or triumph-over-adversity theme imposed on the art: David Hand, the supervising director, simply made a 70-minute chronicle of a wobbly legged deer's learning about life and death.</p><p>Watching it now, in the middle of a dangerously hot summer, the most horrifying sequence is the one in which a wildfire consumes the forest. In later Disney cartoons, this sort of eco-catastrophe would be caused by lightning (as in \"The Jungle Book\") or by greedy hyenas (\"The Lion King\"). In \"Bambi\", however, humans are squarely to blame. Not that any people are depicted: Bambi is warned of a species called \"Man\", but, just as Hand omitted the killing of the fawn's mother, he chose not to show any humans on screen.</p><p>Instead, the flames from an unattended campfire are blown into a tree, and then an unstoppable blaze turns a green paradise into an inferno. No one in particular is responsible. There is no snarling Captain Hook, Maleficent or Cruella de Vil to reassure viewers that only evildoers destroy the environment. Man in general, it seems, is so careless that he would rather lay waste to nature than go to the effort of putting out a campfire.</p><p>Again, the film doesn't have any wailing or gnashing of teeth. No one delivers any speeches about the injustice of it all, and no one expresses the hope that it might not happen again. Wildfires are just one more thing that the animals have got used to. And now humans must get used to them as well: a thought as harrowing as the demise of Bambi's mother.</p>",
+  "published": "2022-08-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 1432,
+          "end": 1438
+        },
+        {
+          "start": 1445,
+          "end": 1451
+        },
+        {
+          "start": 981,
+          "end": 987
+        },
+        {
+          "start": 991,
+          "end": 997
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0001097,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.000109791756,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

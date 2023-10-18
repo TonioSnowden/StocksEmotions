@@ -1,0 +1,44 @@
+{
+  "_id": "9817bd45282860f8fd14121d431f0ed738c369d83d3ed85c24e1e3539e4154b1",
+  "feed": "ftcomall",
+  "title": "Apple supplier Quanta hit by cyber attack",
+  "text": "<p>Quanta, one of Apple's major suppliers, said on Wednesday that it had been hit by a cyber attack and was trying to “recover data” after one of the world's most notorious hacking gangs said it was attempting to extort both companies.&#xa0;</p> <p>The Taiwanese company, which manufactures computers for Apple and also supplies companies such as Cisco, Microsoft and Siemens, said it had suffered “cyber attacks on a small number of Quanta servers” and was “conducting detailed investigation to ensure containment and recovery of data are in process”.&#xa0;</p> <p>The admission came after REvil, one of the most prolific criminal ransomware hacking groups, said on its dark web site that it had compromised Quanta and was now extorting Apple.</p> <p>Like other ransomware gangs, REvil typically locks up the data or computer systems of its victims until it is paid off. In this instance, the group said Quanta had refused to co-operate with its demands and it was now asking Apple to pay a ransom by May 1 in exchange for not leaking their sensitive information.&#xa0;</p> <p>“Our team is negotiating the sale of large quantities of confidential drawings and gigabytes of personal data with several major brands,” the REvil post added. It also shared copies of what appeared to be Apple product blueprints, though it is unclear whether these contained any confidential information. </p> <p>Apple declined to comment.&#xa0;</p> <p>Separate chat logs, seen by the Financial Times, showed that REvil had initially demanded $50m from Quanta. </p> <p>Quanta on Wednesday said there had been no material impact to its operations, and that “a small range of services” hit by the attacks had been restored. It has notified relevant law enforcement and data protection agencies, it said.&#xa0;</p> <p>Ransomware attacks have become increasingly prevalent as criminals have used cryptocurrencies such as bitcoin to collect payment without being tracked, and as a shift to remote working during the pandemic has left companies more vulnerable to attacks.</p> <p>Gangs of ransomware hackers made more than $350m in 2020, a 311 per cent jump on the previous year, according to Chainalysis, though the true figure is likely to be higher given that many victims do not disclose attacks or payouts.&#xa0;</p> <p>REvil, which also goes by the name of Sodinokibi, is known for making some of the biggest demands to have been made public. Last month, it asked Acer for an initial $50m in return for its stolen data, before doubling the demand, according to news reports at the time.</p> <p><em>Additional reporting by Patrick McGee in San Francisco and Eleanor Olcott in Taipei</em></p><p>Source: Hannah Murphy in San Francisco 2021 'Apple supplier Quanta hit by cyber attack' FT.com 21 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-21T08:46:38.628Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 711,
+          "end": 716
+        },
+        {
+          "start": 1338,
+          "end": 1343
+        },
+        {
+          "start": 290,
+          "end": 295
+        },
+        {
+          "start": 15,
+          "end": 20
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 943,
+          "end": 948
+        },
+        {
+          "start": 1237,
+          "end": 1242
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

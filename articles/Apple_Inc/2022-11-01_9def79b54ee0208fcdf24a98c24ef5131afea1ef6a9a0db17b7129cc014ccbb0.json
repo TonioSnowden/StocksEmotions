@@ -1,0 +1,30 @@
+{
+  "_id": "9def79b54ee0208fcdf24a98c24ef5131afea1ef6a9a0db17b7129cc014ccbb0",
+  "feed": "wall-street-journal",
+  "title": "The Weak Yen Means a Strong Sony—for Now; Sony's September-quarter results were unexpectedly strong, but the company can't claim much credit",
+  "text": "<p>The main factor is the weak yen, which depreciated against the dollar by 22% this year, flattering what would otherwise have been disappointing results. Sales on a constant-currency basis would have risen only 1% from a year earlier. Sony reports earnings in yen but most of its revenue and profit come from abroad.</p><p>The company's image sensor business, in particular, benefited from the currency depreciation as those manufacturing plants are based in Japan. More than half of that segment's operating profit came from the currency impact. The business would have reported a profit decline excluding such foreign exchange effects. While Apple's new iPhones have been selling fast, the overall smartphone market—the main source of demand for image sensors—is facing a sharp slowdown. Global smartphone shipments fell 9.7% year-over-year last quarter—the fifth consecutive decline—according to industry tracker IDC.</p><p>Sony's core game segment is also still suffering from a hangover after the pandemic boom. The segment didn't get a lift from the weak yen since many of its costs come from outside Japan. Operating profit for the game business fell 49% from a year earlier. Partly that's because of expenses related to Sony's $3.6 billion purchase of game studio Bungie. But the segment's operating income would still have dropped even without accounting for the acquisition costs.</p><p>The good news is that Sony should be able to produce enough PlayStation 5's to meet demand in the coming holiday season: Supply chain shortages have started to ease. The question now is whether consumers will tighten their purse strings and cut back on spending on games.</p><p>Sony got an unexpected power-up from the weak yen last quarter, but the level ahead looks rather challenging.</p><p>Write to Jacky Wong at jacky.wong@wsj.com</p>",
+  "published": "2022-11-01T11:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999522,
+      "offsets": [
+        {
+          "start": 637,
+          "end": 642
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0034184,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0034184456,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

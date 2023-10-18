@@ -1,0 +1,32 @@
+{
+  "_id": "28f93c45cd5da2c3ed58e76afa3dc9a77cd903f88b46e53975dc070dcacfece8",
+  "feed": "market-watch",
+  "title": "Facebook stock falls after exec highlights impacts from Apple privacy changes",
+  "text": "<p>Advertisers are feeling a sting from an Apple AAPL software upgrade that gave users more control over how their online activity would be tracked by marketers. Those using a newer version of iOS containing these controls have been offered the ability to opt out of ad-tracking activity.</p><p>“We've heard from many of you that the impact on your advertising investment has been greater than you expected,” Facebook's FB vice president of product marketing, Graham Mudd, said in a Wednesday blog post. “The cost of achieving your business outcome may have increased and it's also gotten harder to measure your campaigns on our platform.”</p><p>Facebook shares were off more than 4% in Wednesday afternoon trading.</p><p>The problems from Apple's update could hit Facebook's finances — Mudd referenced the company's July earnings call, in which executives predicted that challenges stemming from the new iOS controls would have a bigger impact in the third quarter relative to the second quarter. He also mentioned problems with metrics that Facebook shares with advertisers, which have hurt Facebook in the past.</p><p>Mudd noted in the post that Facebook may be underreporting to advertisers key metrics around conversion, but he also acknowledged that the extent of Facebook's estimated underreporting spans “a broad range for individual advertisers.” Facebook is trying to improve the way it helps advertisers measure their campaigns, including working to “increase conversion reporting accuracy” and “accelerating” investments meant to address “known reporting gaps,” per the post.</p><p>Opinion:&#xa0;Facebook investors, are you starting to see a pattern yet?</p><p>As Facebook navigates the changing ad landscape, the company is also under fire following a Wall Street Journal investigation into the company's enforcement practices. The investigation highlighted “the seemingly inconsistent way that the company makes decisions,” according to a blog post from Facebook's Oversight Board, which plans to look into “the degree to which Facebook has been fully forthcoming in its responses” around cross-checking, or the way that Facebook reviews content decisions made by some high-profile users.</p><p>Adding to WSJ's reporting was a Tuesday afternoon report from the New York Times on Facebook's attempt to put positive news about Facebook in front of its users, and a Wednesday morning report from ProPublica detailing abuse of the social network's Marketplace offering.</p><p>While Facebook shares fell Wednesday, shares of other social-media names fared better. Twitter Inc.'s stock TWTR wass up 1.9% in the session and Snap Inc.'s SNAP stock was up 2.7%. Shares of Google-parent Alphabet Inc. GOOGGOOGL were up 1.1%.</p>",
+  "published": "2021-09-22T13:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 719,
+          "end": 724
+        },
+        {
+          "start": 46,
+          "end": 50
+        },
+        {
+          "start": 40,
+          "end": 45
+        },
+        {
+          "start": 56,
+          "end": 61
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

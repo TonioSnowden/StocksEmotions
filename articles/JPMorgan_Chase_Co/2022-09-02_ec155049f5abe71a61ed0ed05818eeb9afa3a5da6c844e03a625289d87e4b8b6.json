@@ -1,0 +1,38 @@
+{
+  "_id": "ec155049f5abe71a61ed0ed05818eeb9afa3a5da6c844e03a625289d87e4b8b6",
+  "feed": "wall-street-journal",
+  "title": "When a Mutual-Fund Converts to an ETF: How It Works; Fund investors can benefit, but they should be aware of the possible tax implications",
+  "text": "<p>Asset managers continue to convert some of their mutual funds into exchange-traded funds. So what does that mean for investors?</p><p>A 2019 change to the rules governing investment funds made it easier for managers to convert mutual funds to ETFs by removing the need for separate approval of each potential conversion by the Securities and Exchange Commission.</p><p>A handful of asset managers, including Dimensional Fund Advisors and JPMorgan Chase &amp; Co.'s J.P. Morgan Asset Management, have recently converted actively managed mutual funds into actively managed ETFs. They say the change is in response to the preference of many investors for ETFs, which generally offer lower fees than mutual funds and provide a tax advantage.</p><p>Investors in the funds being converted might appreciate those benefits. But they need a brokerage account to keep the new ETF, and may have some tax consequences if they own fractional shares of the mutual fund.</p><p>Why convert?</p><p>The initial group of conversions has mostly been in actively managed stock or bond funds. For example, J.P. Morgan completed conversions of four funds in June, an actively managed fixed-income fund now called JPMorgan Inflation Managed Bond ETF (JCPI); an active equities fund, now JPMorgan Market Expansion Enhanced Equity ETF (JMEE); a real-estate income fund, now JPMorgan Realty Income ETF (JPRE); and a global equities fund, now JPMorgan International Research Enhanced Equity ETF (JIRE). Dimensional Fund Advisors converted a $30 billion suite of actively managed systematic funds last year. Systematic funds' investment decisions are largely guided by models based on extensive market data, rather than left purely to the fund managers' discretion.</p><p>Analysts say actively managed funds are likely to be where most conversions happen. That's because active funds have higher fees than passive ones and tend to generate more taxable gains through trading, which makes them more vulnerable to investors' preference for lower fees and taxes.</p><p>There is a recognition among asset managers that there is a better way to offer certain strategies, and that's coming alongside investor demand for ETFs,\" says Daniel Sotiroff, a Morningstar analyst. Even mutual funds that already have some of the qualities of an ETF can benefit from conversion, he says. \"If you look at what Dimensional converted, those funds were already tax managed as mutual funds,\" meaning they were designed to minimize investors' tax burden. \"The ETF structure makes that process easier to do and comes with lower fees.\"</p><p>MF vs. ETF</p><p>Number of mutual funds: 7,463</p><p>Number of ETFs: 2,723</p><p>Source: Investment Company Institute (as of June reporting data; excludes funds-of-funds)</p><p>He notes that ETFs typically don't charge the so-called 12b-1 fees that mutual funds do. These fees, which are named after the SEC rule that allows them to be charged, cover the marketing and distribution of a mutual fund or ETF. ETFs also tend to have fewer trading transactions than mutual funds, which means they have lower transaction costs, because trades aren't triggered by asset inflows and outflows in ETFs as they are in mutual funds.</p><p>ETFs offer a tax advantage because, since they can make fewer trades, they distribute fewer, if any, capital gains to investors. Some mutual funds are designed to distribute fewer gains, but investors are still likely to see taxable distributions over the course of their investment in a mutual fund.</p><p>The higher fees of actively managed funds and the taxes on capital gains from distributions have led to outflows in favor of actively managed ETFs with similar strategies for a number of years. The SEC rule change for conversions gives investors the option to stick with the same strategy and managers at a lower cost.</p><p>For fund managers, a conversion allows them to keep the performance record of the mutual fund as well as any investor assets in the fund that stay through the conversion. That can give the new ETF a leg up over a newly launched ETF, as many investors and financial advisers want to see a substantial record and enough assets to support the long-term viability of a fund before investing.</p><p>What to watch for</p><p>For investors in a mutual fund that is up for conversion, there are a few things to keep in mind.</p><p>Those who invested in a mutual fund through a transfer agent instead of a broker, which is common, will need a brokerage account to be able to hold and trade the ETF. If they don't have a brokerage account, there are many low-cost brokers, with some offering low or no minimums to open an account, but it may be a bit of a learning curve for those who haven't used a brokerage account before.</p><p>ETFs also don't offer fractional shares. Any fractional shares of the mutual fund held at the point of conversion will be redeemed and could result in a taxable gain.</p><p>A conversion may also require approval from shareholders, and if enough shareholders don't want to convert, fund managers may opt to offer a separate ETF that runs the same strategy.</p><p>Individual investors can then decide to move into the ETF on their own, but that could result in tax consequences when they sell out of the mutual fund if they end up with capital gains.</p><p>Ms. McCann is a writer in New York. She can be reached at reports@wsj.com.</p><p>When a Mutual-Fund Converts to an ETF: How It Works</p>",
+  "published": "2022-09-02T16:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 423,
+          "end": 443
+        },
+        {
+          "start": 1041,
+          "end": 1052
+        },
+        {
+          "start": 1050,
+          "end": 1061
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0286875,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.028687358,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

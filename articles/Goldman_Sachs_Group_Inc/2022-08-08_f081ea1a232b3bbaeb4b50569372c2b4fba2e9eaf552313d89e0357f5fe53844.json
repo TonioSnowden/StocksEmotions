@@ -1,0 +1,38 @@
+{
+  "_id": "f081ea1a232b3bbaeb4b50569372c2b4fba2e9eaf552313d89e0357f5fe53844",
+  "feed": "market-watch",
+  "title": "'It's going to immediately help': Biden sees midterm boost for Democrats from Inflation Reduction Act; Analysts see limited impact: 'Voters care about the here and now,' says one",
+  "text": "<p>The Senate passed the Inflation Reduction Act on Sunday, sending the measure to the House of Representatives for an expected Friday vote. The bill would pump billions of dollars into climate and healthcare programs, paid for by a 15% minimum tax on large corporations and a 1% tax on stock SPX buybacks.</p><p>Despite the measure's name, there is fierce debate over how effective it will be in attacking inflation. The White House has touted economists who believe it would be an \"important step\" towards fighting inflation, while others have said it won't reduce it by a great deal.</p><p>See: 0.25% or 0.33%? Democrats' Inflation Reduction Act wouldn't lower prices by all that much, analysts say</p><p>The government will report the latest inflation numbers on Wednesday with the release of the consumer price index for July. Analysts expect a year-over-year increase of 8.7%, versus a 9.1% jump in June.</p><p>Ben Koltun, research director at Beacon Policy Advisors, said the bill isn't a \"political savior\" for Biden's party.</p><p>\"The legislation isn't going to provide immediate inflation relief before the midterms,\" Koltun told MarketWatch in an email. \"Most provisions don't take effect until 2023 (and later for drug pricing) and [are] spread over the following decade. Voters care about the here and now, like gas prices,\" he said.</p><p>Gasoline prices have fallen sharply since June, though Goldman Sachs analysts reportedly say they will soon jump back to $4.35 a gallon as supply runs low.</p><p>Greg Valliere, chief U.S. policy strategist at AFG Investments, said the bill would help the Democrats in November \"probably a bit.\" He said inflation is the more important election narrative, and that this week's CPI and producer-price data is crucial. \"Both numbers are expected to show small improvement, but probably not enough to avoid a 75 basis point rate hike from the Fed next month,\" he said in a note.</p><p>Noting a \"summer bump\" for Democrats Kim Wallace, senior managing director at 22V Research, told MarketWatch: \"The Senate bill may further help Democrats in the midterms, especially if the House of Representatives passes it this month as expected.\"</p><p>Now read: Betting markets now see Democrats keeping their grip on Senate in midterm elections</p><p>Added Wallace: \"Biden might too get a bump but neither the recent killing of [Al Qaeda leader Ayman] al Zawahiri nor the chips bill he's set to sign tomorrow have yet provided a boost.\"</p><p>'It's going to immediately help': Biden sees midterm boost for Democrats from Inflation Reduction Act</p>",
+  "published": "2022-08-08T17:08:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1370,
+          "end": 1377
+        },
+        {
+          "start": 1370,
+          "end": 1383
+        },
+        {
+          "start": 1359,
+          "end": 1372
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000024,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.503395e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

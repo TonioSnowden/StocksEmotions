@@ -1,0 +1,20 @@
+{
+  "_id": "49824858f2f8415007e47893fd6d8ade0718c2285fe243dc12f941ec095a6cf5",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: UPS Buys Delivery Platform Roadie",
+  "text": "<p>UPS has been looking for ways to crack into the same-day delivery market amid the growth of e-commerce and demand for even quicker deliveries. Delivery platforms like DoorDash Inc. and Uber Technologies Inc. have offered such services, while retailers including Amazon.com Inc., Target Corp. and Walmart Inc. have been building out same-day delivery capabilities.</p><p>Buying Roadie thrusts UPS directly into the space, while addressing some of the limitations of using its own network for certain packages. UPS said that Roadie drivers can deliver items that don't fit because of their size or because they are perishable. They can also deliver items in shopping bags.</p><p>Roadie's network of crowdsourced drivers use their own vehicles to complete deliveries. The company says that it has 200,000 drivers that deliver items all across the country, including for retailers like Michael's Stores Inc. and Home Depot Inc.</p><p>Marc Gorlin started Roadie in 2014 after he needed tiles quickly transported from Alabama to his condo in Florida. He realized that there was likely someone already driving that route who would consider delivering the items for a fee.</p><p>\"What would happen if we unlocked all of that wasted space?\" Mr. Gorlin said in an interview with The Wall Street Journal last year.</p><p>Goods transported by Roadie won't cross into the UPS network, and goods shipped via UPS won't enter the Roadie network, UPS said.</p>",
+  "published": "2021-09-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 296,
+          "end": 308
+        }
+      ],
+      "nexusId": "10042309"
+    }
+  ]
+}

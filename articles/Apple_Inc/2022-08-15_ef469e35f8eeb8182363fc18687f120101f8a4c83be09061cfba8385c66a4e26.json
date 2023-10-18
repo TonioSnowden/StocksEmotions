@@ -1,0 +1,50 @@
+{
+  "_id": "ef469e35f8eeb8182363fc18687f120101f8a4c83be09061cfba8385c66a4e26",
+  "feed": "wall-street-journal",
+  "title": "Warren Buffett's Berkshire Hathaway Keeps Spending Spigot On Through Volatile Markets; Apple, Bank of America, Coca-Cola, Chevron are among Berkshire's top holdings",
+  "text": "<p>Investors closely watch what Berkshire is buying and selling because of Mr. Buffett's reputation as one of the most successful investors of all time. While Mr. Buffett doesn't personally pick all of the company's stock investments—Berkshire's decision to begin buying shares of Apple Inc. in 2016, for instance, was made by deputies Todd Combs and Ted Weschler—investors nevertheless like to draw as many insights as they can from Berkshire's filings.</p><p>Berkshire's five biggest stockholdings as of the end of June were Apple, Bank of America Corp., Coca-Cola Co., Chevron Corp. and American Express Co. The five stocks made up about 69% of Berkshire's portfolio, according to company filings.</p><p>Berkshire has already disclosed that it bought roughly $6.2 billion of stocks in the second quarter. That was down from a whopping $51 billion in the first quarter but nevertheless extended a recent buying streak for the company.</p><p>Filings have shown some of that money went toward Occidental Petroleum Corp., another top holding. It is likely that the company's 13F will show some of the remaining investment went toward buying more shares of Chevron, as well as Apple, said David Kass, finance professor at the University of Maryland's Robert H. Smith School of Business.</p><p>It's a stark change from last year. The Omaha, Neb.-based Berkshire, which includes railroad, energy and insurance businesses, as well as a huge investment portfolio, largely stuck to repurchasing its own shares in 2021. As recently as February, Mr. Buffett had lamented a lack of good buying opportunities as a way of explaining why Berkshire was mostly investing in its own stock.</p><p>But in the months since, market volatility has shot up. That has given Berkshire a chance to put its cash to work—especially within the energy sector. Berkshire snapped up shares of Occidental Petroleum as Russia's invasion of Ukraine sent oil prices surging.</p><p>Investors and analysts have said Berkshire's buying potentially reflects a view from Mr. Buffett that inflation in energy prices will remain elevated for some time. They have also noted that Mr. Buffett has expressed admiration of Occidental's commitment to paying down debt, issuing dividends and buying back Occidental's stock.</p><p>Energy stocks have been by far the best performers in the market this year. Occidental was up more than 110% for the year through Friday, while the S&amp;P 500 was down 10%. U.S. crude was up 22% for the year through Friday but down 26% from its March high.</p><p>When Berkshire's 13F is released, investors will also find out what the company sold. Based on filings, the company sold about $2.3 billion in stock in the second quarter.</p><p>Write to Akane Otani at akane.otani@wsj.com</p><p>Warren Buffett's Berkshire Hathaway Keeps Spending Spigot On Through Volatile Markets</p>",
+  "published": "2022-08-15T15:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999712,
+      "offsets": [
+        {
+          "start": 87,
+          "end": 92
+        },
+        {
+          "start": 277,
+          "end": 287
+        },
+        {
+          "start": 278,
+          "end": 288
+        },
+        {
+          "start": 516,
+          "end": 521
+        },
+        {
+          "start": 518,
+          "end": 523
+        },
+        {
+          "start": 1147,
+          "end": 1152
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.590508,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.5905086,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

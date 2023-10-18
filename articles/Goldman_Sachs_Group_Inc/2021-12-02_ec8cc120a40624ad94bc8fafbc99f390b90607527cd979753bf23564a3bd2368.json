@@ -1,0 +1,36 @@
+{
+  "_id": "ec8cc120a40624ad94bc8fafbc99f390b90607527cd979753bf23564a3bd2368",
+  "feed": "ftcomall",
+  "title": "Every company may soon be a cloud company",
+  "text": "<p>In recent years, many businesses have come to view the cloud as an important technology platform. There are obvious attractions to replacing in-house data centres with IT that is delivered as a service, on-demand, with payment tied to actual usage rather than a fixed cost.</p> <p>But what happens when the cloud moves from being the platform on which a business runs, to becoming the product itself? How should companies outside the tech industry adjust when much of the value inherent in their own operations can be delivered in the form of a cloud service, rather than packaged into the kind of products and services they have traditionally sold?</p> <p>For companies in the information and communications industries, these questions are of more than academic interest. And as more companies come to view collecting, analysing and communicating data as core parts of how they create value in their own businesses, the range of companies and industries affected will grow. The ability to make some of this value available as a cloud service to their own customers presents a business opportunity — and a potential risk for those who are slow off the mark.</p> <p>Amazon Web Services' annual re:Invent conference this week provided the latest glimpse into this cloudified future for business. As a computing backbone for many organisations, AWS is on its way to becoming a world computer, so its annual event is always accompanied by a blizzard of technical announcements. But it is the way these new IT resources are being put to use that really commands the attention.</p> <p>Two examples of “cloud-as-product” stood out this week. It isn't just in operational flexibility or cost that the technology is having an impact, but in the nature of services themselves, as well as how they are delivered.</p> <p>One example is the way Goldman Sachs is now opening up more of its in-house data and technology to its investment clients. The <a href=\"https://www.goldmansachs.com/media-relations/press-releases/2021/goldman-sachs-aws-announcement-30-nov-2021.html\">co-branded service</a> it announced this week — the Goldman Sachs Financial Cloud for Data with Amazon Web Services — is a bit of a mouthful. However, the name says it all: give investment customers the data and analytical tools to reach more sophisticated decisions for themselves, or to shape services they can sell on to their own clients.</p> <p>In this partnership, Goldman supplies the extensive market data and front-end analytical tools, Amazon runs the back-end data integration that stitches it all together, including making it possible to draw in data from other sources. The investment bank has long liked to talk of itself as a tech company as much as a financial institution: ideas like this point to new ways it could deliver investment services, as well as the new avenues for generating revenue.</p> <p>The second example of how the cloud is changing both the nature of other services and how they are delivered involves 5G communications. AWS surprised the wireless world this week with the news that it will start selling private 5G networks direct to businesses — in effect, letting any company run its own high-speed wireless network.</p> <p>One factor behind this is the ability to run mobile network operations in the cloud. By removing the need for a wireless carrier to build its own proprietary network, a cloud-delivered 5G service lowers the barriers to entry for disruptive newcomers. Dish Network, which is working with AWS, hopes to use this to take on the three national US wireless networks with <a href=\"https://www.ft.com/content/5e8a7d9c-784f-44b2-be9d-fddeddea209d\">a rival mobile service</a>.</p> <p>Private 5G networks open up new use cases for the technology, as well as new business opportunities. If 5G becomes easy and cheap for businesses to run, it could become a supercharged alternative to today's corporate WiFi, extending beyond the limited reach of existing short-range office networks and bringing greater reliability and higher capacity.</p> <p>A corporate private network service like this could be set up and maintained by a customer's existing IT suppliers. Or companies could buy private 5G direct from Amazon, bypassing intermediaries altogether. Thanks to the cloud, a service that once had to be bought from a narrow category of suppliers operating on specialist infrastructure — the mobile communications companies — is about to become more widely available.</p> <p>The wider adoption of cloud services such as this should prompt more companies to examine the nature of their existing business, and where their competitive advantages lie. When software changed the way businesses operated, it became fashionable to say that every company was now a tech company. In future, that could be replaced by a new refrain: every company is a cloud company.</p> <p><em>richard.waters@ft.com</em></p><p>Source: Richard Waters 2021 'Every company may soon be a cloud company' FT.com 2 December. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-12-02T17:43:28.061Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2261,
+          "end": 2268
+        },
+        {
+          "start": 1797,
+          "end": 1804
+        },
+        {
+          "start": 1797,
+          "end": 1810
+        },
+        {
+          "start": 1949,
+          "end": 1956
+        },
+        {
+          "start": 1949,
+          "end": 1962
+        }
+      ]
+    }
+  ]
+}

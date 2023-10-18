@@ -1,0 +1,28 @@
+{
+  "_id": "8c656bf31db1870f4cd3cf76177d7c1be24b9937c9232bc6ec23a08d591196b2",
+  "feed": "wall-street-journal",
+  "title": "World News:  Web Hack  Fuels Fear  In Kyiv of  Invasion  ----  By Robert McMillan and Dustin Volz",
+  "text": "<p>   A recent cyberattack in Ukraine has heightened concerns in Kyiv that Moscow is plotting to support a land invasion with destructive hacks, although some experts remain puzzled about the Kremlin's intentions. </p><p>   Last week, hackers defaced the websites of more than 70 government agencies, said Viktor Zhora, deputy chief of Ukraine's State Service of Special Communication and Information Protection. More worryingly, the hackers also installed destructive \"wiper\" software designed to render computer systems inoperable in at least two government agencies, he said. </p><p>   Russia has denied any involvement in the cyberattacks. </p><p>   The attack was at least several weeks in the making, and perhaps more, experts said. Mr. Zhora said the first signs of a hack date back to late 2021. Data from Cisco Systems shows the software was present in some networks even earlier. Cisco initially traced the intrusion to November, but on Thursday, the company said new data analysis indicated it may have begun in late summer, said Matthew Olney, Cisco's director of threat intelligence and interdiction. </p><p>   The discovery of the wiper software, dubbed WhisperGate by Microsoft Corp., is \"particularly alarming,\" because previous outbreaks of this type of software have caused world-wide disruptions, the U.S. Cybersecurity and Infrastructure Security Agency warned on Tuesday. </p><p>   Some security researchers worry the attacks might presage a larger operation, but so far, the hacks are notable for how limited they appear, and amount to a fraction of the damage -- or sophistication -- Western officials believe Moscow is capable of inflicting on Ukraine. </p><p>   President Biden said Russian President Vladimir Putin may opt for \"something significantly short of a significant invasion\" during a press conference on Wednesday, and he cited cyberattacks as an example of a \"minor incursion\" that might not prompt as strong of a response from the U.S. and its allies. </p><p>   After the press conference, White House press secretary Jen Psaki said Mr. Biden \"knows from long experience that the Russians have an extensive playbook of aggression short of military action, including cyberattacks and paramilitary tactics. And he affirmed today that those acts of Russian aggression will be met with a decisive, reciprocal, and united response.\" </p><p>   A spokesman with the Russian Embassy in Washington didn't return messages seeking comment. </p><p></p>",
+  "published": "2022-01-21T07:09:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 778,
+          "end": 791
+        },
+        {
+          "start": 1020,
+          "end": 1025
+        },
+        {
+          "start": 854,
+          "end": 859
+        }
+      ],
+      "nexusId": "10013206"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "42bf8ceb5e4cff9234fe2efc9b0448ad12cbf5ea7889211f6e9eea23cb365ac6",
+  "feed": "wall-street-journal",
+  "title": "Biden Accuses China in Microsoft Hacking",
+  "text": "<p>In addition, four Chinese nationals were indicted over a range of separate hacking intrusions dating back a decade that allegedly stole corporate and research secrets from firms and universities around the world. Three of the nationals were described as MSS officers, while a fourth was said to be employed at a Chinese front company that aided the hacking.</p><p>\"The United States and countries around the world are holding the People's Republic of China (PRC) accountable for its pattern of irresponsible, disruptive, and destabilizing behavior in cyberspace, which poses a major threat to our economic and national security,\" U.S. Secretary of State Antony Blinken said on Monday. The MSS, he said, had \"fostered an ecosystem of criminal contract hackers who carry out both state-sponsored activities and cybercrime for their own financial gain.\"</p><p>The U.K. and European Union, among others, joined in blaming China for the Microsoft Exchange Server hacking activity, which rendered an estimated hundreds of thousands of mostly small businesses and organizations vulnerable to cyber intrusion. Attributing the Microsoft hack to China was part of a broader global censure of Beijing's cyberattacks by the U.S., the EU, the U.K., Canada, Australia, New Zealand, Japan and the North Atlantic Treaty Organization.</p><p>\"The U.S. has repeatedly made groundless attacks and malicious smear against China on cybersecurity,\" said Liu Pengyu, spokesman for the Chinese Embassy in Washington. \"This is just another old trick, with nothing new in it.\"</p><p>Biden administration officials called the collective condemnation the largest international effort yet to criticize Beijing's state-sponsored hacking. While statements varied, the international cohort generally called out China for engaging in harmful cyber activity, including intellectual-property theft.</p><p>The public shaming, however, didn't include punitive measures, such as sanctions or diplomatic expulsions by the U.S. That stands in contrast with how the administration recently punished Russia for a range of alleged malicious cyber activity, and the discrepancy drew criticism from some cybersecurity specialists.</p><p>The lack of further punishment \"looks like a double standard compared with actions against Russian actors. We treat China with kid gloves,\" said Dmitri Alperovitch, chairman of Silverado Policy Accelerator, a Washington-based think tank that works to modernize U.S. cybersecurity strategy.</p><p>A senior official said the administration is aware that no single action is capable of changing the Chinese government's malicious cyber behavior, and that the focus was on bringing countries together in a unified stance against Beijing. The official said hackers linked to the MSS were using criminal contractors to conduct unsanctioned cyber operations globally.</p><p>Asked what he believes the difference is between hacking originating in China and Russia, President Biden said: \"My understanding is that the Chinese government, not unlike the Russian government, is not doing this themselves, but are protecting those who are doing it, and maybe even accommodating them being able to do it.\"</p><p>The U.S.-led announcement is the most significant action from the Biden administration to date concerning China's yearslong campaign of cyberattacks against the U.S. government and American companies.</p><p>The indictment the Justice Department made public alleges that the Chinese government has done little to uphold a 2015 accord between China and the Obama administration not to direct or support cyberattacks that steal corporate records for economic benefit. The Trump administration had also said Beijing repeatedly violated the accord. The May indictment accuses a regional branch of the MSS of relying on a front company to continue such attacks after the pact was signed.</p><p>The indictment charges the four men with orchestrating a hacking campaign from 2011 to 2018 intended to benefit China's companies and commercial sectors by stealing intellectual property and business information. The indictment didn't appear directly related to the Microsoft Exchange Server breach, but accused the hackers of stealing information from dozens of companies and universities around the world.</p><p>U.S. authorities have accused China of widespread hacking targeting U.S. businesses and government agencies for years. China has historically denied the allegations.</p><p>The Exchange Server hack was disclosed by Microsoft in March alongside a software patch to fix the bugs being exploited in the attack. Microsoft at the time identified the culprits as a Chinese cyber-espionage group with state ties that it refers to as Hafnium, an assessment that was supported by other cybersecurity researchers. The Biden administration hadn't offered attribution until now.</p><p>Microsoft praised Monday's global action. \"Attributions like these will help the international community ensure those behind indiscriminate attacks are held accountable,\" said Tom Burt, Microsoft's vice president of customer security and trust.</p><p>Cybersecurity experts have been pressing the Biden administration for months to respond to China's alleged involvement in the Microsoft email hack.</p><p>\"The Microsoft Exchange hacks by MSS contractors is the most reckless cyber operation we have yet seen from the Chinese actors -- much more dangerous than the Russian SolarWinds hacks,\" said Silverado's Mr. Alperovitch, referring to the widespread cyber-espionage campaign detected in December that, along with other alleged activities, prompted punitive measures against Moscow.</p><p>---</p><p>Laurence Norman and Andrew Restuccia contributed to this article.</p>",
+  "published": "2021-07-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1106,
+          "end": 1115
+        },
+        {
+          "start": 5151,
+          "end": 5160
+        },
+        {
+          "start": 4780,
+          "end": 4789
+        },
+        {
+          "start": 4078,
+          "end": 4087
+        },
+        {
+          "start": 5178,
+          "end": 5187
+        },
+        {
+          "start": 920,
+          "end": 929
+        },
+        {
+          "start": 4521,
+          "end": 4530
+        },
+        {
+          "start": 4966,
+          "end": 4975
+        },
+        {
+          "start": 23,
+          "end": 32
+        },
+        {
+          "start": 4428,
+          "end": 4437
+        },
+        {
+          "start": 4966,
+          "end": 4977
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

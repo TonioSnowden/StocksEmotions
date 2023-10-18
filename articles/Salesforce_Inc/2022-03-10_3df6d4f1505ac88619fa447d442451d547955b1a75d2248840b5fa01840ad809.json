@@ -1,0 +1,20 @@
+{
+  "_id": "3df6d4f1505ac88619fa447d442451d547955b1a75d2248840b5fa01840ad809",
+  "feed": "wall-street-journal",
+  "title": "What's News: World-Wide",
+  "text": "<p>South Koreans elected Yoon Suk-yeol as president, installing a conservative who promises a tougher stance on North Korea and closer ties with the U.S. on regional affairs.</p><p>The Biden administration restored California's ability to set stricter air-pollution limits for auto makers, ending a conflict with the state's air-quality regulators that began under Trump.</p><p>The RNC filed suit to block a Jan. 6 panel subpoena seeking records related to the GOP's fundraising and donor efforts from Salesforce, one of the RNC's vendors.</p><p>Four men accused of plotting to kidnap Michigan Gov. Gretchen Whitmer in 2020 went on trial.</p><p>What's News: World-Wide</p>",
+  "published": "2022-03-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 487,
+          "end": 497
+        }
+      ]
+    }
+  ]
+}

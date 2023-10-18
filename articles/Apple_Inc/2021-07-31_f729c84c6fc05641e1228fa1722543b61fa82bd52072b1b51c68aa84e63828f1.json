@@ -1,0 +1,32 @@
+{
+  "_id": "f729c84c6fc05641e1228fa1722543b61fa82bd52072b1b51c68aa84e63828f1",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Musk Sides With Epic In Fight Over Apple's Fees",
+  "text": "<p>Epic sued Apple last year, calling the company's control over software developers monopolistic. In a federal trial that concluded in May, Epic CEO Tim Sweeney accused Apple of unfairly profiting from the work of videogame makers.</p><p>Apple has defended how it operates the app store and said Epic's lawsuit was a basic disagreement over money. It takes as much as 30% of user spending that happens on most apps within its store. The company has said it spends money to ensure that the store provides a safe, secure way for users to download apps.</p><p>U.S. District Judge Yvonne Gonzalez Rogers is expected to make a ruling on the dispute in the coming months.</p><p>Mr. Musk routinely takes aim at rivals and critics on Twitter.</p>",
+  "published": "2021-07-31T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 10,
+          "end": 15
+        },
+        {
+          "start": 230,
+          "end": 235
+        },
+        {
+          "start": 167,
+          "end": 172
+        },
+        {
+          "start": 63,
+          "end": 68
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

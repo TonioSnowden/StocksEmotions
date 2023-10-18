@@ -1,0 +1,38 @@
+{
+  "_id": "b34012d2279b7d15bcc9292d59b21189d99f58b057bed730fe8b5f7e68e9aed1",
+  "feed": "wall-street-journal",
+  "title": "Stocks End Mostly Higher With Retail Earnings in Focus; Walmart shares rose after the retailer raised its outlook for fiscal year",
+  "text": "<p>Stocks have largely rallied in recent days, with the S&amp;P 500 climbing for four straight weeks as of last Friday. Some investors view the rally as a sign of easing negative sentiment. Others believe that the momentum may be fading, citing recent weak data on China's economy and U.S. manufacturing.</p><p>\"Every time we're seeing a dip, the buyers show up, and I think that's more a reflection of the fact that far too many managers were way underweight equities for the reality and now they're chasing momentum,\" said Derek Amey, partner &amp; co-chief investment officer of StrategicPoint Investment Advisors.</p><p>Investors might be realizing their bleaker outlook in recent weeks was overestimated, he said, noting that year-over-year inflation slowed in July and \"hopefully has peaked.\"</p><p>Mr. Amey said his firm remains overweight in industrials and healthcare and slightly underweight in the technology and discretionary sectors.</p><p>Investors have been pleasantly surprised by earning reports from big-name retailers so far this week as they gauge how rising prices are affecting consumer spending. Walmart and Home Depot reported on Tuesday, and Target and others are scheduled for later in the week.</p><p>\"It's going to be about inventory levels, margins and pricing power and if consumers are still spending on discretionary, or if all their wages are going to food and energy,\" said Esty Dwek, chief investment officer at FlowBank.</p><p>Walmart rose $6.77, or 5.1%, to $139.37 after the big-box retailer reported earnings that beat estimates. The company also raised its outlook for the fiscal year, less than a month after it had issued a profit warning. Its CEO said the company had been able to cut costs in its supply chains.</p><p>Home Depot gained $12.77, or 4.1%, to $327.38 after the retailer posted record quarterly sales and earnings that beat Wall Street's estimates but also said customer transactions had declined. Target and Lowe's are set to report earnings Wednesday.</p><p>\"I think there are some clues that the consumer is starting to say, how can I save some money and buy some of these cheaper items—house brands versus some name brands,\" said Jon Maier, chief investment officer at Global X ETFs.</p><p>New data showed that housing starts in the U.S. declined in July from the previous month and were lower than economists had forecast.</p><p>Josh Jamner, an investment strategy analyst at ClearBridge, said he believed the fresh housing data would stoke continued recessionary fears.</p><p>\"The cake is not baked,\" Mr. Jamner said. \"There's certainly a path and a chance for the Fed to navigate us towards a soft landing. This incremental data point says OK, let's slightly back away from that soft landing outcome.\"</p><p>The bond market continued to flash a recessionary signal on Tuesday, with the yield curve remaining inverted. The yield on the benchmark 10-year Treasury note rose to 2.822%, up from 2.790% Monday, while the two-year yield reached 3.249%.</p><p>Overseas, the pan-continental Stoxx Europe 600 added 0.2%. In Asia, major benchmarks closed mixed, with the Shanghai Composite Index little changed and Hong Kong's Hang Seng Index down 1%.</p><p>Oil prices edged lower. Global crude benchmark Brent was down 2.9% to $92.34 a barrel, closing at its lowest settlement value since February.</p><p>Stocks End Mostly Higher With Retail Earnings in Focus</p>",
+  "published": "2022-08-16T20:48:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1096,
+          "end": 1106
+        },
+        {
+          "start": 1697,
+          "end": 1707
+        },
+        {
+          "start": 1089,
+          "end": 1099
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.850037,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 3.7312508e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

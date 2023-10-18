@@ -1,0 +1,44 @@
+{
+  "_id": "a6dd86572252d060c7cbe151ef4d4c1346f10f911fd47d5cfdaa5045b37bedb1",
+  "feed": "market-watch",
+  "title": "Epic Games is coming to Microsoft's online app store",
+  "text": "<p>In a blog post, Microsoft said it would “allow third-party storefront apps to be discoverable in the Microsoft Store on Windows.” The storefronts of Epic and Amazon.com Inc. AMZN highlight the additions.</p><p>Microsoft Store is scheduled to launch Oct. 5, with Windows 11. Users of Windows 10 will have access to the new store a few months later.</p><p>The software giant's move offers a high-profile landing spot for Epic, which has warred with Apple Inc. AAPL over the iPhone maker's 30% commission fee — a dispute that led to a landmark antitrust lawsuit against Apple that went to federal court in May.</p><p>In what many interpreted as a split decision this month, a federal judge issued an injunction&#xa0;that Apple can no longer force developers to use its payment system, effectively bypassing commission fees of 15% to 30%. However, the iPhone maker was not ruled an antitrust monopolist.</p><p>Epic, which is appealing the judge's ruling, declined to comment further beyond Microsoft's statement.</p><p>Apple did not immediately respond to an email seeking comment.</p>",
+  "published": "2021-09-28T15:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 435,
+          "end": 445
+        },
+        {
+          "start": 695,
+          "end": 700
+        },
+        {
+          "start": 446,
+          "end": 450
+        },
+        {
+          "start": 555,
+          "end": 560
+        },
+        {
+          "start": 980,
+          "end": 985
+        },
+        {
+          "start": 435,
+          "end": 440
+        },
+        {
+          "start": 435,
+          "end": 444
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

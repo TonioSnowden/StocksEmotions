@@ -1,0 +1,30 @@
+{
+  "_id": "b8568ff22871c2250872f2e7bc841dd2095c5a31fc4988b15b2d3e9d19f2a082",
+  "feed": "wall-street-journal",
+  "title": "EU's Energy Plan Beats Inaction; Silver linings might emerge for investors in European actions to temper extremes of its power market",
+  "text": "<p>\"August was the most expensive month ever for power in Europe, on the back of surging gas prices,\" says Fabian Rønningen, an analyst at consulting firm Rystad Energy.</p><p>Costs are expected to remain high for years. Households and businesses are being squeezed, and politicians have been forced to act.</p><p>\"We've reached the point where doing nothing is not an acceptable option,\" says Vincent Ayral, an analyst at JP Morgan.</p><p>The current market design \"is no longer fit for purpose. That is why we…are now working on an emergency intervention and a structural reform of the electricity market,\" European Commission President Ursula von der Leyen said on Monday. European Union energy ministers meet next week to hammer out how the bloc might bring prices down.</p><p>Decisive, coordinated action at the EU level should help avoid an unending series of reactive national measures as well as mitigate some of the disastrous economic consequences of doing nothing. The policy action will likely cut into the profits of some European gas suppliers and utilities; shares in both sectors fell about 5% in the days after Mrs. von der Leyen's speech, but have recovered slightly. However, for most energy-intensive industries, a moderation of today's extreme power prices will bring some relief and reduce the risk of a deep recession.</p><p>Short-term measures are the current focus. Interest in structural market reform has increased, but it can't be rushed. \"Market design reform typically takes years. It's an extremely complex universe of rules and one has to be very careful about dangerous trade offs,\" says Simone Tagliapietra of think tank Bruegel.</p><p>For now, the EU's primary objectives for its short-term fixes are to create a secure supply of affordable power while maintaining green investment incentives, preserving the single market and minimizing costs.</p><p>There is a huge range of options, but a leaked document indicates early thinking: an integrated package of efforts to reduce demand and cap earnings on lower-marginal-cost power sources to fund measures to bring down bills for households and small- and medium-size enterprises. So-called windfall taxes on excess profits are deemed to be incompatible with the package—welcome news for some of the region's gas suppliers and utilities.</p><p>The plan also could enable energy-intensive companies such as chemical producers to get some compensation for dialing down their usage. Utilities would be hit by an earnings cap, but it need not be a disaster if the level is set high enough to only filter out the extreme prices not built into plants' initial investment cases.</p><p>A high cap paired with a price floor could also reduce volatility, thereby increasing utilities' capacity for additional leverage or farming out their assets. Investors may fear market intervention, but in these extreme circumstances politicians have no choice but to act. Coordinated, well thought-through action need not be all bad.</p><p>Write to Rochelle Toplensky at rochelle.toplensky@wsj.com</p><p>EU's Energy Plan Beats Inaction</p>",
+  "published": "2022-09-03T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 408,
+          "end": 417
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0332527,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.033252716,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

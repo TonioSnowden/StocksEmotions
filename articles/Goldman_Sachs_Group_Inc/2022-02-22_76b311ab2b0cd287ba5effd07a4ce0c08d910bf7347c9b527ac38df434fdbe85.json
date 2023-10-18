@@ -1,0 +1,44 @@
+{
+  "_id": "76b311ab2b0cd287ba5effd07a4ce0c08d910bf7347c9b527ac38df434fdbe85",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>\n  Analysts expect Goldman Sachs Group Inc. to bring in revenue of $48.9 billion in 2022, according to FactSet. A chart with a Banking &amp; Finance article Friday about Goldman incorrectly said the 2022 estimate totals $44.88 billion. </p><p>\n  (See: \"Banking &amp; Finance: Goldman Sachs's Rosy Outlook Falls Shy of '21 Performance\" -- WSJ February 22, 2022) </p><p>\n  --- </p><p>\n  Notice to readers </p><pre> </pre><p>\n  Some Wall Street Journal staff members are working remotely during the pandemic. Please send reader comments only by email or phone, using the contacts below, not via U.S. Mail. </p><p>\n  --- </p><p>\n  Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-02-22T07:04:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 16,
+          "end": 39
+        },
+        {
+          "start": 16,
+          "end": 29
+        },
+        {
+          "start": 163,
+          "end": 170
+        },
+        {
+          "start": 16,
+          "end": 40
+        },
+        {
+          "start": 255,
+          "end": 262
+        },
+        {
+          "start": 255,
+          "end": 268
+        },
+        {
+          "start": 16,
+          "end": 23
+        }
+      ]
+    }
+  ]
+}

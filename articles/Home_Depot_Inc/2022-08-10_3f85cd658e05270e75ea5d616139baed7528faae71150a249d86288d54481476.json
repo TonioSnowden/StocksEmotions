@@ -1,0 +1,42 @@
+{
+  "_id": "3f85cd658e05270e75ea5d616139baed7528faae71150a249d86288d54481476",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Blue Cross's Antitrust  Settlement Approved  ----  By Anna Wilde Mathews",
+  "text": "<p>   A federal judge approved Blue Cross Blue Shield companies' settlement of a sweeping antitrust suit filed on behalf of their customers, with the insurers agreeing to pay $2.67 billion and change certain practices that allegedly limited competition. </p><p>   The approval Tuesday by U.S. District Judge R. David Proctor, whose Alabama court handled the litigation, means the settlement is set to start going into effect after 30 days. </p><p>   It could be delayed if an employer or policyholder appeals the judge's approval. Employers or policyholders can only appeal if they objected to the settlement when it was under review by the judge, and only a few companies did so. </p><p>   Among them was Home Depot Inc., which argued the settlement doesn't go far enough in boosting competition among the Blue insurers. Home Depot declined to comment. </p><p>   There are 34 companies that own Blue Cross Blue Shield health plans; many operate as nonprofits. Together, the Blue insurers cover more than 100 million Americans. </p><p>    Elevance Health Inc.'s Anthem, the largest of the Blue owners, has estimated its share of the settlement at $594 million in total. </p><p>   A group of employers and individual policyholders with Blue Cross Blue Shield coverage brought the antitrust claims as a proposed class action in 2012. The suit attacked a setup under which companies typically hold exclusive rights to the Blue Cross and Blue Shield names within a certain territory. The suit alleged the companies acted like a cartel, illegally conspiring to avoid competing, driving up prices. </p><p>   Under the settlement, Blue insurers would drop a Blue Cross Blue Shield Association rule that limits the share of each company's total national revenue that can come from business that isn't under Blue brands. The settlement stops short of unwinding the Blues' licensing setup that grants exclusive geographic branding rights to companies. </p><p>   A spokeswoman for the Blue Cross Blue Shield Association said it was pleased with the approval. </p><p>   The Blue insurers face a second, parallel antitrust suit filed on behalf of doctors, hospitals and other healthcare providers. </p><p></p>",
+  "published": "2022-08-10T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 786,
+          "end": 796
+        },
+        {
+          "start": 781,
+          "end": 791
+        },
+        {
+          "start": 670,
+          "end": 685
+        },
+        {
+          "start": 666,
+          "end": 681
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.002559,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0025590658,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

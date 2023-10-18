@@ -1,0 +1,80 @@
+{
+  "_id": "1e375f900814b4580497b770e9625a8c4cd4abbf9d5a499fdb93eab75c97a4cc",
+  "feed": "wall-street-journal",
+  "title": "Boeing MAX Draws FAA Audit",
+  "text": "<p>The audit is expected to delve into issues beyond those addressed by a typical agency review of such problems, people familiar with the matter said.</p><p>The FAA will examine \"Boeing's process for making minor design changes across its product line, with the goal of identifying areas where the company can improve,\" the agency said after The Wall Street Journal reported the audit.</p><p>The review could lead to changes in the agency's oversight, the FAA indicated.</p><p>A Boeing spokesman said the company looks forward to direction from the FAA as the plane maker continues to \"improve safety and quality in our processes.\" He said Boeing is working with the agency and airlines to address the 737 MAX electrical issue.</p><p>The FAA's oversight of Boeing has been a focus of U.S. lawmakers after two fatal 737 MAX crashes in late 2018 and early 2019 took 346 lives. Regulators grounded the global fleet for nearly two years while hammering out software and other fixes. When the FAA approved the aircraft to again carry passengers last November, Administrator Steve Dickson called the 737 MAX the \"most scrutinized\" airliner in history.</p><p>Five months later, when the electrical problem emerged, Boeing recommended airlines take 109 of the jets -- about a quarter of the global MAX fleet -- out of service. The FAA has said it would mandate fixes to an \"urgent safety issue\" Boeing flagged before the affected jets can resume passenger flights.</p><p>The seriousness of the risk to flights posed by the electrical issue hasn't been clear-cut, according to people familiar with discussions about the potential problems.</p><p>After Boeing identified the electrical issue, engineers determined it affected a standby power supply unit and a rack located behind the first officer's seat, as well as the cockpit's main instrument panel, according to the FAA. One potential side effect, people familiar with the matter said, could result in flight crews being unaware that the plane's anti-icing systems aren't working. Ice buildup can cause engine flameouts or temporary shutdowns.</p><p>The FAA, in a directive issued this week, said the electrical issue could result in the \"loss of critical functions and/or multiple simultaneous flight deck effects, which may prevent continued safe flight and landing.\"</p><p>The FAA said the issue affected 109 aircraft, three more than previously disclosed.</p><p>Mr. Dickson has said that routine issues will inevitably arise with MAX aircraft, as they do with other commercial aircraft. In this case, the FAA said, U.S. aviation safeguards worked. \"The multilayered safety oversight system caught this issue, and the FAA, operators and Boeing took action to mitigate the issue prior to an incident or accident,\" the FAA said this week.</p><p>Boeing is also conducting its own review, according to an internal April 19 FAA document viewed by The Wall Street Journal and people familiar with the matter.</p><p>The early 2019 production change at the root of Boeing's current 737 MAX predicament involves a shift to drilling one set of holes instead of two when installing certain cockpit components, people familiar with the matter said.</p><p>Previously, factory workers first drilled initial pilot holes, primed and then drilled a second set of holes. The second set of holes stripped away the primer, allowing metal to touch metal and thus providing a protective \"grounding path\" for electrical current. By drilling only a single set of holes, the primer got in the way of that safeguard. The aim was to make the manufacturing process more efficient, some of the people said.</p><p>The manufacturing change wasn't significant enough to warrant regulatory approval, the FAA said. Senior FAA officials, however, believe Boeing should have caught the unintended consequence, people familiar with the matter said.</p><p>The 737 MAX's electrical issue first surfaced in early February when a newly produced jet wouldn't start for Boeing pilots after it rolled out of the factory, according to people familiar with the matter.</p><p>The 737 MAX's latest grounding is the third time Boeing commercial jets have been pulled from service in less than a year. Boeing voluntarily grounded eight Dreamliners last year due to a combination of production defects. The company also grounded certain 777s after an engine failed and its cover broke apart over Colorado earlier this year. Some industry officials said Boeing's moves to voluntarily ground its aircraft reflect a more conservative approach to safety in the wake of the earlier MAX crashes.</p><p>The grounding has complicated operations for U.S. airlines as domestic air travel demand picks up along with rising Covid-19 vaccination rates. Still, airline executives said they have enough spare aircraft and hoped to soon return their grounded planes to service after what they expect to be straightforward fixes.</p><p>---</p><p>Alison Sider contributed to this article.</p>",
+  "published": "2021-04-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 4028,
+          "end": 4034
+        },
+        {
+          "start": 2723,
+          "end": 2729
+        },
+        {
+          "start": 1355,
+          "end": 1361
+        },
+        {
+          "start": 3883,
+          "end": 3889
+        },
+        {
+          "start": 3682,
+          "end": 3688
+        },
+        {
+          "start": 4102,
+          "end": 4108
+        },
+        {
+          "start": 2931,
+          "end": 2937
+        },
+        {
+          "start": 620,
+          "end": 626
+        },
+        {
+          "start": 4352,
+          "end": 4358
+        },
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 1599,
+          "end": 1605
+        },
+        {
+          "start": 459,
+          "end": 465
+        },
+        {
+          "start": 731,
+          "end": 737
+        },
+        {
+          "start": 1176,
+          "end": 1182
+        },
+        {
+          "start": 2623,
+          "end": 2629
+        },
+        {
+          "start": 171,
+          "end": 177
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

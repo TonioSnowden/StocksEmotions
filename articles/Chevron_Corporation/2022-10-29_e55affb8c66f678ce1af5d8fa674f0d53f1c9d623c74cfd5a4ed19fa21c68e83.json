@@ -1,0 +1,20 @@
+{
+  "_id": "e55affb8c66f678ce1af5d8fa674f0d53f1c9d623c74cfd5a4ed19fa21c68e83",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Credit-card debt has returned to where it was before the pandemic, with U.S. balances hitting $916 billion in September, nearly identical to December 2019 levels.</p><p>U.S. stocks rose sharply, with the S&amp;P 500, Nasdaq and Dow advancing 2.5%, 2.9% and 2.6%, respectively.</p><p>Oil giant Exxon reported its most lucrative quarter ever, while rival Chevron posted profit near the record it hit in the prior quarter.</p><p>Germany's economy, Europe's largest, grew modestly in the three months through September, but economists expect a bleak period ahead.</p><p>VW posted a 29% drop in net profit as auto makers face cost headwinds and ongoing supply-chain disruptions.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-10-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "name": "Chevron Corporation",
+      "offsets": [
+        {
+          "start": 337,
+          "end": 344
+        }
+      ],
+      "nexusId": "10051514"
+    }
+  ]
+}

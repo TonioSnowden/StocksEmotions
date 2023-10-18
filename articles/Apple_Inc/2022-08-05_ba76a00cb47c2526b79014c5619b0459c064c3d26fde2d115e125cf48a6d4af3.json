@@ -1,0 +1,28 @@
+{
+  "_id": "ba76a00cb47c2526b79014c5619b0459c064c3d26fde2d115e125cf48a6d4af3",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: CFPB Examines Goldman Cards --- Investigation involves how the bank handles billing disputes, as well as its advertising",
+  "text": "<p>A Goldman spokesman said the bank is cooperating with the investigation.</p><p>A spokesman for the CFPB declined to comment.</p><p>Credit-card lending is a key part of the bank's plan to grow its consumer finance arm, which launched about six years ago. Goldman expects the consumer bank to top $4 billion in annual revenue by 2024, roughly double what it is on pace to bring in this year.</p><p>Goldman launched its credit-card business via a partnership with Apple Inc. in 2019. It also offers cards in partnership with General Motors Co., and CEO David Solomon said last month on an investor call that Goldman is looking for opportunities to add more.</p><p>The bank had about $12 billion in credit-card loans outstanding at the end of June.</p>",
+  "published": "2022-08-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 439,
+          "end": 448
+        },
+        {
+          "start": 443,
+          "end": 452
+        },
+        {
+          "start": 443,
+          "end": 453
+        }
+      ]
+    }
+  ]
+}

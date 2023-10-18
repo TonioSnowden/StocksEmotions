@@ -1,0 +1,32 @@
+{
+  "_id": "9d5733b48e2adcfd4beedd43d9ef302ec4b130e0dd46a98bcb02767a56f2dbf9",
+  "feed": "wall-street-journal",
+  "title": "EU Tech Rule Could Complicate CIO Cloud Strategy, Experts Say; A law targeting the reach of tech giants may reshape how CIOs buy technology",
+  "text": "<p>Chief information officers and other corporate tech leaders typically prefer to mix and match software tools from a range of tech vendors. Yet often they can cut costs by aligning much of their IT systems to a single cloud provider's online apps and services, said Daren Brabham, a senior analyst at research firm Enterprise Technology Research.</p><p>At the very least, he said, the approach avoids the complexity of integrating software tools from different vendors: \"This new EU regulation challenges some of that streamlining,\" said Mr. Brabham.</p><p>Since most companies have shifted to the cloud, complete packages of business software tools offered by cloud-market front-runners like Microsoft Corp., Alphabet Inc.'s Google and Amazon.com Inc. are especially appealing, he said. Many of the package deals can include cloud infrastructure and apps that don't always function well with competitors' offerings.</p><p>In the enterprise cloud market, Microsoft is drawing particular attention from European regulators over the dominance of its Windows operating system and Office productivity apps.</p><p>Aurelien Portuese, director of the Schumpeter Project on Competition Policy at the Information Technology and Innovation Foundation, a Washington-based tech policy group, said European watchdogs could now deem that strategy anticompetitive. The group's board includes officials from Google, Amazon and Microsoft.</p><p>Mr. Portuese said the policy amounts to a \"regulatory assault on the very process of vertical integration and services diversification by a few large gatekeepers.\"</p><p>Elizabeth Ebert, CIO Advisory Partner at Infosys Consulting, a global management consulting firm, said preventing large tech firms from giving preferential treatment on their platforms to their own software apps removes \"one of the main benefits of launching a tech platform.\"</p><p>Compliance with the new measures—violations can carry fines of up to 20% of a tech company's annual world-wide revenue—will likely require significant investment by tech firms, Ms. Ebert said. She said it may also lead to different product sets for enterprise customers in the European market, costs that are likely to be passed along to customers.</p><p>Ms. Ebert expects enforcement of the new rules to lead to protracted legal battles with uncertain outcomes for the European Commission. \"This means that CIOs may not have to change much of their practices in the long term,\" she said.</p><p>Most CIOs have taken a hybrid or multi-cloud approach to cloud computing, which has forced big cloud vendors to offer systems that work together in order to reach a larger pool of customers, said Charles King, president and principal analyst at IT consulting firm Pund-IT Inc.</p><p>\"So far as vendor lock-in and bundled apps go, it really depends on whether a vendor's solutions create or act as an impediment to customers working with the vendors they choose,\" Mr. King said. If nothing else, he said, European regulators will now be able to \"scrutinize vendors that aren't so cooperative.\"</p><p>Tim Crawford, CIO strategic adviser at Los Angeles-based advisory firm AVOA, said the EU regulations reflect many of the same concerns as antitrust legislation in the U.S.</p><p>U.S. lawmakers from both major parties have introduced bills with measures aimed at reining in tech companies, such as barring them from using their platforms to promote their own goods and services over those of competitors. Another proposed bill would force the breakup of part of Google's advertising business, which recently prompted the company to propose splitting off parts of its business into a separate company.</p><p>In the short-term, Mr. Crawford said, the new EU regulations wouldn't have much of an impact on global CIOs, though \"regulators need to carefully consider the full consequences before enacting.\"</p><p>Write to Angus Loten at angus.loten@wsj.com</p><p>EU Tech Rule Could Complicate CIO Cloud Strategy, Experts Say</p>",
+  "published": "2022-07-12T16:43:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 680,
+          "end": 695
+        },
+        {
+          "start": 936,
+          "end": 945
+        },
+        {
+          "start": 1386,
+          "end": 1395
+        },
+        {
+          "start": 680,
+          "end": 689
+        }
+      ]
+    }
+  ]
+}

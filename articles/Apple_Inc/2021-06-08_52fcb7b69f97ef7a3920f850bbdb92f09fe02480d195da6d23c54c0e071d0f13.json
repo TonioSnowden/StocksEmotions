@@ -1,0 +1,56 @@
+{
+  "_id": "52fcb7b69f97ef7a3920f850bbdb92f09fe02480d195da6d23c54c0e071d0f13",
+  "feed": "wall-street-journal",
+  "title": "Apple Steps Up Focus on Privacy",
+  "text": "<p>Those changes include allowing users to shut off the ability of marketers to see if and when an email is opened through Apple's Mail app -- which could have a large effect on campaigns from businesses and publishers -- and to hide IP address information to prevent tracking web usage on the Safari browser.</p><p>Apple said premium iCloud users will be able to access the internet with a feature called Private Relay that would block network providers from using IP addresses and web usage to create a user profile for tracking.</p><p>\"Privacy is more important than ever, because when you use the internet and third-party apps, you can be tracked by a complex ecosystem of data brokers and ad tech firms, often without your permission,\" said Craig Federighi, Apple senior vice president of software engineering. \"We don't think this is right. We believe in protecting your privacy and giving you transparency and control over your information.\"</p><p>The effects could be dire for the digital ad industry's use of the iPhone.</p><p>\"Looking longer term, they seem like a final blow to user-centric tracking, since ad tech mostly exists to serve that,\" said Eric Seufert, a strategist and consultant who worked with clients to react to some of Apple's privacy moves.</p><p>Chief Executive Tim Cook kicked off the weeklong Worldwide Developers Conference with a virtual event streamed on the company's website that revealed software changes planned for this year.</p><p>Included in the changes with the coming iOS 15 operating software, Apple said its texting system, iMessage, will offer new ways to share photos. Sound quality will be improved on its video calling software, FaceTime, and the company will allow it to be used on Android and Windows devices through their web browsers. There is also a new way to handle notifications on the iPhone, including getting summaries during the day and focusing on work or personal items. Wallet will allow users in participating states to add their driver's licenses.</p><p>The annual conference comes on the heels of Apple's courtroom fight with \"Fortnite\" maker Epic Games Inc., which spotlighted the increasingly thorny relations some developers have with a company that controls access to the billion-plus iPhone users world-wide.</p><p>The year of discontent began at last year's WWDC, when Apple said it planned to introduce new privacy tools, including one dubbed App Tracking Transparency, or ATT, in its iOS 14 mobile operating system. Developers, including Facebook Inc., complained that ATT would disrupt their ad businesses. In-app ads are often targeted at users based upon data about their activity online, which is collected by apps. Developers spent months puzzling out new strategies to deal with Apple's privacy-policy changes, which now require users to agree to being tracked.</p><p>Mr. Cook has forcefully defended the change as a way to protect users' privacy and help them to control how their data is used. But in January, Facebook CEO Mark Zuckerberg said Apple had every incentive to \"use their dominant platform position to interfere with how our apps and other apps work.\"</p><p>---</p><p>Jeff Horwitz contributed to this article.</p>",
+  "published": "2021-06-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2020,
+          "end": 2025
+        },
+        {
+          "start": 1500,
+          "end": 1505
+        },
+        {
+          "start": 2710,
+          "end": 2715
+        },
+        {
+          "start": 307,
+          "end": 312
+        },
+        {
+          "start": 2292,
+          "end": 2297
+        },
+        {
+          "start": 2971,
+          "end": 2976
+        },
+        {
+          "start": 748,
+          "end": 753
+        },
+        {
+          "start": 120,
+          "end": 125
+        },
+        {
+          "start": 1220,
+          "end": 1225
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

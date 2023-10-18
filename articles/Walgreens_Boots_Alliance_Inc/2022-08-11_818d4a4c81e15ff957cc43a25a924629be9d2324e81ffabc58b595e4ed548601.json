@@ -1,0 +1,34 @@
+{
+  "_id": "818d4a4c81e15ff957cc43a25a924629be9d2324e81ffabc58b595e4ed548601",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Walgreens Is Found  Liable Over Opioids  In San Francisco Suit  ----  By Jennifer Calfas",
+  "text": "<p>   A federal judge found Walgreen Co. helped exacerbate the opioid epidemic in San Francisco, the latest decision in opioid-related lawsuits aimed at pharmacy chains. </p><p>   Walgreens, the largest retail pharmacy in San Francisco, for more than a decade failed to adequately halt suspicious orders of opioids that could be used illegally, U.S. District Judge Charles R. Breyer said in an opinion issued Wednesday. He found the company liable \"for substantially contributing to the public nuisance,\" the opioid epidemic, in San Francisco, he wrote. </p><p>   \"The city has fought hard and continues to do so, but the opioid epidemic, which Walgreens helped fuel, continues to substantially interfere with public rights in San Francisco,\" Judge Breyer wrote. </p><p>   Walgreens pharmacies dispensed hundreds of thousands of suspicious prescriptions in the city between 2006 and 2020, according to the judge's decision. Pharmacists weren't given enough resources to perform the necessary steps to prevent this, the judge wrote. </p><p>    Fraser Engerman, a spokesman for Walgreens, said the company plans to appeal the decision. Walgreen Co.'s parent company is Walgreens Boots Alliance Inc., which operates pharmacies in the U.S. and internationally. </p><p>   \"As we have said throughout this process, we never manufactured or marketed opioids, nor did we distribute them to the 'pill mills' and internet pharmacies that fueled this crisis,\" Mr. Engerman said. \"We stand behind the professionalism and integrity of our pharmacists, dedicated healthcare professionals who live in the communities they serve.\" </p><p>   A subsequent trial will determine how much Walgreens owes, the judge said. </p><p>   The civil lawsuit was brought by the city and county of San Francisco in 2018 against Walgreens and other companies, including manufacturers Teva Pharmaceuticals and Allergan, and distributor Endo Pharmaceuticals Inc. It also named distributors McKesson Corp., AmerisourceBergen Corp., and Cardinal Health Inc., as well as drugmaker Johnson &amp; Johnson. </p><p>   Walgreens was the only defendant not to settle by the end of a trial that started in April. Attorneys representing San Francisco brought a public-nuisance claim against Walgreens for allegedly contributing to the opioid epidemic. </p><p>   \"It is fantastic after five years of litigation for a spotlight to be put on Walgreens's continued focus on profit while just completely disregarding its responsibilities under the Controlled Substances Act,\" said Peter Mougey, a lawyer for San Francisco in the case. </p><p>   Mr. Engerman, the Walgreens spokesman, said it was \"misguided and unsustainable\" for the city to invoke public nuisance law to address the opioid crisis. </p><p></p>",
+  "published": "2022-08-11T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1120,
+          "end": 1149
+        },
+        {
+          "start": 1113,
+          "end": 1142
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000293,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 2.9325485e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

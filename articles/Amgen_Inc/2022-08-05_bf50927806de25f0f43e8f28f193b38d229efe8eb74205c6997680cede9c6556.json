@@ -1,0 +1,30 @@
+{
+  "_id": "bf50927806de25f0f43e8f28f193b38d229efe8eb74205c6997680cede9c6556",
+  "feed": "reuters",
+  "title": "Deals of the day-Mergers and acquisitions",
+  "text": "<p>** Polish oil refiner PKN Orlen does not expect any problems obtaining shareholder approval for its planned merger with Polskie Gornictwo Naftowe i Gazownictwo (PGNiG) , finance chief Jan Szewczak told a news conference.</p><p>** Car dealer Pendragon said discussions to buy the company was terminated after a potential bidder withdrew interest as one of the five major shareholder did not engage in talks.</p><p>** Shipping group A.P. Moller-Maersk said it had agreed to buy Danish logistics company Martin Bencher Group in a deal valued at $61 million.</p><p>** Asset manager Atlas Corp said it received a takeover offer from consortium group Poseidon Acquisition Corp in an all-cash deal for $3.64 billion.</p><p>** Twitter Inc dismissed Elon Musk 's claims in a Delaware court filing that he was hoodwinked into signing the deal to buy the social media company, saying that it was \"implausible and contrary to fact.\"</p><p>** Amgen Inc agreed to buy ChemoCentryx Inc for $3.7 billion to gain access to a potential blockbuster treatment for inflammatory disorders and beat quarterly revenue estimates on demand for its bone disease drug.</p><p>** Rogers Communications said that Canada's competition commissioner has a \"statutory obligation\" to expedite the hearing into the company's proposed acquisition of Shaw Communications Inc .</p><p>** Troubled property developer China Evergrande Group said it would receive 5.52 billion yuan ($817.8 million) for cancelling a contract to buy land-use rights for a soccer stadium.</p>",
+  "published": "2022-08-05T10:03:06.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 900,
+          "end": 909
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.8576218,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.14262497,
+        "tagPositionWeight": 0.00024676323,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

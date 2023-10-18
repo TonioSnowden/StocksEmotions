@@ -1,0 +1,50 @@
+{
+  "_id": "125d7849401885fac3945c3ea3721daae8000ba40d24563d8d8a77dedfd31a6e",
+  "feed": "wall-street-journal",
+  "title": "Letters to the Editor:  AARP Has a Staggering Conflict of Interest",
+  "text": "<p>   Kimberley Strassel poses an all-too-crucial question: \"Whom Does AARP Serve?\" (Potomac Watch, Aug. 5). It's an inquiry we've had for quite some time, and unfortunately for AARP's members, the answer isn't seniors. </p><p>   Ms. Strassel notes that 2020 was the first time AARP was paid over $1 billion in corporate royalties, much of it derived from UnitedHealth Group. Compare that with the roughly $300 million AARP receives from membership dues, and the conflict becomes clear. Even with a conservative baseline estimate of about 66% of AARP's total royalty revenue, AARP still pulls in more from its deal with UnitedHealth Group, raking in over $661 million annually from selling health-insurance plans. </p><p>   Between 2010 and 2017, AARP received an estimated $4.189 billion in aggregate royalties from its partnership with UnitedHealth Group through its AARP-branded Medigap and Medicare Advantage plans. After 2017, AARP stopped disclosing exactly how much it profited from its insurance relationship. But it certainly hasn't stopped lobbying on behalf of its corporate benefactor. </p><p>   In 2009, AARP lobbied for ObamaCare despite the clear opposition of its members. Then, in 2011, AARP fought against changes to Medigap insurance without disclosing its financial conflicts to Congress. Now it is pushing disastrous drug price controls in the absurdly named Inflation Reduction Act. </p><p>   AARP should open its books ahead of any House vote on reconciliation so voters -- and members -- can see whom AARP truly represents. </p><p>   Phil Kerpen </p><p>    President, American Commitment and the Committee to Unleash Prosperity </p><p>   Washington </p><p></p>",
+  "published": "2022-08-12T06:00:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.9998464,
+      "offsets": [
+        {
+          "start": 806,
+          "end": 824
+        },
+        {
+          "start": 604,
+          "end": 622
+        },
+        {
+          "start": 812,
+          "end": 830
+        },
+        {
+          "start": 599,
+          "end": 617
+        },
+        {
+          "start": 340,
+          "end": 358
+        },
+        {
+          "start": 337,
+          "end": 355
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.0664926,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.06649268,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

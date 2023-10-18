@@ -1,0 +1,32 @@
+{
+  "_id": "09f15110648bafc11434a58a5c54f703ac9c12c035090128eb153706ea8dd988",
+  "feed": "wall-street-journal",
+  "title": "Boeing's Orders Grew in February",
+  "text": "<p>Boeing's order haul included 27 of its KC-46A military refueling tankers and a VIP version of its 747-8 jumbo that previously had been left unsold, as well as 54 commercial jetliners.</p><p>Singapore Airlines Ltd. added 11 Boeing 777X jets, converting a previous order for 19 of the smaller 787-10, while unidentified customers added four more Dreamliners.</p><p>Boeing shares rose 2.9% Tuesday to $230.61.</p><p>United Airlines Holdings Inc. last month agreed to buy another 25 MAX jets, with 14 more going to unidentified customers. Boeing also added back orders for 16 planes previously classified as doubtful because of customers' financial position.</p>",
+  "published": "2021-03-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 217,
+          "end": 223
+        },
+        {
+          "start": 351,
+          "end": 357
+        },
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 517,
+          "end": 523
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

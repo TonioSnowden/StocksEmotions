@@ -1,0 +1,32 @@
+{
+  "_id": "6a25821dc34b4594fc485d03e1fe7b3ed0f10e3624e11b3fb6f0ac2db77696c4",
+  "feed": "wall-street-journal",
+  "title": "Business News:  T-Mobile to Share User Data With Advertisers  ----  By Drew FitzGerald",
+  "text": "<p>    T-Mobile US Inc. will automatically enroll its phone subscribers in an advertising program informed by their online activity, testing businesses' appetite for information that other companies have restricted. </p><p>   The No. 2 U.S. carrier by subscribers said in a recent privacy-policy update that unless customers opt out it will share their web and mobile-app data with advertisers starting April 26. For example, the program could help advertisers identify people who enjoy cooking or are sports enthusiasts, the company said. </p><p>   T-Mobile's new policy will also cover Sprint customers acquired through the carriers' 2020 merger. Sprint had previously shared similar data only from customers who opted into its third-party ad program. </p><p>   A T-Mobile spokeswoman said the changes give subscribers advertising that aligns with their interests. \"We've heard many say they prefer more relevant ads so we're defaulting to this setting,\" she said. </p><p>   T-Mobile ended 2020 with more than 60 million phone users under its main brand and more than 20 million customers on prepaid plans. The company said the changes wouldn't apply to business accounts or children's lines. </p><p>   Many big tech companies are under pressure from regulators to move in the opposite direction on user data. Google owner Alphabet Inc. recently pledged to change the part of its business that relies on records of users' browsing across websites, while Apple Inc. is adding strict new privacy protections for its device users. </p><p>    AT&amp;T Inc. automatically enrolls wireless subscribers in a basic ad program that pools them into groups based on inferred interests, such as sports or buying a car. An enhanced version of the program shares more-detailed personal information with partners from customers who opt into it. </p><p>    Verizon Communications Inc. likewise pools subscriber data before sharing inferences about them with advertisers, with a more detailed sharing program called Verizon Selects for users who enroll. Its separate Verizon Media division shares data gathered through its Yahoo and AOL brands. </p><p>   T-Mobile said it masks users' identities to prevent advertisers and other companies from knowing what websites they visit or apps they have installed. The company tags the data with an encoded user or device ID to protect the customers' anonymity. </p><p>   But privacy groups say those IDs can be linked back to people by comparing different data sets. </p><p>   \"It's hard to say with a straight face, 'We're not going to share your name with it,' \" said Aaron Mackey, a lawyer for the Electronic Frontier Foundation, a consumer-privacy advocate. \"This type of data is very personal and revealing, and it's trivial to link that deidentified info back to you.\" </p><p>   Past telecom-industry efforts to take a piece of a multibillion-dollar ad market have stumbled more because of competitive pressures than privacy concerns. </p><p>   After spending more than $9 billion to acquire Yahoo and AOL, Verizon has scaled back its internet ambitions and written down more than $4 billion. The company has also cut jobs after the business failed to loosen Facebook Inc.'s and Google's grip on the digital-ad market. </p><p></p>",
+  "published": "2021-03-10T07:12:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 1969,
+          "end": 1976
+        },
+        {
+          "start": 1918,
+          "end": 1925
+        },
+        {
+          "start": 2907,
+          "end": 2914
+        },
+        {
+          "start": 1760,
+          "end": 1787
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "c0865153b979788e235d27615c9ed246f5371b130ec9256ac4f440b43eae0cee",
+  "feed": "ftcomall",
+  "title": "Banks try to offload $15bn of Citrix buyout debt to ‘gun-shy' investors",
+  "text": "<p>Bankers on Wall Street have embarked on a high-stakes attempt to offload a $15bn financing package to investors in a significant test of whether creditors are willing to lend to risky businesses as the economy slows and interest rates rise.</p> <p>Bank of America, Goldman Sachs and Credit Suisse will on Thursday hold calls to drum up investor interest in one part of the package — a $4.55bn loan — to fund the <a href=\"https://www.ft.com/content/e03aba67-b7df-487d-a33f-937b75b59b99\">$16.5bn leveraged buyout</a> of software company Citrix, according to people briefed on the plans.</p> <p>The banks are expected to generate significant losses after agreeing to finance the takeover of Citrix by Vista Equity Partners and Elliott Management. The deal was struck in January before borrowing costs started to surge and attempts to offload the debt to other investors during the summer were delayed after the banks struggled to generate enthusiasm.</p> <p>Bankers have spent the ensuing months retooling the financing package to make it more appealing to investors and are being forced to use their own balance sheet to provide part of the equity cheque to Vista and Elliott.</p> <p>“It really will be a signal of [how] the market values . . . risk,” said John McClain, a portfolio manager at Brandywine Global. “Investors are a little bit gun-shy. You see private credit taking a step back after licking a couple of wounds.”</p> <p>Bankers will use the calls on Thursday to explain how they think they can finance the deal. The vast majority of the $4.55bn loan will be denominated in dollars with the rest in euros, the people said. The banks have told investors that the order book for the US dollar loan is almost full, with 40 creditors offering to lend $4bn, according to three people briefed on the negotiations.</p> <p>However, to attract those investors, the banks will have to offer the loan at a significant discount. They are hoping to price it at 92 cents on the dollar with an interest rate of 4.5 percentage points above Sofr, the floating interest rate benchmark.</p> <p>That is a much bigger discount than has been recently typical for a deal like the buyout of Citrix. For instance, in January Hellman &amp; Friedman and Bain Capital secured a $5.9bn term loan to fund their <a href=\"https://www.ft.com/content/24519628-9c86-4b6e-b38c-e03142afa3ee\">$17bn buyout of Athenahealth</a>. It had an interest rate of 3.5 percentage points above Sofr and priced at 99.5 cents on the dollar.</p> <p>However, investors are warning the discount could still increase as bankers finalise the deal depending on the level of appetite.</p> <p>In addition to the loan, the banks are expected in the coming days to start marketing a multibillion-dollar secured bond with a yield of up to 9 per cent, the people said. That is higher than the average yield on junk debt that traded hands on Wednesday — which stood at 8.47 per cent, according to Ice Data Services — and underscores the concessions investors are demanding to get on board.</p> <p>The loan and secured bonds will be supplemented by junior credit as well as loans the banks plan to make themselves after struggling to find investors to take on the risk. The size of the discounts the banks must ultimately offer will determine the magnitude of their losses, with estimates ranging from the hundreds of millions of dollars to roughly $1bn.</p> <p>Bank of America, Credit Suisse, Goldman Sachs, Elliott and Vista declined to comment.</p> <p>The struggle the banks have had in offloading the Citrix debt is likely to influence their willingness to fund future <a href=\"https://www.ft.com/stream/ab70c42c-4d60-4851-89bb-16e2daeddfc1\">private equity </a>buyouts. Bankers and investors said the terms of new funding packages have become much less advantageous for acquiring companies, reflecting the volatility buffeting financial markets and a sharp increase in borrowing costs after the Federal Reserve embarked on a string of interest rate rises.</p> <p>Companies, including those with investment grade credit ratings, are now racing to lock in long-term financing ahead of further rate rises. On Tuesday, 19 companies including Walmart, McDonald's, Nestlé and Union Pacific raised more than $35bn of debt, according to strategists at Bank of America.</p> <p>“As we look over the next 24 months our goal is to understand what cumulative defaults will look like,” said Adam Abbas, co-head of fixed income at Harris Associates. “I can't remember a period over the past 10 years other than Covid when . . . there were a wider set of [possible] outcomes for the economy.”</p> <p><em>Additional reporting by Antoine Gara and Ian Johnston</em></p> <h1></h1><p>Source: Eric Platt in New York 2022 'Banks try to offload $15bn of Citrix buyout debt to ‘gun-shy' investors' FT.com 8 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-08T04:00:38.770Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 3202,
+          "end": 3215
+        },
+        {
+          "start": 258,
+          "end": 271
+        },
+        {
+          "start": 258,
+          "end": 265
+        },
+        {
+          "start": 3202,
+          "end": 3209
+        },
+        {
+          "start": 3181,
+          "end": 3194
+        },
+        {
+          "start": 257,
+          "end": 270
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7958703,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.3463182,
+        "tagPositionWeight": 0.14218855,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

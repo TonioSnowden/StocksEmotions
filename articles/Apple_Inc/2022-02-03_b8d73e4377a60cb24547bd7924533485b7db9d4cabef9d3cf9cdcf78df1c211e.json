@@ -1,0 +1,32 @@
+{
+  "_id": "b8d73e4377a60cb24547bd7924533485b7db9d4cabef9d3cf9cdcf78df1c211e",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>The S&amp;P 500 on Monday ended its worst month since March 2020. The headline with a Business &amp; Finance article on Tuesday about the markets incorrectly said it was its worst month in years.</p><p>(See: \"Monday's Markets: S&amp;P Ends Worst Month in Years\" -- WSJ Feb. 1, 2022)</p><p>---</p><p>A chart with an Exchange article on Saturday about Apple Inc. showed the market share of smartphone brands in China for the fourth quarter of 2021 compared with the fourth quarter of 2020. The labels for those time periods were incorrectly reversed. Also the names of Huawei Technologies Co. and Honor Device Co. were misspelled in the chart as Hauwei and Honot, respectively.</p><p>(See: \"EXCHANGE </p><p>---</p><p> Chinese Sales Fuel Apple's Big Haul\" -- WSJ Jan. 29, 2022)</p><p>---</p><p>James Bond drove an Aston Martin in the film \"GoldenEye,\" but it wasn't the Vantage model. The Jan. 25 \"My Ride\" column about a 2013 Aston Martin V8 Vantage S incorrectly said there wasn't an Aston Martin in the film.</p><p>(See: \"PERSONAL JOURNAL </p><p>---</p><p> My Ride: A James Bond Fan Gets a Car Fit for 007\" -- WSJ Jan. 25, 2022)</p><p>---</p><p>Notice to readers</p><p>Some Wall Street Journal staff members are working remotely during the pandemic. Please send reader comments only by email or phone, using the contacts below, not via U.S. Mail.</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-02-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 320,
+          "end": 325
+        },
+        {
+          "start": 320,
+          "end": 330
+        },
+        {
+          "start": 320,
+          "end": 329
+        },
+        {
+          "start": 685,
+          "end": 690
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

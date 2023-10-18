@@ -1,0 +1,38 @@
+{
+  "_id": "41f7fde23f05f9c843d7c4ceda6af7a57ad3e7c18b97a23e16c37244e3688bc7",
+  "feed": "economist-blog",
+  "title": "Daily chart; British inflation hits double digits",
+  "text": "<p>An index published by Citigroup, a bank, measures inflation readings for different countries relative to market expectations (see chart). A positive number means that inflation was higher than expected; a negative one means it was lower. (The chart ends in July 2022, before this month's batch of inflation numbers.)</p><p>Again and again during the 2010s, inflation across the rich world came in lower than expected. But in early 2021 (and a long time before most economists and politicians were seriously concerned about price pressures) inflation started surprising in the other direction.</p><p>By early 2022 inflation figures were missing forecasts by miles. Economists have been surprised by the strength of wage growth in America—now running at an annualised rate of about 5.5%, according to a tracker compiled by Goldman Sachs, another bank. Higher wages have added to companies' costs, and they have passed them on to consumers. The behaviour of wages in the euro area and Britain, two weaker economies, is even more surprising. Underlying wages are rising by about 4% a year in Britain, and picking up steam in Europe.</p><p>Analysts have also underestimated the inflationary impact of higher energy prices, linked to Russia's invasion of Ukraine. The wholesale prices of electricity and natural gas are soaring far beyond levels that would have seemed absurdly pessimistic just a few months ago. Our analysis of data from the OECD, a club of mainly rich countries, shows that inflationary surprises tend to be higher in places where energy is making a bigger contribution to inflation. In places such as Germany, Greece and Italy, higher fuel prices account for one-third or more of overall inflation in the past year. In Britain energy is likely to account for about half the inflation rate by the winter.</p><p>Now, though, surprises are starting to go the other way. In America both the latest consumer- and producer-price indices missed expectations in the “right” direction, coming in lower than expected. Even with Britain's latest inflation figures, the scale of forecasters' miss is smaller than was typical a few weeks ago.</p><p>The fact that there are fewer surprises does not mean that the threat from inflation has eased. It will probably not peak in Britain and the euro area for some time. The cost-of-living crisis will thus worsen, consumer confidence will keep falling and incumbent politicians will become even more unpopular. The one silver lining is that expectations are at least catching up with reality.</p><p>■</p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 809,
+          "end": 822
+        },
+        {
+          "start": 809,
+          "end": 816
+        },
+        {
+          "start": 803,
+          "end": 816
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.000651,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0006508827,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

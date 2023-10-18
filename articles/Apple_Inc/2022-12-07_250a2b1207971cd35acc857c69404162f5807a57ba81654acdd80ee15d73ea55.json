@@ -1,0 +1,36 @@
+{
+  "_id": "250a2b1207971cd35acc857c69404162f5807a57ba81654acdd80ee15d73ea55",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Arizona Chip Plant Raises Investment to $40 Billion",
+  "text": "<p>\"This is going to be an incredible asset to the state of Arizona,\" Mr. Biden said during remarks following a tour of the site Tuesday. \"American manufacturing is back.\"</p><p>Under a previously disclosed $12 billion investment plan, TSMC is already building its first factory in Arizona.</p><p>The White House released details of a second factory planned for the site, saying construction would start in the coming year and production would begin in 2026. It would make chips equal to the tiniest and fastest available today.</p><p>The White House said Mr. Biden met with a group of top executives following his Arizona remarks, including Tim Cook, the CEO of Apple Inc. Mr. Cook tweeted that Apple would be the Arizona site's largest customer.</p>",
+  "published": "2022-12-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 637,
+          "end": 646
+        },
+        {
+          "start": 642,
+          "end": 651
+        },
+        {
+          "start": 642,
+          "end": 652
+        },
+        {
+          "start": 670,
+          "end": 675
+        },
+        {
+          "start": 675,
+          "end": 680
+        }
+      ]
+    }
+  ]
+}

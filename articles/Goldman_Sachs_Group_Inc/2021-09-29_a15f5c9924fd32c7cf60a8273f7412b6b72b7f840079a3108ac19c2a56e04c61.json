@@ -1,0 +1,44 @@
+{
+  "_id": "a15f5c9924fd32c7cf60a8273f7412b6b72b7f840079a3108ac19c2a56e04c61",
+  "feed": "wall-street-journal",
+  "title": "Ozy Media Directors Investigate Practices",
+  "text": "<p>On Sunday, the New York Times reported that Ozy Chief Operating Officer Samir Rao impersonated an executive from Alphabet Inc.'s YouTube on a fundraising call with Goldman Sachs Group Inc. Carlos Watson, Ozy's chief executive, said on Twitter Sunday that Mr. Rao's behavior on the call was \"deeply unfortunate\" and attributed his behavior to a mental-health issue. The board said it has asked Mr. Rao to take a leave of absence pending the investigation.</p><p>Mr. Watson, 51 years old, co-founded Ozy in 2013 after stints as a banker at Goldman Sachs and serving as an anchor on MSNBC.</p>",
+  "published": "2021-09-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 164,
+          "end": 171
+        },
+        {
+          "start": 532,
+          "end": 545
+        },
+        {
+          "start": 164,
+          "end": 187
+        },
+        {
+          "start": 530,
+          "end": 543
+        },
+        {
+          "start": 164,
+          "end": 188
+        },
+        {
+          "start": 532,
+          "end": 539
+        },
+        {
+          "start": 164,
+          "end": 177
+        }
+      ]
+    }
+  ]
+}

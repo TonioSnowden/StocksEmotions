@@ -1,0 +1,34 @@
+{
+  "_id": "a4a2322e16c053552661aabeefee22291b277c4160d26319d5c586d8fd2aceff",
+  "feed": "wall-street-journal",
+  "title": "Amazon Seller Packable to Shut Down in Bankruptcy After SPAC Deal Sinks; The online third-party seller of health and beauty products was valued at more than $1 billion less than two years ago",
+  "text": "<p>Founded in 2010, the online third-party seller of health and beauty products and its main operating business, Pharmapacks LLC, buys inventory from major brands to fulfill orders on online sites that include Amazon.com Inc., Walmart Inc. and eBay Inc.</p><p>At its peak, Packable processed more than 1.8 million orders each month, chief restructuring officer Brian Teets said in a sworn declaration.</p><p>The Carlyle Group invested $250 million in the company on a valuation of more than $1 billion less than two years ago. Carlyle, Packable's largest single equity holder owning 26% of the business, declined to comment.</p><p>In September, the company said it planned to raise $434 million in cash through a SPAC deal. After announcing the proposed SPAC deal, Packable increased its staffing, launched a rebranding campaign and planned to open a new warehouse and fulfillment facility in California, a plan the company later scrapped.</p><p>The intensive expansion took a toll on its bottom line. While Packable recorded a 15% increase in revenue of $427.6 million last year, its net losses worsened to $175.2 million from $113.9 million in that period.</p><p>In March, the agreement to go public was terminated, leaving Packable short on liquidity, Mr. Teets said. The SPAC market has hit a wall since then and efforts in recent months to arrange long-term financing have failed.</p><p>Mr. Teets said Packable also faced substantial headwinds due to a variety of other market conditions, particularly increases in the cost of goods sold from brand partners, as well as diminished capacity at Packable facilities due to labor and supply shortages.</p><p>Since early August it has been in default on a $95 million term loan.</p><p>\"The combined strain of these factors accelerated Packable's cash burn and gave rise to a liquidity shortage,\" Mr. Teets said. \"In the absence of any viable alternative, Packable pivoted quickly to a liquidation and wind-down strategy to preserve and distribute as much value to creditors as possible.\"</p><p>It had $161 million in secured debt and $110 million in unsecured convertible bonds issued last year at the time of bankruptcy. It also owes $47 million in trade debt.</p><p>Packable's primary assets are inventory valued at around $79 million as well as intellectual property.</p><p>Potter Anderson &amp; Corroon LLP and Cooley LLP are the legal advisers, restructuring firm Alvarez and Marsal is the restructuring adviser, and Hilco Merchant Resources LLC is the liquidation agent.</p><p>The cases have been consolidated under number 22-10797 and assigned to Judge John Dorsey.</p><p>Write to Becky Yerak at becky.yerak@wsj.com</p>",
+  "published": "2022-08-29T21:27:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 224,
+          "end": 235
+        },
+        {
+          "start": 224,
+          "end": 236
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.1924311,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.19243109,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

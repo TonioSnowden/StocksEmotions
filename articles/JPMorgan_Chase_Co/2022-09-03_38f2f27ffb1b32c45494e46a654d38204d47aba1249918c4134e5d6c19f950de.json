@@ -1,0 +1,38 @@
+{
+  "_id": "38f2f27ffb1b32c45494e46a654d38204d47aba1249918c4134e5d6c19f950de",
+  "feed": "wall-street-journal",
+  "title": "Citigroup Joins Industry Effort to Lend to People Without Credit Scores; Bank is launching two lending pilots through a government-sponsored program that aims to expand credit to wider swath of borrowers",
+  "text": "<p>Citigroup Inc. is joining a government-sponsored effort to expand access to credit in underserved communities.</p><p>The bank is launching two pilot programs early next year under the Office of the Comptroller of the Currency's Project REACh, or Roundtable for Economic Access and Change. One program will issue credit cards to people without credit scores, while the other will make it easier for small businesses owned by minorities, women and veterans to get credit.</p><p>Banks including JPMorgan Chase &amp; Co., Wells Fargo &amp; Co. and U.S. Bancorp are already working with Project REACh, sharing bank-account data to help approve a wider swath of borrowers for credit cards. Some 50 million Americans lack traditional credit scores, which banks typically require when reviewing applications for all manner of consumer debt.</p><p>Citigroup is adding its account data to the mix. Researchers have found that information on an applicant's income and spending habits are as good a measure of creditworthiness as credit scores, bankers said.</p><p>\"We've been looking for how can we lower barriers for entrance into financial services,\" said Gonzalo Luchetti, the head of Citigroup's U.S. consumer-banking operations.</p><p>Project REACh is part of a broader push in the banking industry to find ways to lend to a broader set of customers. Bank of America Corp. earlier this week said it was launching a pilot program in some cities to lend to minority home buyers with no down payments or minimum credit scores.</p><p>The efforts are still in the early stages. They're also taking shape during a period marked by unusually low consumer-loan defaults, the result of pandemic stimulus that padded Americans' bank accounts.</p><p>Still, bankers say loans issued through Project REACh, though small in number, are performing as well as those issued outside the program. They expect the volume to increase in the coming year.</p><p>\"We've done a lot of push-ups to advance this effort,\" said Mark Brucker, the chief risk officer in JPMorgan's consumer bank. \"You're seeing other banks see the benefit of those push-ups and want to get involved.\"</p><p>Citigroup is also launching a pilot program in 20 branches in Los Angeles to funnel more loans to small businesses owned by women, minorities and veterans. To do so, the bank will lower its threshold for acceptable credit scores and tinker with other underwriting standards.</p><p>The bank has been testing ideas on how to reach more minority borrowers as part of its broader work on racial equity, Mr. Luchetti said. As a result, the bank stopped charging overdraft fees this year. The bank also changed some home-loan requirements, like eliminating the need for mortgage insurance for some applicants.</p><p>The Project REACh small-business lending program is partly modeled off a special-purpose credit program started in 1993 by Union Bank. The program allows the bank to be more flexible on some clauses like supplier diversity, allowing small businesses to get a loan even if they are heavily tied to a single customer. Such borrowers also face lower down-payment requirements for loans tied to commercial real estate.</p><p>Union Bank has coached some of the banks in the OCC program, said Frank Robinson, its head of diverse markets.</p><p>Zions Bancorp, a small-business-focused bank out of Salt Lake City, has seen increased loan applications since it joined the OCC group, said Chief Executive Harris Simmons. Zions has lent $276 million via the program in just over a year through June, he said. He said it had also worked to change his bankers' habits on whom to pitch, leading to more business opportunities.</p><p>\"This is not a pilot for us,\" Mr. Simmons said. \"This is something we plan to continue to try to do.</p><p>Citigroup's decision to join the program will help it expand, Mr. Robinson said.</p><p>\"The hope has been we climb to a place where the program isn't needed,\" he said. \"But we've got work to do to get there.\"</p><p>Write to David Benoit at David.Benoit@wsj.com and AnnaMaria Andriotis at annamaria.andriotis@wsj.com</p><p>Citigroup Joins Industry Effort to Lend to People Without Credit Scores</p>",
+  "published": "2022-09-03T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99279994,
+      "offsets": [
+        {
+          "start": 1977,
+          "end": 1985
+        },
+        {
+          "start": 477,
+          "end": 497
+        },
+        {
+          "start": 480,
+          "end": 500
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.866818,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 0.016818166,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

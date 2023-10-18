@@ -1,0 +1,34 @@
+{
+  "_id": "e821e0b5e8351a65a1437483e4d7f2e8e05f68f31cb3bba5aa98cce7cd8cca17",
+  "feed": "wall-street-journal",
+  "title": "Lyft to Sublease Offices as Remote Work Lowers Need for Space; The company said it plans to rent out office space it occupies at four locations",
+  "text": "<p>In March, the company said its more than 4,000 office employees could work remotely indefinitely. The drivers who use Lyft to match with riders are not considered employees of the company.</p><p>\"Many of our team members opted to work remotely after we shifted to a flexible workplace strategy,\" Rachel Goldstein, the Lyft executive managing the plan, said in a statement. \"As a result, we have identified a significant amount of office space that isn't being utilized the way it previously was.\"</p><p>Lyft's plans were earlier reported by Bloomberg.</p><p>The move shows how companies are navigating a broader return to the office as threats from the pandemic recede. Some companies are subleasing and vacating offices, hoping to cut costs as many employees continue to work from home and concerns about a potential economic downturn rise.</p><p>Software company Salesforce Inc. and business listing company Yelp Inc. are among the companies that have said they plan to sell or rent out parts of their office space.</p><p>Some companies are adding space even as they offer more flexibility to employees. In January, Google said it planned to spend $1 billion buying real estate in central London. Last year it said it would spend $7 billion on more space for its offices and data centers in the U.S.</p><p>Occupancy rates remain below prepandemic levels. In late June, the average occupancy rate in 10 major U.S. metro areas was less than 45%, down from over 95% before the pandemic began, according to Kastle Systems, which operates security systems in U.S. office buildings. Kastle tracks how many people are entering buildings based on anonymized data from its swipe-entry systems.</p><p>About 52% of companies expect to shrink their office space over the next three years, up from 44% a year earlier, a recent CBRE survey of 185 businesses with U.S. offices found. That is compared with 39% that intend to expand, up from 29% a year earlier, and 9% that foresee no change, down from 27% a year earlier.</p><p>Lyft and its rival Uber Technologies Inc. have been looking for ways to trim costs as they try to pivot to profitable growth during a challenging macroeconomic environment. Lyft did not disclose the financial implications of its plans to sublease its office space.</p><p>Last month, Lyft laid off about 60 employees and folded its car-rental business for riders. In May, Uber paused hiring.</p><p>Write to Preetika Rana at preetika.rana@wsj.com</p><p>Lyft to Sublease Offices as Remote Work Lowers Need for Space</p>",
+  "published": "2022-08-23T19:29:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 841,
+          "end": 856
+        },
+        {
+          "start": 834,
+          "end": 848
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9004774,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0004774332,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

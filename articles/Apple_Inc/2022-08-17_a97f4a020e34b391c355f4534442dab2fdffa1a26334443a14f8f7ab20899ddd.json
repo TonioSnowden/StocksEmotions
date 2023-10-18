@@ -1,0 +1,58 @@
+{
+  "_id": "a97f4a020e34b391c355f4534442dab2fdffa1a26334443a14f8f7ab20899ddd",
+  "feed": "market-watch",
+  "title": "Apple plans to unveil iPhone 14 at Sept. 7 event: report",
+  "text": "<p>But the iPhone 14 launch is by far the biggest deal for Apple. Last quarter, Apple reported $40.67 billion in revenue from iPhone sales, up from $39.57 billion a year prior, and roughly half of the company's total revenue. That beat analysts' expectations, defying global supply-chain problems and rising inflation.</p><p>The iPhone 14 will reportedly feature a better camera but otherwise fairly minor technological upgrades, and will add a version with a 6.7-inch screen while eliminating the 5.4-inch \"mini\" version.</p><p>Analysts are bullish on Apple's outlook. Credit Suisse's Shannon Cross on Wednesday named Apple of of her \"top picks,\" raising her rating on the stock to outperform from neutral, with a $201 price target, while Wedbush's Dan Ives told CNBC that demand for Apple products will likely remain strong next year.</p><p>Apple shares AAPL closed slightly higher Wednesday, at $174.55, and are down about 2% year to date, following a 24% rally over the past three months. In comparison, the S&amp;P 500 SPX is down 10% in 2022, after a 9% gain over the past three months.</p><p>Apple plans to unveil iPhone 14 at Sept. 7 event: report</p>",
+  "published": "2022-08-17T23:41:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999977,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 56,
+          "end": 61
+        },
+        {
+          "start": 76,
+          "end": 81
+        },
+        {
+          "start": 534,
+          "end": 539
+        },
+        {
+          "start": 599,
+          "end": 604
+        },
+        {
+          "start": 765,
+          "end": 770
+        },
+        {
+          "start": 816,
+          "end": 821
+        },
+        {
+          "start": 835,
+          "end": 839
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "cd58b11fb230fd1feb55b3cf37a83e1b9927beeec6e6555d055c729b698a8ec4",
+  "feed": "ftcomall",
+  "title": "How Apple's iOS 14.5 update is shaking up the app economy",
+  "text": "<p>Users of iPhones around the world started receiving a series of unfamiliar messages on Monday after they downloaded Apple's latest software update: Do they want to be tracked? </p> <p>Ten months after Apple promised <a href=\"https://www.apple.com/uk/newsroom/2020/06/apple-reimagines-the-iphone-experience-with-ios-14/\">“enhanced privacy features”</a> for iPhones, the changes have finally arrived with iOS 14.5, despite <a href=\"https://www.ft.com/content/54c54efb-7c80-4468-bf8f-c646e2bbe07f\">loud protests from Apple's rivals</a> and antitrust complaints in France and <a href=\"https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a\">Germany</a>. </p> <p>The first time that users open each app after the update, they will be faced with a simple question: “Allow (app name) to track your activity across other companies' apps and websites?”</p> <p>There will be two possible responses: “Ask App Not to Track” or “Allow.” App developers will be given some space to plead the case for tracking but faced with such a blunt choice, most users are expected to say no. </p> <h2>What exactly is being tracked? </h2> <p>Until now, apps have been able to collect, and share with third parties such as data brokers, all sorts of personal information about you, including your location, what other apps you are using, when you logged into the app, an encrypted version of your email address, your phone number, and a unique number that identifies your iPhone, known as IDFA (Identifier for Advertisers). </p> <p>According to Fun Corp, an app developer, “hundreds of trillions of user actions and events” are being tracked every day. A writer at the Washington Post found <a href=\"https://www.washingtonpost.com/technology/2019/05/28/its-middle-night-do-you-know-who-your-iphone-is-talking/\">5,400 trackers took data from his phone</a> in a single week. Many apps send data to multiple partners, including Facebook and Google. </p> <p>As iPhone users move through apps, and surf the web, they leave crumbs of data behind each time, including a copy of their IDFA, allowing the online advertising industry to build a profile of their behaviour, which advertisers use to serve them supposedly relevant ads. </p> <h2>What happens when I decline to be tracked? </h2> <p>Apple wants all apps to obtain explicit consent for this behaviour. If users opt out that very first time they get the notification, an app will be barred from accessing their IDFA forever. And Apple expects that apps will not share other data, including phone numbers or emails. </p> <h2>Will I stop getting ads? </h2> <p>No, you will get the same number of ads but they will not be personalised. The ad industry thinks the wording of the initial notification does not adequately explain the value of tracking.</p> <p>Users will still get ads, but by cutting off the flow of data, they will be less relevant and apps will be able to charge less to the advertiser. </p> <p>In short, the ad-based business model that a huge number of free apps have relied on is being dealt a heavy blow. </p> <h2>So how do businesses feel about it?</h2> <p>The digital ad industry is worth more than $350bn annually and many app developers <a href=\"https://www.ft.com/content/da9247a7-f6bc-4b6f-994a-fb156d3dea54\">are furious.</a> </p> <p>Facebook, in particular, has built an $80bn-a-year business on profiling its users and selling personalised ads to them. The company has taken out full page print ads in several newspapers, including the Financial Times, to say that the changes will hurt small businesses which will not be able to reach their customers as easily. </p> <p>It has also claimed that Apple was using its “dominant market position to self-preference their own data collection while making it nearly impossible for their competitors to use the same data”. </p> <p>“They claim it's about privacy, but it's about profit,” <a href=\"https://www.ft.com/content/54c54efb-7c80-4468-bf8f-c646e2bbe07f\">Facebook said</a>. “We are not fooled.”</p> <p>Other companies, including Snap, Twitter and TikTok will also be hit, and many companies reliant on mobile advertising have been experimenting with workarounds, both <a href=\"https://www.ft.com/content/dd724838-d37f-4894-b986-e4675482161e\">in the US</a> and <a href=\"https://www.ft.com/content/520ccdae-202f-45f9-a516-5cbe08361c34\">in China.</a> </p> <p>More recently, Mark Zuckerberg has hinted that the change could benefit Facebook, however, if it encourages companies to switch their budgets away from advertising and towards direct commerce. Facebook has recently been investing in tools to allow more online shopping on its platforms. </p> <h2>The big exception</h2> <p>One company is not going to ask users if they want to be tracked. Google has decided it will simply stop using IDFA altogether. </p> <p>While it is damaging for Google to lose access to data from other apps, it already has a huge amount of data from its own suite of apps that it can rely on. </p> <p>When an iPhone owner uses Google Search, Maps, Chrome, Gmail or YouTube, Google can still use that data to build ad profiles, unencumbered by Apple's policy shift.&#xa0;</p> <h2>What is in it for Apple? </h2> <p>Apple has long made privacy a key selling point of the iPhone, to burnish its premium position in the market. </p> <p>But it stands to benefit in other ways from the changes, too. </p> <p>Without being able to sell the data that they collect to third parties, apps will have to turn to charging consumers for their revenues. And Apple takes a 15 per cent to 30 per cent commission on all app purchases and subscriptions through the app store. </p> <p>Meanwhile, Apple is also planning to <a href=\"https://www.ft.com/content/5527ddd1-77a8-4cd0-82fd-4568be5da80f\">expand its own</a> “privacy-centric” advertising business. </p> <h2>I have an Android phone. Does this impact me?</h2> <p>For now, no. But the Google operating system is likely to follow suit in some form. Google is in the process of building “privacy-first” advertising for the desktop. A similar change for mobile apps seems likely.</p> <a href=\"http://www.ft.com/cms/ea67fc0b-c4fd-4087-8aea-81e6fbf517f2.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a><p>Source: Patrick McGee and Hannah Murphy in San Francisco 2021 'How Apple's iOS 14.5 update is shaking up the app economy' FT.com 27 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-27T07:27:22.831Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1997,
+          "end": 2002
+        },
+        {
+          "start": 4229,
+          "end": 4234
+        },
+        {
+          "start": 4590,
+          "end": 4595
+        },
+        {
+          "start": 1803,
+          "end": 1808
+        },
+        {
+          "start": 3045,
+          "end": 3050
+        },
+        {
+          "start": 193,
+          "end": 198
+        },
+        {
+          "start": 4715,
+          "end": 4720
+        },
+        {
+          "start": 324,
+          "end": 329
+        },
+        {
+          "start": 4277,
+          "end": 4282
+        },
+        {
+          "start": 4270,
+          "end": 4275
+        },
+        {
+          "start": 116,
+          "end": 121
+        },
+        {
+          "start": 4,
+          "end": 9
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

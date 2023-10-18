@@ -1,0 +1,48 @@
+{
+  "_id": "523ce335b7d01c217500e9a22727502852f2e8f890e4be44b9edee2e4a0edb02",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Heard on the Street: Videogames Have a Cloudy Future --- Microsoft is well positioned to make videogame streaming a reality",
+  "text": "<p>The potential for Microsoft to perform such a role has been apparent for a while now. The company said Thursday that it is working on new devices to enable game streaming, and with TV manufacturers on sets that would enable games without any other hardware save for a controller. It also plans to launch browser-based cloud gaming in the next few weeks, along with a feature coming to its Xbox console later this year that will enable gamers to stream trial versions of games before they buy. Microsoft Chief Executive Satya Nadella joined Xbox head Phil Spencer on Thursday to proclaim cloud gaming as \"truly a breakthrough experience.\"</p><p>Cloud gaming, in which players stream videogames from servers rather than downloading them to their consoles or PCs, has seen some notable attempts previously. But none has been able to overcome both the technological and business challenges. The highest-profile attempt was Google with its Stadia service, which launched in late 2019. A little over a year later the Alphabet company scaled back its ambitions considerably by calling off its effort to build major exclusive games for the service.</p><p>With their networks powering fast-growing cloud-computing services, Google, Amazon and Microsoft have seemed to be the best-suited to solving the technical hurdles for game streaming, which requires games to be rendered by distant servers while maintaining a split-second response time to players' controls. Cloud-game services also require the availability of popular titles from publishers that remain largely dependent on sales.</p><p>As such, only Microsoft seems to have all the necessary pieces to the puzzle. Its Azure cloud service provides a strong technical backbone plus the business motivation, given how essential Microsoft's cloud focus has been to the company's revived fortunes. The company also brings a large installed base of console users and subscribers to its Xbox Live and Game Pass services, along with ownership of several big gaming properties.</p><p>Such a position is still no guarantee of success. Videogames are shifting rapidly to digital distribution. Electronic Arts told investors last month that 62% of its full game units were sold as downloads in the fiscal year ended in March -- up 13 percentage points from the previous year.</p><p>Subscription-based streaming models are the next step in that evolution. And they seem inevitable, as media consumers are quickly growing accustomed to such services in other areas. Streaming now constitutes the bulk of music industry revenue, which has also surged 74% between 2010 and last year, according to the Recording Industry Association of America. If Microsoft can help lead such a shift in games, its investors will be singing a very happy tune.</p>",
+  "published": "2021-06-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1756,
+          "end": 1765
+        },
+        {
+          "start": 18,
+          "end": 27
+        },
+        {
+          "start": 2650,
+          "end": 2659
+        },
+        {
+          "start": 1222,
+          "end": 1231
+        },
+        {
+          "start": 1581,
+          "end": 1590
+        },
+        {
+          "start": 70,
+          "end": 79
+        },
+        {
+          "start": 493,
+          "end": 502
+        },
+        {
+          "start": 1756,
+          "end": 1767
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

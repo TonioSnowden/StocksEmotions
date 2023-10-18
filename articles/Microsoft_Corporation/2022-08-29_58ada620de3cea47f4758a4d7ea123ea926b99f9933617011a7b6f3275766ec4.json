@@ -1,0 +1,34 @@
+{
+  "_id": "58ada620de3cea47f4758a4d7ea123ea926b99f9933617011a7b6f3275766ec4",
+  "feed": "ftcomall",
+  "title": "Letter: Society's thirst for data requires a water solution",
+  "text": "<p>World Water Week kicked off last week in Stockholm, with the issue of the water consumed by data centres emerging as a big concern (“Thames study: utility probes data centres' use of water”, <a href=\"https://www.ft.com/content/8d8bf26f-5df2-4ff6-91d0-369500ed1a9c\">Report</a>, August 24). Data centres use water for cooling when fans cannot maintain the correct operating temperatures. In times of drought, the increase in water consumption at higher temperatures compounds the problems for local water supplies.</p> <p>Drought-stricken citizens are pushing back against these water-guzzling facilities that create little employment. For example, in the Netherlands, Microsoft and Google data centres have been the target of repeated community anger around water consumption, and it's a similar story in Arizona and elsewhere in the US.</p> <p>Some forward-looking countries have already taken action. For example, in 2019 Singapore, a major data centre hub for south Asia, imposed a three-year moratorium (now lifted with restrictions) on constructing new data centres due to concerns around energy and water usage.</p> <p>If drought-like conditions across the globe become more frequent and sustained, the data centre industry will rapidly need to rethink its approach to water. Perhaps now is the time to move beyond “hot air” promises to adopt new cooling technologies, such as immersive liquid cooling, at scale.</p> <p>Withering petunias may survive a hosepipe ban, but society's thirst for data seems unquenchable, and a sustainable solution to cooling data centres needs to be implemented.</p> <p><strong>Duncan White</strong> <br><em>Partner, Environmental Technologies,<br>Hambro Perks<br>London SW1, UK</em></p><p>Source:  2022 'Letter: Society's thirst for data requires a water solution' FT.com 29 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-29T23:08:08.145Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 578,
+          "end": 587
+        },
+        {
+          "start": 582,
+          "end": 591
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0061584,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.006158352,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

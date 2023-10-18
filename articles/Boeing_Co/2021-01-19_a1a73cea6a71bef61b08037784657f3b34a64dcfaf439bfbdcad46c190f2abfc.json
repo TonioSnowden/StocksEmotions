@@ -1,0 +1,28 @@
+{
+  "_id": "a1a73cea6a71bef61b08037784657f3b34a64dcfaf439bfbdcad46c190f2abfc",
+  "feed": "wall-street-journal",
+  "title": "NASA-Boeing Rocket Project Hits Snag",
+  "text": "<p>National Aeronautics and Space Administration officials said they couldn't immediately determine the cause of the premature shutdown, and therefore it was too early to determine what fixes would be necessary or even if the test needed to be repeated. They said engineers didn't know whether it was a hardware, software or sensor malfunction.</p><p>Boeing is the prime contractor for the mammoth Space Launch System booster, which is more powerful than the Saturn V that blasted Apollo astronauts toward the moon in the late 1960s and early 1970s. It was slated for its first uncrewed launch late this year, but that schedule is now in flux. Political and budget pressures on the program, projected to cost a total of between $19 billion and $23 billion to complete, were already increasing.</p><p>Departing NASA chief James Bridenstine repeatedly said in a press conference that the test shouldn't be considered a failure, because engineers and program managers gained important data. But he also said, \"It's not everything we hoped it would be.\"</p><p>\"Not everything went according to script,\" he said. A Boeing spokesman declined to comment.</p><p>The setback comes at a difficult time for SLS and Boeing. Industry and government officials expect the Biden administration to shelve President Trump's vision of landing astronauts on the moon as early as 2024. For many years, influential Senate Republicans have championed SLS -- and annually appropriated robust funding for it -- despite its troubled development. But with the Senate now controlled by Democrats, those supporters stand to lose significant clout.</p><p>Even before Saturday's failed test, former NASA officials and outside space experts said they expected that for early lunar missions SLS -- intended to become NASA's premier deep-space rocket -- might take a back seat to rockets under development by Space Exploration Technologies Corp., run by Tesla Inc. Chief Executive Elon Musk, and Blue Origin Federation LLC, run by Amazon.com Inc. Chief Executive Jeff Bezos.</p>",
+  "published": "2021-01-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 342,
+          "end": 348
+        },
+        {
+          "start": 1089,
+          "end": 1095
+        },
+        {
+          "start": 1177,
+          "end": 1183
+        }
+      ]
+    }
+  ]
+}

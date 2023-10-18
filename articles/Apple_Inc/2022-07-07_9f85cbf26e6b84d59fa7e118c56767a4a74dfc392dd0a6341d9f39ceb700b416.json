@@ -1,0 +1,68 @@
+{
+  "_id": "9f85cbf26e6b84d59fa7e118c56767a4a74dfc392dd0a6341d9f39ceb700b416",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Apple Plans Tool  To Boost Security  Against Spyware  ----  By Tim Higgins",
+  "text": "<p>    Apple Inc. is preparing a feature meant to secure its products against some of the world's most sophisticated spyware. </p><p>   The tool, dubbed Lockdown Mode, is intended for the small number of users targeted by spyware favored by state-sponsored hackers. When used, it will limit the abilities of apps, websites and features for security purposes. On an iPhone, for example, it will block most message attachments, as well as incoming FaceTime calls from people the user hasn't previously had a call with. </p><p>   Last November, Apple sued an Israeli cybersecurity company called NSO Group, alleging it had deployed malware and spyware products and services to target Apple products used by journalists, activists, academics and government officials. </p><p>   \"They permit attacks, including from sovereign governments that pay hundreds of millions of dollars to target and attack a tiny fraction of users with information of particular interest to NSO's customers,\" Apple said in the lawsuit, filed in the U.S. District Court for the Northern District of California. </p><p>   Weeks earlier, Apple had updated its software to fix a flaw that NSO had been exploiting to silently infect iPhones using iMessage, according to the Citizen Lab, an academic research group that discovered the issue. Citizen Lab described the matter as a \"zero click\" attack, a rare and dangerous kind of intrusion. Unlike typical hacks, they don't require a user to click on a link for a device to be infected. </p><p>   NSO has said that it provides intelligence and law-enforcement agencies around the world with tools for fighting terrorists and crime and that it has terminated contracts with governments that have abused its software. The company argued that Apple's lawsuit should be dismissed, in part, because it is immune from such lawsuits as an agent of foreign governments. </p><p>   NSO made a similar argument in a 2019 lawsuit brought by Meta Platforms Inc.'s WhatsApp, but a federal appeals court ruled that the immunity protections don't extend to foreign companies. The Supreme Court last month asked the U.S. Solicitor General to weigh in on the matter on behalf of the Biden administration. As that matter is reviewed, Apple's lawsuit has been put on hold. </p><p>   On Wednesday, NSO said it welcomed any solution that strengthens privacy and protects human rights. \"It is critical however that law enforcement agencies are allowed access to encrypted data that helps aid in investigations that result in the apprehension of criminals and thwart terrorists,\" it said.. </p><p>   Apple will soon begin rolling out the Lockdown feature for testing before wide release this fall in as part of its new operating systems for iPhones, iPad tablets and Mac computers. </p><p>   \"Lockdown Mode will reduce the attack surface and increase the costs for mercenary spyware companies, and thus make it much harder for repressive governments to hack high-risk users,\"said Citizen Lab Director Ron Deibert. </p><p>   Apple said it plans to strengthen the feature over time and pledged to reward researchers who find weaknesses within Lockdown Mode, offering bounties of up to $2 million for qualified issues. </p><p>   \"While the vast majority of users will never be the victims of highly targeted cyberattacks, we will work tirelessly to protect the small number of users who are,\" said Ivan Krstic, Apple's head of security engineering and architecture. </p><p></p>",
+  "published": "2022-07-07T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 515,
+          "end": 520
+        },
+        {
+          "start": 2505,
+          "end": 2510
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 1060,
+          "end": 1065
+        },
+        {
+          "start": 2164,
+          "end": 2169
+        },
+        {
+          "start": 2909,
+          "end": 2914
+        },
+        {
+          "start": 654,
+          "end": 659
+        },
+        {
+          "start": 944,
+          "end": 949
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 3283,
+          "end": 3288
+        },
+        {
+          "start": 12,
+          "end": 17
+        },
+        {
+          "start": 1699,
+          "end": 1704
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ]
+    }
+  ]
+}

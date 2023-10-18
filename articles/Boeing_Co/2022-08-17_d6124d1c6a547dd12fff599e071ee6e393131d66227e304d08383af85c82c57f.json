@@ -1,0 +1,30 @@
+{
+  "_id": "d6124d1c6a547dd12fff599e071ee6e393131d66227e304d08383af85c82c57f",
+  "feed": "reuters",
+  "title": "Harley-Davidson and union employees ratify bargaining agreement",
+  "text": "<p>The International Association of Machinists and Aerospace Workers (IAM), which represents 1,300 Harley workers and 2,500 Boeing employees, said in a statement that members' resilience had secured a better contract. Union employees voted unanimously to reject a tentative contract between Harley and IAM officials in June.</p><p>The union did not detail all changes in the contract, but said the agreement ended a two-tier wage system, in which Tier 2 workers were paid $5 per hour less than Tier 1 workers who were hired before 2010.</p><p>\"The solidarity paid off, and together the membership won the day, eliminating the two-tier wage system,\" Kermit Forbes, district representative for IAM, said in the statement.</p><p>Harley-Davidson was pleased with the outcome, a spokesman said on Wednesday.</p>",
+  "published": "2022-08-17T17:48:11.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999952,
+      "offsets": [
+        {
+          "start": 121,
+          "end": 127
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4594021,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.45940208,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

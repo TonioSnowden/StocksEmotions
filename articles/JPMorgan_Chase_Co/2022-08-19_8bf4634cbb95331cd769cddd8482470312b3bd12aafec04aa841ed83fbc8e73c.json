@@ -1,0 +1,58 @@
+{
+  "_id": "8bf4634cbb95331cd769cddd8482470312b3bd12aafec04aa841ed83fbc8e73c",
+  "feed": "wall-street-journal",
+  "title": "Biggest Banks Nearing $1 Billion Settlement Over Traders' Use of WhatsApp, Other Banned Messaging Apps; Federal regulators intend to levy the fines over alleged breach of rules that require retention of business records",
+  "text": "<p>The Securities and Exchange Commission and the Commodity Futures Trading Commission plan to announce the deals with the banks by Sept. 30, the end of the government's current fiscal year. That would put the penalties in the government's annual enforcement statistics.</p><p>Spokesmen for the SEC and CFTC declined to comment. Spokespeople for the banks declined to comment. A spokesman for UBS couldn't be reached.</p><p>The agencies' investigations examined how traders and brokers used encrypted apps such as WhatsApp to discuss investment terms, client meetings and other business. Under SEC and CFTC rules, brokerage firms are supposed to preserve and monitor their employees' written communications, which creates a paper trail for regulators who check compliance with investor-protection laws. Services such as WhatsApp and Signal give priority to privacy, and can be set up to automatically delete messages after a number of days or after a chat has been read.</p><p>Traders and brokers aren't supposed to use such products to conduct the firm's business. The practice became more common—and harder to detect—during the early stages of the pandemic, when employees switched to working entirely from home.</p><p>Regulators and compliance experts also worry that spreading a bank's business across personal and business devices raises the risk that hackers will find a way to steal lucrative commercial secrets, said Mark Berman, a regulatory consultant at CompliGlobe, which serves overseas companies that have to follow SEC rules. </p><p>The Securities and Exchange Commission is probing whether regulated money managers broke the same rules on preserving written communications. PHOTO: Ting Shen for The Wall Street Journal</p><p>Fines above $100 million are outliers in both Democrat and Republican administrations, generally only assessed against the biggest market participants and often based on claims of investor harm. The median fine ordered in the 2020 fiscal year, the last full year of the Trump administration, was $194,000.</p><p>The record-keeping enforcement initiative likely won't end with the big banks, some of the people said, because the SEC is now probing whether regulated money managers broke the same rules.</p><p>\"The fines are high to try to serve as a deterrent,\" Mr. Berman said. \"On the other hand, Democrats like to increase the amount of fines. In this case it is probably more of the former, because they have to send a really strong message.\"</p><p>The anticipated settlements are patterned on a deal that JPMorgan Chase &amp; Co.'s brokerage arm reached with the SEC and CFTC in December, the people said. J.P. Morgan Securities LLC paid $200 million--$125 million to the SEC and $75 million to the CFTC—over the breakdown in record-keeping diligence. The SEC said the failure was \"firm-wide, and involved employees at all levels of authority.\"</p><p>JPMorgan's policies prohibited the use of WhatsApp for business. But regulators identified over 100 people at J.P. Morgan Securities and tens of thousands of messages that weren't properly retained by the firm, according to the SEC's settlement order.</p><p>Bank of America, Morgan Stanley and Barclays have disclosed in the past month that they would pay $200 million, the same amount as JPMorgan, to resolve the investigations. Barclays said in a securities filing that regulators found its business units \"failed to comply with their respective record keeping and supervisory obligations, where such communications were sent or received by employees over electronic messaging channels that had not been approved by the bank for business use by employees.\"</p><p>Several other banks have disclosed they are negotiating with the SEC and CFTC to settle the probes but haven't said how much they would pay. Goldman Sachs, for instance, said this month it was \"in advanced discussions with the SEC and CFTC\" to resolve the investigations. A Goldman Sachs spokeswoman declined to comment.</p><p>The SEC's push for big fines has irked many defense lawyers and legal executives at the banks, according to people familiar with the negotiations. That's because the investigations don't allege any fraud or harm to clients.</p><p>SEC officials have said the practice of using personal-messaging apps was improper and undermined their ability to conduct investigations. In the JPMorgan settlement, the SEC said the bank didn't always search the personal devices of its employees when it responded to subpoenas and other requests for information.</p><p>Write to Dave Michaels at dave.michaels@wsj.com</p><p>Biggest Banks Nearing $1 Billion Settlement Over Traders' Use of WhatsApp, Other Banned Messaging Apps</p>",
+  "published": "2022-08-19T22:18:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9999877,
+      "offsets": [
+        {
+          "start": 4272,
+          "end": 4280
+        },
+        {
+          "start": 2807,
+          "end": 2815
+        },
+        {
+          "start": 2828,
+          "end": 2836
+        },
+        {
+          "start": 2938,
+          "end": 2949
+        },
+        {
+          "start": 2474,
+          "end": 2494
+        },
+        {
+          "start": 3188,
+          "end": 3196
+        },
+        {
+          "start": 3211,
+          "end": 3219
+        },
+        {
+          "start": 4241,
+          "end": 4249
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.22,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.7800002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

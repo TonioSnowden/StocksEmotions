@@ -1,0 +1,54 @@
+{
+  "_id": "a4119dcc1b4d23158f8af77ab07617324bed0a4dc43cee60ac86e46239525992",
+  "feed": "wall-street-journal",
+  "title": "Apple Will Keep Globalstar in Orbit; New emergency satellite service for iPhone 14 gives Globalstar capital support in 'transformational' deal",
+  "text": "<p>Globalstar confirmed in a filing Wednesday that it will be operating the service through a partnership with Apple. Under that agreement, Apple will cover 95% of the capital expenditures made by Globalstar to build up its network, including new satellites, to provide the service. It will require Globalstar to allocate 85% of its \"current and future network capacity\" to support the service, which analyst Mike Crawford of B. Riley describes as \"in one fell swoop converting an underutilized asset to a productive asset.\"</p><p>The deal will include service fees and potential bonus payments, allowing Globalstar to project total revenue in a range of $185 million to $230 million for next year and $250 million to $310 million for 2026, which is expected to be the first full year that all of the company's new satellites are operational. Even the low end of the near-term target would be a record high for the satellite-service provider, representing a gain of 44% above the annual revenue Globalstar has averaged for the past three years. Globalstar notably broke from the traditionally dry language of SEC filings to describe the deal as transformational.</p><p>The reality still seems to have cost Globalstar some altitude, with the stock sliding 19% on Thursday. Some of that might have been sparked by a tweet from Elon Musk, who claimed to have \"some promising conversations with Apple about Starlink connectivity.\" Starlink is a satellite service operated by Mr. Musk's SpaceX, which announced a deal last month with T-Mobile to launch a text-based service by the end of next year.</p><p>The limited nature of the Apple-Globalstar service might have cooled some enthusiasm. It is designed for emergency texting only, as opposed to providing a more typical smartphone experience in the wild. Apple noted at Wednesday's event that the phone would need to be pointed directly at a satellite to work, and that even light foliage could make such a text take a few minutes to send. Still, Globalstar's stock remains 17% above the price it was fetching in late August 2021, when rumors of a deal with Apple first surfaced.</p><p>That might still seem like lofty territory for what was once a financially distressed company operating in the high-risk satellite space. But the Apple deal becoming public should help Globalstar establish a stronger connection with investors. The company hasn't even hosted a quarterly earnings call since early 2020, which not coincidentally is when it first started describing in its filings a project with an unnamed customer to assess a \"potential service.\" Globalstar said Wednesday that it will host an in-person investor meeting in mid-November to provide additional details on its business and address questions.</p><p>Its timing is good, as more satellite-to-smartphone projects come to fruition. In addition to T-Mobile's venture with SpaceX, the Globalstar rival Iridium announced in July that it has entered a development agreement with an unnamed company for a smartphone service that it expects to complete by the end of the year. Ric Prentiss of Raymond James wrote Thursday that the total addressable market \"for satellite-smartphone off-the-grid connectivity is quite large with room for several initiatives globally.\"</p><p>iPhone 14 users might not be FaceTiming from the top of Kilimanjaro, but Apple has ensured Globalstar a place in the sky above.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Apple Will Keep Globalstar in Orbit</p>",
+  "published": "2022-09-09T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 108,
+          "end": 113
+        },
+        {
+          "start": 136,
+          "end": 141
+        },
+        {
+          "start": 1771,
+          "end": 1776
+        },
+        {
+          "start": 2073,
+          "end": 2078
+        },
+        {
+          "start": 2239,
+          "end": 2244
+        },
+        {
+          "start": 3291,
+          "end": 3296
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

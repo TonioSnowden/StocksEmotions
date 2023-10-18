@@ -1,0 +1,20 @@
+{
+  "_id": "479be4382688e79e09baa89f8d28e4178e88115e7a91b7708306053ec9c52795",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Rivian, the electric-vehicle startup, made its public-market debut, scoring a valuation that instantly made it a rival of traditional car makers.</p><p>Elon Musk sold about $1.1 billion in Tesla shares as he exercised just over 2 million stock options that he received as part of his compensation package.</p><p>Disney posted a significant slowdown in subscriber sign-ups at its flagship streaming service in the most recent quarter, ending two years of strong growth.</p><p>Zillow reached a deal to sell about 2,000 homes from its ill-fated house-flipping program as it starts unloading thousands of homes and terminates the business.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-11-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 300,
+          "end": 306
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

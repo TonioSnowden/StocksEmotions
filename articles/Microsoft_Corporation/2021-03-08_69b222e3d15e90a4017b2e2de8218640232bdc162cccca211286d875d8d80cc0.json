@@ -1,0 +1,72 @@
+{
+  "_id": "69b222e3d15e90a4017b2e2de8218640232bdc162cccca211286d875d8d80cc0",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Hack Hits Thousands of Email Customers  ----  By Robert McMillan and Dustin Volz",
+  "text": "<p>   A cyberattack on Microsoft Corp.'s Exchange email software is believed to have infected tens of thousands of businesses, government offices and schools in the U.S., according to people briefed on the matter. </p><p>   Many of those victims of the attack, which Microsoft has said was carried out by a network of suspected Chinese hackers, appear to be small businesses and state and local governments. Estimates of total world-wide victims were approximate and ranged broadly as of Friday. Tens of thousands of customers appear to have been affected, but that number could be larger, the people said. It could be higher than 250,000, one person said. </p><p>   While many of those affected likely hold little intelligence value due to the targets of the attack, it is likely to have netted high-value espionage targets as well, one of the people said. </p><p>   The hackers have been exploiting a series of four flaws in Microsoft's Exchange software to break into email accounts and read messages without authorization, and to install unauthorized software, the company said. Those flaws are known as zero days among cybersecurity professionals because they relied on previously undisclosed software bugs, suggesting a high degree of sophistication by the hackers. </p><p>   \"It was being used in a really stealthy manner to not raise any alarm bells,\" said Steven Adair, founder of the cybersecurity company Volexity Inc., one of the firms that Microsoft credited with reporting the issue. </p><p>   Microsoft publicized the attack Tuesday and identified the culprits as a Chinese cyberespionage group that it dubbed Hafnium. The company provided a software patch to users to fix the bugs. </p><p>   A few days before that happened, however, the hackers changed tactics. They abandoned stealth and began using automated software to scan the internet for vulnerable servers and infect them, Mr. Adair said. </p><p>   \"The attackers cranked up a huge notch over this past weekend,\" he said. \"They're just hitting every Exchange server they can find on the internet.\" </p><p>   A Microsoft spokesman said Friday the company was working with government agencies and security companies on mitigating the incident, but declined to comment on the scope of the attack. News of the attack's scope was reported earlier by the blogger Brian Krebs. </p><p>   For years, U.S. authorities have accused China of widespread hacking targeting American businesses and government agencies. China has denied these allegations. </p><p>   This latest attack follows a suspected Russian cyberattack, disclosed in December, on American government systems and businesses. But that attack, which broke into a networking-software provider called SolarWinds, was a surgical strike that hit about 100 companies and nine government agencies. By contrast, this latest incident was more of a shotgun blast, infecting tens of thousands of victims or more. </p><p>   Security experts familiar with the matter said among the concerns with this latest attack is that incident-response teams are already pushed to their limits handling that earlier, continuing problem. </p><p>   Microsoft has said the two attacks aren't related. </p><p>   This latest incident has prompted widespread concern within the Biden administration, as several government officials in recent days have sought to warn about its potential severity. The Cybersecurity and Infrastructure Security Agency issued a rare emergency directive last week requiring federal government agencies to immediately patch or disconnect products running Microsoft Exchange on-premises products. CISA held a call Friday with more than 4,000 critical infrastructure partners in the private sector and state and local governments encouraging them to patch their systems. </p><p>   Also on Friday, White House press secretary Jen Psaki told reporters during a news briefing that the Microsoft vulnerabilities were of significant concern and \"could have far-reaching impacts\" and result in a \"large number of victims.\" </p><p>   In an update to its alert, posted Thursday, CISA warned that hackers were using automated tools to scour the internet for vulnerable Exchange servers. </p><p>   Security company Symantec has identified a \"handful\"of hacking groups, all linked to China, behind these attacks, said Vikram Thakur, a security researcher at the firm. </p><p>   The victims have tended to be small and medium-size organizations because many larger ones either don't run some of the Exchange components that include these flaws or limit access to Exchange by using security tools such as virtual private networks, he said. </p><p>   Users of Microsoft's cloud-based Office 365 product are unaffected by the hack, the company said. </p><p>   Mandiant, another security firm, said in a blog post last week that it had witnessed multiple instances of Microsoft Exchange Server abuse dating to January. Detected victims of the attack include U.S.-based retailers, local governments, at least one university and an engineering firm, Mandiant said. </p><p></p>",
+  "published": "2021-03-08T07:03:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3025,
+          "end": 3034
+        },
+        {
+          "start": 251,
+          "end": 260
+        },
+        {
+          "start": 1999,
+          "end": 2008
+        },
+        {
+          "start": 17,
+          "end": 32
+        },
+        {
+          "start": 4485,
+          "end": 4494
+        },
+        {
+          "start": 891,
+          "end": 900
+        },
+        {
+          "start": 17,
+          "end": 26
+        },
+        {
+          "start": 3446,
+          "end": 3455
+        },
+        {
+          "start": 1452,
+          "end": 1461
+        },
+        {
+          "start": 3761,
+          "end": 3770
+        },
+        {
+          "start": 1407,
+          "end": 1416
+        },
+        {
+          "start": 4681,
+          "end": 4690
+        },
+        {
+          "start": 4485,
+          "end": 4496
+        },
+        {
+          "start": 891,
+          "end": 902
+        }
+      ]
+    }
+  ]
+}

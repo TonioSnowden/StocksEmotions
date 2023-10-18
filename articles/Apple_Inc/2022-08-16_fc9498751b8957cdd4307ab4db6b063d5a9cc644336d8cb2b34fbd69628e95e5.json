@@ -1,0 +1,34 @@
+{
+  "_id": "fc9498751b8957cdd4307ab4db6b063d5a9cc644336d8cb2b34fbd69628e95e5",
+  "feed": "wall-street-journal",
+  "title": "Text Messages, Once a Bulwark of Security, Now Seen as Vulnerable; Cyberattack on Twilio and a rise in hacks using text messages show technology's flaws",
+  "text": "<p>\"SMS was never designed to be a 2FA method,\" said Jamie Boote, associate principal consultant at cybersecurity company Synopsys Software Integrity Group. \"Originally, it was a maintenance communication channel between cell towers and phones. It only became a consumer-centric communications channel after users discovered they could send text messages to one another.\"</p><p>The widespread use of SMS as a security mechanism has also increased hackers' focus on compromising the technology, Mr. Boote said. Hackers also use SMS as an avenue to launch other attacks, he said. Common methods include phishing attacks by text message, known as smishing, and SIM-swapping, in which a cellphone is cloned, meaning attackers can read messages sent to a device.</p><p>In June, email security company Proofpoint Inc. published data drawn from its own customer deployments showing that smishing attempts in the U.S. had more than doubled in the past year.</p><p>On Monday, encrypted messaging provider Signal warned 1,900 users that their accounts had potentially been compromised and their phone numbers revealed. The attack occurred due to a breach earlier in the month at Twilio Inc., which Signal uses for phone number verification services, the nonprofit said.</p><p>Twilio said a number of its employees had been breached due to smishing, in which users were sent to fake websites to update their passwords. Hackers targeted specific users by matching their phone numbers and names, Twilio said in a statement.</p><p>Mobile security specialists say the best forms of protection for 2FA are security tokens such as those developed by the Fast Identity Online Alliance, or FIDO, a consortium including Apple Inc., Microsoft Corp. and Alphabet Inc.'s Google that is creating open security standards. The general lack of security in mobile phones means they are often easy targets for hackers without the added protection that more advanced security technologies such as those developed by FIDO provide, said Hank Schless, senior manager of security solutions at cyber company Lookout Inc.</p><p>\"While using text message authentication is better than nothing, it could give attackers access to the multifactor authentication code that is sent to the victim's device,\" he said. Hackers can access phones through malware or techniques such as SIM-swapping and wait for sensitive information such as MFA codes to be sent to a number.</p><p>Federal officials h ave stressed the implementation of multifactor authentication as a basic means of preventing opportunistic cyberattacks in recent months, despite acknowledging that users are often resistant to adding new steps to everyday tasks. Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency at the Department of Homeland Security, said that while efforts are under way to make authentication measures more seamless for the user, security efforts must take priority.</p><p>\"You've got people who may complain because it adds friction to the user experience, but what we really need to be thinking about is adding friction to the adversary experience,\" she said.</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-08-16T21:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1656,
+          "end": 1665
+        },
+        {
+          "start": 1667,
+          "end": 1677
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

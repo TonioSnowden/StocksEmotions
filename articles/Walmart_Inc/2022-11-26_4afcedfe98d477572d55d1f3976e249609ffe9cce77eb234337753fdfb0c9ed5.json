@@ -1,0 +1,20 @@
+{
+  "_id": "4afcedfe98d477572d55d1f3976e249609ffe9cce77eb234337753fdfb0c9ed5",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>---</p><p>The FCC voted to ban sales of new telecom and surveillance equipment made by several Chinese companies, arguing that their ownership and practices threaten U.S. national security.</p><p>---</p><p>The suspected shooter who killed six employees at a Walmart on Tuesday bought the gun legally that morning and left behind a note alleging he was harassed and ridiculed by co-workers, police said.</p><p>---</p><p>Netanyahu's Likud party signed a coalition deal with Ben-Gvir's Jewish Power party that gives the latter control of Israel's police ministry and a seat in the security cabinet.</p><p>---</p><p>Iran is deploying armored and special units along its western border to prevent the infiltration of Kurdish opposition groups based in Iraq, a top commander of the Revolutionary Guard said.</p>",
+  "published": "2022-11-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 240,
+          "end": 247
+        }
+      ]
+    }
+  ]
+}

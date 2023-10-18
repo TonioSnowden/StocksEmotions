@@ -1,0 +1,34 @@
+{
+  "_id": "c5b9b9123fd7eb609c27150c54b13cbbb34309d85f1cfd05d88962465d33012f",
+  "feed": "wall-street-journal",
+  "title": "Newell Brands Says Retailers Are Cutting Consumer-Goods Orders; The conglomerate scaled back its sales outlook, signaling retail supply chains are retrenching as they head into the fall",
+  "text": "<p>The consumer market has shifted dramatically this year, with high inflation cutting into spending and shoppers turning away from some goods in favor of travel and services. Retailers including Walmart Inc., Target Corp. and Macy's Inc. that pulled orders forward to get around supply-chain disruptions are discounting some goods, seeking to slough off excess inventories to off-price outlets and canceling orders with overseas suppliers.</p><p>The order cutbacks signal retail supply chains are retrenching as they head into the fall, when a series of shopping events, from back-to-school to end-of-the-year holidays, usually drive surges in shipping demand. This year, however, freight volumes are wavering, and shipping-industry data shows transportation prices are dropping because capacity now exceeds demand.</p><p>The Global Port Tracker report issued by the National Retail Federation and Hackett Associates said that import volumes into major U.S. ports fell 0.4% in July from the year-ago level, and the retail group projected that August container imports would be down 4.3% from August 2021.</p><p>\"Although we remain enthusiastic about the back-to-school season and continue to see solid growth in the commercial business, we have experienced a significantly greater-than-expected pullback in retailer orders and continued inflationary pressures on the consumer,\" Newell Brands Chief Executive Ravi Saligram said.</p><p>The company said it now expects to close the third quarter with net sales in the range of $2.21 billion to $2.32 billion, down from its previous guidance of $2.39 billion to $2.5 billion.</p><p>For 2022, Newell expects net sales in the range of $9.37 billion to $9.58 billion, also a drop from previous guidance of $9.76 billion to $9.98 billion, it said.</p><p>The new outlook would also represent a decline in sales when compared with year-ago periods, when it reported sales of $2.8 billion and $10.6 billion for the third quarter of 2021 and 2021 as a whole, respectively.</p><p>Last month, the company said it would spend more on upgrades to its supply chain this year to help lower shipping costs and mitigate pressures ranging from port congestion to production delays.</p><p>Newell shares were off about 0.8% in afternoon trading Wednesday at $16.93.</p><p>Write to Sabela Ojea at sabela.ojea@wsj.com</p><p>Newell Brands Says Retailers Are Cutting Consumer-Goods Orders</p>",
+  "published": "2022-09-07T17:07:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 193,
+          "end": 205
+        },
+        {
+          "start": 192,
+          "end": 203
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.255723,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.25572312,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

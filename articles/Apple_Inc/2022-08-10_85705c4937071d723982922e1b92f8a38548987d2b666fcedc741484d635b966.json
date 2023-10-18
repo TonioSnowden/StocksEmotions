@@ -1,0 +1,38 @@
+{
+  "_id": "85705c4937071d723982922e1b92f8a38548987d2b666fcedc741484d635b966",
+  "feed": "market-watch",
+  "title": "Disney to raise streaming prices while launching ad-supported tier, stock pops as subscriber total tops Netflix; Disney added more streaming subscribers than expected in the second quarter, as streaming rivals struggled for growth, and expects to launch new ad-supported service in U.S. before the end of the year",
+  "text": "<p>Shares initially moved more than 5% higher in after-hours trading.</p><p>Disney plans to launch an ad-supported Disney+ tier in the U.S. on Dec. 8, which will cost $7.99 a month, the same price Disney currently charges for the app with no ads; the non-ad version will increase to $10.99 a month, or $109.99 a year. Hulu's ad-supported tier will cost $7.99 a month as of Oct. 10, with a premium subscription moving to $14.99 a month. Previously announced changes to ESPN+ pricing will go into effect on Aug. 23.</p><p>\"With our new ad-supported Disney+ offering and an expanded lineup of plans across our entire streaming portfolio, we will be providing greater consumer choice at a variety of price points to cater to the diverse needs of our viewers and appeal to an even broader audience,\" Disney executive Kareem Daniel said in a news release detailing the pricing changes.</p><p>Disney posted fiscal third-quarter net income of $1.41 billion, or 77 cents a share, on sales of $21.5 billion, up from $17.02 billion a year ago. After adjusting for restructuring costs, amortization and other effects, the company reported earnings of $1.09 a share, compared with adjusted earnings of 80 cents a share a year ago. Analysts surveyed by FactSet had expected adjusted earnings of 97 cents a share on revenue of $20.99 billion.</p><p>Disney's performance in streaming comes at a time when inflation-weary consumers are scaling back on subscriptions and jumping from service to service, after an explosion in new Netflix Inc. NFLX streaming rivals from the likes of Apple Inc. AAPL, Warner Bros. Discovery Inc. WBD, Comcast Corp. CMCSA and Amazon.com Inc. AMZN Netflix reported a net loss of 970,000 paid subscribers in the second quarter, while analysts on average were forecasting a reduction of 2 million net additions. Warner Bros. Discovery reported a surprising second-quarter loss of $3.42 billion.</p><p>Disney's stock has tumbled 28% so far this year. The S&amp;P 500 Index SPX is down 12% and the Dow Jones Industrial Average DJIA, which counts Disney as a component, is off 9%.</p><p>Disney to raise streaming prices while launching ad-supported tier, stock pops as subscriber total tops Netflix</p>",
+  "published": "2022-08-10T20:23:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.98200005,
+      "offsets": [
+        {
+          "start": 1549,
+          "end": 1553
+        },
+        {
+          "start": 1530,
+          "end": 1539
+        },
+        {
+          "start": 1538,
+          "end": 1548
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.443519,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.55648136,
+        "tagPositionWeight": 4.7683716e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

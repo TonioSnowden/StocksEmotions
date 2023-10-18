@@ -1,0 +1,68 @@
+{
+  "_id": "0adde1d6e3d4afeb415a287e3f48d23a8ac17e721e426a943b1d607b953c2642",
+  "feed": "wall-street-journal",
+  "title": "Apple Steps Up  Focus on Privacy  ----  By Tim Higgins",
+  "text": "<p>   A year after angering software developers with new privacy features aimed at making it harder to track iPhone users' digital footprints, Apple Inc. on Monday doubled down with more changes that will roil the digital-advertising industry. </p><p>   Among the many updates to popular apps, such as Maps, Wallet and Weather, the Cupertino, Calif., technology company said it would introduce later this year additional features to help users control how their online data is used by third-parties. </p><p>   Those changes include allowing users to shut off the ability of marketers to see if and when an email is opened through Apple's Mail app -- which could have a large effect on campaigns from businesses and publishers -- and to hide IP address information to prevent tracking web usage on the Safari browser. </p><p>   Apple said premium iCloud users will be able to access the internet with a feature called Private Relay that would block network providers from using IP addresses and web usage to create a user profile for tracking. </p><p>   \"Privacy is more important than ever, because when you use the internet and third-party apps, you can be tracked by a complex ecosystem of data brokers and ad tech firms, often without your permission,\" said Craig Federighi, Apple senior vice president of software engineering. \"We don't think this is right. We believe in protecting your privacy and giving you transparency and control over your information.\" </p><p>   The effects could be dire for the digital ad industry's use of the iPhone. </p><p>   \"Looking longer term, they seem like a final blow to user-centric tracking, since ad tech mostly exists to serve that,\" said Eric Seufert, a strategist and consultant who worked with clients to react to some of Apple's privacy moves. </p><p>   Chief Executive Tim Cook kicked off the weeklong Worldwide Developers Conference with a virtual event streamed on the company's website that revealed software changes planned for this year. </p><p>   Included in the changes with the coming iOS 15 operating software, Apple said its texting system, iMessage, will offer new ways to share photos. Sound quality will be improved on its video calling software, FaceTime, and the company will allow it to be used on Android and Windows devices through their web browsers. There is also a new way to handle notifications on the iPhone, including getting summaries during the day and focusing on work or personal items. Wallet will allow users in participating states to add their driver's licenses. </p><p>   The annual conference comes on the heels of Apple's courtroom fight with \"Fortnite\" maker Epic Games Inc., which spotlighted the increasingly thorny relations some developers have with a company that controls access to the billion-plus iPhone users world-wide. </p><p>   The year of discontent began at last year's WWDC, when Apple said it planned to introduce new privacy tools, including one dubbed App Tracking Transparency, or ATT, in its iOS 14 mobile operating system. Developers, including Facebook Inc., complained that ATT would disrupt their ad businesses. In-app ads are often targeted at users based upon data about their activity online, which is collected by apps. Developers spent months puzzling out new strategies to deal with Apple's privacy-policy changes, which now require users to agree to being tracked. </p><p>   Mr. Cook has forcefully defended the change as a way to protect users' privacy and help them to control how their data is used. But in January, Facebook CEO Mark Zuckerberg said Apple had every incentive to \"use their dominant platform position to interfere with how our apps and other apps work.\" </p><p>   --- </p><p>   Jeff Horwitz contributed to this article. </p><p></p>",
+  "published": "2021-06-08T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 137,
+          "end": 146
+        },
+        {
+          "start": 2504,
+          "end": 2509
+        },
+        {
+          "start": 1984,
+          "end": 1989
+        },
+        {
+          "start": 3194,
+          "end": 3199
+        },
+        {
+          "start": 791,
+          "end": 796
+        },
+        {
+          "start": 2776,
+          "end": 2781
+        },
+        {
+          "start": 1704,
+          "end": 1709
+        },
+        {
+          "start": 1232,
+          "end": 1237
+        },
+        {
+          "start": 3455,
+          "end": 3460
+        },
+        {
+          "start": 137,
+          "end": 147
+        },
+        {
+          "start": 604,
+          "end": 609
+        },
+        {
+          "start": 137,
+          "end": 142
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_id": "e92b9468bad80a9e8aca99908f6891b2d44f344dfcbc0b80d0f21d842f7bf8cc",
+  "feed": "ftcomall",
+  "title": "Microsoft invests in Travis Kalanick's CloudKitchens start-up",
+  "text": "<p>Microsoft is the first US-based investor in Uber known to have backed CloudKitchens, the “dark kitchen” start-up run by the ride-hailing company's controversial co-founder Travis Kalanick, according to two people with knowledge of the investment. </p> <p>The investment was part of <a href=\"https://www.ft.com/stream/bbf8272c-9e67-42a9-96ed-6519861abf75\">CloudKitchens</a>' $850mn funding round that closed in November 2021, a combination of debt and equity that valued the Los Angeles-based company at $15bn, the people said. </p> <p>Since receiving the cash boost, CloudKitchens has been able to supercharge its growth globally, as <a href=\"https://www.ft.com/content/162460f3-5707-4857-9676-70aa1d9df203\">reported by the Financial Times</a> on Tuesday, with more than 4,000 employees across the US, Latin America, the UK and the Middle East. </p> <p>CloudKitchens buys or leases warehousing space, converting the premises into dark kitchens — units that can be rented by restaurant businesses to cook food to be sold via delivery apps such as DoorDash or Uber Eats. </p> <p>More recently, CloudKitchens has also started using surplus space in the facilities to store convenience goods, such as pet food or over-the-counter medicine.</p> <p><a href=\"https://www.ft.com/stream/4f447b5d-53f5-41bd-ab42-3c0cfc161699\">Microsoft</a>'s involvement follows its investment of about $100mn in Uber in 2015, when the ride-hailing service was valued at about $50bn. But the software company's decision to again support Kalanick, whose exit from Uber in 2017 was prompted by a series of ethical scandals and management failings, appears to set Microsoft apart from the other major Silicon Valley investors who last backed the entrepreneur. </p> <p>Four former employees told the FT that CloudKitchens suffered from many of the cultural issues that were found at Uber and was experiencing a high staff attrition rate as a result. One former senior figure, who had also previously worked at Uber, described CloudKitchens as “the most toxic place I've ever seen or experienced”. </p> <p>Another former employee said: “If they want to be a successful company, there needs to be a very big cultural change. People need to be valued as people within the company.” CloudKitchens declined to comment on its culture.</p> <p>The rationale behind Microsoft's interest in CloudKitchens, and the risk of associating with a figure as controversial as Kalanick, is not clear. </p> <p>Microsoft's investment could be part of a commercial agreement involving its Azure cloud computing business, a common arrangement in the industry. Several operators of dark kitchens use Microsoft's technology, including video monitoring of food prep and “internet of things” sensors, according to the software group's marketing materials, though CloudKitchens is not named among them. </p> <p>Microsoft and CloudKitchens declined to comment on the investment. Initial details of the round's existence were <a href=\"https://www.businessinsider.com/travis-kalanick-cloudkitchens-triples-valuation-to-15-billion-2021-11\">first reported</a> by Business Insider.</p> <p>Kalanick <a href=\"https://www.ft.com/content/174f2c66-4fc7-11e9-b401-8d9ef1626294\">bought out existing investors</a> in City Storage Systems, rebranding it as CloudKitchens and assuming the position of chief executive in 2018. By the end of 2019 he had sold off his entire stake in Uber, worth more than $2.5bn, and left the company's board. </p> <p>The windfall from Uber's success allowed Kalanick to largely self-finance <a href=\"https://www.ft.com/content/282a2382-304c-11e9-8744-e7016697f225\">his new kitchen empire</a> in its early years. In 2019, he attracted an additional $400mn in funding from Saudi Arabia's sovereign wealth fund, which had also been an investor in Uber. </p> <p>However, no other major Uber investors have disclosed any involvement in CloudKitchens. In 2017, several of Uber's biggest investors, including Silicon Valley venture capital firms Benchmark, First Round Capital and Menlo Ventures, signed a letter demanding Kalanick's removal as chief executive. </p> <p>After his bruising exit from Uber, Kalanick has fought to keep his latest venture out of the media spotlight. Unlike most start-ups, he has not announced big investments and even urges staff to keep CloudKitchens off their LinkedIn profiles. </p> <p>As well as Microsoft, investment management group King Street Capital was involved in CloudKitchens' November financing, two people with knowledge of the round said. King Street declined to comment. </p> <p>The round coincided with the hiring of former Amazon executive John Curran as chief financial officer. </p><p>Source: Dave Lee in San Francisco and Tim Bradshaw in London 2022 'Microsoft invests in Travis Kalanick's CloudKitchens start-up' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T04:00:28.251Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99999976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 1044,
+          "end": 1053
+        },
+        {
+          "start": 1357,
+          "end": 1366
+        },
+        {
+          "start": 2021,
+          "end": 2030
+        },
+        {
+          "start": 2145,
+          "end": 2154
+        },
+        {
+          "start": 2330,
+          "end": 2339
+        },
+        {
+          "start": 2528,
+          "end": 2537
+        },
+        {
+          "start": 3736,
+          "end": 3745
+        },
+        {
+          "start": 3760,
+          "end": 3769
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

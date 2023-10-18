@@ -1,0 +1,20 @@
+{
+  "_id": "946043ab2be2f71be3ee5f3bb8611c4e46b7dbac8d27cdd22d904d9c4d8f2362",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: New Cases Continue To Edge Higher",
+  "text": "<p>The seven-day average, which helps smooth out differences in data reporting, was 71,234 on Tuesday, while the 14-day average was 67,915, according to a Wall Street Journal analysis of Johns Hopkins data. When the seven-day average is higher than the 14-day average, it indicates cases are rising.</p><p>The country reported 913 Covid-19 fatalities for Tuesday, bringing the total death toll to more than 563,400, according to Johns Hopkins data.</p><p>U.S. health authorities on Tuesday recommended a pause in the use of Johnson &amp; Johnson's Covid-19 vaccine to investigate rare but severe cases of blood clots.</p>",
+  "published": "2021-04-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 509,
+          "end": 526
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

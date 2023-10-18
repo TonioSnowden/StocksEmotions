@@ -1,0 +1,20 @@
+{
+  "_id": "4e6a733d43e9addc861049113caa8b3c62a570583ef01b02ef0ff319e3b4efbe",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Hyundai Motor said that it plans to build a $5.5 billion manufacturing complex in Georgia dedicated to making electric vehicles.</p><p>Boeing's Starliner spacecraft successfully docked with the International Space Station, an important milestone on a test mission where the vehicle faced some technical issues.</p><p>A Wells Fargo unit agreed to pay $7 million in a settlement with the SEC after alleged glitches in a new anti-money-laundering system let suspicious transactions escape initial notice.</p><p>Prosecutors rested their case against Ramesh \"Sunny\" Balwani at the former Theranos executive's fraud trial.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-05-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 129,
+          "end": 135
+        }
+      ]
+    }
+  ]
+}

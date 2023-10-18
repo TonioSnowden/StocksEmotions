@@ -1,0 +1,41 @@
+{
+  "_id": "b096d5e704689ce647bd5e8595826d78b7ae7e07257808597783f059124110ba",
+  "feed": "reuters",
+  "title": "BRIEF-Spirit Aerosystems Holdings Inc Says Spirit Does Not Buy Parts Or Services Directly From Manufacturing Process Specification Srl",
+  "text": "<p>* SPIRIT AEROSYSTEMS SAYS UPON RECEIPT OF INFORMATION FROM BOEING IDENTIFYING PARTS FROM SUB-TIER SUPPLIERS WHICH USED MPS, SPIRIT TOOK APPROPRIATE ACTION</p><p>* SPIRIT AEROSYSTEMS - SPIRIT WORKED WITH BOEING THROUGHOUT THE PROCESS AND HAS ONLY SHIPPED PARTS APPROVED BY BOEING THROUGHOUT THE PROCESS AND HAS ONLY SHIPPED PARTS APPROVED BY</p><p>* SPIRIT AEROSYSTEMS - FROM MARCH-JULY 2021, BOEING COMMUNICATED TO SUPPLY CHAIN ABOUT POSSIBLE FLAWED PARTS, DATING BACK TO 2017 FROM MANUFACTURING PROCESS SPECIFICATION SRL Further company coverage:</p>",
+  "published": "2021-10-15T17:36:04.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 59,
+          "end": 65
+        },
+        {
+          "start": 266,
+          "end": 272
+        },
+        {
+          "start": 197,
+          "end": 203
+        },
+        {
+          "start": 380,
+          "end": 386
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.7132697,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7132697,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

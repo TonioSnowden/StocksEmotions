@@ -1,0 +1,30 @@
+{
+  "_id": "94d0eae4d3cf85626718b0016c815e511bc2f520053fa3eaeef410440f982f99",
+  "feed": "reuters",
+  "title": "Starbucks misses comparable sales estimates on China COVID curbs",
+  "text": "<p>The country's strict lockdown measures to meet its zero-COVID policy have upended operations of most global companies that have a significant presence in the Chinese market, including Apple , Gucci-parent Kering and Taco Bell -owner Yum China .</p><p>Global comparable sales at Starbucks , which recently brought back former Chief Executive Officer Howard Schultz to lead the company at a time when workers at many coffee houses are unionizing, rose 7% in the second quarter, while analysts polled by Refinitiv had expected 7.1% growth.</p>",
+  "published": "2022-05-03T20:07:05.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9998508,
+      "offsets": [
+        {
+          "start": 184,
+          "end": 189
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.2741026,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.27410257,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

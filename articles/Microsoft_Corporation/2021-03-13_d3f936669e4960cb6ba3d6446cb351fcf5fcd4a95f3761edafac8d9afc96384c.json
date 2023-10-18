@@ -1,0 +1,92 @@
+{
+  "_id": "d3f936669e4960cb6ba3d6446cb351fcf5fcd4a95f3761edafac8d9afc96384c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Microsoft Seeks Hack Origins  ----  By Robert McMillan and Dustin Volz",
+  "text": "<p>   Microsoft Corp. is investigating whether the hackers behind a world-wide cyberattack may have obtained sensitive information necessary to launch the attack from private disclosures it made with some of its security partners, according to people familiar with the matter. </p><p>   The investigation centers in part on the question of how a stealthy attack that began in early January picked up steam in the week before the company was able to send a software fix to customers. In that time, a handful of China-linked hacking groups obtained the tools that allowed them to launch wide-ranging cyberattacks that have now infected computers all over the world running Microsoft's Exchange email software. </p><p>   Investigators have focused on whether a Microsoft partner with whom it shared information about the bug hackers were exploiting leaked it to other groups, either inadvertently or on purpose, the people said. </p><p>   Some of the tools used in the second wave of the attack, which is believed to have begun on Feb. 28, bear similarities to \"proof of concept\" attack code that Microsoft distributed to antivirus companies and other security partners on Feb. 23, investigators at security companies say. Microsoft had planned to release its security fixes two weeks later, on March 9, but after the second wave began it pushed out the patches a week early, on March 2, according to researchers. </p><p>   Microsoft and others have been reviewing an information-sharing program called the Microsoft Active Protections Program, or Mapp, which was created in 2008 to give security companies a head start in detecting emerging threats. Mapp includes about 80 security companies world-wide, about 10 of which are based in China. A subset of the Mapp partners were sent the Feb. 23 Microsoft notification, which included the proof-of-concept code, according to people familiar with the program. A Microsoft spokesman declined to say whether any Chinese companies were included in this release. </p><p>   How the hackers obtained the tools is important to Microsoft and others scrambling to assess the damage of the historically large cyberattack, which has allowed other hacking groups to capitalize on the vulnerabilities for their own purposes. Microsoft said this week it had spotted ransomware, or malicious software that locks up its victims' computers until they pay the hackers, being used to target networks that hadn't yet been patched. Because many of the targeted organizations are small businesses, schools and local governments, security experts said they could be especially exposed to debilitating attacks. </p><p>   Biden administration officials have described the problem in dire terms over the past week, urging organizations to immediately patch their systems. No federal systems are currently known to have been compromised, though officials are still probing possible exposure. The administration has created an interagency cybersecurity coordination group focused on the hack, a National Security Council spokeswoman said. </p><p>   A Microsoft spokesman said the company has seen \"no indications\" of a leak from inside the company. The people with whom it shared the security information in February, known as Mapp Validate Partners, are longtime partners that have the breadth and size to test and detect vulnerabilities, he said. </p><p>   The spokesman said there would be consequences if the Mapp partnership was abused. \"If it turns out that a Mapp partner was the source of a leak, they would face consequences for breaking the terms of participation in the program,\" he said via email. </p><p>   In 2012, Microsoft ejected a Chinese company, Hangzhou DPTech Technologies Co., from Mapp after determining it had leaked proof-of-concept code that could be used in an attack and that code appeared on a Chinese website. </p><p>   Although Microsoft's investigation has reached no conclusion, investigators are looking at whether information contained in a Feb. 23 notice to a select group of security companies may have made its way to the attackers, the people said. </p><p>   Microsoft released its information weeks in advance of the patch to the Mapp Validate Partners on Feb. 23, saying that it expected to patch the Exchange bugs on March 9, according to people familiar with the Mapp communications. </p><p>   But four days after this notification -- on Feb. 27 -- the China-linked hackers began scanning the internet for servers that contained the Exchange flaws. </p><p></p>",
+  "published": "2021-03-13T07:15:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 655,
+          "end": 666
+        },
+        {
+          "start": 3550,
+          "end": 3559
+        },
+        {
+          "start": 1746,
+          "end": 1755
+        },
+        {
+          "start": 1861,
+          "end": 1870
+        },
+        {
+          "start": 1375,
+          "end": 1384
+        },
+        {
+          "start": 3771,
+          "end": 3782
+        },
+        {
+          "start": 2201,
+          "end": 2210
+        },
+        {
+          "start": 2992,
+          "end": 3001
+        },
+        {
+          "start": 1458,
+          "end": 1467
+        },
+        {
+          "start": 2009,
+          "end": 2018
+        },
+        {
+          "start": 4000,
+          "end": 4009
+        },
+        {
+          "start": 1184,
+          "end": 1193
+        },
+        {
+          "start": 655,
+          "end": 664
+        },
+        {
+          "start": 1058,
+          "end": 1067
+        },
+        {
+          "start": 732,
+          "end": 741
+        },
+        {
+          "start": 11,
+          "end": 20
+        },
+        {
+          "start": 3771,
+          "end": 3780
+        },
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

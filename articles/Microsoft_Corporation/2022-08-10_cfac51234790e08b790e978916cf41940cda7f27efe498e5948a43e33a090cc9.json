@@ -1,0 +1,38 @@
+{
+  "_id": "cfac51234790e08b790e978916cf41940cda7f27efe498e5948a43e33a090cc9",
+  "feed": "wall-street-journal",
+  "title": "Videogame Buyers Hit Pause --- Sales growth slows as stay-home habits change; number of big-hit releases drops",
+  "text": "<p>Activision Blizzard Inc. -- which is in the process of being acquired by Microsoft Corp. for around $75 billion -- said last week that its sales and net income fell in the quarter ended June 30, while Electronic Arts Inc. and Take-Two Interactive Software Inc. each reported slower revenue growth compared with a year ago.</p><p>\"The new normal is better than prepandemic, but it's also softer than we would've liked,\" Take-Two Chief Executive Strauss Zelnick said in an interview on Monday. \"It's a slower year.\"</p><p>In addition to economic factors such as inflation, Mr. Zelnick cited his company's recent retreat from Russia for what he described as \"good but not fantastic\" June quarter results. \"That business is now gone,\" he said, adding that Take-Two's newest acquisition, mobile game developer Zynga Inc., had a significant business in Russia.</p><p>Console makers Microsoft and Sony Group Corp. said their videogaming revenue declined in the three months through June. Nintendo Co. reported a drop in net sales and operating profit for the quarter.</p><p>Roblox Corp. said Tuesday it also experienced a slowdown last quarter, with revenue growth decelerating to 30%, down from 39% growth in the previous quarter and 80% growth the quarter before that. Its shares fell more than 10% in after-hours trading.</p><p>Still, Roblox Chief Executive David Baszucki told The Wall Street Journal he was pleased with the results and optimistic about the future, as the company estimates its July bookings were up 8% to 10% from a year earlier after having been flat to negative every other month this year.</p><p>Game companies are facing a tough comparison with a year ago, now that people are traveling, going to concerts and engaging in other activities they couldn't do during the pandemic, said KeyBanc analyst Tyler Parker. \"There's been a big shift toward more experiential spending,\" he said.</p><p>Overall, U.S. videogame-industry sales fell 13% in the second quarter to $12.35 billion from a year earlier, after falling 8% in the first quarter, according to NPD Group and Sensor Tower. For the full year, the market-research firms expect sales to decline 8.7% to $55.5 billion, the first annual decline since 2016.</p><p>\"We're confident in our core franchises,\" Electronic Arts CEO Andrew Wilson said on a call with analysts last week. \"But we are seeing kind of a macro slowdown.\"</p><p>Globally, consumer spending on videogame software is expected to grow 2.1% this year, down from 7.6% in 2021 and 24.6% in 2020, according to estimates from Newzoo BV.</p><p>The number of people who play videogames worldwide is expected to grow 4.6% this year to reach 3.2 billion, the game-industry tracker said.</p><p>The industry has also been hurt by a recent lull in the number of hit games.</p><p>\"There are not a lot of big new releases right now to juice numbers,\" said MKM Partners analyst Eric Handler. \"When you're in a creative business like this, there's always going to be some ebbs and flows.\"</p><p>The most recent Call of Duty and Battlefield games, launched last holiday season by Activision and Electronic Arts, respectively, didn't resonate with players as well as past installments, the companies said. Take-Two didn't put out a major new game in late 2021 as it had in previous years.</p><p>Still, Mr. Handler is optimistic now that more people are playing videogames than before the pandemic and a more robust slate of new releases is coming. \"I expect next year we'll see revenue accelerate,\" Mr. Handler said.</p>",
+  "published": "2022-08-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 73,
+          "end": 88
+        },
+        {
+          "start": 858,
+          "end": 867
+        },
+        {
+          "start": 853,
+          "end": 862
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.9717321,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.6786573,
+        "tagPositionWeight": 0.65038943,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

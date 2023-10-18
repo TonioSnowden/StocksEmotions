@@ -1,0 +1,20 @@
+{
+  "_id": "69fe35694448ca2adf13a7f01f8283ba1f2b013ffd01c6c77c9dd12194c35fa0",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>---</p><p>A leading theory in the probe of a cyberattack on Microsoft email software is that suspected Chinese hackers mined troves of personal information acquired beforehand to carry it out.</p><p>---</p><p>Biden plans to unveil new gun restrictions, including on so-called ghost guns, and will nominate a gun-control advocate to head the ATF.</p><p>---</p><p>McConnell backed off his warning that businesses should stay away from politics but reiterated frustration with some firms' criticism of Republican-led efforts to pass new election laws.</p><p>---</p><p>Lawyers in the Chauvin trial offered warring interpretations of a garbled clip of George Floyd talking about drugs, as they presented alternate theories as to the cause of his death.</p><p>---</p><p>An aide to New York Gov. Cuomo described more alleged instances of sexual harassment of her by the governor.</p>",
+  "published": "2021-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 54,
+          "end": 63
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

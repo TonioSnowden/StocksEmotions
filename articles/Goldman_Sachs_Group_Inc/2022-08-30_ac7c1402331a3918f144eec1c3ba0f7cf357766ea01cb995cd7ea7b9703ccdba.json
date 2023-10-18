@@ -1,0 +1,38 @@
+{
+  "_id": "ac7c1402331a3918f144eec1c3ba0f7cf357766ea01cb995cd7ea7b9703ccdba",
+  "feed": "ftcomall",
+  "title": "Morgan Stanley orders internal lawyer to supervise block trading desk",
+  "text": "<p>Morgan Stanley has ordered an internal lawyer to shadow the unit entangled in a federal investigation into block trading, underscoring the gravity of the probe and the steps the lender is taking to beef up supervision.</p> <p>The Wall Street bank has embedded one of its lawyers to sit on its US equity syndicate desk to supervise bankers and answer their legal questions, according to people briefed on the arrangement. </p> <p>The decision to install the lawyer was made after <a href=\"https://www.ft.com/stream/4169dc7c-0429-4bb6-855f-9cfb4353606b\">Morgan Stanley</a> placed Pawan Passi, head of the US equity syndicate desk, on leave last year, the people added.</p> <p>It is the latest example of the fallout from the investigations by the Department of Justice and Securities and Exchange Commission into <a href=\"https://www.ft.com/content/1d14c8bf-d6fd-4cb0-b654-9dfdc4254bc1\">Morgan Stanley's block trading business</a>, which gathered momentum after the collapse last year of Bill Hwang's Archegos Capital Management. </p> <p>Block trades are bulk sales of shares executed by an investment bank, normally for a client, which tend to be big enough to move markets. <a href=\"https://www.ft.com/content/da23c81e-b6cd-4026-9eef-ff9116dddd8e\">US authorities are investigating</a> whether investors obtained advance warning of any trades.</p> <p>Heightened scrutiny of block trading has emerged as one of the main legal risks faced by Wall Street groups, alongside a separate investigation into bankers' use of personal mobile phones to communicate with clients and counterparties. </p> <p>Morgan Stanley last week placed a second member of the equity syndicate desk, Charles Leisure, on leave, according to people familiar with the matter. Leisure's leave was first reported on Friday by Bloomberg. Neither Passi nor Leisure have been accused of any wrongdoing. The bank has not confirmed that either employee is on leave. </p> <p>Morgan Stanley declined to comment. Passi did not respond to a request for comment. An email to Leisure's Morgan Stanley account generated an automatic reply saying he was out of the office and would not be reviewing emails. </p> <p>The people briefed on the arrangement said the decision to place the lawyer on the desk reflected a more conservative approach by Morgan Stanley in engaging with buyers of block trades, which are typically hedge funds.</p> <p>This has included becoming more cautious about receiving inquiries of interest from hedge funds about potential block trades coming to market, as well as the language bankers use to test investor appetite for such trades, the people said. </p> <p>When executing block trades, bankers will typically speak with potential buyers to gauge demand, sometimes sharing details of the trade under a non-disclosure agreement and other times using generic terms designed to mask the company involved.</p> <p>Banks have periodically embedded lawyers on their trading desk when they have been under government scrutiny. In the aftermath of the 2008 financial crisis, Morgan Stanley adopted the arrangement on its structured products desk, which was responsible for trading the pools of mortgage-backed securities that became notorious during the subprime housing meltdown. </p> <p>In addition to the US government investigations, Morgan Stanley has also warned it <a href=\"https://www.ft.com/content/495adfa7-daa9-4d25-86ba-0faca83c9296\">faces private lawsuits</a> over allegations the bank caused share prices to fall before executing block trades. </p> <p>The SEC has been looking into Morgan Stanley's block trading business since 2019, while the DoJ opened an inquiry in 2021. The SEC has also sought information from other banks, including Goldman Sachs, pertaining to their communication with a wide range of buyers, including hedge funds.</p><p>Source: Joshua Franklin and Ortenca Aliaj in New York  2022 'Morgan Stanley orders internal lawyer to supervise block trading desk' FT.com 30 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-30T04:00:09.077Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 3318,
+          "end": 3331
+        },
+        {
+          "start": 3318,
+          "end": 3325
+        },
+        {
+          "start": 3297,
+          "end": 3310
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

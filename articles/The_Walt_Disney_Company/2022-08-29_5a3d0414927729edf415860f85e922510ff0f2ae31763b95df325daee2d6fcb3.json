@@ -1,0 +1,58 @@
+{
+  "_id": "5a3d0414927729edf415860f85e922510ff0f2ae31763b95df325daee2d6fcb3",
+  "feed": "wall-street-journal",
+  "title": "Business News: Disney Wins One After Losing One in India Cricket Bidding Wars",
+  "text": "<p>Financial terms weren't disclosed, but the single-round, sealed-bid process \"yielded a significant uplift to the rights fee from the previous cycle,\" the ICC said. The tender, bidding and evaluation process started in June. The ICC is cricket's world governing body.</p><p>In June, Disney lost five years of the streaming rights for the Indian Premier League, the nation's most popular cricket league, which features shorter, more TV-friendly matches than other competitions. The winning bid of $2.6 billion for IPL came from Viacom18, a joint venture between Paramount Global, Indian billionaire Mukesh Ambani's Reliance Industries Ltd. and others.</p><p>Disney this month lowered its forecast for future user growth of streaming platform Disney+, partly because it missed out on the rights to stream the Indian Premier League.</p><p>Cricket broadcasts are a major lure for India's sizable population of potential streaming subscribers, and entertainment streaming companies like Disney are under pressure to add customers beyond the U.S. as growth has slowed domestically. The company has said cricket matches are an important driver of international subscriptions.</p><p>K Madhavan, Disney Star's India country manager and president, said in a statement that with the acquisition, \"Disney Star has further strengthened its status as the premier destination for marquee cricket events in the country.\"</p>",
+  "published": "2022-08-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999425,
+      "offsets": [
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 273,
+          "end": 279
+        },
+        {
+          "start": 276,
+          "end": 282
+        },
+        {
+          "start": 639,
+          "end": 645
+        },
+        {
+          "start": 723,
+          "end": 730
+        },
+        {
+          "start": 728,
+          "end": 735
+        },
+        {
+          "start": 957,
+          "end": 963
+        },
+        {
+          "start": 963,
+          "end": 969
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.92514,
+        "baseWeight": 8.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.92514026,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "fe018be4555e0691cbab8af03f5ef9940af3ffafbbd8a4d7c8a64ae577312498",
+  "feed": "wall-street-journal",
+  "title": "Executive Managed Seminal Computer System at IBM; Frederick P. Brooks Jr., who died at 91, started the computer-science department at the University of North Carolina",
+  "text": "<p>Dr. Brooks died Nov. 17 at his home in Chapel Hill, N.C., after his health had declined in recent years. He was 91 years old.</p><p>IBM's 360 software program was the largest software-development project in the computer industry during the early 1960s, Dr. Brooks' colleagues said. Some of the system's architecture later became ubiquitous throughout the industry, including the eight-bit byte that Dr. Brooks selected over competing options. The decision permitted upper and lower letters and special symbols to be stored in one byte, allowing for word processing and numerical calculations to be performed on the same computer. At that time, word and numerical functions typically required separate computers.</p><p>\"Of all my technical accomplishments, making the eight-bit byte decision is by far the most important,\" Dr. Brooks said in the 2007 interview with the U.K.-based Computer History Museum.</p><p>At the height of the 360 project's development, Dr. Brooks managed 1,000 people from IBM's Poughkeepsie, N.Y., plant. Dr. Brooks said later in interviews that before the project was completed in 1964 he had contemplated leaving IBM, where he had worked since earning a Ph.D. in applied mathematics at Harvard University in 1956. He had been eyeing a move to academia for years, and for a time tried living on just his wife Nancy's salary at IBM to get used to the reduced income he expected as a college professor. The couple met at Harvard and married just before starting their jobs at IBM.</p><p>Nancy Brooks, who survives her husband, was hired as a physicist for IBM's first transistorized computer, known as Project Stretch. The couple eventually had three children.</p><p>In 1963, Dr. Brooks accepted University of North Carolina administrators' offer to found a computer-science department that colleagues said was one of the first in the country, and he later served as the department's chairman. During a lunch meeting called by IBM's then-CEO Thomas Watson Jr. to change his mind about leaving the company, Dr. Brooks recalled Mr. Watson's bewilderment at his wanting to leave just as his career as one of the company's top program managers was taking off.</p><p>\"I said, 'I like to make things,'\" said Dr. Brooks during the computer museum interview. \"And he said, 'I do too.'\"</p><p>Dr. Brooks agreed to stay at IBM through 1964 to complete the work on the 360 software. Mr. Watson sent another IBM executive to North Carolina to teach Dr. Brooks' computer classes in his absence.</p><p>For Dr. Brooks, the move to North Carolina reunited him with his family and his educational roots. He was born in Durham, N.C., on April 19, 1931, and grew up in Greenville, N.C., where his father was a physician. The oldest of three boys in the family, Dr. Brooks said in interviews that he became interested in business machines and filing systems at an early age, particularly after reading in the 1940s a Time magazine article about the first programmable computer. He earned a bachelor's degree in physics at Duke University in Durham in 1953.</p><p>When Dr. Brooks arrived at the Chapel Hill campus permanently in 1965 he started building the computer-science department from scratch with a small staff and an emphasis on collaboration with the rest of the university.</p><p>He was a devout Christian with a polite, dignified personality that often masked a sly sense of humor that colleagues said was sharpened by years of toiling in corporate and university bureaucracies.</p><p>Dr. Brooks became interested in computer graphics and started doing research on three-dimensional interactive graphics. Dr. Brooks' colleagues said UNC pioneered the use of computer-based modeling of the molecular structure of proteins in the early 1970s. That eliminated the need for using little metal balls to hand-make models of complex amino-acid chains.</p><p>\"One of the things he always said was he wanted computers to amplify human intelligence,\" said Mary Whitton, research professor emerita, who was Dr. Brooks's chief collaborator in virtual-reality research for 20 years.</p><p>Dr. Brooks became a prolific writer of papers, essays and books about computer technology and the industry. He published \"The Mythical Man-Month: Essays of Software Engineering\" in 1975. The book examined his attempts at boosting productivity and keeping the 360 software program on schedule at IBM, including his failed assumptions that reassigning foundering projects or adding more manpower to them would bring wayward efforts back on schedule.</p><p>Dr. Brooks stepped down as chairman of the UNC computer-science department in 1984 but stayed on as a professor in the department until 2005 when he retired. He remained on the faculty part time for another 10 years.</p><p>Dr. Brooks said in a 2020 interview that his academic mentor at Duke, physics Prof. Harold Lewis, encouraged him to enroll in Harvard with a prophetic prediction about the trajectory of his career in computer science.</p><p>\"He said 'Fred, you're too young to get in on the ground floor, but you can catch the first landing,'\" said Dr. Brooks during a 2020 interview with the Association for Computing Machinery. \"That described my career pretty well. I did catch the first landing.\"</p><p>Write to Bob Tita at robert.tita@wsj.com</p><p>Executive Managed Seminal Computer System at IBM</p>",
+  "published": "2022-11-25T16:14:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 45,
+          "end": 48
+        },
+        {
+          "start": 1555,
+          "end": 1558
+        },
+        {
+          "start": 1481,
+          "end": 1484
+        },
+        {
+          "start": 2294,
+          "end": 2297
+        },
+        {
+          "start": 126,
+          "end": 129
+        },
+        {
+          "start": 1920,
+          "end": 1923
+        },
+        {
+          "start": 5240,
+          "end": 5243
+        },
+        {
+          "start": 1334,
+          "end": 1337
+        },
+        {
+          "start": 978,
+          "end": 981
+        },
+        {
+          "start": 4306,
+          "end": 4309
+        },
+        {
+          "start": 1121,
+          "end": 1124
+        },
+        {
+          "start": 2377,
+          "end": 2380
+        }
+      ]
+    }
+  ]
+}

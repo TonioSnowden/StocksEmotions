@@ -1,0 +1,30 @@
+{
+  "_id": "a02aa8150d6d31f70ff546b274261af95a7ee5991c50575cfe8a39eabca8f41b",
+  "feed": "ftcomall",
+  "title": "European banks restart Russian bond trading as US clients wind down",
+  "text": "<p>European banks have joined Wall Street in allowing clients to trade Russian debt once again after the US Treasury gave the green light last month for investors to wind down their positions.</p> <p>The global market for Russian sovereign and corporate bonds <a href=\"https://www.ft.com/content/7d4c53b9-3424-4abe-a8eb-179d7328ad5a\">froze</a> in June after US investors were banned from buying Russian securities on the secondary market as part of the west's sanctions against Moscow following its invasion of Ukraine. </p> <p>But the Treasury's Office of Foreign Assets Control (Ofac) — which enforces sanctions in the US — opened a three-month window on July 22 for banks to help investors who had been left holding Russian bonds to wind down their positions. European regulators have also made it easier for banks to help clients reduce their exposure.</p> <p>UBS, Barclays and Deutsche Bank have all resumed allowing clients to sell their Russian debt holdings, in line with similar moves from JPMorgan Chase, Bank of America, Jefferies and Citigroup, according to people briefed on their decisions. The Wall Street bank moves were first reported by Reuters and Bloomberg.</p> <p>Other banks, including Credit Suisse and HSBC, have so far held back from re-entering the Russian debt market owing to their lower risk tolerance, according to people with knowledge of their activities.</p> <p>Almost $40bn of Russian sovereign debt was outstanding when Moscow began its invasion of Ukraine in February, with about half held by foreign investors.</p> <p>The Ofac licence allows banks to facilitate, clear and settle trades made by US citizens to wind down their Russian exposure, even if that involves buying further securities.</p> <p>While each bank's exposure to Russia is relatively small, the resumption of debt trading is symbolic as it is one of the few key international markets that has reopened since Moscow was hit by a barrage of western sanctions.</p> <p>All the banks declined to comment, but people briefed on their moves said the decisions were not motivated by trying to profit from the market reopening but were about allowing clients to wind down their exposure in accordance with sanctions rules.</p> <p>“This is chiefly for clients who continue to want to unwind,” said one employee of a bank that has restarted Russian debt trading. “The volumes aren't that remarkable.”</p> <p>Western banks had been helping their clients cut back their exposure to Russia following the start of the war, but bonds proved hard to shift because of a lack of buyers leading to falling values.</p> <p>Several banks have also been attempting to sell off their operations in Russia. </p> <p>French lender Société Générale took a €3.3bn hit when it <a href=\"https://www.ft.com/content/21b64f70-e71e-47d7-bf24-ad90dfa6a854\">agreed to sell</a> its Russian Rosbank subsidiary to oligarch Vladimir Potanin's Interros investment company in April.</p> <p>HSBC has agreed to sell its Russian subsidiary to Expobank, while <a href=\"https://www.ft.com/content/d8853759-418b-41d1-99d5-5165a0342244\">Citi has been in talks</a> with several potential buyers, including Expobank and insurance company Reso-Garantia, the FT has reported.</p><p>Source: Owen Walker, European Banking Correspondent 2022 'European banks restart Russian bond trading as US clients wind down' FT.com 17 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-17T13:47:44.707Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 892,
+          "end": 906
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.63051677,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.36975062,
+        "tagPositionWeight": 0.00026738644,
+        "titleWeight": 0.0
+      },
+      "typeRank": 12
+    }
+  ]
+}

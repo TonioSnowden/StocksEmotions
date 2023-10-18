@@ -1,0 +1,28 @@
+{
+  "_id": "aab0690658c6b08b64d15a15619da7327321f44c94575a1a2747fd6405043ce8",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Boeing Rocket Clears Key NASA Hurdle  ----  By Doug Cameron",
+  "text": "<p>   NASA's plans for a lunar mission this year remain on track after it said a deep-space rocket made by Boeing Co. passed a key engine test on Thursday. </p><p>   The eight-minute ground test of the Space Launch System engines at a National Aeronautics and Space Administration facility in Mississippi followed an unsuccessful run in January that jeopardized the agency's broader target of returning U.S astronauts to the moon by the middle of the decade. </p><p>   The four engines previously used in the space shuttle program ran for the planned eight minutes during the latest test, twice as long as NASA said it needed to secure enough data for a live rocket launch. During January's run, they stayed on for little over a minute. </p><p>   The test provides a boost for Boeing's space program, which suffered setbacks in recent years. It is also a fillip for the program as the Biden administration reviews NASA priorities and its targets for missions to the moon and into deep space. </p><p>   NASA aims to use the SLS rocket for its first planned moon mission, known as Artemis 1, in November. </p><p></p>",
+  "published": "2021-03-19T06:14:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 101,
+          "end": 111
+        },
+        {
+          "start": 741,
+          "end": 747
+        },
+        {
+          "start": 15,
+          "end": 21
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

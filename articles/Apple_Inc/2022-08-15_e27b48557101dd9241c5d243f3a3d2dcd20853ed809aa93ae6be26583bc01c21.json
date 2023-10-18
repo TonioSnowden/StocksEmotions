@@ -1,0 +1,34 @@
+{
+  "_id": "e27b48557101dd9241c5d243f3a3d2dcd20853ed809aa93ae6be26583bc01c21",
+  "feed": "wall-street-journal",
+  "title": "Walmart Reaches Streaming Deal With Paramount+; Paramount+ shows will be part of perks retailer offers subscribers to Walmart+ membership program",
+  "text": "<p>Walmart and Paramount declined to comment. Walmart is scheduled to announce quarterly earnings Tuesday.</p><p>Walmart executives have held talks in recent weeks to discuss a streaming deal with executives at Walt Disney Co., Comcast Corp. and Paramount Global, according to a Wall Street Journal article last week.</p><p>Paramount Global runs the Paramount+ service, which has shows such as \"Halo\" and a \"Star Trek\" series. The company said this month that Paramount+ had more than 43 million subscribers at the end of its latest quarter.</p><p>Walmart introduced Walmart+ in 2020 and aims to use the service to add new streams of revenue beyond selling goods, as well rival the success Amazon has had with its Prime membership services. A subscription to Walmart+ costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline. The retailer has added perks to build interest, such as six months of the Spotify music streaming service.</p><p>The deal also adds to the growing group of companies looking to bundle content to draw viewers or customers. YouTube is planning to launch an online store for streaming video services and has renewed talks with entertainment companies about participating in the platform. YouTube, which is owned by Alphabet Inc., would join Apple Inc., Roku Inc., and Amazon, which all have hubs to sell streaming video services.</p><p>Walmart hasn't disclosed how many members have signed up for its Walmart+ service. A Morgan Stanley survey in May said the service has around 16 million members, compared with about 15 million the previous November.</p><p>Amazon has invested heavily to ramp up its own Prime Video service, adding original programming and live sports. Prime Video is included along with free shipping and other perks in its Prime membership, which costs $14.99 a month or $139 a year in the U.S. Amazon also recently added a year of Grubhub's restaurant delivery services for Prime subscribers.</p><p>The deal would give Paramount+ a new avenue for growth in an increasingly competitive streaming market now that all of the major entertainment companies have streaming offerings and growth in the U.S. among many services, such as Netflix, has started to slow.</p><p>Walmart Reaches Streaming Deal With Paramount+</p>",
+  "published": "2022-08-15T18:57:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1275,
+          "end": 1285
+        },
+        {
+          "start": 1285,
+          "end": 1295
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.137606,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.8623998,
+        "tagPositionWeight": 5.841255e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 8
+    }
+  ]
+}

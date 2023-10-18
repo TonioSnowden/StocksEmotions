@@ -1,0 +1,108 @@
+{
+  "_id": "abb6e1a5deff6afdda8b88fb434ff9ea9408ab955caa377cf4450cffd670eb71",
+  "feed": "wall-street-journal",
+  "title": "Business News: Microsoft Moves Windows to the Cloud",
+  "text": "<p>The company said the new service is designed for businesses and to accommodate the growing demands of hybrid work environments, where employees split their time between the office and home, said Jared Spataro, a corporate vice president at Microsoft. Instead of having to commute with their PC, workers will be able to access their personalized cloud-based Windows desktop whether they log on from the office or at home, he said.</p><p>\"This is our take on hybrid,\" Mr. Spataro said in an interview. \"Hybrid is really driving a bit of a rewiring of the operating model of our customers.\"</p><p>Windows 365 represents the second major update to Microsoft's iconic software franchise in as many months. The company said in June it was launching Windows 11 this year, the product's first new version in almost six years. It seeks to reposition the operating system as a hub in a computing universe incorporating rival companies' platforms.</p><p>The move to a cloud-based version that is able to run on a range of operating systems comes as Microsoft's share in that segment has eroded, with people gravitating toward doing more on their smartphones that are largely powered by Apple software or Android. Microsoft held 85% of the global operating system market across all PCs and smartphones a decade ago, according to analytics firm Statcounter. It is 30% today.</p><p>Microsoft still generates significant income from Windows -- it had $22.3 billion in Windows-related sales in the most recent financial year -- though its Azure cloud-computing business has become more central to the software giant's growth. Chief Executive Satya Nadella restored Microsoft's strength through the bet on the cloud that has propelled the company into a $2 trillion corporate titan, second only to Apple.</p><p>With Windows 365, Microsoft is bringing the software more in line with its cloud business, hosting the system entirely on Azure. It also should create a new source of revenue, Mr. Spataro said.</p><p>Microsoft said the new service kicks off with a cloud-based version of Windows 10 available in August, with Windows 11 available later this year when it is rolled out also in the PC-based version. Businesses can subscribe to a monthly service, with pricing depending on the number of users and on the power of the PC-cloud they select. Microsoft hasn't, yet, spelled out pricing plans.</p><p>The services, Microsoft said, could help businesses better deal with staff such as interns and contractors or software developers and designers -- groups that in some cases might not have access to company devices or tend to gravitate to Apple products. Microsoft introduced the new service at the start of its annual partner conference.</p><p>Microsoft's effort to woo users of Apple products to run Windows at least remotely comes as the two tech giants have rekindled their corporate rivalry that dates back to the early days of the PC era, after a period of relative peace. Because Windows 365 is cloud-based and accessible through a browser, Microsoft can offer the service to Apple users without going through its rival's closely guarded app store.</p><p>Windows 365 also offers security benefits, Mr. Spataro said, at a time cybercriminals have targeted a range of businesses, including Microsoft. By storing the data entirely in the cloud, the company said, the data can be better safeguarded and when an employee leaves a company there is less risk they take data with them.</p><p>Shifting Windows to the cloud echoes what Microsoft has been doing with its Xbox gaming business.</p><p>Microsoft still sells individual games and gaming consoles, but increasingly has focused its efforts on gaming cloud service, which allow users to play more than 100 games streamed over a web browser or application on devices like PCs, Macs or iPhones. In April, Microsoft said it had 23 million subscribers for its Xbox Game Pass service that includes cloud gaming in the most premium tier of the subscription offering.</p><p>Microsoft said that subscribers spend 50% more on games and additional content, on top of the monthly fee, in contrast to nonsubscribers.</p>",
+  "published": "2021-07-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3935,
+          "end": 3944
+        },
+        {
+          "start": 632,
+          "end": 643
+        },
+        {
+          "start": 1625,
+          "end": 1636
+        },
+        {
+          "start": 3458,
+          "end": 3467
+        },
+        {
+          "start": 3514,
+          "end": 3523
+        },
+        {
+          "start": 1344,
+          "end": 1353
+        },
+        {
+          "start": 632,
+          "end": 641
+        },
+        {
+          "start": 1020,
+          "end": 1031
+        },
+        {
+          "start": 2985,
+          "end": 2994
+        },
+        {
+          "start": 1020,
+          "end": 1029
+        },
+        {
+          "start": 3777,
+          "end": 3786
+        },
+        {
+          "start": 2598,
+          "end": 2607
+        },
+        {
+          "start": 1184,
+          "end": 1193
+        },
+        {
+          "start": 1625,
+          "end": 1634
+        },
+        {
+          "start": 2294,
+          "end": 2303
+        },
+        {
+          "start": 15,
+          "end": 24
+        },
+        {
+          "start": 1958,
+          "end": 1967
+        },
+        {
+          "start": 1782,
+          "end": 1791
+        },
+        {
+          "start": 2358,
+          "end": 2367
+        },
+        {
+          "start": 3226,
+          "end": 3235
+        },
+        {
+          "start": 2682,
+          "end": 2691
+        },
+        {
+          "start": 240,
+          "end": 249
+        },
+        {
+          "start": 2682,
+          "end": 2693
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

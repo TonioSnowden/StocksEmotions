@@ -1,0 +1,24 @@
+{
+  "_id": "701d111cec09704e653c889d981be92b0b87bffc19cb1c2d4853b52117d6a66b",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Video Feed Linked to Tesla Hack  ----  By Micah Maidenberg",
+  "text": "<p>   Hackers said they accessed internal video feeds at several companies, including Tesla Inc., and at public agencies by breaching the network of security-camera vendor Verkada Inc., the latest cybersecurity incident in which a supplier unwittingly opened a back door into client networks. </p><p>    Tillie Kottmann, one of the hackers, said the group found a username and password for a Verkada administrative account on the internet, permitting them to obtain the footage. That included footage from 222 cameras placed inside various Tesla factories and warehouses, Kottmann said in a message. In all, the group could have accessed material from 150,000 Verkada cameras, according to Kottmann, who doesn't identify as male or female and uses they as a pronoun. </p><p>   Verkada has since disabled all internal administrator accounts to prevent any unauthorized access and has both internal and external teams investigating the matter, a spokesman said. The company said it notified law enforcement and customers. </p><p>   Although the hack was unsophisticated, with a crucial password left openly exposed, it adds to a number of attacks on networks launched through vendors. These \"supply-chain hacks\" have become a growing concern for cybersecurity professionals in recent years. </p><p>   Those worries were amplified late last year when suspected Russian hackers breached U.S. government and corporate networks after compromising code many of the organizations used that was provided by little-known network-software company SolarWinds Corp. Microsoft Corp. said this month that hackers targeted users of its Exchange software. </p><p>   Verkada sells security cameras that customers manage over a web-based platform it calls Command, according to the company's website. \"By aggregating data across devices into a centralized platform, Command provides users with a complete picture of what's going on across sites,\" the site says. Thousands of devices can be connected to the platform, according to Verkada. </p><p>   Tesla didn't respond to requests for comment. The electric-vehicle maker told Bloomberg, which previously reported the incident, that hacked cameras were placed at a supplier. </p><p>   The hack illustrates how buyers of software connected to the internet depend on their suppliers to follow security protocols and safeguard their own operations. </p><p>   \"Their security becomes your security,\" said Jeremiah Grossman, chief executive at Bit Discovery, which helps companies track what they own online. Companies are commonly hacked by leaving assets exposed online, he said. </p><p>   Kottmann said they pursued the effort because of \"curiosity, fighting for freedom of information and against intellectual property, a huge dose of anticapitalism, a hint of anarchism,\" adding, \"It's also just too much fun not to do.\" </p><p>   Kottmann posted a screenshot on Twitter from what were described as an office for gym chain Equinox and of a video from inside a Bank of Utah office, according to the archived Twitter thread of the now-suspended account. Those companies couldn't immediately be reached. </p><p>   Other companies involved in the hack said they have taken steps to contain the problem. Cloudflare Inc. said it was alerted that Verkada security cameras that monitor entrances and thoroughfares in some of its offices might have been affected. </p><p>   \"As soon as we became aware of the compromise, we disabled the cameras and disconnected them from office networks. No customer data or processes have been impacted by this incident,\" the company said. </p><p></p>",
+  "published": "2021-03-11T07:01:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1506,
+          "end": 1515
+        },
+        {
+          "start": 1500,
+          "end": 1515
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

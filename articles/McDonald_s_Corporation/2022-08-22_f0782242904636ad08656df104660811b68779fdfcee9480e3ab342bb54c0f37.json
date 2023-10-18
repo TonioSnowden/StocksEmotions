@@ -1,0 +1,58 @@
+{
+  "_id": "f0782242904636ad08656df104660811b68779fdfcee9480e3ab342bb54c0f37",
+  "feed": "market-watch",
+  "title": "McDonald's testing a 'Chicken Big Mac' in the U.S. after the sandwich sold out in the U.K. The sandwich substitutes tempura chicken for its legendary two all-beef patties and will be tested at select Florida locations",
+  "text": "<p>The new sandwich features two tempura chicken patties instead of the original beef hamburgers, which are topped with pickles, shredded lettuce and American cheese, and served on a sesame seed bun. The chicken variation was such a hit in the U.K. that it sold out in less than two weeks.</p><p>The stateside Chicken Big Mac test run will only be in a few locations in Miami to begin with, however. And it comes after years of \"chicken-sandwich wars\" among competitor fast-food chains like the Restaurant Brands International–owned QSR Popeyes, Wendy's WEN and Chick-fil-A.</p><p>From the archives (August 2019): Chicken sandwich wars: Popeyes, Chick-fil-A and Wendy's are waging an all-out food fight</p><p>And: Wingstop will launch a chicken sandwich with 12 flavor varieties in September</p><p>\"Chicken continues to be a significant opportunity for us,\" McDonald's CEO Chris Kempczinski was quoted as having said on a recent earnings call. \"We've got some great global equities already in our McNuggets and with McChicken, but we also have some equities in McCrispy and McSpicy that we think we've got an opportunity to do more with globally.\"</p><p>See: McDonald's McPlant sandwich, created with Beyond Meat, is 'underperforming' franchisee sales expectations, analysts say</p><p>The chicken-sandwich news comes as McDonald's also announced that it's reshuffling its board, adding three new directors as 15-year board member Sheila Penrose prepares to leave.</p><p>Shares of McDonald's Corp. were down 0.48% in Monday morning trading. McDonald's stock is up 10.68% over the last 12 months, compared with a 7.26% decline by the benchmark S&amp;P 500 SPX over the same period. The Dow Jones Industrial Average, of which McDonald's is a component, is down just less than 6.2% over that 12-month span.</p><p>McDonald's testing a 'Chicken Big Mac' in the U.S. after the sandwich sold out in the U.K.</p>",
+  "published": "2022-08-22T17:28:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.99998724,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 827,
+          "end": 837
+        },
+        {
+          "start": 1120,
+          "end": 1130
+        },
+        {
+          "start": 1275,
+          "end": 1285
+        },
+        {
+          "start": 1428,
+          "end": 1444
+        },
+        {
+          "start": 1487,
+          "end": 1497
+        },
+        {
+          "start": 1665,
+          "end": 1675
+        },
+        {
+          "start": 1744,
+          "end": 1754
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

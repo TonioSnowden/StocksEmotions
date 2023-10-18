@@ -1,0 +1,30 @@
+{
+  "_id": "befe98f48ff39c46ecf05fe2dae197433f559a6c0f22eb5e67d5fd7206d79964",
+  "feed": "wall-street-journal",
+  "title": "Tesla, Apple, Alibaba, F5 Networks : What to Watch When the Stock Market Opens Today; Investors are watching for results from Apple, Microsoft and Alphabet after the close; Chinese tech stocks took another hit",
+  "text": "<p>* It's another bad day to be a Chinese technology stock , and the gloom is spreading to U.S.-listed shares of Chinese firms. Alibaba shares were down 3.7% premarket in New York, and Yum China Holdings dropped 4.1%.</p><p>* General Electric shares were up 3.1% after its earnings release. The industrial conglomerate reported second-quarter profit and revenue that beat expectations, and surprisingly generated positive free cash flow.</p><p>* F5 Networks jumped 7.5% ahead of the bell. The software company reported better-than-expected profit and revenue in the latest period, helped by the pandemic-driven digital acceleration.</p><p>* United Parcel Service delivered better-than-expected profit and revenue during the recent quarter, but investors appear unimpressed: Its shares slipped 3.3% premarket.</p><p>* Raytheon Technologies shares gained 1.6% premarket after the aerospace and defense company nudged up its guidance for sales and free cash flow.</p><p>* Agriculture company Archer Daniels Midland logged higher second-quarter results, with revenue rising over 40% from a year ago. Its shares climbed 1.4% premarket.</p><p>* 3M shares inched up 0.6% after it beat its earnings estimates and lifted its forecast.</p><p>* Apple shares are up 0.2% premarket. The company on Tuesday is expected to post a record spring-quarter profit , as customers continue to embrace new iPhones and other devices and investors look for signs the company's pandemic-induced success  will continue.</p><p>* Alphabet, Microsoft , Starbucks , Mattel , Mondelez and Visa will report earnings after the close.</p><p>* The benchmark S&amp;P 500 hasn't suffered a 5% pullback  since October and has advanced 35% since the end of that month. A brief selloff at the beginning of last week suggests there is anxiety percolating in the market, though.</p><p>Tesla, Apple, Alibaba, F5 Networks: What to Watch When the Stock Market Opens Today</p>",
+  "published": "2021-07-27T13:01:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1505,
+          "end": 1509
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.6983379,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.30166268,
+        "tagPositionWeight": 5.9604645e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

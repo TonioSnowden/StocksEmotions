@@ -1,0 +1,32 @@
+{
+  "_id": "72aeb18644b7b48235b1e5fca9f7f6c18a65b4f2f81c3838780612edca85eb1a",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Cloud-Vendor Databricks'  Value Grows to $38 Billion  ----  By Aaron Tilley",
+  "text": "<p>   Amid a flood of private money flowing into startups from electric trucks to rockets, one of the hottest is a relatively little-known cloud-software vendor, Databricks Inc., which illustrates how modern computing is changing. </p><p>   Databricks last week raised $1.6 billion in funding, boosting its valuation by 35% within about six months to $38 billion and making it the fourth-largest privately held, venture-backed U.S. company, according to research firm PitchBook Data Inc. The three biggest American cloud-computing vendors and fierce competitors -- Amazon.com Inc., Microsoft Corp. and Google parent Alphabet Inc. -- all boosted their investments in the startup, Databricks Chief Executive Ali Ghodsi said. </p><p>   The San Francisco company provides software that allows customers to use and analyze their data across different cloud vendors. Cloud-computing growth accelerated during the pandemic as companies and individuals adopted new services. And businesses and governments are increasingly signing up for a mix of providers to meet their needs. </p><p>   Databricks, which is still losing money, over the past year more than doubled the number of customers paying $1 million or more a year for its service, Mr. Ghodsi said. The company has about $600 million in annual recurring revenue, up 75% over the past year. </p><p>   The company is the latest example of a startup quickly returning to private markets with a big leap in valuation as large money-management firms and others pump money into Silicon Valley in a hunt for healthy returns at a time of low interest rates. Social-network company Reddit Inc. last month said it roughly doubled its valuation to $10 billion within six months, Fanatics Inc., the sports retailer, tripled its valuation in a year to $18 billion, and Clubhouse, the startup audio-chat social network, held a funding round that quadrupled its valuation within about three months, according to people familiar with the matter. </p><p>   Mr. Ghodsi said the funding round wasn't deterring Databricks from its aim of going public, though he declined to detail plans for the listing. </p><p>   Amazon and Microsoft declined to comment on their investment. Alphabet invested in Databricks because of the growing size of the market in data analysis, said Derek Zanutto, a general partner at its investment arm, CapitalG, calling the startup \"the Swiss Army knife of modern data analytics.\" </p><p>   Snowflake Inc., a Databricks rival, was one of last year's hottest IPOs. Snowflake's valuation had surged above $100 billion, though it has retreated more than 25% since reaching its highs in December. The company still is valued at around $94 billion, more than double the IPO figure. </p><p>   Databricks, in part, has won favor with cloud vendors because it operates differently from Snowflake. The latter aims to get customers to use its service as the primary interface to their remotely stored data, billing users for its services and their cloud use -- effectively relegating cloud providers to a supplier role. Databricks offers its service alongside cloud providers, allowing the likes of Amazon and Microsoft to maintain direct customer contact. Databricks bills customers for its service, while the cloud vendors bill them for cloud use. </p><p>   Snowflake's senior vice president of product, Christian Kleinerman, said the company's business model -- keeping cloud vendors at arm's length -- better protects it from having its customers stolen by the tech giants. </p><p></p>",
+  "published": "2021-09-10T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2089,
+          "end": 2098
+        },
+        {
+          "start": 566,
+          "end": 581
+        },
+        {
+          "start": 3071,
+          "end": 3080
+        },
+        {
+          "start": 566,
+          "end": 575
+        }
+      ]
+    }
+  ]
+}

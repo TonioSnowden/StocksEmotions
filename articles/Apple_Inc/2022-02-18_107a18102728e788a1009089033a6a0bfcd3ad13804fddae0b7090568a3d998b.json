@@ -1,0 +1,60 @@
+{
+  "_id": "107a18102728e788a1009089033a6a0bfcd3ad13804fddae0b7090568a3d998b",
+  "feed": "wall-street-journal",
+  "title": "Google Curbs Seen as Friendlier --- Advertisers note a different approach than the one taken before by Apple",
+  "text": "<p>The Alphabet Inc. unit said it would support existing identifiers for at least two years and give substantial notice ahead to the mobile industry of any changes.</p><p>The news comes nearly a year after Apple started requiring iPhone apps to ask users whether they want to be tracked, undermining the collection of data that helps marketers target their ads.</p><p>Advertisers expected Google to follow suit, but didn't know when or how.</p><p>\"The announcement was inevitable, but the timing was uncertain,\" said Matt Barash, a former senior vice president of global strategy at mobile advertising platform AdColony.</p><p>Google's approach so far seems to be more \"empathetic\" to advertisers than Apple's, Mr. Barash said. \"Google sounds like they've committed to reasonable timelines to ensure that the marketers and developers they service have proper time to prepare an open dialogue and a better understanding of what these changes mean with respect to personalized advertising -- whereas Apple took a very ambiguous approach,\" he said.</p><p>Google and Apple want to signal to consumers that their privacy is protected, but their initiatives appear to have different motives, said Eric Seufert, an analyst at mobile-industry website Mobile Dev Memo.</p><p>Apple sells hardware, takes a cut of revenue from apps running on its devices, and offers keyword-search advertising in its App Store. Google, among its various advertising offerings, operates an in-app advertising system, called AdMob. Sales from AdMob last year helped increase annual revenue for Alphabet's Google Network business by nearly 40% to $31.7 billion.</p><p>\"It kind of highlights the difference in approach between an advertising company, which Google is, and more of a content platform company, which Apple is, because Google's not going to throw the baby out with the bath water, because it runs an ad network,\" Mr. Seufert said.</p><p>Google on Wednesday outlined proposals for new technologies that would improve user privacy while still allowing for personalized advertising on mobile apps. One would help advertisers know which campaigns are working without relying on cross-app user identifiers.</p><p>Another would serve ads to users based on whether they previously engaged with an app, without sharing information about that interaction with third parties.</p><p>\"That retargeting piece is something that Apple doesn't provide,\" Mr. Seufert said. He added that Android's planned tools appear to be more effective than Apple's in helping advertisers figure out which campaigns are working or not working.</p><p>Still, marketers are waiting to see the technical details related to Google's changes.</p><p>App advertisers grappling with Apple's changes will have to work through another set of calculations once Google implements its own, said Itai Cohen, vice president of marketing and corporate strategy at Digital Turbine Inc.'s Fyber, a mobile ad monetization platform.</p><p>\"They base their user acquisition advertising on some pretty sophisticated statistical predictions of the lifetime value of the user, and that is based on the ability to close the loop between how much it costs me to acquire a user and how much revenue do I expect this user to deliver,\" Mr. Cohen said. \"With the Apple solution, that loop was significantly challenged.</p><p>\"Now there's more statistical data-science work that needs to be done in order to provide those assumptions,\" Mr. Cohen added. \"Whereas on the Google side, we don't yet know what hoops data scientists need to jump through in order to make those calculations.\"</p><p>Apparel brand Lively responded to earlier changes affecting consumer-data collection, such as General Data Protection Regulation, by altering its marketing strategies to focus on its work with influencers, partnerships with bricks-and-mortar retailers such as Target Corp. and collecting information from consumers after a purchase, said Michelle Cordeiro Grant, founder and chief executive of the company.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-02-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 197,
+          "end": 202
+        },
+        {
+          "start": 2333,
+          "end": 2338
+        },
+        {
+          "start": 971,
+          "end": 976
+        },
+        {
+          "start": 675,
+          "end": 680
+        },
+        {
+          "start": 2650,
+          "end": 2655
+        },
+        {
+          "start": 1227,
+          "end": 1232
+        },
+        {
+          "start": 103,
+          "end": 108
+        },
+        {
+          "start": 1738,
+          "end": 1743
+        },
+        {
+          "start": 3202,
+          "end": 3207
+        },
+        {
+          "start": 1030,
+          "end": 1035
+        },
+        {
+          "start": 2446,
+          "end": 2451
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

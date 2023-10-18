@@ -1,0 +1,24 @@
+{
+  "_id": "d071a8431e916ecd66d919a99336b4dc2c35b3dd9a96a1d61759c66d13117e9f",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: SEC Sues Las Vegas Lawyer, Alleging Ponzi Scheme",
+  "text": "<p>Mr. Beasley and Jeffrey Judd, president of J&amp;J Consulting Services, Inc. and two similarly named entities involved in the alleged scheme, were named as defendants, along with five men who worked to promote the companies.</p><p>J&amp;J raised funds from investors saying they were providing advances to people who had settled personal-injury lawsuits. A lawyer for Mr. Judd in civil matters said he was a victim of Mr. Beasley's misrepresentations. A lawyer for Mr. Beasley didn't respond to requests for comment.</p>",
+  "published": "2022-04-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 221,
+          "end": 224
+        },
+        {
+          "start": 43,
+          "end": 46
+        }
+      ]
+    }
+  ]
+}

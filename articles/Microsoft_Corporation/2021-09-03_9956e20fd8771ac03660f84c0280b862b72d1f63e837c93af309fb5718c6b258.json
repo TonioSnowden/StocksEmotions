@@ -1,0 +1,36 @@
+{
+  "_id": "9956e20fd8771ac03660f84c0280b862b72d1f63e837c93af309fb5718c6b258",
+  "feed": "wall-street-journal",
+  "title": "European Regulators Continue to Disrupt Data Transfers to U.S. Authorities suspend data transfers and warn against using American technology platforms",
+  "text": "<p>The new contracts require details on companies' privacy measures and on laws in the country where data will be sent that could result in government surveillance.</p><p>Existing business contracts will need to include the new clauses by December 2022. Companies that don't use the new version can face regulatory penalties.</p><p>Last year's EU court ruling that toppled the Privacy Shield agreement , the deal that allowed for easy trans-Atlantic data transfers, required companies to provide such guarantees if they send individuals' information abroad.</p><p>Since the July 2020 decision, some regulators around Europe have warned companies and government offices about using U.S. technology providers. In some cases, privacy authorities blocked specific organizations from using a particular technology firm after determining the risks of data being exposed were too high.</p><p>\"Seeing these decisions saying don't use platforms that are just ubiquitous at this point is troubling,\" said Omer Tene, chief knowledge officer at the International Association of Privacy Professionals, a trade group.</p><p>To adopt the new contracts, companies must fill out details about their data practices and negotiate terms with their customers for how they process data. Many large companies have hundreds of such contracts, said Tanguy Van Overstraeten, issue lead on data protection for the American Chamber of Commerce to the EU, a Brussels-based trade group, who is also a partner at law firm Linklaters LLP in Brussels.</p><p>Some European regulators have recently moved to stop data transfers to the U.S., citing last year's court ruling and U.S. government surveillance. This has caused further confusion as companies look for legal ways to move information between countries.</p><p>Last month, the data protection regulator in Hamburg warned the city's senate not to use Zoom Video Communications Inc.'s on-demand video-call service because it said the technology company didn't have sufficient privacy safeguards. While Zoom provided guarantees including storing data in European data centers and data encryption, those weren't sufficient to prevent the company from accessing personal data, a spokesman for the regulator said.</p><p>The warning only concerned the Hamburg Senate, but the regulator's office advises other firms to avoid Zoom as well.</p><p>\"It is and always has been our recommendation to not use Zoom in any context by any company in our jurisdiction,\" the spokesman said.</p><p>A spokesperson for Zoom said the company uses standard contractual clauses and provides customers with an impact assessment tool to help them determine whether their data transfers comply with EU rules.</p><p>Other EU regulators have made similar recommendations. In April, Portugal's data protection authority ordered the country's statistical institute  to stop using U.S.-based cloud security firm Cloudflare Inc. for a website related to the national census, citing the EU court ruling requiring strict privacy for data transfers abroad. A German regional authority said in May that public schools in the state of Baden-Württemberg shouldn't use software from Microsoft Corp. because it presents privacy risks. State officials called off a pilot program of Microsoft software in schools following the regulator's statement.</p><p>The Hamburg authority said it is investigating \"numerous\" companies' data transfers to the U.S. and other countries.</p><p>American cloud providers said in recent months that they offered safeguards including encryption and data storage in the EU for customers concerned about violating the bloc's privacy rules. Microsoft said in May that by the end of next year, its cloud services will require that no data be moved outside the Union, including for technical support. Both Microsoft and Amazon.com Inc.'s cloud unit, Amazon Web Services, say they will challenge any U.S. government requests to access customers' personal data.</p><p>Companies face significant uncertainty more than a year after the EU court ruling. The new standard contractual clauses will provide regulators with details about how companies transfer data, but corporate privacy officers still need to make sure they use additional safeguards such as strong encryption technology to protect information, said Mr. Van Overstraeten. \"It's only a piece of the puzzle,\" he said.</p><p>In addition to regulators' disruptive decisions blocking data transfers, political negotiators are still working to strike a new trans-Atlantic privacy deal  to replace the Privacy Shield.</p><p>\"The most difficult thing for businesses to cope with is when we have a framework, we start working under this framework, and then all of a sudden everything is shut down,\" said Martynas Barysas, the director for internal market at BusinessEurope, a trade group in Brussels.</p><p>Write to Catherine Stupp at Catherine.Stupp@wsj.com </p><p>European Regulators Continue to Disrupt Data Transfers to U.S.</p>",
+  "published": "2021-09-03T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3191,
+          "end": 3200
+        },
+        {
+          "start": 3728,
+          "end": 3737
+        },
+        {
+          "start": 3094,
+          "end": 3109
+        },
+        {
+          "start": 3565,
+          "end": 3574
+        },
+        {
+          "start": 3094,
+          "end": 3103
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

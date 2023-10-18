@@ -1,0 +1,50 @@
+{
+  "_id": "d8a3e1d80bb2fcce7b4ab06bc10b6c3413c9099a0fbf80805569212d1f8b886c",
+  "feed": "wall-street-journal",
+  "title": "Streaming Services Deal With More Subscribers Who 'Watch, Cancel and Go'; Customer loyalty to Netflix, Hulu, HBO Max and other services declines amid stiffer competition",
+  "text": "<p>\"You've got to trim the pennies. It's like a diet, you know—you take a couple calories off here and there,\" and it makes a difference, said Ms. Bigel, a retired game-industry art director in San Diego. \"Why give them money if I'm not watching?\"</p><p>It is gradually getting tougher for streaming-video companies to hold on to their subscribers, as consumers who are flooded with options weed out services they don't need at any given time.</p><p>Some 19% of subscribers to premium services—a group that includes Netflix, Hulu, AppleTV+, HBO Max and Disney+, among others—canceled three or more subscriptions in the two years up to June, according to new data from subscriber-measurement firm Antenna. That is up from 6% in the two-year stretch ended in June 2020.</p><p>The average rate of monthly customer defections among premium services in the U.S. was 5.46% in July, up from 4.46% a year ago and 4.05% in July 2020, according to Antenna.</p><p>Many households signed up for multiple streaming services a few years ago as options in the marketplace proliferated, subscription prices were lower and the pandemic boosted demand for in-home entertainment. Slowly but surely, they have gotten more choosy and frugal.</p><p>Some consumers cancel subscriptions when they finish a hit series on a service, then switch to another that has something else compelling. Among people who have canceled multiple services, a substantial portion \"are people trading shows,\" said Jonathan Carson, co-founder and chief executive of Antenna. \"They come in, watch, cancel and go.\"</p><p>Others lose interest when their favorite content is no longer available on a platform, or simply want to cut back on entertainment spending, analysts say. Pocketbook pressures from an economic downturn could make households even more budget conscious.</p><p>Appetite for streaming remains high. The number of subscriptions per person is rising in the U.S., according to Antenna. But there is more competition among the services for new customers, especially in the mostly saturated U.S. market.</p><p>Customer defections are a key reason that some big streaming players such as Netflix Inc. and Walt Disney Co., which operates Disney+ and controls Hulu, are finding it harder to expand their customer bases. Netflix lost nearly one million customers in its most recent quarter.</p><p>The percentage of Netflix subscribers who signed up in January and were still subscribers six months later fell to 55% in 2022, compared with 62% in the same period of 2021 and 71% in 2020, Antenna found. Loyalty of longtime customers has waned, too: People who have had Netflix subscriptions for two to four years accounted for 18% of cancellations in the second quarter, up from 13% two years ago.</p><p>Antenna compiles data from third-party services that collect information from consumers, with their consent, such as online purchases, bills and banking records. That gives the company visibility into streaming subscriptions.</p><p>Netflix said in a letter to shareholders that its customer retention improved during the most recent quarter and that, while service cancellations are slightly elevated, the rate is back near where it was before a price increase in the U.S. in January.</p><p>Ms. Bigel estimates that her household has turned off three to four services over the past year. She just turned off Disney+ after resubscribing for a \"comfort re-watch\" of \"Captain America.\"</p><p>Brian Daniel and his family in Louisville, Ky., subscribe to a core of four streaming services—Netflix, Disney+, Amazon Prime Video and AppleTV+—and rotate through others for their fifth service. Mr. Daniel keeps a list of shows that the family wants to watch on his night stand, adding to it when he and his wife see a preview for a show that looks interesting.</p><p>\"Once we've done enough, we'll cancel and move on,\" he said, adding that the family has canceled four or five services over the past year.</p><p>The family is currently watching past seasons of the drama \"Yellowstone'' on Peacock but plans to watch new episodes in the fall on Paramount, where it will premiere. \"We are going to follow a show,\" rather than being loyal to any one service, he said.</p><p>\"It's not about loyalty anymore, it's about the content and it's hard,\" said Anthony Goonetilleke, group president of technology and head of strategy at Amdocs, which provides software and services to telecommunications and media companies.</p><p>As more people cancel subscriptions, streaming-video companies must work harder to sign up new users to expand their overall customer base.</p><p>In discussing their rationale for combining content from HBOMax and Discovery+ into one streaming service, Warner Bros. Discovery Inc. executives said earlier this month that having a wide selection of content is important for reducing customer defections.</p><p>\"The more people you have in a household using the service, the stickier it is,\" said JB Perrette, Warner Bros. Discovery's head of streaming. \"At the end of the day, putting all the content together was really the only option we saw in making this a viable business.\"</p><p>Write to Sarah Krouse at sarah.krouse+1@wsj.com</p><p>Streaming Services Deal With More Subscribers Who 'Watch, Cancel and Go'</p>",
+  "published": "2022-08-15T14:20:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.999856,
+      "offsets": [
+        {
+          "start": 534,
+          "end": 541
+        },
+        {
+          "start": 538,
+          "end": 545
+        },
+        {
+          "start": 2102,
+          "end": 2117
+        },
+        {
+          "start": 2119,
+          "end": 2134
+        },
+        {
+          "start": 2134,
+          "end": 2141
+        },
+        {
+          "start": 3451,
+          "end": 3458
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.7110896,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.2984562,
+        "tagPositionWeight": 0.009545922,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

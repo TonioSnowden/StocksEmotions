@@ -1,0 +1,74 @@
+{
+  "_id": "494b86d80fac91ad8d86fb049b4247abfa02e505a91bf57321712c3171677384",
+  "feed": "wall-street-journal",
+  "title": "Walmart, Ranchers Team Up on Beef-Processing Plant to Ensure Supply; Retailer acquires minority stake in planned Nebraska facility and will have seat on venture's board",
+  "text": "<p>Walmart Inc. is pushing deeper into the beef business, taking a stake in a planned Nebraska processing plant to help stock its meat sections and increase processing capacity in the beef industry.</p><p>The retailer said Wednesday that it acquired a minority stake in Sustainable Beef LLC as part of Walmart's push to develop a network of meat-processing plants providing Angus beef products for its stores. The deal also provides Walmart and its customers better visibility into the food supply, the company said.</p><p>Financial terms of Walmart's investment weren't disclosed. Walmart said it would have a seat on Sustainable Beef's board.</p><p>SHARE YOUR THOUGHTS</p><p>Is vertical integration the solution to supply-chain problems? Join the conversation below.</p><p>The partnership between Walmart and the North Platte, Neb., beef venture comes as some food retailers move to take greater control of the commodity-processing portion of their supply chains. Costco Wholesale Corp., for example, built its own poultry-processing plant in recent years to help provide the chain's signature $4.99 rotisserie chickens.</p><p>Walmart in 2018 opened its own milk-processing plant in Indiana, supplying more than 600 stores, and in 2020 the company opened a beef-processing plant in Georgia operated by FPL Food, supplying stores in the southeastern U.S.</p><p>Prices for food and consumer products have been rising across grocery aisles. Since the onset of the Covid-19 pandemic, meatpacking companies said they couldn't process as many head of cattle as usual because their plants were short-staffed. That limited meat supplies and pushed prices higher while consumer demand grew, they said.</p><p>\"One of the things that we saw in the course of the last two years is, quite frankly, capacity is tight,\" said Tyler Lehr, a Walmart senior vice president. He said many U.S. grocers struggled to secure meat in 2020 after Covid-19 cases among plant workers cut into production and raised fears of shortages. Walmart will buy most of the beef produced by Sustainable Beef's facility, which will go to stores in the central U.S., said Mr. Lehr.</p><p>Sustainable Beef was founded by a group of cattle ranchers who have said their processing plant will boost competition—and livestock prices—in one of the country's top beef-producing regions by giving local producers another place to sell their cattle.</p><p>Ranchers, upset by years of low cattle prices despite the rise of wholesale beef prices over the course of the pandemic, have pushed along with the Biden administration to increase antitrust scrutiny on the beef industry. Four meatpackers process around 85% of U.S. cattle, according to the White House, which has promised funding for smaller, regional meat-processing plants, such as Sustainable Beef.</p><p>The plant is expected to employ about 800 people and could slaughter 1,500 head of cattle a day, according to its founders. Walmart said that with the help of its investment, Sustainable Beef plans to break ground next month and begin operations by late 2024.</p><p>Meatpacking industry executives and analysts have said building and staffing more large-scale processing plants will be difficult given the shortage of labor and rising building costs. Executives of meat companies have said that a heavy reliance on a network of small processors would increase meat prices and further complicate supply chains.</p><p>Walmart's investment in the beef venture gives the project the benefit of a reliable customer for its beef, said Sustainable Beef Chief Executive David Briggs. \"It's a huge plus,\" he said.</p><p>Write to Patrick Thomas at patrick.thomas@wsj.com</p><p>Walmart, Ranchers Team Up on Beef-Processing Plant to Ensure Supply</p>",
+  "published": "2022-08-31T13:03:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 292,
+          "end": 299
+        },
+        {
+          "start": 293,
+          "end": 300
+        },
+        {
+          "start": 422,
+          "end": 429
+        },
+        {
+          "start": 524,
+          "end": 531
+        },
+        {
+          "start": 563,
+          "end": 570
+        },
+        {
+          "start": 759,
+          "end": 766
+        },
+        {
+          "start": 1081,
+          "end": 1088
+        },
+        {
+          "start": 1943,
+          "end": 1950
+        },
+        {
+          "start": 2853,
+          "end": 2860
+        },
+        {
+          "start": 3330,
+          "end": 3337
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

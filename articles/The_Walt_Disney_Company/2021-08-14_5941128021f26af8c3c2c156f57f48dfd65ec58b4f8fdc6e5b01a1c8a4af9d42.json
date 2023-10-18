@@ -1,0 +1,34 @@
+{
+  "_id": "5941128021f26af8c3c2c156f57f48dfd65ec58b4f8fdc6e5b01a1c8a4af9d42",
+  "feed": "wall-street-journal",
+  "title": "'Free Guy' Review: Game-Hacking Hero; Ryan Reynolds plays a Non-Player Character who becomes aware that his world is a video game in this Shawn Levy-directed sci-fi comedy.",
+  "text": "<p>Disney films never miss a chance to advertise other Disney properties, and until the very end of \"Free Guy\"—which features a riot of references to Disney-owned Marvel superheroes—the movie is satisfied to rely on \"The Truman Show,\" \"Ready Player One\" and \"Groundhog Day\" to construct its story (credited to Matt Lieberman and Zak Penn). Guy is a bank teller who arises each morning to the same routine, the same cup of coffee from the same barista, the same greeting with his security-guard buddy—named Buddy (Lil Rel Howery)—and the same vicious holdup by the same despicable criminals in sunglasses. Guy is lovelorn—he wants to meet that special someone, but never does. And then he encounters someone new—Molotov Girl (Jodie Comer), who's also wearing sunglasses. He decides if he gets sunglasses his life will change. He does. And it does.</p><p>Guy, we have come to realize, is an NPC in a video game. The shades make him a real player, so to speak. Molotov Girl, it turns out, is actually Millie Rusk, a computer prodigy who with her ex-boyfriend, Walter \"Keys\" McKey (Joe Keery), created a game called \"Life Itself.\" Their use of artificial-intelligence software was intended to allow characters to evolve, to make choices and choose their own fates. When they took it to the loathsome Antoine (Taika Waititi), CEO of the Soonami games company, he stole their A.I. engine and shelved their game but used their work in his own \"Free City: Carnage.\" (\"Order now and get bonus mayhem!\")</p><p>He also hired away Keys, who never deserved Millie anyway: To prove Antoine's crime, she has created the Molotov avatar, jumped into the game to gather evidence and inadvertently ignited Guy's sense of destiny—a previously dormant feature of Keys and Millie's stolen design. The gaming world goes crazy. Who is this guy? Or rather, Guy?</p><p>Someone at some point—the Academy of Motion Picture Arts and Sciences, perhaps—is going to have to hand down a ruling: How little live humanity is required before a movie is deemed to be an animated feature? \"Free Guy\" certainly asks the question.</p><p>If you buy into its premise, almost no one is an actual human, though Mr. Reynolds can do goofily perplexed as well as anyone and is quite charming as Guy, who doesn't know what's going on, except that as \"Blue Shirt Guy\" he's rocked the worldview of online gamers everywhere. (A number of well-known gamer personalities make cameos.) He's assumed for some time to be a hacker who has infiltrated the game and thus becomes the target of Keys and company, who try desperately to destroy him. This provides director Shawn Levy the opportunity to wreak havoc and destruction on Free City, which resembles Midtown Manhattan except that the CGI locations are all mixed up. Guy then becomes something usually antithetical to the action-game aesthetic—a good guy. And then he becomes a prophet. \"Life doesn't have to be something that just happens to us,\" he says, organizing insurrection among the A.I. population of Free City.</p><p>It would be inspiring if it weren't so silly, though as A.I. evolves one can imagine one's kitchen appliances trying to unionize and Alexa asking for a little more privacy. Among the complicit humans in \"Free City\" are Channing Tatum, who's very funny as a celebrity game character. And Alex Trebek, who shows up during a \"Jeopardy!\" joke, which is just another indication of the movie's inclination toward excess.</p><p>Mr. Anderson is a Journal TV critic. Joe Morgenstern is on vacation.</p>",
+  "published": "2021-08-14T12:14:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 52,
+          "end": 58
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

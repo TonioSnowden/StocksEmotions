@@ -1,0 +1,44 @@
+{
+  "_id": "e990b71a32ac2f4e52fdc6452528d332bbdaae1e965da92100a4d482f311dadf",
+  "feed": "wall-street-journal",
+  "title": "What Is the Log4j Vulnerability? What to Know. Corporate security executives are assessing risk as software companies disclose exposure",
+  "text": "<p>U.S. officials say that hundreds of millions of devices are at risk, while researchers and major technology companies warn that hackers linked to foreign governments and criminal ransomware groups are already probing how to exploit the vulnerability within targets' computer systems.</p><p>Here's what we know about the Log4j flaw:</p><p>What is Log4j?</p><p>Software developers use the Log4j framework to record user activity and the behavior of applications for subsequent review. Distributed free by the nonprofit Apache Software Foundation, Log4j has been downloaded millions of times and is among the most widely used tools to collect information across corporate computer networks, websites and applications. The software is maintained by Apache volunteers, five of whom have worked around the clock in recent days to release security updates.</p><p>How can hackers take advantage of Log4j's vulnerability?</p><p>The Log4j flaw, disclosed by Apache last week, allows attackers to execute code remotely on a target computer, meaning that they can steal data, install malware or take control. Some cybercriminals have installed software that uses a hacked system to mine cryptocurrency, while others have developed malware that allows attackers to hijack computers for large-scale assaults on internet infrastructure.</p><p>Security experts are particularly concerned that the vulnerability may give hackers enough of a foothold within a system to install ransomware, a type of computer virus that locks up data and systems until the attackers are paid by victims. Security company F-Secure Oyj said its analysts have observed some ransomware variants being deployed via the flaw already, along with malware that is often deployed as a precursor to a ransomware strike.</p><p>\"To be clear, this vulnerability poses a severe risk,\" said Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency, in a statement issued Sunday.</p><p>Are foreign governments taking advantage of the flaw?</p><p>Security company Mandiant Inc. and Microsoft Corp. said they have traced attempted attacks that exploit the flaw to hackers with suspected links to China and Iran. Microsoft said one of the groups is the same one responsible for a hack of its Exchange Server email product earlier this year, which the U.S. attributed to China. Beijing denies involvement in the attack.</p><p>Microsoft said that it has also seen nation-backed hackers from North Korea and Turkey attempting to exploit Log4j.</p><p>Cybersecurity company SecurityScorecard Inc. said Thursday that it had observed scans for the vulnerability linked to Russia-based hackers, including the group blamed for hacking the Democratic National Committee in 2016.</p><p>Researchers at Check Point Software Technologies Ltd. said Tuesday that they had tracked more than 1.27 million attempts by hackers to locate the vulnerability, targeting nearly half of their corporate customers' networks.</p><p>How is the U.S. government responding?</p><p>Officials say they have been in frequent contact with cybersecurity companies, cloud-service providers and telecommunications businesses to share information about the threat and attempts to mitigate it. The Biden administration also updated a security directive that will require federal agencies to patch their systems to address the vulnerability by Christmas Eve.</p><p>Eric Goldstein, executive assistant director of the Cybersecurity and Infrastructure Security Agency, said Tuesday night that he wasn't aware of any agency being breached using the Log4j flaw. So far, Mr. Goldstein said, U.S. officials have observed relatively low-level activity, such as hackers installing cryptocurrency mining tools on victims' networks.</p><p>\"But certainly we are deeply concerned about the prospect of adversaries using this vulnerability to cause real harm and even impacting national-critical functions,\" Mr. Goldstein added.</p><p>CISA has created an information page with recommendations.</p><p>How is Europe responding?</p><p>Cybersecurity response teams for the 27 European Union countries are closely monitoring Log4j developments. Cyber agencies distributed warnings and technical advice to companies and critical infrastructure operators in their jurisdictions. Experts at Belgium's Centre for Cyber Security have been in contact with local companies all week after issuing a report on how to identify whether the vulnerability is being compromised, said Kevin Holvoet, a cyber threat intelligence analyst at the agency. Analysts have seen continuing scanning attempts to trigger the bug as well as reconnaissance efforts, but the agency hasn't received reports of it being exploited, he said.</p><p>The U.K.'s National Cyber Security Centre published steps to help companies identify the vulnerability in their IT infrastructure. The Dutch National Cyber Security Centre is maintaining a list of software that is and isn't affected by the vulnerability.</p><p>In Romania, the National Cyber Security Directorate sent individual alerts to companies and critical infrastructure operators through a platform it uses to share real-time cyber threat information, said Dan Cimpean, the organization's director. Analysts are collecting data about how companies and critical infrastructure operators have been affected by the Log4j vulnerability, but Mr. Cimpean said he has seen no sign of a serious incident in Romania. If a Romanian company is compromised, cyber experts from the agency could step in to help, he said. \"We have tools to escalate a very fast response if needed,\" he said.</p><p>How widespread is the Log4j flaw?</p><p>Internet-facing systems as well as back-end systems could contain the vulnerability. Log4j software is widely used in business software development. \"Likely millions of servers are at risk,\" said Lou Steinberg, founder of CTM Insights LLC, a tech incubator.</p><p>An Apache spokeswoman said the nature of how Log4j is inserted into different pieces of software makes it impossible to track the tool's reach.</p><p>Which technology suppliers are affected by the Log4j vulnerability?</p><p>Many, and the list is growing. Among them are Apple Inc., Amazon.com Inc., Cloudflare Inc., IBM, Microsoft Corp.'s Minecraft, Palo Alto Networks Inc. and Twitter Inc. Several technology companies have issued alerts and guidance to customers about how to decrease their risk.</p><p>How can companies fix the Log4j problem?</p><p>CISA suggests immediately identifying internet-facing devices that have Log4j and ensuring your security team responds to alerts related to these devices. Also, install a web application firewall with rules that automatically update so that your team can concentrate on fewer alerts.</p><p>Some patches and technical guidance are available. The Apache organization has released multiple updates in recent days and advised upgrading to the latest version of the Log4j tool. Oracle Corp. released its own patches on Friday. Microsoft recommended a series of steps to mitigate the risk of exploitation, including contacting your software application providers to be sure they are using the most up-to-date version of the Java programming language, which would include patches.</p><p>In lieu of available patches, Teresa Walsh, global head of intelligence at the Financial Services Information Sharing and Analysis Center, recommends that companies limit unnecessary outbound internet traffic, which would go some way to protecting vulnerable systems.</p><p>\"Firms can reduce their risk by reducing their exposure,\" she said.</p><p>Catherine Stupp contributed to this article.</p><p>Write to David Uberti at david.uberti@wsj.com  and James Rundle at james.rundle@wsj.com</p>",
+  "published": "2021-12-17T15:35:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2332,
+          "end": 2341
+        },
+        {
+          "start": 6816,
+          "end": 6825
+        },
+        {
+          "start": 6081,
+          "end": 6096
+        },
+        {
+          "start": 2126,
+          "end": 2135
+        },
+        {
+          "start": 1997,
+          "end": 2012
+        },
+        {
+          "start": 1997,
+          "end": 2006
+        },
+        {
+          "start": 6081,
+          "end": 6090
+        }
+      ]
+    }
+  ]
+}

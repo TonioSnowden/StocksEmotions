@@ -1,0 +1,32 @@
+{
+  "_id": "602aeb784a1223f42a2c7af5ec75d70546a5976f0c29728a6618ee243efe1df5",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Banks Had Blind Spot on Archegos --- Prime brokers often don't know what clients are doing at competing lenders",
+  "text": "<p>The losses suffered by a handful of the world's biggest banks came in their prime brokerage business, a relatively low-risk operation that trades for and lends to hedge funds and other sophisticated investors such as family offices in the case of Archegos.</p><p>The prime brokers that handled the Archegos account believed that risk was limited because the fund's collateral was in the form of cash and because the fund was betting on the performance of large, public stocks, people familiar with the arrangement said.</p><p>But the Archegos mess has exposed one systemic issue with prime brokers: They typically don't know what their clients are doing with their competitors, leaving them blind to some of the risks they face. Hedge funds don't share that information because they don't want banks or competitors trying to take advantage of their trade.</p><p>\"Generally, one prime broker won't know what you're doing with your other prime brokers -- that's a large part of the point of having multiple primes,\" said Daniel Davies, a banking specialist and managing director at Frontline Analysts, an independent research firm.</p><p>Archegos was able to further obscure its actions because it is a family office, giving it lower disclosure requirements than hedge funds, and because the swaps it used made its positions harder to track. Using swaps meant Archegos could put up a small portion of the cost of the stock, as little as 15 cents for every $1 in shares. The fund gets the upside and dividends, and it has to pay the bank if the shares fall. The cash collateral is supposed to protect the bank if the stock falls a lot and the fund can't pay.</p><p>It wasn't until banks met, beginning March 25, to try to reach a deal to unwind Archegos that they fully grasped the scale of the fund's trading.</p><p>\"This is the first time you understood the extent of the problem; we realized we had a big problem,\" a person involved in the meetings said. The next morning, banks started selling.</p><p>The banks include Goldman Sachs Group Inc. and Morgan Stanley, both of which didn't face big losses, and Nomura Holdings Inc. and Credit Suisse Group AG, both of which did.</p><p>When individuals or businesses borrow, they have to tell lenders about their other debts and often how they will spend the money. Prime brokers get little of that information. Instead, they try to estimate their risks by using regulatory filings to see what hedge funds are buying. The assumption is that if hedge funds sour on those stocks, they will all try to sell at the same time, causing the shares to tumble and making it harder for some funds to repay their loans. Swaps, though, don't have to be disclosed, so the fund's big bets didn't show up in regulatory filings.</p><p>With Archegos, the prime brokers made the same mistake that lenders always have -- they assumed that when markets come unglued, they could sell the assets that back the trades to cover losses. Archegos's aggressive trading and the market's volatility proved that wrong. Analysts at Italian bank Mediobanca estimate the eight stocks held by Archegos that had the greatest impact on investors lost $124 billion in value in two weeks.</p><p>In this case, Archegos's losses blew through the cash collateral held by the banks. That left them all holding shares in the same companies that were already tumbling. The ensuing rush to the exits pushed shares down further and worsened the losses, especially for banks that couldn't find buyers quickly.</p><p>The assumption that banks can sell stocks quickly is also embedded in regulations. Margin lending attracts a low capital charge because banks are meant to be able to offload listed stocks quickly and without really disturbing the price.</p><p>If the price of stocks becomes disconnected from their underlying value, they are harder to hedge, a risk manager at one of the affected banks said.</p><p>Some of this can be attributed to the current market, where shares of a company such as GameStop Corp. can be driven up by traders hyping it on Reddit. Shares of ViacomCBS Inc., one of Archegos's biggest holdings, had nearly tripled in less than three months, an unusual move for an established, large-cap stock.</p>",
+  "published": "2021-04-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1978,
+          "end": 1991
+        },
+        {
+          "start": 1978,
+          "end": 1985
+        },
+        {
+          "start": 1966,
+          "end": 1990
+        },
+        {
+          "start": 1978,
+          "end": 2002
+        }
+      ]
+    }
+  ]
+}

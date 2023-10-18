@@ -1,0 +1,36 @@
+{
+  "_id": "a4227f4fb21c2de191e19ea8de7d1cf541044cdde448bb12b924eaf788852e94",
+  "feed": "ftcomall",
+  "title": "JPMorgan/Tesla: maths dispute is rare public kerfuffle between bank and client",
+  "text": "<p>Very few punch-ups would have JPMorgan Chase as the lightweight. But when the megabank sued Tesla for a modest $162m on Monday over a hedging transaction, it took on a legal battle with a company whose market capitalisation of $1tn is twice its own value.</p> <p>Tesla's spectacular ascent is the source of the contretemps. In 2014, JPMorgan bought warrants on the stock to help the electric vehicle company manage potential dilution from a convertible bond. </p> <p>Tesla's shares have risen more than 20 times since. The warrants are easily in the money. </p> <p>The bank and carmaker disagree over the strike price on the warrants as a result of Elon Musk's ill-fated buyout plan in 2018. Tesla does not believe itself accountable for the resulting confusion. Perhaps bank boss Jamie Dimon is the guy to strike a rare blow.</p> <p>Three maths wizards hover over the dispute: Myron Scholes, Fischer Black and Robert Merton. They developed the equation to value stock options. Share price volatility is a key input. The higher it is, the more likely a call option or warrant will rise above the strike price. </p> <p>JPMorgan says its contract allowed the agreed-upon strike price of $561 per share to be adjusted for events including a possible sale of the company. Because Musk's tweet stated a $420 offer price, volatility crashed. JPMorgan calculated that the strike price needed to be reset to $425. When the buyout fell through and volatility rose again, the bank said the proper strike price was $485.</p> <p>By this summer, Tesla shares traded for more than $3,000, on a pre-split basis. JPMorgan contends it hedged the warrants based on the revised strike price while keeping Tesla informed. The bank says its $162m reflects net losses on hedging resulting from a rebased exercise price Tesla allegedly refuses to acknowledge. &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</p> <p>Banks and corporate clients routinely brush disagreements under the rug out of mutual need. This clash of the titans signals a breakdown in relations that would be surprising, if unpredictable Tesla was not involved.</p><p>Source:  2021 'JPMorgan/Tesla: maths dispute is rare public kerfuffle between bank and client' FT.com 16 November. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-11-16T18:01:00.977Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 30,
+          "end": 38
+        },
+        {
+          "start": 326,
+          "end": 334
+        },
+        {
+          "start": 1298,
+          "end": 1306
+        },
+        {
+          "start": 1552,
+          "end": 1560
+        },
+        {
+          "start": 30,
+          "end": 44
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

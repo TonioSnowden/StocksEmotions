@@ -1,0 +1,64 @@
+{
+  "_id": "dc0d538463d7adbe09f5f8d849b09190c4cfeb752bc0facacd3404ce88f536bb",
+  "feed": "ftcomall",
+  "title": "Apple takes a step towards opening the back door",
+  "text": "<p>Child sexual abuse is abhorrent. For many smartphone owners, though, the idea that government or police could read content on a device that is almost an extension of themselves is repugnant too. The imperatives of tackling crime and protecting privacy collide in Apple's decision to scan US iPhones for <a href=\"https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f\">child abuse imagery</a>. Campaigners for better child protection will celebrate. But the move sets a weighty precedent.</p> <p>Apple has long rejected pressure to insert a “<a href=\"https://www.ft.com/content/c790de48-3302-11ea-9703-eea0cae3f0de\">back door</a>” in code that would allow law enforcement, in certain circumstances, to access its devices. It has twice resisted FBI demands to help it unlock phones, after shootings in San Bernardino, California, in 2015, and Florida in 2019 — though Apple said it had provided data including iCloud backups. As encryption has become key to many products and services, Facebook and other tech groups have also <a href=\"https://www.ft.com/content/43c1aa97-c4e7-4301-913d-2c89cc63800d\">opposed moves</a> to allow “exceptional access”. </p> <p>Encrypted devices and messaging are a boon to organised crime, terrorists, and child abusers. But Big Tech and privacy advocates have argued, with strong justification, that creating any kind of back door opens the way for hackers, cyber criminals or unscrupulous governments to abuse it.</p> <p>Apple's “neuralMatch” is not — quite — a back door, in the sense of providing direct access to content via the operating system. Apple, moreover, already decrypts photos on its iCloud servers if required by law enforcement. The precedent is that its technology will now proactively screen images on iPhones — breaking down the ringfence that had surrounded its devices — looking for matches with those on a US database of known child abuse images. Matches are flagged when photos are uploaded to iCloud, studied by human reviewers, and sent to law enforcement if verified.</p> <p>Privacy campaigners warn that by allowing such pattern-matching in encrypted photos on iPhones, Apple is opening itself and others to pressure from governments to do the same for other types of content, such as imagery of opposition protests. Companies could refuse, but might face legislative moves to compel it. Disclosures about the thousands apparently targeted by Pegasus spyware from Israel's NSO have shown plenty of governments are happy to use backdoor mechanisms.</p> <p>Apple may hope that by co-operating with US authorities in countering one of the most morally vile activities that exploits digital encryption it can fend off legislation forcing it to go further. The US, UK, Australia, New Zealand and Canada have <a href=\"https://www.justice.gov/opa/pr/international-statement-end-end-encryption-and-public-safety\">called on</a> tech companies to include mechanisms that would enable governments — with appropriate legal authority — to gain access to data. The danger is that Apple will simply whet appetites. Some rivals are privately furious, feeling the Cupertino-based company has broken ranks and conceded an important principle.</p> <p>Some in the security community speculate, though, that Apple may be preparing to introduce more encryption protections around data on iCloud, which do not currently exist. Offering help in finding child abuse material might then be a trade-off for reducing access that law enforcement currently has to iCloud, by encrypting other data stored on it. This could provide welcome extra protection to, say, dissidents in Hong Kong. Apple and other foreign groups have in recent years been compelled to store Chinese users' data in a data centre inside the country.</p> <p>Co-operation between Big Tech and law enforcement is essential in legitimate efforts to fight crime and safeguard security, but “back doors” are fraught with hazard. Not just its users but billions of phone users the world over will hope Apple's move does not prove to be the thin end of a much larger wedge.</p><p>Source: The editorial board 2021 'Apple takes a step towards opening the back door' FT.com 7 August. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-08-07T10:04:48.143Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 419,
+          "end": 424
+        },
+        {
+          "start": 712,
+          "end": 717
+        },
+        {
+          "start": 1334,
+          "end": 1339
+        },
+        {
+          "start": 2252,
+          "end": 2257
+        },
+        {
+          "start": 3243,
+          "end": 3248
+        },
+        {
+          "start": 2871,
+          "end": 2876
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1874,
+          "end": 1879
+        },
+        {
+          "start": 1205,
+          "end": 1210
+        },
+        {
+          "start": 3614,
+          "end": 3619
+        },
+        {
+          "start": 263,
+          "end": 268
+        },
+        {
+          "start": 2657,
+          "end": 2662
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

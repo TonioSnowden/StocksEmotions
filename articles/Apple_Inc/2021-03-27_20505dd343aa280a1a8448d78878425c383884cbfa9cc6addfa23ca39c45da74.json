@@ -1,0 +1,72 @@
+{
+  "_id": "20505dd343aa280a1a8448d78878425c383884cbfa9cc6addfa23ca39c45da74",
+  "feed": "wall-street-journal",
+  "title": "Firms Plot How to Beat  Apple's New Ad Limits  ----  By Patience Haggin and Tim Higgins",
+  "text": "<p>   As Apple Inc. moves ahead with long-promised plans to make it harder to target certain iPhone users with ads, advertising companies and software developers are preparing for major disruptions to the $400 billion digital advertising industry. </p><p>   Facebook Inc., gaming companies and ad-tech providers are weighing a variety of responses, including updated payment models, new advertising techniques and notifications for users. In China, social-media apps have tested a potential workaround that would continue tracking users' digital footprints. </p><p>   The changes to Apple's iPhone software -- part of what the company describes as an app-tracking transparency initiative meant to protect user privacy -- will let users decide whether to allow apps to track them for targeted ads. The iPhone maker first announced the plan last June and intended to roll it out in September, before delaying that timeline until 2021. </p><p>   Many of those affected have voiced opposition to the plan for months. But with the change expected in the coming weeks, they are now preparing for it and weighing the potential impacts. </p><p>   \"Most people are resigned to the reality of this,\" said Eric Seufert, a strategist and consultant who has held several workshops on the matter for developers and ad tech firms. \"I don't think anyone thinks that they have any sort of agency here to change things or to institute a workaround.\" </p><p>   Once the software is installed, Apple will ask users in a pop-up if they want to allow a given app to track their activity across apps and websites from other companies. If users choose to \"ask app not to track,\" the apps will no longer be able to collect a user's advertising identifier without permission. That ad ID is widely used by digital-ad and data brokers, but many expect users to reject tracking amid concerns about privacy. </p><p>   Facebook cautioned investors in January that the coming changes to Apple's operating system posed a risk to its business. The social-media giant has said it would launch its own in-app, pop-up message to tell users that tracking helps personalize ads and supports businesses that rely on ads to reach consumers. The approach of dueling pop-ups might befuddle or annoy users as the changes are rolled out. </p><p>   Facebook Chief Executive Mark Zuckerberg, during an appearance on the Clubhouse app last week, struck a slightly more positive tone while remaining critical of Apple's change. He said the move could strengthen his company's own in-app retail channel \"by making it harder for [advertisers] to basically use their data in order to find the customer that would want to use their products outside of our platforms.\" </p><p>   Alphabet Inc.'s Google has said it plans to comply with Apple's new rules. Christophe Combette, group product manager for Google Ads, cautioned in a blog post that the changes would reduce visibility into metrics showing how ads drive app installations and sales, and how advertisers value and bid on ad impressions. Google plans to expand use of a tool that infers whether an ad interaction led to online spending or subscription without identifying individual users. </p><p>   Companies in China tested a possible workaround that would involve creating an alternate advertising identifier to track users without letting them opt out of the data collection, according to people familiar with the matter. The testing was part of an initiative developed by the state-backed China Advertising Association to create a national standard for Chinese tech companies, the people said. </p><p>   The identifier, called CAID, uses a technique known as \"device fingerprinting\" that Apple has banned. This method logs data passed between phones and apps, such as their internet protocol addresses, and uses them as clues to keep track of that user. The Financial Times earlier reported the effort. </p><p>   Tencent Holdings Ltd. and ByteDance Ltd. were among the companies that participated in the testing, the people said. Tencent hasn't implemented the technology, a person familiar with the initiative said. A Tencent executive told investors Wednesday that Apple's ad-tracking changes were causing uncertainty globally. </p><p>   Video-sharing platform TikTok, which is owned by ByteDance, doesn't intend to use CAID, said a person familiar with the matter. </p><p>   Apple would reject such apps that violated its rules, which have banned device fingerprinting for over a decade, a spokesman said. \"We believe strongly that users should be asked for their permission before being tracked,\" he said. </p><p>   Apple's plans to enforce its new policy are likely to lead some apps to change their business models. \"Some smaller apps, which used to be free until now, might switch to being paid,\" said Barak Witkowski, vice president of product at mobile-ad measurement company AppsFlyer. </p><p>   Nii Ahene, chief strategy officer at digital-ad consulting firm Tinuiti, predicted an initial pullback in advertising, especially if bought through Facebook, while advertisers gauge its effectiveness under the new rules. In time, advertisers might shift from finding new customers toward communicating with existing ones to boost loyalty, he predicted. </p><p>   This could be especially painful for the videogame industry, which has long used targeted ads to find the rare customer willing to spend big on in-app purchases. </p><p>   Videogame maker Unity Software Inc., which makes money selling software to other gaming apps, said last month that it expected a $30 million hit to revenue this year, or about 3% of the year's expected sales, as advertisers adjust to Apple's changes. </p><p>   --- </p><p>   Yang Jie contributed to this article. </p><p></p>",
+  "published": "2021-03-27T06:17:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1418,
+          "end": 1423
+        },
+        {
+          "start": 5508,
+          "end": 5513
+        },
+        {
+          "start": 557,
+          "end": 562
+        },
+        {
+          "start": 4060,
+          "end": 4065
+        },
+        {
+          "start": 2695,
+          "end": 2700
+        },
+        {
+          "start": 3591,
+          "end": 3596
+        },
+        {
+          "start": 2387,
+          "end": 2392
+        },
+        {
+          "start": 3,
+          "end": 13
+        },
+        {
+          "start": 4251,
+          "end": 4256
+        },
+        {
+          "start": 23,
+          "end": 28
+        },
+        {
+          "start": 3,
+          "end": 8
+        },
+        {
+          "start": 4483,
+          "end": 4488
+        },
+        {
+          "start": 1889,
+          "end": 1894
+        },
+        {
+          "start": 3,
+          "end": 12
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "74dc5182e568b5fba9067e9dbdf830c30bb18b4783524433f439701d06195c81",
+  "feed": "wall-street-journal",
+  "title": "Buttigieg's 5G Crash Landing; Here's the political back story on the wireless-airline feud.",
+  "text": "<p>After public comment and technical review, the FCC in March 2020 issued a 258-page decision approving the repurposing of C-band spectrum from satellite operators for 5G. The document included precautions to prevent 5G signal interference with other spectrum users, including aviation.</p><p>Usually spectrum interference involves transmissions on the same frequencies, not in different bands. Airplane radio altimeters that measure the distance from the ground occupy bands in the same region but are still a safe distance from C-band. Think the distance between Trenton, N.J., and New York City.</p><p>The FCC nonetheless included a 220 to 400 megahertz buffer between the two bands, which was more than twice as much as what engineers deemed sufficient to prevent signal interference. Nearly 40 countries operate 5G on C-band spectrum—many at higher power levels or in closer spectral proximity to airplane radio altimeters than what the FCC had proposed—with no instances of interference. Two Navy radars also operate in frequencies much closer to altimeters at power levels that are 10,000 times greater than 5G base stations without any reports of interference.</p><p>Last January wireless carriers paid $80 billion to the U.S. Treasury for the C-band spectrum and have since spent billions of dollars to deploy it. AT&amp;T and Verizon had planned to light up their spectrum on Dec. 5. Yet Biden Administration officials interfered at the last minute, causing a near-crash between wireless carriers and the aviation industry.</p><p>Enter Federal Aviation Administration Administrator Steve Dickson, who is eager to redeem the agency after its embarrassment over Boeing's 737 Max. On Nov. 2, the FAA warned airlines that 5G could interfere with safety instruments. AT&amp;T and Verizon agreed to delay their rollout to Jan. 5.</p><p>This didn't satisfy Mr. Dickson, who warned that the 5G rollout might force the agency to reroute planes in bad weather. As if flying weren't stressful enough. On New Year's Eve, the FAA chief and his co-pilot, Transportation Secretary Pete Buttigieg, demanded more concessions from the wireless carriers that would effectively cede to the government control over the 5G rollout.</p><p>Verizon and AT&amp;T on Sunday rebuffed their demand, offering instead to reduce C-Band power on runways and in the first mile of takeoff or final approach for six months. Yet airlines threatened to file suit, fearing the 5G standoff between their regulators and wireless carriers could disrupt flights.</p><p>Messrs. Dickson and Buttigieg on Monday accepted the wireless carriers' offer, albeit with a two-week delay supposedly to allow the FAA more time for safety studies. They are likely to demand that this delay be extended. Mr. Buttigieg isn't an expert in aviation or broadband, but he knows that there's no risk for him in overcaution—and it isn't his money.</p><p>Meanwhile, FCC Chair Jessica Rosenworcel, who had supported the C-band rollout, has for the most part been missing in action. Mr. Pai frequently had to assert himself during the Trump Presidency when heads of other federal agencies, including the Defense and Transportation departments, encroached on FCC turf. Ms. Rosenworcel is failing her first test as chair.</p><p>Politicians complain the U.S. is falling behind China in 5G, but dysfunctional government is a big reason.</p><p>Buttigieg's 5G Crash Landing</p>",
+  "published": "2022-01-04T23:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 1640,
+          "end": 1646
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

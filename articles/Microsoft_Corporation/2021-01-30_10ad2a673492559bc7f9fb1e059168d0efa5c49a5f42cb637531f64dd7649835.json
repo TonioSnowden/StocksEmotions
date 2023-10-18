@@ -1,0 +1,72 @@
+{
+  "_id": "10ad2a673492559bc7f9fb1e059168d0efa5c49a5f42cb637531f64dd7649835",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Hack Said to Extend Beyond SolarWinds",
+  "text": "<p>Hackers linked to the attack have broken into these systems by exploiting known bugs in software products, by guessing online passwords and by capitalizing on a variety of issues in the way Microsoft Corp.'s cloud-based software is configured, investigators said.</p><p>Approximately 30% of both the private-sector and government victims linked to the campaign had no direct connection to SolarWinds, Brandon Wales, acting director of the Cybersecurity and Infrastructure Security Agency, said in an interview.</p><p>The attackers \"gained access to their targets in a variety of ways. This adversary has been creative,\" said Mr. Wales, whose agency, part of the U.S. Department of Homeland Security, is coordinating the government response. \"It is absolutely correct that this campaign should not be thought of as the SolarWinds campaign.\"</p><p>Corporate investigators are reaching the same conclusion. Last week, computer security company Malwarebytes Inc. said that a number of its Microsoft cloud email accounts were compromised by the same attackers who targeted SolarWinds, using what Malwarebytes called \"another intrusion vector.\" The hackers broke into a Malwarebytes Microsoft Office 365 account and took advantage of a loophole in the software's configuration to gain access to a larger number of email accounts, Malwarebytes said. The company said it doesn't use SolarWinds software.</p><p>The incident demonstrated how sophisticated attackers could leapfrog from one cloud-computing account to another by taking advantage of little-known idiosyncrasies in the ways that software authenticates itself on the Microsoft service, investigators said. In many of the break-ins, the SolarWinds hackers took advantage of known Microsoft configuration issues to trick systems into giving them access to emails and documents stored on the cloud.</p><p>SolarWinds itself is probing whether Microsoft's cloud was the hackers' initial entry point into its network, according to a person familiar with the SolarWinds investigation, who said it is one of several theories being pursued.</p><p>\"We continue to collaborate closely with federal law enforcement and intelligence agencies to investigate the full scope of this unprecedented attack,\" a SolarWinds spokesman said.</p><p>\"This is certainly one of the most sophisticated actors that we have ever tracked in terms of their approach, their discipline and range of techniques that they have,\" said John Lambert, the manager of Microsoft's Threat Intelligence Center.</p><p>In December, Microsoft said that the hackers who targeted SolarWinds had accessed its own corporate network and viewed internal software source code -- a lapse of security but not a catastrophic breach, according to security experts. At the time, Microsoft said it had \"found no indications that our systems were used to attack others.\"</p><p>The hack will take months or more to fully unravel and is raising questions about the trust that many companies put in their technology partners. The U.S. government has publicly blamed Russia, which has denied responsibility.</p><p>The data breach has also undermined some of the pillars of modern corporate computing, in which companies and government offices entrust myriad software vendors to run programs remotely in the cloud or to access their own networks to provide updates that enhance performance and security.</p><p>Now corporations and government agencies are grappling with the question of how much they can truly trust the people who build the software they use.</p><p>\"Malwarebytes relies on 100 software suppliers,\" said Marcin Kleczynski, the security company's chief executive. \"How do I know that Zoom or Slack isn't next and what do I do? Do we start building software in-house?\"</p><p>The attack surfaced in December, when security experts discovered hackers inserted a backdoor into updates to SolarWinds' software, called Orion, which was used widely across the federal government and by a swath of Fortune 500 companies. The scope and sophistication of the attack surprised investigators almost the moment they began their probe.</p><p>SolarWinds has said that it traced activity from the hackers back to at least September 2019, and that the attack gave the intruders a digital backdoor into as many as 18,000 SolarWinds customers.</p><p>Mr. Wales said some victims were compromised before SolarWinds deployed the corrupted Orion software about a year ago.</p><p>The departments of Treasury, Justice, Commerce, State, Homeland Security, Labor and Energy all suffered breaches. In some cases hackers accessed the emails of those in senior ranks, officials have said. So far, dozens of private-sector institutions have also been identified as compromised in the attack, Mr. Wales said, adding that the total is well under 100.</p><p>Investigators have tracked the SolarWinds activity by identifying the tools, online resources and techniques used by the hackers. Some U.S. intelligence analysts have concluded that the group is tied to Russia's foreign intelligence service, the SVR.</p><p>Mr. Wales said his agency isn't aware of cloud software other than Microsoft's targeted in the attack. And investigators haven't identified another technology company whose products were broadly compromised to infect other organizations the way SolarWinds was, he said.</p>",
+  "published": "2021-01-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1862,
+          "end": 1871
+        },
+        {
+          "start": 1596,
+          "end": 1605
+        },
+        {
+          "start": 967,
+          "end": 976
+        },
+        {
+          "start": 2438,
+          "end": 2447
+        },
+        {
+          "start": 190,
+          "end": 205
+        },
+        {
+          "start": 5042,
+          "end": 5051
+        },
+        {
+          "start": 2725,
+          "end": 2734
+        },
+        {
+          "start": 1708,
+          "end": 1717
+        },
+        {
+          "start": 190,
+          "end": 199
+        },
+        {
+          "start": 2491,
+          "end": 2500
+        },
+        {
+          "start": 1159,
+          "end": 1175
+        },
+        {
+          "start": 5042,
+          "end": 5053
+        },
+        {
+          "start": 1862,
+          "end": 1873
+        },
+        {
+          "start": 2438,
+          "end": 2449
+        }
+      ]
+    }
+  ]
+}

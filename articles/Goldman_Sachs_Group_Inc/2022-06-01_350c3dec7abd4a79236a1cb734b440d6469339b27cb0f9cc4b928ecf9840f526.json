@@ -1,0 +1,33 @@
+{
+  "_id": "350c3dec7abd4a79236a1cb734b440d6469339b27cb0f9cc4b928ecf9840f526",
+  "feed": "reuters",
+  "title": "Financials lift Australia shares after GDP growth beats estimates",
+  "text": "<p>* Miner Fortescue Metals top gainer on ASX 200 (Updates to close)</p><p>By Roushni Nair</p><p>June 1 - Australian shares ended higher on Wednesday after better-than-expected growth data and expectation of further acceleration offered hope that the economy would hold up well in the face of rising interest rates.</p><p>The S&amp;P/ASX 200 index climbed 0.3% to 7,234 points, though gains were capped by a plunge in battery metal firms that weighed on a broader mining sub-index.</p><p>Data from the Australian Bureau of Statistics showed gross domestic product rose 0.8% quarter-on-quarter, topping market forecasts of a 0.5% gain.</p><p>\"Today's GDP illustrates that there is support for the economy to operate with higher interest rates,\" said Kerry Craig, global market strategist at JP Morgan Asset Management.</p><p>\"We expect a larger 40 basis points rate hike by the RBA this month as it shifts to getting back to 0.25% increments in policy moves.\"</p><p>Encouragingly, senior economists at National Australia Bank said the high level of savings will help households weather headwinds from higher rates and rising prices in the near term.</p><p>Leading gains on the benchmark, heavyweight financials advanced 1.2%, with all four top banks adding between 0.8% and 2.3%, each.</p><p>Lithium and rare earth miners, however, skidded after Goldman Sachs on Sunday forecast a sharp correction in lithium prices over the next two years.</p><p>The mining sub-index eased 0.6% on its worst day since May 26, with lithium explorers Liontown Resources , Pilbara Minerals, and IGO declining between 11% and 23% to lead losses among blue-chip firms.</p><p>Though energy stocks added 0.3%, Origin Energy plunged 13.7% after it withdrew its earnings guidance for the next financial year.</p><p>Gold stocks shed 3.4% as bullion prices hit a near two-week low. The country's largest gold miner, Newcrest , gave up 2.7%.</p>",
+  "published": "2022-06-01T06:46:32.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 1284,
+          "end": 1297
+        },
+        {
+          "start": 1284,
+          "end": 1291
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.8573804,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.14262497,
+        "tagPositionWeight": 5.364418e-06,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

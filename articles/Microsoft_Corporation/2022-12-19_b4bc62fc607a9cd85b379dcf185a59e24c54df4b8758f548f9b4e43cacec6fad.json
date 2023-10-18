@@ -1,0 +1,24 @@
+{
+  "_id": "b4bc62fc607a9cd85b379dcf185a59e24c54df4b8758f548f9b4e43cacec6fad",
+  "feed": "wall-street-journal",
+  "title": "Cardinal Health Hires Finance Chief From Sysco; The healthcare-products distributor said that Aaron Alt will take over from Trish English, who has served in an interim capacity since August",
+  "text": "<p>Mr. Alt will succeed Ms. English on Feb. 10, the company said.</p><p>Mr. Alt has been with Sysco since December 2020, according to his LinkedIn profile. He previously served as CFO for Sally Beauty Holdings Inc. and held senior executive roles at Target Corp.</p><p>Write to Dean Seal at dean.seal@wsj.com</p>",
+  "published": "2022-12-19T13:15:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "321af64f31f50ab48558670c2bb84c7513eab0a83eb943e401193eba6c9e306a",
+  "feed": "wall-street-journal",
+  "title": "Apple Wins Delay in Monopoly Case",
+  "text": "<p>The order means Apple will be able to delay, perhaps for years, putting in place some of the most significant changes ever to how it operates its lucrative App Store as the company and Epic seek broader appeals.</p><p>\"Apple has demonstrated, at minimum, that its appeal raises serious questions on the merits of the district court's determination that Epic Games, Inc. failed to show Apple's conduct violated any antitrust laws but did show that the same conduct violated California's Unfair Competition Law,\" the appeals court order said.</p><p>Apple in a late November filing with the appeals court argued the immediate implementation of the initial ruling in the case by U.S. District Judge Yvonne Gonzalez Rogers would harm \"millions of participants on both sides of the App Store platform.\"</p><p>In early November, Judge Gonzalez Rogers rejected Apple's request to delay the injunction.</p><p>The case began in August 2020 when Epic filed suit against Apple claiming the iPhone maker had improper monopolies in controlling software distribution on its devices and forcing developers to use its in-app payment system, which takes a fee of as much as 30%.</p><p>In considering the appeal, Judge Gonzalez Rogers had said the proposed stay would delay implementation of her changes for years. Apple had faced a Dec. 9 deadline to implement the changes.</p><p>In the original case, Judge Gonzalez Rogers mostly ruled in Apple's favor except for issuing the injunction against the anti-steering provision in App Store rules.</p><p>\"We're constantly evolving the App Store to help create an even better experience for our users and the incredibly talented community of iOS developers,\" Apple said. \"Our concern is that these changes would have created new privacy and security risks, and disrupted the user experience customers love about the App Store. We want to thank the court for granting this stay while the appeals process continues.\"</p><p>Epic declined to comment.</p>",
+  "published": "2021-12-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1644,
+          "end": 1649
+        },
+        {
+          "start": 213,
+          "end": 218
+        },
+        {
+          "start": 16,
+          "end": 21
+        },
+        {
+          "start": 535,
+          "end": 540
+        },
+        {
+          "start": 1386,
+          "end": 1391
+        },
+        {
+          "start": 379,
+          "end": 384
+        },
+        {
+          "start": 935,
+          "end": 940
+        },
+        {
+          "start": 835,
+          "end": 840
+        },
+        {
+          "start": 1266,
+          "end": 1271
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

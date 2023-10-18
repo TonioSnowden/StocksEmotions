@@ -1,0 +1,46 @@
+{
+  "_id": "89d1ba4a1201ab3dd2479ab3ccf54b48c9e0aa8fe7ed821199035c37caf2f1ce",
+  "feed": "market-watch",
+  "title": "Stock buybacks near $800 billion this year after hitting all-time record; SEC's proposed buyback rules may be a bigger threat",
+  "text": "<p>\"This isn't the first time an excise tax on buybacks has been proposed,\" said George Catrambone, head of Americas trading at DWS Group. \"I would expect the effect of a 1% buyback tax to be small,\" he said, particularly with high levels of cash on company balance sheets making buybacks an appealing alternative to dividends and capital expenditures, \"because they offer a lot more flexibility and aren't multi-year commitments.\"</p><p>An earlier version of the bill, known as Build Back Better, thatfailed to pass in 2021 proposed a 2% taxon buybacks.</p><p>The Inflation Reduction Act also contains a 15% minimum tax for large companies, which aims to bring dozens of Fortune 500 companies paying little or nothing in income tax back into the fold.</p><p>Goldman Sachs analysts said both provisions, if passed, \"pose a modest downside risk,\" while estimating they would lower S&amp;P 500 index SPX earnings per share by roughly 1% in 2023, with larger declines in the \"low effective tax rate sectors\" of healthcare and information technology.</p><p>Higher earnings per share signal a willingness by investors to pay more for stock based on its profit outlook.</p><p>Read: An investor's guide to the Inflation Reduction Act — and what the bill means for your portfolio</p><p>The House of Representatives is set Friday to vote on the measure, already passed by the Senate, and then to send the bill to President Joe Biden to sign shortly thereafter.</p><p>A bigger potential concern for American Companies may be a proposal from the U.S. Securities and Exchange Commission, Catrambone said, since it looks to add enhanced rules around how companies execute share repurchases and to require more timely and detailed disclosures.</p><p>It also wants to give investors more insights into when an issuer or related party plans to buyback shares, since \"issuers are not required to, and typically do not, disclose the specific dates on which they will execute trades,\" according to the SEC proposal.</p><p>U.S. stocks rallied Friday, with the S&amp;P 500, Dow Jones Industrial Average DJIA and Nasdaq Composite Index COMP headed for weekly gains of about 2.8% to 3.1%, according to FactSet.</p><p>Stock buybacks near $800 billion this year after hitting all-time record</p>",
+  "published": "2022-08-12T19:52:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 739,
+          "end": 746
+        },
+        {
+          "start": 738,
+          "end": 745
+        },
+        {
+          "start": 734,
+          "end": 747
+        },
+        {
+          "start": 738,
+          "end": 751
+        },
+        {
+          "start": 739,
+          "end": 752
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0012972,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0012972355,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "f0cfef2be2db59e4a387dad791825bbb70b19997edd3816f9e19d6d5dd080a94",
+  "feed": "wall-street-journal",
+  "title": "Apple Pay Fees Vex Credit-Card Issuers; Banks are nudging Visa to change the way it processes some Apple Pay transactions, according to people familiar with the matter",
+  "text": "<p>Some banks are pushing back, nudging card network Visa Inc. to change the way it processes certain Apple Pay transactions, according to some of the people. The change would trim the fees that banks pay to Apple.</p><p>Visa plans to implement the change next year, according to people familiar with the matter and a document viewed by The Wall Street Journal. Apple executives have told Visa executives they oppose the change, the people said. The two companies are in discussions and it is possible the planned change won't kick in.</p><p>Currently, banks pay Apple a fee when their cardholders use Apple Pay. Under the planned new process, the fees wouldn't apply on automatic recurring payments such as gym memberships and streaming services.</p><p>The dispute reflects a long-running tension between the giants of tech and finance. Companies such as Apple and Amazon.com Inc. have been expanding in consumer payments for years. The banks have often rushed into deals with them, afraid of being left behind. But the deals don't always work out: Alphabet Inc.'s Google, for instance, is abandoning plans to pitch bank accounts to users.</p><p>Apple said in a statement that \"our banking partners are an important part of Apple Pay's growth.\"</p><p>\"Our bank partners continue to see the benefits of providing Apple Pay and invest in new ways to implement and promote Apple Pay to their customers for secure and private in-store and online purchases,\" the company said.</p><p>Major networks including Visa and Mastercard Inc. are the effective gateways between banks and Apple Pay, because they help banks' cards get loaded onto the mobile wallet. The change would apply to Visa-branded cards, though other networks could follow suit.</p><p>Mobile wallets are smartphone apps on which people can load their debit- or credit-card credentials and use their phone, rather than the tangible card, to make payments. The transactions are charged to the shopper's card.</p><p>When Apple introduced Apple Pay in 2014, the iPhone had already clobbered music players, cameras and GPS systems. Banks and card networks worried it also would displace card payments.</p><p>Banks agreed to pay Apple 0.15% of each purchase made by their credit cardholders. (They pay a separate fee on debit-card transactions.) Those fees account for most of the revenue that Apple makes from its digital wallet, according to people familiar with the matter.</p><p>The terms had the potential to be uniquely lucrative for Apple. Banks don't pay fees to Google for its wallet.</p><p>Visa and Mastercard also agreed to give Apple an unusual concession, according to people familiar with the matter: Apple would be able to choose which issuers it would allow onto Apple Pay and which of those issuers' cards it would accept. Visa and Mastercard generally require that entities that accept their credit cards must accept them all. Apple agreed to not develop a card network to compete against Visa and Mastercard, the people said.</p><p>But since then, customers have been slower to adopt Apple Pay than bank and card network executives had expected. And some bank executives were angered when Apple launched its own credit card in 2019 with Goldman Sachs Group Inc., said people familiar with the matter, since it made Apple more of a direct competitor.</p><p>Apple said in a statement that it partners closely \"with nearly 9,000 banking partners to offer Apple Pay to customers in nearly 60 countries and regions.\"</p><p>Visa shared its planned technical change with at least some banks in recent months. A document reviewed by the Journal that explained the new process didn't mention the fees but detailed a change to so-called tokens that Visa issues for mobile-wallet payments.</p><p>SHARE YOUR THOUGHTS</p><p>Do you use Apple Pay or other mobile wallets? Why or why not? Join the conversation below.</p><p>When consumers load their credit card onto Apple Pay, Visa issues a special token that replaces the card number. That allows the card to work on Apple Pay and also helps keep the card secure in a potential data breach, among other benefits.</p><p>Visa plans to start using a different token on recurring automated payments. That effectively means that after a first payment is made on a subscription, Apple won't get fees on the following transactions.</p><p>Some big banks previously tried to get their Apple Pay fees lowered around 2017 but didn't succeed, according to people familiar with the matter.</p><p>David Benoit contributed to this article.</p><p>Apple Pay Fees Vex Credit-Card Issuers</p>",
+  "published": "2021-10-05T15:55:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 99,
+          "end": 104
+        },
+        {
+          "start": 205,
+          "end": 210
+        },
+        {
+          "start": 353,
+          "end": 358
+        },
+        {
+          "start": 548,
+          "end": 553
+        },
+        {
+          "start": 835,
+          "end": 840
+        },
+        {
+          "start": 1926,
+          "end": 1931
+        },
+        {
+          "start": 2125,
+          "end": 2130
+        },
+        {
+          "start": 2290,
+          "end": 2295
+        },
+        {
+          "start": 2430,
+          "end": 2435
+        },
+        {
+          "start": 2524,
+          "end": 2529
+        },
+        {
+          "start": 2599,
+          "end": 2604
+        },
+        {
+          "start": 2829,
+          "end": 2834
+        },
+        {
+          "start": 3086,
+          "end": 3091
+        },
+        {
+          "start": 3212,
+          "end": 3217
+        },
+        {
+          "start": 4170,
+          "end": 4175
+        }
+      ]
+    }
+  ]
+}

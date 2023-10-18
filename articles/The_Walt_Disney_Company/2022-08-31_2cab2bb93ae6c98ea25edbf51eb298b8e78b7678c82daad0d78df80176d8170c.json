@@ -1,0 +1,118 @@
+{
+  "_id": "2cab2bb93ae6c98ea25edbf51eb298b8e78b7678c82daad0d78df80176d8170c",
+  "feed": "wall-street-journal",
+  "title": "Disney Explores Membership Program Like Amazon Prime to Offer Discounts and Perks; Entertainment giant looks to package streaming, parks and merchandise offerings together; aims to add commerce feature to Disney+",
+  "text": "<p>Walt Disney Co. is exploring a membership program that could offer discounts or special perks to encourage customers to spend more on its streaming services, theme parks, resorts and merchandise, according to people familiar with the discussions.</p><p>The program would be somewhat akin to Amazon Prime, which offers advantages such as free shipping, discounts at Whole Foods and a complementary streaming video service for a monthly or annual fee, the people said. Internally, some executives have referred to Disney's initiative as \"Disney Prime,\" although that won't be the name of the program, one of the people said.</p><p>Discussions at Disney are in the early stages. It couldn't be learned how much the company would charge for membership and how long it would take to launch such a program. </p><p>Disney has been looking into how to better cross-sell to its customers across its various offerings. PHOTO: Zack Wittman for The Wall Street Journal</p><p>By creating a membership program, Disney would be betting it could offer customers more value, prompting them to spend more on the company's products and services, while providing Disney with a trove of information about their preferences.</p><p>The effort is supported by Disney Chief Executive Bob Chapek, who has been vocal both internally and publicly about the opportunity for Disney to do more to cross-sell to customers, the people familiar with the discussions said.</p><p>\"Technology is giving us new ways to customize and personalize the consumer experience so that we are delivering entertainment, experiences and products that are most relevant to each of our guests,\" said Kristina Schake, senior executive vice president and chief communications officer at Disney, in a statement. \"A membership program is just one of the exciting ideas that is being explored.\"</p><p>Disney already has a special program for superfans, the D23 Official Fan Club, which costs $99.99 to $129.99 a year and comes with access to exclusive events and merchandise. That program offered members a discounted three-year subscription to Disney+ in 2019. A new membership program would be different in that it would be targeted at more casual Disney fans and customers.</p><p>As an early step to better link Disney products and services, Disney is working to enable subscribers to its Disney+ streaming service to buy merchandise associated with some of its shows by scanning a code on the service, people familiar with the plan said. The company expects to introduce that feature as soon as this year.</p><p>More to come...</p><p>Robbie Whelan contributed to this article.</p><p>Write to Sarah Krouse at sarah.krouse+1@wsj.com</p><p>Disney Explores Membership Program Like Amazon Prime to Offer Discounts and Perks</p>",
+  "published": "2022-08-31T20:38:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 205,
+          "end": 212
+        },
+        {
+          "start": 504,
+          "end": 510
+        },
+        {
+          "start": 506,
+          "end": 512
+        },
+        {
+          "start": 629,
+          "end": 635
+        },
+        {
+          "start": 632,
+          "end": 638
+        },
+        {
+          "start": 784,
+          "end": 790
+        },
+        {
+          "start": 966,
+          "end": 972
+        },
+        {
+          "start": 1112,
+          "end": 1118
+        },
+        {
+          "start": 1198,
+          "end": 1204
+        },
+        {
+          "start": 1307,
+          "end": 1313
+        },
+        {
+          "start": 1314,
+          "end": 1320
+        },
+        {
+          "start": 1697,
+          "end": 1703
+        },
+        {
+          "start": 1792,
+          "end": 1798
+        },
+        {
+          "start": 2046,
+          "end": 2053
+        },
+        {
+          "start": 2139,
+          "end": 2145
+        },
+        {
+          "start": 2151,
+          "end": 2157
+        },
+        {
+          "start": 2197,
+          "end": 2203
+        },
+        {
+          "start": 2210,
+          "end": 2216
+        },
+        {
+          "start": 2227,
+          "end": 2233
+        },
+        {
+          "start": 2240,
+          "end": 2246
+        },
+        {
+          "start": 2274,
+          "end": 2281
+        }
+      ],
+      "weightsV2": {
+        "weight": 30.0,
+        "baseWeight": 23.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

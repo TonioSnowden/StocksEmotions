@@ -1,0 +1,48 @@
+{
+  "_id": "8cf6c53378fd292710232386632ae0f2ef1c9e39c800f4a1506416d7aa36c626",
+  "feed": "market-watch",
+  "title": "Apple reportedly wants to handle its own financial services, and partners' stocks paid the price",
+  "text": "<p>The company is developing payment-processing technology and tools that could support future ambitions, according to Bloomberg News. Eventually, Apple AAPL could come to depend less on the partners that support current fintech offerings such as Apple Pay, Apple Card and Apple Cash.</p><p>Shares of Green Dot Corp. GDOT, which helps facilitate the Apple Cash money-transfer service, fell as much as 10.6% in Wednesday trading after the report hit, though they pared back some of those losses and finished the day down 5.2%. Shares of CoreCard Corp. CCRD, which is said to do payment-processing work related to the credit card Apple offers with Goldman Sachs Group Inc. GS, were off 12.2%; Goldman Sachs stock fell 1.2%.</p><p>Shares of Apple weren't helped by the report, as they fell 0.7% to snap an 11-session winning streak. The company didn't immediately respond to a MarketWatch request for comment about its financial-services aims.</p><p>Apple is currently involved with a number of financial-technology projects, leveraging support from partners. While Apple Pay is likely the company's most well-known foray, Apple also has its credit card and an installment program for device purchases. Additionally, it recently announced that it would start letting merchants use their iPhones as acceptance devices for contactless payments.</p><p>The smartphone giant may have signaled its growing fintech ambitions recently through the acquisition of Credit Kudos, a company that aims to improve credit scoring. While Apple didn't respond to an earlier MarketWatch inquiry about the acquisition, the Credit Kudos terms-of-use page currently describes the company as a subsidiary of Apple.</p>",
+  "published": "2022-03-31T07:53:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 255,
+          "end": 260
+        },
+        {
+          "start": 619,
+          "end": 624
+        },
+        {
+          "start": 723,
+          "end": 728
+        },
+        {
+          "start": 926,
+          "end": 931
+        },
+        {
+          "start": 1099,
+          "end": 1104
+        },
+        {
+          "start": 1491,
+          "end": 1496
+        },
+        {
+          "start": 1655,
+          "end": 1660
+        }
+      ]
+    }
+  ]
+}

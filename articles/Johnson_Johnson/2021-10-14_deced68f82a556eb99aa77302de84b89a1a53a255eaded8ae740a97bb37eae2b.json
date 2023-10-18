@@ -1,0 +1,20 @@
+{
+  "_id": "deced68f82a556eb99aa77302de84b89a1a53a255eaded8ae740a97bb37eae2b",
+  "feed": "wall-street-journal",
+  "title": "What's News: World-Wide",
+  "text": "<p>A booster of J&amp;J's Covid-19 vaccine showed signs of significantly bolstering the immune defenses of study subjects, FDA staffers said.</p><p>The WHO established a new panel of scientists whose mandate will include attempting to revive a stalled inquiry into the origins of the novel coronavirus.</p><p>The Biden administration is preparing to open large sections of the U.S. coastline to wind-turbine projects as part of a plan to boost production of clean, renewable energy.</p><p>Supreme Court justices diverged sharply over the fairness of Boston Marathon bomber Dzhokhar Tsarnaev's death sentence.</p><p>What's News: World-Wide</p>",
+  "published": "2021-10-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 13,
+          "end": 16
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "eb1aa34275ecff1087e22a6c4ea6985d85d267ff43752016ac4bb71066462568",
+  "feed": "wall-street-journal",
+  "title": "Samsung Sees Chip Growth Still Stalling --- Pullback is forecast to last into 2023 as inflation, rates hurt consumer mood",
+  "text": "<p>Samsung, the world's largest chip maker by revenue, will respond quickly to fast-changing market conditions, Mr. Kyung said. Earlier this year, industry executives widely believed that the second half of 2022 would be stronger than the first. But by late spring, it became apparent that demand levels had \"drastically changed\" and would instead be softening significantly, Mr. Kyung said.</p><p>Despite the slowdown, Mr. Kyung said Samsung would continue to expand its investment and research-and-development spending. He suggested Samsung could -- as it did during prior industry dry spells -- use the downturn to capture more market share. He didn't elaborate.</p><p>\"Bad times can become good opportunities,\" said Mr. Kyung, 59 years old, who rose to Samsung's co-CEO position late last year.</p><p>The semiconductor industry enjoyed record-setting growth during the pandemic as demand for tech gadgets boomed. The effects of high inflation, rising interest rates and geopolitical tensions this year have sapped consumer and business spending. The drop-off has taken many chip companies by surprise.</p><p>Global chip sales are expected to grow 13.9% to $633 billion this year, according to a recent forecast from trade group World Semiconductor Trade Statistics. That represents a pullback from an earlier projection for a 16.3% rise.</p><p>Next year, chip sales are now forecast to grow by 4.6%, a half of a percentage point lower than an earlier 5.1% projected increase, according to estimates from the trade group.</p><p>Intel Corp. Chief Executive Pat Gelsinger, at a conference Wednesday, said he sees a more \"tepid\" market than even in July. Even so, he stuck to his expectation that the chip-sales slowdown will bottom out in the current quarter and conditions will improve in the final three months of the year.</p><p>The challenges go beyond consumers' willingness to spend on tech products. Semiconductor giants, including Nvidia Corp. and Advanced Micro Devices Inc., face potential sales losses due to new U.S. licensing requirements for shipping certain advanced chips to China and Russia.</p><p>In response to the sales slowdown, chip producers are also scaling back capacity expansion. IC Insights, a semiconductor market-research firm, lowered its industrywide capital expenditure estimate this year by 3 percentage points, reducing it to 21% growth from a year earlier.</p><p>Samsung dominates the market for memory chips, which go in everything from automobiles to smartphones to refrigerators. With its contract chip-making business, the South Korean firm is also one of the few companies able to produce the world's most advanced chips, alongside Taiwan Semiconductor Manufacturing Co. and Intel. Samsung stands to benefit from a recently approved package of U.S. subsidies and tax credits worth roughly $77 billion.</p><p>Samsung operates chip-production factories at three locations in South Korea, plus two plants in Austin, Texas. It announced plans last year to build a $17 billion facility in neighboring Taylor, Texas.</p><p>Samsung also runs two chip-making plants in Xi'an, China. The South Korean chip maker expects potential difficulties in bringing new equipment to its China facilities due to U.S. export restrictions. But China, which makes up about 40% of global tech demand, is a market that can't be overlooked, Mr. Kyung said.</p><p>\"Rather than taking sides in the U.S.-China conflict, we are working to find a win-win solution for all sides and think it's the right direction to be going in,\" he said.</p><p>Mr. Kyung spoke to reporters at Samsung's chip-making facility -- the world's largest -- located in the South Korean city of Pyeongtaek. On Wednesday, Samsung said production had started at its newest operational plant for advanced NAND flash memory chips. Production had been under way since July but Samsung hadn't disclosed the development.</p><p>The Samsung semiconductor chief made a rare public acknowledgment that the company's contact-chipmaking, or foundry, business had faltered in its efforts to ensure sufficient capacity for customers during a time of widespread shortages. As a result, he said, Samsung \"did not have that good of a reputation in Silicon Valley.\"</p><p>\"In the foundry business, long-term strategic partnerships are important in addition to just winning customers, but we fell short in those aspects,\" said Mr. Kyung, who vowed improvements.</p><p>In the future, Samsung's semiconductor unit will invest in overseas locations as needed based on market changes, though has yet to firm up any specific plans, he added.</p>",
+  "published": "2022-09-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 2660,
+          "end": 2665
+        },
+        {
+          "start": 1479,
+          "end": 1489
+        },
+        {
+          "start": 1492,
+          "end": 1503
+        },
+        {
+          "start": 2640,
+          "end": 2645
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000001,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 7.1525574e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 11
+    }
+  ]
+}

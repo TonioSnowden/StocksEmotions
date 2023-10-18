@@ -1,0 +1,29 @@
+{
+  "_id": "a57f419a540d47ab974668c751a3e9d37a08220ee6091079344722f5fbe22665",
+  "feed": "reuters",
+  "title": "UPDATE 2-U.S. awarding $482.3 mln in aviation manufacturing assistance",
+  "text": "<p>WASHINGTON, Sept 13 (Reuters) - The U.S. Transportation Department said it was offering $482.3 million in aviation manufacturing assistance to 313 businesses, including up to $75.5 million to Spirit AeroSystems .</p><p>Congress earlier this year created a $3 billion aviation manufacturing payroll subsidy program that will cover up to half of eligible companies' compensation costs for as long as six months. Ohio-based Parker-Hannifin Corp was offered up to $39.7 million, Connecticut-based Hexcel Corp offered $20.9 million and Astronics Corp $14.7 million.</p><p>The companies did not immediately respond to requests for comment.</p><p>Of the 313 companies receiving funds, 188 of them - 60% - had fewer than 100 employees at the end of calendar year 2020.</p><p>The funds will help support as many as 22,500 jobs nationwide.</p><p>U.S. Senator Jerry Moran , a Kansas Republican, said 31 Kansas companies will receive $104 million in payroll grants including Kansas-based Spirit AeroSystems .</p><p>Senate Commerce Committee chair Maria Cantwell said $41 million will go to 32 companies in her home state of Washington.</p><p>\"With aviation manufacturing not targeted to recover until well into 2022, at the earliest, this aviation protection program will help in hiring back some of those workers and staving off further layoffs at a critical time,\" said Cantwell, a Democrat.</p><p>More than 100,000 jobs have been lost in the aerospace industry since the start of the COVID-19 pandemic, according to the Transportation Department. Before then, the U.S. aerospace industry employed approximately 2.2 million workers, including 1.2 million who worked in various parts of the supply chain nationwide.</p><p>The offer requires companies to commit to not conducting furloughs without employee consent or laying off employees covered by subsidies during the six-month period.</p><p>Companies eligible include aircraft, engine, propeller or component manufacturers and companies that repair or overhaul airplanes and parts.</p><p>To qualify, a company must have involuntarily furloughed or laid off at least 10% of its total workforce, or have experienced a decline of at least 15% in 2020 total operating revenue.</p><p>Applications for a second round of funding closed Sept. 1 and additional funding recipients will be announced this fall, the Transportation Department said.</p><p>Some big aviation companies like General Electric Co's GE Aviation and Boeing Co declined to apply for the subsidy.</p>",
+  "published": "2021-09-13T21:26:55.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.99999875,
+      "offsets": [
+        {
+          "start": 2377,
+          "end": 2386
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

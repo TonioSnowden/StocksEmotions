@@ -1,0 +1,120 @@
+{
+  "_id": "6bd1e6df6cf057011f2a055218d30c3774dff6d7eb4ddd54ed1ff03a04351971",
+  "feed": "wall-street-journal",
+  "title": "Does Apple's Crash Detection Work? We Totaled Some Cars to Find Out. The new iPhone 14 and Apple Watch models promise to detect severe car crashes. According to our tests, speed and impact are only part of the story.",
+  "text": "<p>But the ability to detect that I was in a car crash? And then call 911 for me because I might be unconscious—or worse? Entrusting my life to a phone takes more than just marketing.</p><p>Apple is selling safety with the latest iPhone 14 models and Apple Watch Ultra, Series 8 and second-generation SE. It says the new crash-detection feature processes sensor data near-instantly to detect a collision. If you don't respond to on-screen prompts, it sounds an alarm then automatically calls emergency services and provides your location. Think of it like OnStar, but…OnYou. (Google's far less popular Pixel phones have had a similar feature since 2019.)</p><p>According to the National Highway Traffic Safety Administration, more than 25,000 vehicle occupants were killed and more than 140,000 suffered incapacitating injuries in car crashes in the U.S. in 2020. How many of those people would have benefited from a feature like this, we'll never know, but Apple's pitch is clear: If you're in a severe car crash, your iPhone or Watch can help.</p><p>The key word is \"severe.\" In a video explaining the feature, Apple uses the word seven times. So I wanted to know, what is a severe crash? And where's the line between severe and not-severe?</p><p>I crashed some cars to find out. Well, I didn't crash them. Michael Barabe, a demolition-derby champion from Monroe, Mich., did. As you'll see in my latest video, after failing to trigger the feature with bumper cars, my video producer Kenny Wassus and I found a way to bump real cars. (Safely, of course.) </p><p>We recruited Michael Barabe, a demolition-derby champ, to test Apple's car crash detection. PHOTO: Robin Groulx for The Wall Street Journal</p><p>Two wrecked cars and four deployed air bags later, we got Apple's new marketing gem to work. But in order to trigger consistently and reliably, the system in both the phone and watch needs a lot of sensor data and other signals. And about that \"s\" word: From our tests, there appears to be a \"severe\" gray area between harmless crashes and deadly ones.</p><p>The Setup</p><p>First, a crash course in demolition derbies: Michael drives in Figure Eight competitions, which use specially designed cars with a steel frame and not much else. His car is built to withstand the toughest collisions. He wears a racing helmet and a four-point harness. (We also had an EMT on site in case anything went wrong.)</p><p>Michael performed a series of crashes into two parked passenger vehicles, a 2003 Ford Taurus and a 2008 Dodge Caravan—with no one inside. We were at RS Recycling, a local company in Monroe that buys and processes junk vehicles. RS offered up the cars, which were already headed for the shredder. </p><p>We placed an iPhone 14 Pro Max and a Pixel 6 Pro on the junkyard car's vent to see if it would detect a crash. PHOTO: Robin Groulx for The Wall Street Journal</p><p>Here's how I set up the tech inside the vehicles for this not-exactly-scientific test:</p><p>• Derby car: Around Michael's wrist was an Apple Watch Ultra. Strapped next to him in durable OtterBox cases: an Apple Watch-paired iPhone 14 and a Google Pixel 5. Apple's crash feature is on by default; on the Pixel, you have to turn it on in the Personal Safety app.</p><p>• Junkyard car: Secured to the air vents and also protected by durable cases, an iPhone 14 Pro Max and a Google Pixel 6.</p><p>The Crashes</p><p>About five seconds after Michael first crashed into the Ford Taurus head-on, at about 25 mph, the Apple Watch Ultra on his wrist buzzed with an alert: \"It looks like you've been in a crash.\"</p><p>Michael hit the cancel button on his wrist. Had he not done that within 10 seconds, he would have heard a loud alarm and seen a 10-second countdown. Without further action, the watch would then have called 911 and sent a message with his location to a personal emergency contact. </p><p>To test Apple's crash detection, Michael Barabe drove his derby car into a Ford Taurus. PHOTO: Robin Groulx for The Wall Street Journal</p><p>While the impact barely moved Michael at all, the phones went flying onto the floor of his car. That's why Apple designed the feature to display the alert on the Watch if it is paired together with an iPhone.</p><p>Despite the Taurus' driver-side air bag going off—and the entire front of the car being smashed in—the iPhone and the Pixel in that car didn't detect a crash. Nor did the Pixel in Michael's car.</p><p>We tried again. On the second crash, the Taurus' passenger-side air bag deployed, and the bumper went flying. Again, the phones inside the Taurus didn't display an alert. Inside Michael's car, the Pixel detected the crash, but that time the Apple devices didn't.</p><p>The Detectors</p><p>So how did the gadgets in Michael's car know there was a crash? The new iPhone 14 and Apple Watch models use a combo of hardware sensors and software algorithms to detect a crash:</p><p>• Motion sensors: All the devices have a three-axis gyroscope and high-g force accelerometer, which samples motion more than 3,000 times a second. It means the devices can detect the exact moment of impact and any change in motion or trajectory of the vehicle.</p><p>SHARE YOUR THOUGHTS</p><p>Have you had any experiences where technology helped you in an emergency, or even saved your life? Join the conversation below.</p><p>• Microphones: The mics are used to detect loud sound levels that might indicate a crash. The microphones are only turned on when driving is detected, and no actual sound is recorded, Apple says.</p><p>• Barometer: If the air bags deploy when the windows are closed, the barometer can detect a change in air pressure.</p><p>• GPS: Readings can be used to detect speeds prior to a crash and any sudden lack of movement, as well as inform the device that it's traveling on a road.</p><p>• CarPlay and Bluetooth: When connected, these give the algorithms another signal that the phone is on board a car, so it knows to look out for a crash.</p><p>Given all that, I saw a flaw in the Taurus test. Because the phones were in a parked vehicle on private property—not a public road—they didn't have enough signals indicating they were in a car. Plus, when the air bags went off, the windows had been open. </p><p>When a crash is detected, an alert will pop up. After 20 seconds, emergency services are called. PHOTO: Rob Groulx for The Wall Street Journal</p><p>So I picked out the Dodge Caravan from the junkyard. Despite its two flat tires, it was still drivable. We drove it around for a few minutes and then stopped, simulating what happens at a stop sign or red light. Except here the driver got out of the Dodge before Michael's derby car slammed into it at about 25 mph, shattering its windshield and activating the air bags. Again, the iPhone and Watch in Michael's car showed an alert. The Pixel and the iPhone in the Dodge? Still nada.</p><p>When I contacted Apple with the results, a company spokesman said that the testing conditions in the junkyard didn't provide enough signals to the iPhone to trigger the feature in the stopped cars. It wasn't connected to Bluetooth or CarPlay, which would have indicated the car was in use, and the vehicles might not have traveled enough distance prior to the crash to indicate driving. Had the iPhone received those extra indicators—and had its GPS shown the cars were on a real road—the likelihood of an alert would have been greater, he said.</p><p>A Google spokesman also said that not only is the severity of a crash a factor but, similarly, the algorithm first needs to detect that you're driving.</p><p>The Takeaway</p><p>I was out of junkyard cars, so we'll have to take Apple and Google at their word. The good news (if there's any good news with car crashes) is that accidents involving stopped cars have historically resulted in far fewer deaths or incapacitating injuries, according to NHTSA.</p><p>Plus, that isn't a scenario where you would really need automatic crash notification, said Raul Arbelaez, vice president of the vehicle research center at the Insurance Institute for Highway Safety, an industry-funded research nonprofit. \"Something like that would occur at a parking lot or a stop light. You would probably have other vehicles around,\" he added. </p><p>The iPhone and Pixel didn't trigger a crash alert, despite being inside the significantly damaged Ford Taurus and Dodge Caravan. PHOTO: Robin Groulx for The Wall Street Journal</p><p>Which is perhaps why Apple's ads show a car alone in a remote area. \"Is it going to help a ton of crashes? Probably not,\" Mr. Arbelaez told me. \"It certainly can't hurt to have that feature if you're in a rural area.\"</p><p>On Sept. 21, Jacob McLean was making a left turn at an intersection in Coopersburg, Pa., when a car crashed into the front of his 2017 Volkswagen Jetta GLI. He said his four-day-old iPhone 14 Pro detected the collision and called for help.</p><p>\"After the air bags went off, I was trying to get my bearings, and I heard the SOS siren from the iPhone and then heard 911,\" he said. His phone was paired to his car via Bluetooth, and he said it was first on the scene to make a call.</p><p>Mr. McLean broke his hand in the crash but is otherwise OK.</p><p>Did the feature save his life? No, but he told me he was glad he had it. And after all my hours of testing, I'm glad it works in the real world, too. For many, this will be more than just a marketing gimmick.</p><p>— Sign up here for Tech Things With Joanna Stern , a new weekly newsletter. Everything is now a tech thing. Columnist Joanna Stern is your guide, giving analysis and answering your questions about our always-connected world.</p><p>Write to Joanna Stern at joanna.stern@wsj.com</p><p>Does Apple's Crash Detection Work? We Totaled Some Cars to Find Out.</p>",
+  "published": "2022-09-30T18:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 4016,
+          "end": 4021
+        },
+        {
+          "start": 242,
+          "end": 247
+        },
+        {
+          "start": 9447,
+          "end": 9452
+        },
+        {
+          "start": 6698,
+          "end": 6703
+        },
+        {
+          "start": 3400,
+          "end": 3405
+        },
+        {
+          "start": 3013,
+          "end": 3018
+        },
+        {
+          "start": 1592,
+          "end": 1597
+        },
+        {
+          "start": 2943,
+          "end": 2954
+        },
+        {
+          "start": 91,
+          "end": 102
+        },
+        {
+          "start": 5363,
+          "end": 5368
+        },
+        {
+          "start": 3064,
+          "end": 3069
+        },
+        {
+          "start": 3781,
+          "end": 3786
+        },
+        {
+          "start": 7442,
+          "end": 7447
+        },
+        {
+          "start": 4554,
+          "end": 4559
+        },
+        {
+          "start": 1092,
+          "end": 1097
+        },
+        {
+          "start": 4676,
+          "end": 4687
+        },
+        {
+          "start": 943,
+          "end": 948
+        },
+        {
+          "start": 181,
+          "end": 186
+        },
+        {
+          "start": 5,
+          "end": 10
+        },
+        {
+          "start": 91,
+          "end": 96
+        },
+        {
+          "start": 4676,
+          "end": 4681
+        },
+        {
+          "start": 3400,
+          "end": 3411
+        },
+        {
+          "start": 8229,
+          "end": 8234
+        },
+        {
+          "start": 242,
+          "end": 253
+        },
+        {
+          "start": 1727,
+          "end": 1732
+        },
+        {
+          "start": 2943,
+          "end": 2948
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

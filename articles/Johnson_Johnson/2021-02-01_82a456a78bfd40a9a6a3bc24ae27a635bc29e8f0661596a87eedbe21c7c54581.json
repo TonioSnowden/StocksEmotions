@@ -1,0 +1,24 @@
+{
+  "_id": "82a456a78bfd40a9a6a3bc24ae27a635bc29e8f0661596a87eedbe21c7c54581",
+  "feed": "wall-street-journal",
+  "title": "Another Promising Vaccine, This One From Johnson & Johnson",
+  "text": "<p>Crushing Covid will require making the most of the different vaccine candidates, which come with their own pros and cons, and tweaking them to stay ahead of viral mutations. The vaccines all follow a similar basic approach, putting into arms the spike protein found on the surface of the coronavirus. But Johnson &amp; Johnson's vaccine takes a slightly different approach to delivery than vaccines produced by Pfizer and Moderna. (I am on the board of Pfizer.) The biotech company Novavax is pursuing a vaccine candidate with its own special delivery system. All four might be available by the summer, which would mean an ample supply.</p><p>Americans will wonder which one works best? It will be tempting to compare data across trials. But that isn't apples to apples; the vaccines and the data aren't all the same. And new variants of Covid may demand vaccines that offer slightly different layers of protection and target slightly different parts of the virus.</p><p>The regulatory process must encourage this kind of portfolio diversification, while allowing tweaks to keep ahead of the virus's twists and turns. The FDA is working on guidance to address new variants, which will include a pathway for updating vaccines.</p><p>The model should be the flu-vaccine process. Every year scientists develop the basic components for flu vaccines that are capable of targeting many different strains of the virus. But only the three or four strains expected to be most prevalent are put into production. The rest stay on the shelf, ready to be put into production should the flu take an unexpected evolutionary turn. The FDA should do the same for Covid.</p><p>Second, it is essential to design clinical trials that can be completed within several months, to avert potential outbreaks of new variants. It's fast, but given today's scientific capabilities that could be enough time to do the required trials.</p><p>Take the South African variant known as B1351. The existing trials will be used to establish that the current vaccines provide clinical protection against Covid disease. But to prove the new versions targeting B1351 work as well as the current vaccines, the FDA can measure the antibody levels in the plasma from patients who have recovered from B1351 and establish a benchmark for the number of antibodies needed to neutralize that virus. Then the FDA can use those antibody levels as a proxy to evaluate whether updated vaccines are able to generate sufficient levels of protection.</p><p>This could allow vaccine makers to test new boosters in clinical trials that enroll 300 or 400 patients rather than 40,000, an enormous savings in cost and time. Larger and longer studies can be started at the same time, including ones that follow vaccinated patients.</p><p>The virtue of the new vaccines is that they are derived through synthetic processes using the sequence of the coronavirus's RNA. That means the vaccines are relatively straightforward to update when new variants emerge.</p><p>Another priority should be developing antiviral drugs. We need more tools that go after central features of how the viruses replicate and don't depend on targeting proteins found on the virus's surface. These drugs could remain effective even if the virus mutates.</p><p>The best backstop against the wide transmission of mutant strains is still the same: a public that takes precautions like social distancing and masks -- paired with a thoughtful and nimble system for developing vaccines.</p><p>---</p><p>Dr. Gottlieb is a resident fellow at the American Enterprise Institute and was commissioner of the Food and Drug Administration, 2017-19. He serves on the boards of Pfizer and Illumina.</p>",
+  "published": "2021-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 305,
+          "end": 322
+        },
+        {
+          "start": 41,
+          "end": 58
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

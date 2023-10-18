@@ -1,0 +1,34 @@
+{
+  "_id": "9c9f390aea37234dc31902d34e87c25a207307f3675a0cd28f3ea793ee6182df",
+  "feed": "wall-street-journal",
+  "title": "Microsoft's Activision Deal Raises Competition Concerns in the U.K.",
+  "text": "<p>Microsoft President Brad Smith said the company is ready to work with the CMA on next steps and address any of its concerns.</p><p>Microsoft makes Xbox videogame consoles and its chief rival, Sony Group Corp., is known for its PlayStation system. Microsoft and Sony count Nintendo Co., whose Switch console can be played at home or on the go, as a major competitor. All three companies develop and publish their own games.</p><p>Activision specializes in game development and owns popular franchises such as \"Call of Duty\" and \"World of Warcraft.\"</p><p>\"CMA is concerned that if Microsoft buys Activision Blizzard it could harm rivals, including recent and future entrants into gaming, by refusing them access to Activision Blizzard games or providing access on much worse terms,\" the watchdog said.</p><p>The regulator added it is concerned that Microsoft could use Activision's games to damage competition in the nascent market for cloud gaming, or the streaming of games via internet-connected devices such as consoles, smartphones and laptops.</p><p>Microsoft is one of the world's largest cloud-computing service providers and the company has been a leader in the cloud-gaming market through its Game Pass subscription service. Sony offers cloud gaming through its PlayStation Plus subscription.</p><p>Microsoft's Mr. Smith said: \"Sony, as the industry leader, says it is worried about Call of Duty, but we've said we are committed to making the same game available on the same day on both Xbox and PlayStation.\"</p><p>\"We want people to have more access to games, not less,\" he said.</p><p>Representatives for Sony didn't respond to a request for comment.</p><p>Entering the second phase of the probe could indicate the CMA is concerned the deal could harm game developers and consumers in markets under its jurisdiction, said William Newman, a senior counsel at a New York litigation firm. \"The U.K. in particular has a very large gaming industry,\" he said.</p><p>The U.K. is home to some top game studios, including Electronic Arts Inc.'s Codemasters and Take-Two Interactive Software Inc.'s Rockstar North. It is the world's sixth-largest videogame software market by revenue, according to industry tracker Newzoo BV. China is the largest, followed by the U.S.</p><p>Less than a third of the more than 275 mergers the CMA has investigated since 2017 have moved to the second phase. Of those, the CMA blocked eight, more than a dozen were abandoned and others were approved or gained approval subject to certain conditions.</p><p>Microsoft's deal for Activision is being reviewed in the U.S. by the Federal Trade Commission over antitrust concerns. The current FTC leadership has broadcast that it plans to scrutinize acquisitions by the biggest technology companies. Since assuming office in 2021, FTC Chairwoman Lina Khan has taken steps to investigate more deals and what the commission sees as anticompetitive conduct.</p><p>Although the deal is undergoing scrutiny in several other markets, competition lawyers said regulators in the U.K., the European Union and the U.S. are the most likely to intervene. The EU hasn't yet begun a formal review of the deal.</p><p>The lawyers said regulators' positions may depend partly on how they define the market affected by the Microsoft-Activision deal and how much of that market the two companies control. If regulators define it broadly -- for example, to cover videogames of all kinds -- they may be less likely to view the merger as a threat to competition. A more narrowly defined market focused on videogames in the same shooter genre as \"Call of Duty\" might produce more concerns, they said.</p><p>Microsoft announced the agreement to buy Activision for approximately $95 a share in January. It has said it expects the deal, which would be its largest acquisition by far, to close by June of 2023.</p><p>Buying Activision would significantly increase Microsoft's videogame revenue. Activision's sales totaled $8.8 billion in 2021. Microsoft reported $16.23 billion in videogame revenue for the fiscal year through June, accounting for about 8% of its total revenue.</p><p>Dieter Paemen, a partner with law firm Clifford Chance LLP who is based in Brussels, said the CMA has shown itself to be more assertive after the U.K.'s split from the EU. In recent years, the CMA has been exerting its powers in a series of high-profile cases, targeting tech giants such as Alphabet Inc.'s Google and Apple Inc.</p>",
+  "published": "2022-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 4319,
+          "end": 4328
+        },
+        {
+          "start": 4351,
+          "end": 4361
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290125,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

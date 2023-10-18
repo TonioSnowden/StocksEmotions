@@ -1,0 +1,28 @@
+{
+  "_id": "2fe4552f4d1a8faaea74370e434f50511cadbedbe3e17debf625734288579155",
+  "feed": "wall-street-journal",
+  "title": "Samsung Profit to Rise by 53%",
+  "text": "<p>The South Korean firm's outlook handily topped market expectations and showed continuing strength for technology companies and especially chip makers that have seen greater pricing power amid a supply crunch.</p><p>A year ago, during the pandemic's first months, Samsung saw a double-digit percentage drop in revenue for electronics products like smartphones and televisions. But demand for components surged as people shifted more of their lives online. Results have remained strong since.</p><p>Analysts' estimates gathered by S&amp;P Global Market Intelligence were about 10.9 trillion won in operating profit and 61.2 trillion won in revenue.</p><p>Samsung reports full earnings this month. The Suwon, South Korea, company is considered to be an industry bellwether because it is both a major electronics maker and a components supplier to the world's biggest tech firms such as Apple Inc. and Sony Group Corp.</p><p>Samsung is likely to see its smartphone shipments decline by 20% from the previous quarter, according to Doh Hyun-woo, an analyst at NH Securities in Seoul, in a recent note to investors.</p><p>Part of that drop is due to Covid-19 outbreaks in growth markets like India, which sapped consumer demand. Some suppliers to Samsung's handset business have warned of production bottlenecks.</p>",
+  "published": "2021-07-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 861,
+          "end": 871
+        },
+        {
+          "start": 861,
+          "end": 870
+        },
+        {
+          "start": 861,
+          "end": 866
+        }
+      ]
+    }
+  ]
+}

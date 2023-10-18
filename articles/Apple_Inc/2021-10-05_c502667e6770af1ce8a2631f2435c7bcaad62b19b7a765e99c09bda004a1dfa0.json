@@ -1,0 +1,32 @@
+{
+  "_id": "c502667e6770af1ce8a2631f2435c7bcaad62b19b7a765e99c09bda004a1dfa0",
+  "feed": "market-watch",
+  "title": "Facebook's very, very bad day: Services go dark and stock plunges in wake of whistleblower revelations",
+  "text": "<p>Facebook FB shares experienced their worst session in nearly a year, falling 4.9% to $326.23 for their worst single-day percentage decline since a 5% fall on Nov. 9, 2020. The stock outpaced a 1.3% loss on the S&amp;P 500 index SPX and a 2.1% loss on the tech-heavy Nasdaq Composite Index. COMP</p><p>The decline followed a national broadcast of a whistleblower's allegations that the social media network placed profits before safety. Late Sunday, ViacomCBS Inc.'s VIAC news program “60 Minutes” aired an interview with former Facebook data scientist Frances Haugen, who alleges that the social-media giant has been deceiving investors about how it has been dealing with hate speech and misinformation on its platform.</p><p>For more: Facebook whistleblower says her goal is not to damage the company</p><p>Haugen provided thousands of pages of documents to The Wall Street Journal, which formed the basis of the publication's The Facebook Files series. Haugen is scheduled to testify before Congress on Tuesday morning and is also seeking whistleblower protection in complaints filed with the Securities and Exchange Commission.</p><p>Adding to all of that was a widespread outage of Facebook services, including Instagram and WhatsApp, that started just before noon Eastern time. Even the status dashboard Facebook uses to communicate its availability to developers was not working Monday. Downdetector, which tracks internet outages, said Monday's outage was unprecedented.</p><p>https://twitter.com/downdetector/status/1445132775036706825?s=20By late afternoon, things had gotten so bad the problem could not be fixed remotely, requiring engineers at one of the company's main data centers to try to reboot servers manually. Facebook's internal systems were also down, leaving email as the main method of communication, according to reports.</p><p>A Facebook spokesman took to Twitter Inc.'s TWTR platform to confirm the issues.</p><p>“We're aware that some people are having trouble accessing our apps and products,” spokesman Andy Stone said. “We're working to get things back to normal as quickly as possible, and we apologize for any inconvenience.”</p><p>By the numbers: Facebook outage costs stock billions, could cost company millions</p><p>While Facebook did not go into further detail on the cause of Monday's outage, experts said on Twitter that it appeared to be a problem with the company's domain-name system, or DNS.</p><p>https://twitter.com/briankrebs/status/1445077617426718725Later Monday, Facebook's Chief Technology Officer admitted on Twitter that the company was having “networking issues,” while the New York Times reported that Facebook had sent a team to a California data center to try to reboot servers manually as employees were locked out of systems and could not even enter the company's buildings because their systems had locked down.</p><p>https://twitter.com/schrep/status/1445114730151043073Finally, By 6 p.m. Eastern, the landing pages for Facebook and Instagram were loading, while WhatsApp less than a half-hour later. Facebook confirmed on Twitter that the sites were once again accessible.</p><p>https://twitter.com/Facebook/status/1445155265360416773Amid the maelstrom, Facebook filed a motion to dismiss the Federal Trade Commission's amended antitrust lawsuit against the company, saying the agency's complaint still lacked evidence Facebook violated antitrust laws.</p><p>“This court gave the agency a second chance to make a valid claim,” the company said in its filing to the U.S. District Court for the District of Columbia. “But the same deficiency that was fatal to the FTC's initial complaint remains: the amended complaint still pleads no facts plausibly establishing that Facebook has, and at all relevant times had, monopoly power.”</p><p>For more: FTC has a chance for a do-over in its ‘fiasco' antitrust case against Facebook, legal experts contend</p><p>Facebook's motion was expected, given Chief Executive Mark Zuckerberg's vow to strenuously fight any government attempt to impede the company through antitrust action.</p><p>Under new chair Lina Khan, the FTC refiled its case in August, buttressing its monopoly arguments with more analysis on market share and how Facebook used billion-dollar mergers with Instagram and WhatsApp to “buy or bury” competition. The agency in its suit asserts Facebook should be broken up.</p><p>The judge has until mid-November to respond to Facebook's motion to dismiss the case.</p><p>Through a series of public humiliations and recriminations, Facebook stock has largely avoided any fallout. Shares have gained 19.4% so far in 2021, outpacing the 14.5% growth of the S&amp;P 500 index in that time, and have more than doubled over the past three years as the S&amp;P 500 grew about 50%.</p><p>From Barron's: Why Facebook Stock Is Still a Buy Despite Controversies</p><p>Institutional analysts continue to recommend the stock as well. According to FactSet, 38 of the 51 analysts covering Facebook — 75% — rate it as a “buy” or equivalent, while 12 rate it “hold” and only one calls the stock a “sell.” The average price target as of Monday morning was $421.55, nearly 30% higher than the going rate.</p><p>Other social-network and Big Tech stocks also suffered Monday. Twitter, Snap Inc. SNAP and Pinterest Inc. PINS shares all fell by a larger percentage than Facebook, while Apple Inc. AAPL, Microsoft Corp. MSFT, Alphabet Inc. GOOGL GOOG and Amazon.com Inc. AMZN shares all declined 2% or more on the day.</p>",
+  "published": "2021-10-05T07:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5238,
+          "end": 5248
+        },
+        {
+          "start": 5249,
+          "end": 5253
+        },
+        {
+          "start": 5238,
+          "end": 5243
+        },
+        {
+          "start": 5238,
+          "end": 5247
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

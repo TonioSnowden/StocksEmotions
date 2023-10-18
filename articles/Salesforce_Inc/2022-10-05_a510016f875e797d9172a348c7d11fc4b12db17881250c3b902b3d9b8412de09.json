@@ -1,0 +1,28 @@
+{
+  "_id": "a510016f875e797d9172a348c7d11fc4b12db17881250c3b902b3d9b8412de09",
+  "feed": "wall-street-journal",
+  "title": "Rise in Cyberattacks Stretches and Stresses Defenders; Technicians responding to hacks often find themselves working several cases at once, with little relief",
+  "text": "<p>In some ways, the heavy workload naturally follows cybersecurity's evolution over the past decade, said Jared Greenhill, senior consulting director in Palo Alto Networks Inc.'s Unit 42 incident-response business. In past years, he said, incident responders often could only work on one job at a time as they were required to travel to the offices of hacked companies.</p><p>\"The C-level team wanted you on-site, they wanted to be able to talk to you in the elevator. They wanted five or 10 of you in person, supporting the incident,\" he said.</p><p>That expectation has changed in recent years, he said. The rise in attacks and the development of remote tools means on-site work isn't always practical or necessary.</p><p>Plus, stricter limits on cyber insurance coverage sometimes mean small companies don't have the financial leeway to deal with the many costs of a hack and hire several responders—often one of the most expensive parts of recovery, he said.</p><p>The coronavirus pandemic in 2020 closed offices, grounded travel and forced significant numbers of people to work from home. For incident responders, it meant juggling more cases, said Itay Shohat, director of incident response and threat hunting at cybersecurity company Sygnia Inc.</p><p>Mr. Shohat said during the height of the pandemic, he would often start the day with a videoconference on one case for several hours, jump to another case and then another. He would then join update calls with his client's management and switch between jobs as necessary.</p><p>\"It was not like you're wrapping up your work at the office around 5 or 6 p.m.,\" he said. \"You just continued to work around the clock because everyone else just continued working.\"</p><p>A global survey of 1,100 incident responders published Monday by IBM's Security division found that 68% said it was common for them to be assigned to two or more incidents at once. The work appears to be taking its toll: A similar figure, 64%, said they have sought mental-health assistance for insomnia, burnout and anxiety.</p><p>Managing stress is a primary consideration in every incident-response team, veterans say. The work is technical, laborious and difficult, often performed in the shadow of a company shutdown that could threaten its existence.</p><p>\"The CEO knows exactly how much money the business is losing and makes that [known] to everybody else as well,\" said Laurance Dine, global lead for X-Force. \"There's huge pressure.\"</p><p>Hackers often launch attacks on weekends or just before major holidays. A ransomware attack on meatpacker JBS USA Holdings Inc., for example, occurred at the start of the Memorial Day weekend in 2021 and the Los Angeles Unified School District was hit on this year's Labor Day weekend.</p><p>Incident responders from the Cybersecurity and Infrastructure Security Agency and the district worked well into the night on Sunday after the attackers published data stolen from school systems, Superintendent Alberto Carvalho said Monday.</p><p>\"Christmas has been a hot one recently,\" said Keith McFarland, a senior manager in cloud company Salesforce Inc.'s internal threat-response team, citing the disclosure of an attack on technology provider SolarWinds Corp. in December 2020 and a vulnerability in open-source software known as Log4j disclosed last December. That vulnerability forced security teams to work throughout the winter holiday.</p><p>Managers say they understand the pressure their staff experience and try to prevent burnout. At X-Force, Mr. Dine said his employees aren't allowed to work more than two incidents back-to-back without time off.</p><p>Mr. Greenhill said he and others at Palo Alto Networks monitor staff well-being and manage capacity so staff aren't constantly working. The company requires incident responders and analysts to take time off when they feel run down. \"It's definitely a balancing act, and there's not a perfect solution for it,\" he said.</p><p>At Salesforce, which operates an internal computer security incident response team of around 40 to 50 people, staff are given one Friday a month off to relieve some of the stress, Mr. McFarland said.</p><p>The company's follow-the-sun model, with teams in the U.S., Ireland and Australia working in shifts, allows his staff to keep semiregular hours, he said.</p><p>\"We really try to keep our day length to a normal eight hours,\" Mr. McFarland said. He also emphasizes the importance of personal care to his staff, including regular exercise and having interests outside of work.</p><p>IBM's Mr. Dine said pastimes have been crucial to his own mental health while working engagements, especially running marathons and ultramarathons. \"If I didn't have that, I don't think I'd be in this business,\" he said.</p><p>Write to James Rundle at james.rundle@wsj.com</p><p>Rise in Cyberattacks Stretches and Stresses Defenders</p>",
+  "published": "2022-10-05T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 3875,
+          "end": 3885
+        },
+        {
+          "start": 3037,
+          "end": 3052
+        },
+        {
+          "start": 3037,
+          "end": 3047
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

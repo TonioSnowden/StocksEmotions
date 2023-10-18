@@ -1,0 +1,34 @@
+{
+  "_id": "aa9f6f973d3df846f9ce718d95ea8c4a274fafb7b02e40113bab6236bdccac4c",
+  "feed": "wall-street-journal",
+  "title": "Firm Retention Summary: Aearo Technologies LLC",
+  "text": "<p>FIRM TO BE HIRED: McDonald Hopkins LLC</p><p>PRINCIPAL ASSIGNED TO THE CASE: David A. Agay</p><p>DUTIES: The firm will provide the following services:</p><p>•the tasks of reviewing, negotiating, evaluating, and approving a strategic transaction or a series of strategic transactions (each a \"Transaction\"); and</p><p>•certain rights, authority, and powers in connection with matters pertaining to a Transaction or any chapter 11 proceedings in which a conflict of interests exists or is reasonably likely to exist between the Debtors and any related party.</p><p>HOURLY COMPENSATION:</p><p>Members of the firm will be compensated at the following hourly rates:</p><p>Members $375 - $960</p><p>Of Counsel $345 - $910</p><p>Associates $250 - $495</p><p>Paralegals $185 - $345</p><p>CASE BACKGROUND: Aearo Technologies LLC, a unit of 3M Co., filed for chapter 11 bankruptcy protection on July 26.</p>",
+  "published": "2022-08-29T21:40:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 764,
+          "end": 770
+        },
+        {
+          "start": 765,
+          "end": 771
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0009613,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0009611845,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

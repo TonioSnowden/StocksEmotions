@@ -1,0 +1,24 @@
+{
+  "_id": "d6d81aed1586749ac78ccd90e8426b0d5afb4fc87dcae92945173da2d4ea780a",
+  "feed": "economist-newspaper",
+  "title": "Inflation in America: Rental resurgence",
+  "text": "<p>Shelter has the biggest weight in the CPI, making up 32% of the basket of goods and services used to construct the index. The component is broken into two main buckets: regular rents paid by tenants, and the imputed cost of living in owned homes. Although house prices rose by 20% in the year to July, they do not feed directly into the CPI.{+}That is because statisticians treat home purchases as investment rather than consumption. Instead they capture homeownership by estimating \"owners' equivalent rent\", the amount an owned property could collect based on leased ones nearby. The rental market, therefore, is what drives shelter inflation.</p><p>For much of the pandemic both rents and shelter inflation were depressed. But there are two reasons to think the latest pickup in shelter costs will continue. The first is the expiry of the government's eviction moratorium. The policy had helped renters stay in their homes in 2020, even as lockdowns meant some were unable to work. Many tenants also negotiated lower rents during that time. Now that the moratorium has lapsed, Goldman Sachs, a bank, expects about 750,000 evictions by the end of year. That could lead to a jump in rents. The largest rises occur when a new tenant moves in, says Randal Verbrugge of the Federal Reserve Bank of Cleveland. Rents for new leases are up by 17% compared with what the previous tenant paid, suggests RealPage, a rental site.</p><p>The second reason why shelter inflation might rise further is that market prices feed through to the inflation figures only slowly. Landlords tend to charge more rent when the value of their property goes up, but with a lag. Rises in new rents also take time to appear in consumer prices, because leases tend to last a year, and the CPI samples rents only every six months or so. President Joe Biden's Council of Economic Advisers estimates that a one-percentage-point increase in house-price inflation leads to a rise of 0.11 percentage points in the shelter component in 16 months' time.</p><p>A timely measure of rents, published by Zillow, a property site, is up by around 10% on the year. Further rises could follow as more new leases are signed. Laura Rosner-Warburton of Macro Policy Perspectives, a research firm, expects shelter inflation to climb to 4-6% by the end of 2022. That would contribute 1.3-1.9 percentage points to headline inflation, twice its average contribution in the decade before the pandemic. The next inflationary force could be home-grown.</p>",
+  "published": "2021-10-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1074,
+          "end": 1081
+        },
+        {
+          "start": 1074,
+          "end": 1087
+        }
+      ]
+    }
+  ]
+}

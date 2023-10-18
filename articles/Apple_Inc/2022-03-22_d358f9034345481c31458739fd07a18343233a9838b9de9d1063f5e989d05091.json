@@ -1,0 +1,36 @@
+{
+  "_id": "d358f9034345481c31458739fd07a18343233a9838b9de9d1063f5e989d05091",
+  "feed": "wall-street-journal",
+  "title": "Apple's Online Products Are Hit By Outage",
+  "text": "<p>By midafternoon, the issues were resolved, Apple's status page said.</p><p>Downdetector, a site which tracks internet outages, showed a sharp decrease in the number of outages being reported compared with thousands across various Apple properties earlier in the day.</p><p>Apple representatives didn't respond to requests for comment. The company said on its status page that the problems had ranged from slow or unavailable service to intermittent issues before being resolved as many as roughly two hours later.</p><p>Internet outages are somewhat common. They have affected scores of technology companies, including Amazon.com Inc.'s cloud computing unit, Amazon Web Services, as well as Facebook parent Meta Platforms Inc., Spotify Technology SA and Roblox Corp. These glitches, sometimes short and others lengthy, can impact people's ability to do business, play videogames or share photos with friends.</p><p>Apple users took to social media to complain about not being able to send photos in iMessage, or listen to music.</p>",
+  "published": "2022-03-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 261,
+          "end": 266
+        },
+        {
+          "start": 43,
+          "end": 48
+        },
+        {
+          "start": 891,
+          "end": 896
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 224,
+          "end": 229
+        }
+      ]
+    }
+  ]
+}

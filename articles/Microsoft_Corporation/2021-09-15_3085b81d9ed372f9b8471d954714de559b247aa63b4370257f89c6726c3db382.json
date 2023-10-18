@@ -1,0 +1,52 @@
+{
+  "_id": "3085b81d9ed372f9b8471d954714de559b247aa63b4370257f89c6726c3db382",
+  "feed": "wall-street-journal",
+  "title": "Wells Fargo Embraces Multicloud With Microsoft, Google Deals; The bank is part of an industry shift away from private data centers to the public cloud",
+  "text": "<p>Mr. Van Beurden declined to disclose how much the bank is spending on the move to upgrade its digital infrastructure.</p><p>Recently, Wells Fargo has struggled with outages that have underscored technology failures from antiquated systems. The cloud initiative will allow the company's technology team to build and deploy applications faster, which will benefit the bank's customers, said Mr. Van Beurden, who joined the company in 2019 and was previously chief information officer of consumer and community banking at JPMorgan Chase &amp; Co.</p><p>Wells Fargo's effort to modernize its digital infrastructure also includes a plan to decommission its own data centers and move some of its applications to undisclosed third-party data center providers, Mr. Van Beurden said.</p><p>Public cloud services allow software engineers to focus on building and deploying new apps and services quickly, using the latest software tools, without needing to provision hardware when more computing power is needed.</p><p>Wells Fargo is competing against other banks that are embracing the cloud and moving away from their own private data centers. Morgan Stanley, for example, in June said it is shifting some of its core workloads to Microsoft's Azure cloud platform. Last year, Capital One Financial Corp. shifted its data, applications and information-technology systems to Amazon Web Services.</p><p>About two-thirds of enterprise-level companies use multiple clouds, according to a May report by Boston Consulting Group. By 2025, up to 60% of consumer-facing applications and more than 30% of core business applications will be running on public clouds, according to the consulting firm.</p><p>Banks, though, have moved to the cloud slower than other industries in part because of regulatory barriers and security concerns. The banking industry still relies on significant amounts of legacy technology, which makes a big push to the public cloud a large and complex undertaking, said Benjamin Rehberg, a managing director and senior partner at Boston Consulting Group who leads the technology practice in North America. \"It's just hard for banks to do this,\" he said.</p><p>Wells Fargo plans to use Microsoft's Azure as its primary public cloud provider, with Google Cloud providing \"business-critical\" services including those related to artificial intelligence, Mr. Van Beurden said. Microsoft's Azure cloud services are expected to help the bank assess risk better, by performing multiple simulations simultaneously about cost modeling interest rates for capital markets, said Deb Cupp, president of Microsoft U.S.</p><p>The vendors were chosen because they are industry-leading cloud-service providers with a strong record in the financial services industry, Mr. Van Beurden said. The company isn't solely relying on one public cloud provider because it wants to manage its risk in the cloud and each vendor has different competencies, he said.</p><p>Wells Fargo's information technology team could spend less time fixing software bugs and overseeing IT operations as part of the shift to public cloud services, which automatically perform some of those functions, Mr. Van Beurden said. The risk of outages may be reduced because of the cloud's ability to automatically detect when certain apps start to fail and automatically remediate the issues, he said. \"Of course, that's one of the reasons to do this,\" he said.</p><p>The company plans to hire more cloud security engineers as a result of the initiative, he said. \"It's bold and aggressive in the vision, [and] calculated, deliberate and focused in the execution,\" he said.</p><p>Write to Sara Castellanos at sara.castellanos@wsj.com</p><p>Wells Fargo Embraces Multicloud With Microsoft, Google Deals</p>",
+  "published": "2021-09-15T14:45:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2145,
+          "end": 2156
+        },
+        {
+          "start": 37,
+          "end": 46
+        },
+        {
+          "start": 1194,
+          "end": 1203
+        },
+        {
+          "start": 2549,
+          "end": 2558
+        },
+        {
+          "start": 3653,
+          "end": 3662
+        },
+        {
+          "start": 2332,
+          "end": 2343
+        },
+        {
+          "start": 2145,
+          "end": 2154
+        },
+        {
+          "start": 2332,
+          "end": 2341
+        },
+        {
+          "start": 1194,
+          "end": 1205
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

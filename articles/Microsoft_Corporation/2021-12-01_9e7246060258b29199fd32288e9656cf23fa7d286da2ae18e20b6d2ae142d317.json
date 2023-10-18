@@ -1,0 +1,24 @@
+{
+  "_id": "9e7246060258b29199fd32288e9656cf23fa7d286da2ae18e20b6d2ae142d317",
+  "feed": "wall-street-journal",
+  "title": "Nasdaq to Transition Markets Operations To Amazon's Cloud",
+  "text": "<p>Nasdaq's ambition is to become \"100% cloud-enabled,\" Adena Friedman, the company's chief executive, said in announcing the move Tuesday at an AWS industry conference in Las Vegas.</p><p>Nasdaq has previously said that all of its more than 25 markets will be hosted in the cloud within the next decade.</p><p>They include six equity markets in North America, including the Nasdaq Stock Market, as well as six equity derivative markets, the Nasdaq Baltic and Nasdaq Nordic markets, and fixed-income and commodity markets.</p><p>The financial-services sector has been slower to adopt cloud computing than other industries, stemming in part from the tight regulatory oversight of banks and exchanges, as well as concerns over breaches of sensitive client data. \"To the extent that they don't disintermediate their trading partners and investors, moving to the cloud gives exchanges greater flexibility, as well as enables more people to connect, enables people to connect easier,\" said Larry Tabb, head of market-structure research at Bloomberg Intelligence.</p><p>In November, CME Group Inc. and Alphabet Inc.'s Google struck a deal to move CME's core trading systems to the cloud.</p><p>Nasdaq already stores billions of transaction records in a data warehouse operated by AWS, including daily orders and quotes transmitted by traders. Over the years, the company has migrated a number of services to AWS, including its revenue management system for the U.S. and European markets. Its existing relationship with AWS is a big reason Nasdaq said it chose the Amazon.com unit to host its markets. \"We have had a longstanding relationship with them,\" said Brad Peterson, Nasdaq's chief technology and information officer.</p><p>Cloud systems and apps are hosted on data centers operated by third-party providers, including tech giants such as Amazon.com, Microsoft Corp. and Google. The systems enable users to rapidly scale computing needs, based on demand, with far greater ease than in their own data centers.</p><p>Mr. Peterson has credited cloud systems for keeping Nasdaq from suspending trading in January, when a frenzy for shares of GameStop Corp. and a handful of other companies flooded popular online brokerages, caused a spike in market volatility and forced many operators to restrict access to trading.</p><p>He said moving markets to the cloud has the potential to provide the exchange with more security, greater reliability and better scalability, or the ability to quickly power up computing resources. Nasdaq and AWS could also create new cloud-based products and services for Nasdaq's customers, Mr. Peterson said.</p><p>Scott Mullins, head of world-wide financial services business development at AWS, said Nasdaq's growing use of cloud systems is driven by a need for elasticity and resilience to handle market volatility, along with hundreds of billions of trading events every day.</p>",
+  "published": "2021-12-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1813,
+          "end": 1828
+        },
+        {
+          "start": 1813,
+          "end": 1822
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

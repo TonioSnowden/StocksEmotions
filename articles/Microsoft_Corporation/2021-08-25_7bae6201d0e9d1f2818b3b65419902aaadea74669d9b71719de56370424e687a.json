@@ -1,0 +1,32 @@
+{
+  "_id": "7bae6201d0e9d1f2818b3b65419902aaadea74669d9b71719de56370424e687a",
+  "feed": "wall-street-journal",
+  "title": "Salesforce Sales Jump on Pandemic-Fueled Demand for Cloud Services; Business-software company projects record sales for current quarter with Slack on board",
+  "text": "<p>San Francisco-based Salesforce on Wednesday posted revenue of $6.34 billion, up 23% from the same quarter a year ago, topping Wall Street expectations, according to analysts surveyed by FactSet. The company generated earnings per share of 56 cents.</p><p>\"With companies and governments around the world continuing to accelerate their digital transformations, we delivered our fifth phenomenal quarter in a row,\" said Salesforce Chief Executive Marc Benioff.</p><p>Since the close of the most recent quarter, Salesforce completed its $27.7 billion acquisition of chat-based business communication company Slack Technologies Inc. last month. The acquisition underpins Salesforce's push to become a more formidable rival to Microsoft Corp. that has been pushing its Slack competitor called Teams, which combines both chat and videoconferencing capabilities. Teams usage has grown rapidly during the pandemic to help with remote working, but could grow quickly again as it will soon be integrated for free into Microsoft's coming Windows operating system due out later this year.</p><p>Salesforce has said it would begin integrating Slack more closely with its sales software.</p><p>For the current quarter, the first to include Slack, Salesforce projects sales of $6.78 billion to $6.79 billion, slightly ahead of Wall Street expectations.</p><p>Slack was only the latest move by Mr. Benioff to expand Salesforce through acquisitions beyond its core customer relationship management software. In 2019, it acquired Tableau for $15.7 billion in what was then its largest-ever acquisition. Some investors have been wary about the amount of deal making, including the purchase of Slack, which was losing money.</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com</p><p>Salesforce Sales Jump on Pandemic-Fueled Demand for Cloud Services</p>",
+  "published": "2021-08-25T20:28:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 710,
+          "end": 725
+        },
+        {
+          "start": 996,
+          "end": 1005
+        },
+        {
+          "start": 710,
+          "end": 719
+        },
+        {
+          "start": 996,
+          "end": 1007
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

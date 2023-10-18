@@ -1,0 +1,32 @@
+{
+  "_id": "be1bd4a3b5447e7c1ab6f7d9d82b696dbd2e6e0fbb096bc6aba70e0979a198fc",
+  "feed": "economist-newspaper",
+  "title": "The world economy: Recession watch",
+  "text": "<p>Worries are certainly mounting. The war in Ukraine has triggered higher food and energy prices, which have hammered households' disposable incomes. Lockdowns in China are disrupting supply chains. And central banks are rapidly raising interest rates to tame inflation.</p><p>Fears about the state of the world economy have jolted financial markets. In the past month stockmarkets in rich countries have fallen by more than a tenth. Risky assets, including tech stocks and cryptocurrencies, have taken a nasty blow. Economists, meanwhile, are steadily downgrading their forecasts for global growth. To what extent are recession fears already materialising? A look at the data gives grounds for cautious optimism--for now, at least.</p><p>True, in many places people sound as though the recession is already here. Across the OECD, a club mostly of rich countries that accounts for more than 60% of global GDP, consumer confidence is now lower than it was when the coronavirus first struck (see chart, top panel). A gauge of American consumers' sentiment constructed by the University of Michigan this month fell to its lowest level in a decade, according to a preliminary estimate. Respondents were gloomier about their own financial situations; fewer of them thought it a propitious time to buy durable goods, on account of high inflation. If consumers hold back from spending, the economy will slow.</p><p>Yet, so far, what people say and what people do seem to be different things. Global restaurant bookings on OpenTable, a reservations website, are still above the pre-pandemic norm. In America retail sales are still increasing, and hotel occupancy continues to improve. A high-frequency measure of Britons' spending habits, constructed by the Office of National Statistics and the Bank of England, shows little sign that people are holding back from social activities, or from purchases that could be deferred.</p><p>Consumers are likely to be able to carry on spending for a while, even as inflation cuts into purchasing power. Households across the OECD are still sitting on roughly $4trn of savings (worth 8% of GDP) accumulated during the pandemic, according to our estimates. And, contrary to what is commonly supposed, not all that money is in the hands of the rich. In America the bank accounts of low-income families were still 65% fatter at the end of last year than in 2019.</p><p>Businesses too look resilient for now. Rising costs are hitting the profits of some retailers (see Business section). But the OECD's measure of business confidence remains solid. Data from Indeed, a jobs site, suggest that vacancies in rich countries may have stopped increasing--but they are still plentiful. There remains appetite for investment, too. Analysts at JPMorgan Chase, a bank, reckon that global capital spending rose by 7.6% in the first three months of the year, compared with the same period the year before--twice its rate towards the end of 2021.</p><p>Some countries do look weak. Goldman Sachs, another bank, produces a \"current-activity indicator\", a high-frequency measure of economic growth based on a combination of surveys and official data (see chart, bottom panel). The Russian economy has sharply slowed since Western countries slapped on sanctions in response to the invasion of Ukraine. And in China, where the government's zero-covid strategy has led to the strictest lockdowns since early 2020, the economy may well be shrinking (see next story).</p><p>But most places are stronger. Adapting a weekly GDP series for 45 countries, including India, Indonesia and the G7, produced from internet-search data by Nicolas Woloszko of the OECD, we estimate that global GDP growth has remained steady in recent weeks. Overall, Goldman's measure of economic activity is lower than it was in early 2021, when economies reopened, but it is still respectable.</p><p>The data could yet shift--if Russia turns off the gas taps to Europe, China tightens lockdown restrictions further or central banks are forced to raise interest rates faster than they currently expect. When America's labour market has been this tight in the past, notes JPMorgan, a recession has tended to follow in \"the medium term\". But the 12th global recession since 1900 does not seem to have started just yet.</p>",
+  "published": "2022-05-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2960,
+          "end": 2973
+        },
+        {
+          "start": 3704,
+          "end": 3712
+        },
+        {
+          "start": 2960,
+          "end": 2967
+        },
+        {
+          "start": 3704,
+          "end": 3711
+        }
+      ]
+    }
+  ]
+}

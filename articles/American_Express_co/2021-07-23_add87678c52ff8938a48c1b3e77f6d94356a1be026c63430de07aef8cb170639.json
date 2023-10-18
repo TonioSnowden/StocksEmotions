@@ -1,0 +1,32 @@
+{
+  "_id": "add87678c52ff8938a48c1b3e77f6d94356a1be026c63430de07aef8cb170639",
+  "feed": "wall-street-journal",
+  "title": "Fake It to Make It: Companies Beef Up AI Models With Synthetic Data; American Express experiments with AI-generated fake fraud patterns to sharpen its models' ability to detect rare or uncommon swindles",
+  "text": "<p>To get around that, companies are learning to fake it, building so-called synthetic data sets designed to augment training data.</p><p>At American Express Co ., machine-learning and data scientists have been experimenting with synthetic data for nearly two years in hopes of improving the company's AI-based fraud-detection models, said Dmitry Efimov, head of the company's Machine Learning Center of Excellence. The credit-card company uses an advanced form of AI to generate fake fraud patterns aimed at bolstering the real training data.</p><p>Rare or uncommon types of fraud can be overlooked by the company's AI-based fraud-detection model if the algorithms don't have enough training examples of that type of fraud, he said.</p><p>\"There are a lot of different kinds of patterns, the number of fraud patterns in real life is pretty big,\" Mr. Efimov said. \"Some fraud patterns happen more often than others, and some patterns are very rare.\"</p><p>American Express is working on improving these models by experimenting with generative adversarial networks, a technique to create synthetic data on uncommon fraud patterns. That data is then used to augment the company's existing data set of fraud behaviors to improve its overall AI-based fraud-detection models.</p><p>\"We started thinking, can we balance the presence of different fraud patterns? That's where [generative adversarial networks] come up,\" he said.</p><p>A generative adversarial network is an AI technique commonly used to create simulation data to train the underlying AI models that power self-driving cars. It is also used to create deepfakes , that is, photographs or videos of people that are often indistinguishable from reality.</p><p>One AI model acts as a \"generator\" that produces new data, and the second model tries to determine whether the data is real or fake, Mr. Efimov said. The \"perfect\" generative adversarial network is one that cannot tell fake data from real, he said.</p><p>Personally identifiable information isn't used at any stage of the process, he said.</p><p>The effort is still in the research stages, in part, because it is difficult to determine the amount of each unique fake fraud pattern the AI model should be generating, he said. But early tests are promising. Experiments have shown that for specific types of fraud, the fake data does improve the AI-based fraud-detection model, he said.</p><p>American Express has had the lowest U.S. fraud-loss rates among the major banks for the past 14 years, according to a February Nilson Report, a source of news and statistics on the payment industry.</p><p>Synthetic data has already found uses in other industries. Hospitals, for example, are using synthetic data  based on real medical records from patients to make medical decisions.</p><p>Startup Moveworks Inc. generates synthetic data to improve its AI-based chatbots, used by corporate customers to answer employee questions related to information technology, finance and human resources, said Vaibhav Nivargi, co-founder and chief technology officer.</p><p>Moveworks' customers supply it with technical documents to help answer IT questions related to, for example, computer memory, Mr. Nivargi said. But that data is frequently insufficient to train its chatbots to answer questions.</p><p>\"[Synthetic data] becomes very important because we operate in a domain with limited data,\" Mr. Nivargi said.</p><p>Moveworks built a machine-learning model that generates questions that could be asked by humans based on those technical documents, he said.</p><p>By 2024, 60% of the data used for the development of AI and analytics projects will be synthetically generated, according to Gartner Inc . The technology research firm is receiving an increasing number of questions regarding synthetic data, said Erick Brethenoux, Gartner's AI research manager.</p><p>Write to Sara Castellanos at sara.castellanos@wsj.com</p>",
+  "published": "2021-07-23T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0258161092",
+      "name": "American Express Company",
+      "offsets": [
+        {
+          "start": 69,
+          "end": 85
+        },
+        {
+          "start": 132,
+          "end": 148
+        },
+        {
+          "start": 2344,
+          "end": 2360
+        },
+        {
+          "start": 929,
+          "end": 945
+        }
+      ],
+      "nexusId": "10021878"
+    }
+  ]
+}

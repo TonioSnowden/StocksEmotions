@@ -1,0 +1,20 @@
+{
+  "_id": "80b0e5a4f64a54395fc8f2300a2e03265317eb09b6fe3636126999310f5df9a9",
+  "feed": "wall-street-journal",
+  "title": "Banks Consider Alternatives to Libor Replacement",
+  "text": "<p>Lenders are considering making index rates such as the American interbank offered rate (Ameribor) or the Bloomberg short term bank yield index (BSBY) available as alternatives. Still more research needs to be done to determine how these alternative rates would fare in an economic downturn and if there is enough transaction volume to generate a reliable reference metric, banks say.</p><p>While regulators are urging banks to offer SOFR for capital markets and derivative transactions, the Federal Reserve says it is open to other rate options for loans and other financial instruments. These alternate rates to SOFR are credit-sensitive, meaning they provide a more accurate reflection of lenders' funding costs.</p><p>Corporate borrowers are pursuing rival rates as the year-end Libor expiration date draws closer. This search for a benchmark rate for corporate borrowings began after authorities decided to phase out Libor by the end of 2021. A widespread manipulation scandal led to penalties for banks and convictions for some traders. Until then, Libor helped set borrowing costs on everything from business loans to mortgages globally, and is the reference rate for trillions of dollars in financial contracts.</p><p>SOFR, which rose to become the benchmark rate favored by regulators and the Fed, is a backward-looking metric that is based on the cost of transactions in the market for overnight repurchase agreements. Many banks and regulators prefer this as a Libor alternative, saying it is robust enough to support a large volume of transactions and financial products.</p><p>Last month, a group of major banks, insurers and asset managers endorsed \"Term SOFR,\" a series of forward-looking SOFR benchmarks issued by derivatives-exchange operator CME Group Inc. to promote broader market adoption. SOFR is based on a roughly trillion-dollar market; Ameribor and BSBY for example underpin tens of billions of dollars.</p><p>Still, some smaller regional banks use Ameribor, a rate created by Richard Sandor, chairman and chief executive of the electronic marketplace American Financial Exchange LLC. They say the rate can change with their funding costs, reflecting what banks spend to lend to each other through mutual lines of credit.</p><p>BSBY, owned by financial-data and media company Bloomberg LP, has also gained interest after Bank of America Corp. and JPMorgan Chase &amp; Co. in May traded the first complex derivative using the index.</p><p>Truist Financial Corp., a Charlotte, N.C., bank holding company, and PNC Financial Services Group Inc. offer SOFR and BSBY but not Ameribor. Truist's Chief Financial Officer Daryl Bible said the bank offers BSBY in part because its similarity to Libor makes it a more familiar option for customers, but is watching to see how many companies adopt it.</p>",
+  "published": "2021-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 2336,
+          "end": 2356
+        }
+      ]
+    }
+  ]
+}

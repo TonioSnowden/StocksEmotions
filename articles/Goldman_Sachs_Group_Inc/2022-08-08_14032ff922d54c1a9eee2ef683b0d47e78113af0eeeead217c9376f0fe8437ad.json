@@ -1,0 +1,42 @@
+{
+  "_id": "14032ff922d54c1a9eee2ef683b0d47e78113af0eeeead217c9376f0fe8437ad",
+  "feed": "wall-street-journal",
+  "title": "BlackRock Opening South Florida 'Snowbird' Office for Dozens of Employees; Head of fixed income and about 35 staff are expected to start working at West Palm Beach location early next year",
+  "text": "<p>Other BlackRock employees from the New York City headquarters could move to Florida in the future, the people familiar with the matter said. The company also at one point weighed plans for trading desks in the Florida building, which a person familiar with the matter said was already being referred to internally as BlackRock's \"snowbird office.\"</p><p>Still, in a statement BlackRock said that its Midtown Manhattan office would remain its global headquarters.</p><p>\"BlackRock has no plans to relocate additional heads to Florida, and the firm's headquarters and executive leadership teams will remain based in New York City,\" a BlackRock spokesman said in an email. </p><p>Rick Rieder, BlackRock's head of fixed income, oversees roughly $1.7 trillion in assets. PHOTO: Alfonso Duran for The Wall Street Journal</p><p>The asset manager, like many other New York-based financial firms, last year urged its staff to return to the office at least three days a week. Those plans were delayed and then became less urgent with the Delta and Omicron variants.</p><p>More recently, BlackRock executives have taken a more conciliatory approach with the company's more than 18,000 employees. Some at BlackRock, like many workers across the U.S., say they prefer a remote or hybrid work schedule over a five-day a week commute to an office.</p><p>BlackRock Chief Executive Larry Fink said in a January letter he sent to other CEOs that BlackRock was making efforts to \"navigate this new world of work\" and that \"companies not adjusting to this new reality and responding to their workers do so at their own peril.\"</p><p>BlackRock's West Palm Beach outpost marks the latest in a long line of financial, tech and other companies that have relocated or created satellite offices in South Florida in recent years, drawn by warm weather, less business regulation and no state income tax. When Covid-19 erupted in 2020 and New York City was an early epicenter, droves of Wall Street executives sheltered in South Florida where restrictions were less severe and the balmy weather meant people could meet outside year-round. Many decided to stay and wanted their offices there, too.</p><p>BlackRock has signed an agreement to sublease 5,000 square feet of office space at 360 Rosemary in West Palm Beach, a building developed by the giant real-estate firm Related Cos., according to people familiar with the matter.</p><p>The building, which Related has said is fully leased, has become a magnet for financial firms based in the Northeast. Other new tenants include Goldman Sachs Group Inc, the hedge fund Elliott Management Corp. and Steven Cohen's Point72 Asset Management, according to people familiar with the matter. The property's ground floor includes a second location of Harry's Restaurant, a frequent watering hole for New York City's financial elite.</p><p>South Florida has become a hotbed for crypto firms over the past two years, which may have also appealed to BlackRock. In April, the company said it had participated in a $400 million fundraising round in Circle Internet Financial, a crypto-focused company that manages the stablecoin USD Coin.</p><p>On Thursday, BlackRock said it had formed a partnership with Coinbase Global, which operates a cryptocurrency exchange platform.</p><p>West Palm Beach joins Miami and the city of Miami Beach in attracting companies looking to move to the area or open regional offices.</p><p>Last week, Chicago-based hedge fund Citadel said it would relocate its headquarters to a gleaming new office tower in Miami's financial district, known as 830 Brickell. To accommodate Citadel, the developers agreed to buy out the existing tenant, shared workplace operator WeWork Inc., according to people familiar with the matter. The prices per square foot at the building have ballooned from around $65 when WeWork signed its lease to around $125 to $150 a square foot today, according to real-estate firm JLL.</p><p>BlackRock Opening South Florida 'Snowbird' Office for Dozens of Employees</p>",
+  "published": "2022-08-08T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2496,
+          "end": 2503
+        },
+        {
+          "start": 2496,
+          "end": 2509
+        },
+        {
+          "start": 2496,
+          "end": 2519
+        },
+        {
+          "start": 2481,
+          "end": 2504
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

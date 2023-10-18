@@ -1,0 +1,50 @@
+{
+  "_id": "3435d82768790f0654b857a544302881ea6603db475c3a4e6e936b19962f8c61",
+  "feed": "economist-blog",
+  "title": "Dragons against hobbits; “Game of Thrones” v “Lord of the Rings”: a tale of old v new Hollywood",
+  "text": "<p>The near-simultaneous releases will make for an epic ratings battle. But they are also part of a longer-running war that pits old Hollywood studios against new streaming upstarts. Warner Bros, one of America's most venerable film studios, will mark its 100th birthday next year. Amazon, which makes its money from e-commerce and cloud computing, launched its video sideline only five years ago. As the streaming wars intensify, each side believes it has an advantage over the other.</p><p>Lately the dragons of old Hollywood have gained ground. Investors flocked to streaming specialists during the lockdowns of 2020-21, but have lost interest as new subscribers have dried up. Netflix, which once talked of a potential market of 800m households, appears to have stalled at 220m and has seen its share price fall by 60% this year. On August 10th old Hollywood claimed a symbolic victory when Disney announced that it had overtaken Netflix, with 221m streaming subscriptions. That figure double-counts subscribers to Disney's various services, and ignores the fact that many are in low-paying countries like India. But Disney's success has banished any doubt that ageing studios can play the streaming game.</p><p>Hollywood's old hands are also refocusing on the business of making money, after two expensive years of chasing subscribers. Disney says its main streaming service, Disney+, will see its losses peak this year before turning a profit in 2024. A steep price rise, beginning in December, will help. On a recent earnings call David Zaslav, Warner's new boss, bluntly criticised the old approach of “spend, spend, spend and then charge very little”. Warner will aim for its streaming business to generate a gross operating profit of $1bn by 2025, he said. “If we do that, I don't really care what the [subscriber] number is…We want to make sure we get paid.”</p><p>Old media formats will play a role in that. Cinemas, whose worldwide takings fell by 80% in 2020, are open again. The box office is still not what it was: Cineworld, the world's second-largest theatre chain, is preparing to file for bankruptcy, according to the Wall Street Journal. But Paramount, a 110-year-old Hollywood dragon, held back the release of “Top Gun: Maverick” during the pandemic and was rewarded in May with a box-office run of over $1bn. Warner, which in 2021 released all its films on its streaming platform at the same time that they launched in cinemas, has gone back to exclusive theatrical runs.</p><p>Theme parks are full again, too, with Disney's American ones generating record revenues and margins. Even broadcast and cable tv, long in decline, look like relative safe havens as the streaming business gets tougher. “We effectively have four, five or six cash registers,” Mr Zaslav told investors. “And in a world where things are changing, and there's a lot of uncertainty and there's a lot of disruption, that's a lot more stable and a lot better than having one cash register.”</p><p>That may be a convincing argument against an upstart like Netflix, which depends entirely on streaming. The trouble for old Hollywood is that some of its new competitors have even bigger and more varied cash registers. Whereas Warner's path to profit will involve drastic cuts—it has already scrapped its streaming news service, cnn+, and canned unfinished productions including “Batgirl”—Amazon shows no sign of tightening its belt. Besides the lavish “Rings of Power”, it recently bought Metro Goldwyn Mayer, the studio behind “James Bond”, for $8.5bn, acquired rights to America's National Football League worth a reported $1bn a year, and expanded its international output with its first Nigerian originals. Morgan Stanley, an investment bank, estimates that Amazon will spend $16bn on media content this year, the bulk of it video. That is more than Netflix's $14bn. Next year Amazon's spending could reach $20bn.</p><p>Unlike the old Hollywood dragons, some new streamers don't even need to make sure they get paid, in Mr Zaslav's words. Amazon Prime Video exists to keep people signed up to Prime, whose main benefit is free delivery of Amazon purchases. Apple's steadily expanding tv+ service is geared towards keeping customers in Apple's ecosystem of phones and computers, where the company makes its real money. The video services from Amazon and Apple also provide future real estate for advertising, a business in which both companies have ambition to grow.</p><p>Old Hollywood is fighting back, offering viewers bigger “bundles” of content at a reduced cost. Warner plans to combine its main streaming service, hbo Max, with Discovery+ next summer. Disney is experimenting with discounted packages of services like espn+ and Hulu; some wonder if entry to its parks could one day form part of a Disney mega-bundle.</p><p>Yet Hollywood's new rivals offer bundles of a different sort. Apple's video vault is far smaller than that of Disney or Warner, but its “Apple One” package includes not just tv but music, games, storage, news and fitness. (A subscription to the iPhone itself is reportedly in the works.) Amazon Prime comes with a similarly eclectic bunch of benefits. As households look for savings, all-media deals like these may prove tempting.</p><p>That may be why some old Hollywood dragons are deciding to do business with the upstarts. On August 15th Paramount announced a deal with Walmart, a giant retailer, in which members of Walmart+, the store's answer to Amazon Prime, will get free access to the Paramount+ streaming service. Like Amazon and Apple, Walmart sees media as a way to keep customers loyal to its main business. It recently added music to the Walmart+ bundle, via a deal with Spotify, the leading audio streamer.</p><p>As competition for viewers intensifies, the battle between old and new Hollywood is proving as bloody as an episode of “Game of Thrones”. For consumers, who have more choice and more deals than ever, it is just as entertaining.</p><p>■</p>",
+  "published": "2022-08-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999904,
+      "offsets": [
+        {
+          "start": 4080,
+          "end": 4085
+        },
+        {
+          "start": 4113,
+          "end": 4118
+        },
+        {
+          "start": 4158,
+          "end": 4163
+        },
+        {
+          "start": 4275,
+          "end": 4280
+        },
+        {
+          "start": 4796,
+          "end": 4801
+        },
+        {
+          "start": 5463,
+          "end": 5468
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.9816008,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -3.0183992,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "8c417a375a524d3cffffc167cbfb159b56bdaf4d8e00b6f8a963fe2d03cc9194",
+  "feed": "wall-street-journal",
+  "title": "Business News: United Puts a Deposit on Flying Taxis --- The company made predelivery payments of $10 million for 100 aircraft from Archer",
+  "text": "<p>The aircraft being developed by Archer and its rivals take off and land vertically like helicopters. Airlines hope that they will be able to zip customers around cities, whisking them over congested highways to and from hub airports while reducing carbon emissions for such journeys. United and Archer said United will be the launch customer for the four-passenger aircraft Archer is working on -- the latest indication that traditional airlines see a place for the new technology in their businesses as they face pressure to find ways to reduce their carbon footprint.</p><p>Electric-flying-taxi companies have been developing and testing vehicles, but need to secure approval from regulators before they or customers that purchase the aircraft launch commercial service. In the U.S., the Federal Aviation Administration has been examining aircraft, working on pilot requirements and looking into how to integrate planned vehicles into the airspace.</p><p>Leaders at the agency have said the FAA is committed to meeting timelines that would allow at least some companies to gain certification for their vehicles as early as 2024. Archer expects to gain certification by the end of that year and start commercial operations afterward, Chief Executive Adam Goldstein said.</p><p>The company's technology, funding, and the regulatory framework for the industry have matured to the point that customers like United are ready to lock in orders, according to Mr. Goldstein.</p><p>\"There's a lot of talk about orders in the industry, a lot of talk aboutpaper commitments, but this is the first real cash commitment,\" he said.</p><p>American Airlines Group Inc., which last year invested $25 million in Vertical Aerospace Ltd., another electric-aircraft startup, last month committed to making predelivery payments for 50 electric vertical-takeoff-and-landing aircraft and confirmed reservations for delivery slots, though that money hasn't yet changed hands.</p><p>Archer, Vertical and a number of other startups pursued stock-market listings over the past two years as investors poured billions of dollars into the sector. Many listed through blank-check companies known as SPACs, but most are trading well below their offer price. Archer's shares are down by over 50% since its listing in September.</p><p>Archer is also embroiled in a legal dispute with Wisk Aero LLC, a rival electric-air-taxi company that counts Boeing Co. as an investor. Wisk sued Archer last year, claiming the company copied its design -- misappropriating its trade secrets and infringing on its patents. Archer has denied the claims and filed certain counterclaims, accusing Wisk of making false statements to damage its reputation and interfere in its business. Archer has also brought a lawsuit against Boeing. A trial in federal court about Wisk's suit and Archer's counterclaims is scheduled for next August.</p><p>A spokeswoman for Archer said it is pleased with how the case is progressing so far. Spokesmen for Wisk and Boeing declined to comment. United declined to comment on the suit.</p><p>Electric-air-taxi companies also face challenges ensuring they have areas on the ground for takeoffs and landings, and related to battery packs that power the vehicles.</p><p>Michael Leskinen, president of United's venture-capital fund for early-stage technologies, said United has grown more assured in the past year-and-a-half since its initial investment, both that Archer has been able to raise enough money, and in the direction the technology is heading for things like batteries for the aircraft.</p><p>United is starting to make more concrete plans about where it will deploy its new flying taxis and will likely announce routes in the coming months, Mr. Leskinen said.</p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9998847,
+      "offsets": [
+        {
+          "start": 2370,
+          "end": 2380
+        },
+        {
+          "start": 2357,
+          "end": 2367
+        },
+        {
+          "start": 2931,
+          "end": 2937
+        },
+        {
+          "start": 2718,
+          "end": 2724
+        },
+        {
+          "start": 2950,
+          "end": 2956
+        },
+        {
+          "start": 2734,
+          "end": 2740
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.7,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.3000002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

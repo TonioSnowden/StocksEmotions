@@ -1,0 +1,52 @@
+{
+  "_id": "ea9338a11557fcdb9174be3379458cbee14df617bcfcbda38b125d0780ba16d5",
+  "feed": "wall-street-journal",
+  "title": "Hackers Backed by China Seen Exploiting Security Flaw in Internet Software; Researchers call it one of the most dire cybersecurity threats to emerge in years and could enable devastating attacks",
+  "text": "<p>Cybersecurity researchers say it is one of the most dire cybersecurity threats to emerge in years and could enable devastating attacks, including ransomware, in both the immediate and distant future. Government-sponsored hackers are often among the best-resourced and most capable, analysts say.</p><p>\"The effects of this vulnerability will reverberate for months to come—maybe even years—as we try to close these doors and try to hunt down all the actors who made their way in,\" said John Hultquist, vice president of intelligence analysis at the U.S.-based cybersecurity firm Mandiant Inc.</p><p>Both Microsoft and Mandiant said they have observed hacking groups linked to China and Iran launching attacks that exploit the flaw in Log4j. In an update to its website posted late Wednesday, Microsoft said that it had also seen nation-backed hackers from North Korea and Turkey using the attack. Some attackers appear to be experimenting with the attack; others are trying to use it to break into online targets, Microsoft said.</p><p>One of the groups exploiting the security hole in Log4j is the same China-backed group that was linked to a widespread attack on Microsoft Exchange servers earlier this year, Microsoft said. In July, the Biden administration blamed China for the Microsoft Exchange attack and said it had high confidence hackers tied to the Ministry of State Security were behind it. Dozens of other countries also blamed Beijing, which has denied involvement in the hacking. A spokesman at the Chinese Embassy in Washington didn't immediately respond to a request for comment early Wednesday.</p><p>Security researchers have seen no signs to date, however, that China or another nation-state hacking group is attempting widespread exploitation of the Log4j issue on the same scale as the Microsoft Exchange attacks, which infected hundreds of thousands of servers across the globe.</p><p>U.S. officials this week said it was inevitable that adversarial governments would seek to exploit the security hole, but said that they hadn't yet identified specific foreign groups acting on it. The U.S. government is often slower to formally attribute cyberattacks to foreign governments than companies like Mandiant and Microsoft.</p><p>Many other hackers are trying to break into systems that are vulnerable to the bug to probe for vulnerable servers or install cryptocurrency mining software, botnet code and other forms of malicious software, security researchers said.</p><p>Ransomware groups are also using the attack, raising fears of more disruptive cyberattacks ahead, according to researchers. An Iran-backed hacking group has been \"deploying ransomware, acquiring and making modifications of the Log4j exploit,\" Microsoft said. The company has also seen the attack used by \"access brokers\"—hackers who break into companies and then sell that access to other criminals who then install ransomware, a kind of code that locks up a victim's files and demands payment for their release.</p><p>By Tuesday evening, the cybersecurity firm Check Point Software Technologies Ltd. had counted close to 600,000 attempts to exploit the Log4J bug by malicious cybercriminals. About 44% of corporate networks world-wide had been hit by these attempts, the company said.</p><p>\"We have seen a wide range of threat activity. It has largely been low-level activity such as cryptominers, but we do expect that adversaries of all sorts will use this vulnerability to achieve their strategic goals,\" said Eric Goldstein, the executive assistant director of the Cybersecurity and Infrastructure Security Agency at the Department of Homeland Security.</p><p>To date, CISA is unaware of a federal agency being breached by hackers leveraging the Log4J flaw, Mr. Goldstein told reporters Tuesday evening.</p><p>Researchers find the Log4j flaw particularly worrying because the free Java-based software is used in a very broad range of products. It can be found in everything from security software to networking tools to video game servers. The exact number of users of Log4j is impossible to know, but the software has been downloaded millions of times, according to the organization that builds it, the Apache Software Foundation.</p><p>The attack works reliably and is trivial to exploit, security researchers say.</p><p>\"It's a surprise it's not more widespread,\" said Adam Meyers, senior vice president of intelligence with Crowdstrike, a U.S.-based cybersecurity firm. \"The question that everyone is asking is, 'What aren't we seeing?'\"</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com and Dustin Volz at dustin.volz@wsj.com</p><p>Hackers Backed by China Seen Exploiting Security Flaw in Internet Software</p>",
+  "published": "2021-12-15T13:34:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2692,
+          "end": 2701
+        },
+        {
+          "start": 2202,
+          "end": 2211
+        },
+        {
+          "start": 592,
+          "end": 601
+        },
+        {
+          "start": 1002,
+          "end": 1011
+        },
+        {
+          "start": 780,
+          "end": 789
+        },
+        {
+          "start": 1264,
+          "end": 1273
+        },
+        {
+          "start": 1193,
+          "end": 1202
+        },
+        {
+          "start": 1147,
+          "end": 1156
+        },
+        {
+          "start": 1784,
+          "end": 1793
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

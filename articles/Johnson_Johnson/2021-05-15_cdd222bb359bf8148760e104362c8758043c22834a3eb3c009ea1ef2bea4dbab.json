@@ -1,0 +1,20 @@
+{
+  "_id": "cdd222bb359bf8148760e104362c8758043c22834a3eb3c009ea1ef2bea4dbab",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Data Spurred Shift on Masks",
+  "text": "<p>Parsing the new recommendations and putting them into practice now shifts to states, communities and businesses. It will likely be especially difficult in public settings like stores or workplaces, health researchers say, since there isn't an easy way to determine who is fully vaccinated.</p><p>The Centers for Disease Control and Prevention considers someone fully vaccinated two weeks after their second dose of the Pfizer Inc. and BioNTech SE or Moderna Inc. vaccines or two weeks following the single dose of the Johnson &amp; Johnson vaccine.</p><p>In the first several months after vaccines began rolling out, public-health authorities stood by recommendations for inoculated people to wear a face mask and stay physically distant, saying there wasn't enough data on whether the shots -- while guarding against severe disease and death -- prevented infection and transmission. Another reason, the CDC said, was high case counts.</p><p>The CDC updated its masking guidance for fully inoculated people on April 27, saying that people who are fully vaccinated can drop their masks while alone outside or in small groups.</p><p>The change drew criticism from some people specializing in public health and members of the general public, who said the CDC was late to adapt to research emerging on the efficacy of vaccines and the spread of the virus.</p><p>The critics said the CDC was being too cautious with its previous guidance.</p><p>The CDC has said it needed to take the time to review the full body of evidence.</p><p>CDC director Rochelle Walensky said Thursday the fully vaccinated no longer needed to wear a mask indoors or outdoors, with some exceptions including at hospitals, airports and nursing homes.</p><p>Dr. Walensky pointed to data on the efficacy of vaccines, including against variants, case counts that have dropped to less than 37,000 a day in the U.S. and the launch of adolescent vaccinations.</p><p>Nearly 36% of the U.S. population is fully vaccinated, according to the CDC, and more than 46% of the country has received at least one dose. Among people 18 years and older, more than 46% are fully vaccinated.</p><p>Another factor informing the CDC decision, Dr. Walensky said, was recent research on transmission risk for those who are fully vaccinated and data on the vaccines' real-world effectiveness.</p><p>A number of studies, including one published last week, found that available vaccines are effective against circulating variants such as the B.1.1.7 variant, which is now dominant in the U.S.</p><p>A recent study from researchers in Israel, which Dr. Walensky referenced on Thursday, estimated the Pfizer-BioNtech vaccine was 97% effective at preventing symptomatic infection and 86% effective at preventing asymptomatic infection among healthcare workers.</p><p>A study released by the CDC, looking at healthcare workers in 25 states, reported that the mRNA vaccines from Pfizer and BioNTech and Moderna were 94% effective at reducing the chances of getting sick.</p>",
+  "published": "2021-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 512,
+          "end": 529
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

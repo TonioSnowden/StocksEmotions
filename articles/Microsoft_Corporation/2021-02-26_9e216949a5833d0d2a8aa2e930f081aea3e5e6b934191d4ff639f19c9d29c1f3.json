@@ -1,0 +1,28 @@
+{
+  "_id": "9e216949a5833d0d2a8aa2e930f081aea3e5e6b934191d4ff639f19c9d29c1f3",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Amazon Pressured to Disclose More on Cyberattack",
+  "text": "<p>While cybersecurity experts say it is nearly impossible to prevent hackers from misusing cloud services, as is alleged to have occurred in this case, they also say Amazon is likely sitting on critical information that could shed light on the scope of the attacks and the tactics used by the cybercriminals. U.S. authorities say the intruders are likely Russian intelligence agents.</p><p>Amazon has shared this information privately with the U.S. government, but unlike other technology companies, it has balked at making it public.</p><p>During a hearing of the Senate Intelligence Committee this week, senators -- including Mark Warner, the Democratic chairman of the committee, and Marco Rubio, the Republican vice chairman -- expressed irritation that Amazon declined to attend and said its insight into the hacking activity could prove valuable to lawmakers and the public. Some suggested obliquely that the panel should consider subpoenaing testimony from the company.</p><p>\"This was one of the most sophisticated and audacious cyberattacks on the American public and private sectors,\" Sen. Ben Sasse (R., Neb.) said Wednesday. \"Amazon needs to testify -- that ought to happen voluntarily, but the committee should make it happen if they don't step up. There's a lot we don't know about the full scope of this attack.\"</p><p>\"AWS is not affected by the SolarWinds issue, and we do not use their software,\" an Amazon Web Services spokesman said. \"When we learned of this event, we immediately investigated, ensured we weren't affected, and shared what we learned with law enforcement. We've also provided detailed briefings to government officials, including members of Congress.\"</p><p>Amazon's data centers housed servers that were used in a critical stage of the SolarWinds attack -- the point when hackers had created a beachhead on their victims' networks and were looking for ways to probe systems for more information, security researchers said. Amazon's servers were used to host and deliver the hacking tools that were ultimately downloaded to victims' computers and then used to probe and break into new systems on these networks, they said.</p><p>\"Amazon is sitting on some very valuable data, or potentially valuable data,\" said Joe Slowik, a senior security researcher with the online intelligence firm DomainTools LLC.</p><p>The cloud-computing company could have financial information on how its services were paid for, network traffic data showing whom the SolarWinds hackers interacted with on the internet, and data stored on the servers themselves showing what other activity the hackers were engaged in and possibly what other tools they were using, Mr. Slowik said.</p><p>Amazon, like all major technology companies, employs a \"threat intelligence\" team to track and protect customers and itself against known hacking groups.</p><p>Because of their dominant market positions, these technology companies are increasingly privy to vast amounts of data that are often useful in investigating, detecting and removing malicious cyber adversaries.</p><p>Microsoft Corp.'s Azure cloud was also used by the hackers, and its Office 365 products contained the email messages and internal documents that were the prime target of the attack. Microsoft has published technical details about the malicious activity that have been useful to investigators and companies that are trying to determine whether they were swept up in the attack.</p><p>The suspected Russian cyber espionage campaign leveraged corrupted SolarWinds software and other access points to compromise at least nine federal agencies and 100 private-sector companies, authorities say.</p>",
+  "published": "2021-02-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3015,
+          "end": 3024
+        },
+        {
+          "start": 3197,
+          "end": 3206
+        },
+        {
+          "start": 3015,
+          "end": 3030
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "bcee3b0a730699429f7e9b29fe98add5dde1330786f6bf47a1926f581a66219c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: FDA Looks to Quickly Authorize Booster Shots for Variants",
+  "text": "<p>The agency also announced new guidelines for makers of diagnostic tests and monoclonal-antibody drugs about how those companies can best adapt their products to address mutations now cropping up in the U.S.</p><p>Peter Marks, director of the FDA's center for biological products, which evaluates vaccines, said Monday that the analysis of whether vaccines prevent the new strains of Covid-19 will involve a few hundred research subjects over a couple of months. That would be faster than vaccine trials, which so far have involved thousands of research subjects over several months, followed by an FDA analysis.</p><p>The federal agency has been criticized for taking up to three weeks to analyze the clinical study of a new vaccine from Johnson &amp; Johnson. J&amp;J said its vaccine was 72% effective in the U.S. in preventing moderate to severe Covid-19 infection. This compared with 57% in South Africa, where the mutant strain has been prominently present.</p><p>The J&amp;J vaccine will be evaluated Friday at a public meeting of an independent committee of medical experts who will advise the agency on whether to green-light the product. There are two Covid-19 vaccines already cleared by the FDA -- one from Moderna Inc., and the other from a partnership of Pfizer Inc. and Germany's BioNTech SE.</p><p>The FDA said in a written statement Monday that \"available information suggests that the FDA-authorized vaccines remain effective in protecting the American public against currently-circulating strains\" of the virus. Similarly, the agency said the impact of the new strains of the virus on the accuracy of diagnostic tests for Covid-19 didn't appear to be significant.</p>",
+  "published": "2021-02-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 947,
+          "end": 950
+        },
+        {
+          "start": 726,
+          "end": 743
+        },
+        {
+          "start": 745,
+          "end": 748
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

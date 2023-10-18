@@ -1,0 +1,36 @@
+{
+  "_id": "1de814484212ff7a8cc4bda74148aac758a956d1761187a56b513ffc840eac1d",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: EPA's Cybersecurity Oversight of Water Sector Falls Short, Report Says",
+  "text": "<p>Mr. Montgomery wants to see the EPA's budget for cybersecurity and disaster management increase to as much as $45 million. That's way more than the $11.3 million the agency's homeland security group worked with this year.</p><p>Look for a hard push for regulatory or legal change after the EPA's Inspector General finishes a cyber audit started in July after a handful of hacks against water utilities sent a scare through towns and cities. More below.</p><p>The Dark Side of Innovation</p><p>It's not just that cybercriminals have disrupted so much of 2021. A new report shows that they're innovating and weaponizing DDoS attacks faster than ever and deploying them at record-setting numbers.</p><p>Read More</p><p>The EPA has issued no binding cybersecurity standards for the water sector. Operators that serve more than 3,300 people must conduct risk assessments and draft emergency-response plans.</p><p>An EPA spokesman told us the agency \"has tools to assist water and wastewater utilities in preparing for, identifying, responding to and recovering from cyber-attacks.\"</p><p>Last month, the Cybersecurity and Infrastructure Security Agency and other federal agencies warned that ongoing hacking that targets water facilities threatens their ability \"to provide clean, potable water to, and effectively manage the wastewater of, their communities.\" CISA cited five attacks on water utilities since 2019, four of which were ransomware.</p><p>Read the full story.</p><p>More Cyber and Privacy News</p><p>Iran-backed hackers are exploiting Microsoft and Fortinet software, U.S., U.K. and Australian officials say. Attackers supported by the Iranian government have waged campaigns since at least March to exploit tools from cybersecurity company Fortinet Inc., according to a joint alert Wednesday. Campaigns targeting Microsoft's Exchange email software have been identified dating to October, the officials said. In the U.S., transportation and healthcare organizations are especially in the sights of these groups, which are launching ransomware and stealing data. Patches are available and companies should apply them, officials urged.</p><p>Iran's United Nations mission didn't respond to a request from Reuters for comment.</p><p>CISA also added four vulnerabilities to its catalog of tech flaws federal agencies are required to fix. They are related to Microsoft's Office, Exchange and Windows software, as well as a popular open-source tool for managing files.</p><p>Separately, CISA issued playbooks for federal civilian agencies to use when responding to a cyber incident. A section on properly scoping a forensic investigation would be useful for businesses managing an attack. Some key questions, CISA said, provide guidance, including:</p><p>Q:</p><p>How did the adversary gain initial access to the network?</p><p>Q:</p><p>Is the adversary exploiting vulnerabilities to achieve access or privilege?</p><p>Q:</p><p>How is the adversary maintaining command and control?</p><p>Q:</p><p>What method is being used for reconnaissance?</p><p>Q:</p><p>Is lateral movement suspected or known? How is lateral movement conducted?</p><p>Q:</p><p>Has data been exfiltrated and, if so, what kind and via what mechanism?</p><p>Wisconsin bank hacked. Horicon Bank is notifying 30,394 customers that their personal information as well as account balances and some transaction data were compromised in a hack discovered in September.</p><p>\"What are the metrics you can tell the American public, and this committee, that you will be using to determine whether attacks are going up, or going down? Whether Russia is taking action or not? Because it's one thing to say we're going to take action and demonstrate strength. It's another thing to have the data to actually back it up.\"</p><p>— Rep. Elissa Slotkin (D., Mich.), questioning Department of Homeland Security officials at a House Homeland Security Committee hearing on ransomware on Wednesday.</p>",
+  "published": "2021-11-18T14:11:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1484,
+          "end": 1493
+        },
+        {
+          "start": 1763,
+          "end": 1774
+        },
+        {
+          "start": 1763,
+          "end": 1772
+        },
+        {
+          "start": 2292,
+          "end": 2301
+        },
+        {
+          "start": 2292,
+          "end": 2303
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

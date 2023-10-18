@@ -1,0 +1,38 @@
+{
+  "_id": "71adcf041ec006051a77684e5122f9342cff4c7dcf544c74c23cb2e9225ba4f1",
+  "feed": "wall-street-journal",
+  "title": "Still Time to Chip In on Synopsys; Chip-design software should float above coming crunch in semiconductor sales and capital spending",
+  "text": "<p>SYNOPSYS Inc. (SNPS)</p><p>* Recommendation: Buy</p><p>* Price: $390.45</p><p>Synopsys is the largest company specializing in so-called electronic design automation, or EDA, software. Put simply, this is the software that allows semiconductor engineers to efficiently design and test complex chips that now often contain more than a billion transistors each—with circuitry measuring about a thousand times less thick than a human hair. Those designs grow even more complex as chip production processes advance to ever smaller circuitry. Five years ago, the most advanced chips were using circuitry 14 nanometers wide; 7 nanometers is now the standard for most top-of-the-line chips, though Taiwan Semiconductor Manufacturing (TSMC) is now mass-producing chips with 5-nanometer features.</p><p>Booming chip demand over the past couple of years has been great for Synopsys, and its bottom line. Revenue has averaged 18% year-over-year growth over the past eight quarters, compared with an average of 8% for the eight quarters prior. And trailing 12-month operating margins are now at 23%—the highest in at least two decades, according to data from S&amp;P Global Market Intelligence.</p><p>But good times never last in the highly cyclical chip market. The global macroeconomic slowdown is already making its mark. Chip buyers are cutting down on orders as inventories have grown. That has forced major chip makers like Nvidia, Intel and Micron to cut their outlooks, with the latter two also scaling back capital expenditure plans. World Semiconductor Trade Statistics—the industry's official data source—projects growth in global semiconductor sales to slow considerably this year to 16.3% compared with 26.2% growth last year, with next year's growth expected to slow even further to 5.1%. And some think even those numbers are optimistic; analysts for BofA Securities expect chip sales to grow less than 10% this year and to decline in 2023.</p><p>Some analysts also expect a downturn in spending for chip-manufacturing equipment next year, following a strong three-year run of gains. This, too, is a highly cyclical market that tends to experience sales downturns every two to three years. But Harlan Sur of JPMorgan notes that EDA software tends to be tied to R&amp;D budgets, as opposed to capital expenditures. Synopsys hasn't experienced a decline in annual revenue since 2005; the market for semiconductor capital equipment has seen six annual revenue declines in that time, according to data from TechInsights.</p><p>The reason for that durability is that chip makers are less apt to cut R&amp;D budgets during sales downturns, since doing so can put future products and sales at risk. And EDA software companies like Synopsys are no longer solely dependent on the big chip makers. Tech titans such as Apple, Amazon and Google have taken to designing their own chips for products like smartphones and the servers in their data centers. Apple, which recently replaced Intel chips in its Mac computer lineup and is reportedly looking to do the same with Qualcomm's modem chips in its iPhones, has grown its R&amp;D spending by an average of 17% annually over the past five years, outpacing 12% average annual revenue growth in that time.</p><p>Synopsys' strength should be evident in its fiscal third-quarter results coming Wednesday afternoon. The midpoint of the company's forecast—which Synopsys has exceeded every quarter but one over the past four years—calls for revenue to grow 16% on-year compared with 10% growth for the same period last year. For the full fiscal year ending in October, the midpoint of company guidance is for 19% revenue growth—its highest since 2003. But most notably, Wall Street expects Synopsys' top-line growth to stay in the double-digit range over the next two years, when overall semiconductor industry revenue is expected to flatten and possibly decline. With tech titans and now governments fully awakened to the indispensability of semiconductors, chip designers won't really get any downtime.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Still Time to Chip In on Synopsys</p>",
+  "published": "2022-08-16T11:03:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2737,
+          "end": 2742
+        },
+        {
+          "start": 2756,
+          "end": 2761
+        },
+        {
+          "start": 2870,
+          "end": 2875
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.9403675,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.0596325,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "1e7e612eac24eb8b68c15bdd0ead12af24036470aa42d8cfac290f8473a94001",
+  "feed": "wall-street-journal",
+  "title": "J&J  To Stop  Talc Sales  Globally  ----  By Talal Ansari",
+  "text": "<p>    Johnson &amp; Johnson will stop selling baby powder made with talc globally in 2023, the company said Thursday. </p><p>   The decision comes after the New Brunswick, N.J., company stopped selling the product in the U.S. and Canada in 2020, citing a decline in customer demand amid safety concerns about one of its most famous products. </p><p>   J&amp;J faces thousands of lawsuits alleging the talc powder has harmed women who had used it for years. Some of the lawsuits have led to costly jury verdicts. </p><p>   J&amp;J has been fighting the lawsuits and verdicts and says its talc-containing powder is safe. The company said Thursday its position on the safety of its cosmetic talc remains unchanged. </p><p>   \"As part of a worldwide portfolio assessment, we have made the commercial decision to transition to an all cornstarch-based baby powder portfolio,\" the company said. </p><p>   The baby-powder lawsuits have generally alleged that talc, a mineral that is crushed to create Johnson's Baby Powder, can cause inflammation that leads to cancer. </p><p>   Some of the lawsuits further allege that asbestos in the powder contributed to cancer. Asbestos, a mineral once widely used in construction, has been linked to increased risk for mesothelioma. </p><p>   The company has repeatedly said its talcum powder doesn't contain asbestos. </p><p>   --- </p><p>   Andrew Scurria contributed to this article. </p><p></p>",
+  "published": "2022-08-12T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 0,
+          "end": 17
+        },
+        {
+          "start": 320,
+          "end": 323
+        },
+        {
+          "start": 474,
+          "end": 477
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

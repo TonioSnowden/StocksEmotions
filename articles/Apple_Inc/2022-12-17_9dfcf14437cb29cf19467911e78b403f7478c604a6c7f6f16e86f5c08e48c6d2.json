@@ -1,0 +1,88 @@
+{
+  "_id": "9dfcf14437cb29cf19467911e78b403f7478c604a6c7f6f16e86f5c08e48c6d2",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Apple Mulls  Plan to Let  Users Skirt  App Store  ----  By Aaron Tilley and Sam Schechner",
+  "text": "<p>   Apple Inc. is preparing to let applications be downloaded onto iPhones and iPads outside its App Store, while trying to limit the impact on the devices' security and the company's business, according to people familiar with the matter. </p><p>   The tech giant's software and app-store engineering group is spearheading work on the technical changes to enable alternate app stores and other software makers access to the iPhone in response to a new European Union law aimed at creating more competition for the most powerful tech companies, the people said. </p><p>   The changes would give companies other than Apple access they have long coveted to load apps outside of the rules and payment system of Apple's cash-cow App Store, something often called sideloading. </p><p>   At the same time, Apple is likely to make use of a provision in the new law that would allow it to impose restrictions on sideloaded apps, to protect the security of its devices, the people said. Those restrictions could include requiring security checks and malware scans for sideloaded apps, one of the people said. </p><p>   An Apple spokeswoman declined to comment. </p><p>   Apple is trying to have the sideloading feature ready to announce by next summer for its annual developer conference, but it is also possible that the company will decide not to move ahead with the plan, one of the people said. </p><p>   Bloomberg earlier reported Apple's plan to allow sideloading in response to the European law. </p><p>   Apple's effort comes as tech companies are starting discussions with the European Commission, the EU's executive arm, about which of the company's services will be subject to which provisions of the law, called the Digital Markets Act. </p><p>   The law, passed earlier this year over the objections to some provisions from Apple and many of its rivals, aims to create more competition for the biggest tech companies operating in Europe, as defined in part by revenue, number of users and market capitalization. Those companies are expected to include Apple, Alphabet Inc. and Amazon.com Inc. and others. Its provisions will be enforced beginning in 2024. </p><p>   Apple is debating internally whether it should launch the changes only in Europe in response to the EU law, or expand the opening of its system more broadly, the person familiar with the matter said. Other governments, including the U.S. and South Korea, are scrutinizing the dominance of Apple's and Google's mobile-app platforms. </p><p>   Exploring sideloading is a major turnaround for Apple. The company has for years battled lawmakers, regulators and rivals around the world to defend its control of how developers can access the more than one billion users of its devices. It has argued that sideloading could allow malicious actors to access users' phones. Earlier this year, it said the EU law would \"cripple the privacy and security protections that users have come to expect.\" </p><p>   Critics accuse Apple of restraining competition by requiring app developers to use its store and payment systems and then charging them commissions of up to 30% for certain transactions. </p><p>   Apple has long described its iPhone as being more secure because of how it controls its own software ecosystem, approving each app and serving as the sole gateway to download them. </p><p>   Tech executives say they are cooperating with European regulators over the new law, hoping dialogue will lead the EU to adopt interpretations of certain provisions that the companies find workable. The law says that some of its provisions, including the one about sideloading, could be complemented by company-specific interpretations -- something that will be the subject of negotiations with companies over the next year. </p><p></p>",
+  "published": "2022-12-17T07:16:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 13,
+          "end": 18
+        },
+        {
+          "start": 1108,
+          "end": 1113
+        },
+        {
+          "start": 2076,
+          "end": 2081
+        },
+        {
+          "start": 1430,
+          "end": 1435
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 3041,
+          "end": 3046
+        },
+        {
+          "start": 592,
+          "end": 597
+        },
+        {
+          "start": 766,
+          "end": 771
+        },
+        {
+          "start": 1363,
+          "end": 1368
+        },
+        {
+          "start": 1069,
+          "end": 1074
+        },
+        {
+          "start": 2365,
+          "end": 2370
+        },
+        {
+          "start": 2869,
+          "end": 2874
+        },
+        {
+          "start": 1744,
+          "end": 1749
+        },
+        {
+          "start": 1972,
+          "end": 1977
+        },
+        {
+          "start": 2456,
+          "end": 2461
+        },
+        {
+          "start": 684,
+          "end": 689
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ]
+    }
+  ]
+}

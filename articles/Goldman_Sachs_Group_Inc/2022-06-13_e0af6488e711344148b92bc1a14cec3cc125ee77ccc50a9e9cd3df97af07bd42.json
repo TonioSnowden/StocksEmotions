@@ -1,0 +1,32 @@
+{
+  "_id": "e0af6488e711344148b92bc1a14cec3cc125ee77ccc50a9e9cd3df97af07bd42",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Financial Firms Turn to  Quantum-Inspired Tech  ----  By Isabelle Bousquette",
+  "text": "<p>   Quantum computing, which promises to significantly increase processing speeds, is years away from full-scale commercial deployment, but some financial-services firms are turning to quantum-inspired technology for interim benefits. </p><p>   Traditional computers store information as either zeros or ones. Quantum computers use quantum bits, or qubits, which represent and store information in a quantum state that is a complex mix of zero and one. Machines capable of supporting this quantum state have the potential to sort through vast numbers of possibilities in nearly real time, potentially allowing them to solve problems beyond the grasp of today's most advanced computers. </p><p>   Quantum-inspired technology is a broad term that relates to using certain algorithms that typically run on quantum computers on fast-processing classical computers instead. These types of algorithms are well suited to solving optimization problems, which are common in the financial-services sector and include things like risk analysis and derivative pricing, according to Carl Dukatz, quantum program lead at Accenture PLC. </p><p>   Interest in quantum-inspired technology has grown as executives hear about developments in true quantum computing, analysts said. Firms including HSBC Holdings PLC, Ally Financial Inc. and Spanish multinational bank BBVA are looking to quantum-inspired technology for near-term advantages. </p><p>   Applications of quantum-inspired optimization problems can yield solutions anywhere from 1% to 10% more accurate than existing approaches and can come to solutions anywhere from two to three times as fast, according to Troels Steenstrup, technology head of KPMG's Global Quantum Hub. </p><p>   According to Will Zeng, head of quantum research at Goldman Sachs Group Inc., it makes sense that demand from financial services is so high because the industry has well-specified mathematical problems, in which incremental improvements in computing can make huge differences to the bottom line. \"There's definitely big, valuable problems that have a theoretical quantum advantage,\" Dr. Zeng said. </p><p>   Still, quantum computers are far from ready for large-scale commercial operation. Qubits, the quantum version of a computer bit, are delicate, easily disrupted by changes in temperature, noise or frequency. The number of qubits running in today's quantum machines remains relatively small, meaning experiments are currently limited to a narrow swath of information. </p><p>   When Google announced plans last year to create a commercial-grade quantum computer by 2029, it said it was aiming for a 1-million-qubit machine, while its systems at the time had less than 100 qubits. </p><p>   \"The main focus in the near term is really on the quantum-inspired type activity,\" said Steve Suarez, HSBC global head of innovation, global functions. The London-based bank initiated an official quantum program in August 2021. </p><p>   Currently, the applications the bank is exploring involve portfolio optimization and pricing, said Philip Intallura, HSBC global business lead for quantum computing. \"The inspired technologies lend themselves quite well to that,\" Dr. Intallura said. </p><p></p>",
+  "published": "2022-06-13T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1724,
+          "end": 1747
+        },
+        {
+          "start": 1724,
+          "end": 1731
+        },
+        {
+          "start": 1724,
+          "end": 1737
+        },
+        {
+          "start": 1724,
+          "end": 1748
+        }
+      ]
+    }
+  ]
+}

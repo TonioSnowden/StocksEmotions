@@ -1,0 +1,33 @@
+{
+  "_id": "3d574b6b2008f7970e0f78956d57fc1da09d320ad908ce791adceaae93b5ec9d",
+  "feed": "reuters",
+  "title": "BUZZ-U.S. STOCKS ON THE MOVE-Apple, Vir Biotech, Snowflake, Phunware",
+  "text": "<p>* The Morning News Call newsletter: http://tmsnrt.rs/2fwPLTh  Futures tracking the Dow and the S&amp;P 500 rose on Thursday, led by gains in planemaker Boeing and travel stocks, although increasing cases of the new Omicron coronavirus variant across the world continued to drive volatility in markets.</p><p>At 7:35 am ET, Dow e-minis were up 0.48% at 34,166. S&amp;P 500 e-minis were up 0.19% at 4,517, while Nasdaq 100 e-minis were down 0.26% at 15,829.25. The top three NYSE percentage gainers premarket: ** Snowflake Inc , up 13.6% ** RLX Technology Inc , up 10.7% ** Spirit AeroSystems Holdings Inc , up 10.7% The top three NYSE percentage losers premarket: ** Elastic NV , down 8.7% ** Veeva Systems Inc , down 7% ** China Online Education Group , down 5.4% The top three Nasdaq percentage gainers premarket: ** CF Acquisition Corp. VI , up 313.1% ** Bone Biologics Corp , up 46.9% ** Phunware Inc , up 44.9% The top three Nasdaq percentage losers premarket: ** Tantech Holdings Ltd , down 47.1% ** Hycroft Mining Holding Corp , down 24.8% ** Kirkland's Inc , down 19.4% ** Apple: down 3% premarket ** Qualcomm : down 2.2% premarket ** Skyworks: down 3% premarket ** Broadcom : down 1.5% premarket ** Qorvo : down 3.3% premarket BUZZ-Apple, suppliers fall after report on slowing iPhone 13 demand ** Boeing Co : up 5.2% premarket BUZZ-Rises on progress towards Chinese approval of 737 MAX ** Vir Biotechnology : up 15.4% premarket BUZZ-Jumps as lab data shows its drug works against Omicron</p><p>** Snowflake: up 13.6% premarket BUZZ-Soars on upbeat Q3 results, forecast ** RLX Technology : up 10.7% premarket BUZZ-Jumps after China drafts e-cigarette rules ** Archer Aviation: up 5.3% premarket BUZZ-Hires key autos engineer from Apple, CNBC reports ** Union Pacific: up 0.3% premarket BUZZ-Daiwa Capital Markets raises Union Pacific PT on strong volumes ** Weibo Corp : up 4.4% premarket BUZZ-Rises on its $385 mln secondary Hong Kong listing</p><p>** Phunware Inc : up 24.3% premarket ** Remark Holdings: up 9.2% premarket ** Benessere Capital: up 2.1% premarket BUZZ-Trump-linked stocks rise again ** Arbutus Biopharma Corp : up 7.6% premarket BUZZ-Set to extend gains after Moderna patent appeal win ** Veeva Systems : down 7.0% premarket BUZZ-Eyes near 7-month low on weak Q3 outlook ** Valneva: up 4% premarket BUZZ-Up after EU regulator begins real-time review of COVID-19 shot ** Kellogg Company : up 0.7% premarket BUZZ-Rises on tentative deal with union after 2 months of strike</p>",
+  "published": "2021-12-02T12:53:17.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.90999997,
+      "offsets": [
+        {
+          "start": 147,
+          "end": 153
+        },
+        {
+          "start": 1291,
+          "end": 1300
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.3641467,
+        "baseWeight": 2.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.0097387,
+        "tagPositionWeight": 0.37388527,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "1add77e6f18bf78f1578518217d6281b0809951e8f1d484c1c586ffd1bc38fd3",
+  "feed": "reuters",
+  "title": "BRIEF-Vinfast Trading & Investment Pte Ltd Files For U.S. IPO",
+  "text": "<p>* VINFAST TRADING &amp; INVESTMENT PTE SAYS WILL CONVERT TO SINGAPORE PUBLIC LIMITED CO; UPON CONVERSION, CO WILL BE KNOWN AS VINFAST AUTO LTD</p><p>* VINFAST TRADING &amp; INVESTMENT PTE SAYS INTENDS TO APPLY TO LIST VINFAST AUTO LTD'S ORDINARY SHARES ON NASDAQ UNDER SYMBOL “VFS”</p><p>* VINFAST TRADING &amp; INVESTMENT PTE SAYS CITIGROUP, MORGAN STANLEY, CREDIT SUISSE, J.P. MORGAN ARE AMONG UNDERWRITERS TO VINFAST AUTO LTD'S U.S. IPO</p><p>* VINFAST TRADING &amp; INVESTMENT-BNP PARIBAS, HSBC, RBC CAPITAL MARKETS, WOLFE NOMURA ALLIANCE ARE ALSO AMONG UNDERWRITERS TO VINFAST AUTO LTD'S U.S. IPO</p>",
+  "published": "2022-12-06T18:17:26.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 350,
+          "end": 362
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0086246,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.058624506,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

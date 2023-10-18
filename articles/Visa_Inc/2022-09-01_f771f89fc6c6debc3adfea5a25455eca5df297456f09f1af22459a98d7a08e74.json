@@ -1,0 +1,34 @@
+{
+  "_id": "f771f89fc6c6debc3adfea5a25455eca5df297456f09f1af22459a98d7a08e74",
+  "feed": "economist-blog",
+  "title": "The Intelligence; “They've been emphasising that this is going to take a long time”—Ukraine's bid for Kherson",
+  "text": "<p>THE LONG-TRAILED counter-offensive to retake the Russian-occupied regional powerhouse and symbolically powerful provincial capital has begun. But Ukraine's forces are in no hurry. Visa and Mastercard are two of the world's most profitable companies; we look at efforts to break their iron grip on the payments market. And the blue-blooded horseshoe crabs that are needlessly bled in their millions. Runtime: 24 min</p><p>Listen on: Apple Podcasts | Spotify | Google | Stitcher | TuneIn</p><p>For full access to print, digital and audio editions of The Economist, subscribe here www.economist.com/intelligenceoffer</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 180,
+          "end": 184
+        },
+        {
+          "start": 178,
+          "end": 182
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.2886062,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.2886063,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

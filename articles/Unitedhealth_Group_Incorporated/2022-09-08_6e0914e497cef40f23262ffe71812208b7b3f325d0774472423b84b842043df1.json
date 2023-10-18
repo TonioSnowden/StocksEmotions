@@ -1,0 +1,86 @@
+{
+  "_id": "6e0914e497cef40f23262ffe71812208b7b3f325d0774472423b84b842043df1",
+  "feed": "wall-street-journal",
+  "title": "Judge Voices Skepticism of Justice Department's Antitrust Challenge to UnitedHealth Acquisition; In closing arguments, federal judge questions government's effort to block health insurer's $13 billion deal for Change Healthcare",
+  "text": "<p>The Justice Department sued in February to block the deal, and a trial took place in August.</p><p>UnitedHealth, the parent of the nation's largest insurer, agreed in January 2021 to buy Change Healthcare for nearly $8 billion and assume another $5 billion in debt. It wants to combine the technology firm with its own health services arm, Optum.</p><p>Change provides services related to payment processes for healthcare systems, analytics for financing and billing, and tools that help hospitals make decisions about patient care.</p><p>UnitedHealth has agreed to divest part of its claims-processing business in a bid to address competition concerns surrounding the merger.</p><p>Justice Department lawyer Eric Welsh said Thursday the divestiture wasn't sufficient and argued that allowing the deal would give UnitedHealth \"unprecedented monopoly power\" over technology used to determine when insurance claims should be paid.</p><p>Judge Nichols questioned why UnitedHealth's planned divestiture wouldn't address that concern, because another business would step in to compete on claims processing.</p><p>With the divestiture, the merger wouldn't lead to a monopoly, he said.</p><p>In addition to the monopoly concerns, Mr. Welsh argued that UnitedHealth's ownership of Change would give the company significant access to data from its insurance competitors that have used Change's services, which could suppress innovation and ultimately harm consumers.</p><p>Judge Nichols asked Mr. Welsh what kind of evidence was presented at trial that shows rivals would stop innovating. He also asked what risk other insurers faced, and whether there would still be potential harms if UnitedHealth didn't use the data.</p><p>The judge also directed some pointed questions at the companies, asking why potential concerns about innovation wouldn't be enough to establish that the deal would lessen competition.</p><p>UnitedHealth lawyer Craig Primis said there was no evidence that the company would use the information against its rivals. The company has said the combined entity would improve care by providing better information to doctors and reduce waste by making the healthcare payment process more efficient.</p><p>Mr. Primis said no rivals testified that they would be harmed. \"The lack of support is remarkable,\" he said. \"It's layer upon layer of speculation.\"</p><p>Judge Nichols is expected to issue his ruling in the coming weeks.</p><p>Write to Erin Mulvaney at erin.mulvaney@wsj.com</p><p>Judge Voices Skepticism of Justice Department's Antitrust Challenge to UnitedHealth Acquisition</p>",
+  "published": "2022-09-08T23:28:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 71,
+          "end": 83
+        },
+        {
+          "start": 92,
+          "end": 104
+        },
+        {
+          "start": 93,
+          "end": 105
+        },
+        {
+          "start": 517,
+          "end": 529
+        },
+        {
+          "start": 521,
+          "end": 533
+        },
+        {
+          "start": 784,
+          "end": 796
+        },
+        {
+          "start": 789,
+          "end": 801
+        },
+        {
+          "start": 928,
+          "end": 940
+        },
+        {
+          "start": 934,
+          "end": 946
+        },
+        {
+          "start": 1195,
+          "end": 1207
+        },
+        {
+          "start": 1203,
+          "end": 1215
+        },
+        {
+          "start": 1620,
+          "end": 1632
+        },
+        {
+          "start": 1630,
+          "end": 1642
+        },
+        {
+          "start": 1836,
+          "end": 1848
+        },
+        {
+          "start": 1848,
+          "end": 1860
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.659199,
+        "baseWeight": 15.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6591977,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

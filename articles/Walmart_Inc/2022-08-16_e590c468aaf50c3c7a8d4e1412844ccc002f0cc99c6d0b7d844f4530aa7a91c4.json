@@ -1,0 +1,58 @@
+{
+  "_id": "e590c468aaf50c3c7a8d4e1412844ccc002f0cc99c6d0b7d844f4530aa7a91c4",
+  "feed": "ftcomall",
+  "title": "Walmart: bargain bragging rights will help store chain as inflation rips",
+  "text": "<p>America loves a bargain. At Walmart, shoppers bagged $700 <a href=\"https://www.walmart.com/ip/Better-Homes-Gardens-Sullivan-Ridge-8-x-8-Steel-Hard-Top-Gazebo-with-Netting-Black/28774926?fulfillmentIntent=Shipping\">gazebos</a> for $250 and <a href=\"https://www.walmart.com/ip/VIZIO-40-Class-D-Series-FHD-LED-Smart-TV-D40f-J09/223245823\">half-priced television sets</a>. This helped America's biggest bricks-and-mortar retailer tame its inventory glut during the <a href=\"https://www.ft.com/content/331a22d4-022e-4639-8ba8-354a6a23c038\">second quarter.</a></p> <p>Just three weeks ago, Walmart spooked the market with a <a href=\"https://www.ft.com/content/664f16d0-2faf-4b7b-af72-236e370dbd08\">massive profit warning</a>. It now appears to be on steadier footing. That should reassure investors in Main Street USA as well as in the store chain. Walmart is a bellwether for US consumer demand. </p> <p>The group made better than expected quarterly sales and profits and slightly reversed the hefty cut it made to its full-year earnings outlook.</p> <p>Adjusted operating profit is now expected to fall 9-11 per cent for the year. This still represents a sharp deterioration from guidance of a 3 per cent increase given in February.</p> <p>Even so, Walmart's results justify cautious optimism. Inflation means more consumers are trading down and shopping at its stores. This is reflected by increases in like-for-like sales, transaction volumes and average ticket value.</p> <p>Walmart's inventories stood at $60bn at the end of July. That is up from $48bn a year ago, but down from the $61bn reported three months ago. The number still does not fully reflect a clear-out of excess merchandise. Inflation accounted for about 40 per cent of the $12bn year-on-year increase in the absolute value of inventory on hand. A chunk of inventory is “wanted” goods. These will cover spikes in demand when kids go back to school and around Halloween and Thanksgiving. </p> <p>Those red reduced price stickers come at a cost. Gross margins fell 132 basis points in the quarter. But sometimes bitter medicine is the best kind. Walmart is now better placed to focus on selling products to which Americans have shifted their spending — groceries and essential goods. </p> <p>The shares — down 3 per cent this year — are close to recovering losses since the first profit warning in May. That seems fair. Walmart's reputation for everyday low prices should give it an edge if inflation persists.</p><p>Source:  2022 'Walmart: bargain bragging rights will help store chain as inflation rips' FT.com 16 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-16T17:07:29.122Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99998724,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 27,
+          "end": 34
+        },
+        {
+          "start": 235,
+          "end": 242
+        },
+        {
+          "start": 413,
+          "end": 420
+        },
+        {
+          "start": 789,
+          "end": 796
+        },
+        {
+          "start": 1008,
+          "end": 1015
+        },
+        {
+          "start": 1627,
+          "end": 1634
+        },
+        {
+          "start": 1890,
+          "end": 1897
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

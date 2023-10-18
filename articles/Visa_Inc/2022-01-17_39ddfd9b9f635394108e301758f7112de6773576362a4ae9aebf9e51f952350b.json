@@ -1,0 +1,28 @@
+{
+  "_id": "39ddfd9b9f635394108e301758f7112de6773576362a4ae9aebf9e51f952350b",
+  "feed": "market-watch",
+  "title": "Reversing stance, Amazon says it will keep accepting Visa credit cards in the U.K.",
+  "text": "<p>Amazon AMZN first said in November that it would stop accepting credit cards using the service. Amazon had blamed Visa's V transaction fees for the decision. Amazon also has its own credit card in the U.K. using Mastercard MA.</p><p>Amazon had said that debit cards were not affected.</p><p>Visa shares have dropped 14% their peak in July, and Amazon shares have fallen 14% from their peak, which also was in July.</p>",
+  "published": "2022-01-17T06:35:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 279,
+          "end": 283
+        },
+        {
+          "start": 53,
+          "end": 57
+        },
+        {
+          "start": 114,
+          "end": 118
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

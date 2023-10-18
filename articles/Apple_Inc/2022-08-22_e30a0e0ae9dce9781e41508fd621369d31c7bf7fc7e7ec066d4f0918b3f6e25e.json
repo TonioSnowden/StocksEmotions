@@ -1,0 +1,62 @@
+{
+  "_id": "e30a0e0ae9dce9781e41508fd621369d31c7bf7fc7e7ec066d4f0918b3f6e25e",
+  "feed": "ftcomall",
+  "title": "Group of Apple employees pushes back against return-to-office order",
+  "text": "<p>Apple employees are pushing back against the iPhone maker's call for workers to return to the office next month, arguing that they have shown they can perform “exceptional work” during two-plus years of flexible arrangements.</p> <p>Apple Together, a group of workers that formed last year when offices around the globe were forced to work remotely because of the pandemic, began circulating a petition internally on Sunday, demanding “location flexible work”.</p> <p>The petition, seen by the Financial Times, is a response to an order from chief executive Tim Cook last week telling employees in and around the Cupertino headquarters that they must return to the office three days a week from September 5. Cook said he wanted to preserve the “in-person collaboration that is so essential to our culture”.</p> <p>Apple Together counters that a “uniform mandate from senior leadership” fails to respect the “many compelling reasons” why some employees are “happier and more productive” working outside of traditional office arrangements. </p> <p>The group is demanding the company allow employees to work with their “immediate manager” to decide their working arrangements, and that they should not be subject to “high-level approvals” and “complex procedures” or have to provide private information. </p> <p>A corporate employee within hardware engineering in Cupertino who is helping to organise the petition told the Financial Times that Apple Together intended to collect signatures this week before verifying and sending the results to executives.</p> <p>“At this juncture we will not be releasing any specific names of individuals publicly or to exec leadership to protect our colleagues, especially in light of retail union busting and recent reports of allegations of <a href=\"https://on.ft.com/3OXm8HK\">retaliation from HR</a>,” this person said.</p> <p>Apple declined to comment. </p> <p>Silicon Valley companies, including Facebook and Google, allowed engineers to stay at home when Covid-19 forced people to work remotely in March 2020. In some cases employees were allowed to relocate to other parts of the country without it affecting their salaries. </p> <p>Whether work should now return to pre-Covid norms has become a contentious issue, with some companies touting their flexible policies to lure and retain talent.</p> <p>Last year Spotify introduced a “Work from Anywhere” policy, saying it would support work-life balance by giving employees “the freedom to choose” where to work.</p> <p>Tesla boss Elon Musk, by contrast, told workers that “remote work is no longer acceptable”. Except for “particularly exceptional contributors”, he wrote to employees in June, it will be assumed that workers who fail to show up in person “have resigned”.</p> <p>Cook has not been as forceful as Musk — in March he acknowledged a return to the office might be “an unsettling change” for some — but since June 2021 he has repeatedly tried to get workers back to the office, only to have the plans delayed by new waves in Covid cases.</p> <p>Apple has thrived during the pandemic period, with its market valuation roughly doubling from $1.4tn in February 2020 to $2.8tn today. Some employees argue that proves that the lack of in-office culture is not hampering their work. </p> <p>On Slack, the internal messaging platform used by Apple, more than 10,000 Apple employees have joined the group “Remote Work Advocacy”. And on Blind, the anonymous messaging platform for tech employees, return-to-work discussions are among the most frequent and popular issues among the iPhone maker's employees.</p> <p>In May, a prominent machine learning computer scientist, Ian Goodfellow, left Apple for Google sibling DeepMind, reportedly telling colleagues that Apple's return-to-work policy was one of the main reasons he left. </p> <p>The outspokenness of some Apple employees appears to have had some impact. In June, Cook had asked workers to come back to the office on Mondays, Tuesdays and Thursdays. However, in last week's memo the policy was relaxed to Tuesdays and Thursdays, plus a third day that will be determined by individual teams. </p> <p>“We believe that Apple should encourage, not prohibit, flexible work to build a more diverse and successful company where we can feel comfortable to ‘think different' together,” the Apple petition said. </p><p>Source: Patrick McGee in San Francisco  2022 'Group of Apple employees pushes back against return-to-office order' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T04:00:03.841Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 9,
+          "end": 14
+        },
+        {
+          "start": 1764,
+          "end": 1769
+        },
+        {
+          "start": 2896,
+          "end": 2901
+        },
+        {
+          "start": 3176,
+          "end": 3181
+        },
+        {
+          "start": 3200,
+          "end": 3205
+        },
+        {
+          "start": 3515,
+          "end": 3520
+        },
+        {
+          "start": 3585,
+          "end": 3590
+        },
+        {
+          "start": 3677,
+          "end": 3682
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

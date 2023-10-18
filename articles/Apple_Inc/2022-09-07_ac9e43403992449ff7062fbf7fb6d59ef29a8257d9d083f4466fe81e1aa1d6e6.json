@@ -1,0 +1,86 @@
+{
+  "_id": "ac9e43403992449ff7062fbf7fb6d59ef29a8257d9d083f4466fe81e1aa1d6e6",
+  "feed": "wall-street-journal",
+  "title": "Why Apple Keeps Going Pro; Smartphone maker saves newest chip for most premium devices that drive margins higher",
+  "text": "<p>But the iPhone remains the star of Apple's show. The tech giant still depends on the smartphone for more than half its total revenue so it can't afford to have its marquee product succumb to the same malaise afflicting the rest of the smartphone industry. Global smartphone shipments for the first half of this year are down 10% from the same period last year, according to IDC. Apple has held up better than most. But with inflation rising and the economy slowing, iPhone buyers might be pickier than ever when it comes to plunking down four-figure sums.</p><p>Apple's solution to that is to chip more in on its most popular devices, in some cases literally. The iPhone 14 family breaks from the company's longstanding pattern of putting its newest in-house chip in its newest phone; only the iPhone 14 Pro models announced Wednesday will get the company's new A16 processor. The baseline iPhone 14 models will carry the A15 chip Apple introduced last year with its iPhone 13 family. Apple also added a large-screen option to its baseline with the 14 Plus—effectively killing the smaller Mini models of the last two cycles. Canalys estimates that only 9% of total iPhone 13 customers opted for the Mini version of that family.</p><p>Adding the Plus and removing the miniboosts the average price tag of Apple's overall iPhone lineup by about 3%. And making the newest chip exclusive to the Pro might add even more momentum to that product line. Apple first introduced the Pro models in 2019, offering a fancier camera and more premium body design. The company's fans have caught on: Pro models have accounted for 41% of shipments of the iPhone 13 family since that lineup was introduced last year, according to Canalys. That compares with the Pro taking 31% of shipments of total iPhone 11 shipments two years prior.</p><p>The strategy has helped Apple get more from each sale. Analysts estimate the company has sold a total of 189.2 million iPhone units over the three quarters since the iPhone 13 launch, according to consensus estimates by Visible Alpha. With about $163 billion in reported iPhone revenue over that time, that yields an average iPhone selling price of about $861, a record high and up 12% from the iPhone's average selling price in Apple's fiscal year 2019 before the first Pro models launched.</p><p>The iPhone Pro models may also be helping Apple in its oldest upsell of all—memory. The more robust camera on the Pro models likely drives some buyers to opt for higher memory configurations. These are lucrative trade-ups for Apple; Toni Sacconaghi of Bernstein estimates Apple has a 90% gross margin on the price difference between the same models with larger storage options. Apple's product gross margins hit nearly 37% for the first nine months of the current fiscal year—a record high for comparable periods since the company began breaking out its product and service margins in 2018. Apple's way of dodging a recession might come down to getting more customers to pay up for extra space.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Why Apple Keeps Going Pro</p>",
+  "published": "2022-09-07T21:56:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 4,
+          "end": 9
+        },
+        {
+          "start": 35,
+          "end": 40
+        },
+        {
+          "start": 376,
+          "end": 381
+        },
+        {
+          "start": 551,
+          "end": 556
+        },
+        {
+          "start": 918,
+          "end": 923
+        },
+        {
+          "start": 971,
+          "end": 976
+        },
+        {
+          "start": 1281,
+          "end": 1286
+        },
+        {
+          "start": 1421,
+          "end": 1426
+        },
+        {
+          "start": 1814,
+          "end": 1819
+        },
+        {
+          "start": 2217,
+          "end": 2222
+        },
+        {
+          "start": 2321,
+          "end": 2326
+        },
+        {
+          "start": 2503,
+          "end": 2508
+        },
+        {
+          "start": 2549,
+          "end": 2554
+        },
+        {
+          "start": 2654,
+          "end": 2659
+        },
+        {
+          "start": 2866,
+          "end": 2871
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.980003,
+        "baseWeight": 15.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.98000264,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

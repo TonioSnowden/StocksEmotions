@@ -1,0 +1,76 @@
+{
+  "_id": "6846efa76f70263de9b159f34ad404bcb3d1b5e392516d96d3c8302a3791c961",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Heard on the Street:  Weak Intel Results  Show Chips Act's Limits  ---  Subsidies won't fix missteps and falling PC sales  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  There is a rich irony to the notion that U.S. lawmakers rescued a giant subsidy package for the semiconductor industry just as the country's largest chip maker proved the limits of such measures. </p><p>\n  On Thursday afternoon the House of Representatives passed the bill widely known as the Chips Act, clearing the way for President Biden to sign into law a measure that will provide about $53 billion in direct financial assistance for the construction of chip fabrication facilities in the U.S. The bill was considered a long shot less than two weeks ago, as more urgent matters such as soaring inflation, the war in Ukraine and the coming midterm elections took the attention of lawmakers. </p><p>\n  Less than an hour after the Chips Act cleared the House, Intel Corp. reported second-quarter results that were -- to put it bluntly -- a disaster. Revenue slid 22% year over year to $15.3 billion, while adjusted operating income plunged 78% to $1.4 billion. Revenue also missed Wall Street's already downbeat projections by 15% -- the widest such shortfall in at least five years, according to FactSet. Intel also projected disappointing third-quarter results and slashed its full-year revenue forecast by 15%. The high end of the new forecast would be Intel's lowest annual revenue in five years. Intel's stock sank 10% early Friday morning. </p><p>\n  As the largest domestic chip maker by both revenue and manufacturing footprint, Intel stands to benefit the most from legislation designed specifically to reduce reliance on overseas facilities for key technologies. But the company's latest problems aren't something even generous checks from Washington will fix. A slumping PC market has hurt demand for the type of processors that account for half of Intel's revenue. </p><p>\n  The company also had a whole new negative surprise in its crucial data-center business. A bug discovered in the new server processor known as Sapphire Rapids has delayed significant shipping of that chip until next year. Intel also cited inventory reductions and continued competitive pressures; rival Advanced Micro Devices has been eating into its data-center share thanks to a manufacturing partnership with Taiwan Semiconductor Manufacturing, which has pulled ahead of Intel in manufacturing technology. Data-center sales slid 16% year over year. More notably, operating margins slid to less than 5% for that division, which once commanded margins in the 50% range. </p><p>\n  The quarter marks a significant step backward for Intel, which has been engaged in an ambitious effort to catch up to TSMC and regain its manufacturing edge. It is also a sharp reminder that subsidies can go only so far. Intel has been throwing gobs of money at its problems, even warning that it will burn cash this year for the first time in more than two decades. But chips and chip-making processes take years of work, which means missteps can take years to solve as well. The roots of Intel's problems began two CEOs ago, but current chief Pat Gelsinger still conceded that \"this was not our finest hour in execution.\" </p><p>\n  That isn't to say the subsidies contained in the Chips Act won't be helpful. Intel's latest problems have forced it to reduce its planned capital expenditures for this year by 15% to $23 billion. Tim Arcuri of UBS thinks Intel could eventually capture half of the money due to come to the industry from the Chips Act over the next five years, which could help Intel's free cash flow back to at least break-even territory next year. But that creates its own risk; Mr. Arcuri noted that \"companies this reliant on subsidies have a hard time recapturing a competitive edge.\" </p><p>\n  When it comes to solving its biggest problems, America's largest chip maker is very much on its own. </p><p></p>",
+  "published": "2022-07-30T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3156,
+          "end": 3161
+        },
+        {
+          "start": 1445,
+          "end": 1450
+        },
+        {
+          "start": 2258,
+          "end": 2263
+        },
+        {
+          "start": 779,
+          "end": 784
+        },
+        {
+          "start": 39,
+          "end": 44
+        },
+        {
+          "start": 2006,
+          "end": 2011
+        },
+        {
+          "start": 3300,
+          "end": 3305
+        },
+        {
+          "start": 3439,
+          "end": 3444
+        },
+        {
+          "start": 1768,
+          "end": 1773
+        },
+        {
+          "start": 1275,
+          "end": 1280
+        },
+        {
+          "start": 1125,
+          "end": 1130
+        },
+        {
+          "start": 2676,
+          "end": 2681
+        },
+        {
+          "start": 1320,
+          "end": 1325
+        },
+        {
+          "start": 2505,
+          "end": 2510
+        },
+        {
+          "start": 2945,
+          "end": 2950
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "3562231106d6401e4be0c80d411a5401a81bddcfa48ed449069257a6891c2c99",
+  "feed": "reuters",
+  "title": "EXCLUSIVE-Foxconn in talks with Vietnam's Vinfast on electric car partnership -sources",
+  "text": "<p>But VinFast, a unit of Vietnam's largest conglomerate Vingroup JSC, prefers a partnership as it is keen to brand itself as an eco-friendly automaker and wants to retain its EV business, one of the sources said.</p><p>Foxconn declined to comment. A Vingroup spokesman said the company had no information on the matter to provide.</p><p>The world's largest contract manufacturer and Apple Inc supplier has outlined plans to become a major provider of parts and services in the global EV market and any agreement with VinFast would follow deals with Fiat Chrysler and EV startups.</p><p>Its ambitions threaten to shake up the industry, offering Apple and other non-traditional players a shortcut to competing in the vehicle market.</p><p>VinFast became Vietnam's first fully fledged domestic car manufacturer when its first gasoline-powered models built under its own badge hit the streets in 2019.</p><p>The company sold about 30,000 vehicles last year and has forecast sales of more than 45,000 for 2021. It will begin delivery of EVs produced at its factory in the northern port city of Hai Phong to domestic customers by December.</p><p>VinFast, which also produces electric motorbikes and buses, said this month it had set up an electric vehicle battery venture with Taiwan's ProLogium.</p><p>Seeking to provide components or services to 10% of the world's electric vehicles as early as 2025, Foxconn has moved quickly to clinch a number of deals. One of its biggest is an agreement with Zhejiang Geely Holding Group to provide contract manufacturing for other automakers.</p><p>It has also said it will work with U.S. startup Fisker to produce more than 250,000 vehicles a year beginning in late 2023 and will start building SUVs for China's Byton next year. ]</p><p>With Fiat Chrysler, it is setting up a venture to develop EVs and internet-connected cars.</p><p>Foxconn chairman Liu Young-way also said this week the company may make electric vehicles at its high-profile but troubled plant in the U.S. state of Wisconsin, though it could decide on Mexico.</p><p>He described Foxconn, formally called Hon Hai Precision Industry, as the \"new kid in town\" for carmaking and said it needs to quickly build up its capacity to earn trust from clients.</p>",
+  "published": "2021-03-19T07:09:53.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 624,
+          "end": 629
+        },
+        {
+          "start": 369,
+          "end": 378
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9487271,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.048727155,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

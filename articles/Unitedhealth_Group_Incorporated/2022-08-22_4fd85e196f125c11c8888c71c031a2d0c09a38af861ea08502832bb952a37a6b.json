@@ -1,0 +1,34 @@
+{
+  "_id": "4fd85e196f125c11c8888c71c031a2d0c09a38af861ea08502832bb952a37a6b",
+  "feed": "wall-street-journal",
+  "title": "Amazon Joins Bidding for Signify  ----  By Laura Cooper",
+  "text": "<p>    Amazon.com Inc. is among the bidders for healthcare company Signify Health Inc., joining other heavy hitters vying in an auction for the home-health services provider, according to people familiar with the matter. </p><p>   Signify is for sale in an auction that could value it at over $8 billion, the people said. Bids are due around Labor Day, according to the people, but it is always possible an eager bidder could strike a deal before then. </p><p>    CVS Health Corp. is also among the suitors, The Wall Street Journal previously reported, as the drugstore and insurance giant looks to expand in home-health services. UnitedHealth Group Inc. and another corporate buyer are also circling the company, according to the people. </p><p>   There is no guarantee any of them will reach a deal for Signify, which has been exploring strategic alternatives. The healthcare company has a market value of roughly $5 billion, boosted since the Journal first reported on the possibility of a deal this month. </p><p>   Signify uses analytics and technology to help employers, health plans, physician groups and health systems with in-home care. It offers in-home health evaluations for Medicare Advantage and other government-run managed-care plans. </p><p>   A deal would mark Amazon's latest foray into the healthcare sector and the second time in recent months it faced off against CVS. </p><p>   The online-commerce and media-and-technology giant in July agreed to pay $3.9 billion for 1Life Healthcare Inc., which operates a primary-care practice under the name One Medical. The deal marks the first major acquisition announced during the tenure of Chief Executive Andy Jassy, for whom expansion into healthcare is a priority. </p><p>   CVS had also eyed the One Medical parent company, according to people familiar with the matter. </p><p>   New York-based private-equity firm New Mountain Capital is an investor in Signify, after first backing it in 2017. </p><p></p>",
+  "published": "2022-08-22T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 603,
+          "end": 626
+        },
+        {
+          "start": 599,
+          "end": 622
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8099948,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.004994869,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

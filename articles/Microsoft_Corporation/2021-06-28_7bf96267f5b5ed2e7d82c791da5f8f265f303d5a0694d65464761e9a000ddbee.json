@@ -1,0 +1,28 @@
+{
+  "_id": "7bf96267f5b5ed2e7d82c791da5f8f265f303d5a0694d65464761e9a000ddbee",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>\n   A photo of Microsoft Corp. Chief Executive Satya Nadella that appeared with the Personal Technology column on Friday was provided by Microsoft. The photo was incorrectly attributed to The Wall Street Journal in the photo credit. </p><p>\n  --- </p><p>\n  Notice to readers </p><pre> </pre><p>\n  Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail. </p><p>\n  --- </p><p>\n  Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2021-06-28T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 11,
+          "end": 20
+        },
+        {
+          "start": 133,
+          "end": 142
+        },
+        {
+          "start": 11,
+          "end": 26
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "d076b1f8210b1a52ca9667f614d04b6d34c1903e4efd408248f43ddc5b9eb377",
+  "feed": "wall-street-journal",
+  "title": "Goldman Sachs Cuts Pay Of CEO Solomon by 36%",
+  "text": "<p>In October, Goldman agreed to pay nearly $3 billion to government officials in four countries to end an investigation into work it performed for 1MDB, a Malaysian fund that prosecutors had alleged was used to pay bribes to politicians in Malaysia and the Middle East. The bank said at the time that it would take a total of $174 million in compensation from current and former executives. Mr. Solomon's 2020 pay would have been $10 million higher but for the actions its board took in response to the 1MDB saga, Goldman said in the filing.</p><p>His compensation package consisted of a $2 million base salary, a $4.65 million cash bonus and a $10.85 million stock award that is tied to how well the bank performs over the next few years.</p>",
+  "published": "2021-01-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 12,
+          "end": 19
+        },
+        {
+          "start": 512,
+          "end": 519
+        }
+      ]
+    }
+  ]
+}

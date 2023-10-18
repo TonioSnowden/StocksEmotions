@@ -1,0 +1,132 @@
+{
+  "_id": "40894e973c72919f7ce96a415f5a123bc498149faed26a26aaeba6a7bf3820ba",
+  "feed": "wall-street-journal",
+  "title": "Unlock iPhone When Face ID Can't",
+  "text": "<p>The pandemic threw a wrench into Apple's cutting-edge, lickety-split mug scanner: Our faces can't be our passwords when our faces can't be seen. And typing passcodes in full view of strangers and co-workers can be a security risk.</p><p>Well, mask or no mask, Apple's Face ID works again -- sort of.</p><p>With the iOS 14.5 update -- released Thursday through the company's public beta software program, and expected to go into wide release this spring -- you can unlock your iPhone without typing a passcode, even if your face is obscured. Just one expensive little catch: You need an Apple Watch -- and it needs to be unlocked and on your wrist. Talk about a well-engineered Apple trap. That aside, this synergy is great.</p><p>I've followed the developments of this crucial, life-altering struggle for nearly a year now. Last April, there was an effort to create Face ID-compatible masks. (Surprise! They didn't catch on.) Soon after, with iOS 13.5, Apple made the passcode screen come up faster when the phone can't see your face. (It's still a pain.)</p><p>Compared with those, this new watch-dependent solution is almost as good as the naked-face real thing. It's fast and easy to set up. I've been testing a prerelease version for the past few days, unlocking my iPhone while wearing all sorts of masks, in all sorts of conditions. In anticipation of your questions, I've gathered the answers:</p><p>How Does It Work?</p><p>If your watch is unlocked on your wrist and your iPhone can't read your face, your watch will gently buzz and your iPhone will unlock. And it does it really fast. Check out the stats:</p><p>-- Unlocking with no mask, using Face ID: 0.8 second</p><p>-- Unlocking with mask, using watch trick: 1.4 seconds</p><p>-- Unlocking iPhone SE with Touch ID fingerprint scanner: 0.7 second</p><p>-- Unlocking with a passcode: a year. Fine, three whole seconds</p><p>Here's what's happening behind the scenes: The array of sensors in that notch at the top of your iPhone's screen -- what Apple calls the TrueDepth camera -- tries to identify you as usual. If it can't see your nose and mouth, it looks for your unlocked watch to unlock your iPhone. If it doesn't see any face -- or sees an unmasked face it doesn't think is yours -- it stays locked.</p><p>How Secure Is It?</p><p>This solution is only as secure as your passcode. Remember, this isn't using biometrics to authenticate you.</p><p>But let's pretend some bad guy stole your Apple Watch and thought that was his ticket into your iPhone. First, he'd have to put on your watch and enter your watch passcode. (It locks whenever you remove it from your wrist.) Then, to get this whole auto-unlock trick to work, he'd have to enter your passcode. At that point, he'd realize he didn't need your watch in the first place!</p><p>Still, it's a good moment to remember the cardinal rule: Don't share those codes with people you don't trust with your life. And choose strong numeric passwords.</p><p>A more realistic fear? That a masked person picks up your phone and is able to unlock it just by being close to the unlocked watch on your wrist. While the iPhone does check for the presence of a face, it could be anyone under the mask (and your eyes don't even have to be open). I tested this with several people.</p><p>The person would have to be pretty close -- within about 10 feet, according to my tests. The proximity, like much of this software, isn't final, an Apple spokeswoman told me. Apple also seems to have anticipated this: You get an alert on your Apple Watch saying your iPhone has been unlocked. You can tap a button in the alert to lock the phone again.</p><p>Plus, this Apple Watch shortcut is good only for unlocking your iPhone. If you're wearing a mask while trying to buy something via Apple Pay, App Store or iTunes, the phone will still require your passcode.</p><p>You know what does all that and doesn't require an extra $200-and-up accessory? A fingerprint sensor. That's obviously a better option when wearing a mask, but the only current iPhone that still has Touch ID is the low-price iPhone SE. According to my reporting and what others have written, Apple is considering adding an in-screen fingerprint sensor along with facial recognition to future iPhones. Samsung's latest Galaxy already has both. Apple declined to comment on future products.</p><p>How Do I Get It?</p><p>This feature requires your iPhone to run iOS 14.5 and your Apple Watch to run Watch OS 7.4. Once you have that software, turn on the feature by going to Settings &gt; Face ID &amp; Passcode &gt; Unlock with Apple Watch.</p><p>While Apple says the software is coming this spring, you can get it now if you sign up for Apple's beta program, where you test new software versions and provide feedback. Anyone can join at beta.apple.com. After you sign up, you'll need to install a special profile to your iPhone and follow the steps. You'll have to do the same for the Apple Watch.</p><p>Usually, I guide the uninitiated against this. There can be bugs and battery drain with unfinished software. That said, I've been using it for five days, and haven't seen these issues so far. For those who constantly wear masks, and who own both an iPhone and Apple Watch, I can understand wanting to get rid of Face No ID ASAP.</p>",
+  "published": "2021-02-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3553,
+          "end": 3558
+        },
+        {
+          "start": 4471,
+          "end": 4476
+        },
+        {
+          "start": 4192,
+          "end": 4197
+        },
+        {
+          "start": 4556,
+          "end": 4561
+        },
+        {
+          "start": 4804,
+          "end": 4815
+        },
+        {
+          "start": 935,
+          "end": 940
+        },
+        {
+          "start": 3365,
+          "end": 3370
+        },
+        {
+          "start": 4041,
+          "end": 4046
+        },
+        {
+          "start": 3338,
+          "end": 3343
+        },
+        {
+          "start": 3433,
+          "end": 3444
+        },
+        {
+          "start": 33,
+          "end": 38
+        },
+        {
+          "start": 3673,
+          "end": 3678
+        },
+        {
+          "start": 4452,
+          "end": 4457
+        },
+        {
+          "start": 665,
+          "end": 670
+        },
+        {
+          "start": 4314,
+          "end": 4325
+        },
+        {
+          "start": 1941,
+          "end": 1946
+        },
+        {
+          "start": 5077,
+          "end": 5082
+        },
+        {
+          "start": 5077,
+          "end": 5088
+        },
+        {
+          "start": 3553,
+          "end": 3564
+        },
+        {
+          "start": 4804,
+          "end": 4809
+        },
+        {
+          "start": 2372,
+          "end": 2377
+        },
+        {
+          "start": 574,
+          "end": 585
+        },
+        {
+          "start": 254,
+          "end": 259
+        },
+        {
+          "start": 2372,
+          "end": 2383
+        },
+        {
+          "start": 3433,
+          "end": 3438
+        },
+        {
+          "start": 574,
+          "end": 579
+        },
+        {
+          "start": 4314,
+          "end": 4319
+        },
+        {
+          "start": 3673,
+          "end": 3682
+        },
+        {
+          "start": 4452,
+          "end": 4463
+        }
+      ]
+    }
+  ]
+}

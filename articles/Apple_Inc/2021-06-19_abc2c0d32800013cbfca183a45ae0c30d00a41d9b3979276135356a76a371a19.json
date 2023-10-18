@@ -1,0 +1,64 @@
+{
+  "_id": "abc2c0d32800013cbfca183a45ae0c30d00a41d9b3979276135356a76a371a19",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Keywords: Laptops Are Finally Catching Up to Phones --- Power-sipping, cellular-connected PCs are coming",
+  "text": "<p>Laptops survived mostly because they're better for heavier jobs: Their screens are bigger and physical keyboards are better for productive and creative tasks. And when a global pandemic arrived, we found those traits outweighed the mobility benefits of phones and tablets, especially since we were usually on home Wi-Fi and plugged into the wall socket.</p><p>Computer sales had generally been in decline for the past decade, and those declines were expected to continue for the foreseeable future. During the pandemic, there were increases in PC sales of 50% or more a quarter, compared with the prior year, according to technology market research firm IDC. Laptop makers are seizing this sudden return to the spotlight.</p><p>Every major PC brand is incorporating more of the technologies that have made phones central to our lives. They're embracing power-sipping but powerful processors and sharper displays, along with the related decrease in thickness and weight -- and increase in battery life. And these evolving technologies are making possible more post-clamshell laptop designs, including \"detachables\" (tablets that snap into keyboards) and 2-in-1s (thin laptops with 360-degree hinges that fold into tablet form).</p><p>The laptop's next transformation is powered by changes in the behavior of consumers, businesses and schools during the pandemic, but it has also coincided with rapid evolution in the technology going into PCs.</p><p>Longer battery life is directly related to squeezing more computing power out of fewer watts of electricity, and Apple is leading the way there, says Geoff Blaber, chief executive of CCS Insight, a technology consulting firm. Apple has spent years amassing in-house chip-design expertise while designing its own processors, first for the iPhone. These processors are based on the instructions used by chips from U.K.-based microchip-design company Arm and compete with Intel's x86 technology, which dominates the PC and data-center industries, and until recently powered Apple's Mac computers. Apple used the same expertise to develop its M1 processors for the Mac.</p><p>Mr. Blaber says Apple's chip performance is \"orders of magnitude ahead of the competition today.\"</p><p>For Apple, this translates into record-breaking performance on many benchmarks for its MacBook Air and Pro laptops, but also its iPad Pro, which uses the same M1 processor and has 5G connectivity. The M1 chip is also now in iMac, but Apple has yet to give any of its notebooks a touch screen, something found on many competing PCs.</p><p>Apple's tight control of hardware and software means that the company has in some ways pioneered -- and hastened the industrywide adoption of -- microchip customization, to better run the software we use most often, says Miguel Nunes, senior director of product management at microchip giant Qualcomm. Such customization at the hardware level makes software faster than it would be if it were running on general-purpose chips.</p><p>When it comes to pushing the phone-ization of the PC, Apple's competitors have also been forward thinking.</p><p>Microsoft's Surface Pro X, one of the company's newer detachables, runs on an Arm-based processor designed in collaboration with Qualcomm. Windows isn't yet as capable on such processors, largely because not many third-party developers write software for the version of Windows used on such hardware, despite the company's continued encouragement. Microsoft said it would reveal a new version of Windows on June 24, and early indications are that it will include a substantial redesign of the operating system that will make it more usable and unified across a variety of processor types and PC designs.</p><p>Intel retains about 80% market share in laptops, with the rest being almost entirely its direct competitor AMD, which makes chips that speak the same language as Intel's. A fraction of the remainder are Arm-based, and use chips made by Apple, Qualcomm, MediaTek and others. Intel has reacted to these shifts in notebook computers by adapting its designs to stay competitive with Arm in laptops. It has created an \"Evo Platform\" certification for laptops that use its latest-generation processors. To be eligible, a device must meet stringent standards: thin and light design, instant-on, 9-hour battery life, and other features reminiscent of smartphones.</p><p>\"This work was already in progress, and then people's needs for our key Evo experiences were greatly accelerated by the pandemic,\" says Chris Walker, Intel's corporate vice president in charge of laptops and the like.</p><p>Mr. Blaber says that PCs are benefiting from a renaissance in web apps -- programs that can run in a browser and don't need to be written for a particular operating system. But that is also one reason both Windows PCs and Apple devices might continue to lose ground to Google-powered Chromebooks. Google has long pursued the strategy of driving users toward using web apps, through its Chrome operating system.</p><p>The Chrome ecosystem appears on perhaps the most diverse array of devices and underlying technologies of any operating system, with devices from every major PC manufacturer except for Apple, running on x86 processors made by Intel, but also Arm-based processors from Taiwan-based MediaTek and Qualcomm. Both are beginning to roll out laptop-specific chips more powerful than those they have sold for years to makers of Android phones, and have more in the works. Examples of devices that already include such processors are the Lenovo Chromebook Duet and the Acer Spin 7.</p><p>Perhaps the single most useful feature of our phones is their near-constant connection to the internet through a cellular network. That missing piece might not come to our laptops as quickly as other elements of mobile computing.</p><p>The challenge isn't getting LTE and 5G modems into our PCs -- that has been possible for years. It's that carriers have yet to figure out their end, says Patrick Moorhead, president of the technology consulting firm Moor Insights &amp; Strategy. They're concerned about potentially data-hungry devices like PCs overwhelming their networks, he adds.</p><p>Windows laptops for some time have had the ability to connect to cellular networks without consumers having to buy the kind of physical SIM card that smartphones rely on, says a Qualcomm spokesman. Currently, the Microsoft Surface Pro X supports such \"e-SIM\" technology, and allows purchase of data plans through an app, he adds.</p><p>Despite the connectivity challenge, analysts predict that the recent uptick in sales of PCs will persist. Reasons for this include unfilled demand in the education market, a shift to people buying new PCs every four to five years instead of the usual six to seven, and the way that \"work from home\" has meant employees need their own devices, rather just sharing them as they have in some workplaces such as call centers, says Jitesh Ubrani, an analyst at IDC covering smartphones, tablets and PCs.</p>",
+  "published": "2021-06-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2193,
+          "end": 2198
+        },
+        {
+          "start": 2423,
+          "end": 2428
+        },
+        {
+          "start": 3002,
+          "end": 3007
+        },
+        {
+          "start": 1651,
+          "end": 1656
+        },
+        {
+          "start": 4755,
+          "end": 4760
+        },
+        {
+          "start": 1538,
+          "end": 1543
+        },
+        {
+          "start": 5128,
+          "end": 5133
+        },
+        {
+          "start": 1996,
+          "end": 2001
+        },
+        {
+          "start": 3895,
+          "end": 3900
+        },
+        {
+          "start": 2107,
+          "end": 2112
+        },
+        {
+          "start": 2019,
+          "end": 2024
+        },
+        {
+          "start": 2521,
+          "end": 2526
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

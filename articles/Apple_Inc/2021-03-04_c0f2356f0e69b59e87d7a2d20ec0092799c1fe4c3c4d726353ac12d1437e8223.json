@@ -1,0 +1,32 @@
+{
+  "_id": "c0f2356f0e69b59e87d7a2d20ec0092799c1fe4c3c4d726353ac12d1437e8223",
+  "feed": "wall-street-journal",
+  "title": "Google To Stop Ad Sales Via User Browsing --- Citing privacy concerns, company says it won't track individuals' paths across multiple sites",
+  "text": "<p>The decision, coming from the world's biggest digital-advertising company, could help push the industry away from the use of such individualized tracking, which has come under increasing criticism from privacy advocates and faces scrutiny from regulators.</p><p>Google's heft means the change could reshape the digital ad business, where many companies rely on tracking individuals to target their ads, measure their effectiveness and stop fraud. Google accounted for 52% of last year's global digital ad spending of $292 billion, according to Jounce Media, a digital-ad consulting firm.</p><p>About 40% of the money that flows from advertisers to publishers on the open internet -- meaning the part of digital advertising outside of closed systems such as Google Search, YouTube or Facebook -- goes through Google's ad-buying tools, according to Jounce.</p><p>\"If digital advertising doesn't evolve to address the growing concerns people have about their privacy and how their personal identity is being used, we risk the future of the free and open web,\" David Temkin, the Google product manager leading the change, wrote in a blog post Wednesday.</p><p>Google had already said last year that it would remove the most widely used tracking technology, called third-party cookies, in 2022. But now the company is saying it won't build alternative tracking technologies, or use those being developed by other entities, to replace third-party cookies for its own ad-buying tools.</p><p>Instead, Google said its ad-buying tools will use new technologies it has been developing with others in what it calls a \"privacy sandbox\" to target ads without collecting information about individuals from multiple websites. One such technology analyzes users' browsing habits on their own devices and allows advertisers to target aggregated groups of users with similar interests, or \"cohorts,\" rather than individual users. Google said in January that it plans to begin open testing of buying using that technology in the second quarter.</p><p>Google's planned change elicited some concerns in the ad world. At the moment, advertisers use the data harvested from people's browsing across the web to figure out whom to serve an ad to, and whether that person then went on to buy the advertised product. After Google's change, they won't be able to get as detailed a picture of either. Still, other ad industry executives said the change is good for consumers and expressed hope that Google's new targeting technologies will still help brands achieve their goals in online marketing.</p><p>Google's latest move and the concern about its potential implications underscores a continuing tension in the digital ad industry between protecting user privacy and promoting competition. Smaller digital-ad companies that use cross-site tracking have accused Apple and Google of using privacy as a pretext for changes that hurt competitors.</p><p>Among the tech giants, Google and Apple Inc. have each signaled they want to rein in user tracking in various ways. Facebook Inc. has struck a different tone, arguing that individualized ad targeting helps small businesses who otherwise would struggle to find customers.</p><p>Some analysts said Google could stand to benefit from the end of cross-website tracking because it is less reliant on data from other companies. Instead, it collects a large amount of data directly from users of its services, such as YouTube or Google Search. Google said it will still use that data, called \"first-party\" data, when targeting ads to be shown on its own websites. Many large advertisers also have a lot of first-party data provided by their customers.</p><p>\"If you can only target based on first-party data, then the people with the most first-party data do best,\" said Benedict Evans, an independent analyst.</p><p>Google said its new technologies, such as the cohorts that will be calculated on users' own devices, have worked nearly as well as one-to-one targeting in its internal tests.</p><p>The company said its announcement on Wednesday only covers its ad tools and unique identifiers for websites, not mobile apps, meaning a substantial slice of the digital-ad ecosystem wouldn't be affected.</p>",
+  "published": "2021-03-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2909,
+          "end": 2918
+        },
+        {
+          "start": 2909,
+          "end": 2919
+        },
+        {
+          "start": 2909,
+          "end": 2914
+        },
+        {
+          "start": 2793,
+          "end": 2798
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

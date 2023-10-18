@@ -1,0 +1,30 @@
+{
+  "_id": "3357c8cf1e382f4986cb4c681a3d8d1cecf89fafc61dfae45ee3b583014df5e8",
+  "feed": "reuters",
+  "title": "Maersk to slow pace of ships to save fuel as demand loses steam",
+  "text": "<p>As one of the world's biggest shipping companies, Maersk benefited from soaring freight rates following a surge in consumer demand during the pandemic which led to jams at ports.</p><p>Skou said freight rates have this year started falling though congestion persists in ports and global supply chains.</p><p>\"We still see areas where we have ships waiting outside ports, lack of labor, and strike action, in particular in Europe. So the situation is not normalized yet, but it's clearly getting better,\" Skou said.</p><p>The company, which operates some 730 container ships, handles shipping and logistics for retailers and consumer companies such as Walmart , Nike and Unilever .</p><p>\"Our ships have been going all out on speed in order to catch up as many delays as possible,\" he said.</p><p>\"But as things normalize, we should expect ships to come down to normal cruise speeds. This is really important for our fuel efficiency,\" said Skou, referring to soaring fuel costs.</p><p>He expects a \"modest\" pick-up in trade for the upcoming holidays this year amid concerns about the slowing global economy and consumer demand, although volumes headed into the Christmas season were lower than in a normal year.</p><p>Freight rates remain well above pre-pandemic levels. Maersk has raised its 2022 profit guidance twice this year as they persisted longer than expected.</p>",
+  "published": "2022-09-29T17:33:49.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.9999686,
+      "offsets": [
+        {
+          "start": 643,
+          "end": 647
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0032197,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0032197237,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

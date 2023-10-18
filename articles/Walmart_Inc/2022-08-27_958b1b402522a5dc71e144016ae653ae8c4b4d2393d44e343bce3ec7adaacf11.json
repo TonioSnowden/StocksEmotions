@@ -1,0 +1,34 @@
+{
+  "_id": "958b1b402522a5dc71e144016ae653ae8c4b4d2393d44e343bce3ec7adaacf11",
+  "feed": "economist-newspaper",
+  "title": "E-commerce: Sending it back",
+  "text": "<p>The problem has its roots in the birth of e-commerce. To compete with bricks-and-mortar sellers and make consumers comfortable with ordering online, e-commerce firms offered free returns. Consumers came to expect it. The scale of returns has been amplified by the covid-induced boom. In America online-shopping now makes up 15% of retail sales by value, up from 10% at the start of 2019.</p><p>Returns could grow as nervous consumers cut spending. In May, Boohoo, a British online fashion firm, forecast lower profits for the year, in part because of a higher return rate. In June, Asos, a rival, did the same. Overstocking, as retailers miscalculate changing demand, adds to the problem. Steve Rop of go TRG, a startup which helps retailers sort returns, notes an uptick in returns of discounted goods as consumers realise they don't want them.</p><p>Each step of the process is costly. Retailers have to pay for goods to be picked up or posted. Processing returns is labour-intensive, explains Zac Rogers who worked as a returns manager at Amazon and is now at Colorado State University. The outbound system is highly automated and streamlined; a return must be opened and someone has to decide what to do with it. \"A worker in an Amazon warehouse can pick 30 items in a minute, but a return can take ten minutes to process,\" says Mr Rogers.</p><p>Once processed, only 5% of returned goods can be resold immediately by retailers. Most go to liquidators at knock-down prices or are thrown away. Retailers typically recoup about a third on a $50 item, says Optoro, a firm that helps with returns.</p><p>One solution involves adding friction. Last year Uniqlo, a Japanese fashion brand, became one of the first retailers to levy a small fee for posted returns. Zara, a rival, followed suit in May. Other firms, including Amazon, are selling more refurbished goods as a way to cut losses.</p><p>Startups are getting in on the action. Using artificial intelligence to help retailers decide what to do with the returned goods, taking into account factors such as price trends in second-hand markets, is the brainchild of go TRG. Happy Returns, another startup bought last year by PayPal, a fintech firm, helps with logistics. It has 5,000 drop-off points for returns across America, mostly in chain stores. The returns are aggregated and sent back to retailers all at once, saving up to 40% of postage costs, says David Sobie, the firm's boss.</p><p>Some are experimenting with virtual reality (VR). Over half of items are returned because they are the wrong size. In June Walmart said it will buy Memomi, an augmented-reality (AR) startup that lets shoppers virtually try on glasses. Walmart also offers ways to try on clothes and arrange furniture in rooms using AR. Amazon recently launched a VR feature that lets users try on shoes. Retailers will now try virtually anything to cut down on returns.</p>",
+  "published": "2022-08-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 2504,
+          "end": 2511
+        },
+        {
+          "start": 2615,
+          "end": 2622
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.805,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

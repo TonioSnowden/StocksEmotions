@@ -1,0 +1,20 @@
+{
+  "_id": "579cd2ac77cc2450974c24a14a1c185d43d579e442dd3de39675abdb1c5f2a23",
+  "feed": "wall-street-journal",
+  "title": "Personal Investing: A Monthly Analysis --- Financial Flashback: A look back at Wall Street Journal headlines from this month",
+  "text": "<p>The malfeasance involved other banks, including JPMorgan Chase, NatWest, Deutsche Bank and Citigroup. Together bankers manipulated a key interest rate known as the London interbank offered rate (Libor) by recording incorrect borrowing costs.</p><p>That might seem like a technical problem, but $300 trillion of global financial contracts relied on these Libor rates, including complex derivatives as well as home mortgages and auto loans.</p><p>\"Some counterparties were paying too much on their loans, others too little,\" says Pete Earle, an economist at the American Institute for Economic Research.</p><p>However, Mr. Earle isn't surprised, given previous dodgy Wall Street antics, including Treasury bond rigging and timing mutual-fund sales. \"Whenever a group of large financial institutions get together a 'pick price,' you are asking for trouble,\" he says.</p><p>The scandal prompted the development of a new benchmark, SOFR, the secured overnight financing rate, which will be transparent based on observed transactions. By June 2023, SOFR should have wholly replaced Libor.</p><p>25 YEARS AGO</p><p>Europeans See March to One Currency Hit New Stumbling Blocks</p><p>TWO YEARS AGO</p><p>Dow Falls 1,800 on Virus Worries</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-06-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 48,
+          "end": 62
+        }
+      ]
+    }
+  ]
+}

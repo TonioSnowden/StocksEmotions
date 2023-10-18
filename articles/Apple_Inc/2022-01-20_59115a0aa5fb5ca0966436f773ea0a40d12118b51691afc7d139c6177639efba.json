@@ -1,0 +1,40 @@
+{
+  "_id": "59115a0aa5fb5ca0966436f773ea0a40d12118b51691afc7d139c6177639efba",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: EU Companies Face Fallout From Decision Against Google",
+  "text": "<p>The decision is the latest blow in the ongoing fracas between the U.S. and the EU over data. In July 2020, Europe's highest court ruled that the Privacy Shield, a framework by which data transfers between the bloc and the U.S. were governed, should be torn up. Negotiators have been trying to hash out a new deal that would assuage European concerns over privacy, but in the meantime, companies using U.S. providers have been caught in the crossfire, Ms. Stupp reports.</p><p>Also today: President Biden expands the National Security Agency's role in domestic cybersecurity; Interpol busts a major business email compromise gang; and, Apple Inc. is sour on the U.S. Senate's big tech bill.</p><p>How well do you know your own network?</p><p>Any company that does business online is vulnerable to cyberattacks. Protecting yourself comes down to knowing what your services depend on, and then using threat intelligence to enhance your defense.</p><p>Read More</p><p>Analytics Alarm</p><p>Google said it has ‘offered Analytics-related services to global businesses for more than 15 years and in all that time has never once received' a demand for user data from U.S. national security agencies.</p><p>European businesses face uncertainty over the use of a popular analytics tool from Google after a regulator found it breached privacy laws, the latest salvo by the European Union against big U.S. tech companies.</p><p>The ruling from Austria's data-protection regulator, published last week, could upend business practices for companies across Europe as regulators in the 27 EU countries are also preparing legislation on social-media content. Lawmakers are set to vote this week on a draft of the bill, which includes provisions clamping down on targeted online advertising.</p><p>The Austrian regulator ruled that an Austrian website, which it didn't name, violated the EU's General Data Protection Regulation by using Alphabet Inc.'s Google Analytics, a tool that tracks how people use websites, and transferring personal data to the U.S. from the EU.</p><p>The decision is part of a long-running conflict between strict EU privacy laws and U.S. surveillance measures. The Austrian website used cookies to collect data such as IP addresses and other information that could identify users, and the information could potentially be accessed by U.S. intelligence authorities upon request, the regulator said.</p><p>The decision has implications beyond Austria. \"I'm sure the practices of Google Analytics are pretty much the same across the EU, so they'd be infringing the GDPR across the EU,\" said David Martin Ruiz, senior legal officer at the European Consumer Organisation, a Brussels-based advocacy group.</p><p>Read the full story.</p><p>More Cyber News</p><p>Biden expands NSA's cybersecurity role. President Biden expanded the National Security Agency's role in protecting government computer networks, giving it new powers to set standards for and gather information from other defense and intelligence agencies. Mr. Biden's memo, which would set baseline security standards for such departments, allows the NSA to issue binding directives to combat cyber threats. The new rules will also require agencies such as the Pentagon to report incidents to the NSA. (WSJ)</p><p>Read Mr. Biden's full memo here.</p><p>Authorities arrest members of Nigerian cybercrime group. Interpol said police arrested 11 individuals in December who targeted up to 50,000 individuals and companies in business email compromise attacks. The suspects are part of the SilverTerrier gang and an initial analysis of one of the suspect's computers showed that they had more than 800,000 usernames and passwords, which can be used to hack into company email accounts. A different suspect monitored communications between 16 companies and their customers to divert transactions when they were made. (Forbes)</p><p>Russian hackers were behind attack on Gloucester City Council. A cyberattack that affected revenue, housing benefits, a Covid-19 test and trace system and customer service for the Gloucester City Council in the U.K. has been linked to Russia, the council said. The council noticed the attack on Dec. 20. Hackers used malware that was dormant in the council's systems for a while before it was activated. (BBC)</p><p>12%</p><p>The amount of U.K.-based organizations that formally review cybersecurity risks from their immediate suppliers, according to research from the Department for Digital, Culture, Media and Sport.</p><p>Privacy News‎</p><p>Apple claims antitrust bill would hurt privacy. The iPhone maker said in a letter to lawmakers that legislation aiming to enhance digital competition would hurt features designed to safeguard user data. Apple argued that the American Innovation and Choice Online Act, which senators are set to debate Thursday, could harm an initiative requiring third-party app developers such as Meta Platforms Inc. and Snap Inc. to seek users' consent to track their activities across the internet. The office of Sen. Amy Klobuchar, a Minnesota Democrat who co-sponsored the bill, called Apple's letter misleading and said the legislation has provisions to safeguard privacy. (WSJ)</p>",
+  "published": "2022-01-20T14:29:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 4984,
+          "end": 4989
+        },
+        {
+          "start": 4613,
+          "end": 4618
+        },
+        {
+          "start": 629,
+          "end": 639
+        },
+        {
+          "start": 4410,
+          "end": 4415
+        },
+        {
+          "start": 629,
+          "end": 638
+        },
+        {
+          "start": 629,
+          "end": 634
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

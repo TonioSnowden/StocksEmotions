@@ -1,0 +1,136 @@
+{
+  "_id": "5c8f7bfb6a800edbf2734b204f83ef0176a7cf22bb38e50a17e5bc3fb9b881e0",
+  "feed": "wall-street-journal",
+  "title": "Apple Plans New Encryption System to Ward Off Hackers and Protect iCloud Data; 'Advanced Data Protection' will offer end-to-end encryption on iCloud backups, Notes, Photos and other services—a step that may draw ire from law enforcement",
+  "text": "<p>While Apple has drawn attention in the past for being unable to help agencies such as the Federal Bureau of Investigation access data on its encrypted iPhones, it has been able to provide much of the data stored in iCloud backups upon a valid legal request. Last year, it responded to thousands of such requests in the U.S., according to the company.</p><p>With these new security enhancements, Apple would no longer have the technical ability to comply with certain law-enforcement requests such as for iCloud backups—which could include iMessage chat logs and attachments and have been used in many investigations.</p><p>The company said the security enhancements, which were announced Wednesday, are designed to protect Apple customers from the most sophisticated attackers.</p><p>\"As customers have put more and more of their personal information of their lives into their devices, these have become more and more the subject of attacks by advanced actors,\" said Craig Federighi, Apple's senior vice president of software engineering, in an interview. Some of these actors are going to great lengths to get their hands on the private information of people they have targeted, he said.</p><p>The FBI said it was \"deeply concerned with the threat end-to-end and user-only-access encryption pose,\" according to a statement provided by an agency spokeswoman. \"This hinders our ability to protect the American people from criminal acts ranging from cyberattacks and violence against children to drug trafficking, organized crime and terrorism,\" the statement said. The FBI and law enforcement agencies need \"lawful access by design,\" it said.</p><p>A spokesman for the Justice Department declined to comment.</p><p>Former Western law-enforcement and intelligence officials said they were surprised by Apple's decision in part because the company had refrained in the past from rolling out such encryption settings for iCloud. The officials said Apple would sometimes point authorities to the iCloud as a possible means of collecting information that could be useful for criminal investigations.</p><p>Ciaran Martin, former chief of the U.K.'s National Cyber Security Centre, said the announcement by Apple could pose legal complications for the company in multiple democracies that in recent years have adopted or weighed restrictions on technology that can't be responsive to law-enforcement demands.</p><p>\"Things will only be clearer when further technical details are given,\" Mr. Martin said. \"But on the face of it, existing legislation in Australia and looming legislation in the U.K. would seem to give those governments the power to tell Apple in those countries effectively not to do this.\"</p><p>Last year, Apple proposed software for the iPhone that would identify child sexual-abuse material on the iPhone. Apple now says it has stopped development of the system, following criticism from privacy and security researchers who worried that the software could be misused by governments or hackers to gain access to sensitive information on the phone.</p><p>SHARE YOUR THOUGHTS</p><p>What do you think about Apple's new security feature? Join the conversation below.</p><p>Mr. Federighi said Apple's focus related to protecting children has been on areas such as communication and giving parents tools to protect children in iMessage. \"Child sexual abuse can be headed off before it occurs,\" he said. \"That's where we're putting our energy going forward.\"</p><p>Apple released a feature in December 2021 called \"Communication Safety\" in Messages, which offers tools for parents that warn their children when they have received or attempt to send photos that contain nudity. The option is part of Apple's \"Screen Time\" parental-controls software.</p><p>The new encryption system, to be tested by early users starting Wednesday, will roll out as an option in the U.S. by year's end, and then worldwide including China in 2023, Mr. Federighi said.</p><p>\"This development will prompt questions at home and abroad, including whether the government of China will really accept a loss of data access,\" said Sumon Dantiki, a former senior FBI and Justice Department official who worked on cyber investigations and is now a partner at the King &amp; Spalding law firm. U.S. officials have long pointed to China's increasingly strict demands for access to data on companies that operate within its borders as a national-security concern.</p><p>In addition to Advanced Data Protection, Apple is also modifying its Messages app to make it harder for messages to be snooped on, and it will now allow users to log in to their Apple accounts with hardware-based security keys made by other companies such as Yubico.</p><p>Privacy groups have long called on Apple to strengthen encryption on its cloud servers. But because the Advanced Protection encryption keys will be controlled by users, the system will restrict Apple's ability to restore lost data.</p><p>To set up Advanced Data Protection, users will have to enable at least one data-recovery method. This could be a recovery key—a long list of numbers and characters that users could print out and store in a secure location—or the user could assign a friend or family member as a recovery contact.</p><p>Over the past two decades, businesses and consumers have moved much of their data off computer systems that they control and onto the cloud—data centers filled with servers that are operated by large technology companies. That trend has made these cloud systems an attractive target for cyber intruders.</p><p>Mr. Federighi said that Apple isn't aware of any customer data being taken from iCloud by hackers but that the Advanced Protection system will make things harder for them. \"All of us in the industry who manage customer data are under constant attack by entities that are attempting to breach our systems,\" he said. \"We have to stay ahead of future attacks with new protections.\"</p><p>As Apple has locked down its systems, governments worldwide have become increasingly interested in the data stored on phones and cloud computers. That interest has led to friction between Apple and law-enforcement agencies, along with a growing market for iPhone hacking tools. In 2020, Attorney General William Barr pressured Apple for a way to crack the iPhone's encryption to help with a terror investigation into a shooting that killed three people at a Florida Navy base.</p><p>Advanced Protection will reduce the amount of iCloud information that Apple can provide to law-enforcement agencies, who frequently request iPhone data from Apple as part of their investigations. Apple received requests for information on 7,122 Apple accounts from U.S. authorities in the first six months of 2021, the last period for which the company has provided information.</p><p>Apple had already offered end-to-end encryption for some of its services, but the protection will now extend to 23 services, including iPhone backups and Photos. However, three services—Mail, Contacts and Calendar—won't qualify for Advanced Protection because they use older technology protocols, Mr. Federighi said.</p><p>Mr. Federighi said Apple believes it shares the same mission as law enforcement and governments: keeping people safe. If sensitive information were to get in the hands of an attacker, a foreign adversary or some other bad actor, it could be disastrous, he said.</p><p>\"We're giving users the option to keep that key only on their devices, which means that even if an attacker were to successfully breach the cloud and access all that data, it would be nonsense to them,\" Mr. Federighi said. \"They'd lack the key to decrypt it.\"</p><p>Apple Plans New Encryption System to Ward Off Hackers and Protect iCloud Data</p>",
+  "published": "2022-12-08T01:47:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 6009,
+          "end": 6014
+        },
+        {
+          "start": 4804,
+          "end": 4809
+        },
+        {
+          "start": 6,
+          "end": 11
+        },
+        {
+          "start": 4384,
+          "end": 4389
+        },
+        {
+          "start": 1908,
+          "end": 1913
+        },
+        {
+          "start": 2157,
+          "end": 2162
+        },
+        {
+          "start": 4645,
+          "end": 4650
+        },
+        {
+          "start": 6677,
+          "end": 6682
+        },
+        {
+          "start": 4521,
+          "end": 4526
+        },
+        {
+          "start": 7516,
+          "end": 7521
+        },
+        {
+          "start": 7013,
+          "end": 7018
+        },
+        {
+          "start": 5824,
+          "end": 5829
+        },
+        {
+          "start": 2597,
+          "end": 2602
+        },
+        {
+          "start": 389,
+          "end": 394
+        },
+        {
+          "start": 6368,
+          "end": 6373
+        },
+        {
+          "start": 6543,
+          "end": 6548
+        },
+        {
+          "start": 711,
+          "end": 716
+        },
+        {
+          "start": 3392,
+          "end": 3397
+        },
+        {
+          "start": 3128,
+          "end": 3133
+        },
+        {
+          "start": 6148,
+          "end": 6153
+        },
+        {
+          "start": 2764,
+          "end": 2769
+        },
+        {
+          "start": 1764,
+          "end": 1769
+        },
+        {
+          "start": 3050,
+          "end": 3055
+        },
+        {
+          "start": 6494,
+          "end": 6499
+        },
+        {
+          "start": 2662,
+          "end": 2667
+        },
+        {
+          "start": 5466,
+          "end": 5471
+        },
+        {
+          "start": 6455,
+          "end": 6460
+        },
+        {
+          "start": 966,
+          "end": 971
+        },
+        {
+          "start": 3626,
+          "end": 3631
+        }
+      ]
+    }
+  ]
+}

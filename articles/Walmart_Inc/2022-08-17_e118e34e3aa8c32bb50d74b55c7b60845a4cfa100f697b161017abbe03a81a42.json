@@ -1,0 +1,38 @@
+{
+  "_id": "e118e34e3aa8c32bb50d74b55c7b60845a4cfa100f697b161017abbe03a81a42",
+  "feed": "market-watch",
+  "title": "Subtle shift in financial markets points to view U.S. economy may be able to handle higher rates",
+  "text": "<p>stock indexes that remain well off their mid-June lows — and pessimism that the Federal Reserve's hikes to combat inflation will produce an economic downturn, as reflected in a deeply inverted Treasury curve. Though July's consumer-price index reportpointed to drivers of inflation \"showing some relief,\" a still-strong U.S. economy is now keeping alive the risk of a couple more 75 basis point rate hikes by the Fed, said Ed Moya, senior market analyst for the Americas at OANDA Corp.July's better-than-expected improvement in the CPI data gave many hope that inflation could be peaking, while buttressing the more dour view in FX and rates markets that persistently tight policy by the Fed is needed to bring price gains down. The subtle shift in thinking that's now taking place is that the economy may be stronger than previously thought, as reflected in better-than-expected profit and revenue for the fiscal second quarter from Walmart Inc. WMT In addition, while retail salescame in flat for July, the data contained enough kernels of good news to satisfy optimists.\"The outlook for the economy has changed,\" Moya said via phone. \"We were looking at a slowdown in June and July, and that's not the case. Walmart and retail sales are supporting upbeat outlooks this week.\"To be sure, financial markets continue to absorb a stream of data since the Aug. 10 CPI release that's keeping inflation worries alive — including Wednesday's report thatthe U.K.'s annual consumer pricessurged by 10.1% in July. Meanwhile, oil futuresheaded higher for the first time in four sessions on Wednesday. And the results of an online survey of 70 corporate executives, business owners and private-equity investors from July 18 to Aug. 5 showed that 50% were \"very concerned\" about the impact of inflation for the foreseeable future, according to Stifel, Nicolaus &amp; Co. \"The theme of elevated inflation continues to plague developed markets and will likely do so for the balance of the year,\" said strategist Ian Lyngen of BMO Capital Markets. Still, the latest sentiment shift reflects a bit of an adjustment from the second quarter, when fears of an impending U.S. recession dominated. Worries about a downturn haven't completely gone away — indeed, the Treasury curve is still flashing a warning, via a deeply negative spread between 2- and 10-year rates. But behind that worrisome sign is also the fact that traders have mostly priced out the possibility of a rate cut by the Fed next year. \"Surprisingly, there has been very little notice or commentary about the fact that expectations for 2023 Fed rate cuts have almost disappeared recently,\" said John Vail, chief global strategist at Nikko Asset Management. \"Indeed, whereas fed fund futures once predicted cuts in the first half, now a hike is partially priced in, while 2023 only predicts less than one 25 bps cut. This is likely due to hawkish Fed speeches rather than any change in the macroeconomic fundamentals.\"The recent stock-market rally and easing of financial conditions that resulted are likely also playing a role in expectations the Fed will not need to cut rates, Vail wrote in an email. \"This corroborates our view that the Fed would need to be more hawkish than consensus due to sticky core inflation, and will likely be a headwind to risk markets once properly noticed,\" the strategist said.As of Wednesday, all three major stock indexes DJIA SPX COMP were down ahead of the release of the Fed's meeting minutes for July. Meanwhile, a selloff in government bonds pushed the 2-year yield BX:TMUBMUSD02Y above 3.3% and 10-year yield BX:TMUBMUSD10Y up to 2.9%.</p><p>Subtle shift in financial markets points to view U.S. economy may be able to handle higher rates</p>",
+  "published": "2022-08-17T17:53:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 934,
+          "end": 946
+        },
+        {
+          "start": 932,
+          "end": 943
+        },
+        {
+          "start": 1207,
+          "end": 1214
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0001793,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00017917156,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

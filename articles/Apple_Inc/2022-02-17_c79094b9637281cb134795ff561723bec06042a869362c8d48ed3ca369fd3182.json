@@ -1,0 +1,72 @@
+{
+  "_id": "c79094b9637281cb134795ff561723bec06042a869362c8d48ed3ca369fd3182",
+  "feed": "wall-street-journal",
+  "title": "Marketers Prepare for Further Change as Google Pledges Mobile-Privacy Moves; Approach by Alphabet unit seems more collaborative than that of Apple but uncertainty remains, advertisers say",
+  "text": "<p>The Alphabet Inc. unit said it would support existing identifiers for at least two years and give substantial notice ahead to the mobile industry of any changes.</p><p>The news comes nearly a year after Apple started requiring iPhone apps to ask users whether they want to be tracked, undermining the collection of data that helps marketers target their ads.</p><p>Advertisers expected Google to follow suit, but didn't know when or how.</p><p>\"The announcement was inevitable, but the timing was uncertain,\" said Matt Barash, a former senior vice president of global strategy at mobile advertising platform AdColony.</p><p>Google's approach so far seems to be more \"empathetic\" to advertisers than Apple's, Mr. Barash said. \"Google sounds like they've committed to reasonable timelines to ensure that the marketers and developers they service have proper time to prepare an open dialogue and a better understanding of what these changes mean with respect to personalized advertising—whereas Apple took a very ambiguous approach,\" he said.</p><p>Google and Apple want to signal to consumers that their privacy is protected, but their initiatives appear to have different motives, said Eric Seufert, an analyst at mobile-industry website Mobile Dev Memo.</p><p>Apple sells hardware, takes a cut of revenue from apps running on its devices, and offers keyword-search advertising in its App Store. Google, among its various advertising offerings, operates an in-app advertising system, called AdMob. Sales from AdMob last year helped increase annual revenue for Alphabet's Google Network business by nearly 40% to $31.7 billion.</p><p>\"It kind of highlights the difference in approach between an advertising company, which Google is, and more of a content platform company, which Apple is, because Google's not going to throw the baby out with the bath water, because it runs an ad network,\" Mr. Seufert said.</p><p>Google on Wednesday outlined proposals for new technologies that would improve user privacy while still allowing for personalized advertising on mobile apps. One would help advertisers know which campaigns are working without relying on cross-app user identifiers.</p><p>Another would serve ads to users based on whether they previously engaged with an app, without sharing information about that interaction with third parties.</p><p>\"That retargeting piece is something that Apple doesn't provide,\" Mr. Seufert said. He added that Android's planned tools appear to be more effective than Apple's in helping advertisers figure out which campaigns are working or not working.</p><p>Still, marketers are waiting to see the technical details related to Google's changes.</p><p>App advertisers grappling with Apple's changes will have to work through another set of calculations once Google implements its own, said Itai Cohen, vice president of marketing and corporate strategy at Digital Turbine Inc.'s Fyber, a mobile ad monetization platform.</p><p>\"They base their user acquisition advertising on some pretty sophisticated statistical predictions of the lifetime value of the user, and that is based on the ability to close the loop between how much it costs me to acquire a user and how much revenue do I expect this user to deliver,\" Mr. Cohen said. \"With the Apple solution, that loop was significantly challenged.</p><p>\"Now there's more statistical data-science work that needs to be done in order to provide those assumptions,\" Mr. Cohen added. \"Whereas on the Google side, we don't yet know what hoops data scientists need to jump through in order to make those calculations.\"</p><p>Apparel brand Lively responded to earlier changes affecting consumer-data collection, such as General Data Protection Regulation, by altering its marketing strategies to focus on its work with influencers, partnerships with bricks-and-mortar retailers such as Target Corp. and collecting information from consumers after a purchase, said Michelle Cordeiro Grant, founder and chief executive of the company.</p><p>Companies will need to become more patient about learning who their customers are and give priority to certain segments, such as repeat customers, Ms. Cordeiro Grant said.</p><p>Shifts around privacy and ad targeting can end up forcing companies to diversify their marketing strategies away from online platforms, said Melanie Travis, founder and chief executive of women's swimwear marketer Andie Co.</p><p>\"This is going to be a blessing in disguise because Google and Facebook can be addictive platforms for direct-to-consumer brands, and you just want to keep spending money there because it is so efficient to acquire customers,\" Ms. Travis said. \"But in order to be a long-term, healthy, household name brand, you can't.\"</p><p>After Apple began requiring apps to get iPhone users' consent to track them, advertisers also began shifting their budgets toward Android from Apple's iOS.</p><p>Google's implementation could affect that spending dynamic and potentially force new strategies to emerge, suggested Mr. Barash, the mobile industry executive.</p><p>\"Now that the playing field will be leveled, where does that budget go?\" he said.</p><p>Some will likely move over to search products for apps for Android and Apple. \"Will that be able to fill the void, or will developers have to look at new ways of reaching relevant audiences?\" he said.</p><p>Write to Megan Graham at megan.graham@wsj.com and Ann-Marie Alcántara at ann-marie.alcántara@wsj.com</p><p>Marketers Prepare for Further Change as Google Pledges Mobile-Privacy Moves</p>",
+  "published": "2022-02-17T16:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 197,
+          "end": 202
+        },
+        {
+          "start": 141,
+          "end": 146
+        },
+        {
+          "start": 5107,
+          "end": 5112
+        },
+        {
+          "start": 3199,
+          "end": 3204
+        },
+        {
+          "start": 4781,
+          "end": 4786
+        },
+        {
+          "start": 968,
+          "end": 973
+        },
+        {
+          "start": 2330,
+          "end": 2335
+        },
+        {
+          "start": 1027,
+          "end": 1032
+        },
+        {
+          "start": 2443,
+          "end": 2448
+        },
+        {
+          "start": 1735,
+          "end": 1740
+        },
+        {
+          "start": 2647,
+          "end": 2652
+        },
+        {
+          "start": 675,
+          "end": 680
+        },
+        {
+          "start": 4644,
+          "end": 4649
+        },
+        {
+          "start": 1224,
+          "end": 1229
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

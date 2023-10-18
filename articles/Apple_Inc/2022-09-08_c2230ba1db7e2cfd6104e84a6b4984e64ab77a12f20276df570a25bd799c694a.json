@@ -1,0 +1,74 @@
+{
+  "_id": "c2230ba1db7e2cfd6104e84a6b4984e64ab77a12f20276df570a25bd799c694a",
+  "feed": "market-watch",
+  "title": "Tim Cook didn't have 'one more thing,' so Apple offered consumers a break, for once; Apple's iPhone 14 event was notable more for what the company didn't do: Raise prices on its top-end smartphones",
+  "text": "<p>\"It was a shock, I thought a $100 price increase was a foregone conclusion,\" said Dan Ives, an analyst at Wedbush Securities. \"Apple read the room and Cook didn't want to raise prices.\"</p><p>At the very least, analysts expected Apple to increase prices on its top-end smartphones, the iPhone Pro and Pro Max. Maribel Lopez, principal analyst at Lopez Research, said she had been hearing talk of price hikes of up to several hundred dollars that would \"fork the line,\" or allow greater separation between lower-priced and premium offerings.</p><p>\"This was their opportunity, they were going to fork the line, and have very affordable and very flagship, and that was surprising that didn't happen,\" Lopez said. \"I think that is the right move. It's becoming difficult to get people to upgrade, they hold onto them longer, they are not inexpensive.\"</p><p>The concern for investors from this move would be Apple's profit margin. Record inflation has not just hit consumers — electronics manufacturers are seeing higher prices and uncertain supply of many components. The 15-year-old iPhone family is still Apple's biggest revenue and profit generator, even as it is a mature product, so a margin decline would be felt acutely on the overall bottom line.</p><p>Lopez and Ives said the move should not be too much of a drag on Apple's margins, however, thanks to strength with suppliers and a move toward using Apple's own semiconductors.</p><p>\"They have more control over their supply chain,\" Ives said, adding that \"the Apple silicon gives them flexibility.\"</p><p>\"Everything being an A or an M chip, that allows them a certain flexibility,\" Lopez said. \"It's a classic vertical integration strategy.\"</p><p>Apple unveiled some new offerings that were not price-related, mostly features targeted at increasingly specific audiences, such as the Apple Ultra Watch for serious fitness enthusiasts. But Cook again didn't take the opportunity to use co-founder Steve Jobs' product-launch catchphrase, \"one more thing,\" at the end of an unveiling to show off the next big product — even though Apple may have a big launch on the way.</p><p>Apple reportedly is working on three sets of augmented/virtual-reality glasses, with one expected to launch next year and compete with Meta Platforms Inc.'s META Oculus offerings. It would be only the second major product category to launch under Cook's leadership, beside the Apple Watch.</p><p>But Apple never shows off the next big thing without a fully formed product ready to roll. So instead, Cook is just trying to keep consumers happy with new iPhones — at flat prices with better cameras, longer battery life and new features — until its next foray is actually ready.</p><p>That doesn't do much for investors, though. They are still wondering when they will get a glimpse at the next device they are betting on, and will have to worry about the possibility of declining margins while they wait.</p><p>Tim Cook didn't have 'one more thing,' so Apple offered consumers a break, for once</p>",
+  "published": "2022-09-08T11:29:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 42,
+          "end": 47
+        },
+        {
+          "start": 85,
+          "end": 90
+        },
+        {
+          "start": 221,
+          "end": 226
+        },
+        {
+          "start": 223,
+          "end": 228
+        },
+        {
+          "start": 880,
+          "end": 885
+        },
+        {
+          "start": 1078,
+          "end": 1083
+        },
+        {
+          "start": 1290,
+          "end": 1295
+        },
+        {
+          "start": 1374,
+          "end": 1379
+        },
+        {
+          "start": 1653,
+          "end": 1658
+        },
+        {
+          "start": 2032,
+          "end": 2037
+        },
+        {
+          "start": 2071,
+          "end": 2076
+        },
+        {
+          "start": 2363,
+          "end": 2368
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.793034,
+        "baseWeight": 12.0,
+        "expansionWeight": 6.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7930335,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

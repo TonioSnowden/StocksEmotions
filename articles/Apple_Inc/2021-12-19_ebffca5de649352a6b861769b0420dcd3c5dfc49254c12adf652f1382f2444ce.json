@@ -1,0 +1,48 @@
+{
+  "_id": "ebffca5de649352a6b861769b0420dcd3c5dfc49254c12adf652f1382f2444ce",
+  "feed": "wall-street-journal",
+  "title": "A Tech To-Do List, if You're the Family IT Department; A list of smartphone tuneups for less tech-savvy loved ones, such as how to add a digital shortcut to a Covid vaccine card and free up storage space",
+  "text": "<p>I am the family IT person, an unofficial job I imagine many of you have also held, willingly or not. Those of us who play low-rent Geek Squad for tech-deficient loved ones are used to questions about all sorts of modern problems—jammed printers, disappearing files, misbehaving remotes and sluggish Wi-Fi—especially when we're back at home.</p><p>Instead of taking questions this year, take matters into your own hands. Gather your most frequent customers, sit them down and have them take out their phones. Run them through the following battery of fixes and tweaks to help them use tech more happily and easily—and save the IT department (i.e., you) some headaches.</p><p>Jameeka Green Aaron, chief information-security officer at identity-authentication company Auth0, often does this for her friends and family. She gave me two tips on talking tech at home:</p><p>Keep it simple. \"The more friction and complexity you introduce, the less likely that your family will keep the settings that you implement,\" she said.</p><p>Rip from the headlines. Ms. Aaron uses the news to help people understand tech threats and how those threats apply to their lives. \"People respond more openly when the messaging hits home,\" she says.</p><p>With her guidance in mind, I created a checklist of helpful features and settings to set up on family members' devices. And sorry, no, none of these tips will prevent the printer from acting up. (The printer will always act up.)</p><p>Add a digital shortcut to their vaccine card</p><p>Most establishments will accept a simple photo of a vaccination record, but those get quickly buried in the photo library. Adding the card to their digital wallet is the fastest way to pull it up on the go. iPhone users with a record from a supported pharmacy or state immunization system can point their camera at the record's QR code, and it will be pulled into Apple Wallet.</p><p>Android users first need to access their digital record from their health provider via email or text. Once the vaccination information is visible on screen, scroll down and press \"Save to Phone.\" Then, when prompted, choose to save it to Google Pay.</p><p>You can also pin a photo of the card to the top of Apple's Notes app or Google Drive.</p><p>Turn on device location tracking</p><p>Device tracking helps locate phones, tablets, laptops—even AirPods—should they be lost or stolen. On Apple devices, your loved ones can do this in the Find My app. If they have an Apple Watch, show them how to remotely ping their phone by swiping up; tap and hold the phone icon to force a sound and flash. On Android phones, it's available in Find My Device. Show them \"Hey Google, ring my phone\" using a Google Home speaker. </p><p>To enable location tracking on the iPhone, go to Settings, tap your name at the top, then go to Find My &gt; Find My iPhone. On Android, go to Settings &gt; Security &gt; Find My Device. PHOTO: NICOLE NGUYEN/THE WALL STREET JOURNAL</p><p>Add an emergency contact</p><p>Have they already set up Favorites contacts? Be sure they also add an emergency contact. On iPhones, these contacts—which can be added in the Health app within the Medical ID section, or in Contacts under a particular person's entry—will receive a message with the phone's location when the Emergency SOS function is activated. (While you're at it, recommend adding a legacy contact, who can access their Apple account data after they die.)</p><p>Android users can add emergency information to their lockscreens.</p><p>Clear their storage</p><p>\"I don't have any more space on my phone!\" is the most common complaint I hear. Do an audit of their apps and delete any they say they haven't used in six months. If they really need them in the future, they can always download them again.</p><p>Then look for other bloatware. For iPhone users, head to Settings &gt; General &gt; iPhone Storage. You can manage and delete apps' data from this page. In Android's Settings, select Storage. Tap on an app to clear that app's cache or the storage it uses. You may also see a \"Free up space\" tool, which suggests big files to delete. </p><p>To free up space, in the iPhone Storage settings page, tap on each app to delete large space hogs. On Android, the Free Up Space tool in storage settings identifies the largest files. PHOTO: NICOLE NGUYEN/THE WALL STREET JOURNAL</p><p>Check app subscriptions</p><p>Subscriptions have gotten out of hand, and your loved ones may be on the hook for recurring payments they've forgotten about.</p><p>iPhone users: Open Settings, tap your name and then Subscriptions. Android users: Go to the Play Store, tap Menu and select Subscriptions. On Amazon, go to your Account and click Memberships and Subscriptions.</p><p>When you're poking around, also look at the permissions granted to apps. \"A shopping app shouldn't have access to the microphone or camera,\" Ms. Aaron says.</p><p>Manage spam and avoid scams</p><p>If they're getting lots of robocalls and texts, adding their number to the FTC's Do Not Call Registry could help cut down on unwanted calls. Also tell them not to click on links or respond: By answering the phone or texting \"STOP\" or \"NO,\" they could help scammers confirm the number is active.</p><p>Diverting texts from unknown senders could also help. On iPhones, go to Settings &gt; Messages to turn on Filter Unknown Senders, which sends texts from people who aren't in your contacts to a separate tab. Block people by tapping on their phone number and scrolling down to Block This Caller. In Android, open the Messages app and expand Settings. Select your SIM card and scroll to Spam Protection to enable the feature.</p><p>Set up password managers and two-factor</p><p>Don't wait until someone has stolen their identity or wiped their bank account. While I like password managers such as Dashlane and 1Password that function on as many platforms as possible, the simplest and best fit for the less tech savvy are the built-in ones like Apple's iCloud Keychain and Google's Password Manager. Plus, they're free. And Apple's is improving: There's an iCloud Passwords browser extension for Chrome on Windows machines, and you can now easily export passwords if you do switch to a more full-featured manager.</p><p>SHARE YOUR THOUGHTS</p><p>What family tech support have you provided recently? Join the conversation below.</p><p>Don't forget to have them turn on two-factor authentication (also known as 2FA) on all of their apps, and remind them never to share those codes—or really any other login information—with anybody. For even simpler logins, enable biometrics, such as face recognition or their fingerprint, wherever possible.</p><p>Give them a Wi-Fi upgrade</p><p>My colleague Joanna wrote a great guide to speeding up home internet. If they have an old router, a new fancy mesh system would be a great last-minute Christmas gift.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p><p>A Tech To-Do List, if You're the Family IT Department</p>",
+  "published": "2021-12-19T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5867,
+          "end": 5872
+        },
+        {
+          "start": 2155,
+          "end": 2160
+        },
+        {
+          "start": 2324,
+          "end": 2329
+        },
+        {
+          "start": 1840,
+          "end": 1845
+        },
+        {
+          "start": 2403,
+          "end": 2408
+        },
+        {
+          "start": 3303,
+          "end": 3308
+        },
+        {
+          "start": 5788,
+          "end": 5793
+        },
+        {
+          "start": 2403,
+          "end": 2414
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

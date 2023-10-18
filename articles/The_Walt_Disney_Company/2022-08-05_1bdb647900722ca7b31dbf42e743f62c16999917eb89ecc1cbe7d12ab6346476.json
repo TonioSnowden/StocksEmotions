@@ -1,0 +1,38 @@
+{
+  "_id": "1bdb647900722ca7b31dbf42e743f62c16999917eb89ecc1cbe7d12ab6346476",
+  "feed": "wall-street-journal",
+  "title": "Warner Gets Really Real With Streaming Plan; Canceled movies and a modest long-term subscriber target show new HBO Max owner is serious about playing smart",
+  "text": "<p>The company previously known for its vast slate of reality shows got even more real on Thursday. Chief Financial Officer Gunnar Wiedenfels said a \"deep dive\" into WarnerMedia's financials following the closing of its merger with Discovery Inc. in early April is forcing the new combined company to cut $1 billion from its target for adjusted earnings before interest, taxes, depreciation and amortization for this year and $2 billion from its 2023 target. Warner also revised down the combined subscriber count for its HBO Max and Discovery+ services by about 10 million, citing factors like unactivated accounts from AT&amp;T's wireless business.</p><p>The company's revenue for the second quarter—its first as a combined operation—was also 17% short of Wall Street's projections. Warner's stock slid 14% early Friday morning. But near-term financials were almost a side note; the company used the vast bulk of its 94-minute conference call Thursday to further outline a business philosophy that diverges from the \"streaming first\" approach of many of its media peers. Chief Executive David Zaslav said Warner \"cannot find an economic case\" for releasing an expensive movie direct to streaming. He added that the company will \"fully embrace theatrical\" while preserving \"optionality\" on distribution and release windows.</p><p>The timing is good. Investors have started taking a harsh look at the economics of streaming following a major stumble by Netflix, which is now losing subscribers after crossing the 220 million mark. And theatrical exhibition is coming back into vogue; Paramount Global reported second-quarter results earlier Thursday that were greatly helped by its blockbuster \"Top Gun: Maverick,\" which is now 70 days in theaters at a time when most movies are pulled to streaming after 45 days.</p><p>Still, Warner is hardly turning its back on streaming. The company said Thursday that it is considering adding a free, ad-supported tier to the premium and advertising-lite options it currently offers. But that isn't expected until after the company combines its HBO Max and Discovery+ services into one offering, which it plans to start rolling out next summer. Viewers shouldn't be expecting a bargain. HBO Max already offers one of the streaming industry's more expensive plans at $14.99 a month for ad-free viewing, but Mr. Zaslav said Thursday that streaming plans are generally underpriced as a result of capital markets prioritizing subscriber growth. He predicted that \"there will be a lot of people that are willing to pay a lot more for the quality that we have.\"</p><p>On balance, Warner's report Thursday was the clearest signal yet that the company will be managed for cash flow first, instead of chasing streaming subscribers. The company backed that view up further by setting a realistic target of 130 million subscribers for its combined services by 2025—up about 38 million from its current number. Note that Disney still expects to add about 100 million subscribers just to its Disney+ service by the end of its 2024 fiscal year, which would likely require a lot more Marvel and Star Wars fans out there who have somehow not signed on yet. Warner's harsh reality show may eventually prove the bigger hit.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Warner Gets Really Real With Streaming Plan</p>",
+  "published": "2022-08-05T14:48:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.982,
+      "offsets": [
+        {
+          "start": 2897,
+          "end": 2903
+        },
+        {
+          "start": 2916,
+          "end": 2922
+        },
+        {
+          "start": 2986,
+          "end": 2993
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.5125,
+        "baseWeight": 3.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

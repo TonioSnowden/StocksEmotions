@@ -1,0 +1,32 @@
+{
+  "_id": "bc08605c30429d0f17b243813b5b7e94e84266532e6e56401c3ead2c2822e4ec",
+  "feed": "ftcomall",
+  "title": "UK financial regulators to step up scrutiny of cloud computing giants",
+  "text": "<p>UK financial regulators are preparing to step up their scrutiny of cloud computing providers amid growing fears that an outage or hack of their services could severely disrupt a banking system increasingly reliant on them.</p> <p>The Prudential Regulation Authority is exploring ways to access more data from cloud providers Amazon, Microsoft and Google, including on the operational resilience of their services, according to people familiar with the matter.</p> <p>The trio dominate cloud computing, a global market that has boomed as more companies transfer data and IT services to third-party servers run by Big Tech. </p> <p>All three companies have in recent years struck deals with UK banks, which have turned to them to reduce IT costs, overhaul antiquated infrastructure and capitalise on technologies such as AI to automate customer service and detect financial crime.</p> <p>Although UK banks' use of cloud computing is covered by the PRA's operational resilience framework, concerns are mounting over the scale of disruption that could be unleashed if one or more of the services were to fail or be subject to a cyber attack at the same time.</p> <p>According to people familiar with the PRA's plans, the regulator is also considering the introduction of more robust outage and disaster recovery tests. The security of customer data remains regulators' chief worry, but UK banks' reliance on a handful of providers is also emerging as a concern, the people said.</p> <p>“We are looking at cloud providers from an operational resilience perspective,” said one person familiar with the regulators' plans. “Do we need to step in more, how do we get confidence in them? We are starting to consider them critical third parties that we need more oversight of.”</p> <p>The potential threat to the financial sector was highlighted in early December when an outage at Amazon Web Services, the cloud arm of Amazon, hit a wide range of companies spanning robot vacuum maker Roomba and dating app Tinder.</p> <p>Since that high-profile failure regulators around the world have been even more focused on the cloud, according to an executive at a large US bank with UK operations.</p> <p>The PRA is set to publish a joint discussion paper with the Bank of England and the Financial Conduct Authority on issues raised by cloud computing this year, but concerns were already highlighted in the minutes of last September's meeting of the BoE's financial policy committee, which monitors financial stability risks.</p> <p>The&#xa0;<a href=\"https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-summary-and-record/2021/october-2021.pdf\">minutes</a>&#xa0;noted that “the increasing criticality of the services that critical third parties provide, alongside concentration in a small number of providers, pose a threat to financial stability in the absence of greater direct regulatory oversight.”</p> <p>The PRA declined to comment on its plans. </p> <p>Google said it was “committed to working with financial services customers and regulators to provide them with controls and assurances on risk management, data locality, transparency and compliance”. </p> <p>Amazon Web Services has said that the security of its cloud services is its “highest priority”. Microsoft did not respond to a request for comment.</p> <p>Regulators are facing a UK banking system being rapidly reshaped by Big Tech companies. Amazon Web Services has struck high-profile deals with Barclays and HSBC, while Lloyds Banking Group has announced partnerships with both Google Cloud and Microsoft Azure.</p> <p>Consultancy McKinsey has forecast that between 40 and 90 per cent of banks' IT operations globally could move to the cloud within a decade.</p> <p>UK banks' data centres were historically subject to periodic regulatory “failover” tests on Sundays, which required lenders to show that data could be instantly transferred between servers. </p> <p>Now that many banks share the same cloud providers — rather than running their own proprietary IT operations — executives expect the PRA to develop a broader co-ordinated “war game” that models Amazon Web Services and Azure failing at the same time.</p> <p>“This is a thorny issue, [regulators] are really nervous about it and we've spent a lot of time on it in recent discussions,” said one senior UK banker. “The seven biggest banks in the UK are all heavily using cloud, and we are all invariably going to the same three or four suppliers that they don't directly regulate.”</p><p>Source: Stephen Morris and Laura Noonan in London 2022 'UK financial regulators to step up scrutiny of cloud computing giants' FT.com 10 January. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-01-10T04:00:01.859Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3036,
+          "end": 3045
+        },
+        {
+          "start": 3331,
+          "end": 3340
+        },
+        {
+          "start": 326,
+          "end": 335
+        },
+        {
+          "start": 3331,
+          "end": 3346
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

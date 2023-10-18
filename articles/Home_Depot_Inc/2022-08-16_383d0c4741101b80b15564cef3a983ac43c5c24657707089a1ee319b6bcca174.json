@@ -1,0 +1,54 @@
+{
+  "_id": "383d0c4741101b80b15564cef3a983ac43c5c24657707089a1ee319b6bcca174",
+  "feed": "wall-street-journal",
+  "title": "Home Depot Posts Higher Sales as Transactions Continue to Drop; Customers spent 9.1% more on average, while tally of total transactions fell for fifth quarter in a row",
+  "text": "<p>SHARE YOUR THOUGHTS</p><p>What is most noteworthy to you in the Home Depot earnings report? Join the conversation below.</p><p>Meanwhile, average transaction value has increased each quarter, often by more than 10% year over year as the company continues to raise prices across its stores to combat rising inflation.</p><p>Second-quarter sales came in at $43.79 billion, ahead of Wall Street expectations of $43.36 billion, according to FactSet. Same-store sales, which adjusts for store openings and closings, were up 5.8%, including 5.4% in the U.S.</p><p>Home Depot executives said Tuesday that elevated home values have kept demand strong from both professional contractors and do-it-yourself customers.</p><p>\"When you look at the wealth creation over the last two years, home price appreciation of almost 40%, our customer is just in a really good place right now,\" Chief Financial Officer Richard McPhail said on the company's earnings call.</p><p>Rising interest rates have pushed some potential home buyers out of the housing market in recent months, but that hasn't impacted Home Depot sales yet, Chief Executive Ted Decker said.</p><p>Higher prices may have turned some inflation-addled customers away from big-ticket items such as grills and mowers, but spending in paint and other large renovation categories has remained strong, the company said.</p><p>One category where prices are down is lumber, which has come off highs in recent months and ate into Home Depot's average ticket growth for the second quarter.</p><p>For the three months ended July 31, Home Depot posted earnings of $5.17 billion, or $5.05 a share, compared with $4.81 billion, or $4.53 a share, in the same quarter last year. Wall Street analysts had expected earnings of $4.95 a share.</p><p>The company reaffirmed its guidance for revenue to rise 3% this year, saying it still expects weaker year-over-year sales growth in the second half of 2022. Per-share earnings are expected to rise at a mid-single-digit rate.</p><p>Home Depot shares rose 3.6% to $$325.83 in early trading. They are down more than 21.5% this year.</p><p>Write to Dean Seal at dean.seal@wsj.com</p><p>Home Depot Posts Higher Sales as Transactions Continue to Drop</p>",
+  "published": "2022-08-16T15:23:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.9999923,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 58,
+          "end": 68
+        },
+        {
+          "start": 530,
+          "end": 540
+        },
+        {
+          "start": 1043,
+          "end": 1053
+        },
+        {
+          "start": 1412,
+          "end": 1422
+        },
+        {
+          "start": 1506,
+          "end": 1516
+        },
+        {
+          "start": 1929,
+          "end": 1939
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

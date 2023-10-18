@@ -1,0 +1,32 @@
+{
+  "_id": "df28d53d9c615e1528d1cdefda5fd11a2bc3eac2f78486f1a720b132661a1f0c",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Delays Reopening Offices",
+  "text": "<p>Instead, Microsoft said it would move to a 30-day \"transition period\" approach and notify staff with lead time when offices are slated to generally reopen.</p><p>Microsoft in August said it was delaying the full reopening of its U.S. offices from possibly September to at least Oct. 4 because of fluid conditions around the pandemic.</p><p>At the time, Microsoft also said it would require proof of vaccination for all employees, vendors and any guests entering its U.S. facilities, joining tech companies such as Google and Facebook Inc . that are requiring all employees at their domestic campuses to be vaccinated.</p><p>Several big tech companies have already delayed office reopenings to next year.</p><p>Apple Inc . last month said its U.S. corporate offices wouldn't fully reopen until at least January. Amazon.com Inc . earlier that month announced similar plans.</p>",
+  "published": "2021-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 9,
+          "end": 18
+        },
+        {
+          "start": 156,
+          "end": 165
+        },
+        {
+          "start": 341,
+          "end": 350
+        }
+      ]
+    }
+  ]
+}

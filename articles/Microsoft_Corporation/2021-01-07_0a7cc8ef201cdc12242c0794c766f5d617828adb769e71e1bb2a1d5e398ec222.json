@@ -1,0 +1,52 @@
+{
+  "_id": "0a7cc8ef201cdc12242c0794c766f5d617828adb769e71e1bb2a1d5e398ec222",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Russia-Linked  Hack Hit Justice  Department  ----  By Dustin Volz and Robert McMillan",
+  "text": "<p>   WASHINGTON -- The Justice Department became the latest federal agency to say it was breached by hackers in the Russia-linked cyberattack that has ripped through government agencies and an unknown number of corporate networks. </p><p>   About 3% of the Justice Department's Microsoft Office email accounts were potentially accessed in the attack, the department said Wednesday. </p><p>   The Justice Department's chief information officer learned of the previously unknown malicious activity on Dec. 24 and has \"eliminated the identified method by which the actor was accessing\" Microsoft Office email accounts, Marc Raimondi, a Justice Department spokesman, said in a written statement. </p><p>   There is no indication classified systems were affected, Mr. Raimondi said, as the department classified the breach as a major incident requiring notification to other agencies and Congress. </p><p>   Even unclassified email accounts, though, can contain sensitive information about investigations and potentially national security related issues, said Chris Painter, a former senior official at the Justice and State departments who worked on cybersecurity issues. \"A lot of DOJ work happens on unclassified systems.\" </p><p>   It couldn't be determined which Justice Department employees, or how many, potentially had their internal communications exposed in the operation. </p><p>   Some 115,000 employees work at the Justice Department, according to the department's 2020 fiscal-year budget request, a figure that includes Federal Bureau of Investigation personnel and correctional officers at federal prisons. Mr. Raimondi said not all Justice Department employees use Microsoft Office, but didn't comment further on the size of the exposure. </p><p>   Investigators continue to try to understand the full extent of the hack, so far linked to using a malicious update to widely used software provided by a Texas-based network-management company called SolarWinds Corp. to compromise U.S. government agencies and scores of private businesses across the globe. Investigators are reviewing how it managed to go undetected for so long and whether there were avenues of attack. </p><p>   Intelligence officials and cybersecurity analysts involved in the response are investigating whether a little-known software company called JetBrains s.r.o. might have played a role in the SolarWinds hack, people familiar with the matter said. JetBrains makes tools for software developers, including a product called TeamCity that is used to help manage and speed up large software development projects. </p><p>   Investigators believe that the SolarWinds hackers gained access to a TeamCity server used by SolarWinds to build its software products, but it is unclear how this system was accessed, people familiar with the matter said. </p><p>   \"SolarWinds, like many companies, uses a product by JetBrains called TeamCity to assist with the development of its software. We are reviewing all internal and external tools as part of our investigations, which are still ongoing\" a SolarWinds spokesman said. The company hasn't seen any evidence linking the security incident to a compromise of the TeamCity product, he said. </p><p>   \"We're not aware of any breach,\" Maxim Shafirov, the chief executive of JetBrains, said in a text message. The company was founded in the Czech Republic in 2000. It boasts 79 of the Fortune 100 among its 300,000 clients. </p><p>   \"We have never been contact by any security firms or agencies on the matter,\" Mr. Shafirov said. </p><p>   Interest in JetBrains among investigators was earlier reported by the New York Times. </p><p>   The Justice Department is the latest of more than a half-dozen agencies to identify a compromise of its systems related to the massive hack, which has been under way for more than a year but was only discovered last month. Other federal agencies affected include the departments of State, Treasury, Commerce and Energy, according to officials and others familiar with the investigation. </p><p>   On Tuesday, the Trump administration for the first time formally stated that Russia is likely behind what is known as the SolarWinds hack, a conclusion that senior officials had already reached and expressed both publicly and privately. Moscow has denied involvement in the cyberattack. </p><p>   Current and former officials and cybersecurity experts have said the hack amounts to one of the worst intelligence failures on record. Hacks are often destructive in nature by disrupting operations. This one, officials believe, was different -- a widely successful cyber espionage operation intended to purloin sensitive information from the U.S. government and quietly maintain persistent access within those networks. </p><p>   Microsoft Corp. last week said the hackers accessed its systems and viewed internal source code used to create software products. The hackers also compromised at least one reseller of Microsoft's cloud-based computing services and tried to use that as a way of gaining access to emails belonging to the cybersecurity vendor CrowdStrike Inc. That attempt was unsuccessful, CrowdStrike has said. </p><p>   Microsoft declined to comment on the breach of Justice Department email accounts. </p><p></p>",
+  "published": "2021-01-07T07:09:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 4791,
+          "end": 4802
+        },
+        {
+          "start": 1611,
+          "end": 1627
+        },
+        {
+          "start": 5001,
+          "end": 5010
+        },
+        {
+          "start": 263,
+          "end": 279
+        },
+        {
+          "start": 558,
+          "end": 574
+        },
+        {
+          "start": 4791,
+          "end": 4800
+        },
+        {
+          "start": 4607,
+          "end": 4622
+        },
+        {
+          "start": 1611,
+          "end": 1620
+        },
+        {
+          "start": 4607,
+          "end": 4616
+        }
+      ]
+    }
+  ]
+}

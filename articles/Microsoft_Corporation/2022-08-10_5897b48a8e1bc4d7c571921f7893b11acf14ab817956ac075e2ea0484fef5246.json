@@ -1,0 +1,34 @@
+{
+  "_id": "5897b48a8e1bc4d7c571921f7893b11acf14ab817956ac075e2ea0484fef5246",
+  "feed": "wall-street-journal",
+  "title": "World News:  Kenyans Vote in Tight Presidential Race  ---  Memories of previous  election disputes that  have turned violent  loom over the process  ----  By Michael M. Phillips",
+  "text": "<p>   NAIROBI, Kenya -- Voters across Kenya headed to the polls Tuesday in a finely balanced presidential race between two longtime allies turned fierce rivals, one associated with this East African country's founding families and the other claiming the mantle of its struggling working class. </p><p>   Looming over the day were memories of previous election disputes that turned violent. The 2007 vote led to ethnic clashes that left some 1,100 people dead and 600,000 people displaced. After the troubled 2017 elections, police killed dozens of protesters and the supreme court ultimately ordered a rerun because of fraud concerns. </p><p>   \"We're praying we don't go that way again,\" said Isaiah Mwange, a 38-year-old shopkeeper standing in line to vote at a Nairobi polling station. </p><p>    Polls suggest a tight vote.Election officials spread around the country of 55 million people have up to a week to submit results to the tabulation center in Nairobi. Official results are expected within a few days, as areclaimsof vote rigging by the loser. </p><p>   Kenya is a bastion of relative stability and economic strength in East Africa, a U.S. ally in the fight against al Qaeda's al-Shabaab franchise in Somalia and a base for Alphabet Inc., Microsoft Corp. and other major companies. </p><p>   President Uhuru Kenyatta, whose father Jomo Kenyatta is considered the founder of independent Kenya, has reached the end of his two-term limit. He endorsed a former political rival, five-time presidential candidate Raila Odinga, 77, over his own deputy president, 55-year-old William Ruto. </p><p>   Many voters see Mr. Odinga, whose own father was a key player when Kenya won independence from Britain in 1963, as the candidate of status quo stability. Mr. Ruto portrays himself as the choice for \"hustlers,\" working-class Kenyans trying to scrape by in the informal sector of the economy. </p><p>   The election may prove a test of whether Kenya has moved from volatile politics based on ethnic affiliations to politics based on economic and other issues, including the fight against corruption. </p><p>   \"What's important is for people to elect their leader and after that go back to work,\" said pharmacy owner Susan Wachira, 59. \"Without peace, you can't do business.\" </p><p>   Voters lined up at the balloting tents at the Kenya Technical Trainers College in Nairobi on Tuesday morning said they hoped whoever loses is gracious in defeat and whoever wins is magnanimous in victory. </p><p>   \"I just want to go back to my home, have internet, water and electricity -- and sleep peacefully,\" said Yvonne Acha Ouma, 28, a compliance attorney with an insurance firm. </p><p>   Prof. George Wajackoyah, 62, an outsider candidate running on a platform of legalizing marijuana, told reporters that an equipment failure delayed his ability to vote in his home county in western Kenya. </p><p>   Mr. Wajackoyah's support among young Kenyans could give him enough votes to force an October runoff between the two leading candidates, polls suggest. To win outright, the leader must receive the majority of votes nationwide and at least 25% of the vote in 24 of Kenya's 47 counties. </p><p>   Many Kenyans are concerned about kitchen-table issues such as the high prices of corn meal and gasoline, driven upward in part by Russia's invasion of Ukraine. </p><p></p>",
+  "published": "2022-08-10T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1205,
+          "end": 1220
+        },
+        {
+          "start": 1198,
+          "end": 1212
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000124,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.2516975e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

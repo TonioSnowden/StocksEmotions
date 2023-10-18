@@ -1,0 +1,30 @@
+{
+  "_id": "78b3b66ecda4dcf08f649b142937adf127d3273fef0b0c68be12714ef333d8a6",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Companies Must Pay Millions In Ohio Drug Case",
+  "text": "<p>U.S. Judge Dan Polster issued his order Wednesday after a separate nonjury trial was held to determine the amount the companies must pay.</p><p>Judge Polster ruled that the defendants were responsible for a portion of plans created for Lake and Trumbull counties, the plaintiffs in the case, to address problems linked to the opioid epidemic. He ordered the companies to immediately pay two years' worth of those payments into a fund, or $86.7 million of the total $650.6 million.</p><p>The companies plan to appeal the decision. \"Pharmacists fill legal prescriptions written by DEA-licensed doctors who prescribe legal, FDA-approved substances to treat actual patients in need,\" said Michael DeAngelis, the executive director for corporate communications for CVS Health Corp. \"Plaintiffs' attorneys sued Walmart in search of deep pockets,\" Walmart Inc. said.</p><p>Fraser Engerman, a spokesman for Walgreen Co., said: \"We never manufactured or marketed opioids nor did we distribute them to the \"pill mills\" and internet pharmacies that fueled this crisis.\"</p><p>Attorneys for Lake and Trumbull counties argued that the pharmacies didn't stop pain pills from flooding the northeastern Ohio counties and false prescriptions from being filled. More than 80 million opioid pills were shipped to Trumbull County, with a population of less than 200,000, from 2006 to 2012, government data show. More than 60 million opioid pills were shipped to Lake County, with a population of about 230,000, over that period. The counties argued that the companies created a public nuisance costing them each about $1 billion.</p><p>\"Lake County and Trumbull County communities will soon receive the long overdue recovery funds they need to address the effects of the opioid epidemic,\" the attorneys said in a joint statement.</p>",
+  "published": "2022-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 829,
+          "end": 841
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0005019,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0005018711,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

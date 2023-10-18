@@ -1,0 +1,42 @@
+{
+  "_id": "cd6598991c3fe5a9a845c637089cdb71f5db37440bb15a4c1aa6adf1e8ecbc75",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Wireless Eats Into Broadband, and Vice Versa  ----  By Thomas Gryta and Rachel Wolfe",
+  "text": "<p>   A budding battle between U.S. cable and phone companies has brought fresh competition for services typically dominated by a few large companies. </p><p>   Wireless carriers are using the excess capacity on next-generation networks to win over customers who have been using traditional broadband-internet providers, while those same cable companies are promoting new and cheaper cellphone plans. </p><p>   The competition, in some instances, has created a refuge for consumers as inflation is driving up prices on just about everything else. </p><p>   The cost of internet service rose 1.7% in July from a year earlier, according to the Labor Department. </p><p>   New fifth-generation cellular networks have helped carriers T-Mobile US Inc. and Verizon Communications Inc. sign up 2.2 million wireless-internet customers through June, often at traditional broadband providers' expense. The mobile-phone companies' fixed wireless signals beam broadband connections from cell towers to routers placed in homes and businesses instead of by wire, which can be costly and time-consuming to install. </p><p>   The wireless threat contributed to the cable industry's worst quarter in years. Comcast Corp. lost residential customers in the most recent quarter for the first time ever, a shift after many quarters of growth earlier in the pandemic. So did Charter Communications Inc., its first decline in nearly a decade. </p><p>   Cable-internet providers blamed a slowdown in household moves for the drop but said new competition from mobile carriers played a role -- albeit a small one. </p><p>   Comcast Chief Executive Brian Roberts expects the flow of people moving to wireless-internet service to slow down, because mobile carriers face capacity constraints that limit the number of internet users they can add. </p><p>   T-Mobile said a little more than half of the 560,000 broadband customers it added during the second quarter came from cable competitors. </p><p>   In Nashville, Tenn., Travis Murdock dropped his Xfinity cable service recently for T-Mobile's home-internet offering. The business analyst said he had grown tired of Comcast's marketing calls and of negotiating a new price every year when the promotion he had been using expired. The move took his bill down to $50 a month from $85. T-Mobile locked in the rate for as long as he keeps the service, he said. </p><p>   It isn't all bad for cable. The biggest cable companies have spent the past five years winning over customers for cellphone service who might have otherwise signed up for lines under traditional wireless brands. Comcast and Charter have amassed nearly nine million mobile-phone subscribers since Comcast launched its wireless service in 2017. </p><p>   The ultimate winner may be wireless customers. AT&amp;T Inc. and Verizon have implemented some price increases this year, but Mr. Moffett said the companies have also introduced lower-cost plans to compete with offers from the cable providers. </p><p>   On Monday, Comcast announced lower pricing for customers seeking two or three lines under its wireless plan offering unlimited data. </p><p>   Jody Ewing said she switched her wireless plan to Charter's Spectrum from Verizon last August, saving about $30 a month and upgrading to unlimited data for her and her husband's phones in the process. The retiree from Santa Ana, Calif., was already paying for Spectrum internet and cable and said she has never been happier with a carrier. </p><p>   Cable companies aren't using their own cellphone networks to connect their customers on the go -- they are paying the wireless providers for access under reseller agreements -- but their services are nevertheless boosting their bottom lines. </p><p>   Analysts caution that there are limits to both industries' encroachment on the others' turf. Cable companies lack the cell towers and other infrastructure they would need to make a big dent in the business of the largest wireless companies. The top three U.S. wireless carriers together serve roughly 300 million cellphone users. </p><p>   --- </p><p>   Drew FitzGerald contributed to this article. </p><p></p>",
+  "published": "2022-08-24T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 701,
+          "end": 727
+        },
+        {
+          "start": 2669,
+          "end": 2676
+        },
+        {
+          "start": 3053,
+          "end": 3060
+        },
+        {
+          "start": 705,
+          "end": 732
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.801804,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0018039942,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "4af276486e2ebc57ec9cb25f4572c9afa3e9f77f25242e68b92bbb826640f2cc",
+  "feed": "wall-street-journal",
+  "title": "What's News --  Business & Finance",
+  "text": "<p>\n   U.S. natural-gas futures reached a 14-year intraday high Tuesday before falling at the close, a sign of the unceasing demand for U.S. shale gas across the Atlantic and likely pointing to rising prices and market volatility ahead. </p><pre> </pre><p>\n  Saudi Arabia and some of its oil-producing allies have suggested cutting crude production, disappointing U.S. officials who predicted the kingdom would be instrumental in cooling the market. </p><p>\n  --- </p><p>\n   A whistleblower complaint by Twitter's former head of security alleging widespread mismanagement spurred new scrutiny of the social-media company, adding to its challenges as it prepares for its legal battle with Musk. </p><p>\n  --- </p><p>\n   Intel struck an unusual $30 billion funding partnership with Brookfield to help the chip maker finance its factory-expansion ambitions. </p><p>\n  --- </p><p>\n   Business activity in the U.S., Europe and Japan fell in August, according to new surveys, pointing to a sharp slowdown in global economic growth. </p><p>\n  --- </p><p>\n   U.S. stocks edged lower, with the S&amp;P 500 and Dow retreating 0.2% and 0.5%, respectively. The Nasdaq slipped less than 0.1%. </p><p>\n  --- </p><p>\n   Macy's and Nordstrom became the latest retailers to lower their financial guidance for the year, citing risks of a steeper economic downturn. </p><p>\n  --- </p><p>\n   Bed Bath &amp; Beyond has found a financing source to shore up its liquidity, according to people familiar with the matter. </p><p></p>",
+  "published": "2022-08-24T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 649,
+          "end": 654
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0030324,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.003032446,
+        "titleWeight": 0.0
+      },
+      "typeRank": 24
+    }
+  ]
+}

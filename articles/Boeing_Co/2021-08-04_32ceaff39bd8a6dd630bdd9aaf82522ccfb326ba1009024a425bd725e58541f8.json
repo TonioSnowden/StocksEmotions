@@ -1,0 +1,29 @@
+{
+  "_id": "32ceaff39bd8a6dd630bdd9aaf82522ccfb326ba1009024a425bd725e58541f8",
+  "feed": "reuters",
+  "title": "BRIEF-Spirit Aerosystems Reports Second Quarter 2021 Results",
+  "text": "<p>* Q2 LOSS PER SHARE $1.30</p><p>* Q2 ADJUSTED LOSS PER SHARE $0.31</p><p>* Q2 REVENUE $1.0 BILLION VERSUS REFINITIV IBES ESTIMATE OF $957 MILLION</p><p>* Q2 EARNINGS PER SHARE ESTIMATE $-0.70 -- REFINITIV IBES DATA</p><p>* CASH GUIDANCE UNCHANGED</p><p>* SPIRIT'S BACKLOG AT END OF Q2 OF 2021 WAS APPROXIMATELY $34 BILLION</p><p>* SPIRIT AEROSYSTEMS - AS A RESULT OF ONGOING ENGAGEMENT WITH BOEING ON 787 PROGRAM, IDENTIFIED ADDITIONAL ISSUE IN FORWARD SECTION OF FUSELAGE</p><p>* RECOGNIZED A $46 MILLION FORWARD LOSS ON 787 PROGRAM IN THIS QUARTER</p><p>* SPIRIT AEROSYSTEMS - EXPECTS TO INCUR INCREMENTAL FORWARD LOSS OF ABOUT $40 TO $60 MILLION IN Q3 OF 2021 Source text for Eikon: Further company coverage:</p>",
+  "published": "2021-08-04T11:44:48.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.99941635,
+      "offsets": [
+        {
+          "start": 355,
+          "end": 361
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0558451,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.05584514,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

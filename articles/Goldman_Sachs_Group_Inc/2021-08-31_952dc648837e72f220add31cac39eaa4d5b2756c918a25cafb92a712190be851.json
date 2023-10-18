@@ -1,0 +1,32 @@
+{
+  "_id": "952dc648837e72f220add31cac39eaa4d5b2756c918a25cafb92a712190be851",
+  "feed": "wall-street-journal",
+  "title": "Members Exchange Urges Regulators to Allow Half-Penny Stock Prices; MEMX says its proposal would lower costs for investors by reducing bid-ask spreads",
+  "text": "<p>The exchange, known as MEMX for short, said its proposal would lower costs for investors by reducing bid-ask spreads—the difference between the buying and selling prices of a stock.</p><p>There is no guarantee that the SEC will approve the request MEMX filed with the agency on Monday. But the proposal comes as the SEC is conducting a review of market structure prompted by the frenzied trading in GameStop Corp. and other meme stocks earlier this year. SEC Chairman Gary Gensler has said that minimum price increments are part of the review.</p><p>MEMX says its proposal has broad support within the financial industry. The exchange is owned by a consortium of Wall Street firms, including electronic trading giants Citadel Securities and Virtu Financial Inc., banks such as Goldman Sachs Group Inc. and Morgan Stanley, brokerage Charles Schwab Corp. and asset-management giant BlackRock Inc.</p><p>The startup exchange launched just under a year ago. MEMX handled 3.3% of U.S. equities trading volume in August, according to Rosenblatt Securities data.</p><p>MEMX's proposal would only apply to securities that trade with a bid-ask spread of 1 cent throughout the trading day. That includes about 1,000 stocks and exchange-traded funds, accounting for nearly half of U.S. trading volume, according to MEMX. Some securities that would be affected include Apple, General Motors Co. and Southwest Airlines Co. as well as SPDR S&amp;P 500 ETF Trust, the popular ETF that tracks the S&amp;P 500 market index.</p><p>Essentially, MEMX is arguing that bid-ask spreads are too wide for such securities and cutting them from 1 cent to half a cent would save money for investors.</p><p>\"Bid-ask spreads are a huge portion of the transaction costs that investors pay,\" said Adrian Griffiths, head of market structure at MEMX, who also wrote a study on price increments that MEMX released on its website Tuesday. \"If you could meaningfully reduce spread costs, that would be huge.\"</p><p>If the SEC were to allow half-penny pricing, MEMX and other stock exchanges would potentially benefit by attracting a greater share of daily trading volume.</p><p>Under a 2005 regulation, often called the sub-penny rule, exchanges are generally prohibited from displaying prices for securities in increments of less than 1 cent. The rule applies to all stocks worth over $1 per share. Exchanges have long griped that the rule prevents them from being able to fully compete with off-exchange trading venues.</p><p>More than 40% of U.S. equities trading volume takes place outside of public stock exchanges. Much of that activity is handled by wholesalers—high-speed trading firms that execute orders for retail brokerages such as Robinhood Markets Inc. Wholesalers can fill investors' orders in prices that include fractions of a penny.</p><p>SHARE YOUR THOUGHTS</p><p>Should regulators allow stocks to be quoted in price increments of half a penny? Join the conversation below.</p><p>The rationale for the SEC's sub-penny rule was to prevent a behavior called stepping ahead. In such a scenario, an investor might post a limit order seeking to buy a stock at no higher than a certain price, prompting a sophisticated trader to \"step ahead\"—offering to buy the same stock for just a tiny amount more. The trader would then buy from any sellers who entered the market, while the investor's limit order would remain unfilled.</p><p>If price increments are reduced too far, it can facilitate stepping ahead and discourage investors from using limit orders to display their interest in stocks, analysts said. That could ultimately harm the quality of public markets, which depend on limit orders for information on what price each stock is trading at.</p><p>Mr. Griffiths said MEMX had crafted its proposal to strike a balance between the advantages of narrowing bid-ask spreads and the disadvantages of reducing price increments too much.</p><p>MEMX's study explored the impact of reducing price increments by examining the 1-for-8 reverse stock split that General Electric Co. carried out after the close of trading on July 30. GE's reverse split—a rarity among blue-chip companies—increased the value of one of the company's shares from about $13 to about $104.</p><p>According to MEMX, the move brought GE out of the category of securities whose trading is artificially constrained by the sub-penny rule. Quoted bid-ask spreads for GE, relative to the price of one share, fell by around 75% after the reverse split, MEMX found. \"If you wanted to invest $10,000 in GE stock, you would have been significantly better off after the reverse split,\" Mr. Griffiths said.</p><p>The reverse split also helped exchanges win a higher share of GE trading volume. During the week before the reverse split, around 40% of activity in GE took place off exchange. That dropped to about 20% in the week afterward. The reasons for the shift aren't fully clear.</p><p>Write to Alexander Osipovich at alexander.osipovich@dowjones.com</p><p>Members Exchange Urges Regulators to Allow Half-Penny Stock Prices</p>",
+  "published": "2021-08-31T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 765,
+          "end": 778
+        },
+        {
+          "start": 765,
+          "end": 788
+        },
+        {
+          "start": 765,
+          "end": 789
+        },
+        {
+          "start": 765,
+          "end": 772
+        }
+      ]
+    }
+  ]
+}

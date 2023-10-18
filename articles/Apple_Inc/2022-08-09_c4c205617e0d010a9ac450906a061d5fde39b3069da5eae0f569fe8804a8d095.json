@@ -1,0 +1,42 @@
+{
+  "_id": "c4c205617e0d010a9ac450906a061d5fde39b3069da5eae0f569fe8804a8d095",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Fall Vote Now Seen for Tech Antitrust Bill  ----  By Ryan Tracy",
+  "text": "<p>   WASHINGTON -- Congress is set to depart for its August recess soon without acting on a bipartisan antitrust bill targeting the largest U.S. technology companies, in a setback for supporters who had been pushing for a vote before the busy fall election season. </p><p>   Senate Majority Leader Chuck Schumer (D., N.Y.) plans to hold a vote on the legislation when Congress returns this fall. But the shrinking number of legislative days available plays to the advantage of the tech companies, which can declare victory if Congress doesn't act. </p><p>   \"If the bill had the support its supporters contended, it wouldn't be a bill, it would be a law,\" said Matt Schruers, president of the Computer &amp; Communications Industry Association, whose members include Amazon.com Inc., Google owner Alphabet Inc., Apple Inc. and Facebook owner Meta Platforms Inc. </p><p>   The bill has some Republican support, though many conservatives oppose it. That means the legislations prospects could plummet next year if Republicans gain control of the House, Senate or both after midterm elections in November. </p><p>   Supporters expressed confidence that the bill would get across the finish line. \"We continue to have very strong bipartisan support in both chambers, and the votes to pass it in both chambers,\" said Rep. David Cicilline (D., R.I.), one of the bill's primary sponsors. \"It's really just a matter of getting it on the calendar.\" </p><p>   If passed, the law would bar huge online platforms such as Amazon's e-marketplace, Apple's app store and Google's search engine from giving preferential treatment to the company's own products and services, such as steering consumers to in-house products instead of competitors' offerings in a way that harms competition. </p><p>   Sens. Amy Klobuchar (D., Minn.) and Chuck Grassley (R., Iowa), two other primary sponsors, have been meeting with colleagues to shore up support on both sides of the aisle. </p><p>   Mr. Schumer says he supports the bill, but at a news conference last month he expressed reservations that it had the votes to pass. Last week, however, an aide said Mr. Schumer \"is working with Sen. Klobuchar and other supporters to gather the needed votes and plans to bring it up for a vote.\" </p><p>   That statement represents \"a positive sign in the direction of passage\" and is farther than Mr. Schumer has previously gone to signal the bill will get time on the Senate floor, said Paul Gallant, a policy analyst with brokerage Cowen Inc. </p><p>   Several conservatives have argued against regulation of large tech platforms, including Sen. Rand Paul (R., Ky.). \"Rather than pursue even stronger antitrust laws, Congress should allow the free market to thrive where consumers, not the government, decide how big a company should be,\" Mr. Paul wrote in a June op-ed. </p><p>   On the Democratic side, objections have notably come from the California delegation, where most of the affected companies are based. </p><p>   \"It's a profound departure from our history to target specific companies for antitrust in legislation,\" Rep. Zoe Lofgren, who represents parts of Silicon Valley, said in an interview earlier this year. She and other Democrats have suggested broadening the bill's scope to go beyond the largest tech platforms, an idea the bill's authors have rejected. </p><p>   Representatives of Amazon, Apple, Google, and Facebook either declined to comment or didn't respond to a request for comment. </p><p>   Mr. Grassley is \"working hard to further secure support for the bill\" and is optimistic about the level of Republican support, a spokesman said. </p><p></p>",
+  "published": "2022-08-09T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 3232,
+          "end": 3237
+        },
+        {
+          "start": 1474,
+          "end": 1479
+        },
+        {
+          "start": 1465,
+          "end": 1470
+        },
+        {
+          "start": 783,
+          "end": 793
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000795,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00079488754,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

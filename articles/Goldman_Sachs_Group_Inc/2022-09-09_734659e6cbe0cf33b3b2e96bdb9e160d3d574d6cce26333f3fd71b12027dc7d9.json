@@ -1,0 +1,38 @@
+{
+  "_id": "734659e6cbe0cf33b3b2e96bdb9e160d3d574d6cce26333f3fd71b12027dc7d9",
+  "feed": "wall-street-journal",
+  "title": "Derby's Take: Fed Rate Could Soon Catch Up to Where Monetary Policy Rules Suggest It Should Be; A Cleveland Fed report says the ideal setting for the federal-funds target rate during the third quarter should be 3.67%",
+  "text": "<p>The Fed is on track at its September 20-21 Federal Open Market Committee meeting to raise that rate by either 0.5 percentage point or 0.75 percentage point. If it goes for the larger move, that would put the funds rate range at 3% to 3.25%. That's still under what the rules suggest, but the Fed is almost certain to raise rates again in November and December.</p><p>The Cleveland Fed's ideal interest-rate setting is derived from seven monetary policy rules, which use various combinations of inflation, growth and other variables to indicate where monetary policy should be. Fed policy is not set by mechanical rules. Fed officials have said repeatedly over the years that while rules inform their choices, some level of judgment in monetary policy making is essential.</p><p>Federal Reserve Chairman Jerome Powell said Thursday that \"rules have become part of the fabric of economic analysis, in particular in monetary policy analysis.\" He added that these rules \"are ubiquitous in all of the work that we do. You have to have a variable or a way, a model of explaining how monetary policy will react.\" But he reiterated the rules have limits in real work usage.</p><p>The Fed has been facing criticism that it waited too long to start raising rates and that it provided too much stimulus to the economy. Many believe central-bank actions, joined with a host of other factors, have helped fuel the high inflation the institution is now trying to counteract.</p><p>At the time the Fed started lifting its overnight target rate in March, monetary-policy rules suggested the central bank was already well behind the curve. The Cleveland Fed said policy rules pointed then to a need for a 3.23% federal-funds rate in the first quarter of this year, when the funds rate was at near-zero levels.</p><p>The path of rates over the reminder of the year is still uncertain as inflation is showing some tentative signs it may be moving down. On Wednesday, investment bank Goldman Sachs revised higher its outlook for monetary policy and said it sees a 0.75 percentage point increase in September and a half percentage point move in November.</p><p>Other banks have also increased their expectations of the size of coming rate increases. Bank of America lifted where it expects the central bank to stop raising rates at 4% to 4.25%, saying \"the Fed wants to get to its restrictive policy stance sooner than later.\"</p><p>If those banks are correct, Fed moves could more quickly bring the funds rate to levels where rules suggest it should be to bring balance back to the economy.</p><p>Write to Michael S. Derby at michael.derby@wsj.com</p>",
+  "published": "2022-09-09T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1934,
+          "end": 1947
+        },
+        {
+          "start": 1934,
+          "end": 1941
+        },
+        {
+          "start": 1919,
+          "end": 1932
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

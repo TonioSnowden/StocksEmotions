@@ -1,0 +1,32 @@
+{
+  "_id": "aecfa43f3b52613b2e529ce98ef3bc3082679d547072365714a4e58ea02acba6",
+  "feed": "wall-street-journal",
+  "title": "Business News: Walmart Tests Self-Driving Delivery Cars --- Service will be used for 'last mile' deliveries in three U.S. cities starting later this year",
+  "text": "<p>The commercial service will be available to Walmart customers within certain areas of the three cities and will expand over time, the companies said. The initial integration testing is set to begin later this year, they added. Argo AI, a self-driving technology company, is backed by Ford and Volkswagen AG.</p><p>\"This collaboration will further our mission to get products to the homes of our customers with unparalleled speed and ease, and in turn, will continue to pave the way for autonomous delivery,\" said Tom Ward, senior vice president of last-mile delivery at Walmart U.S.</p><p>Walmart has been delivering products from its stores for several years, using a combination of services such as DoorDash and its own service to recruit drivers to shop in its stores and deliver products. The retailer in 2018 said it was exploring delivery with self-driving cars through a partnership with Ford.</p><p>The acceleration of e-commerce delivery has pushed more retailers to look at even speedier delivery options. Amazon.com Inc., for instance, offers same-day delivery on around three million items in select areas. Target Corp.'s Shipt does same-day deliveries from its stores and others. Other companies such as DoorDash Inc., Instacart Inc. and Uber Technologies Inc. use gig workers to fulfill orders for all sorts of merchants.</p><p>Last-mile delivery is typically dominated by large networks such as FedEx Corp., United Parcel Service Inc. and the U.S. Postal Service. Their capabilities in same-day delivery are limited, however, as their models are built around accepting packages into their network and then sending them out.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-09-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 44,
+          "end": 51
+        },
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 564,
+          "end": 571
+        },
+        {
+          "start": 577,
+          "end": 584
+        }
+      ]
+    }
+  ]
+}

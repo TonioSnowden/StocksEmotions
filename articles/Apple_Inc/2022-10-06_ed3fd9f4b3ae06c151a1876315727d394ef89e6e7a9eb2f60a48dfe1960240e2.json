@@ -1,0 +1,28 @@
+{
+  "_id": "ed3fd9f4b3ae06c151a1876315727d394ef89e6e7a9eb2f60a48dfe1960240e2",
+  "feed": "wall-street-journal",
+  "title": "报道：苹果公司部分供应商将把AirPods和Beats耳机生产转移至印度; 据日经亚洲报道，苹果公司正首次要求其供应商将一些AirPods和Beats耳机的生产转移到印度，以求将供应链多样化，不局限于中国。",
+  "text": "<p>（本文来自道琼斯通讯社）</p><p>报道：苹果公司部分供应商将把AirPods和Beats耳机生产转移至印度</p>",
+  "published": "2022-10-06T00:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5,
+          "end": 7
+        },
+        {
+          "start": 67,
+          "end": 69
+        },
+        {
+          "start": 24,
+          "end": 26
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

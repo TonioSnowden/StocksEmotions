@@ -1,0 +1,34 @@
+{
+  "_id": "eeaa01e0277bc99d8898a3751d6b76b5d9ffe2b1565293736cb2e4a2a530058d",
+  "feed": "wall-street-journal",
+  "title": "World News:  China Economic Woes Persist  ---  Factory disruptions,  property slump show  prolonged weakness  after a June upturn  ----  By Stella Yifan Xie and Cao Li",
+  "text": "<p>   Chinese factory activity shrank and home sales tumbled in August, as the world's second-largest economy struggled to shake off the impact from Covid-19 flare-ups, its worst heat wave in six decades and a deepening real-estate downturn. </p><p>   As the heat wave led to electricity shortages and production disruptions, manufacturing activity shrank for a second consecutive month, China's National Bureau of Statistics said Wednesday. Home sales also continued to slide, despite efforts by the government to lower purchase barriers and help developers complete projects, according to a Chinese real-estate data provider. </p><p>   Prolonged weakness in China's economy is impeding an engine of global growth as major economies face pressure from inflation and the impact of the Ukraine war. Weak demand within China also spells trouble for multinationals such as Apple Inc. and Starbucks Corp., which count on China's appetite for a range of goods from raw materials to smartphones and coffee for profit growth. </p><p>   China showed signs of a nascent recovery in June, after pandemic restrictions were lifted in the financial hub of Shanghai, but that recovery has lost steam in the months since. A resurgence of Covid-19 cases in the past month has triggered fresh lockdowns in Chinese cities. </p><p>   The official manufacturing purchasing managers index edged up to 49.4 in August from 49 in July, China's National Bureau of Statistics said Wednesday, exceeding the median forecast of 49.2 among economists polled by The Wall Street Journal. A score of above 50 indicates an expansion in the manufacturing sector; below 50, a decline. </p><p>   China's \"recovery is still not on solid footing,\" Barclays economists Yingke Zhou and Jian Chang wrote in a note to clients after Wednesday's data were released. </p><p>   The power crunch brought on by the heat wave depressed factory activity and forced global manufacturers including Foxconn Technology Group and car makers Toyota Motor Corp. and Volkswagen AG to temporarily halt production. </p><p>   Separately, new data released Wednesday showed the property market is still trying to find a bottom, with home sales tumbling for the 14th consecutive month. </p><p>   Sales at the country's top 100 property developers fell more than 30% from the same month last year, to the equivalent of about $75 billion, or 519 billion yuan, according to data released by China Real Estate Information Corp., an industry data provider. Compared with July, August sales slipped 0.8%. </p><p>   Beijing unexpectedly lowered two key interest rates in mid-August, and the State Council, China's cabinet, announced a $146 billion stimulus package to shore up growth. Still, many economists expect business investment and consumer spending to remain depressed, as China's stimulus is largely focused around infrastructure spending and the country remains reluctant to budge from its zero-Covid policy, which has amplified uncertainties for companies and hurt consumer confidence. </p><p>   Chinese leaders have signaled they are prepared for lower growth this year. At a key political meeting in July, Chinese policy makers effectively abandoned a growth target of about 5.5%, set earlier this year. </p><p>   China's statistics bureau also said on Wednesday that China's nonmanufacturing purchasing managers index fell to 52.6 in August from 53.8 in July. The spread of the coronavirus and bad weather held back growth in both services and construction activity in August, it added. </p><p>   The services sector represented 53% of China's gross domestic product in 2021, and sluggishness there doesn't bode well for the economy, economists from ANZ said. The bank cut China's full-year GDP growth to 3% from 4% after Wednesday's data release, citing weakening demand at home and abroad. </p><p>   The country's strategy of resorting to sudden lockdowns to contain Covid-19 continues to hinder growth. </p><p></p>",
+  "published": "2022-09-01T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 844,
+          "end": 854
+        },
+        {
+          "start": 840,
+          "end": 850
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5480115,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.00044965744,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

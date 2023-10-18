@@ -1,0 +1,34 @@
+{
+  "_id": "29fed86ad4138199f07ff0c300f8f82ebeeac8082e47a8f6475e6819d6adccdb",
+  "feed": "market-watch",
+  "title": "BlackRock, blue chips slammed with 401(k) suit",
+  "text": "<p>The claim has sparked a war of words in the industry, with one critic calling it \"cynical and meritless\" and urging the courts to throw it out.</p><p>James Miller, partner at Miller Shah, tells me the firm is currently representing 20 clients, but that the retirement plans in question had a total of 484,000 participants.</p><p>The issue: Miller Shah says the companies' 401(k) plans were at fault because they relied on the so-called \"target date\" mutual funds provided by Wall Street giant BlackRock. Target-date funds are those set-it-and-forget-it mutual funds where you pick the fund designed around your intended retirement date and invest your dollars in that, and the fund manager does all the work of allocating your money to stocks and bonds and adjusting the ratios over time.</p><p>Those BlackRock target-date funds, says Miller Shah, performed worse than the major alternatives, and the fiduciaries could have reasonably anticipated that they would. The decision to stick to the BlackRock funds, say the lawsuits, ended up costing retirement savers in the various plans plenty of money in lost investment profits.</p><p>Miller tells me that the fiduciaries should have known the BlackRock funds would underperform, \"based upon the history of poor performance coupled with the equity allocations in a number of vintages that together demonstrated an inability to generate satisfactory returns.\"</p><p>BlackRock itself is not a target for the suit, because it simply ran the funds—it wasn't the 401(k) plan fiduciary choosing them for participants. But the company BlackRock emailed us to defend its funds. \"BlackRock is widely recognized as a market leader in target-date funds, with a deep commitment to retirement investing research and a long history of engagement with defined-contribution plan sponsors and their consultants,\" the firm said in a statement. Our investment process takes into account multiple factors, including return objectives, market cycles, time horizon, and risk management. As a result, BlackRock's LifePath Index funds are highly regarded by many fiduciary decision-makers and independent evaluators of investment products for delivering consistently strong outcomes for plan participants over time.\"</p><p>Citigroup, contacted by MarketWatch, declined to comment. Microsoft could not immediately be reached for comment. Most firms typically decline to comment on litigation.</p><p>What do the data say?</p><p>The lawsuits specifically mention the target-date funds for people expecting to retire between 2045 and 2055, and compare them to the alternatives offered by the major competing firms Vanguard, American Funds, T. Rowe Price and Fidelity.</p><p>Since the summer of 2011, when data became available, FactSet says the BlackRock \"2050\" fund (BlackRock LifePath Index 2050 LIPIX) has underperformed the average of the four relevant competitors (Vanguard Target Retirement 2050 VFIFX, Fidelity Freedom Index 2050 FIPFX, American Funds 2050 Target date Retirement RFITX and T. Rowe Price 2050 Retirement Fund TRRMX). The underperformance is equivalent to 0.27% a year, worth an extra 3% over the entire 11-year period.</p><p>But the story isn't that simple.</p><p>The BlackRock fund underperformed two of the relevant competitors, but it also outperformed a third, and pretty much matched the performance of the fourth. Furthermore, it's been a story of two very different markets. The BlackRock fund trailed the average of the other four until the COVID-19 crisis struck in early 2020. But since March of that year it has actually outperformed the average of its four rivals, by several percentage points.</p><p>Aronowitz calls the suits \"a cynical and meritless attack against low-fee plans that must be dismissed\" under current legal standards. \"These lawsuits are manufactured imprudence claims designed to profit off the high risk and cost of defending high-stakes litigation,\" he says.</p><p>\"The underperformance claims are factually wrong,\" Aronowitz says, and the suits use inappropriate benchmarks, comparing the BlackRock funds to others that are constructed differently and have different strategies and styles.</p><p>He points out that the BlackRock target-date funds also have very low fees compared to their alternatives—which makes the current suits unusual, because until now lawyers were successfully suing plans, and funds, because their fees were too high. (The BlackRock 2050 fund, for example, has a net expense ratio of 0.14%, which is very low.)</p><p>All five of those target-date funds, including BlackRock's, handily outperformed what some might consider to be an obvious benchmark, meaning a balanced portfolio of, say, 60% or 70% global stocks (as measured by the Vanguard Total World Stock ETF or VT) and 40% or 30% inflation-protected U.S. Treasury bonds (as, for example, measured by VAIPX).</p><p>And there remains another issue. It's not enough to prove that a fund underperformed alternative investments. It's also a matter of whether the fiduciaries could reasonably have anticipated any underperformance in advance. That may be a harder case to argue.</p><p>Stay tuned.</p><p>BlackRock, blue chips slammed with 401(k) suit</p>",
+  "published": "2022-08-19T10:50:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2270,
+          "end": 2279
+        },
+        {
+          "start": 2257,
+          "end": 2266
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

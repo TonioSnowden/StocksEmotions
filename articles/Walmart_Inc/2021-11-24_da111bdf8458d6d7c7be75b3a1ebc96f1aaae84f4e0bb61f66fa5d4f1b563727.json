@@ -1,0 +1,24 @@
+{
+  "_id": "da111bdf8458d6d7c7be75b3a1ebc96f1aaae84f4e0bb61f66fa5d4f1b563727",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Shortages, High Demand Boost Prices",
+  "text": "<p>In both places, the combination of strong demand and shortages has resulted in accelerating inflation for business costs and in selling prices, according to surveys of companies by IHS Markit.</p><p>Higher prices in the U.S. this month matched October's record level, the surveys said, as firms continue to pass on increases to customers. In Europe, the rise in prices was the fastest in almost two decades.</p><p>The purchasing-managers index for both services and manufacturing industries in the U.S. eased to 56.5 in November from 57.6 in October. In Europe, the index rose to 55.8 from 54.2 in October, according to the IHS Markit surveys. A reading above 50 shows expansion, which means output has continued to grow at a healthy pace.</p><p>Factories world-wide have faced shortages since the end of last year. A surge in demand for goods took many by surprise at a time when shipping and other parts of the logistics network were in disarray.</p><p>In recent weeks, there have been signs of a modest easing of bottlenecks as Asian factories reopen following pandemic-related lockdowns in key manufacturing centers.</p><p>\"We are seeing the first signs of increasing availability for some raw materials, but it is still too early to speak of a trend reversal here,\" a spokeswoman for German chemical giant BASF SE said.</p><p>IHS Markit's measure of the time taken for parts ordered by factories to be delivered indicated that delays are building at a slower pace in November.</p><p>Covid-related factory closures, energy shortages and port-capacity constraints have eased in recent weeks. Ocean-freight rates have retreated from record levels.</p><p>Major U.S. retailers such as Walmart Inc., Home Depot Inc., and Target Corp. say they are well-stocked in anticipation of the holiday shopping season because they imported goods earlier this year.</p><p>The number of ships waiting to be unloaded at Southern California ports has fallen slightly but remains at very high levels. Bottlenecks at British ports have loosened from the conditions that had made them among the most congested in Europe.</p>",
+  "published": "2021-11-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 1637,
+          "end": 1644
+        },
+        {
+          "start": 1637,
+          "end": 1649
+        }
+      ]
+    }
+  ]
+}

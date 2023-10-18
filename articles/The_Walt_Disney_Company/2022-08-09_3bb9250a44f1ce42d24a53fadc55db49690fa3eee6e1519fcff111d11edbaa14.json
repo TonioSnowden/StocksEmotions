@@ -1,0 +1,46 @@
+{
+  "_id": "3bb9250a44f1ce42d24a53fadc55db49690fa3eee6e1519fcff111d11edbaa14",
+  "feed": "market-watch",
+  "title": "Walmart considers Disney, Comcast, Paramount for streaming deal; Retail giant seeks to bolster its Walmart+ membership program to compete with Amazon",
+  "text": "<p>It is unclear if the discussions will result in an agreement, but the retailer is looking to partner with one of the providers, the people said. The talks were earlier reported by the New York Times.</p><p>Disney operates the Disney+, ESPN+ and Hulu services; Comcast owns Peacock; and Paramount runs the Paramount+ and Showtime services. All three companies are looking to expand their distribution as the competition for subscribers intensifies.</p><p>Walmart has worked to grow membership of Walmart+ since introducing the service in 2020. A subscription costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline. The retailer has added perks to build interest, such as six months of the Spotify SPOT music streaming service.</p><p>An expanded version of this report appears on WSJ.com.</p><p>Also popular on WSJ.com:</p><p>Data show gender pay gap opens early.</p><p>Yes, it's embarrassing to watch your daughter in 'Love Island.'</p><p>Walmart considers Disney, Comcast, Paramount for streaming deal</p>",
+  "published": "2022-08-09T23:13:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99640006,
+      "offsets": [
+        {
+          "start": 18,
+          "end": 24
+        },
+        {
+          "start": 198,
+          "end": 204
+        },
+        {
+          "start": 200,
+          "end": 206
+        },
+        {
+          "start": 218,
+          "end": 225
+        },
+        {
+          "start": 220,
+          "end": 227
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.910242,
+        "baseWeight": 5.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9102422,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

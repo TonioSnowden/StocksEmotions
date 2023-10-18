@@ -1,0 +1,30 @@
+{
+  "_id": "a8ff6e0a1d6323028558b5b652978fd0a1464128fae071e5e317bbbd3602e463",
+  "feed": "wall-street-journal",
+  "title": "RSV Vaccine Protects Babies From Severe Infections, Pfizer Study Finds; Pfizer says results are sufficient to seek FDA approval for the shot, which could be the first on the market against the respiratory syncytial virus",
+  "text": "<p>Within the first six months of life, the risk was reduced by 69.4%, according to the company, which reported the results in a press release and said it intends to submit them for publication in a peer-reviewed scientific journal.</p><p>The shot didn't reduce the risk of nonsevere cases by a statistically significant amount in the study, however, though the company said the study's results were sufficient to ask health regulators by the end of this year to approve the vaccine.</p><p>\"This is a major breakthrough after decades of lack of success,\" said William Gruber, Pfizer senior vice president of vaccine clinical research and development.</p><p>If approved, Pfizer's RSV shot could be the first to go on sale for a common virus that usually causes a mild cold in healthy people but can be dangerous and even fatal in the very old and young, especially babies under one year.</p><p>There is no currently approved RSV vaccine. The virus results in 58,000 hospitalizations annually of children under five years, and 100 to 500 deaths each year.</p><p>Doctors have reported unusually high numbers of RSV infections in children this year, filling up hospital beds ahead of the normally busier winter season.</p><p>Pfizer is the first company to report results from a large Phase 3 study of infants, after Pfizer and GSK PLC reported results for their experimental vaccine in older adults. Johnson &amp; Johnson and Moderna Inc. are also developing RSV shots.</p><p>In the study, researchers enrolled 7,400 pregnant women who were given a vaccine dose or a placebo in hopes of triggering an immune response that would produce protective antibodies that the mothers would transfer to their newborns.</p><p>Dr. Gruber said the vaccine's effectiveness waned over time because antibodies passively transferred from a mother to her infant aren't as long-lasting as antibodies that the body's immune system produces on its own after vaccination.</p><p>Other examples of such passive immunization, he said, include giving infusions of monoclonal antibodies or convalescent plasma to provide temporary protection against severe disease from Covid-19.</p><p>Pfizer's vaccine failed to provide a statistically significant reduction in nonsevere respiratory infections requiring medical attention, one of the study's two primary goals. The risk of such nonsevere cases was reduced by 57.1% in the first 90 days after birth, and by 51.3% in the first six months of life.</p><p>Dr. Gruber said that under rules agreed to by the FDA, the study needed to meet only one of the study's two primary goals to be successful. The company said it would seek approval from the Food and Drug Administration by the end of this year.</p><p>Researchers have struggled since the 1960s to develop a safe and effective inoculation against the virus. Dr. Gruber said he has been involved in RSV vaccine research for decades, including during his time as a medical resident at Baylor College of Medicine in the 1970s.</p><p>\"This is a lifelong professional quest for me and others,\" said Dr. Gruber. \"Every pediatrician in the country knows what RSV is because they've had to deal with it in large numbers throughout their lives.\"</p><p>The breakthrough that led to the discovery of today's most promising vaccines, including Pfizer's, came in 2013 from the National Institutes of Health lab of Dr. Gruber's undergraduate college roommate, Barney Graham. The discovery related to the structure of an important protein on the surface of RSV that researchers used to design vaccines.</p><p>Write to Joseph Walker at joseph.walker@wsj.com</p>",
+  "published": "2022-11-01T17:23:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1357,
+          "end": 1374
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9500025,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 2.503395e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

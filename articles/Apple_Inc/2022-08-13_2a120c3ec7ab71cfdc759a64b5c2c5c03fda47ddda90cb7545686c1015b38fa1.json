@@ -1,0 +1,30 @@
+{
+  "_id": "2a120c3ec7ab71cfdc759a64b5c2c5c03fda47ddda90cb7545686c1015b38fa1",
+  "feed": "wall-street-journal",
+  "title": "Affirm CEO Says Next Recession Will Silence Fintech Lender's Doubters; With shares of the buy now, pay later company down 77% from November, Max Levchin says firm's lending models will set it apart",
+  "text": "<p>Mr. Levchin is confident that Affirm has safely cracked the code to underwriting more consumers than banks would. Like many lenders, Affirm tightened underwriting standards early in the pandemic. Last year, it began loosening them.</p><p>\"I can swear on a stack of Bibles or your preferred book of choice, until we get through a full recession, I will get partial credit when I show the numbers that I said I will,\" he said in a June interview with The Wall Street Journal. \"But once we're back in a rapidly expanding economy and we're still here, still lending money, still controlling our delinquencies, I think I'll get full recognition.\"</p><p>Affirm is one of the largest buy now, pay later companies in the U.S., offering payment plans that enable consumers to divide the cost over time for purchases big and small, including makeup, clothing, furniture, travel and workout equipment. Walmart Inc. and Amazon.com Inc. are among the hundreds of thousands of merchants that offer Affirm plans to shoppers.</p><p>Unlike credit cards, buy now, pay later plans are for a specific item, and the payments have a clear end date. Some plans don't charge interest, helping to fuel a rise in their popularity over the past few years. Affirm said it doesn't charge late fees.</p><p>Affirm grew rapidly in recent years while touting its ability to approve more people who might be shut out by traditional lenders, including those with limited or no credit histories. The stock closed Friday at $39.19, up from a low of $14.63 in May but still well below its peak of $168.52 in November.</p><p>Mr. Levchin said investors are lumping in his company with other fairly new fintechs despite big differences in their overall lending models.</p><p>Affirm underwrites consumers based partly on their credit reports and scores. It also analyzes other information, including where they are shopping and what they are trying to buy. Items such as jewelry are potentially more prone to fraud, because a buyer could resell it at a profit and then default on the loan. Furniture and other big items that are used every day tend to be lower-risk.</p><p>The company typically charges merchants higher fees if they want Affirm to approve somewhat-riskier consumers. Those who miss a payment on an Affirm plan typically can't be approved for another one until they have caught up. Riskier borrowers or those financing an expensive item can be required to make a down payment on an Affirm loan, but others can walk away with a new mattress for $0 down.</p><p>Affirm has been offering more payment plans for small-ticket purchases. That move, as well as easing underwriting standards since last year, helped increase Affirm's volume growth—and placed the company at the center of mounting concern regarding consumer credit. While missed consumer-loan payments overall have hovered near record lows for much of the pandemic, they recently began rising at a sizable clip at Affirm and other fintech lenders.</p><p>Rising interest rates are another challenge. Because Affirm isn't a bank, it can't fund itself with deposits. Instead, it relies on securitization deals, warehouse lines mostly from banks and selling loans to a range of investors, including insurance companies and asset managers. About 20% of its funding has variable interest rates, the company said.</p><p>Cushioning the impact of rising rates and delinquencies is that most of its payment plans are short-term, according to Affirm. They range from six weeks to five years, but average five months.</p><p>The stakes are high if delinquencies surge. Affirm borrows from roughly 20 banks, pension funds and other companies, and its most-conservative lenders generally require that its three-month average for payments that are late by at least 30 days doesn't exceed 6%. That figure was around 2% as of May, up from roughly 1% during its 2021 fiscal year, and in line with where it was prepandemic.</p><p>That is \"my primary thing that I watch like a hawk,\" Mr. Levchin said.</p><p>SHARE YOUR THOUGHTS</p><p>How well is Affirm positioned to handle an economic downturn? Join the conversation below.</p><p>Competitors include Afterpay, Klarna Bank AB and PayPal Holdings Inc. Some big banks have introduced programs that look like installment plans. Mr. Levchin said Apple Inc.'s recent decision to enter the sector confirms that these types of payment plans will gain more traction.</p><p>Affirm remains committed, Mr. Levchin said, to the same broad vision it had when it launched: to chip away at credit-card use. \"I think the biggest ill in this world is revolving credit,\" he said.</p><p>A slowdown in retail sales could pose another challenge, especially since buy now, pay later firms often charge merchants higher fees than credit-card companies do. Merchants also have to pay more to offer Affirm payment plans that charge no interest, especially when rates are rising.</p><p>Mr. Levchin said merchants and manufacturers will continue to want the Affirm plans as a way to boost their sales.</p><p>\"In a recession,\" he said, \"0% is very attractive.\"</p><p>Write to AnnaMaria Andriotis at annamaria.andriotis@wsj.com</p><p>Affirm CEO Says Next Recession Will Silence Fintech Lender's Doubters</p>",
+  "published": "2022-08-13T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 4175,
+          "end": 4184
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

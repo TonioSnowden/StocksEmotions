@@ -1,0 +1,84 @@
+{
+  "_id": "19cc80b5a1548295a6862454e47b53d2a706481f89de6ff6a9596cb0ff0a46ff",
+  "feed": "economist-newspaper",
+  "title": "Big tech and antitrust: An unEpic victory",
+  "text": "<p>On a skim of the 185-page decision, Apple can claim to be the winner. Broadly speaking, Epic had accused the iPhone-maker of abusing a monopoly over its App Store by, among other things, forcing developers to use Apple's in-app payment system and to pay excessive commissions of up to 30%. Not so, the judge argued. In her view, the relevant market is not the iPhone or the App Store, but \"digital mobile gaming transactions\", where Apple competes with Google's Android operating system. Although Apple controls more than half of this market, that does not amount to wrongdoing. \"Success is not illegal,\" Ms González Rogers wrote, adding that no evidence was presented to suggest that Apple erected barriers to entry or engaged in conduct decreasing output or innovation.</p><p>Tim Sweeney, Epic's boss, did not hide his disappointment. \"Today's ruling isn't a win for developers or for consumers,\" he tweeted, and vowed to fight on \"for fair competition...for a billion consumers\". Apple did not hold back its glee. In a statement, Kate Adams, Apple's general counsel, called it \"a resounding victory\". \"We're extremely pleased with this decision.\"</p><p>On closer inspection, the bag begins to look decidedly mixed for the tech giant. The court did not say it is impossible to show that Apple is an illegal monopolist--only that Epic had failed to do so. The judge also found that, contrary to Apple's protestations, the App Store's operating margins, which one of Epic's expert witnesses put at 75%, are \"extraordinarily high\".</p><p>Most important, Ms González Rogers ruled that although Apple did not violate federal antitrust law, it had engaged in anticompetitive conduct under California's competition law. It did so by banning developers from including information in their apps that tells users how they can subscribe or buy digital wares outside the App Store. Such \"anti-steering\" provisions, the judge said, \"hide critical information from consumers and illegally stifle consumer choice\".</p><p>The decision will take effect in 90 days, though Epic has already appealed and Apple may do so, too. The case could end up in America's Supreme Court. Whatever its final outcome, it will pile more pressure onto Apple to loosen its tight control of the App Store. This could lower its margins and weaken Apple's services business, which analysts expect to be a big source of growth and profits. Apple's share price fell by more than 3% after the verdict was handed down, lopping $85bn off its market capitalisation, three times unlisted Epic's private valuation.</p><p>Perhaps in anticipation of the verdict, Apple has recently made some concessions. On August 26th, in a settlement with app developers, it agreed to allow them to email users about payment methods outside the App Store. On September 2nd, in another settlement, this time with Japan's Fair Trade Commission, it consented to letting apps that provide access to digital content, such as books and music, direct users to other ways to pay.</p><p>Apple will also have to comply with a new South Korean law banning app stores, including its own and Google's, from requiring users to pay using the stores' payment systems (see next article). The European Union and even America's polarised Congress have similar laws in the works. Apple may, just about, be able to claim a victory in the courtroom battle against Epic. But the drawn-out regulatory world war is far from over.</p>",
+  "published": "2021-09-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 433,
+          "end": 438
+        },
+        {
+          "start": 685,
+          "end": 690
+        },
+        {
+          "start": 977,
+          "end": 982
+        },
+        {
+          "start": 2981,
+          "end": 2986
+        },
+        {
+          "start": 36,
+          "end": 41
+        },
+        {
+          "start": 1574,
+          "end": 1579
+        },
+        {
+          "start": 3263,
+          "end": 3268
+        },
+        {
+          "start": 1039,
+          "end": 1044
+        },
+        {
+          "start": 1277,
+          "end": 1282
+        },
+        {
+          "start": 1384,
+          "end": 1389
+        },
+        {
+          "start": 2195,
+          "end": 2200
+        },
+        {
+          "start": 213,
+          "end": 218
+        },
+        {
+          "start": 497,
+          "end": 502
+        },
+        {
+          "start": 2063,
+          "end": 2068
+        },
+        {
+          "start": 2378,
+          "end": 2383
+        },
+        {
+          "start": 2586,
+          "end": 2591
+        },
+        {
+          "start": 2287,
+          "end": 2292
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

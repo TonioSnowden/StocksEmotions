@@ -1,0 +1,34 @@
+{
+  "_id": "733cf8a4b70e1626ede8abb2e4b15a43bb12bb369a3889fd4a3007ef5baa3f10",
+  "feed": "wall-street-journal",
+  "title": "Bausch Health Hires Advisers Amid Patent Loss, Spinoff Controversy; The company's debt has been trading in distressed territory since February",
+  "text": "<p>Losing the patent battle means Bausch will likely face competition from generics manufactured by companies like Morristown, N.J.-based Alvogen Inc. Bausch has already launched an appeal to the decision.</p><p>\"We expect that generic competition will enter the market no later than year-end 2024—much earlier than our previous base-case assumption of January 2028,\" S&amp;P Global Ratings analysts wrote in a recent report after the ruling. They also estimated that Xifaxan contributes to about 50% of Bausch's total pretax earnings.</p><p>The potential revenue drop from Xifaxan adds additional pressure on the company as it faces an uproar from its creditors over the spinoff of its eye-care business, Bausch + Lomb Corp., which saw a limited initial public offering of shares this spring. Bausch pursued the spinoff at the behest of activist investors Carl Icahn and Glenview Capital Management.</p><p>Unsecured creditors have hired law firm Paul, Weiss, Rifkind, Wharton &amp; Garrison LLP to advise them on possible legal claims stemming from the spinoff, which they contend transferred value away from them, according to people familiar with the matter. They have already communicated their concerns about the spinoff to the company in writing, the people familiar said.</p><p>Secured creditors have separately brought on Gibson Dunn &amp; Crutcher LLP for advice in relation to the spinoff, people familiar with the matter said.</p><p>Paul Weiss and Gibson Dunn didn't immediately return requests for comment.</p><p>Without a patent for Xifaxan, losses may increase for holders of Bausch's roughly $20 billion in debt. Franklin Templeton and JPMorgan Chase &amp; Co. number among the company's largest creditors, and the company carries $12 billion in unsecured bonds and $7.7 billion in secured debts, company filings show.</p><p>Some of Bausch's bonds are trading around 40 cents on the dollar, according to Advantage Data, implying losses of about $7 billion for holders who purchased the debt at face value.</p><p>Bausch said on Monday that it plans to continue with the spinoff of its eye-care business, which it acquired in 2013, and had transferred additional shares in Bausch + Lomb to an unrestricted subsidiary. The company likely has enough capacity under its debt documents to sell the shares and pay existing shareholders with the proceeds through dividends, analysts said.</p><p>Formerly known as Valeant Pharmaceuticals International Inc., the company was the subject of congressional hearings and government investigations over price increases of certain drugs before new management took over and renamed the company in 2018.</p><p>Alexander Gladstone and Andrew Scurria contributed to this article.</p><p>Write to Alexander Saeedy at alexander.saeedy@wsj.com</p>",
+  "published": "2022-08-22T20:47:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1590,
+          "end": 1610
+        },
+        {
+          "start": 1600,
+          "end": 1620
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000002,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.3841858e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

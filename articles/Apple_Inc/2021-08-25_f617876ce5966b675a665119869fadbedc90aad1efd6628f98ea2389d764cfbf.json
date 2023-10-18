@@ -1,0 +1,20 @@
+{
+  "_id": "f617876ce5966b675a665119869fadbedc90aad1efd6628f98ea2389d764cfbf",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Privacy Law Will Help China Flex Its Muscles on Digital Trade",
+  "text": "<p>Cybercriminals' Ten Favorite Industries</p><p>The list may surprise you.... New avenues of attack, brought forth by the COVID-19 pandemic, threaten life online as we now know it.</p><p>Read more</p><p>China's Privacy Law</p><p>What it means for U.S. companies: China's new privacy law outlines Beijing's mandate to shape global discussions about data protections, giving the government greater power to scrutinize how companies transfer information abroad.</p><p>The Personal Information Protection Law, unveiled Friday, imposes rules on how companies can use Chinese citizens' data and the conditions firms must meet to share information with computer servers or business partners outside the country. Companies that wish to transfer information internationally will have to use state-approved contracts, receive certification of data practices by a state-approved body or undergo a security review by Chinese cyber regulators.</p><p>Tech firms such as Microsoft and Apple increasingly have stored customer data inside China as the Chinese market has expanded and the government began unveiling data-security rules. The new privacy statute could push more firms to follow suit after it comes into force Nov. 1.</p><p>Read the full story.</p><p>More News</p><p>Cyber summit: President Biden is expected to host executives from major technology, financial and energy companies on Wednesday for a summit on national cybersecurity, a gathering that comes amid heightened fears about proliferating disruptive attacks on American businesses and infrastructure. (WSJ)</p><p>Joining forces: The U.S. and Singapore agreed to work together more closely on cybersecurity training, exercises and information sharing. The countries said they will also increase their coordination in responding to significant cyber incidents. (InfoSecurity Magazine)</p><p>Microsoft's low-code tool led to data exposure. Misconfigured web applications built with Microsoft Corp.'s Power Apps low-code tool left business data accessible on the internet. Information belonging to American Airlines, J.B. Hunt and other companies was viewable, according to cybersecurity vendor UpGuard Inc. After UpGuard notified Microsoft, the systems were secured and Microsoft issued a tool for Power Apps users to check whether their web applications are secure. Microsoft also changed a setting on Power Apps to default to a secure mode rather than open mode. (PC Magazine)</p><p>Bahrain activists targeted by surveillance software, report says. The phones of nine activists in Bahrain were invaded with surveillance software from NSO Group, according to a report from Citizen Lab at the University of Toronto. Israel's NSO Group said it hadn't seen the report and said if it received \"reliable\" information about the misuse of its tools, it would take action. (Associated Press)</p><p>Pysa attacks: Greater New York Mutual Insurance Co. said its investigation of a May attack by the Pysa ransomware group found that personal data about 3,250 current and former employees, as well as the firm's board, might have been exposed to hackers. The insurer couldn't definitively rule out that information, including financial and payment card details, hadn't been compromised.</p><p>The company didn't receive a ransom note and restored its systems from backups, it said.</p><p>A group of security researchers known as MalwareHunterTeam says that Pysa attacks hunt for 123 keywords related to financial documents and sensitive files containing words such as \"crime,\" \"investigation\" and \"fraud.\" (Bleeping Computer)</p>",
+  "published": "2021-08-25T13:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 932,
+          "end": 937
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

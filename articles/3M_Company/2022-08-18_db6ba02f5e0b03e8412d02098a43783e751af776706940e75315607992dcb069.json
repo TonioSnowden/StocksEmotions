@@ -1,0 +1,94 @@
+{
+  "_id": "db6ba02f5e0b03e8412d02098a43783e751af776706940e75315607992dcb069",
+  "feed": "wall-street-journal",
+  "title": "Pro Take: 3M Earplug Judge Casts Long Shadow Over Bankruptcy Case; A federal judge barred 3M from using bankruptcy court as a platform to relitigate her rulings in mass earplug injury lawsuits",
+  "text": "<p>Juries in Judge Rodgers' court have so far awarded $265 million in 10 bellwether trials to military veterans who claimed that 3M's earplugs left them with lasting hearing damage. 3M, which denies the earplugs are unsafe, last month moved responsibility for the remaining injury litigation to their manufacturer, Aearo, then placed it in bankruptcy.</p><p>A bankruptcy court in Indianapolis is weighing whether to grant 3M the same stay on earplug litigation that its subsidiary Aearo received by filing for chapter 11 protection. That would defeat Judge Rodgers' jurisdiction over the remaining lawsuits, but 3M might have to live with her past decisions, which stripped away key legal defenses and fueled the company's legal and financial exposure.</p><p>A stated rationale for the chapter 11 filing was for Aearo—and by extension 3M—to resolve the earplug litigation based on a \"fair and complete evidentiary record\" in bankruptcy court. The statement bothered Judge Rodgers, who responded by barring 3M from raising in bankruptcy court any issues it had already fought and lost against a particular plaintiff in her courtroom.</p><p>3M is barred from \"supporting, directly or indirectly, financially or otherwise, any collateral attack on this court's orders by any other parties in any other forum, including Aearo,\" according to her written ruling.</p><p>A 3M spokesman said it is reviewing the judge's ruling and will take appropriate next steps.</p><p>\"As we do so, we will also continue to pursue a more efficient and equitable resolution of these matters through the bankruptcy court proceedings,\" the company spokesman said.</p><p>Judge Rodgers deferred to the bankruptcy court to decide for itself how 3M should be treated, while also indicating she would continue to enforce the \"preclusive effect\" of her past decisions. The judge was careful to show respect to the bankruptcy court, \"while also drawing a clear line in the sand,\" said Lindsey Simon, a law professor at the University of Georgia School of Law.</p><p>Plaintiffs' lawyers disagree with 3M that bankruptcy is a solution and say the company manufactured the chapter 11 filing to get away from Judge Rodgers because it didn't like her decisions. Recall that 3M is bankrolling Aearo, which can't cover the administrative costs of chapter 11 without its parent's support, much less pay enough to resolve the largest tort litigation in U.S. history.</p><p>Assuming that 3M wins protection in bankruptcy court from further litigation, those 230,000 injury cases still must be resolved somehow, and Judge Rodgers' past rulings could now follow 3M as it negotiates settlement values for each of those claims. That includes her rejection of a legal defense that argued it couldn't be held liable as a government contractor for a product the military requested.</p><p>The company also can't escape its jury losses in bankruptcy court under Tuesday's ruling, and 3M has said it would cover all amounts Aearo is deemed to owe in an eventual chapter 11 plan.</p><p>Judge Rodgers made the earplug litigation into a major financial headache for 3M. She might lose control over the lawsuits now, but her influence will linger.</p><p>Write to Andrew Scurria at Andrew.Scurria@wsj.com</p>",
+  "published": "2022-08-18T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 10,
+          "end": 12
+        },
+        {
+          "start": 90,
+          "end": 92
+        },
+        {
+          "start": 126,
+          "end": 128
+        },
+        {
+          "start": 178,
+          "end": 180
+        },
+        {
+          "start": 411,
+          "end": 413
+        },
+        {
+          "start": 600,
+          "end": 602
+        },
+        {
+          "start": 816,
+          "end": 818
+        },
+        {
+          "start": 986,
+          "end": 988
+        },
+        {
+          "start": 1112,
+          "end": 1114
+        },
+        {
+          "start": 1331,
+          "end": 1333
+        },
+        {
+          "start": 1668,
+          "end": 1670
+        },
+        {
+          "start": 2011,
+          "end": 2013
+        },
+        {
+          "start": 2179,
+          "end": 2181
+        },
+        {
+          "start": 2381,
+          "end": 2383
+        },
+        {
+          "start": 2553,
+          "end": 2555
+        },
+        {
+          "start": 2860,
+          "end": 2862
+        },
+        {
+          "start": 3031,
+          "end": 3033
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.95004,
+        "baseWeight": 17.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.95004165,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

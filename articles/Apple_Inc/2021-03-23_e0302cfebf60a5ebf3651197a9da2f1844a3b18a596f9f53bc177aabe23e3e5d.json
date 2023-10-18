@@ -1,0 +1,20 @@
+{
+  "_id": "e0302cfebf60a5ebf3651197a9da2f1844a3b18a596f9f53bc177aabe23e3e5d",
+  "feed": "wall-street-journal",
+  "title": "Market Reshuffle Has Room to Run --- Things look good for cyclicals as rising rates affect companies at different stages of maturity differently",
+  "text": "<p>To understand why, think of the two major elements that go into evaluating what an investment is worth. First, you need to consider how much money you expect it will provide in the years ahead. Next, since cash today is worth more than hoped-for cash tomorrow, you need to apply a discount rate -- typically the yield on the 10-year Treasury note, plus a premium for the risk you are taking on -- to that expectation.</p><p>Changes in both growth assumptions and the discount rate can have big effects on valuation, and that might offer a clue to why the stock market's deck has been reshuffled so violently, points out Robert Barbera, the director of the Center for Financial Economics at Johns Hopkins University.</p><p>The stocks that were among the best performers last year were the shares of companies that investors expect to grow strongly into the far-off future. The pandemic didn't put a dent in their businesses, and in some cases even pushed sales higher. Think of companies such as Apple, Netflix and Amazon.com. By the same token, the end of the pandemic, and the combined effects of the substantial savings households built up over the past year and the latest round of support from the government, might not improve their growth prospects. Their business might even be in for a bit of a hangover.</p><p>Shares of these companies struggled this year, as the yield on the 10-year Treasury pushed to 1.73% -- and looks likely to go higher still if the hoped-for recovery comes true.</p><p>To see why, consider the valuation of a company that is expected to increase its earnings by 20% a year for the next 25 years. Say it now earns $1 a share, and investors are putting a discount rate of 6% on its future earnings. A standard discounted cash-flow analysis would place a value of about $182 on those future earnings. Now imagine that the yield on the 10-year Treasury note goes up by 2 percentage points and the discount rate on future earnings is bumped up to 8% as a result. The value of those earnings drops to about $129.</p><p>Now consider a more middling, cyclical company -- a manufacturer, say, with earnings that fluctuate with the economy, and that have lately been expected by investors to grow by 5% over the long haul. With a discount rate of 6%, its future earnings are valued at about $22. Now imagine that a revival in the economy pushes Treasury yields up, sending its discount rate to 8%. But the better economy prompts investors to raise their long-term growth expectations for the company to 8% -- not necessarily because its long-term outlook has brightened specifically, but because rising growth fuels optimism. Now the expected value of that company's future earnings is $25.</p><p>The cyclical companies that could fall under this rubric -- industrial conglomerates, retailers, capital-equipment makers, airlines -- vastly outnumber the handful of big companies that drove the stock market's performance last year. The upheaval in the stock market may have only just begun.</p>",
+  "published": "2021-03-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 983,
+          "end": 988
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

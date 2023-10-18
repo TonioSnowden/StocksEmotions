@@ -1,0 +1,62 @@
+{
+  "_id": "f03923511f2cfa4f28582955c44a48ab379673588bd2b15945ec0a56c1094f1c",
+  "feed": "wall-street-journal",
+  "title": "'Pinocchio' Review: Disney's Wooden Remake; Tom Hanks stars as Geppetto and Keegan-Michael Key and Joseph Gordon-Levitt provide voices in Robert Zemeckis's live-action adaptation that falls short of the 1940 cartoon classic.",
+  "text": "<p>Thursday, Disney+</p><p>The other love affair being revisited is that between film directors and the Pinocchio story itself, about the puppet who comes to life and gains wisdom about the world. It's been adapted multiple times with mixed success, including the Disney animated classic; the Roberto Benigni calamity of 2002; the Matteo Garrone version of 2019 (with Mr. Benigni as Geppetto); and the yet-to-be-seen Guillermo del Toro stop-motion adaptation, which promises to be deliciously grotesque and has been stringing along Del Toro lovers for years. (Advance photos make the Mexican director's Pinocchio look like he was carved out of pine with a jackknife.) It will be here by the holidays, an almost-guaranteed gift.</p><p>Meanwhile, Disney+ is presenting a remake that is close to a frame-by-frame reiteration of what is probably not the fan favorite among classic Disney fairy tales, though the studio's urge to produce live-action remakes seems irresistible, like cash. (Were the live-action \"Lion King\" or \"Beauty and the Beast\" an improvement on anything?) Disney's 1940 \"Pinocchio\" was softened and brightened considerably from the original—which the Risorgimento-era man of letters Carlo Collodi began serializing in 1880—yet is one of the grimmer films in the catalog. Upon a revisit, the reasons are obvious: It's dark, literally, despite an often-glorious Technicolor palette. Its world is full of grasping predators, both human and animal. And Pinocchio's problems are of his own making: Unlike Bambi, whose mother is shot by hunters, or Dumbo, whose mother is abused by circus villains, Pinocchio brings his woes upon himself—skipping school to follow the Fox and Cat to Stromboli's puppet show, or getting on that dubious boat to Pleasure Island, where young boys are given beer and cigars, turned into donkeys and trafficked to the salt mines.</p><p>It's Pinocchio who doesn't listen to his conscience—a job that's been outsourced to Jiminy Cricket. And Pinocchio who neglects what the Blue Fairy has told him he has to do, if he wants to be a real boy.</p><p>Add the insipid voice (Benjamin Evan Ainsworth now, Dickie Jones then) and Pinocchio is hard to warm to. While the non-Disney versions of the story have made the physical manifestation of Pinocchio a matter of interpretive virtuosity, the Zemeckis version features a computerized title character who's a duplicate of the cartoon version. Jiminy Cricket, voiced by Joseph Gordon-Levitt, may look now like a mutant cockroach, but he's the same flustered, cracker-barrel philosopher he was in the past. Keegan-Michael Key is Honest John, the fox; Cynthia Erivo is the Blue Fairy, and Jaquita Ta'le is a new character, the puppeteer behind Sabina, one of Pinocchio's co-stars in the exploitative marionette show run by Stromboli (Giuseppe Battiston).</p><p>Mr. Zemeckis, who cowrote the screenplay with Chris Weitz, adds some depth, albeit obliquely, to the old Disney version (and the Collodi tale, too, for that matter) by framing Geppetto as a grieving parent. It's difficult to tell exactly what Mr. Hanks is muttering at the beginning of the film as Pinocchio is being put together, but Geppetto's model for the puppet is a real boy, in a black-and-white photo; he loved Geppetto's clocks, so they can never be sold. It's only when Pinocchio disappears that Geppetto sells his handiwork, to finance a search that will lead to the belly of a sea beast and some special effects straight out of Cecil B. DeMille.</p><p>It's a toss-up whether \"Pinocchio\" qualifies as a musical—the songs don't dominate, though there are a couple of undistinguished new numbers and reprises of \"I've Got No Strings,\" \"Hi-Diddle-Dee-Dee (An Actors Life for Me)\" and \"When You Wish Upon a Star.\" The last of these might be a revelation to the youngest viewers, who'll recognize the company theme music even if they never knew its source. They'll be kept safe, of course—the cigars have certainly disappeared from Pleasure Island and they're all drinking root beer, as we're told several times lest there be a misunderstanding. There are no references to \"Gypsies\" or anything similarly offensive. And the resolution of the story, while not exactly a shock, is a departure from that of its ancestor, which in contrast now seems almost licentious. The Blue Fairy may have brought life to Pinocchio, but no one here is delivering anything particularly fresh. Or alarming. For that, we wait till Christmas.</p><p>'Pinocchio' Review: Disney's Wooden Remake</p>",
+  "published": "2022-09-08T07:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999815,
+      "offsets": [
+        {
+          "start": 10,
+          "end": 17
+        },
+        {
+          "start": 20,
+          "end": 26
+        },
+        {
+          "start": 254,
+          "end": 260
+        },
+        {
+          "start": 255,
+          "end": 261
+        },
+        {
+          "start": 726,
+          "end": 733
+        },
+        {
+          "start": 858,
+          "end": 864
+        },
+        {
+          "start": 862,
+          "end": 868
+        },
+        {
+          "start": 2894,
+          "end": 2900
+        },
+        {
+          "start": 2910,
+          "end": 2916
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.950042,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.95004165,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "d294c09f0ce09cae546503c24e5c05c175b4eae59231c5e6276bf2147c0a83e3",
+  "feed": "wall-street-journal",
+  "title": "Amazon Web Services to Share Emissions Data as Tech Giants Race to Green the Cloud; Companies that outsource their computing to the cloud increasingly want the associated emissions data",
+  "text": "<p>On Tuesday, the company introduced a carbon-tracking tool for AWS users that estimates a customer's emissions based on where they are and the share of green electricity powering the data centers they are using. It also estimates emissions of their data-center use from before the tool was introduced, and the carbon savings they have made since switching to the cloud.</p><p>Using the cloud for computing tasks vastly reduces emissions compared with running the same operation on an in-house server, experts say. Efficiency improvements mean that the sector's share of global electricity demand has been kept almost level in recent years—even as data use has exploded. Excluding cryptocurrency mining, data centers accounted for around 1% of global electricity use in 2020, according to the International Energy Agency.</p><p>Mr. Mytton said efficiency gains should keep energy consumption in check for the next few years, but it is possible those gains will slow. \"Where to find those efficiency improvements is an important question for the future,\" he said.</p><p>Google and Azure started offering their cloud customers carbon-tracking tools in October 2021 and January 2020, respectively. None of the big three breaks out the emissions of their data-center businesses.</p><p>AWS's decision to share more data illustrates how companies are paying closer attention to emissions from goods and services they buy. For an AWS customer, data-center emissions fall under the \"Scope 3\" category—emissions from suppliers and customers. Mr. Mytton said only a few businesses are focusing on data-center emissions, but predicted more will follow.</p><p>\"This is going to be a lot more important in the future as governments start to regulate the disclosure requirements,\" he said. The U.S. Securities and Exchange Commission is among regulators seeking to mandate emissions disclosures.</p><p>Cloud-computing customers increasingly want that data, said Christopher Wellise, AWS's director of sustainability. \"First of all for their own reporting purposes, but they also have very aggressive [emissions] targets of their own.\"</p><p>AWS has already been providing emissions data to some of its customers, such as Salesforce.com Inc., Mr. Wellise said. Salesforce has been asking for granular data and was among hundreds of customers to help Amazon test the tool, said Patrick Flynn, Salesforce's head of sustainability.</p><p>\"In Scope 3, things do get complex,\" Mr. Flynn said. \"We need disclosure from all organizations.\"</p><p>Salesforce has been expanding the reporting of its Scope 3 emissions since 2012, and in April will publish a full accounting for fiscal 2022, which ended Jan. 31. Collaboration between suppliers and customers will be essential for reducing them, Mr. Flynn said.</p><p>\"For any of us who are leading sustainability at any company, most of us have sort of maxed out on all of those strategies that we can only do alone,\" he said.</p><p>Amazon says it is on track to achieve 100% renewable energy across its business by 2025, five years ahead of its 2030 target. The plan involves procuring enough renewable power to match its energy consumption, even though the company's operations will still rely on fossil-fuel-based power when there isn't enough renewable electricity.</p><p>Google has been buying enough renewable energy to match its consumption since 2017. It plans to run its operations with round-the-clock \"carbon-free\" energy, which may include nuclear and carbon-capture, by 2030. In 2020, Google said its data centers ran on such electricity 67% of the time, up from 61% in 2019.</p><p>By 2030, Microsoft plans to match all its electricity consumption 100% of the time with \"zero-carbon energy\" purchases, which may also encompass nuclear and carbon-capture, expanding on its previous goal of buying enough renewable energy to match its needs by 2025.</p><p>Running Amazon's whole operations, including its globe-spanning logistics network, on renewable energy represents an enormous undertaking. \"If you look at the breadth and complexity and size of our business, I think it's extremely ambitious,\" Mr. Wellise said.</p><p>The company is taking steps toward using only renewable power. One of the biggest hurdles is increasing battery storage to store excess wind and solar power. In December, Amazon said it would bring its battery-storage capacity to 220 megawatts after pairing a solar project in Arizona with 150 megawatts of battery storage.</p><p>\"We are increasingly investing in energy storage and that's really the first step toward 24/7,\" Mr. Wellise said.</p><p>Write to Dieter Holger at dieter.holger@wsj.com</p><p>Amazon Web Services to Share Emissions Data as Tech Giants Race to Green the Cloud</p>",
+  "published": "2022-03-01T12:51:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 2163,
+          "end": 2177
+        },
+        {
+          "start": 2468,
+          "end": 2478
+        },
+        {
+          "start": 2202,
+          "end": 2212
+        },
+        {
+          "start": 2333,
+          "end": 2343
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

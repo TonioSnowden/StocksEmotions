@@ -1,0 +1,33 @@
+{
+  "_id": "ff4e7c4bc3257508f36b4301954fe32137bf29e237199d230371c728b13e6971",
+  "feed": "wall-street-journal",
+  "title": "Trading Newbies Turn to TikTok and Discord to Share Hot Stock Tips; Social media platforms have become the new Wall Street trading desks",
+  "text": "<p>1. A new group of social media-enabled day traders is helping push stocks to records and turning companies into market sensations.</p><p>Companies like NIO and Tesla are among those that have generated chatter. A surge in day trading has helped push these stocks to records amid the online buzz. \"People fall in love with [some stocks] and they get in these echo chambers, where they are all shouting, like, 'We're going to buy Tesla forever!'\" said Blake Bassett, a 31-year-old delivery driver who began trading several years ago. \"People post all day like it's a football game.\"</p><p>2. Shares of Chinese electric-vehicle maker NIO Inc. have received some of the most enduring interest from individual investors.</p><p>NIO is among the most searched stocks on Google. Video snippets under the tag #nio have accumulated more than 35 million views on the social-media platform TikTok, with many young investors encouraging others to buy shares of the company or questioning if it is the next Tesla. On Twitter, it was mentioned nearly 6,800 times on a single day in November, up from about 100 mentions a day at the start of 2020. This online excitement has coincided with a rush of trading activity. NIO has been the second-most actively traded stock in the U.S. market over the past year, only trailing trading in Apple Inc., which has a market valuation more than 20 times that of NIO.</p><p>3. It has become easier for individual traders to dabble in risky instruments.</p><p>Online discussions among investors aren't necessarily new—in the late 1990s internet chat rooms dedicated to stocks helped sustain the tech-stock bubble—but social media is more widespread than ever before. Some new investors are drawn by the camaraderie that the platforms offer. That, meanwhile, has coincided with an industrywide move to commission-free trading, while most brokerages have made it easier to dabble in risky instruments like options.</p><p>4. Some industry veterans warn social-media posts can send too rosy a message about beginner trading.</p><p>\"Everybody only posts the wins,\" said Anthony Denier, chief executive of Webull, a brokerage that is popular with younger investors. \"Nobody sends a selfie on Instagram when they just woke up after a bender. It's when they're having their first cocktail for the night and they're all done up. It's the same for day traders\" posting their profits and losses. This can draw new traders in.</p><p>Read the original article by Caitlin McCabe, Gunjan Banerji and Mischa Frankl-Duval here.</p>",
+  "published": "2021-01-12T16:47:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999982,
+      "offsets": [
+        {
+          "start": 1299,
+          "end": 1308
+        },
+        {
+          "start": 1299,
+          "end": 1309
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9025045,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 4.529953e-06,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

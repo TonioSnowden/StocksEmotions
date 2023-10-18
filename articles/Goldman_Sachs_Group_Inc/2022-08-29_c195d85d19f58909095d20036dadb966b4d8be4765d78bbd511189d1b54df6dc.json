@@ -1,0 +1,38 @@
+{
+  "_id": "c195d85d19f58909095d20036dadb966b4d8be4765d78bbd511189d1b54df6dc",
+  "feed": "ftcomall",
+  "title": "Global equities drop on warning over sustained rate rises",
+  "text": "<p>Global stocks weakened and Treasury yields climbed on Monday after central bankers warned investors to prepare for a sustained period of higher interest rates.</p> <p>Policymakers from the US Federal Reserve and European Central Bank used speeches at last week's annual meeting in Jackson Hole, Wyoming, to reiterate their commitment to fighting inflation, despite the risk of pushing the economy towards recession.</p> <p>Wall Street's benchmark S&amp;P 500 stock index fell 0.7 per cent on Monday, extending its losses after a<a href=\"https://www.ft.com/content/bdaa36f1-c6b9-4caf-98c3-b142d695dca9\"> sharp decline</a> when Fed chairman Jay Powell spoke last Friday. The tech-dominated Nasdaq Composite shed 1 per cent.</p> <p>US Treasury prices, which were more muted in the immediate aftermath of Powell's speech, slid more steeply on Monday. The yield on the two-year note, which is particularly sensitive to short-term interest rate expectations, hit 3.48 per cent — its highest level since 2007 — before retreating to 3.43 per cent, a 0.03 percentage point increase for the day. Bond yields rise when prices fall.</p> <p>The benchmark 10-year Treasury yield rose 0.07 percentage points to 3.11 per cent.</p> <p>The impact of Powell's hawkish speech, in which he warned that the Fed&#xa0; “<a href=\"https://www.ft.com/content/f2a6d9ac-24de-4e10-8fd6-924e8a45b047\">must keep at it until the job is done</a>”, was also reflected in the Vix volatility index, a measure of expected swings in US stocks that is commonly referred to as Wall Street's “fear gauge”. The Vix rose as high as 27.7, its highest point since mid-July.</p> <p>“Officials remain strongly committed to returning inflation to the central bank's 2 per cent target,” said Mansoor Mohi-uddin, chief economist at Bank of Singapore. “We think the chances of a 0.75 percentage point move next month have risen and will watch August's US payrolls and consumer inflation data closely.”</p> <p>Several senior European policymakers also cautioned that monetary policy would have to stay tight in the eurozone for an extended period.</p> <p>The continent's main stock indices fell but recovered somewhat from their early lows. The benchmark Euro Stoxx 600 was 0.8 per cent weaker. Germany's Dax dropped 0.6 per cent and the Cac 40 in Paris was down 0.8 per cent. London was closed for a public holiday.</p> <p>Japan's benchmark Topix led markets lower in Asia with a drop of 1.8 per cent. The Hang Seng fell 0.7 per cent.</p> <p>Italian 10-year bond yields rose 0.12 percentage points to 3.79 per cent, approaching the 4 per cent threshold that is seen by many as the point where its debt starts to look unsustainable.</p> <p>Japan's yen fell 0.8 per cent to ¥138.70 against the dollar. Sterling slipped 0.4 per cent to $1.17, touching its lowest level against the greenback since the early days of the coronavirus pandemic after Goldman Sachs cut its economic growth expectations for the UK to 3.5 per cent, from 3.7 per cent previously.</p> <p><em>Additional reporting by Martin Arnold in Frankfurt</em></p><p>Source: Hudson Lockett in Hong Kong, Philip Stafford in London and Nicholas Megaw in New York 2022 'Global equities drop on warning over sustained rate rises' FT.com 29 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-29T20:16:06.289Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2648,
+          "end": 2661
+        },
+        {
+          "start": 2628,
+          "end": 2641
+        },
+        {
+          "start": 2648,
+          "end": 2655
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

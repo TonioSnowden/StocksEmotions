@@ -1,0 +1,42 @@
+{
+  "_id": "7554e89db33e8845de3df7dada88cc677cab708a2a952416a5d18f9260b006bf",
+  "feed": "wall-street-journal",
+  "title": "Avaya Taps Legal, Financial Advisers to Look at Debt Options; The enterprise communications company is assessing its options for a debt maturity next year",
+  "text": "<p>The cloud-communications company said on Tuesday that there is substantial doubt on its ability to continue as a going concern in light of a debt maturity next year and third-quarter revenues that came in \"substantially lower\" than Avaya expected.</p><p>Representatives of Avaya and Kirkland didn't immediately respond to requests for comment. AlixPartners declined to comment.</p><p>Avaya's securities have cratered since late last month, when the company disclosed that earnings for the third quarter would miss previously released guidance by more than 60%.</p><p>Avaya sold $600 million worth of bonds and leveraged loans arranged by Goldman Sachs Group Inc. and JPMorgan Chase &amp; Co. in June, shortly before disclosing that it would miss its earnings forecasts. Prices of the newly issued debt plummeted on the disclosure, leaving debt investors who participated in the deal with paper losses exceeding $100 million.</p><p>Lenders have engaged law firm Akin Gump Strauss Hauer &amp; Feld LLP to represent their interests, the people familiar with the matter said.</p><p>On a call with investors and analysts Tuesday, Chief Financial Officer Kieran McGrath attributed the underperformance to the loss of high-margin revenue as the company shifts from a licensing sales model to subscription sales for its cloud-based software.</p><p>Matt Wirz contributed to this article</p><p>Write to Alexander Gladstone at alexander.gladstone@wsj.com and Andrew Scurria at andrew.scurria@wsj.com</p><p>Avaya Taps Legal, Financial Advisers to Look at Debt Options</p>",
+  "published": "2022-08-09T17:14:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 620,
+          "end": 627
+        },
+        {
+          "start": 620,
+          "end": 633
+        },
+        {
+          "start": 620,
+          "end": 644
+        },
+        {
+          "start": 616,
+          "end": 640
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0042157,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.004215598,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

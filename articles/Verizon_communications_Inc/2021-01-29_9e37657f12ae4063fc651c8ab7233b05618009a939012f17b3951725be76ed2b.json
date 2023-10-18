@@ -1,0 +1,24 @@
+{
+  "_id": "9e37657f12ae4063fc651c8ab7233b05618009a939012f17b3951725be76ed2b",
+  "feed": "wall-street-journal",
+  "title": "Porsche Venture Arm Backs Cresta, AI Startup With A-List Co-Founder; Technology from the startup, co-founded by Sebastian Thrun , will be deployed in Porsche's U.S. operations",
+  "text": "<p>The San Francisco-based startup was co-founded by Sebastian Thrun , who played a pivotal role in leading autonomous-vehicle development at Google and is a co-founder of Udacity Inc. It counts Greylock Partners and Andreessen Horowitz among its previous investors, raising more than $21 million in venture capital to date. Its customers include software company Intuit Inc . and telecommunications companies Cox Communications Inc . and Verizon Communications Inc .</p><p>Cresta sells conversational AI software, primarily to contact centers. The technology, which can understand human text or speech, can handle common customer inquiries directly through chatbots or other means, but also provides real-time guidance for agents speaking with customers.</p><p>Mr. Thrun said part of Cresta's mission is to keep human employees involved. \"The differentiation of Cresta to many other entities, not all but many, is that we keep the expert in the loop and really want to build a machine-expert pairing that makes the expert better,\" he said.</p><p>Cresta was spun out of the Stanford Artificial Intelligence lab in 2017 after Stanford graduate students Zayd Enam and Tim Shi asked Mr. Thrun, a professor there, to help co-found the company. Cresta now has about 60 employees.</p><p>Mr. Thrun is Cresta's board chairman. Mr. Enam is chief executive and Mr. Shi is chief technology officer.</p><p>Mr. Enam said Cresta software can interact with customers and guide agents. It uses an AI technique known as reinforcement learning so that its algorithms can learn what constitutes a good response, based on call outcomes and customer feedback.</p><p>Stephan Baral, Head of Porsche Ventures Region USA, said Cresta's technology will initially power a web-based chatbot customers access to get assistance with Porsche vehicle services. For instance, the chatbot can offer steps for activating free electric-vehicle charging or setting up a streaming music service in a Porsche vehicle.</p><p>Cresta's software will also help steer Porsche agent interactions with customers, including suggesting answers from Porsche's knowledge base. If a customer is calling about a lease or finance payment, Cresta's system can understand the topic and automatically pull details about the loan, helping to streamline that call, he said.</p><p>The company is planning to make the chatbot and agent assistance capabilities available to users by this fall. The chatbot would be accessible through its Porsche Connect customer portal on mobile and desktop browsers, and potentially in the future, through SMS text messages and other channels.</p><p>The auto industry is among a range of industries that are poised to rely more heavily on conversational AI. By 2023, some 40% of enterprise applications will have embedded conversational AI, according to data from IT research firm Gartner Inc ., up from less than 5% in 2020.</p><p>Mr. Thrun is a co-founder of online learning platform Udacity  and, more recently, CEO of flying-car company Kitty Hawk Corp. He also founded Google X, a subsidiary of Alphabet Inc . now known as X, where he oversaw the company's self-driving car efforts and other projects.</p><p>Write to Jared Council at jared.council@wsj.com</p>",
+  "published": "2021-01-29T16:51:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 436,
+          "end": 462
+        },
+        {
+          "start": 436,
+          "end": 458
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

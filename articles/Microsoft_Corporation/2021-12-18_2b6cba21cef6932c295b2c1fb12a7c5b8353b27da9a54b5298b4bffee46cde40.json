@@ -1,0 +1,40 @@
+{
+  "_id": "2b6cba21cef6932c295b2c1fb12a7c5b8353b27da9a54b5298b4bffee46cde40",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Microsoft's Bing Halts Autofill in China --- Search engine says it is also investigating service disruptions in at least nine provinces",
+  "text": "<p>Starting around Thursday, some China-based users of Bing found they couldn't open the search engine's website, though others could still use the service.</p><p>Bing -- the last major foreign search engine operating in China after Google pulled its search engine from the country in 2010 -- was still unavailable for some users on Friday in at least nine provinces and regions including Beijing, Guangdong, Hubei, Shanghai and Sichuan, according to checks by The Wall Street Journal.</p><p>Bing's service disruption is the latest headache for Microsoft in China, where the American technology juggernaut has been caught in increasingly difficult situations this year as Beijing tightens its control of online content.</p><p>A spokeswoman for the Redmond, Wash., company said it is aware of the situation and is investigating. China's cybersecurity regulator, the Cyberspace Administration of China, didn't reply to a request to comment.</p><p>Earlier this year, Microsoft users pointed out that the company was censoring China-related content on its platforms. In June, Bing users noted that U.S. searches for the term \"Tank Man\" -- an iconic picture of a man standing solo in the way of a column of army tanks after China's 1989 Tiananmen Square massacre -- on the search engine didn't return any hits on the anniversary of the event. Microsoft said it was an accidental human error.</p><p>Also in June, the Journal reported academics and journalists were told their LinkedIn profiles would be blocked in China as they contained content considered problematic by Chinese laws. A LinkedIn spokeswoman said at the time that while the company supported freedom of expression, offering a localized version of LinkedIn in China meant adherence to online censorship requirements of the Chinese government.</p><p>In October, Microsoft announced it would be shutting down the social functions on its LinkedIn platform in China amid increased regulatory scrutiny.</p><p>China's internet and content controls, already among the strictest in the world, were tightened this year ahead of an important political meeting in 2022 expected to name current President Xi Jinping as China's leader for a rare third term.</p><p>This month, China's internet regulator said it had fined social-media giant Weibo Corp. and popular content platform Douban.com millions of dollars for content infractions that it said violated the country's laws and rules.</p><p>On the Twitter-like Weibo platform, Chinese internet users said they were confused about whether Bing was blocked in the country. Those who couldn't access it lamented the disappearance of the search engine.</p><p>Bing, launched in China in 2009, is the third-most-popular search engine in the country, according to data from analytics firm StatCounter. Baidu Inc.'s search tool is dominant, with about 87% of market share as of November 2021. Sogou, a unit of Chinese tech giant Tencent Holdings Ltd., follows with 5% and Bing with 4%, figures by StatCounter show.</p><p>---</p><p>Zhao Yueling and Grace Zhu contributed to this article.</p>",
+  "published": "2021-12-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 28,
+          "end": 39
+        },
+        {
+          "start": 937,
+          "end": 946
+        },
+        {
+          "start": 1311,
+          "end": 1320
+        },
+        {
+          "start": 1782,
+          "end": 1791
+        },
+        {
+          "start": 530,
+          "end": 539
+        },
+        {
+          "start": 28,
+          "end": 37
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

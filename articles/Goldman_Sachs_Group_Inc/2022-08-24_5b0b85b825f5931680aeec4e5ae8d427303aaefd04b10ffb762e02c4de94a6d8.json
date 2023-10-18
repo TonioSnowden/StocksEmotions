@@ -1,0 +1,34 @@
+{
+  "_id": "5b0b85b825f5931680aeec4e5ae8d427303aaefd04b10ffb762e02c4de94a6d8",
+  "feed": "wall-street-journal",
+  "title": "Derby's Take: Economists See Powell Quashing Hopes for Rate Cuts Over Long Term; Economists say the Fed chairman's near-term rate signal less certain",
+  "text": "<p>For now, economists are unsure if Mr. Powell will use his speech Friday—it is scheduled for 10 a.m. E.T. and he won't take questions—to signal whether it is time for the Fed to shift to a slower pace of rate increases after two super sized 0.75 percentage point rate rises.</p><p>While the Fed still faces some of the highest levels of inflation in four decades, there have been signs in recent data suggesting it is possible price pressures have peaked. If so, that could give the Fed space to slow to a half percentage point increase at its Federal Open Market Committee meeting on Sept. 20-21.</p><p>\"We expect Powell to reiterate the case for slowing the pace of tightening laid out in his July press conference and the July minutes released last week,\" Goldman Sachs economists told clients in a note Tuesday. They added that Mr. Powell \"is likely to balance that message by stressing that the FOMC remains committed to bringing inflation down and that upcoming policy decisions will depend on incoming data.\"</p><p>Fed officials have actively debated over recent weeks what they would like to see out of the central bank next month and haven't settled on a consensus.</p><p>St. Louis Fed leader James Bullard in a Wall Street Journal interview last Thursday said \"I would lean toward the 75 basis points at this point. Again, I think we've got relatively good reads on the economy, and we've got very high inflation, so I think it would make sense to continue to get the policy rate higher and into restrictive territory.\"</p><p>Mr. Bullard, who holds a vote on the FOMC and has been ahead of the curve in calling for a hawkish policy stance, said it is far too soon to say price pressures are trending in a more favorable way, adding that \"we've got a long way to go to get inflation under control.\"</p><p>That said, there is a case for Mr. Powell to be vague on Friday, because there is still more inflation data arriving before the next FOMC meeting. Late breaking data pushed the Fed to be more aggressive at its June meeting, so it is possible Mr. Powell won't want to box himself in on Friday.</p><p>\"The size of the September rate hike likely hinges on the next [consumer-price index] print,\" Tim Duy, chief economist at SGH Macro Advisors, wrote Monday in a note to clients. \"Another soft core number would bias the Fed toward 50 basis points.\"</p><p>Whatever Mr. Powell says about the short-term tactics of monetary policy, there is more agreement on his longer term goal of reiterating that rate cuts are nowhere near entering the central bank's outlook.</p><p>\"We expect Powell to use a discussion around a historically tight labor market to dampen speculation of a near-term pivot in policy featuring a rate cut,\" said Joseph Brusuelas, chief economist at RSM US LLP. \"We strongly disagree with current market sentiment and call on the Fed to lift the policy rate to 4% by the end of the year before any potential pause in rates.\"</p><p>Deutsche Bank economists noted on Monday that, \"though we remain of the view that the Fed will downshift to a pace of 50 basis point hikes at its next two meetings, such a downshift by no means suggests the Fed is finished with its tightening cycle, and we continue to expect the Fed to hike to 3.6% by year end, and 4.1% by [first quarter] of next year.\"</p><p>Write to Michael S. Derby at michael.derby@wsj.com</p><p>Derby's Take: Economists See Powell Quashing Hopes for Rate Cuts Over Long Term</p>",
+  "published": "2022-08-24T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99964,
+      "offsets": [
+        {
+          "start": 746,
+          "end": 753
+        },
+        {
+          "start": 746,
+          "end": 759
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0011506,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0011506081,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

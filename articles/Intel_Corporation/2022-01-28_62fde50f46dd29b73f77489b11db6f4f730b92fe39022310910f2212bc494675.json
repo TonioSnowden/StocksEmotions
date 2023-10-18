@@ -1,0 +1,24 @@
+{
+  "_id": "62fde50f46dd29b73f77489b11db6f4f730b92fe39022310910f2212bc494675",
+  "feed": "wall-street-journal",
+  "title": "Samsung's Top Chip- Making Perch Is Precarious",
+  "text": "<p>The Korean technology company overtook Intel as the world's largest chip maker by revenue in 2021 -- a feat that it managed to achieve in 2017 and 2018, too. On Thursday, Samsung reported record quarterly revenue for the three months ended December, which was boosted by strong sales of smartphones and consumer electronics. Samsung's path to the top has been quite different from the American chip maker's, though: Its main semiconductor revenue comes from memory chips while Intel mostly makes microprocessors.</p><p>Memory-chip prices are notoriously cyclical and that is why Samsung's share price has been slipping since last year. Contract prices for DRAM, a type of chip used as the working memory in computers, fell 10% last quarter from a quarter earlier, according to industry researcher TrendForce. Samsung's memory-chip sales and earnings fell quarter-over-quarter as well. The company expects memory-chip demand from data centers and 5G smartphones to remain strong this year, but supply-chain constraints remain a problem.</p><p>Growing Samsung's semiconductor business outside of memory chips could help soften the blow. Sales for its nonmemory-chip business, which includes everything from smartphone chipsets to image sensors, hit a high last quarter. Revenue at its foundry business -- fabricating chips for external customers -- also hit a high. Samsung's nonmemory-chip business makes up about a quarter of its semiconductor revenue.</p><p>And Samsung could see plenty of growth in this area given the global chip shortage, which shows few signs of disappearing. The company is a distant second in the foundry business but unlike market leader Taiwan Semiconductor Manufacturing Co., it also makes a lot of chips for its own devices. TSMC and Samsung are currently the only global players able to make the most advanced chips. Samsung's chip-making capabilities will therefore be very much sought after.</p><p>TSMC said this month it will spend up to $44 billion, a high, in capital expenditures this year. Samsung spent around $40 billion last year, but that included investments in memory chips and displays. It hasn't provided a figure for this year, but it is likely it will have to spend more to keep up with its competitors. Its $88 billion in net cash gives it substantial firepower should it choose to pull the trigger.</p><p>These days, everyone wants advanced microchips -- and pretty much every type of chip. That puts Samsung in an enviable position. But it will need to pay up to retain it.</p>",
+  "published": "2022-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 477,
+          "end": 482
+        },
+        {
+          "start": 39,
+          "end": 44
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

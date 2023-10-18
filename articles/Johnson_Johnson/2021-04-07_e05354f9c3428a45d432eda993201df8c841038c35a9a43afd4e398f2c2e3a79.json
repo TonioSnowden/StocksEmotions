@@ -1,0 +1,28 @@
+{
+  "_id": "e05354f9c3428a45d432eda993201df8c841038c35a9a43afd4e398f2c2e3a79",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Army-Developed Vaccine Begins Testing",
+  "text": "<p>Initial results of the study could become available by midsummer. If the data are positive, the Army likely would try to join with a drug company to further test and develop the vaccine, said Kayvon Modjarrad, director of the institute's emerging infectious-disease branch.</p><p>The experimental shot is among dozens in development, many aimed at improving upon available shots. About 229 human vaccine trials are under way, according to BioCentury, which is tracking the efforts.</p><p>Next-generation Covid-19 vaccines could play a role in vaccinations if they are differentiated from the current crop, infectious-disease specialists and industry analysts say. Vaccines that trigger a different kind of immune response, or which have a different route of administration -- such as a nasal spray or liquid formulation that can be swallowed -- may prove useful as primary vaccinations outside the U.S. or as booster vaccines in the U.S.</p><p>Vaccines now in the pipeline may prove particularly useful as booster shots in people who previously received Covid-19 vaccines that contain a harmless type of virus known as an adenovirus, such as Johnson &amp; Johnson's and AstraZeneca PLC's, because those people may develop immunity to the adenovirus in a way that could lessen the effectiveness of a booster shot based on the technology.</p><p>Army researchers say their vaccine was protective in studies of monkeys that were exposed to the coronavirus.</p><p>And lab tests suggest that the vaccine could be protective against newer, more transmissible variants of the virus, including those first identified in the U.K. and South Africa, Dr. Modjarrad said.</p><p>\"This vaccine may be a good vaccine in terms of covering all different types of strains,\" he said.</p><p>The currently authorized vaccines in the U.S. -- from Pfizer Inc. with partner BioNTech SE; Moderna Inc.; and J&amp;J -- appear to retain some effectiveness against the newer virus variants.</p><p>Yet J&amp;J's vaccine was less effective in the South Africa portion of a large study, where that variant circulated widely, than in other countries where the study was conducted. And the Pfizer and Moderna vaccines had a reduced neutralizing effect against the strain in lab tests using blood samples of vaccinated people compared with their effects on the original viral strain.</p>",
+  "published": "2021-04-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 1124,
+          "end": 1141
+        },
+        {
+          "start": 1914,
+          "end": 1917
+        },
+        {
+          "start": 1833,
+          "end": 1836
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

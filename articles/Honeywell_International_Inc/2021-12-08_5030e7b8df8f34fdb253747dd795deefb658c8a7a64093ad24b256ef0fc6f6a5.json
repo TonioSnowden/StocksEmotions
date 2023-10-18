@@ -1,0 +1,24 @@
+{
+  "_id": "5030e7b8df8f34fdb253747dd795deefb658c8a7a64093ad24b256ef0fc6f6a5",
+  "feed": "ftcomall",
+  "title": "Quantum computing: fear of super hackers will drive sales of specialists",
+  "text": "<p>True unpredictability requires complex planning. Current methods of generating “random numbers” for data encryption fall short. These often depend on codes involving prime numbers which ordinary computers cannot crack. But quantum computers might theoretically unscramble a slew of data encrypted by business.</p> <p>You have to admire the marketing smarts of the UK's Cambridge Quantum, which is backed by Honeywell of the US. It has <a href=\"https://www.prnewswire.co.uk/news-releases/cambridge-quantum-launches-quantum-origin-a-quantum-enhanced-cryptographic-key-generation-platform-to-protect-data-from-advancing-threats-864709242.html\">launched</a> a “quantum-enhanced” cryptographic key generation platform, which it hails as the first commercial product that only a quantum computer could create. </p> <p>To some potential customers this will sound like fighting fire with fire. They fear that quantum computers — which rely on sub-atomic uncertainties for incredible speed — may soon stop crashing for long enough to decode secret data.</p> <p>Cambridge Quantum's platform uses a protocol that relies on “entanglement”, a feature of quantum mechanics. Its keys are already being used in pilot projects, such as a Fujitsu communications network project. </p> <p>The company plans to price its technology on a per-key, per-month basis. Along with other potential applications, revenues could exceed $1bn in 2-5 years. So said Honeywell in July, as it prepared to spin off its own quantum computing unit and merge it with Cambridge Quantum. </p> <p>The New Jersey-based industrial group owns 54 per cent of the combined business, known as Quantinuum. It is also investing $270m in debt that would convert to equity when the company lists, possibly in 2022. &#xa0;</p> <p>Cambridge Quantum adds to the trickle of quantum computing companies joining US markets, including Maryland-based <a href=\"https://www.ft.com/content/23177383-91f8-4ab8-8eaf-552f552d7a15\">IonQ</a> valued at $3.6bn and London-based Arqit, worth $3.8bn. The latter reckons it has a way to commercialise <a href=\"https://www.thesslstore.com/blog/symmetric-encryption-101-definition-how-it-works-when-its-used/\">symmetric key encryption</a>, which it claims is secure against any hack.</p> <p>There have already been cases of “hack now, decrypt later” attacks. Criminals have stolen encrypted data in the hope of eventually unscrambling it with quantum computers. </p> <p>It remains questionable whether there is a genuine threat to world cybersecurity from quantum computers. But the growing fear of that threat can still create a lucrative trade for businesses such as Cambridge Quantum.</p><p>Source:  2021 'Quantum computing: fear of super hackers will drive sales of specialists' FT.com 8 December. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-12-08T05:00:41.450Z",
+  "tags": [
+    {
+      "id": "US4385161066",
+      "name": "Honeywell International Inc.",
+      "offsets": [
+        {
+          "start": 400,
+          "end": 409
+        },
+        {
+          "start": 1192,
+          "end": 1201
+        }
+      ],
+      "nexusId": "10040831"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "2694ae57903a646f4b92140c8a8d76518370e6645575c19241cabf37375aa124",
+  "feed": "wall-street-journal",
+  "title": "CVS Is in Advanced Talks to Buy Signify Health for Around $8 Billion; Drugstore-chain owner appears to prevail over interested parties including Amazon and UnitedHealth Group",
+  "text": "<p>There is still no guarantee that CVS will reach a deal for Signify, which has been exploring strategic alternatives since earlier this summer.</p><p>Bids for the company were due Sept. 6, but people familiar with the matter have said that an eager buyer could make a move before then.</p><p>Signify's valuation has ballooned since The Wall Street Journal reported in August that it was for sale. Shares of the company closed at $28.77 on Friday, giving it a market capitalization of roughly $6.7 billion.</p><p>Signify works with a group of doctors to facilitate house calls. It uses analytics and technology to help physician groups, health plans, employers and health systems with in-home care. It offers health evaluations for government-run managed-care plans.</p><p>CVS has gone toe to toe with Amazon before. The drugstore-chain owner had previously been interested in a deal for the parent of One Medical, people familiar with the matter have said. Amazon agreed in July to purchase the primary-care clinic operator for about $3.9 billion.</p><p>Write to Laura Cooper at laura.cooper@wsj.com, Sharon Terlep at sharon.terlep@wsj.com and Cara Lombardo at cara.lombardo@wsj.com</p><p>CVS Is in Advanced Talks to Buy Signify Health for Around $8 Billion</p>",
+  "published": "2022-09-02T22:34:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 156,
+          "end": 174
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "0ae62a2159be34d596ea02ebbb03fb31b6c0a8501cd9744a82b0bcb677dacf5e",
+  "feed": "market-watch",
+  "title": "AMD launches 18 models of new Epyc data-center chip at a time when it might be 'more important than ever'; Cheaper, faster, more energy efficient is what data centers want to hear",
+  "text": "<p>\"It's the highest performance, it's the most efficient, and we are delivering significantly better performance per watt than our competition,\" said Su, referring to her two biggest data-center rivals Intel Corp. INTC and Nvidia Corp. NVDA</p><p>\"And what that means for enterprises, and for cloud-data centers, it translates into lower capex, lower opex, and lower total cost of ownership, including all the performance that we talked about,\" Su said, at a time when recessionary fears are crimping capital budgets.</p><p>Read: Take a bow, Lisa Su: AMD's data-center business is a true rival to Intel</p><p>Even before the drop in PC sales, AMD had been positioning itself as a data-center company, which was the impetus behind the recently closed $49 billion deal to acquire Xilinx, and now it gets to play to its strong point. Su called the data center AMD's \"largest growth opportunity and most strategic priority,\" as she has been indicating for months.</p><p>AMD shares rallied as much as 14% Thursday, though Nvidia shares were also up about 13%, Intel shares were up 7%, and the S&amp;P 500 index SPX was up 5% and the tech-heavy Nasdaq Composite Index COMP was up 6% after October inflation numbers proved not to be so scary.</p><p>A year ago, the AMD CEO had been feeling \"very, very good\" about the data-center market, and other than a two-year, pandemic-triggered chip shortage amid a manufacturing supply-chain nightmare turning into a chip glut, Su hasn't walked much, if any, of that back except to acknowledge the same macro challenges everyone else blames. And right up until early October everything seemed fine until AMD had to announcea $1 billion shortfall in revenue — like many others — because of falling PC sales.</p><p>In AMD's earnings report last week, Su didn't seem too worried about a cratering of consumer sales bleeding into data-center sales, telling analysts \"we'll certainly exit the year in a better place,\" and that she only expected the company's embedded business, which was acquired with Xilinx, and data-center business to grow in the fourth quarter.</p><p>In acquiring Xilinx, AMD brought on board so-called field-programmable gate array, or FPGA, chips that can be configured by a customer or a designer after they are made. Those chips are used as accelerators in data centers to boost computing power and improve power efficiency in existing physical spaces.</p><p>The company said the fourth-generation chips offer more than double the performance of their third-generation predecessors in cloud and high-performance computing settings, and 94% better performance in enterprise applications.</p><p>AMD made the \"fewer servers, less power, leading to lower emissions\" pitch, indicating that five Epyc 96-core 9654 servers could handle the same load as 15 Intel Platinum 40-core 8380 servers, and use up to 54% less power (47,000 kilowatt hours per year versus 103,000 kWh per year), and have up to a 51% lower total cost of ownership for the first year.</p><p>Last week, AMD released its gaming cards, weeks after Nvidia and Intel launched theirs on the same day. The data-center chip launch, however, is more crucial in an environment where consumers might not be rushing out to buy a gaming card that cost as much as a high-end smartphone, but data-centers need to replenish their hardware.</p><p>Even Nvidia, which until not all that long ago was thought of as just \"a gaming card company, recently saw its data-center sales eclipse its gaming sales on a more permanent basis, appears to the boat upon which everything else is huddled.</p><p>AMD launches 18 models of new Epyc data-center chip at a time when it might be 'more important than ever'</p>",
+  "published": "2022-11-11T12:54:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 583,
+          "end": 588
+        },
+        {
+          "start": 2742,
+          "end": 2747
+        },
+        {
+          "start": 1029,
+          "end": 1034
+        },
+        {
+          "start": 3006,
+          "end": 3011
+        },
+        {
+          "start": 200,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "First_Harvest_Corp%2E",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 200,
+          "end": 211
+        }
+      ]
+    }
+  ]
+}

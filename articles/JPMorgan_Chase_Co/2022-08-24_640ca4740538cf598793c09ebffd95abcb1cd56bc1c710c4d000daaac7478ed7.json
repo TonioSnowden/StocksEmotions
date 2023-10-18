@@ -1,0 +1,42 @@
+{
+  "_id": "640ca4740538cf598793c09ebffd95abcb1cd56bc1c710c4d000daaac7478ed7",
+  "feed": "wall-street-journal",
+  "title": "Bed Bath & Beyond Clinches Loan Deal; Troubled retailer taps a new financing source as its stock slides",
+  "text": "<p>Bed Bath &amp; Beyond Inc. has found a financing source to shore up its liquidity as it tries to weather recent missteps, according to people familiar with the matter.</p><p>The company on Tuesday told prospective lenders that it has selected a lender to provide a loan following a marketing process conducted by JPMorgan Chase &amp; Co., people familiar with the matter said.</p><p>A loan deal would provide liquidity and give vendors confidence they can continue to ship goods to Bed Bath &amp; Beyond, which is fighting to correct missteps from an ill-fated push into private-label brands. The retailer had been seeking about $375 million to pad its cash levels and help pay down existing debt, The Wall Street Journal previously reported.</p><p>The size and terms of the final deal weren't immediately clear on Tuesday. Bed Bath &amp; Beyond didn't immediately respond to a request for comment. JPMorgan declined to comment.</p><p>The company's shares skyrocketed last week on a burst of interest from individual investors but have been sliding since billionaire activist Ryan Cohen announced his exit from the stock and sold off his 10% stake. The falling share price narrowed the options available to Bed Bath &amp; Beyond to build liquidity, stanch its cash bleed and ensure continued shipments from suppliers.</p><p>The company has signaled it has to raise cash. While it has said it should be fine for a year, its business remains in decline. The company used up more than $500 million in cash in the latest quarter ended in May.</p><p>The loan is structured as first-in-last-out, people familiar with the matter said, meaning it is part of an asset-based facility, but in the event of a bankruptcy will rank lower than other secured debt.</p><p>Bed Bath &amp; Beyond has said it would provide an update on efforts to strengthen its balance sheet at the end of the month.</p><p>Laura Cooper contributed to this article.</p><p>Write to Jodi Xu Klein at jodi.klein@wsj.com and Andrew Scurria at Andrew.Scurria@wsj.com</p><p>Bed Bath &amp; Beyond Clinches Loan Deal</p>",
+  "published": "2022-08-24T03:23:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 865,
+          "end": 873
+        },
+        {
+          "start": 302,
+          "end": 322
+        },
+        {
+          "start": 859,
+          "end": 867
+        },
+        {
+          "start": 303,
+          "end": 323
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.093061,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.09306097,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

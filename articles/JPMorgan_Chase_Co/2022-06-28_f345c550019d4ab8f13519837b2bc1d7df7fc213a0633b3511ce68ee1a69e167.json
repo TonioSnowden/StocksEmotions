@@ -1,0 +1,24 @@
+{
+  "_id": "f345c550019d4ab8f13519837b2bc1d7df7fc213a0633b3511ce68ee1a69e167",
+  "feed": "reuters",
+  "title": "UPDATE 1-Taiwan says seven insurers have not received Russian bond payments",
+  "text": "<p>Russia defaulted on its international bonds for the first time in more than a century, the White House and Moody's credit agency said on Monday, as sanctions have effectively cut the country off from the global financial system.</p><p>The payments in question are $100 million in interest on two bonds, one denominated in U.S. dollars and another in euros, that Russia was due to pay on May 27. The payments had a grace period of 30 days, which expired on Sunday.</p><p>Russian debt makes up only a fraction of overall Taiwanese bond holdings.</p><p>The Kremlin and the finance ministry have repeatedly said Russia was honouring its obligations, saying that the currency payments were made but not processed by Euroclear to reach non-Russian bondholders.</p><p>Asked on Tuesday whether Russia would sue Euroclear or other Western financial intermediaries involved in the transaction, Dmitry Peskov , Kremlin spokesman, said: \"This question should be analysed by our lawyers, our financial institutions.\"</p><p>According to Alexander Afonin, head of debt market analysis at Moscow-based Sinara investment bank, bondholders may call a default on Russia themselves under certain conditions.</p><p>\"In order to do so, a certain quorum must be called and is very unlikely to be presented given that the bulk of those bondholders are Russian investors,\" Afonin said. He estimated that foreign investors own 15-20% of Russian sovereign Eurobonds.</p><p>Unlike foreign bondholders, Russian investors are receiving their payments on sovereign Eurobonds via the National Settlement Depository which is sanctioned by the European Union .</p>",
+  "published": "2022-06-28T11:29:39.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

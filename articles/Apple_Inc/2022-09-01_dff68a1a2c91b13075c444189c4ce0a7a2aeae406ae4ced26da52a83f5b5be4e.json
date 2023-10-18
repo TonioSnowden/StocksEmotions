@@ -1,0 +1,34 @@
+{
+  "_id": "dff68a1a2c91b13075c444189c4ce0a7a2aeae406ae4ced26da52a83f5b5be4e",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  U.S. Funds Are Taking  A Gamble on European Soccer  ---  AC Milan takeover shows American investors are viewing the sport as an undervalued asset  ----  By Jon Sindreu",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  U.S. investment firms might end up scoring quite a few goals with their European soccer teams. Few of them are likely to translate into decent profits. </p><p>\n  On Wednesday, Italy's AC Milan officially passed from one American owner to another: Gerry Cardinale's private-equity firm RedBird Capital Partners took over from Elliott Management. RedBird, which controls France's Toulouse FC and has a stake in the owner of England's Liverpool FC, also said the New York Yankees baseball franchise would take a minority stake. </p><p>\n  Traditionally, soccer clubs were acquired by Russian and Arab oligarchs for prestige. Still, many owners do hope to benefit from long-term capital appreciation and in a few cases -- namely the Glazer family's control of Manchester United -- milk clubs for stable returns. Lately, though, a new breed of investor has appeared: U.S. funds focused on undervalued assets. Last September, for example, Miami-based 777 Partners bought Italian club Genoa CFC. </p><p>\n  The pandemic hit sports hard, opening a window of opportunity for such investors. But they also have a longer-term rationale: The belief that European soccer can be \"Americanized.\" </p><p>\n  To an extent, this trend seems inevitable, given how much money European soccer leaves on the table. In 2019, the UEFA Champions League collected $25 million a game, compared with $60 million for the National Football League. New owners hope that investment, potential format changes and the entry of streaming platforms such as Amazon.com and DAZN competing for broadcast rights could create a catchup effect. Loss-making domestic leagues like Italy's Serie A have been mismanaged too, which makes a former glory like AC Milan a prime target for value investors. RedBird is paying $1.2 billion for it, compared with the GBP 4.3 billion price, equivalent to $5 billion, fetched by London's Chelsea FC this year. </p><p>\n  AC Milan just conquered its first domestic title in 11 years under Elliott, which could speak to the success of U.S. financial management. Likewise, RedBird's Toulouse FC got promoted to the first French tier. The English Premier League's turbocharged financialization over the past two decades, added to stricter financial controls, has brought some sustainability to soccer finances. </p><p>\n  However, it may be hard to push more than one league on international audiences. Furthermore, the battle for soccer broadcast rights had already ebbed before Covid-19. Streaming firms like Apple, Disney and Amazon may still be splurging on sports, but they are also starting to cut costs. Meanwhile, last year's fiasco over plans for a European Super League shows that change will come slowly. </p><p>\n  Crucially, investors shouldn't care if more wins bring in more revenues. What they want is profits, and Mr. Cardinale's apparent belief that those are related to sporting success is on shaky ground. A paper published in 2020 found that, in European soccer, focusing on profitability means not spending enough to win trophies, which angers fans. Even when winning comes first, this doesn't translate into higher margins: The outsize power of soccer players and the lack of the strict salary controls found in the U.S. means that windfalls ultimately end up being captured by labor. This is why listed soccer clubs have performed terribly for shareholders and have subpar returns on assets. </p><p>\n  To be sure, a private-equity bubble is great for investors in clubs such as Manchester United to cash out. There are also other ways to gain investing exposure: San Francisco-based Sixth Street Partners recently took advantage of Catalan giant FC Barcelona's financial woes to buy 25% of its domestic broadcast revenue. RedBird has ample sporting expertise and its focus on youth academies, analytics and wage discipline is the right approach. Against such profit-insensitive competition, however, financially minded investors may find they are always playing uphill. </p><p></p>",
+  "published": "2022-09-01T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2473,
+          "end": 2478
+        },
+        {
+          "start": 2453,
+          "end": 2458
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3966746,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.60332537,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

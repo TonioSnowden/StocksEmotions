@@ -1,0 +1,96 @@
+{
+  "_id": "228342be90290b39a6b24031c288816ee8c5f59f930211cc8cc2d385150b58b8",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Keywords:  The Battle for Your  Car's Digital Soul  ---  In the future, your choice of ride could be determined  in part by whether you prefer iPhone or Android  ----  By Christopher Mims",
+  "text": "<p>   A few years from now, in addition to deciding your next vehicle's make and model, you may have another tough choice: the Google model or the Apple one? Other options may include \"car maker generic\" and even, I'm spitballing the name here: Amazon Prime Edition. </p><p>   Now that cars are becoming something like smartphones on wheels, some of the dynamics that played out in the early days of the mobile industry are playing out in the auto industry. Competition between the two kingpins of the smartphone industry has gained new momentum, with Google racking up auto-maker partnerships for the automobile-based version of its Android operating system, and Apple teasing plans to expand its software capabilities in the car. </p><p>   For the car companies involved, working with Silicon Valley can address consumer desires while also staving off competition from companies like Tesla. And yet there is an inherent tension in these partnerships over who controls the user experience and the valuable data produced. </p><p>   These forces mean that every car maker is having to navigate a delicate balance between doing things in-house and signing partnerships that cede control, and potentially some sources of revenue. These choices are leading to a vast and confusing new ecosystem in which consumers may need to care about what software their car runs. </p><p>   Imagine used-car listings that say \"60k miles, runs great, supports up to Apple CarOS v 3.1, sorry Android users, get an iPhone already!!\" </p><p>   Software increasingly controls most aspects of our cars, from driver-assist systems to braking. </p><p>   But the auto-operating system competition so far centers on the infotainment system that shows us everything from maps to movies on the road. </p><p>   Google and Apple both have systems -- called Android Auto and CarPlay -- that mirror phone apps on vehicles' displays. </p><p>   Google has gone further. In 2017, it announced Android Automotive (yes, the name is very similar), an operating system installed in the vehicle itself that controls its built-in infotainment system, rather than just displaying a version of a phone's screen. </p><p>   Android Automotive can do much more than Android Auto, by gathering all sorts of data from other parts of the car, like its speed, battery status, heating and air conditioning, and pretty much anything else an auto maker wants. </p><p>   Android Automotive replaces the often less-than-great customized software that car makers have in the past put on their vehicles' infotainment systems. </p><p>   Google has announced partnerships with nearly a dozen auto makers and auto-parts suppliers, including Stellantis, Honda, BMW, and General Motors' GMC and Chevrolet brands. </p><p>   What auto makers get out of using Android Automotive is a ready-made operating system for their cars maintained by a major tech company. And what Google gets out of this arrangement is that it makes it easier for the company to offer its services on a wide variety of vehicles, says Haris Ramic, who has led Google's Android Automotive team since it started in 2015. </p><p>   This also means that nearly everyone who buys a vehicle that runs Android Automotive will effectively be buying an Android smartphone with wheels. </p><p>   Apple hasn't announced an equivalent of Android Automotive -- that is, software that auto makers can license to run on their vehicles, whether or not an iPhone is connected to them. And as with all its future plans, the company is very guarded about what it says publicly. </p><p>   However, a demo of the next generation of its iPhone-mirroring CarPlay software in June at Apple's developers conference, including renderings of the interface of a future vehicle, points to much deeper, and even perhaps Android Automotive-level integration with cars in the future. Some analysts have taken to calling Apple's hypothetical future in-vehicle software \"CarOS.\" </p><p>   Apple has announced more than a dozen launch partners for the next generation of CarPlay, starting with models that go on sale in 2023, including Volvo, Ford, Honda, Renault, Mercedes and Porsche. </p><p>   For Apple to license its software to auto makers would be almost unprecedented in the history of the company. Apple has long focused on controlling both hardware and software in its devices. On the other hand, failing to offer something like a CarOS to compete with Android Automotive could put Apple at the mercy of Google in hundreds of millions of automobiles, since Google will control the operating system on which Apple's CarPlay phone-mirroring software runs. Currently, some Volvo and Polestar vehicles can run Apple's CarPlay on Android Automotive, but this is a much shallower integration than acting as the actual operating system running parts of the car. </p><p>   In its June presentation, Apple showed off new CarPlay software taking over the instrument cluster of a vehicle, including gauges like speed, RPM and charge status. </p><p>   Such displays of instruments and driving-critical systems generally have to be deeply integrated into a vehicle to meet international safety standards for vehicles, says Isaac Trefz, a former software engineer at BMW and now product manager at OpenSynergy, which makes software that helps the computers in cars juggle all the different things being asked of them. </p><p>   It's likely that Apple has found some kind of compromise with auto makers in which manufacturers build their systems so they can take on some of the work required to make next-generation CarPlay work, according to Chris Jones, an automotive-market analyst at Canalys. In any event, the next CarPlay represents a much deeper level of integration than Apple has asked of auto makers in the past, he adds. </p><p>   While some auto makers might balk at what are likely to be Apple's strict requirements for how they make next-generation CarPlay available in their vehicles, the sheer weight of customer demand -- there are after all close to a billion iPhone users worldwide -- has clearly forced some to work with Apple on Apple's terms, says Mr. Jones. </p><p>   At the same time, many manufacturers are building their own operating systems to control their cars. Volvo is an illustrative case. The company runs Android Automotive on its infotainment centers, and keeps it separate from VolvoCars.OS, the software developed in-house to stitch together all the systems of the vehicle, says David Holecek, director of digital experience at Volvo Cars, which is owned by China's Zhejiang Geely Holding. All of that runs on an assortment of hardware from traditional auto-parts makers, and newer entrants like Nvidia and Qualcomm, depending on the vehicle make and model, he adds. </p><p>   Some auto makers, like Lucid, have opted to combine Android Automotive with Amazon's Alexa assistant. Stellantis, which owns 14 automotive brands, including Jeep, Chrysler, Maserati and Alfa Romeo, uses Android Automotive on some of its vehicles, and in January announced a partnership with Amazon to make a variety of that company's services available in vehicles. </p><p>   \"We want to develop our own software going forward,\" says Yves Bonnefont, chief software officer at Stellantis. \"We want to own our future in terms of software development.\" </p><p>   This hodgepodge of software and systems will remain the norm for some time, says Kersten Heineke, a Germany-based partner at McKinsey who consults with automotive clients. There are just too many safety-critical systems in cars and too many new features for one company to do it all, even if that company is Google, Apple or Amazon. </p><p>   However this plays out, it won't happen nearly as quickly as the mobile ecosystem battles of yore did, among iOS, Android and Fire Phone -- remember that? </p><p>   \"The automotive industry is very conservative,\" says Mr. Trefz, a veteran of decades of designing hardware and software-based systems that control cars. \"So if someone says, 'This is going to happen in the next five years,' it's probably more like 20.\" </p><p></p>",
+  "published": "2022-10-01T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 4288,
+          "end": 4293
+        },
+        {
+          "start": 5207,
+          "end": 5212
+        },
+        {
+          "start": 5892,
+          "end": 5897
+        },
+        {
+          "start": 141,
+          "end": 146
+        },
+        {
+          "start": 4687,
+          "end": 4692
+        },
+        {
+          "start": 3147,
+          "end": 3152
+        },
+        {
+          "start": 3511,
+          "end": 3516
+        },
+        {
+          "start": 648,
+          "end": 653
+        },
+        {
+          "start": 5652,
+          "end": 5657
+        },
+        {
+          "start": 7402,
+          "end": 7407
+        },
+        {
+          "start": 3739,
+          "end": 3744
+        },
+        {
+          "start": 3997,
+          "end": 4002
+        },
+        {
+          "start": 1401,
+          "end": 1406
+        },
+        {
+          "start": 5540,
+          "end": 5545
+        },
+        {
+          "start": 3796,
+          "end": 3801
+        },
+        {
+          "start": 1715,
+          "end": 1720
+        },
+        {
+          "start": 4512,
+          "end": 4517
+        },
+        {
+          "start": 4103,
+          "end": 4108
+        },
+        {
+          "start": 4413,
+          "end": 4418
+        },
+        {
+          "start": 5901,
+          "end": 5906
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

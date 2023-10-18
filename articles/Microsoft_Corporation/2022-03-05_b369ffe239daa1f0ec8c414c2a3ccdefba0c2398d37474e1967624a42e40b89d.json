@@ -1,0 +1,32 @@
+{
+  "_id": "b369ffe239daa1f0ec8c414c2a3ccdefba0c2398d37474e1967624a42e40b89d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  CEO Quits Seat on  Coca-Cola Board  ----  By Denny Jacob",
+  "text": "<p>   Coca-Cola Co. said Activision Blizzard Inc. Chief Executive Bobby Kotick won't stand for re-election to its board of directors. </p><p>   Mr. Kotick, who has been a director since 2012, said he was stepping down to provide full attention to the company's pending tie-up with Microsoft Corp. He will remain a director for Coca-Cola until the company's annual shareholder meeting later this year. </p><p>   Mr. Kotick's total compensation as a Coca-Cola director in 2020 was $340,003, according to the most recent public filings. His pay package at Activision, where he has served as CEO for more than 30 years, in 2020 was valued at $154.6 million. </p><p>   Coca-Cola had faced calls from some investors for Mr. Kotick to exit from the company's board. </p><p>   Microsoft in January agreed to buy Activision in an all-cash deal valued at about $75 billion. Mr. Kotick is expected to exit from the company after the deal with Microsoft closes. </p><p></p>",
+  "published": "2022-03-05T07:13:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 265,
+          "end": 274
+        },
+        {
+          "start": 265,
+          "end": 280
+        },
+        {
+          "start": 886,
+          "end": 895
+        },
+        {
+          "start": 723,
+          "end": 732
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "29c9b9ebf2f776fe28c2a72b7adcc4be810b9ed33efdb158bcf35dbd2a21c5ea",
+  "feed": "wall-street-journal",
+  "title": "Lina Khan's Merger Metaverse",
+  "text": "<p>Last year Meta announced plans to acquire Within, the studio behind the popular VR fitness app Supernatural that offers guided workouts in exotic locations. \"Fitness is the killer use case for VR,\" says Within CEO Chris Milk.</p><p>Enter the FTC's three Democratic commissioners, who overruled career staff and voted to bring a lawsuit to block the acquisition under the Clayton Act. The FTC wants to constrain Meta's VR ambitions while setting a regulatory precedent that will create new antitrust uncertainty and discourage acquisitions across the U.S. economy. Meta's acquisition \"poses a reasonable likelihood of substantially lessening competition in the market for VR dedicated fitness apps,\" the lawsuit says.</p><p>But how can the acquisition reduce competition when Meta doesn't own any fitness apps, and Supernatural has plenty of competitors even by the FTC's admission? According to the suit, Meta's music and rhythm app Beat Saber competes with Supernatural because they both involve people moving around in space and burning calories. Seriously?</p><p>Perhaps even Ms. Khan realizes this theory of competition stretches law and logic, so the lawsuit offers another argument. Lo, Meta could use its current profits to develop its own fitness app or add fitness features to its existing apps, which would \"have the effect of substantially deconcentrating and increasing competition in the market.\"</p><p>This argument is based on a discredited antitrust theory known as \"potential competition,\" which concedes that merging parties don't actually compete against each other but could do so. This theory was used to attack conglomerate mergers a half century ago before its illogic and bad economics were taken apart by Phil Areeda and other antitrust scholars. Their work influenced judges who have looked on the theory with disfavor.</p><p>But Ms. Khan is undaunted and relies on an even more extreme version known as \"actual potential competition.\" This holds that a merger is illegal not because the buyer is already competing in the market but because the buyer should have entered the market on its own to provide more competition.</p><p>Under current antitrust precedent, the FTC would have to prove that the VR fitness market is highly concentrated; that Meta probably would have entered the market and its entry would have pro-competitive effects; and there are few other firms capable of doing so.</p><p>Failing to demonstrate any of these things, the FTC shifts the burden to Meta to prove that it wouldn't seek to develop its own fitness app if it doesn't acquire Within. It's impossible to prove this negative, as Ms. Khan knows. Meta doesn't have to prove this under existing antitrust doctrine, so Ms. Khan is trying to rewrite antitrust law via litigation.</p><p>Though the lawsuit doesn't say so explicitly, it's clear the FTC is trying to prevent Meta from using acquisitions to expand its leading position in VR. Never mind that Apple and Alphabet are moving fast into VR with even deeper pockets. Acquisitions can also represent an economically efficient allocation of capital. But Ms. Khan thinks Meta should have been barred from buying Instagram and WhatsApp, and she doesn't want it getting bigger. She'd prefer to break up Meta instead.</p><p>Venture capitalists often fund startups on the hope that they will be bought by larger companies. Ms. Khan is setting down the marker that the FTC can block acquisitions merely to prevent big companies from getting bigger, even if they don't reduce competition or harm consumers. This will chill investment and innovation, and it deserves a burial in court.</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2910,
+          "end": 2915
+        },
+        {
+          "start": 2890,
+          "end": 2895
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

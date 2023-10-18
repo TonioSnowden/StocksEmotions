@@ -1,0 +1,24 @@
+{
+  "_id": "4d76e7ef033f371c52228fdea43fca4778d70340838a61e89a65ab30f519c522",
+  "feed": "wall-street-journal",
+  "title": "Intel Names a New CFO",
+  "text": "<p>The chip company tapped Michelle Johnston Holthaus, its executive vice president and general manager of the sales, marketing and communications group, as his successor.</p><p>Mr. Zinsner, Micron's finance chief, will join Intel next Monday. He had been with the memory-chip maker since February 2018.</p>",
+  "published": "2022-01-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 216,
+          "end": 221
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

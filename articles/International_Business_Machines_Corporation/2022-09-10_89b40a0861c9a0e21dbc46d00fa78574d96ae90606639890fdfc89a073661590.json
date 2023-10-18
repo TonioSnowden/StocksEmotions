@@ -1,0 +1,38 @@
+{
+  "_id": "89b40a0861c9a0e21dbc46d00fa78574d96ae90606639890fdfc89a073661590",
+  "feed": "wall-street-journal",
+  "title": "沃博聯任命Hsiao Wang為新首席信息官; 沃博聯周四表示，將任命Hsiao Wang為其新的首席信息官，因為技術高管Francesco Tinto將離職。",
+  "text": "<p>在Michaels之前，Wang曾在沃爾瑪(Walmart Inc., WMT)擔任了16年的各種技術職務，包括Sam's Club的首席技術官。</p><p>沃博聯還表示，將任命IBM (International Business Machines Corporation, IBM)全球首席數據官Inderpal Bhandari進入董事會，該董事會的財務委員會將立即重組為財務和技術委員會。</p><p> 沃博聯任命Hsiao Wang為新首席信息官</p>",
+  "published": "2022-09-10T01:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 89,
+          "end": 132
+        },
+        {
+          "start": 134,
+          "end": 137
+        },
+        {
+          "start": 84,
+          "end": 87
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.6030695,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.60306954,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

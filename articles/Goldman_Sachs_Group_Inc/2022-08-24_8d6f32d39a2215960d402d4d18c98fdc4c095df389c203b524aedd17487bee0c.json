@@ -1,0 +1,42 @@
+{
+  "_id": "8d6f32d39a2215960d402d4d18c98fdc4c095df389c203b524aedd17487bee0c",
+  "feed": "wall-street-journal",
+  "title": "Bed Bath & Beyond's Challenges Linger After Loan Deal; The troubled retailer is finalizing a loan from Sixth Street Partners, people familiar say, while facing slumping sales",
+  "text": "<p>Bed Bath &amp; Beyond Inc. selected asset manager Sixth Street Partners to supply new financing, according to people familiar with the matter, as doubts remain among vendors and some investors about the company's turnaround prospects.</p><p>Sixth Street is in exclusive talks with Bed Bath &amp; Beyond and is nearing final terms for a loan of close to $400 million to shore up the troubled retailer's liquidity, according to people familiar with the matter. Negotiations to finalize the loan documents are ongoing, one of the people said.</p><p>The company told prospective lenders it had selected a proposal for an asset-based loan, The Wall Street Journal reported Tuesday citing people familiar with the matter. Bed Bath &amp; Beyond stock climbed as much as 30% on Wednesday, closing up 18% at $10.36.</p><p>A loan deal would help refill the company's coffers and give confidence to vendors that Bed Bath &amp; Beyond can pay its bills. The business has sought to stretch payments to some vendors, which have been pulling credit to the company in recent weeks amid mounting doubts that it could pay them back and a shortage of credit insurance, according to people familiar with the matter.</p><p>At least one firm that finances suppliers has stopped providing credit on shipments to Bed Bath &amp; Beyond, the Journal has reported.</p><p>The loan is structured as a first-in-last-out facility, meaning it is backed by collateral but will only be paid out after other secured debt in the event of bankruptcy, the people said.</p><p>Sixth Street Partners manages $60 billion in assets, and has a retail lending practice that has made loans to retailers such as J.C. Penney Co. and DSW Inc.</p><p>The loan is part of a broader plan by the company to shore up its finances. Bed Bath &amp; Beyond indicated earlier this month that it is in talks with lenders and its professional advisers to strengthen its balance sheet and would provide a comprehensive update later in August.</p><p>But given its high cash burn in the second quarter, the company will likely need to secure more support from investors to give it runway to execute its restructuring plan.</p><p>\"The loan would provide a couple more quarters of time to show improvement operationally and appease vendors,\" said Seth Basham, analyst at Wedbush Securities. \"While we're skeptical of their ability to generate cash in the short term, if they can show that they can improve their margins and free cash flow through the holidays, that could be a path to regain investor confidence.\"</p><p>Traditional debt markets may not be a viable route for the retailer to raise new capital. Bed Bath &amp; Beyond's bonds are trading at deeply distressed levels, indicating that any new debt issued by the company may be prohibitively costly with effective yields above 25%.</p><p>The Union, N.J., retailer does have a path to issue millions of new shares, potentially helping the company secure an additional lifeline. Bed Bath &amp; Beyond hasn't indicated yet whether it expects to issue new shares.</p><p>\"We're surprised that the company didn't try to issue shares,\" said Bradley Thomas, analyst at KeyBanc Capital Markets. \"It would have been silly not to at least consider it given where the stock was trading.\"</p><p>The company has been closing stores, reducing corporate overhead and renegotiating contracts with vendors as it looks to cut costs, but its cash burn has deepened in recent months as sales have fallen. Unsecured bonds backed by the company trade between 15 and 30 cents on the dollar, a sign that investors doubt they'll be paid back in full.</p><p>The receipt of a loan may abate some of those concerns. Bond traders at Goldman Sachs Group quoted Bed Bath &amp; Beyond's bonds between five and 10 points higher Wednesday, people familiar with the matter said.</p><p>Bed Bath &amp; Beyond's shares have been on a roller-coaster ride, more than quadrupling this month through Wednesday as investors bet the retailer could become the next distressed company to harness stock-market exuberance to raise funds from enthusiastic shareholders. The stock dropped after activist investor Ryan Cohen sold all of his stake, but it is still up 80% this month.</p><p>Write to Alexander Saeedy at alexander.saeedy@wsj.com, Jodi Xu Klein at jodi.klein@wsj.com and Soma Biswas at soma.biswas@wsj.com</p><p>Bed Bath &amp; Beyond's Challenges Linger After Loan Deal</p>",
+  "published": "2022-08-24T22:09:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 3581,
+          "end": 3588
+        },
+        {
+          "start": 3581,
+          "end": 3600
+        },
+        {
+          "start": 3557,
+          "end": 3576
+        },
+        {
+          "start": 3581,
+          "end": 3594
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

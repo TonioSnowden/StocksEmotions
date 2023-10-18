@@ -1,0 +1,24 @@
+{
+  "_id": "6a3cb27868743d2d6b97059953003f3286d1a3958c165077563a3d8e3d8233a3",
+  "feed": "market-watch",
+  "title": "Pentagon seeks bids from Amazon, Microsoft, Google and Oracle for major cloud contract",
+  "text": "<p>A final award of the contract is expected around April 2022.</p><p>“Our commitment to supporting our nation's military and ensuring that our warfighters and defense partners have access to the best technology for the best value is stronger than ever,” an Amazon spokesperson told MarketWatch in an email message. “We look forward to continuing to support the DoD's modernization efforts and building solutions that help accomplish their critical missions.”</p><p>Microsoft declined comment.</p><p>Google was not immediately available for comment.</p>",
+  "published": "2021-11-19T18:16:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 451,
+          "end": 460
+        },
+        {
+          "start": 33,
+          "end": 42
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

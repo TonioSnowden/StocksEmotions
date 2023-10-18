@@ -1,0 +1,30 @@
+{
+  "_id": "1e95236d6af6a94db9ae17e2ba725dbf16e177f27bc162af1554fc7491e4b095",
+  "feed": "market-watch",
+  "title": "U.S. house values fell for the first time since 2012 and what happens to borrowers and the economy if Biden lets student loan payments resume in September; Monday's top personal finance stories",
+  "text": "<p>Industry experts say housing is in a recession. But this is very different from 2008. Read More</p><p>'After my mom died, they did not visit my dad or call him': My parents left me $800,000. My 2 sisters predeceased them, leaving 6 kids. Do they deserve any inheritance?</p><p>'Christmas presents from the previous year were left unclaimed under the tree.' Read More</p><p>Apple workers tell CEO Tim Cook: 'We demand location-flexible work'</p><p>Petition launched by a group of workers calling itself AppleTogether. Read More</p><p>More than half of the U.S. labor force will be freelance by 2027. Here's why that's a good thing for workers and businesses alike</p><p>Businesses will avail themselves of the best talent on a project-by-project basis, whether that project is simple and quick or complex and more long term. Read More</p><p>Used car prices crept up again, but there's some good news</p><p>New cars are still selling for more than ever, affecting the used market. Here are the used cars with the most and least inventory. Read More</p><p>Big chance for a fresh start for student loan borrowers who are in default</p><p>About 7.5 million student loan borrowers with loans in default have a chance to enter repayment in \"good standing\" — but only if they want in. Read More</p><p>'The pause has meant everything:' What happens to borrowers — and the economy — if Biden lets student loan payments resume in September</p><p>As borrowers wait for answers from the Biden Administration about what's next, a debate is unfolding about the potential economic impact officials' decision Read More</p><p>America has entered a housing recession, builders and brokers say. But what does that mean if you're buying or selling a house?</p><p>Recession fears are affecting buyers, who consume more media and information about the future of the economy. Read More</p><p>U.S. house values fell for the first time since 2012 and what happens to borrowers and the economy if Biden lets student loan payments resume in September</p>",
+  "published": "2022-08-22T20:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 349,
+          "end": 354
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0591962,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.059196234,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

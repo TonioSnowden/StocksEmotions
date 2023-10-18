@@ -1,0 +1,54 @@
+{
+  "_id": "57319152af5313e6e03f344ecce0848d5cee66b1cc40d138325837c2a196c885",
+  "feed": "market-watch",
+  "title": "Stocks headed for more pain as 3,900 becomes new line in the sand for the S&P 500, chart watchers say",
+  "text": "<p>\"At this point we do not expect the June lows to be broken, but a meaningful break under 3,900 would have us re-evaluate that thesis,\" Krinsky said.</p><p>Krinsky is hardly alone in expecting more pain for stocks in the near term.</p><p>Since the start of the year, U.S. stocks have had a tendency to chase momentum, exacerbating moves both to the downside and the upside. Based on this, Nicholas Colas, co-founder of DataTrek Research, pointed out on Monday that Friday's drawdown marked the seventh time this year that the S&amp;P 500 has fallen by 3% or more in a single session.</p><p>Colas crunched the numbers and found that, since the start of 2022, the average one-week forward return for the S&amp;P 500 has been minus 0.4%.</p><p>\"The history of down +3 percent days in 2022 says not to expect much of a near-term bounce back from Friday's rout. In fact, one could justify being quite cautious here,\" Colas said.</p><p>Krinsky also highlighted some discouraging trends in Apple Inc. AAPL, one of the market's most consequential stocks thanks to its massive market capitalization, which is north of $2.5 trillion.</p><p>According to Krinsky, Apple shares, which were down more than 2% on Monday, look vulnerable for the following reasons: until last week, Apple shares had exceeded the stock's 50-day moving average by one of the largest margins seen over the past 7 years.</p><p>Earlier this month, analysts like Colas and others have pointed to this outperformance as a sign of froth in markets. Turns out, they were correct. Now, Krinsky fears Apple could help lead markets lower.</p><p>John Kosar, chief market strategist at Asbury Research, said that the firm's tactical \"correction protection model\" had shifted to \"risk off\" territory as of Aug. 24.</p><p>As a result, Asbury Research is advising clients primarily interested in wealth preservation to reduce their exposure to equities.</p><p>One final reason for investors to remain cautious: Colas pointed out that near-term lows this year have tended to coincide with readings north of 30 on the Cboe Volatility Index, also known as the VIX VIX. The gauge, which is based on movements in near-term S&amp;P 500 options, climbed above 26 on Monday.</p><p>\"Investors likely won't see an all-clear until the gauge tops 30,\" Colas said.</p><p>The main indexes finished lower on Monday with the S&amp;P 500 down 0.7%, the Dow Jones Industrial Average DJIA retreating 0.6%, and the Nasdaq Composite shedding 1% COMP.</p><p>Stocks headed for more pain as 3,900 becomes new line in the sand for the S&amp;P 500, chart watchers say</p>",
+  "published": "2022-08-29T20:28:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999568,
+      "offsets": [
+        {
+          "start": 1107,
+          "end": 1112
+        },
+        {
+          "start": 1495,
+          "end": 1500
+        },
+        {
+          "start": 944,
+          "end": 954
+        },
+        {
+          "start": 937,
+          "end": 946
+        },
+        {
+          "start": 1099,
+          "end": 1104
+        },
+        {
+          "start": 1213,
+          "end": 1218
+        },
+        {
+          "start": 955,
+          "end": 959
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.0001707,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00017046928,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

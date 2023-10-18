@@ -1,0 +1,72 @@
+{
+  "_id": "44eb5f89e216dc8a6293c4b0fbee2a167423b78cf63a43410a1d2db4a0f3fa61",
+  "feed": "ftcomall",
+  "title": "Microsoft hack escalates as criminal groups rush to exploit flaws ",
+  "text": "<p>What began as a clandestine Chinese espionage campaign targeting “specific individuals” via flaws in Microsoft email software has escalated into a devastating global hacking free-for-all that is claiming tens of thousands of business and public-sector victims.&#xa0;</p> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) issued an alert on Twitter late on Monday urging “ALL organizations across ALL sectors to follow guidance to address the widespread domestic and international exploitation” of four vulnerabilities in Microsoft's Exchange email application, which the tech company <a href=\"https://www.ft.com/content/c9601a1a-ab3b-4059-8ca3-67b8387b6170\">disclosed a week ago</a>.</p> <p>Microsoft's announcement last Tuesday blamed a Chinese state-backed hacking group known as Hafnium for conducting the stealthy attacks, which began penetrating the email servers of choice targets at the beginning of the year. It has issued fixes for the bugs.</p> <p>But experts said that since attention was drawn to the flaws, there has been a flood of attacks by multiple hacking outfits — including criminal groups — rushing to compromise victims before they secure their systems.</p> <p>The European Banking Authority this week became the first notable body to <a href=\"https://www.eba.europa.eu/cyber-attack-european-banking-authority\">publicly</a> say it had been compromised. It is unlikely to be the last.&#xa0;</p> <p>“Every possible victim that hadn't patched by mid-to-end of last week has already been hit by at least one or several actors,” said Dmitri Alperovitch, co-founder of security group CrowdStrike, who now runs the Silverado Policy Accelerator think-tank.</p> <p>“As these exploits propagate to the criminal element, this issue will become a crisis for organisations with the least resources,” John Hultquist, vice-president of FireEye's Mandiant Threat Intelligence <a href=\"https://twitter.com/JohnHultquist/status/1369106124625088514\">warned</a> on Twitter.&#xa0;</p> <h2>Growing concerns</h2> <p>The concern comes as companies and government agencies have already come under threat from a Russian espionage campaign, in which the perpetrators hijacked a ubiquitous IT software product to gain access to thousands of victims' systems.</p> <p>In the <a href=\"https://www.ft.com/content/c13dbb51-907b-4db7-8347-30921ef931c2\">sprawling SolarWinds hack</a>, which affected organisations including the US commerce and Treasury departments, hackers lurked deep within some&#xa0;systems for more than a year in what some experts have cast as typical intelligence-gathering activity.</p> <p>At first, the Microsoft hack appeared to have been equally stealthy. Sean Koessel, vice-president of professional services at Volexity, a cyber security group that helped identify the Microsoft vulnerabilities, said that in early January it had uncovered hackers targeting “very specific individuals” from NGOs and think-tanks.</p> <p>“They were able to come in at will and very selectively steal emails . . . It wasn't like a smash-and-grab,” he said.&#xa0;</p> <p>But during the last weekend of February, either Hafnium or another group rapidly escalated their attacks. After Microsoft made the vulnerabilities public, a third, even bigger wave of attacks arrived as other criminal groups jumped to exploit the flaws. “Everything broke loose,” said Koessel.</p> <p>For the second time in less than four months, the world's public and private sectors have been left <a href=\"https://www.ft.com/content/d3fc0b14-4a82-4671-b023-078516ea714e\">scrambling to ascertain</a> if they have been hit — and if so, what damage has been done. Where hackers have established toeholds in systems, they will need to be carefully ejected, experts said.</p> <p>“Incident response teams are BURNED OUT [and] this is at a really bad time,” <a href=\"https://www.ft.com/content/975cd642-7202-46d4-b127-4811df0ee3c3\">Chris Krebs</a>, the former CISA chief during the Trump administration, <a href=\"https://twitter.com/C_C_Krebs/status/1368004401705717768\">wrote</a> on Twitter, describing the attacks as “the real deal”.&#xa0;</p> <p>In the meantime, estimates of the number of victims continue to vary. Seasoned cyber security researcher Brian Krebs has claimed that at least <a href=\"https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/\">30,000</a> US organisations “including a significant number of small businesses, towns, cities and local governments” were hacked in the days following Microsoft's disclosure, citing multiple sources briefed on the matter. Other estimates have run as high as 250,000 victims.</p> <p>Huntress, a cyber security group focused on small businesses, said it had uncovered more than 350 breached victims from among its clientele including “small hotels, an ice cream company, a kitchen appliance manufacture, multiple senior citizen communities and other ‘less than sexy' mid-market businesses”. </p> <p>Roni Suchowski, a UK-based independent security researcher, tested almost 12,000 Exchange servers that are accessible to the internet and found that about 4,500 were vulnerable, more than a third of the sample. The UK-based organisations affected included government and NHS sites, academic institutions, law firms and private companies, Suchowski said, including one FTSE 250 property group that patched its server after being contacted about the flaw. It is unclear how many may have been attacked. </p> <p>An increasingly frantic series of announcements from US officials over the past week encouraged immediate action from organisations. On Friday, CISA held a call, first reported by the Wall Street Journal, with more than 4,000 critical infrastructure groups in both the private sector and the government urging them to patch their systems.</p> <p>Jen Psaki, White House press secretary, said on Friday that there was a “large number of victims” in this “active hack”.&#xa0;&#xa0;</p> <h2>‘Microsoft has the resources of a nation state'</h2> <p>China has long been one of the most active nations in conducting cyber warfare against the US. For example, it successfully obtained sensitive data on several million government employees in a hack of the Office of Personnel Management, which was uncovered in 2015.</p> <p>Theresa Payton, former White House chief information officer and chief executive of cyber security consultancy Fortalice Solutions, said that the first wave of targeted attacks was likely to have been a classic Chinese “industrial espionage” campaign.&#xa0;</p> <p>Hackers might have been hunting for research and development information <a href=\"https://www.ft.com/content/195f3704-fc9c-49f1-bc89-e09f919912db\">on coronavirus vaccines</a>, intellectual property relating to Big Tech or indicators of US trade policies regarding China, she said.&#xa0;Beijing has denied responsibility.</p> <p>She and other experts have suggested that China could also be responsible for some of the less discriminate rash of attacks, even if it was a separate group of hackers to the more careful Hafnium.&#xa0;</p> <p>“There are still [Chinese state-backed hacking] units that . . . are like a Hoover vacuuming up all the grains of sand on the beach to take into their back office and then sift [them] looking for the gems,” she said.&#xa0;&#xa0;</p> <p>Experts warned that the onslaught by criminal hacking groups could mean victims would shortly find themselves hit by <a href=\"https://www.ft.com/content/acf4ac78-c738-48c6-8de1-077697e062d6\">ransomware attacks</a> — whereby attackers seize victims' data and will only release it if they receive payment.&#xa0;</p> <p>The attacks have prompted some to urge President Joe Biden to take a more aggressive stance towards China at a time when his government is already exploring <a href=\"https://www.ft.com/content/d7d67ea7-8423-4b9c-819d-761fa4a10fa0\">penalties including sanctions</a> against Russia for the SolarWinds hack.</p> <p>“This in my view deserves a significant response by the Biden administration,” said Alperovitch.&#xa0;</p> <p>The hacks also marked a <a href=\"https://www.ft.com/content/f97bc1e3-e591-47f2-b4d5-228f0ff1a284\">second embarrassment</a> for Microsoft, after it emerged that weaknesses in its systems had played a role in facilitating some of the SolarWinds breaches.</p> <p>“Microsoft has the resources of a nation state,” said Ron Gula, co-founder of Tenable and a former NSA staffer who invests in cyber security groups. “On the other hand, they're so big. There's a lot of complexity in what they are doing.”</p> <p>Koessel said: “It's the nature of software, things are going to get missed.”&#xa0;</p> <p><em>Additional reporting by Kiran Stacey in Washington and Tim Bradshaw in London</em></p><p>Source: Hannah Murphy in San Francisco 2021 'Microsoft hack escalates as criminal groups rush to exploit flaws ' FT.com 9 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-09T09:24:46.734Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3745,
+          "end": 3754
+        },
+        {
+          "start": 2773,
+          "end": 2782
+        },
+        {
+          "start": 6962,
+          "end": 6971
+        },
+        {
+          "start": 2398,
+          "end": 2407
+        },
+        {
+          "start": 7088,
+          "end": 7098
+        },
+        {
+          "start": 610,
+          "end": 619
+        },
+        {
+          "start": 525,
+          "end": 534
+        },
+        {
+          "start": 5139,
+          "end": 5149
+        },
+        {
+          "start": 3745,
+          "end": 3756
+        },
+        {
+          "start": 101,
+          "end": 110
+        },
+        {
+          "start": 2228,
+          "end": 2237
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 610,
+          "end": 621
+        },
+        {
+          "start": 525,
+          "end": 536
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

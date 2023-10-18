@@ -1,0 +1,20 @@
+{
+  "_id": "192309ae6a4ee229eee595120d704024eb2470372805b4d161fe1d626bb5ff9e",
+  "feed": "wall-street-journal",
+  "title": "One-Upping John Rockefeller",
+  "text": "<p>Bill Apple</p><p>New York</p>",
+  "published": "2021-12-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5,
+          "end": 10
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

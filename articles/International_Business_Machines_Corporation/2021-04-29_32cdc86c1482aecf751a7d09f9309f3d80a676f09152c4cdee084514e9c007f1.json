@@ -1,0 +1,24 @@
+{
+  "_id": "32cdc86c1482aecf751a7d09f9309f3d80a676f09152c4cdee084514e9c007f1",
+  "feed": "ftcomall",
+  "title": "Goldman Sachs predicts quantum computing 5 years away from use in markets",
+  "text": "<p>Quantum computing could be brought to bear on some of the most complex calculations in financial markets within five years, considerably earlier than expected, according to research jointly conducted by Goldman Sachs.</p> <p>The findings come as banks and other companies at the leading edge of quantum research have turned their attention to trying to get practical results using the imperfect quantum computers that are expected to be in use in the next few years, rather than wait for the much more powerful systems that are one day expected to bring a revolution in computing.</p> <p>The bank's research, conducted with quantum start-up QC Ware, suggests that programmers looking to harness the machines could achieve practical results sooner in return for giving up some of the huge gains in performance that quantum systems promise.</p> <p>The work reflects a recent effort by companies investing in the field to search for “quantum advantage”, or a marginal practical improvement compared with existing computers. That is a more modest goal than waiting for full “quantum supremacy”, the term used for when quantum systems are able to solve problems that are essentially impossible for a classical computer.</p> <p>The research looked into using quantum machines to price complex derivatives, one of the most computing-intensive tasks in the financial markets and a significant cost for banks. The calculations rely on so-called Monte Carlo simulations, which involve making a large number of projections about future random market movements to calculate the probability of a particular outcome.</p> <p>The research pointed to near-term breakthroughs that will make it possible to quote prices over the phone to customers looking to trade complex derivatives, rather than wait the hours it can sometimes take to run calculations using today's computers, said Paul Burchard, head of research in Goldman's R&amp;D. “There's a very large computing bill we pay each year to price those derivatives and run risk on them,” he added.</p> <p>In <a href=\"https://arxiv.org/abs/2012.03819v2\">earlier research</a> last year with IBM, Goldman calculated that it would need a quantum computer with about 7,500 quantum bits, or qubits, to run a full Monte Carlo simulation.</p> <p>IBM and Google are among the companies racing to build such systems, which are expected to arrive within five years.</p> <p>However, they use qubits that only maintain their quantum state for brief periods, making the systems rife with errors. Research into the techniques needed to overcome this problem is still in its early stages, meaning the full benefits of quantum machines could be many years away.</p> <p>The bank's <a href=\"https://arxiv.org/abs/2012.03348\">latest research</a>, with QC Ware, looked into how to run a less exhaustive simulation that could be completed in the brief period of time available before errors creep in. </p> <p>Details of the work were first presented at the Q2B 2020 conference and have since been refined into a paper undergoing peer review ahead of publication.</p> <p>Rather than a 1,000-fold improvement expected of a fully error-corrected quantum computer, running such a calculation using today's imperfect quantum hardware could yield a 10-fold gain within five years, according to the researchers — still enough to justify putting the computers to use on practical problems.</p> <p>The same technique was likely to prove useful in other industries and accelerate the adoption of quantum computing more widely, said Matt Johnson, chief executive of QC Ware. </p> <p>Monte Carlo simulations were used in other areas of finance, as well as industries such as aerospace and automotive, he added, making this type of computing problem “pretty uniform across industry”.</p> <p><em>This article has been amended since publication to correct the name of the conference where parts of the research were first presented.</em></p><p>Source: Richard Waters in San Francisco 2021 'Goldman Sachs predicts quantum computing 5 years away from use in markets' FT.com 29 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-29T13:34:29.611Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 2172,
+          "end": 2175
+        },
+        {
+          "start": 2030,
+          "end": 2033
+        }
+      ]
+    }
+  ]
+}

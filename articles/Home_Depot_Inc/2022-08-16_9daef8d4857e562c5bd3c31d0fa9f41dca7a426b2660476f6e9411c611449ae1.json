@@ -1,0 +1,42 @@
+{
+  "_id": "9daef8d4857e562c5bd3c31d0fa9f41dca7a426b2660476f6e9411c611449ae1",
+  "feed": "market-watch",
+  "title": "Home Depot stock climbs toward 5-month high as 'incredibly resilient' customers, inflation boost sales above expectations; Stock's surge takes it more than 20% off the 15-month low hit in June",
+  "text": "<p>The stock HD shot up 4.3% in afternoon trading, to put it on track for the highest close since March 18. The stock has now soared 22.0% since closing at a 15-month low of $268.98 on June 22.</p><p>The company reported net income for the quarter to July 31 that rose to $5.17 billion, or $5.05 a share, from $4.81 billion, or $4.53 a share, in the same period a year ago. That beat the FactSet consensus for earnings per share of $4.95.</p><p>Sales grew 6.5% to $43.79 billion, to exceed the FactSet consensus of $43.36 billion.</p><p>Overall same-store sales increased 5.8%, topping the FactSet consensus of 4.9% growth, while U.S. same-store sales rose 5.4% to top expectations of a 4.8% rise.</p><p>Sales increased even through the number of transactions decreased 3.1%, because the average ticket increased by 9%, said Jeff Kinnaird, executive vice president of merchandising, on the post-earnings conference call with analysts. The growth in average ticket was driven primarily by inflation across the company's product categories, he said.</p><p>On the downside, \"deflation from core commodity categories,\" such as lumber, hurt the growth in average ticket by 14 basis points (0.14 percentage points), Kinnaird said, according to a FactSet transcript.</p><p>Meanwhile, cost of sales increased 6.8% to $29.31 billion, as gross margin contracted 15 basis points to 33.1%.</p><p>For the full year, the company affirmed its previous guidance for overall sales and same-store sales to grow about 3%, and for EPS to increase in the mid-single digits percentage range.</p><p>When asked on the conference call if a slowdown in the housing market has started to leak into the home improvement market, management said \"we have not seen that yet.\"</p><p>Wells Fargo analyst Zachary Fadem reiterated the overweight rating on Home Depot's stock and the $350 price target, citing \"solid\" margins and \"encouraging\" forward commentary.</p><p>\"All in, the housing overhang remains, yet we see valuation discounted accordingly…and considering a business firing on most cylinders, we believe the shares can work nicely from here,\" Fadem wrote in a note to clients.</p><p>Home Depot's stock has run up 10.9% over the past three months, while the Dow Jones Industrial Average DJIA has tacked on 5.9%. Shares of rival Lowe's Companies Inc. LOW, which reports results before Wednesday's open, hiked up 3.3% on Tuesday, and have advanced 10.4% over the past three months.</p><p>Home Depot stock climbs toward 5-month high as 'incredibly resilient' customers, inflation boost sales above expectations</p>",
+  "published": "2022-08-16T19:10:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 1752,
+          "end": 1762
+        },
+        {
+          "start": 2077,
+          "end": 2087
+        },
+        {
+          "start": 2387,
+          "end": 2397
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

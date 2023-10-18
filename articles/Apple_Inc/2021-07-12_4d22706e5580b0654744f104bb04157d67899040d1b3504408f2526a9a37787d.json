@@ -1,0 +1,40 @@
+{
+  "_id": "4d22706e5580b0654744f104bb04157d67899040d1b3504408f2526a9a37787d",
+  "feed": "wall-street-journal",
+  "title": "Technology  ---  PERSONAL TECHNOLOGY:  Finding the Right  Password Keeper  ----  By Nicole Nguyen",
+  "text": "<p>\n  With ransomware attacks on the rise -- and compromised passwords to blame for some of them -- it's a good time to review your personal security practices. </p><p>\n  It all starts with how you create and store passwords. You may have read a thing or two about password managers. This software can create randomized passwords, then remember them for you, and they can auto-fill credentials. </p><p>\n  This column compares the two main types: The free manager built into a web browser or mobile operating system; and third-party apps that work across several platforms. </p><p>\n  Keep in mind that there is large variation in usability, security and accessibility among these offerings. Firefox's browser-based Lockwise has a mobile app that works with Android and iOS devices, while Google's Password Manager supports Android mobile apps, but not iOS apps. In a move to add an extra bit of protection, 1Password uniquely requires a 64-character \"secret key\" -- in addition to a master password and multifactor authentication -- to authorize new devices or web logins. </p><p>\n  Here are the pros and cons of each approach: </p><pre>\n </pre><p>\n  Built-in password manager </p><p>\n   Pros: If you use the same browser on all platforms, they can work. If you remain within a specific ecosystem (e.g., Google's or Apple's), the built-in manager could meet your needs. If you use Chrome on your computer and phone, your Google-stored passwords will be accessible on any webpage and -- if you use Android -- your mobile apps, too. Apple's iCloud Keychain works seamlessly within its walled garden, and even a bit beyond: There's an iCloud Passwords browser extension for Chrome on Windows machines. However, it doesn't support Android devices. </p><p>\n   They're easy to use and free. You don't have to download anything, or pay a monthly subscription fee. </p><p>\n   Cons: You can't easily share passwords with others. Google's Password Manager doesn't have sharing capabilities, and Apple's iCloud Keychain only allows sharing with nearby contacts via AirDrop. </p><p>\n   Apple's iCloud Keychain is tough to leave. If you want to switch to another password manager, Google makes it relatively easy to export passwords, but Apple doesn't provide a similar export option. </p><p>\n   On Chrome, access to your device means access to your passwords. Google's Password Manager can't be \"locked\" and doesn't require a unique master password to auto-fill credentials. To view passwords in plain text, you will need to enter your computer password. So make sure the password on your computer or mobile device can't easily be guessed. (Apple's iCloud Keychain requires authentication before auto-filling passwords.) </p><pre>\n </pre><p>\n  Third-party password manager </p><p>\n   Pros: They're compatible with many platforms. Most third-party applications -- the best being 1Password, Dashlane and LastPass -- work with a variety of devices and systems. </p><p>\n   You can save different kinds of secrets. Many services include secure, encrypted notes to protect PINs or other kinds of login info, plus credit cards, addresses and more. </p><p>\n   There are more granular security settings. For example, you can tell the application to log you out or clear a clipboard after certain periods. </p><p>\n   Cons: You have to remember your master password. This long string essentially holds the key to your online kingdom and secure systems don't offer a way to easily recover this master password if you forget. (Dashlane does allow users to set an emergency contact who can help recover your account.) Most managers offer two-factor authentication, plus extra verification when you log in from a new device or location. </p><p>\n   You have to pay for full functionality. Most services -- with the exception of the free Bitwarden -- require a paid subscription to use the password manager across multiple devices. 1Password doesn't offer a free tier at all. </p><p></p>",
+  "published": "2021-07-12T06:01:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1884,
+          "end": 1889
+        },
+        {
+          "start": 2506,
+          "end": 2511
+        },
+        {
+          "start": 1962,
+          "end": 1967
+        },
+        {
+          "start": 2113,
+          "end": 2118
+        },
+        {
+          "start": 1452,
+          "end": 1457
+        },
+        {
+          "start": 1237,
+          "end": 1242
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

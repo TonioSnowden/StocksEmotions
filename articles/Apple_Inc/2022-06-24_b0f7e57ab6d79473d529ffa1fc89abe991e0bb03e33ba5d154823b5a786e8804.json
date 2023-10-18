@@ -1,0 +1,52 @@
+{
+  "_id": "b0f7e57ab6d79473d529ffa1fc89abe991e0bb03e33ba5d154823b5a786e8804",
+  "feed": "wall-street-journal",
+  "title": "Lawmakers Want FTC to Investigate Apple, Google Over Mobile Tracking; Identifiers built into iOS and Android facilitate the collection and sale of personal data, Democrats say",
+  "text": "<p>Both companies have recently taken steps to limit the collection of user data through these mobile-ad identifiers—a string of numbers and letters built into iOS and Android, the respective mobile operating systems of Apple and Google. Users of both operating systems now have a way to opt out of having their identifier transmitted to apps. Apple last year introduced a new version of its software that requires each app to ask the user for permission to access the device's identifier, and Google is planning to adopt new privacy restrictions to curtail tracking across apps on Android smartphones.</p><p>\"Until recently, however, Apple enabled this tracking ID by default and required consumers to dig through confusing phone settings to turn it off. Google still enables this tracking identifier by default, and until recently did not even provide consumers with an opt-out,\" said the letter, which was signed by Sen. Ron Wyden (D., Ore.); Sen. Elizabeth Warren (D., Mass.); Sen. Cory Booker (D., N.J.); and Rep. Sara Jacobs (D., Calif.). \"These identifiers have fueled the unregulated data broker market by creating a single piece of information linked to a device that data brokers and their customers can use to link to other data about consumers.\"</p><p>These identifiers are ostensibly anonymous, they wrote, but can be easily traced back to the individuals who own the phones associated with them. \"It is often possible to easily identify a particular consumer in a dataset of 'anonymous' location records by looking to see where they sleep at night,\" they wrote.</p><p>Representatives for the FTC, Apple and Google didn't immediately respond to requests for comment.</p><p>Since Ms. Khan took over the FTC about a year ago, the agency has been looking to strengthen the rules that govern how digital businesses collect user data. The agency can also bring enforcement actions against companies for unfair or deceptive practices.</p><p>In the wake of Apple's move last year to require apps on its iOS platform to ask the user for permission to access the device's identifier, digital-ad companies have become less able to target ads with precision and prove that the ads generate sales. Meta Platforms Inc., the parent of Facebook and Instagram, said earlier this year that it expected a roughly $10 billion hit to 2022 sales as a result of Apple's change.</p><p>The office of Mr. Wyden on Friday said the possibility that the Supreme Court might repeal Roe v. Wade prompted lawmakers to call on the FTC to act, \"along with growing awareness of how the advertising ecosystem causes users' information to be abused.\" Later Friday morning, the Supreme Court overturned Roe v. Wade, eliminating the constitutional right to an abortion and leaving the question of abortion's legality to the states.</p><p>\"Prosecutors in states where abortion becomes illegal will soon be able to obtain warrants for location information about anyone who has visited an abortion provider,\" the lawmakers wrote in their letter. \"Private actors will also be incentivized by state bounty laws to hunt down women who have obtained or are seeking an abortion by accessing location information\" through data brokers, they wrote.</p><p>\"The FTC should investigate Apple and Google's role in transforming online advertising into an intense system of surveillance that incentivizes and facilitates the unrestrained collection and constant sale of Americans' personal data,\" they wrote.</p><p>Write to Patience Haggin at patience.haggin@wsj.com</p><p>Lawmakers Want FTC to Investigate Apple, Google Over Mobile Tracking</p>",
+  "published": "2022-06-24T15:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3503,
+          "end": 3508
+        },
+        {
+          "start": 217,
+          "end": 222
+        },
+        {
+          "start": 341,
+          "end": 346
+        },
+        {
+          "start": 3197,
+          "end": 3202
+        },
+        {
+          "start": 1930,
+          "end": 1935
+        },
+        {
+          "start": 626,
+          "end": 631
+        },
+        {
+          "start": 1590,
+          "end": 1595
+        },
+        {
+          "start": 34,
+          "end": 39
+        },
+        {
+          "start": 2320,
+          "end": 2325
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "e15ad35df425f1ad78649b22e6e7bf2364a5c85454924f0b36d10ffa50e142d5",
+  "feed": "wall-street-journal",
+  "title": "Nancy Pelosi's Taiwan Gambit Reshapes Political Risk in Asia; Big market moves are unfolding in the wake of the speaker's visit and China's response. But they still probably underestimate the real impact.",
+  "text": "<p>Markets reacted strongly but not catastrophically. U.S. 10-year Treasury yields fell to a four-month low ahead of Mrs. Pelosi's arrival as investors fled for safety—and then jumped back after her plane landed without incident. Taiwan's main stock index, after a precipitous drop Tuesday, has since clawed back all that ground. Shares of Semiconductor Manufacturing International Corp., China's chip manufacturing national champion, which also dropped ahead of the visit, have gained 15% since her plane landed and China announced its military drills. The S&amp;P Defense and Aerospace Select Index is up 9% since July 18, when news of Mrs. Pelosi's planned trip first broke, outpacing the S&amp;P 500's 8% gain.</p><p>Those are substantial market moves, but they still don't reflect the real import of the event.</p><p>The visit marks a significant turning point in Sino-U.S. relations and the cross-strait strategic environment. Beneficiaries could include Taiwan's competitors—especially Samsung and Intel, if Taiwan's ability to supply chips in a crisis comes under further question. Losers probably include multinational manufacturers of nearly everything else outside of defense, who rely on a stable and predictable security environment in Asia. This includes those with an outsize presence in China like Apple, or U.S. firms that depend on Chinese business like Boeing.</p><p>China's naval drills surrounding the island, which are scheduled to end Sunday, probably won't result in a direct military clash, although an accident or miscalculation can't be ruled out. The problem is that these new exercises—surrounding the island and blocking main routes to key ports—are far more ambitious than anything China has tried before, and look like a trial run for a real blockade, either full or partial.</p><p>All of this comes as China's economic problems—a dysfunctional housing market, high youth unemployment, rising skepticism among Western multinationals and a capricious regulatory environment—increasingly look structural rather than cyclical. More regular exercises of this sort would have several advantages from Beijing's perspective: They distract from problems at home, they make the U.S. and its allies look toothless, and they serve as practice for an actual invasion or blockade.</p><p>SHARE YOUR THOUGHTS</p><p>What does the speaker's visit to Taiwan mean for Sino-U.S. relations? Join the conversation below.</p><p>A real blockade remains very risky—especially since China still needs lots of things, especially advanced microchips, from Taiwan and the Western world. But the persistent threat of a blockade or other \"gray zone\" military action could still raise the cost of doing business with Taiwan, give a boost to competitors like Samsung in Korea and weigh on Taiwanese assets in general.</p><p>The spat unfolding right now also makes any kind of serious rapprochement between China and the U.S. harder. Initiatives like removing bilateral tariffs may become too heavy a political lift. And multinationals like Apple, eyeing an increasingly unstable geopolitical environment around China's periphery, may be forced to further accelerate their diversification plans—eventually creating more resilient supply chains but significantly raising costs for years.</p><p>It is possible to construct a case for a more positive outcome. Beijing's intimidation could focus minds both in Taiwan and in the U.S. on the need for much more, and better-targeted spending to bolster Taiwan's defenses, and for already sold arms to arrive sooner. Quiet pressure from foreign multinationals in China and domestic economic interests could convince Beijing that aggressive maneuvers toward Taiwan are self-defeating because they drive away critically needed investment.</p><p>But the cycle of escalation—and ideological conflict—also has its own logic that can be difficult to derail and lead to unpredictable outcomes. And Mrs. Pelosi is far from the only important, elderly politician that will be eyeing their legacy in the months and years ahead: Chinese President Xi Jinping himself will ultimately decide what course China takes. Investors, and everyone else, must hope leaders on both sides find wisdom and good counsel to match their ambition.</p><p>Write to Nathaniel Taplin at nathaniel.taplin@wsj.com</p><p>Nancy Pelosi's Taiwan Gambit Reshapes Political Risk in Asia</p>",
+  "published": "2022-08-06T14:03:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 982,
+          "end": 987
+        },
+        {
+          "start": 975,
+          "end": 980
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0001166,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.000116586685,
+        "titleWeight": 0.0
+      },
+      "typeRank": 29
+    }
+  ]
+}

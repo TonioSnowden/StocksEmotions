@@ -1,0 +1,32 @@
+{
+  "_id": "5b1aaaffe78a9f780fdeadc65763c67aa5baae2abdf0b83ed375905b1586c128",
+  "feed": "wall-street-journal",
+  "title": "Cybersecurity (A Special Report)  ---  At J&J, 15.5 Billion Potential Threats a Day:  The company's CISO talks about the sources of attack  ----  By Daniela Hernandez",
+  "text": "<p>\n  Covid-19 vaccines have transformed the global economy. The companies that produce them, meanwhile, already a big target for hackers, have to be more on their toes than ever. </p><p>\n  Marene Allison, chief information security officer at Johnson &amp; Johnson, oversees the company's efforts to protect its operations from cybercrime. Ms. Allison spoke about the challenges J&amp;J faces with Daniela Hernandez, a reporter for The Wall Street Journal, as part of the WSJ Pro Cybersecurity Executive Forum. Edited excerpts of their online interview follow. </p><pre>\n </pre><p>\n  WSJ: Can you give us a sense of how often cyberattacks have been happening in your experience at J&amp;J? </p><p>\n  MS. ALLISON: We're seeing what I would consider 15.5 billion incidents a day. Now how many of them become attacks and get investigated is a much lower number. </p><p>\n  Some are as simple as malware that is just knocked out of the system. We have big data sets. We're bringing in logs and detections from around the world continually. And then we're looking at it with machine learning and AI, as well as other alerts, to know if we have a problem or not. It could be as simple as a log on a server giving an alert that says something is happening. It may be nothing. </p><pre>\n </pre><p>\n  WSJ: Can you talk more about the sources of the threats? </p><p>\n  MS. ALLISON: I bracket them into four main threats. The first one is on the top of the news: nation-state attacks. Looking at the countries that are primarily in this field, it's China, Russia, North Korea and Iran, but many, many others. </p><p>\n  Then you have something called a criminal element that over the last 10 years has increased from very small to very large. What we see with ransomware today, that's mostly criminal enterprise. They may be allowed by some countries to operate in those countries, but it's a criminal enterprise. </p><p>\n  Then you have hacktivists: people with a cause, on a mission. They don't like something a company does, or don't like the stand of a company. They will go ahead and start campaigns that companies have to deal with. </p><p>\n  And the other is insiders. Everything from a disgruntled employee, someone who may have gotten notice; but some countries are actually sending people over, through educational visas, to get jobs or to work on special programs, so they actually can steal the data from inside. </p><pre>\n </pre><p>\n  WSJ: How do you tackle each individual threat? </p><p>\n  MS. ALLISON: For the nation states, the criminal and the hacktivist, you're pretty much going to use your normal toolset: the ability to detect malware, spearphishing, code that's inside your company moving laterally. Also working with third parties from the outside. </p><p>\n  For the insider threat, you may have to work with your global security organization, your legal department, your HR organizations and others on policies and procedures, as well as potentially privacy rules, in different jurisdictions around the globe. </p><p></p>",
+  "published": "2021-06-09T06:01:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 228,
+          "end": 245
+        },
+        {
+          "start": 637,
+          "end": 640
+        },
+        {
+          "start": 360,
+          "end": 363
+        },
+        {
+          "start": 40,
+          "end": 43
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

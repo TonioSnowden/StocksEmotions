@@ -1,0 +1,58 @@
+{
+  "_id": "a12b49b1362421a10cb59931ca26ba5f5d759c2163d022297ea5c6e707dab574",
+  "feed": "wall-street-journal",
+  "title": "Apple Watch Ultra, Series 8 and SE: A Guide to Apple's New Smartwatch Lineup; New sensors for ovulation tracking and car crash detection, and a hulking new watch with multi-day battery life for outdoors enthusiasts",
+  "text": "<p>When I go on an overnight camping trip or all-day bike ride, I keep my Apple Watch in airplane mode to squeeze as much juice out of it as possible. I would probably use the watch to track my sleep if I didn't have to charge it every night. The Ultra could change that.</p><p>Apple Product Event</p><p>* Apple Event Live Updates</p><p>* Apple Unveils iPhone 14 Lineup</p><p>* How the iPhone 14, 14 Plus and 14 Pro Compare to Apple's iPhone 13 Lineup</p><p>So could older watches that are compatible with the next upgrade: Apple's new Low Power mode, available for Series 4 and newer models running WatchOS 9, disables features to extend battery life up to 36 hours.</p><p>The company also introduced the mainstream Series 8, with an added temperature sensor for improved tracking of menstrual cycles and ovulation, and a new entry-level SE model. Both have sensors to detect car crashes.</p><p>Here's a breakdown of the three new Apple Watch models:</p><p>Apple Watch SE second-generation ($249 for GPS; $299 for cellular): This SE is the most affordable Apple Watch in the lineup, and my recommendation for most people interested in activity tracking. (Apple discontinued the Series 3, previously sold for $199.) The newest generation is 20% faster than the previous version. Car crash detection is a new feature that can alert emergency services and loved ones if it senses a vehicle collision. The cellular version now supports international roaming.</p><p>Like the first-generation SE, this aluminum-encased watch has basic features, and health and fitness functionality: GPS for recording outdoor workouts, water-resistance for swimming, fall detection, and high and low heart-rate monitoring. You can listen to downloaded podcasts, Apple Music or Spotify without a phone or cellular connection. There's also Apple Pay, a remote to trigger an iPhone's camera shutter remotely, plus the best Watch feature: the ability to ping a lost iPhone from your watch.</p><p>It has a smaller display than the Series 8, and is available in two sizes, 40 mm and 44 mm, starting Sept. 16.</p><p>Apple Watch Series 8 ($399 for GPS; $499 for GPS + Cellular): The middle-of-the-road Series 8 has all the SE's features, plus more health sensors. This model includes new temperature sensors that check your skin's temperature every five seconds at night, data that can help determine ovulation during the menstrual cycle and improve period predictions.</p><p>Increased temperature can indicate ovulation, and the watch's Cycle Tracking app or the iPhone's Health app can estimate when ovulation occurred during your cycle. It doesn't predict ovulation windows, like other apps—including Natural Cycles, which is FDA-cleared for birth control. (These apps require people to manually take their temperature with a thermometer.)</p><p>The Series 8 has the same size screen as the previous generation, as well as the Series 7's blood-oxygen sensors and an ECG monitor to detect atrial fibrillation, a form of irregular heart-rate rhythm. It's available in aluminum and stainless-steel case options in two sizes, 41 mm and 45 mm, on Sept. 16.</p><p>Apple Watch Ultra ($799 for GPS + Cellular): The Ultra is the most novel Apple Watch yet, with all the sensors of the Series 8, plus a bigger battery and brighter screen, as well as apps for the extreme sports crowd. It's the first Apple Watch rated with a battery life longer than \"all-day.\" The company said the Ultra can last 36 hours during normal use, and on an optimized battery setting coming later this fall, it will potentially reach up to 60 hours.</p><p>That alone is useful for long-distance athletes and overnight backpackers, but it's not the only new feature in the titanium-encased Ultra, which also offers improved GPS, the ability to withstand more extreme temperatures, water resistance up to 100 meters (compared with Series 8's 50 meters).</p><p>A depth gauge included in a new dive-computer app is meant for scuba divers.</p><p>Backtrack is a new GPS-enabled app that can help hikers retrace their steps and can automatically kick in when you're off the grid. In an emergency situation, the company says an 86-decibel siren is audible up to 600 feet.</p><p>SHARE YOUR THOUGHTS</p><p>What new Apple Watch features would you be most likely to upgrade for? Join the conversation below.</p><p>Apple's new sports-oriented Ultra is aimed squarely at serious athletes and outdoorsy types who have typically opted for chunky, rugged Garmin watches. It's big—the biggest Apple Watch yet—at 49 mm, which will probably look huge on my tiny wrists. I guess that's the trade-off for a wearable with a bigger battery.</p><p>The Ultra is available on Sept. 23. Stay tuned for my review.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p><p>Apple Watch Ultra, Series 8 and SE: A Guide to Apple's New Smartwatch Lineup</p>",
+  "published": "2022-09-07T21:54:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 47,
+          "end": 52
+        },
+        {
+          "start": 266,
+          "end": 271
+        },
+        {
+          "start": 288,
+          "end": 293
+        },
+        {
+          "start": 315,
+          "end": 320
+        },
+        {
+          "start": 397,
+          "end": 402
+        },
+        {
+          "start": 400,
+          "end": 405
+        },
+        {
+          "start": 488,
+          "end": 493
+        },
+        {
+          "start": 4188,
+          "end": 4193
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.769234,
+        "baseWeight": 8.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7692325,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

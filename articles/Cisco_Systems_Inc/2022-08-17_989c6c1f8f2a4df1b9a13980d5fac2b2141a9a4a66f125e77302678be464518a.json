@@ -1,0 +1,38 @@
+{
+  "_id": "989c6c1f8f2a4df1b9a13980d5fac2b2141a9a4a66f125e77302678be464518a",
+  "feed": "wall-street-journal",
+  "title": "Stocks Slip Ahead of Fed Minutes; Investors await potential details about the pace of future interest-rate increases",
+  "text": "<p>Stocks have mounted a furious climb recently as investors reassessed expectations that inflation and an economic slowdown could keep share prices falling this year.</p><p>A series of strong earnings reports, as well as data last week showing U.S. inflation eased in July, have spurred much of the recent optimism. Lowe's shares inched higher after it reported quarterly earnings that beat analysts' expectations, following strong results Tuesday from Walmart and Home Depot. Later Wednesday, earnings are due from companies including Cisco Systems and Bath &amp; Body Works.</p><p>Minutes from the Fed's recent meeting, due at 2 p.m. ET, could offer more details about the pace of future interest-rate increases. Federal-funds futures, used by traders to place bets on the course of rates, showed investors on Wednesday were pricing in a 57% chance that the Fed will raise rates by 0.75 percentage point in September, according to CME Group. That marked an increase from a 41% chance the day before.</p><p>\"We're all waiting for the Fed minutes,\" said Florian Ielpo, head of macro at Lombard Odier Investment Managers. \"Like everyone, I'm scratching my head about whether we are experiencing the comeback of a bull market, or if it is just a bear-market rally.\"</p><p>More hawkish signals from the Fed's minutes could pause the stock market's recent rally, investors say. And many money managers are apprehensive that the economy could continue to slow. On Wednesday, retail sales data showed spending at stores, online and in restaurants was flat in July. Economists surveyed by The Wall Street Journal had expected retail spending to climb 0.1%.</p><p>Earnings from Target on Wednesday also presented a cloudy picture of the American consumer. Target's profit fell sharply and the company noted it saw customers cut spending on discretionary items. Still, revenue rose, boosted by strong sales of food and beverage, beauty and household items and more shopper visits. Shares fell 4.9%.</p><p>In commodities, oil prices fell in choppy trading as fears of a global economic slowdown continue to hang over investors. Brent crude, the international oil benchmark, fell 0.5% to $91.86 a barrel, extending its declines into a fourth day.</p><p>Yields on government bonds moved higher. The yield on the benchmark 10-year U.S. Treasury note rose to 2.891% from 2.822% Tuesday. Yields rise when bond prices decline. Meanwhile, the yield on the 2-year note rose to 3.339% from 3.249%, keeping the yield curve inverted. That bond-market signal has historically been considered a key recession predictor.</p><p>Shares of Bed Bath &amp; Beyond jumped 33.3% as individual investors continued to pile into the stock, hoping to push shares even higher andpunish professionals who have bet against the stock.</p><p>Overseas, the pan-continental Stoxx Europe 600 lost 0.7%, while the U.K.'s FTSE 100 rose 0.4%. The U.K.'s Office for National Statistics said Wednesday that consumer prices were 10.1% higher in July than the year before, up from 9.4% in June. Investors sold U.K. government bonds, reflecting expectations that the Bank of England will need to further raise interest rates to tame inflation. The British pound fell 0.1% against the dollar.</p><p>In Asia, stocks moved higher. Hong Kong's Hang Seng gained 0.5%, China's Shanghai Composite rose 0.4% and Japan's Nikkei 225 jumped 1.2%.</p><p>Stocks Slip Ahead of Fed Minutes</p>",
+  "published": "2022-08-17T13:31:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 528,
+          "end": 541
+        },
+        {
+          "start": 525,
+          "end": 538
+        },
+        {
+          "start": 528,
+          "end": 533
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.480624,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.52981627,
+        "tagPositionWeight": 0.01044023,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

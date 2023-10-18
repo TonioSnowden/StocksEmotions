@@ -1,0 +1,29 @@
+{
+  "_id": "1037ef43e5f2319f4b2cb418ee2701c0f42a230ab635c89d7f276caedf863e21",
+  "feed": "reuters",
+  "title": "BRIEF-Spirit Aerosystems Reports Q1 Loss Per Share Of $1.65",
+  "text": "<p>* Q1 LOSS PER SHARE $1.65</p><p>* Q1 ADJUSTED LOSS PER SHARE $1.22</p><p>* Q1 REVENUE $900.8 MILLION</p><p>* SPIRIT AEROSYSTEMS HOLDINGS - FULL-YEAR 2021 CASH USED IN OPERATIONS IS EXPECTED TO BE BETWEEN NEGATIVE $50 MILLION TO NEGATIVE $150 MILLION</p><p>* SPIRIT AEROSYSTEMS HOLDINGS - FULL-YEAR 2021 FREE CASH FLOW IS EXPECTED TO BE BETWEEN NEGATIVE $200 MILLION AND NEGATIVE $300 MILLION</p><p>* SPIRIT AEROSYSTEMS HOLDINGS - EXPECT TO DELIVER ABOUT 160 737 MAX SHIPSETS IN 2021</p><p>* INCREASING 737 MAX PRODUCTION RATES IN LINE WITH BOEING 'S OBJECTIVE OF 31 AIRCRAFT PER MONTH IN 2022</p><p>* Q1 EARNINGS PER SHARE VIEW $-0.86, REVENUE VIEW $901.1 MILLION -- REFINITIV IBES DATA Source text for Eikon: Further company coverage:</p>",
+  "published": "2021-05-05T11:38:41.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.999926,
+      "offsets": [
+        {
+          "start": 504,
+          "end": 510
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.012864,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.012864232,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

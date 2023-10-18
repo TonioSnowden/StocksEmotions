@@ -1,0 +1,114 @@
+{
+  "_id": "859fcc5980343b58a72fceddfbb222c55944c56e0ccbef15645d4d17b2d98c59",
+  "feed": "wall-street-journal",
+  "title": "Loeb Seeks a Disney Sequel --- Activist investor's new Magic Kingdom wish list will be much harder to grant",
+  "text": "<p>Mr. Loeb's Third Point LLC disclosed a stake of one million Disney shares in its quarterly filing Monday. That is well below the 5.3 million shares Third Point owned two years ago, when it campaigned for the company to permanently suspend its dividend and dump that money into its streaming services. His timing then was superb: Disney unveiled a shake-up of its corporate structure a week later that effectively focused all of its media operations on streaming first.</p><p>That move came when investors were keen on any effort to boost streaming viewers as the pandemic was keeping movie theaters and theme parks closed and consumers stuck at home. But Wall Street's view has evolved, as streaming viewers seem to be getting pickier and streaming operators are now expected to focus on earnings and cash flow. So some of Mr. Loeb's latest suggestions for Disney, such as cutting costs and paying down debt, will find a receptive audience and are achievable. But others -- like spinning off sports network ESPN and buying the rest of Hulu -- will be much harder to pull off.</p><p>Take Hulu. The streaming service is 67% owned by Disney now. Comcast's NBCUniversal, which owns the remaining stake, is one of Disney's competitors in streaming with its Peacock service. The deal between the two companies essentially lets either side force a sale of the remaining stake to Disney starting in January 2024. And the price would be the highest of whatever equity value Hulu is assigned at the time, or using a \"guaranteed floor value\" for the service of $27.5 billion, making the Comcast stake by that measure worth at least $9.1 billion.</p><p>In a letter to Disney management on Monday, Mr. Loeb said the company should \"make every attempt\" to acquire the Hulu stake now, given the potential cost savings and revenue synergies that could arise from Disney integrating the service more closely with Disney+. He even voiced support for Disney paying a \"modest\" premium to do so, but left the amount vague.</p><p>But Disney has a lot of demands on its cash now, and Comcast would have little reason to sell given the sharp drop in market values for streaming companies over the past year. And since Disney can still buy Hulu in early 2024, a deal now would only move up the timetable of benefits by about a year. Analyst Michael Nathanson of MoffettNathanson wrote Monday that \"a one-year quicker start is nice, but we wouldn't think Comcast would be generous in giving Disney that option.\" Mr. Loeb himself conceded that Comcast \"may have an unreasonable price expectation\" when it comes to the Hulu stake.</p><p>Spinning off ESPN could be an even harder sell. Mr. Nathanson says the importance of cash flow from ESPN and Disney's other linear networks would make it \"financially dangerous\" for the company to divest any of themat this time. ESPN is also now a key part of Disney's streaming bundle, which offers subscribers the option to have Disney+, Hulu and ESPN at a single monthly rate. And while Mr. Loeb said such offerings could still be covered with contractual arrangements, losing control of ESPN could still introduce uncertainty among consumers over Disney's ability to offer that bundle. Analyst Jason Bazinet of Citigroup wrote Monday that Disney should use all its brands and assets \"to come as close as possible to replicating the economics of the linear TV business model.\"</p><p>That leaves Mr. Loeb's final suggestion: refreshing the Disney board. He didn't single out any current members, but noted that \"there are gaps in talent and experience as a group that must be addressed.\" It is the point Disney seemed most sensitive to. In a statement Monday, the company didn't address Mr. Loeb's other suggestions, but defended its board as having \"significant expertise in branded, consumer-facing and technology businesses as well as talent-driven enterprises.\" Disney's proxy season is still months away, giving that controversyplenty of time to escalate -- or abate. But Mr. Loeb says he has a list of alternatives ready for the company to consider.</p><p>He usually isn't one to take \"no\" for an answer.</p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 60,
+          "end": 66
+        },
+        {
+          "start": 327,
+          "end": 333
+        },
+        {
+          "start": 846,
+          "end": 852
+        },
+        {
+          "start": 851,
+          "end": 857
+        },
+        {
+          "start": 1111,
+          "end": 1117
+        },
+        {
+          "start": 1188,
+          "end": 1194
+        },
+        {
+          "start": 1350,
+          "end": 1356
+        },
+        {
+          "start": 1626,
+          "end": 1632
+        },
+        {
+          "start": 1817,
+          "end": 1823
+        },
+        {
+          "start": 1866,
+          "end": 1873
+        },
+        {
+          "start": 1901,
+          "end": 1907
+        },
+        {
+          "start": 1914,
+          "end": 1920
+        },
+        {
+          "start": 1974,
+          "end": 1980
+        },
+        {
+          "start": 2155,
+          "end": 2161
+        },
+        {
+          "start": 2669,
+          "end": 2675
+        },
+        {
+          "start": 2819,
+          "end": 2825
+        },
+        {
+          "start": 2890,
+          "end": 2897
+        },
+        {
+          "start": 3109,
+          "end": 3115
+        },
+        {
+          "start": 3130,
+          "end": 3136
+        },
+        {
+          "start": 3392,
+          "end": 3398
+        },
+        {
+          "start": 3415,
+          "end": 3421
+        },
+        {
+          "start": 3814,
+          "end": 3820
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.558687,
+        "baseWeight": 22.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.1499996,
+        "tagPositionWeight": 0.7086874,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

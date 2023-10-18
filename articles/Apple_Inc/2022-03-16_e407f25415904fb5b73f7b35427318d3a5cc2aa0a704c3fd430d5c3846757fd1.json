@@ -1,0 +1,30 @@
+{
+  "_id": "e407f25415904fb5b73f7b35427318d3a5cc2aa0a704c3fd430d5c3846757fd1",
+  "feed": "reuters",
+  "title": "UPDATE 4-China lets Foxconn , some construction sites resume work in COVID bubbles",
+  "text": "<p>TAIPEI/BEIJING, March 16 (Reuters) - China is allowing Apple Inc supplier Foxconn 's Shenzhen operations and construction sites in Shanghai to resume work on condition that their employees live and work in a bubble arrangement against COVID-19, offering some respite for firms.</p><p>Foxconn , also known as Hon Hai Precision Industry Co Ltd , is among the companies that called production halts to comply with COVID strictures as China battles its largest outbreak since early 2020, fuelling concern over more disruptions to global supply chains.</p><p>U.S. electric car maker Tesla is suspending production at its Shanghai factory for two days, Reuters reported on Wednesday, and companies from Chinese automaker BYD to KFC operator Yum China have flagged a hit to their operations.</p><p>Manufacturers in Guangdong province, one of the country's key export hubs and home to Shenzhen, told Reuters that factory shutdowns were causing lags in deliveries, while logistics difficulties were making it difficult to ship goods to overseas customers.</p><p>Ship owners and logistics firms said the queues of container ships outside major Chinese ports were lengthening, and while these ports remained open and vessels continued to dock, congestion was building and some container ships were re-routing to avoid expected delays.</p><p>Volkswagen on Wednesday said it would as a precautionary measure pause production for another day in Changchun, but resume production in Shanghai after a 48 hour suspension, saying the current \"volatile\" COVID situation mean that it had to plan on a daily basis.</p><p>On Wednesday, Foxconn said it was able to restart some production and operations in the southern city of Shenzhen after adopting a \"closed-loop management\" system.</p><p>The system used during the recent Winter Olympics in Beijing kept event personnel tightly sealed off from the public, with regular COVID-19 tests for those within.</p><p>It was largely seen as successful in preventing the spread of coronavirus at the Olympics, or in the community.</p><p>\"Some operations have been able to restart and some production is being carried out,\" Foxconn said in a statement, adding that the system at its Shenzhen facilities subjected employees living there to the required health measures.</p><p>\"This process, which can only be done on campuses that include both employee housing and production facilities, adheres to strict industry guidelines and close-loop management policies issued by the Shenzhen government,\" it added.</p><p>On Monday, authorities in the commercial hub of Shanghai, which has also imposed tough COVID curbs, said construction projects there would have to adopt a similar system to resume work.</p><p>Still, such a system is unlikely to be feasible for many companies and large-scale disruption to manufacturing is expected as China tightens curbs.</p><p>The Shenzhen Cross-border E-commerce Association, which groups about 2,800 retailers using platforms such as Amazon , said its members felt the pain of supply disruptions.</p><p>\"There will be some short-term impact on cross-border platforms like Amazon , because we can't sell right now, otherwise buyers will suffer ... as the goods won't be delivered efficiently,\" said association chief Wang Xin.</p><p>Justin Jia, general manager of Baimi Tech, which makes equipment for printers from the manufacturing hub of Dongguan, said he was having issues with delivering internationally as his local provider suspended services this week.</p><p>Despite the pains, he supported China's zero-COVID policy.</p><p>\"If we just abruptly drop this policy, there's the possibility of large-scale transmission,\" he said. \"I feel like it's necessary.\"</p>",
+  "published": "2022-03-16T12:55:57.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999285,
+      "offsets": [
+        {
+          "start": 55,
+          "end": 64
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5462351,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.18549377,
+        "tagPositionWeight": 0.7317288,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

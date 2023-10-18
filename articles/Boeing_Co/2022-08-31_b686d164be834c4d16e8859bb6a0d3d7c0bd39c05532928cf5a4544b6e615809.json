@@ -1,0 +1,34 @@
+{
+  "_id": "b686d164be834c4d16e8859bb6a0d3d7c0bd39c05532928cf5a4544b6e615809",
+  "feed": "wall-street-journal",
+  "title": "U.S. Army Grounds Entire Fleet of Chinook Helicopters; Flights of the workhorse choppers are halted due to engine fires, U.S. officials say",
+  "text": "<p>The U.S. Army Materiel Command grounded the fleet of hundreds of helicopters \"out of an abundance of caution,\" but officials were looking at more than 70 aircraft that contained a part that is suspected to be connected to the problem, officials said.</p><p>The grounding of the Chinook helicopters, a battlefield workhorse since the 1960s, could pose logistical challenges for American soldiers, depending on how long the order lasts.</p><p>The grounding was targeted at certain Boeing Co.-made models with engines manufactured by Honeywell International Inc., people familiar with the matter said. The grounding took effect within about the last 24 hours, these people said. The Army has about 400 helicopters in its fleet, one of the U.S. officials said.</p><p>Boeing declined to comment, referring questions to the Army.</p><p>A Honeywell spokesman said the engine maker worked with the Army to determine that certain components known as O-rings didn't meet the company's design specifications. He said the parts were installed during routine maintenance at an Army facility. While he declined to name the company that made the parts, the Honeywell spokesman said the company is working to supply the Army with replacements.</p><p>An Army spokeswoman said the service has identified the root cause of fuel leaks that caused \"a small number of engine fires among an isolated number\" of the helicopters. She said the Army is taking steps to resolve the issue.</p><p>\"The safety of our soldiers is the Army's top priority, and we will ensure our aircraft remain safe and airworthy,\" the spokeswoman said.</p><p>The Chinook is a heavy-lift utility helicopter that is used by both regular and special Army forces, ferrying more than four dozen troops or cargo. It has been a staple of the Army's helicopter fleet for six decades.</p><p>Write to Andrew Tangel at Andrew.Tangel@wsj.com and Gordon Lubold at Gordon.Lubold@wsj.com</p><p>U.S. Army Grounds Entire Fleet of Chinook Helicopters</p>",
+  "published": "2022-08-31T00:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 740,
+          "end": 746
+        },
+        {
+          "start": 467,
+          "end": 473
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0185704,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.018570542,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

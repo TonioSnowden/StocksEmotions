@@ -1,0 +1,78 @@
+{
+  "_id": "6a9f9b73f485d906024160c0abc418e9a3272e63858ad329e711fa71368a177b",
+  "feed": "wall-street-journal",
+  "title": "Browsers Are Back in the Antitrust Hot Seat; Google and Apple control more than 80% of market through Chrome and Safari, raising questions among regulators and competitors",
+  "text": "<p>Web browsers were at the center of the first major antitrust case challenging the power of big tech companies more than two decades ago. Now a new generation of regulators and rivals are again questioning whether the gateways to the internet are too tightly controlled.</p><p>Back then, in the 1990s, the target was Microsoft Corp. Today, it is Alphabet Inc.'s Google and Apple Inc., which together control more than 80% of the market through their Chrome and Safari browsers, respectively.</p><p>In the U.K., the Competition and Markets Authority said in June that it was examining competition between browser developers on mobile devices as part of an antitrust investigation into Apple and Google.</p><p>SHARE YOUR THOUGHTS</p><p>What should be done to make a meaningful change to Google and Apple's dominance? Join the conversation below.</p><p>After complaints from a group of software developers, dubbed Open Web Advocacy, the European Commission added a section focused on browser developers to the recently passed Digital Markets Act, which is expected to impose penalties on companies that haven't adopted its recommendations by 2024.</p><p>Several startups are also trying to break in, claiming they can make the browser experience more app-friendly and in hopes that the competitive landscape is shifting. Microsoft has mounted a new push with its Edge browser, which effectively replaced Internet Explorer.</p><p>Some participants in the market said that Chrome and Safari grew dominant because they were faster and more secure than competitors, and that it is relatively easy to switch between different browsers.</p><p>A Google spokesman said people choose to use Chrome because it is \"fast, secure and offers the best experience,\" adding that Google has made the browser's underlying code free for others to use.</p><p>An Apple spokeswoman said the company \"has every interest in supporting a robust ecosystem of third-party browsers and web apps, and will continue to promote innovation and choice while ensuring users' privacy and security are protected.\"</p><p>Software developers said web browsers are key pieces in strategies Apple and Google have used to dominate internet markets in the past decade.</p><p>The Chrome browser hosts almost two-thirds of internet activity worldwide and is an important driver of traffic to Google's lucrative search engine. The company has at times held back new features that risked reducing traffic to the search engine, said people familiar with the decisions. The Google spokesman said the company regularly experiments with new features in Chrome and gives priority to user experience, performance and security when making product decisions.</p><p>\"Google is incentivized to make Chrome one big Google search box,\" said Josh Miller, chief executive officer of the Browser Company of New York Inc., which is creating a competing product named Arc that he said aims to serve the workflows and needs of the average internet user.</p><p>The Browser Company this month raised $15 million in a round of funding led by Instagram co-founder Mike Krieger that included Shopify Inc. CEO Tobi Lütke and Slack CEO Stewart Butterfield, valuing the nearly three-year-old company at $350 million.</p><p>Google introduced Chrome in 2008, and with its minimalist presentation and speedy performance, it immediately found an audience, surpassing Internet Explorer in market share less than four years after its debut, according to Statcounter data.</p><p>An early decision by Google's Chrome team to combine the URL and search bars into one field helped the browser become an important source of traffic for the search engine, the company's largest revenue source. Bernstein analysts estimated that Google was on track to pay Apple about $15 billion last year for the right to have its search engine as the default in Safari, which was introduced in 2003.</p><p>Chrome has also grown in importance to Google as the company works to phase out software tools known as cookies that advertisers use to target individual internet users.</p><p>The competitive landscape is different from the way it was in the 1990s, when Microsoft rivals complained that the company had artificially tilted the market in its favor by bundling the Internet Explorer browser with its Windows operating system, sparking an antitrust lawsuit. Federal prosecutors eventually dropped claims related to those tactics, and Microsoft settled the suit by agreeing to change some of its business practices.</p><p>While both Google's Chrome and Apple's Safari browsers have escaped the brunt of antitrust attention so far, competitors have recently grown more vocal to lawmakers and regulators about alleged abuses in the market.</p><p>Some competitors have said that Google, which faces a Justice Department lawsuit targeting its dominance in online search, has used subtle cues and tricks that make it more difficult for third-party search engines and browsers to distribute their products through Chrome. A Google spokesman disputed complaints that Chrome interferes with competitors.</p><p>Meanwhile, some software developers have criticized as anticompetitive Apple's policy of barring browsers other than Safari from running their own software programs, known as browser engines, on Apple mobile devices. Competing browsers on Apple devices must be built using WebKit, the open-source software program that powers Safari.</p><p>A section of the European Union's Digital Markets Act focused on browser engines and their potential to be abused in an anticompetitive fashion.</p><p>An Apple spokeswoman said WebKit is important to protecting privacy and security, as well as promoting efficiency and performance. She said users can easily change their default browser on the company's devices.</p><p>In the U.S., some smaller browser makers see promise in proposed antitrust legislation backed by Sen. Amy Klobuchar (D., Minn.) that is designed to prevent big tech companies from favoring their own products at the expense of competing services.</p><p>The Mozilla Foundation, which developed the Firefox browser, purchased a full-page ad in the Washington Post last month to express support for the bill, writing that big tech companies have made it difficult for users to \"discover, install and use Firefox as their preferred browser.\"</p><p>Efforts by big tech companies to favor their own browser products make it \"very difficult for there to be more choices,\" said Mika Shah, Mozilla Corp.'s vice president of product and policy. \"Browsers, in particular, are really personal.\"</p><p>Most of Mozilla's revenue comes from a longstanding deal for Google to be the default search engine in Firefox, an arrangement that is expected to expire next year.</p><p>DuckDuckGo, which offers a privacy-focused search engine, told U.S. lawmakers investigating big tech companies that it recently concluded it had no choice but to create its own browser to compete with Google.</p><p>Write to Miles Kruppa at miles.kruppa@wsj.com</p><p>Browsers Are Back in the Antitrust Hot Seat</p>",
+  "published": "2022-08-18T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 56,
+          "end": 61
+        },
+        {
+          "start": 364,
+          "end": 373
+        },
+        {
+          "start": 366,
+          "end": 376
+        },
+        {
+          "start": 668,
+          "end": 673
+        },
+        {
+          "start": 671,
+          "end": 676
+        },
+        {
+          "start": 767,
+          "end": 772
+        },
+        {
+          "start": 2074,
+          "end": 2079
+        },
+        {
+          "start": 3656,
+          "end": 3661
+        },
+        {
+          "start": 4419,
+          "end": 4424
+        },
+        {
+          "start": 5024,
+          "end": 5029
+        },
+        {
+          "start": 5148,
+          "end": 5153
+        },
+        {
+          "start": 5191,
+          "end": 5196
+        },
+        {
+          "start": 5432,
+          "end": 5437
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.727095,
+        "baseWeight": 13.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7270949,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

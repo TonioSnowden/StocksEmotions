@@ -1,0 +1,140 @@
+{
+  "_id": "3ca97ac8a408fd6faffbee87119ab82ed3f0ff88618a15a75870db4cd04db01d",
+  "feed": "wall-street-journal",
+  "title": "Apple's Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market; Apple now designs the 'brains' of its computers and phones in-house. Its attempt to do the same for the chips that connect them to the internet could have a big impact on the company's plans",
+  "text": "<p>But first, the company must accomplish something that has defeated other tech giants, including Intel: It must show that not only can it design its own wireless modems, but that it can make them good enough to justify switching away from the ones Apple now uses, which are made by Qualcomm, for decades the world's dominant modem-chip maker.</p><p>Applications like full augmented reality—overlaying a computer-generated reality atop the real world, and projecting it into our eyes through smart glasses—will require faster-than-ever data transfer rates, and lower-than-ever latency, which is a measure of how long it takes a signal to make a round trip from a device to the internet. </p><p>In future iPhone models, Apple is looking to replace Qualcomm's modem chips like the one above with in-house designs. PHOTO: John Francis Peters for The Wall Street Journal</p><p>Achieving those blistering-fast speeds has put unprecedented demands on the creativity of engineers, who have delivered a 100-fold increase in peak data-transfer rates in the past 10 years, says Durga Malladi, head of 5G and mobile infrastructure at Qualcomm. And all of this has had to happen while keeping phones more or less the same size, and without requiring a comparable increase in the capacity of batteries, he adds.</p><p>Apple keeps details of its chip operation, like much of the rest of its business, closely guarded secrets, and says almost nothing publicly about its aspirations. In a rare interview with my colleague Tim Higgins, Johny Srouji, Apple's senior vice president of hardware technologies and leader of its chip division, discussed how it developed the A-series iPhone microprocessors and M-series for Macs, but declined to say anything about future plans, for modems or any other chips.</p><p>There are, however, plenty of signposts showing where Apple is headed on modem chips. The company agreed in 2019 to acquire the majority of Intel's smartphone-modem business, including 2,200 employees, and since then has continued hiring engineers with related expertise, often at satellite offices in the same cities as its sometime-partners and possible future competitors in wireless technology.</p><p>In San Diego, Qualcomm's hometown, Apple is advertising around 140 positions directly related to developing and integrating cellular modem chips. In Irvine, Calif.—home to the headquarters of Broadcom, which designs critical parts that sit between a phone's modem and its antennas—Apple has a satellite engineering office and, according to its own jobs website, around 20 open positions.</p><p>Broadcom didn't respond to requests for comment. Mr. Malladi and a Qualcomm spokesman declined to comment on the company's relationship with Apple.</p><p>In November 2021, Qualcomm's chief financial officer said the company expected to supply 20% of the 5G modems Apple uses in its mobile devices in 2023. Currently, Qualcomm supplies nearly 100% of these chips. (The exception is the Apple Watch, which since the Series 4 model has used an Intel modem.) While it's possible that Apple could be planning to use 5G modems from another supplier starting in 2023, analysts are expecting that will be the year it reveals its own, Apple-designed modem.</p><p>As was the case with Apple's move to its own processors for iPhones and Macs, designing its own chips for cellular connectivity could give the company a number of advantages over competitors.</p><p>The first is cost, says Wayne Lam, senior director of research at technology consulting firm CCS Insight. According to a recent analysis of the cost of materials in the newest iPhone SE, the first version of the more affordable iPhone model with 5G capability, the chips that allow the phone to connect to cell networks collectively cost as much or more than the chips that make up the \"brains\" of the phone—the A15 processor and its attached memory chips.</p><p>That's a reversal of what has been the norm for decades in smartphones and similar mobile devices: Typically, the main processor of the device has been more complicated and expensive than the parts that allow it to communicate wirelessly.</p><p>It will also liberate Apple from supplier relationships that, whatever benefits they have provided, have at times been a source of tension. In 2019, for example, Apple settled a contentious court battle with Qualcomm over patent-licensing fees, agreeing to pay at least $4.5 billion and to purchase Qualcomm's modems for several years.</p><p>Another big advantage Apple could gain is that, by integrating its own modems onto the same A-series chip that powers its phones, it could tweak them in ways that would make them faster, more efficient, and more capable than what's possible with its current combination of its own chips and Qualcomm's, says Mr. Lam.</p><p>In thinking about what Apple could do with its own modems, it's worth looking at its history with its own chips. Apple began its journey of designing its own chips with the A-series that go into its phones. Its ability to make them more powerful is the reason it has been able to create the M-series for the Mac. These aren't only faster than the Intel-based ones they replaced, but also use less power, allowing Apple to eliminate fans in its laptops. Similarly, by creating its own modems, it could put better connectivity into smaller devices—like its watch, and potential future smart glasses—says Mr. Lam.</p><p>Wireless engineering isn't for the faint of heart, but to boil down a mountain of technicalities into a single idea: The faster that mobile devices communicate with the internet, the more it matters that a device's modem is physically adjacent to, and designed in concert with, the chips that run all the apps and other software on a phone.</p><p>Despite Apple's tremendous resources and growing army of wireless engineers, one thing that even the giant of Cupertino may find difficult to overcome is just how much time it takes to design, manufacture and then test a new wireless modem, says Prakash Sangam, founder of the tech research and advisory firm Tantra Analyst and a former wireless engineer at AT&amp;T and director of marketing at Qualcomm.</p><p>SHARE YOUR THOUGHTS</p><p>What impact do you think the spread of internet-connected devices will have? Join the conversation below.</p><p>\"People often compare how Apple developed its A-series chipsets on their own, and how quickly they were able to up their game, but in some ways a modem is more complex,\" says Mr. Sangam. In part, that complexity arises because a modem must handle such a wide variety of circumstances that can interfere with a signal—as Apple discovered during its infamous \"Antennagate\" episode more than a decade ago.</p><p>\"If you throw enough time and resources and money at it, it can be done,\" he adds. \"But whether they can do it by 2023, I don't think anyone other than Apple can say.\"</p><p>Apple's first home-brewed modem might not be best in class in terms of speed or capabilities. But the company has demonstrated it has the patience and resources to keep releasing incrementally better hardware, until it can create devices that are different enough from competitors' to compel customer loyalty.</p><p>If the same holds true for modems, it could mean that future Apple devices will do things that simply aren't possible with Apple's current combinations of its own chips and those of others. Those could include putting cellular connectivity into smaller devices—possibly even AirPods—or augmented-reality experiences that feel more real than what is currently possible.</p><p>\"Once Apple's been able to perfect the technology for 5G modems in the iPhone, all they have to do is scale that tech down to a chipset that fits into, say, your Apple Glasses,\" says Mr. Lam.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Christopher Mims at christopher.mims@wsj.com</p><p>Apple's Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market</p>",
+  "published": "2022-04-30T04:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5143,
+          "end": 5148
+        },
+        {
+          "start": 7806,
+          "end": 7811
+        },
+        {
+          "start": 4239,
+          "end": 4244
+        },
+        {
+          "start": 2688,
+          "end": 2693
+        },
+        {
+          "start": 2194,
+          "end": 2199
+        },
+        {
+          "start": 5690,
+          "end": 5695
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3210,
+          "end": 3215
+        },
+        {
+          "start": 4753,
+          "end": 4758
+        },
+        {
+          "start": 247,
+          "end": 252
+        },
+        {
+          "start": 2805,
+          "end": 2810
+        },
+        {
+          "start": 4843,
+          "end": 4848
+        },
+        {
+          "start": 704,
+          "end": 709
+        },
+        {
+          "start": 3021,
+          "end": 3026
+        },
+        {
+          "start": 4099,
+          "end": 4104
+        },
+        {
+          "start": 6781,
+          "end": 6786
+        },
+        {
+          "start": 4435,
+          "end": 4440
+        },
+        {
+          "start": 6765,
+          "end": 6770
+        },
+        {
+          "start": 1814,
+          "end": 1819
+        },
+        {
+          "start": 1278,
+          "end": 1283
+        },
+        {
+          "start": 7152,
+          "end": 7157
+        },
+        {
+          "start": 1506,
+          "end": 1511
+        },
+        {
+          "start": 82,
+          "end": 87
+        },
+        {
+          "start": 6236,
+          "end": 6241
+        },
+        {
+          "start": 7622,
+          "end": 7627
+        },
+        {
+          "start": 2926,
+          "end": 2931
+        },
+        {
+          "start": 7466,
+          "end": 7471
+        },
+        {
+          "start": 7214,
+          "end": 7219
+        },
+        {
+          "start": 2926,
+          "end": 2937
+        },
+        {
+          "start": 6530,
+          "end": 6535
+        },
+        {
+          "start": 3167,
+          "end": 3172
+        }
+      ]
+    }
+  ]
+}

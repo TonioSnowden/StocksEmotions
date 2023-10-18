@@ -1,0 +1,82 @@
+{
+  "_id": "0658c534f75ace95c8cb84eeace7fc0902bd14fc8ba82c43809d8fb58bca0163",
+  "feed": "ftcomall",
+  "title": "3M loses attempt to halt thousands of earplugs lawsuits",
+  "text": "<p>3M has lost the first round of a legal battle in bankruptcy court over its attempts to stop about 230,000 personal injury claims made against it by US soldiers from moving towards a jury trial.</p> <p>US bankruptcy judge Jeffrey Graham in Indiana on Friday refused a request by the conglomerate to place a temporary stay on lawsuits alleging <a href=\"https://www.ft.com/stream/493e8999-51da-4289-aeec-8580aa6ec30b\">3M</a> and its subsidiary Aearo Technologies — which has filed for Chapter 11 bankruptcy protection — sold faulty earplugs to the military.</p> <p>The judgment paves the way for the continuation of jury trials against 3M in what has become one of the largest mass tort litigations in US history, making up almost a third of all pending federal district court cases, according to Friday's ruling. </p> <p>Shares in 3M plunged 9 per cent on the ruling. The company said it will appeal.</p> <p>3M said: “Continuing to litigate these cases one-by-one over the coming years will not provide certainty or fairness for any party.”</p> <p>Last month, 3M, an industrial conglomerate best known for selling Post-it notes and Scotch tape, put its Aearo subsidiary — which sold the military grade earplugs to the military — into <a href=\"https://www.ft.com/content/899b56c8-e03e-432e-8cd9-130ec272477f\">bankruptcy</a>. 3M bought Aearo in 2008 in a deal valued at $1.2bn.</p> <p>The <a href=\"https://www.ft.com/stream/1ee9b500-e351-4068-b069-2a5a53e95c7f\">bankruptcy </a>filing placed an automatic halt on the personal injury cases filed against Aearo. 3M had asked the bankruptcy court to extend the stay to cases filed against it. </p> <p>One expert witness hired by the personal injury claimants estimated total payouts in the cases could cost 3M up to $100bn. So far 16 trials have been in federal litigation. Aearo and 3M won defence verdicts in six of them, while the others resulted in judgments for the plaintiffs, with damage awards running between $1.7mn and $77.5mn. Appeals are pending in some of those cases, according to Friday's ruling. </p> <p>3M, which denies the earplugs were faulty if used correctly, has set aside $1bn to cover settlements as part of the bankruptcy case. </p> <p>Lawyers acting on behalf of the military veterans who claim they suffered hearing loss because of 3M's earplugs described the ruling as a “tremendous victory”.</p> <p>3M is one of a growing number of large corporations seeking to use complex bankruptcy schemes to manage large-scale personal injury litigation. They <a href=\"https://www.ft.com/content/d90d99d0-aeca-4a7b-ad42-4cf5e0d1cf40\">claim</a> it can take decades to litigate cases on a one-by-one basis and results in sky-high litigation costs. </p> <p>Subsidiaries of Johnson &amp; Johnson, Georgia Pacific and a US unit of French company Saint Gobain have all made Chapter 11 filings in recent years in an attempt to halt litigation — a move personal injury lawyers claim pressures claimants to settle their cases. &#xa0;</p> <p>In his ruling, Graham said putting a stay on the cases would likely provide 3M with additional leverage to negotiate a global settlement. But he ruled that the bankruptcy halt for cases against Aearo should not extend to its parent, which is not in bankruptcy.</p> <p>“It is tempting to be swayed by the sheer size of the MDL [multi-district litigation] at issue in this case, but that alone provides insufficient reason for the court to conclude that an injunction is necessary for Aearo's reorganisation or that creditors will be negatively impacted in the absence of an injunction,” he wrote. </p> <p>Analysts said the ruling could have implications for other such cases and potentially slow the trend towards non-bankrupt companies from using bankruptcy courts to avoid liabilities. </p> <p>Carl Tobias, professor of law at the University of Richmond, said: “This is a very important case for plaintiffs in mass tort or MDL cases like J&amp;J talc and 3M earplugs, because the effect is to protect plaintiffs' day in court in pursuing damages in tort for defective products that injure them rather than allow defendants to limit exposure to liability by pursuing bankruptcy.”</p>&#xa0;<p>Source: Jamie Smyth in New York 2022 '3M loses attempt to halt thousands of earplugs lawsuits' FT.com 26 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-26T21:19:45.508Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 2
+        },
+        {
+          "start": 334,
+          "end": 336
+        },
+        {
+          "start": 540,
+          "end": 542
+        },
+        {
+          "start": 727,
+          "end": 729
+        },
+        {
+          "start": 795,
+          "end": 797
+        },
+        {
+          "start": 940,
+          "end": 942
+        },
+        {
+          "start": 1125,
+          "end": 1127
+        },
+        {
+          "start": 1272,
+          "end": 1274
+        },
+        {
+          "start": 1457,
+          "end": 1459
+        },
+        {
+          "start": 1532,
+          "end": 1534
+        },
+        {
+          "start": 1758,
+          "end": 1760
+        },
+        {
+          "start": 1988,
+          "end": 1990
+        },
+        {
+          "start": 2049,
+          "end": 2051
+        },
+        {
+          "start": 2639,
+          "end": 2641
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.0,
+        "baseWeight": 15.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

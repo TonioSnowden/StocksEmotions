@@ -1,0 +1,34 @@
+{
+  "_id": "fddf672413f813d915a82f762568a4b4f6888edd1985b23e25b4892c71f52d6c",
+  "feed": "market-watch",
+  "title": "Zoom faces a threat from Microsoft Teams, but how great is the risk? 'We see new hurdles to sustaining growth,' Citi Research analysts warn, while Morgan Stanley says fears are 'likely overblown'",
+  "text": "<p>\"Zoom's post-COVID growth trajectory has always been more challenging, given pull-forward dynamics, but we see new hurdles to sustaining growth,\" Citi Research analyst Tyler Radke wrote Tuesday in downgrading Zoom's stock to sell from neutral.</p><p>The primary obstacle is increasingly tight competition from Microsoft Corp.'s MSFT Teams product, compounded by macroeconomic pressures on smaller businesses, said Radke, who slashed his price target on Zoom shares to $91 from $99.</p><p>Read more: Zoom stock is off 80% from peak, and Citi sees 'new hurdles' ahead</p><p>Conversely, a work-from-home software survey by Morgan Stanley concluded \"overly negative views\" of Zoom hemorrhaging users to Teams is \"likely overblown.\"</p><p>While Morgan Stanley analysts acknowledge enterprise customers are adopting Teams with more regularity, they also deploy Zoom to maintain both licenses at the request of employees who favor Zoom's ease of use.</p><p>A new branding of the company's platform in June as \"Zoom One,\" which combined persistent chat, video, phone and digital whiteboards for a slightly discounted $25 per month, or $250 a year, has sweetened the appeal of Zoom among large businesses, according to Morgan Stanley.</p><p>What to expect</p><p>Earnings: Analysts on average expect Zoom to report earnings of 94 cents a share, compared with $1.07 a share a year ago. Analysts were projecting 87 cents a share at the end of April.</p><p>Contributors to Estimize — a crowdsourcing platform that gathers estimates from Wall Street analysts as well as buy-side analysts, fund managers, company executives, academics and others — are projecting earnings of 94 cents a share, on average.</p><p>Revenue: Analysts on average expect Zoom to rack up $1.12 billion in total second-quarter revenue, compared with $1.02 billion a year ago. Estimize contributors also predict $1.12 billion in revenue.</p><p>Stock movement: Zoom's stock has plunged 40.5% so far this year, while the S&amp;P 500 index SPX has declined 10%. Shares of Zoom have rallied 23% since the company last announced quarterly results on May 23.</p><p>What analysts are saying</p><p>In the current analyst debate over Teams' impact on Zoom, Morgan Stanley's Meta Marshall and Keith Weiss strongly argued Zoom will meet second-quarter revenue and earnings estimates. However, they cautioned \"expectation of weakness\" for fiscal 2022.</p><p>\"We think meeting top line with slight operating-margin upside should be enough in the quarter, but would expect guidance to remain fairly conservative on both,\" they wrote Tuesday, in maintaining an overweight rating on the stock and a price target of $140.</p><p>Mizuho Securities analyst Siti Panigrahi sees potential upside in Zoom's decision last month to limit meetings hosted by Basic (free) users to 40 minutes. He believes the change will force some free users to upgrade to a paid Pro plan for $14.99 a month or $149.90 annually.</p><p>\"We believe this conversion to paid users, coupled with churn stabilization, should provide upside to management guidance of flattish [year-over-year] growth for the Online segment in FY23,\" wrote Panigrahi, who rates Zoom shares as a buy with a price target of $190.</p><p>Zoom faces a threat from Microsoft Teams, but how great is the risk?</p>",
+  "published": "2022-08-18T15:44:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 303,
+          "end": 317
+        },
+        {
+          "start": 304,
+          "end": 319
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0921776,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.09217763,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

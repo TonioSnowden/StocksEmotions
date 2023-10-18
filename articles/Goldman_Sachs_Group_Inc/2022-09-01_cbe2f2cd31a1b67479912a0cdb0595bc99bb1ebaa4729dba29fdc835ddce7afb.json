@@ -1,0 +1,42 @@
+{
+  "_id": "cbe2f2cd31a1b67479912a0cdb0595bc99bb1ebaa4729dba29fdc835ddce7afb",
+  "feed": "wall-street-journal",
+  "title": "New SAP CFO Is Set To Focus on the Cloud",
+  "text": "<p>Mr. Asam joins SAP from European aircraft maker Airbus, where he has been CFO since 2019. Before his time at Airbus, he led the finances of semiconductor firm Infineon Technologies AG and held other finance roles at RWE AG, one of Germany's largest power producers, and industrial conglomerate Siemens AG. Mr. Asam started his career in Goldman Sachs Group Inc.'s investment-banking division.</p><p>His appointment comes as SAP is battling lower operating margins and a decline in its share price.</p><p>The company in July reported operating profit of 1.68 billion euros on a non-International Financial Reporting Standards basis, equivalent to $1.69 billion, down 13% compared with the prior-year period.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.999952,
+      "offsets": [
+        {
+          "start": 337,
+          "end": 350
+        },
+        {
+          "start": 337,
+          "end": 344
+        },
+        {
+          "start": 337,
+          "end": 361
+        },
+        {
+          "start": 335,
+          "end": 358
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9677902,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.06779027,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

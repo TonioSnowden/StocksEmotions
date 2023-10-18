@@ -1,0 +1,34 @@
+{
+  "_id": "64aa93772dc3f0aad32b8d8a53df7fc8c3ab2c9cdd9a77c5205f8ac1d562add1",
+  "feed": "wall-street-journal",
+  "title": "Review of Federal Home-Loan Banks Is Planned; FHFA to examine role and structure of nearly $1 trillion network of government-chartered cooperatives",
+  "text": "<p>Founded during the Great Depression, the home-loan banks' role has evolved. They were an important source of liquidity during the crisis of 2008 to commercial banks. Since then, they have also become a supplier of cheap funding to some of the largest U.S. banks, including Wells Fargo &amp; Co. and JPMorgan Chase &amp; Co.</p><p>FHFA's review will ensure the home-loan banks \"remain positioned to meet the needs of today and tomorrow,\" FHFA Director Sandra Thompson said.</p><p>A spokeswoman for the Council of Federal Home Loan Banks, a trade group, said earlier this year that it welcomed a discussion of the home-loan banks' roles and responsibilities.</p><p>The FHFA's review could lead to a push to expand the membership of the system to nonbank mortgage companies and real-estate investment trusts, which have come to play big roles in housing finance but generally aren't among the 6,500 members of the system. Such a move could help those firms fill the void left by big commercial banks, which have cut back on mortgage lending to all but the most creditworthy customers.</p><p>Any move to expand the membership of the home-loan banks would likely require legislation. It would come as the Biden administration has yet to set a plan for Fannie Mae and Freddie Mac, two larger government-chartered housing-finance companies that were taken over by the government in 2008. The Trump administration had pushed to return Fannie and Freddie to private hands but ran out of time before Mr. Trump left office in January 2021. The FHFA oversees both Fannie and Freddie, as well as the home-loan banks.</p><p>While Fannie and Freddie buy mortgage loans and package them into securities, the Federal Home Loan Banks play a different role in housing finance: channeling money from global bond markets to thousands of institutions across the U.S.</p><p>As of July 31, the system's borrowings came to about $937 billion, making it one of the world's biggest debtors and the second-largest in the U.S. behind the Treasury Department. The money flows through 11 regional cooperatives, which feed it to their 6,500 member institutions—commercial lenders, thrifts, credit unions and insurers. Implicit government backing means they can borrow cheaply and pass some of the savings on to members.</p><p>Daniel Tarullo, the Federal Reserve's former point man on financial regulation, earlier this year wrote that the home-loan banks' activities don't appear closely tied to the aim of improving mortgage finance. The paper, written with two Fed economists, said that the banks might undermine federal regulators, by for instance issuing debt in a way that caters to certain mutual funds, allowing them to avoid Securities and Exchange Commission requirements that more of such funds float in value rather than remain pegged to a $1 share price.</p><p>The home-loan banks, the paper said, lacked \"a well-articulated contemporary purpose.\"</p><p>Write to Andrew Ackerman at andrew.ackerman@wsj.com</p><p>Review of Federal Home-Loan Banks Is Planned</p>",
+  "published": "2022-08-31T18:19:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 293,
+          "end": 312
+        },
+        {
+          "start": 295,
+          "end": 315
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.1013808,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.101380706,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

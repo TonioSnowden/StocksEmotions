@@ -1,0 +1,34 @@
+{
+  "_id": "1ae9352e3f0e398faad2fc31ea81ebb46c61838cbc9bc3fa046ec653aef0006e",
+  "feed": "ftcomall",
+  "title": "Melbourne launches Asia-Pacific centre for pandemic treatments",
+  "text": "<p>Melbourne will bid to become a global centre for the development of new antiviral therapies to deal with future pandemics after receiving the largest donation in Australian medical history.</p> <p>Geoff Cumming, a Canadian who lives in the city, has pledged at least A$250mn ($172mn) towards creating The Cumming Global Centre for Pandemic Therapeutics based in Parkville, adjacent to the University of Melbourne. </p> <p>The state government of Victoria has also contributed A$75mn to the project which aims to raise A$1.5bn within 10 years for its research. </p> <p>The facility will be based at the Peter Doherty Institute for Infection and Immunity and focus on accelerating the development of therapeutics rather than vaccines. It will take its lead from the <a href=\"https://www.ft.com/content/dc0d8407-446d-4fb5-86a5-a628bed4d786\">Coalition for Epidemic Preparedness</a>, a public and philanthropic organisation tasked with preparing the world for emerging infectious diseases and which was critical to the response to Covid-19. </p> <p>Cumming said that the rapid development of a <a href=\"https://www.ft.com/covid-19-vaccines\">Covid-19 vaccine</a> was a “dazzling” achievement but that future pandemics, which were likely to be more frequent, might require therapeutics. “We wanted to create a second shield for humanity,” he said. </p> <p>Sharon Lewin, director of the Doherty Institute who built her career in antiviral treatments for HIV, said the project stood alone because of its scale and 20-year outlook which would attract top scientists. “The funding horizon is pretty incredible,” she said. “We are not trying to get a product out in three years.”</p> <p>She said that $137bn had been invested in pandemic vaccine platforms but only $7bn into therapeutics. </p> <p>The focus will be on speeding up the process of developing antiviral treatments in a similar way that mRNA technology enabled the rapid creation of vaccines in response to Covid-19. </p> <p>Two oral antivirals, Merck's molnupiravir and Pfizer's Paxlovid, emerged as top candidates against Covid-19 last year, though the former has run into regulatory woes in Europe and the latter has recently shown little efficacy in non at-risk groups.</p> <p>The Victoria state government has invested heavily in medical research over the past decade. The Doherty Institute was founded in 2014 with A$210mn of funding from the federal and state authorities as well as the University of Melbourne. A further A$650mn is being invested to establish the Australian Institute for Infectious Diseases in Melbourne. </p> <p>Biotech company <a href=\"https://www.ft.com/stream/f6ea19e6-cb8f-452e-8d0d-4298e8f38c55\">Moderna</a> is also establishing an mRNA vaccine manufacturing factory in the city as part of a push to bolster the region's research. </p> <p>“There's now critical mass,” said Lewin of the city's growing biotech sector.</p> <p>Cumming, an economist whose background is in the oil, investment banking and retirement home sectors, donated C$100mn ($77mn) to the University of Calgary in 2014 for research into neuroscience and microbiomes. </p> <p>He said the institute would become a leading biotech centre in the Asia-Pacific region, where many modern pandemics have arisen. “The other leading centres are in the northern hemisphere, so it is useful to be located here,” he said. </p> <p>“This is going to be the centre, the body of the octopus with tentacles going out across the world,” he said. </p> <p><em>Additional reporting by Donato Paolo Mancini in London</em></p><p>Source: Nic Fildes in Sydney 2022 'Melbourne launches Asia-Pacific centre for pandemic treatments' FT.com 31 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-31T00:34:57.778Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1805,
+          "end": 1810
+        },
+        {
+          "start": 1794,
+          "end": 1799
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

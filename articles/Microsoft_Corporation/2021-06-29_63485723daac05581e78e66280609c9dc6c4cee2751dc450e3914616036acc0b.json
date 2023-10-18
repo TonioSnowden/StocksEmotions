@@ -1,0 +1,20 @@
+{
+  "_id": "63485723daac05581e78e66280609c9dc6c4cee2751dc450e3914616036acc0b",
+  "feed": "ftcomall",
+  "title": "Letter: Public Health England can fix its outdated software",
+  "text": "<p>Tim Harford (<a href=\"https://www.ft.com/content/18db20d8-7726-43e2-87f1-c5861ad3dff5\">FT Weekend</a>, June 26) explains how Public Health England (PHE) used an outdated version of Microsoft Excel which resulted in the loss of 16,000 Covid-19 contactee records.</p> <p>A primary identifier of outdated Excel software is that file names end with. XLS instead of. XLSX. If your filename extensions don't appear, Google “show file extensions” and follow the instructions. I would recommend that PHE do the same. Searching for files ending with. XLS will help to round up the users of this outdated version of Excel that has not been supported since 2003.</p> <p>I would suggest that Harford's next essay should be a cautionary tale of un-updated medical software. </p> <p><strong>John Steward <br></strong><em>White Plains, NY, US</em></p><p>Source:  2021 'Letter: Public Health England can fix its outdated software' FT.com 29 June. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-06-29T23:00:53.552Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 103,
+          "end": 112
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

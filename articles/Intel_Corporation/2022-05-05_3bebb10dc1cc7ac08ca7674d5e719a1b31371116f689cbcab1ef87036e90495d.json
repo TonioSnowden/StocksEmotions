@@ -1,0 +1,20 @@
+{
+  "_id": "3bebb10dc1cc7ac08ca7674d5e719a1b31371116f689cbcab1ef87036e90495d",
+  "feed": "wall-street-journal",
+  "title": "AMD Gets Bigger, Better and Cheaper",
+  "text": "<p>For two years running now, the global semiconductor industry hasn't been able to produce enough chips to meet demand. But that strain isn't spread equally across the sector. Chip makers that use older production processes for components that go in things such as cars and industrial equipment are under the most pressure. Two of those -- ON Semiconductor and NXP Semiconductors -- reported year over year revenue growth of 31% and 22% in their respective first-quarter reports this week. But both also said they expect to be supply-constrained for the rest of this year and into next. Analyst Christopher Rolland of Susquehanna says NXP \"could potentially ship multiples of revenue if available given their hefty backlog.\"</p><p>Then there is Advanced Micro Devices. AMD saw revenue soar 71% year over year to nearly $5.9 billion in the first quarter. Taking out the contribution of the recently acquired Xilinx still would have left revenue 54% higher, solidly beating Wall Street's forecast. The company also reported record adjusted operating margins of 35%. The addition of the Xilinx business and growing demand for AMD's own processors allowed the company to boost its full-year revenue forecast by 31%, to $26.3 billion -- four times what AMD was generating four years ago.</p><p>AMD isn't immune to the shortage; Chief Executive Officer Lisa Su noted on the company's conference call Tuesday that the majority of chips made by Xilinx use 16-nanometer processes or older for which production capacity is sharply constrained by the limited availability of necessary tools. But the company's core business still lies in central and graphics processors used in PCs and data centers -- high-price chips made on the most advanced production nodes that fabrication partners like Taiwan Semiconductor Manufacturing aren't eager to slow down. AMD's close partnership with TSMC has allowed it to pick up significant share from rival Intel in the lucrative data-center market. Mark Lipacis of Jefferies estimates that AMD gained as much as 3 percentage points of server market share in the first quarter.</p><p>But PCs still account for more than half of AMD's revenue, according to consensus estimates by Visible Alpha. Fears of sales in that sector slowing after a pandemic bump have put a cloud over the chip maker's shares. The stock was down 37% for the year ahead of its first-quarter results Tuesday afternoon, making it the second-worst performer on the PHLX Semiconductor Index during that time.</p><p>That has made AMD something it hasn't been in years -- cheap. At around 22 times forward earnings, the stock now trades at a 25% premium to the PHLX Semiconductor Index after averaging a 96% premium over the past three years. Fellow high-growth chip maker Nvidia also has lost about a third of its market value this year in a sector-wide selloff, but it still carries a premium of 93% to the broad index.</p><p>The fast-growing data-center business and addition of Xilinx will lessen AMD's exposure to PCs going forward. The company will hold an analyst meeting next month when it will break out more financial details of its operating segments as well as the potential for how the programmable chips made by Xilinx could combine with AMD's own products to create new opportunities. Investors looking for deals in chips should pay attention -- this sale won't last.</p>",
+  "published": "2022-05-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1919,
+          "end": 1924
+        }
+      ]
+    }
+  ]
+}

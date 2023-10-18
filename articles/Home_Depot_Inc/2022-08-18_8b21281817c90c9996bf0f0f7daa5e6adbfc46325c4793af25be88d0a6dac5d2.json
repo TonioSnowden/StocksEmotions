@@ -1,0 +1,54 @@
+{
+  "_id": "8b21281817c90c9996bf0f0f7daa5e6adbfc46325c4793af25be88d0a6dac5d2",
+  "feed": "wall-street-journal",
+  "title": "Lowe's Same-Store Sales Fall For Second Straight Quarter --- Retailer suffers as customers cut back, a day after rival Home Depot posts increase",
+  "text": "<p>Lowe's said same-store sales, which strips out effects of store openings and closings, fell 0.3% in the second-quarter. In the U.S., the figure increased slightly.</p><p>The unexpected sales drop comes a day after top rival Home Depot Inc. posted a 5.8% increase in same-store sales, as it raised prices across its stores to offset a drop in customer transactions.</p><p>Lowe's said its results lagged behind because of its higher share from the do-it-yourself cohort, which makes up 75% of its customer base. Professionals, such as contractors and electricians, tend to spend more per trip.</p><p>Lowe's said sales rose 13% to its professional customers.</p><p>Home Depot has a more even split between the two subsets, and professionals are driving sharp increases in large purchases.</p><p>Home Depot said it logged an 11.6% increase in transactions that were over $1,000.</p><p>Lowe's said that its rising sales to professional customers suggest that consumers' appetite for major home-improvement projects remains elevated even as the pandemic retreats and high inflation damps consumer spending. Home Depot executives said elevated home values are still prompting homeowners to shell out for renovations.</p><p>Lowe's Chief Executive Marvin Ellison said the company was able to improve margins and effectively manage inventory during the quarter.</p><p>Other retailers are struggling with excess inventory levels that are requiring steep discounts and order cancellations.</p><p>Target Corp. on Wednesday reported that its profit fell further than expected as it worked through a glut of product.</p><p>For the period ended July 29, Lowe's reported a profit of $2.99 billion, or $4.67 a share, down from $3.02 billion, or $4.25 a share, a year ago.</p><p>Analysts had expected earnings of $4.58 a share, according to FactSet.</p><p>Overall sales came in at $27.48 billion, down slightly from the same period a year ago and below analyst expectations of $28.12 billion. Lowe's sales dropped during the first quarter as well, after cooler weather delayed home projects.</p><p>The company reiterated its full-year financial outlook, noting that it expects to hit the lower end of its sales forecast but the upper end of its earnings outlook.</p><p>Lowe's shares edged up 0.6%, or $1.25, to $215.37 on Wednesday.</p>",
+  "published": "2022-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.999856,
+      "offsets": [
+        {
+          "start": 119,
+          "end": 129
+        },
+        {
+          "start": 216,
+          "end": 230
+        },
+        {
+          "start": 218,
+          "end": 233
+        },
+        {
+          "start": 632,
+          "end": 642
+        },
+        {
+          "start": 638,
+          "end": 648
+        },
+        {
+          "start": 755,
+          "end": 765
+        },
+        {
+          "start": 1056,
+          "end": 1066
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.466518,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.46651793,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

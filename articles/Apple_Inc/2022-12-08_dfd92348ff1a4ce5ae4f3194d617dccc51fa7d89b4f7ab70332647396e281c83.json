@@ -1,0 +1,34 @@
+{
+  "_id": "dfd92348ff1a4ce5ae4f3194d617dccc51fa7d89b4f7ab70332647396e281c83",
+  "feed": "wall-street-journal",
+  "title": "Judge Hears FTC's Bid to Block Meta From Acquiring Virtual-Reality App Maker; Facebook's parent company faces an antitrust fight over its proposed purchase of startup Within Unlimited",
+  "text": "<p>The lawsuit is being closely watched because it is based on an unusual theory of competitive harm focusing on potential future competition in a nascent industry. The case is also widely seen as emblematic of FTC Chair Lina Khan's frequent criticisms of powerful technology companies.</p><p>In a statement issued last month, a Meta spokesman said the FTC's case is based on ideology and speculation—not evidence of anticompetitive conduct.</p><p>Meta said it is \"confident the evidence will show that our acquisition of Within will be good for people, developers and the VR space, which is experiencing vibrant competition.\"</p><p>The FTC's request is before U.S. District Judge Edward Davila, who will hear arguments and testimony over two weeks in his San Jose, Calif., courtroom. Meta Chief Executive Mark Zuckerberg is listed as a potential witness.</p><p>Meta announced its intention to buy Within Unlimited in 2021. The company didn't disclose the dollar value of the deal.</p><p>The transaction is part of Meta's big bet on immersive virtual worlds, or metaverses. It was that strategic shift that led to the 2021 rebranding of Facebook as Meta.</p><p>Meta could have chosen to use its resources to build its own app, and it was planning to do so until it heard a rumor that rival Apple Inc. was interested in buying Within Unlimited, said Abby Dennis, senior trial counsel at the FTC, in her opening remarks. \"Instead of building its own VR-dedicated fitness app, Meta just decided to acquire the market leader, 'Supernatural,'\" Ms. Dennis said.</p><p>Ms. Dennis presented an email sent by Mr. Zuckerberg in which the executive tells his negotiators to express to Within Unlimited how committed Meta is to entering the VR-fitness category.</p><p>As part of his metaverse strategy, Mr. Zuckerberg has overseen the acquisition of several virtual-reality startups.</p><p>In its July complaint, the FTC accused Meta of trying to buy its way to the top of the virtual-reality market, rather than competing on the merits.</p><p>In opening remarks, Meta lawyers argued that the company didn't have plans to build its own VR-fitness app. It is entrenched in an incredibly competitive VR market, and there is no requirement that a company must build rather than buy its own apps, said Mark Hansen, a lawyer for the company.</p><p>Mr. Hansen said the FTC is trying to set a precedent that \"if you're big, you've got an interest in something and we think you'd rather ought to build it, we're going to stop you from buying it and we're going to make you build it.\"</p><p>\"Your honor, that's not the law. If it became the law, it would doom just about every single vertical acquisition,\" Mr Hansen said.</p><p>The FTC originally framed Meta and Within as direct competitors in the market for virtual-reality fitness products.</p><p>At the time, the agency said Within's \"Supernatural\" app competes directly with another game Facebook owns called \"Beat Saber.\" Meta rejected that comparison, saying the two products have little in common.</p><p>In an unusual move, the agency withdrew that theory by filing an amended complaint in October.</p><p>The FTC's case now hinges on a theory that the Meta-Within deal is a threat to \"potential competition\" in the future. The agency says blocking Meta from buying Within would enhance competition because Meta would be forced to develop an app that competes with Within's \"Supernatural.\"</p><p>Meta's potential entry into the market for virtual-reality fitness apps spurs Within and others to compete harder to retain customers and improve their products, the agency added.</p><p>SHARE YOUR THOUGHTS</p><p>How will antitrust enforcement affect Meta's long-term agenda? Join the conversation below.</p><p>Historically, when U.S. regulators seek to block mergers, they focus on direct competitors in more mature markets, said Rebecca Allensworth, a professor at Vanderbilt Law School.</p><p>\"The lack of head-to-head competition in this case makes it hard to win, but I don't think it's a nonmeritorious case,\" said Ms. Allensworth.</p><p>Ms. Khan, a frequent critic of Meta and other technology giants, has said the agency is willing to push novel legal theories at the boundaries of antitrust law even if that means sometimes losing.</p><p>\"I'm certainly not somebody who thinks that success is marked by a 100% court record,\" Ms. Khan said during a speech at the University of Chicago in April. \"As public enforcers, we have a special obligation to be bringing the hard cases.\"</p><p>—Dave Michaels contributed to this article.</p><p>Write to Jan Wolfe at jan.wolfe@wsj.com</p>",
+  "published": "2022-12-08T20:15:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99995977,
+      "offsets": [
+        {
+          "start": 1251,
+          "end": 1260
+        },
+        {
+          "start": 1251,
+          "end": 1261
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000074,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 7.390976e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

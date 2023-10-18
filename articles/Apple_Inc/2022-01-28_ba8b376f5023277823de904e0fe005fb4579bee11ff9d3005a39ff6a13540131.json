@@ -1,0 +1,24 @@
+{
+  "_id": "ba8b376f5023277823de904e0fe005fb4579bee11ff9d3005a39ff6a13540131",
+  "feed": "market-watch",
+  "title": "Dow stumbles nearly 300 points lower after brief rise and stocks broadly sink Friday, despite upbeat Apple results",
+  "text": "<p>The S&amp;P 500 index SPX slipped 0.6% to 4,299, falling more than 10% below its Jan. 3 closing peak, which would meet the commonly used criteria for a correction.</p><p>The Dow Jones Industrial Average DJIA fell around 0.7%, or 242 points, to 33,928.</p><p>The Nasdaq Composite Index COMP fell 43 points, or 0.3%, to 13,317.</p><p>In corporate news, Apple sharesAAPL were rising after the iPhone maker outperformed Wall Street's earnings expectations for the holiday quarter, and executives forecast continued revenue growth in the current quarter. Earnings topped $30 billion for the first time, and the results mark a high point in a thus-far mixed reporting season.</p><p>In economic news, a measure of U.S. inflation preferred by the Federal Reserve climbed 5.8% in 2021 after another sharp increase in December. Employment costs rose 1% in the fourth quarter. At 10 a.m. Eastern, investors will get the University of Michigan consumer sentiment index for January.</p>",
+  "published": "2022-01-28T09:43:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 329,
+          "end": 334
+        },
+        {
+          "start": 101,
+          "end": 106
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

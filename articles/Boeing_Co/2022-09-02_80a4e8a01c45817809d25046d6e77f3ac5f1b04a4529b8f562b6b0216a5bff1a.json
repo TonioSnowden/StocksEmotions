@@ -1,0 +1,42 @@
+{
+  "_id": "80a4e8a01c45817809d25046d6e77f3ac5f1b04a4529b8f562b6b0216a5bff1a",
+  "feed": "wall-street-journal",
+  "title": "The Last Gasp of 20th-Century NASA; As private companies compete and drive down costs, the agency tries to use expensive refurbished rockets from the space-shuttle program to go to the moon.",
+  "text": "<p>SLS was developed to replace Constellation, the George W. Bush-era plan to repeat the Apollo moon-landing program. The giant booster NASA proposed was faulted as far too costly by an expert committee chaired by former aerospace executive Norman Augustine, and the Obama administration planned to terminate it. Senate heavyweights, contractors already working on the Constellation and longtime NASA employees came up with SLS as a supposedly lower-cost replacement by using the same aerospace technology already under contract for Constellation.</p><p>By the time this decision was made in 2010, NASA had begun seeking bids from SpaceX and other companies to haul cargo to the International Space Station using privately developed technology, including SpaceX's Falcon 9 with its first-stage rockets, which can be reused more than 10 times each. An internal NASA study found that if NASA had developed an equivalent launch vehicle using its normal procurement system, it would have cost three times as much as what SpaceX spent.</p><p>SLS and its Orion capsule have been developed using old technology and NASA's traditional cost-plus procurement process, in which contractors get reimbursed for design changes and cost overruns. Former NASA Deputy Administrator Lori Garver writes in her new book, \"Escaping Gravity,\" that the agency is paying the manufacturing company Aerojet Rocketdyne $150 million apiece to refurbish the outdated RS-25 outdated engines—$600 million a flight. It is no wonder that taxpayers so far have put nearly $30 billion into the Artemis moon-launch program before its first launch: $12 billion for the first SLS, $14 billion for two Orion crew capsules and $3.6 billion for new SLS launch facilities at Cape Canaveral.</p><p>Assuming the first unmanned SLS launch is successful, NASA would have to spend at least $4 billion more to produce a second SLS for the first crewed test flight, since not one bit of the launch vehicle is reusable. And to attempt a moon landing, a third SLS would have to be built, as well as a third Orion capsule. This would be a win for NASA's traditional aerospace contractors, but it would be a loss for taxpayers.</p><p>The new space paradigm means the agency should buy services from the rapidly developing competitive marketplace, not through its traditional procurement process.</p><p>As with commercial cargo and passenger flights to the ISS, NASA develops performance requirements and invites companies to propose how they would accomplish them. Under the Commercial Crew Program, SpaceX has completed four successful NASA missions and one mission launching space tourists to the ISS. SpaceX owns and operates its rockets and the crew and cargo capsules. So does its competitor, Boeing. But even though Boeing has a larger contract—$4.2 billion vs. SpaceX's $2.6 billion—its Starliner has yet to deliver any crews to the ISS (though it recently flew a successful test flight there and back). Last month NASA announced it is expanding SpaceX's missions to 14 and cutting Boeing's to six.</p><p>When the ISS is deorbited in or before 2031, NASA doesn't plan to replace it. Instead, it has offered to be a tenant on privately developed and operated space habitats. The best-known of these is the plan by Blue Origin and Sierra Space called Orbital Reef.</p><p>NASA's moon-landing plans, though still reliant on SLS to get astronauts to lunar orbit, now include having SpaceX use its new reusable SuperHeavy booster to transport its new reusable Starship to lunar orbit, and Starship will land the astronauts on the moon. In the near future, new lunar mobility vehicles will be owned by developers and hired by NASA to transport people and cargo on the lunar service. The next generation of space suits will also be developed this way.</p><p>SLS is Congress and NASA traditionalists' last attempt to preserve the old ways. If SLS fails to meet its mission objectives on its first test flight, Congress shouldn't continue pouring billions of taxpayer dollars into this 20th-century approach.</p><p>Mr. Poole is director of transportation policy at the Reason Foundation.</p><p>The Last Gasp of 20th-Century NASA</p>",
+  "published": "2022-09-02T21:25:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 2720,
+          "end": 2726
+        },
+        {
+          "start": 2697,
+          "end": 2703
+        },
+        {
+          "start": 2712,
+          "end": 2718
+        },
+        {
+          "start": 2986,
+          "end": 2992
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

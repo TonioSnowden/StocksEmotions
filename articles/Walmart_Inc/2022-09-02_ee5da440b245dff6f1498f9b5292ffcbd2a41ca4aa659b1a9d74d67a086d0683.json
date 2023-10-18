@@ -1,0 +1,34 @@
+{
+  "_id": "ee5da440b245dff6f1498f9b5292ffcbd2a41ca4aa659b1a9d74d67a086d0683",
+  "feed": "wall-street-journal",
+  "title": "Chobani Withdraws IPO After Delays; Greek-style yogurt maker, which previously delayed offering amid executive departures, says it will focus on profitable growth",
+  "text": "<p>The company over the past two decades has helped popularize Greek-style yogurt, which has more protein and less sugar than traditional yogurt, coinciding with U.S. consumers' shift toward protein-centric foods and snacks.</p><p>Chobani has estimated that it has about one-fifth of the roughly $10 billion U.S. yogurt market, and the company also produces oat milk and coffee creamer. It sells its products to Walmart Inc., Kroger Co., Albertsons Cos. and Whole Foods Market, among other retailers.</p><p>Chobani previously had planned to go forward with an IPO in the fall of 2021, and then in January of this year, The Wall Street Journal reported in March. The company initially targeted a valuation of as much as $7 billion to $10 billion, the Journal reported.</p><p>In March, Chobani put the planned listing on hold as several executives departed the company, including the company's president and its heads of strategy and corporate affairs. Chobani was planning to wait until at least the second half of 2022 or until 2023 to launch its IPO, The Journal reported at the time. In March Kevin Burns, former chief executive of Juul Labs Inc., was hired by Chobani as its new president and chief operating officer.</p><p>A volatile stock market, rising interest rates and fear of an impending recession have clouded the forecast for companies looking to go public in recent months. Rising labor, commodities and freight costs this year have made it harder for food producers to turn a profit.</p><p>Chobani was founded by Hamdi Ulukaya in 2005 when he bought a shuttered plant in New Berlin, N.Y. The company produced its first cup of yogurt in 2007. In recent years, the manufacturer has faced intensifying competition in the yogurt sector, as rival brands such as Dannon and Yoplait have launched their own new varieties, while others market yogurt made from oats and other milk alternatives.</p><p>In its earlier IPO filing, Chobani had positioned itself as a growth company, aiming to expand into more sections of the supermarket, and outside the U.S. Cash raised via an IPO would help drive that expansion, executives had said.</p><p>Chobani Withdraws IPO After Delays</p>",
+  "published": "2022-09-02T20:58:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 403,
+          "end": 415
+        },
+        {
+          "start": 401,
+          "end": 412
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9356208,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.03562081,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

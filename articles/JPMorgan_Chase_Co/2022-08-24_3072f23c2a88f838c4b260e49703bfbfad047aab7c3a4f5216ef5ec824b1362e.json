@@ -1,0 +1,30 @@
+{
+  "_id": "3072f23c2a88f838c4b260e49703bfbfad047aab7c3a4f5216ef5ec824b1362e",
+  "feed": "market-watch",
+  "title": "Treasury yields climb to highest since June after hawkish remarks by Fed's Kashkari",
+  "text": "<p>* The yield on the 2-year Treasury BX:TMUBMUSD02Y climbed 5.1 basis points to 3.384% after factoring in new issue levels. That's the highest since June 14, based on 3 p.m. data, according to Dow Jones Market Data.</p><p>* The yield on the 10-year Treasury BX:TMUBMUSD10Y advanced 5.2 basis points to 3.105% from 3.053% Tuesday afternoon. Wednesday's level is the highest since June 28.</p><p>* The yield on the 30-year Treasury BX:TMUBMUSD30Y rose 6.5 basis points to 3.320% from 3.255% on Tuesday. That's the highest level since June 21.</p><p>What's driving markets</p><p>Expectations for medium-term inflation have been rising sharply, despite the latest hawkish remarks from a Fed official — a sign that the market has turned \"pessimistic\" about the Fed's ability to hit its inflation goals, according to Steve Englander of Standard Chartered Bank, On Tuesday, Kashkari, president of the Minneapolis Fed, said that the central bank needs to push ahead with tightening monetary policy until inflation is clearly moving down. Inflation levels of 8% or 9% \"run the risk of un-anchoring inflation expectations\" and, if that happened, the Fed would likely have to embark on very aggressive rate rises to restore balance, he said.Attention turned to Friday's remarks by Federal Reserve Chairman Jerome Powell, which is set to be delivered at the central bank's annual symposium in Jackson Hole, Wyo. Powell is seen by analysts as likely to emphasize that the Fed remains aware of the inflation problem and needs to see more signs that it's rolling over, though some like JPMorgan Chase &amp; Co.'s Phil Camporealequestion whether the Fed chair would have to be overly hawkish.Read: Financial markets are bracing for what could be a 'very hawkish' Jackson Hole speech by Fed's PowellTraders and investors have been grappling with two different narratives in financial markets — one of troublingly high inflation that forces policy makers to keep aggressively raising borrowing costs, and the other of an economic slowdown that fixes the inflation problem and prompts the Fed to pivot. As of Wednesday, fed funds futures traders were back to pricing in a better-than-not chance of another 75-basis-point hike in September, with a 60.5% likelihood seen, according to the CME FedWatch Tool. Such a move would lift the fed funds rate target to between 3% and 3.25% versus a current level of 2.25% to 2.5%.Data released on Wednesday showed that U.S. durable-goods ordersfell flat in July, though a measure of business spending rose 0.4% last month in a relatively good sign for the economy. Meanwhile, pending home sales dipped by 1% last month.</p><p>What analysts are saying</p><p>\"I expect that Powell will walk a fine line on Friday,\" said Nick Tell, chief executive of Armory Group, which provides asset-management and investment-banking services. \"In other words, he will not provide specific guidance on the September rate hike and will continue to state that the Fed's actions will be data dependent. As a result, I expect continued volatility in the bond and equity markets as investors will need to look to other sources to speculate on the direction of the Fed,\" Tell wrote in an email to MarketWatch.</p><p>Hear from Ray Dalio at the Best New Ideas in Money Festivalon Sept. 21 and Sept. 22 in New York. The hedge-fund pioneer has strong views on where the economy is headed.</p><p>Treasury yields climb to highest since June after hawkish remarks by Fed's Kashkari</p>",
+  "published": "2022-08-24T19:46:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1537,
+          "end": 1557
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000005,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.7683716e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

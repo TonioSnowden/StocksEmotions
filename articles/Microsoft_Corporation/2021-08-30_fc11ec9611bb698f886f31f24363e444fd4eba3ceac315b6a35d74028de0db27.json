@@ -1,0 +1,32 @@
+{
+  "_id": "fc11ec9611bb698f886f31f24363e444fd4eba3ceac315b6a35d74028de0db27",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: T-Mobile CEO's Apology Is Revealing",
+  "text": "<p>The hacker gained entry through vulnerable testing environments and from there moved into other T-Mobile servers, Mr. Sievert said. He didn't provide specifics, citing a criminal investigation. But risk shoots up when companies let security slide among sandboxes and other testing systems.</p><p>The CEO assures the public he now has the \"firepower\" to improve the company's security in the form of long-term deals with consulting firms KPMG and FireEye's Mandiant unit. The breach is the third major customer-data leak T-Mobile has disclosed in the past two years, WSJ reports. Why was firepower lacking until now?</p><p>Read on for more news.</p><p>Firewalls were never designed to stop DDoS attacks.</p><p>The frequency and complexity of DDoS attacks are on the rise. And enterprises are more vulnerable than ever. Are you doing enough to protect yourself and your firewall?</p><p>Take Control</p><p>T-Mobile Investigation</p><p>Their bad: The chief executive of T-Mobile US Inc. apologized to customers for a security breach that has exposed personal data from more than 50 million people and said the wireless company was working to strengthen its cyber defenses.</p><p>The Bellevue, Wash., company Friday said it struck long-term partnerships with cybersecurity firm Mandiant and consulting firm KPMG LLG after the hack of its systems that exposed millions of Social Security numbers, birth dates and other data.</p><p>\"We didn't live up to the expectations we have for ourselves to protect our customers,\" CEO Mike Sievert wrote in a public letter. \"Knowing that we failed to prevent this exposure is one of the hardest parts of this event.\"</p><p>Read the full story.</p><p>Read More: Self-proclaimed T-Mobile hacker says, ‘Their Security Is Awful'</p><p>Cybersecurity</p><p>Deep-sea risks: Cybersecurity standards for offshore oil rigs are out of step with the industry, which has become more reliant on networked sensors and remote-monitoring tools in recent years, according to a study by Royal Dutch Shell and cybersecurity provider Naval Dome. Oil rigs are at risk for cyberattacks that could disrupt physical operations and contribute to safety incidents. (Houston Chronicle)</p><p>Air alert: Bangkok Airways is investigating a cybersecurity attack discovered last week that appears to have compromised passenger information, including contact and travel details. The airline warned customers that partial credit-card information is also at risk and they should watch for scam attempts.</p><p>Happening this week: A House subcommittee is set to hold a hearing Wednesday on a draft bill that would require companies to disclose details about cyberattacks within 72 hours of confirmation that an incident has occurred. That's a time period industry has lobbied for, saying the 24-hour period floated by some is too short to allow for meaningful information to be shared. Executives from the tech, banking, telecommunications and cybersecurity sectors are due to testify about the bipartisan Cyber Incident Reporting for Critical Infrastructure Act, and related issues. Tune in here at 12:00 noon ET on Sept. 1.</p><p>Among other provisions, the bill, led by Rep. Yvette Clarke (D., N.Y.) would have certain critical infrastructure companies report information to a federal Cyber Incident Review Office. The office would publish quarterly reports with sanitized information about cyber activities, to share information about attack trends and threats. Read a summary here.</p><p>Microsoft Azure users warned to generate new database keys after potential vulnerability disclosed. The Cybersecurity and Infrastructure Security Agency urged Azure cloud customers to regenerate keys to Microsoft's CosmosDB as an extra precaution to protect themselves from risks associated with a flaw that Microsoft says it has fixed. The flaw was discovered by cloud security company Wiz. (Reuters)</p><p>Police powers expanded: Law enforcement in Australia can now take over internet accounts and alter data in service of disrupting criminal activity, according to a bill passed last week. Some Australian lawmakers said the bill was problematic, granting wide powers that could lead to government surveillance. (IT News)</p><p>\"We need to develop the next generation of prosecutors with the training and experience necessary to combat the next generation of cyber threats.\"</p><p>— Deputy Attorney General Lisa Monaco, speaking Friday of the Justice Department's new fellowship program to increase cybersecurity expertise among those building criminal cases against hackers.</p><p>Privacy</p><p>Passport privacy: Electronic passports and apps that show an individual's Covid-19 vaccination status are raising privacy concerns as more states tie public activities to having the shot. Encryption and other tamper-proof measures can help protect privacy but there are no national standards for the passports. (Newsweek)</p><p>Angry attorney general: Finish game-maker Rovio Entertainment Corp. collects and monetizes data about children through its popular \"Angry Birds\" game franchise in violation of federal privacy laws aimed at protecting children under age 13, New Mexico Attorney General Hector Balderas said in a law suit. (Jurist)</p>",
+  "published": "2021-08-30T12:46:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3696,
+          "end": 3705
+        },
+        {
+          "start": 3388,
+          "end": 3403
+        },
+        {
+          "start": 3591,
+          "end": 3600
+        },
+        {
+          "start": 3591,
+          "end": 3602
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

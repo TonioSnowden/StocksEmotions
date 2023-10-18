@@ -1,0 +1,32 @@
+{
+  "_id": "2c17d28fc05ab6a21049b149f22fe40fe15aa97c4f62df7b904e78225e70568d",
+  "feed": "wall-street-journal",
+  "title": "Business News: Intel Sets Net-Zero Emissions Goal by '40",
+  "text": "<p>Intel's emissions have continued to rise in recent years as demand for computing power has boomed. Still, direct emissions over the past decade were 75% lower than they would have been if Intel hadn't improved its carbon intensity through efficiency gains and used more renewable energy, the company said. Intel will continue to invest in those areas, but deeper emissions cuts will mean addressing chemicals it uses in factories, according to Todd Brady, the company's chief sustainability officer.</p><p>\"We need to look fundamentally at the chemistry and if we can come up with completely new chemistries that have zero global warming potential,\" he said. \"It will be a big, big change.\"</p><p>Mr. Brady said the company would launch a cross-industry research-and-development effort to prevent the release of chemicals and put alternatives into widespread use.</p><p>Semiconductors are made by etching patterns into silicon wafers in industrial ovens that must be free of contamination; tiny imperfections can be disastrous. The process relies on chemicals that are far more potent greenhouse gases than carbon dioxide to etch chips and to keep equipment clean.</p>",
+  "published": "2022-04-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 306,
+          "end": 311
+        },
+        {
+          "start": 188,
+          "end": 193
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 15,
+          "end": 20
+        }
+      ]
+    }
+  ]
+}

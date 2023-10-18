@@ -1,0 +1,70 @@
+{
+  "_id": "e15f597a0f50d2e28c1a2ebda83020c6c6b3dc724f107f746aec6a7e78a1be92",
+  "feed": "market-watch",
+  "title": "Apple's satellite deal with Globalstar could spell good news for this company; Apple's partnership with satellite company Globalstar was one of a slew of announcements at the tech giant's eagerly-anticipated iPhone 14 launch event this week.",
+  "text": "<p>The news sent shares of Globalstar Inc. on a wild ride, with the stock ending Thursday's session down 18.9%.</p><p>See Now: Apple's satellite plans just sent this stock on a wild ride</p><p>In a filing, Globalstar explained that it will allocate 85% of its current and future network capacity to support Apple's services.</p><p>But could the deal spell good news for any other companies in the satellite space?</p><p>Iridium Communications Inc. IRDM is well positioned to benefit from the deal, according to BWS Financial. \"The announcement of Apple (AAPL) embedding satellite communications into its latest iPhone opens the door for Iridium Communications (IRDM) to benefit from competing handset makers in doing the same,\" wrote BWS Financial analyst Hamed Khorsand, in a note released Thursday. \"The AAPL news establishes a business plan where service providers would not be threatened by phones bypassing their network.\"</p><p>See Now: Apple keeps iPhone prices the same, offers free satellite connection for 2 years</p><p>Khorsand notes that Iridium already has an established low Earth orbit satellite network deployed and commercially active. Iridium shares ended Thursday's session up 0.6% and are up 4.3% before market open Friday.</p><p>The analyst also pointed to Iridium's recently disclosed smartphone agreement with an unnamed partner. The development agreement will enable Iridium's technology in smartphones, according to the satellite company, in a July filing. \"The agreement is contingent upon the successful development of the technology, as well as negotiation and execution of a service provider agreement, which the Company expects to finalize by the end of the year,\" it said, in the filing. \"The development agreement also provides for development fees, royalties and network usage fees to be paid to Iridium.\"</p><p>\"IRDM has already been embedded in personal communication devices that have been widely popular the last couple of years,\" wrote Khorsand. \"The market is beginning to experience such a shift,\" he added.</p><p>See Now: Is the iPhone 14 worth it? Apple CEO Tim Cook made one 'brilliant move,' but our verdict might surprise you.</p><p>Iridium stock has risen 6.83% this year, compared with the S&amp;P 500 Index's SPX decline of 16%. Globalstar's stock has gained 44% over the same period.</p><p>B. Riley Securities analyst Mike Crawford gave Apple and Globalstar kudos for being first to market and offering a low-cost satellite solution. \"That alone in terms of market share gains probably is worth it for Apple, even if satellite broadband becomes ubiquitous in coming years,\" he wrote, in a note released Thursday. \"As for GSAT, it appears to be taking on very little market risk, and we look forward to good news on its spectrum monetization front in the coming months as well.\"</p><p>\"GSAT now moves away from an extended purgatory of financial stress into what looks like a new era of increasing positive FCF generation,\" wrote Crawford. \"GSAT will refinance its existing $257M of debt and secure constellation build financing, as anticipated in 4Q22.\"</p><p>See Now: Apple CEO Tim Cook won't raise iPhone 14 prices. He must first deal with a fierce rival — and it's not Samsung</p><p>Apple has agreed to pay 95% of the approved capital expenditures Globalstar makes in connection with the new satellites, Globalstar revealed, in a filing this week. There will be at least 24 satellites in orbit and usable for the service, according to the satellite company.</p><p>Last month T-Mobile US Inc. TMUS and SpaceX announced a partnership that aims to connect the vast majority of smartphones already on T-Mobile's network to SpaceX satellites. Despite the existence of powerful LTE and 5G wireless networks, over half a million square miles of the U.S. and vast stretches of ocean are untouched by cell signals from any provider, the companies said in a statement. To resolve this problem, the companies will create a new network, broadcast from Starlink's satellites using T-Mobile's mid-band spectrum nationwide.</p><p>Apple's satellite deal with Globalstar could spell good news for this company</p>",
+  "published": "2022-09-09T13:32:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999905,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 117,
+          "end": 122
+        },
+        {
+          "start": 118,
+          "end": 123
+        },
+        {
+          "start": 291,
+          "end": 296
+        },
+        {
+          "start": 527,
+          "end": 531
+        },
+        {
+          "start": 779,
+          "end": 783
+        },
+        {
+          "start": 904,
+          "end": 909
+        },
+        {
+          "start": 2018,
+          "end": 2023
+        },
+        {
+          "start": 2295,
+          "end": 2300
+        },
+        {
+          "start": 3010,
+          "end": 3015
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.0,
+        "baseWeight": 11.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

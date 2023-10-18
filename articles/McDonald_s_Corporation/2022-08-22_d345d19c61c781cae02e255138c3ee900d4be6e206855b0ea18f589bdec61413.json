@@ -1,0 +1,54 @@
+{
+  "_id": "d345d19c61c781cae02e255138c3ee900d4be6e206855b0ea18f589bdec61413",
+  "feed": "market-watch",
+  "title": "McDonald's testing a 'Chicken Big Mac' in the U.S. after the sandwich sold out in the U.K. The 'Chicken Big Mac' will be tested in select Miami, Florida locations",
+  "text": "<p>The new sandwich features two tempura chicken patties instead of the original beef hamburgers, which are topped with pickles, shredded lettuce and American cheese, and served on a sesame seed bun. It was such a hit in the U.K. that it sold out in less than two weeks after it first rolled out.</p><p>The U.S. \"Chicken Big Mac\" test-run will only be in a few locations in Miami, Florida to begin with, however. And it comes after years of \"chicken sandwich wars\" by competitor fast-food chains like the Restaurant Brands International-owned QSR Popeyes, Wendy's WEN and Chick-fil-A.</p><p>See also: Chicken sandwich wars: Popeyes, Chick-fil-A and Wendy's are waging an all-out food fight</p><p>And: Wingstop will launch a chicken sandwich with 12 flavor varieties in September</p><p>\"Chicken continues to be a significant opportunity for us,\" McDonald's CEO Chris Kempczinski said on a recent earnings call, as reported by CNN. \"We've got some great global equities already in our McNuggets and with McChicken, but we also have some equities in McCrispy and McSpicy that we think we've got an opportunity to do more with globally.\"</p><p>See: McDonald's McPlant sandwich, created with Beyond Meat, is 'underperforming' franchisee sales expectations, analysts say</p><p>The \"Chicken Big Mac\" news comes as McDonald's also announced that it's reshuffling its board, adding three new directors as 15-year board member Sheila Penrose prepares to leave.</p><p>Shares of McDonald's Corp. were down 0.48% during Monday morning trading. McDonald's stock is up 10.68% over the last 12 months, compared to a the S&amp;P 500 SPX, which is down 7.26% over the same period.</p><p>McDonald's testing a 'Chicken Big Mac' in the U.S. after the sandwich sold out in the U.K.</p>",
+  "published": "2022-08-22T15:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.999936,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 814,
+          "end": 824
+        },
+        {
+          "start": 1106,
+          "end": 1116
+        },
+        {
+          "start": 1262,
+          "end": 1272
+        },
+        {
+          "start": 1415,
+          "end": 1431
+        },
+        {
+          "start": 1478,
+          "end": 1488
+        },
+        {
+          "start": 1605,
+          "end": 1615
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "4313edaeb9cb606dba54456408669e9f02c69bf3b871c870f9f5ecf354ff6415",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Russia Tests Limits Of Debt Derivatives",
+  "text": "<p>The cost of buying a five-year contract for protection against a Russian government default has skyrocketed since the beginning of February from around 5% of the total value of the debt to be insured to 46% as of March 4, according to data from ICE Data Services.</p><p>Typically, when a country or corporation defaults on a bond with a credit default swap, investment banks and brokerages that facilitate the swaps will participate in an auction to determine the value of the debt, usually at a discount to face value. However, Russian sanctions precluding the secondary-market trading of Russian bonds may render the entire auction process moot.</p><p>\"If that is not able to happen due to sanctions on secondary market trading, then an auction in the standard way will not be possible,\" wrote JPMorgan analysts in a March 2 note.</p><p>Moscow's response to Western sanctions, including the imposition of capital controls, has already created a disruption in how Russia's public debt trades internationally.</p><p>Euroclear, a major debt clearinghouse based in Belgium, said on Wednesday that Russia's state depository had blocked its accounts, preventing trades of some of Russia's dollar- and euro-denominated debts from settling. The central bank of Russia on Feb. 28 also barred local brokers from handling sales of securities on behalf of foreign investors.</p><p>Current U.S. sanctions only forbid the trading of Russian sovereign debt issued after March 1. But if the Treasury Department widens the scope of its sanctions, it could also outright prohibit any trading in the securities. An alternative may be to settle all credit default swaps trades purely in cash between counterparties, rather than attempting an auction process, although that could result in different recovery rates for the same underlying insurance contract, the JPMorgan analysts said.</p>",
+  "published": "2022-03-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 1814,
+          "end": 1822
+        },
+        {
+          "start": 784,
+          "end": 792
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

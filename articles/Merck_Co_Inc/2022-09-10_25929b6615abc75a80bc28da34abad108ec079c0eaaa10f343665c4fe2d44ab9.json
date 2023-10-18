@@ -1,0 +1,42 @@
+{
+  "_id": "25929b6615abc75a80bc28da34abad108ec079c0eaaa10f343665c4fe2d44ab9",
+  "feed": "wall-street-journal",
+  "title": "REVIEW  ---  Who Will Pay the Price  For Cyberattacks?  ---  Insurers have long excluded war damage from their coverage. A new spate of legal battles will  decide whether they can consider state-sponsored hacking an act of war.  ----  By Josephine Wolff",
+  "text": "<p>   The U.S. wasn't officially at war with Japan on the morning of Dec. 7, 1941, when the Japanese navy bombed Pearl Harbor, killing 2,403 people. Congress declared war only the next day, December 8. So when Arthur and Freda Rosenau filed a claim for their son Howard's $1000 life insurance policy, they were surprised to hear back from Idaho Mutual denying the claim on the grounds that Howard, a Navy seaman killed at Pearl Harbor, had died at war. </p><p>   Many insurance policies -- not just life insurance -- exclude coverage for acts of war on the grounds that war is so unpredictable, and potentially catastrophic, that insurers simply cannot model it or cover the resulting losses. Policyholders tend not to worry too much about these exclusions because they don't imagine that war is likely to affect them. </p><p>   But it isn't always clear what is or isn't an act of war, and as insurers have broadened the language in these exclusions in the decades since Pearl Harbor, policyholders have had claims denied for events tied to terrorist attacks and civil unrest. Most recently, insurers have begun applying war exclusions to state-sponsored cyberattacks, raising the possibility that a standard insurance exclusion initially aimed at infrequent, unpredictable crises might now eliminate coverage for acts of sabotage that are ever more frequent and far-reaching. </p><p>   The financial stakes are considerable. At the moment, courts are adjudicating legal battles between insurers and private companies over damages from a 2017 Russian cyberattack known as NotPetya. The decisions in the NotPetya cases will help define who pays for the next generation of state-backed cyberattacks, whether these originate from Russia, China, North Korea or Iran. At the heart of the wrangling is the boilerplate language in insurance policies excluding acts of war -- clauses that have evolved over the course of the past century to reflect ever more expansive definitions of war. </p><p>   In the 1940s, for instance, Howard Rosenau's life insurance policy explicitly stated that it wouldn't cover \"death, disability or other loss sustained while in military, naval or air service of any country at war.\" The Rosenaus were one of several Pearl Harbor families who ended up taking their insurers to court over such exclusions. They ultimately won when the Idaho Supreme Court ruled in 1944 that since the United States was not officially, legally at war with Japan until Dec. 8, Rosenau's death the previous day wasn't in the service of a country at war. </p><p>   Following the lawsuits surrounding Pearl Harbor, many insurers changed the language in their policies so that the so-called war exclusions now applied to events that occurred \"in time of peace or war.\" Later lawsuits prompted further broadening of these exclusions. </p><p>   On Sep. 6, 1970, members of the Popular Front for the Liberation of Palestine hijacked Pan Am flight 093, landed it in Cairo, evacuated the passengers and blew up the plane. Pan Am filed a $24,288,759 claim with its insurer, Aetna, for the cost of the airplane. Aetna denied the claim because a clause in Pan Am's policy excluded coverage for \"war, invasion, civil war, revolution, rebellion, insurrection or warlike operations, whether there be a declaration of war or not.\" Pan Am won that case, in part because the court found that the PFLP weren't agents of a sovereign government. </p><p>   Aetna was also the insurer for the hotel chain Holiday Inn on Dec. 6, 1975, when a Holiday Inn in Beirut was destroyed by fighting in Lebanon's civil war. Aetna invoked the war exclusion to deny the hotel chain's claim for $11 million in damages -- and again the insurance company lost in court, with a judge's ruling in 1983 that the fighting in Beirut was actually a \"series of factional 'civil commotions' of increasing violence\" but not a war, because the parties involved weren't \"sovereign or quasi-sovereign states.\" </p><p>   By the time Russia unleashed the NotPetya cyberattack in the summer of 2017, causing computer outages and operational disruptions at companies worldwide and costing upward of $10 billion in damages, insurers had broadened their war exclusions still further, learning from their losses in cases like the ones brought by Pan Am and Holiday Inn. The property and casualty insurance policies held by some of the victims of NotPetya excluded coverage for \"hostile or warlike action in time of peace or war\" perpetrated not just by governments or sovereign powers but also by any \"military, naval or air force\" or any \"agent of authority\" of a government or military. </p><p>   Unlike in the Pan Am or Holiday Inn cases, moreover, this time it was clear that a government was in fact behind the attack and that it directly targeted private companies. By February 2018, less than a year after NotPetya, there was widespread consensus that the Russian military was responsible for the malware -- several governments even released coordinated formal statements of attribution to that effect. </p><p>   Buoyed perhaps by this explicit attribution, several insurers denied claims from at least two companies that had suffered major losses during NotPetya: multinational food corporation Mondelez, which filed a claim with its insurer Zurich to cover more than $100 million in damages, and pharmaceutical company Merck, which filed a $1.4 billion claim with its more than 20 insurers. </p><p>   Both companies sued their respective insurers. The Mondelez case hasn't yet been decided, but Merck won a significant victory in December, when a New Jersey court ruled that the war exclusion in the company's policy didn't apply to NotPetya because the cyberattack didn't involve violence, the use of armed forces or any \"traditional forms of warfare.\" </p><p>   The Merck ruling is just one of many that will help determine whether or not insurance will cover the effects of state-sponsored cyberattacks. Insurers are already moving to expand the language of their war exclusions to encompass these events. In August, Lloyd's published a market bulletin about exclusions for state-backed cyberattacks, urging underwriters to consider excluding coverage for some state-backed cyberattacks that \"occur outside of a war involving physical force.\" </p><p>   Insurers have been expanding and altering war exclusions since the days of Pearl Harbor. But the evolution of cyberattacks has outpaced these efforts. High-profile, state-sponsored attacks on private companies over the past few years include Russia's 2020 SolarWinds hack, China's 2021 Microsoft Exchange server breach, Iran's 2021 attack on Boston Children's Hospital and North Korea's 2022 theft of $620 million in cryptocurrency. </p><p>   Such state-sponsored cyberattacks are becoming ever more ambitious and routine, and they are far more common than wars, terrorist attacks or revolutions. Attempts to write them out of insurance coverage may therefore have far more profound -- and expensive -- consequences for companies than any of the previous attempts by insurance carriers to expand the meaning of war for their policyholders. </p><p>   --- </p><p>   Ms. Wolff is an associate professor at the Fletcher School at Tufts University and the author of \"Cyberinsurance Policy: Rethinking Risk in an Age of Ransomware, Computer Fraud, Data Breaches and Cyberattacks.\" </p><p></p>",
+  "published": "2022-09-10T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 5267,
+          "end": 5272
+        },
+        {
+          "start": 5696,
+          "end": 5701
+        },
+        {
+          "start": 5241,
+          "end": 5246
+        },
+        {
+          "start": 5667,
+          "end": 5672
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

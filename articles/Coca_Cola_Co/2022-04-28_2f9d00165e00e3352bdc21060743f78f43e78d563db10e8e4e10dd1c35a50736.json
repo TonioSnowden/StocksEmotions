@@ -1,0 +1,32 @@
+{
+  "_id": "2f9d00165e00e3352bdc21060743f78f43e78d563db10e8e4e10dd1c35a50736",
+  "feed": "wall-street-journal",
+  "title": "Coca-Cola Investigates Hacking Claim; The Stormous gang says it launched a cyberattack against Coke and is selling stolen data. But other hacks claimed by the group haven't been verified.",
+  "text": "<p>\"We are aware of this matter and are investigating to determine the validity of the claim. We are coordinating with law enforcement,\" a spokesman for Coca-Cola said.</p><p>Stormous in March claimed responsibility for a breach of Epic Games Inc. More recently, the group, after publicly declaring support for Russia's invasion of Ukraine, said it breached the Ukrainian Ministry of Foreign Affairs. Neither the ministry nor Epic Games immediately responded to requests for comment.</p><p>However, security researchers have cast doubt on Stormous's alleged hacks, saying that the data it has offered in the past was already widely available on darkweb forums. A February blog post from cybersecurity company ZeroFox Inc. described Stormous as a \"scavenger operation,\" saying that while the group's hacking claims stretch back to July 2021, none has been verified.</p><p>\"This is not uncommon for cybercriminal groups, who often embellish the details of their activity in order to coerce victims into paying a ransom,\" said Chris Morgan, a senior cyber threat intelligence analyst at cybersecurity company Digital Shadows Ltd.</p><p>The conflict in Ukraine has also led some groups to try to damage the reputations of companies that pulled out of Russia, while others, with opposite views, have targeted businesses that stayed in the country. Coca-Cola said in early March that it was suspending its operations in Russia.</p><p>Last month, hacktivists said they had breached food giant Nestlé SA in retaliation for its continued operations in the country. Nestlé told the Journal at the time that the information wasn't stolen in a cyberattack but mistakenly published on a test website.</p><p>\"Hacking and the fear of being hacked are now common enough concerns that the appearance of a breach can have as much, if not more, impact than actual intrusion or data theft,\" said Casey Ellis, chief technology officer at vulnerability testing platform Bugcrowd Inc. \"The ultimate ‘burden to prove a negative' is at best a breeding ground for misinformation, and at worst a vulnerability in and of itself,\" he said.</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-04-28T21:05:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "offsets": [
+        {
+          "start": 95,
+          "end": 99
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 1316,
+          "end": 1325
+        },
+        {
+          "start": 150,
+          "end": 159
+        }
+      ]
+    }
+  ]
+}

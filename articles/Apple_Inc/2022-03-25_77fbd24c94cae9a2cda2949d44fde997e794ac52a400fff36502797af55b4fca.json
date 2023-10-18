@@ -1,0 +1,32 @@
+{
+  "_id": "77fbd24c94cae9a2cda2949d44fde997e794ac52a400fff36502797af55b4fca",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   Hacking collective Lapsus$ has offered to pay employees of Apple Inc. and other companies for access to internal systems and confidential data. In some editions Thursday, a Business &amp; Finance article about a January data breach at Okta Inc. incorrectly said Lapsus$ claimed responsibility for an attack on Apple. </p><p>   --- </p><p>   A photo of Supreme Court nominee Ketanji Brown Jackson at her Senate confirmation hearing on Wednesday accompanied a U.S. News article on Thursday about the hearing. In some editions, the caption incorrectly said the photo was taken on Thursday. </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-03-25T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 59,
+          "end": 69
+        },
+        {
+          "start": 59,
+          "end": 68
+        },
+        {
+          "start": 59,
+          "end": 64
+        },
+        {
+          "start": 306,
+          "end": 311
+        }
+      ]
+    }
+  ]
+}

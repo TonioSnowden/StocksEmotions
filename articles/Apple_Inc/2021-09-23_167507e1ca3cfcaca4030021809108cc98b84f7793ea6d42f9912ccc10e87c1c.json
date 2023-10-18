@@ -1,0 +1,24 @@
+{
+  "_id": "167507e1ca3cfcaca4030021809108cc98b84f7793ea6d42f9912ccc10e87c1c",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Banks Share Data to Block Cyberattacks | Retaliatory Strikes",
+  "text": "<p>As WSJ Pro's James Rundle reports, American Express Co. says the quality of intelligence open to FS-ISAC members has improved. And Chile's Banco Falabella says it avoided denial-of-service and ransomware attacks by analyzing information about cyber incidents contributed by members.</p><p>Read on for more news.</p><p>Collaboration Is Key</p><p>Playing the blame game wastes time. Once these two operations unite, you'll proactively detect threats without pointing fingers.</p><p>Read More</p><p>Intelligence Sharing</p><p>Banding together: As the number and sophistication of cyberattacks jumps, financial firms are sharing more threat intelligence with each other, according to the Financial Services Information Sharing and Analysis Center, a nonprofit group that facilitates the exchange of cybersecurity intelligence.</p><p>This collaboration has thwarted a number of attacks in the past year, bank executives say.</p><p>In September 2020, Santiago, Chile-based Banco Falabella became concerned it would soon come under attack by hackers. Distributed denial of service attacks, which flood servers with traffic to shut down websites and applications, were rippling across the financial sector as part of a long-running extortion campaign. Meanwhile, certain criminal gangs were besieging Latin American companies in particular with ransomware attacks.</p><p>Juan Carrasco, the bank's head of cybersecurity, turned to others for help. He began researching attack patterns and technical data from 16,000 banks, payments providers, insurers and other financial firms shared via FS-ISAC's intelligence-sharing platform.</p><p>Read the full story.</p><p>More Cyber News</p><p>Conti strikes again: A ransomware group known as Conti is stepping up activity, and has been responsible for more than 400 attacks in the U.S. and internationally, warned the FBI, Cybersecurity and Information Security Agency and National Security Agency. Typical entry tactics include spearphishing and exploiting weak remote desktop protocol credentials, among others. Conti also looks for unpatched Microsoft vulnerabilities.</p><p>Conti is known to target healthcare organizations, the agencies said. Ireland's national health system was hit earlier this year and continues recovery work. (Bleeping Computer)</p><p>31%</p><p>Percentage of tech executives who advocate retaliatory cyberattacks to stop foreign nationals from hacking, according to a survey of 1,400 tech leaders in the U.S., U.K., and Canada from cyber firm Arctic Wolf Networks Inc. Just 15% said international diplomacy would work. (InfoSecurity Magazine)</p><p>Privacy News‎</p><p>Privacy impediment: Facebook said Apple's recent changes to enhance privacy for users of its mobile operating system are impeding tools that the social-media giant uses to help advertisers measure the effectiveness of their campaigns. Graham Mudd, Facebook's vice president of product marketing, suggested in a blog post Wednesday that Facebook's tools may be underreporting data such as sales and app installs, meaning that ad campaigns on the platform are showing better results than the data show. (WSJ)</p><p>Apple in April rolled out a change to its iOS software requiring apps to ask users for permission to track their activity and share it with other apps or websites.</p><p>Xiaomi denies censorship. Smartphones and other devices from China's Xiaomi Corp. don't censor users' communications, contradicting a report from Lithuanian cybersecurity officials released early this week. \"Xiaomi fully respects and protects the legal rights of all users,\" the company said. Researchers in Lithuania advised users to throw away Xiaomi phones, warning that a capability to block phrases such as \"democracy movement\" could be turned on remotely. (Reuters)</p>",
+  "published": "2021-09-23T13:36:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2561,
+          "end": 2566
+        },
+        {
+          "start": 3034,
+          "end": 3039
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

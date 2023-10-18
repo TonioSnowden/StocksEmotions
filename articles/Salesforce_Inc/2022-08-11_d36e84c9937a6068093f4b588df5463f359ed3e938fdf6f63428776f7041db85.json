@@ -1,0 +1,34 @@
+{
+  "_id": "d36e84c9937a6068093f4b588df5463f359ed3e938fdf6f63428776f7041db85",
+  "feed": "ftcomall",
+  "title": "A looming test for tech antitrust battles",
+  "text": "<p>The idea that your robot vacuum cleaner could suck up data about your home and send it back to Amazon might strike some people as creepy. If that happened, would Alexa start suggesting you buy a new rug when the old one wears out, or recommend a better way to arrange your furniture?</p> <p>Whether this would also be a threat to competition in the nascent home automation market, however, is an altogether different question. Separating those two issues has become of critical importance as regulators in the US break new ground in antitrust enforcement, with <a href=\"https://www.ft.com/data-protection\">data</a> very much at the centre.</p> <p>Amazon's <a href=\"https://www.ft.com/content/3bdf0510-2724-4899-a659-ec1fb94a6d36\">agreement last week</a> to pay $1.7bn for iRobot, maker of the Roomba robot vacuum cleaner, promises to make the ecommerce company even more of a fixture in customers' homes. It would add another gadget to a portfolio of home automation products that already includes Alexa-powered smart speakers, Ring doorbells and a 17-inch high, wheeled robot called Astro.</p> <p>Not lost on anyone, however, is the fact that Lina Khan, chair of the US Federal Trade Commission for the last 14 months, made her name in antitrust circles with a<a href=\"https://www.yalelawjournal.org/pdf/e.710.Khan.805_zuvfyyeh.pdf\"> 2017 paper</a> arguing for a more expansive approach to antitrust enforcement in order to counter the power of Amazon.</p> <p>Central to her argument was the need to act more aggressively against vertical integration — deals that combine companies in different parts of a value chain, such as Amazon's purchase of iRobot. Vertical deals are a particular problem in digital markets, she argued, since big tech companies have the power to shut out rival apps that rely on access to their platforms. She also warned that data acquired in one market could be used by these companies against competitors in other areas.</p> <p>Khan's FTC has already <a href=\"https://www.ft.com/content/2e7a2700-2122-42b0-93c5-f2f2973ee45c\">broken new groun</a>d in tackling vertical dealmaking in tech, suing Facebook parent Meta last month to stop it buying the maker of a popular virtual reality exercise app called Supernatural.</p> <p>All of this would seem to put the iRobot deal very much in the FTC's sights. Like VR, home automation is a new market that has attracted the attention of the tech giants. Amazon has a claim to being an early leader in a field that could one day be dominated by a small number of companies.</p> <p>But while privacy campaigners and others were quick to complain, it is not obvious that Amazon's ownership of iRobot's data would do much on its own to tip the competitive balance.</p> <p>It is hard to predict what inferences AI will be able to draw from a particular piece of information, particularly when it's combined with other data. But on the face of it, knowing the dimensions of a room, or the position of a piece of furniture, hardly seems like it will give Amazon an unfair advantage in other areas, whether home automation or other parts of its ecommerce business.</p> <p>And even if the data does have competitive value, does it represent a scarce resource? It's often said that data is the oil of the digital economy. Unlike oil, though, there is no limit to the amount of digital information that can be created. A popular new gadget, or a catchy new app, can become an instant gusher of valuable insights for its owner.</p> <p>Some data sets are certainly harder to replicate than others. When Microsoft bought LinkedIn in 2016, Salesforce complained to regulators that the network of professional users was a unique asset. But in many fields, data is the automatic byproduct of some other action, such as mapping a home while vacuuming it.</p> <p>If the prospect of Amazon getting its hands on Roomba's data doesn't trigger obvious antitrust worries, that doesn't mean the deal won't face a challenge from the FTC. Khan has been explicit about trying to prevent dominant platforms from forming in new digital markets, even before it is clear exactly what form these markets will take or who the dominant companies will be. That is likely to make Amazon's purchase of companies that own the most important “applications” in home automation as worrying to regulators as Meta's acquisition of leading VR applications.</p> <p>Khan's supporters can point to how Google's purchase of YouTube in 2006 and Facebook's acquisition of Instagram in 2012 took place well before the online video and photo-sharing markets took off. But convincing a court to be as forward-looking, in the absence of clear present harm to consumers, will be a challenge.</p> <p><a href=\"mailto:richard.waters@ft.com\"><em>richard.waters@ft.com</em></a></p><p>Source: Richard Waters 2022 'A looming test for tech antitrust battles' FT.com 11 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-11T17:19:44.372Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3243,
+          "end": 3253
+        },
+        {
+          "start": 3221,
+          "end": 3231
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290125,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 8
+    }
+  ]
+}

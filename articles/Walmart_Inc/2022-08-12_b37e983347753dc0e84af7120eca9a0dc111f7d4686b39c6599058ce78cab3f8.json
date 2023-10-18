@@ -1,0 +1,34 @@
+{
+  "_id": "b37e983347753dc0e84af7120eca9a0dc111f7d4686b39c6599058ce78cab3f8",
+  "feed": "wall-street-journal",
+  "title": "Best Buy Cuts Store Jobs to Help Boost Profits; Retailer says it is reworking the business as spending shifts online and electronics sales slow",
+  "text": "<p>\"With an ever-changing macroeconomic environment, including customers shopping more digitally than ever, we have made adjustments to our teams that include eliminating a small number of roles,\" said a company spokeswoman. Best Buy has job openings in other roles and is continuing to investin areas of the business such as in home services, healthcare and stores, she said.</p><p>Best Buy had around 105,000 workers in the U.S. and Canada as of January, down from nearly 125,000 workers in early 2020, according to financial filings.</p><p>The latest job cuts at Best Buy come as the overall U.S. job market remains strong. The unemployment rate dropped to 3.5% last month, a half-century low also seen just before the pandemic in early 2020, according to the Labor Department. But a handful of major employers are pulling back on hiring or cutting some jobs. Walmart Inc., the country's largest private employer, cut hundreds of corporate jobs earlier this month. Ford Motor Co. is preparing to cut thousands of white-collar workers, while technology giants such as Microsoft Corp. and Facebook parent Meta Platforms Inc. have pulled back on hiring for certain roles.</p><p>Best Buy cut its sales and profit estimates for the second quarter, noting that business has slowed since the heady growth earlier in the pandemic when many people rushed to buy electronics to work or entertain themselves at home. Consumers are shifting spending as a result of high levels of inflation, the company said last month.</p><p>The company has also been remodeling stores and reworking how it uses its retail locations as more buying shifts online. It plans to remodel around 45 stores this year, it said during a May investor presentation. Last year it announced it would close its Mexico operations, where it had a few dozen stores, focusing on its business in the U.S. and Canada.</p><p>Best Buy also eliminated a number of store jobs early last year as part of efforts to reduce costs. Last year's layoffs were destabilizing for workers who retained their jobs in stores, according to interviews with current and former workers. Some people in online forums refer to last year's job cuts as \"the snap,\" a reference to a moment in Walt Disney Co.'s Marvel franchise when the character Thanos snaps his fingers to erase half of all life in the universe.</p><p>A Best Buy spokeswoman declined to comment on the joke.</p><p>Best Buy is slated to report quarterly earnings Aug. 30. It expects comparable sales, those from stores and digital channels operating for at least 12 months, to fall around 13% for the second quarter.</p><p>Best Buy shares dipped 0.4% Friday, bringing their decline so far this year to 21%. The S&amp;P 500 is down about 10% over the same time frame.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Best Buy Cuts Store Jobs to Help Boost Profits</p>",
+  "published": "2022-08-12T19:18:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 842,
+          "end": 854
+        },
+        {
+          "start": 848,
+          "end": 860
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9004407,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.00044071674,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

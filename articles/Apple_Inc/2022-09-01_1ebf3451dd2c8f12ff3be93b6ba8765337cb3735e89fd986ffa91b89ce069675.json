@@ -1,0 +1,34 @@
+{
+  "_id": "1ebf3451dd2c8f12ff3be93b6ba8765337cb3735e89fd986ffa91b89ce069675",
+  "feed": "wall-street-journal",
+  "title": "Microsoft's Activision Deal Raises Competition Concerns, Says U.K. Watchdog; Companies have five days to respond before regulator determines whether investigation will go to second phase",
+  "text": "<p>If the CMA isn't satisfied at that stage, the probe would enter a second phase involving a panel of independent reviewers, it said.</p><p>Microsoft makes Xbox videogame consoles and its chief rival is Sony Group Corp., known for its PlayStation system. Activision Blizzard is a developer and publisher of popular game franchises such as \"Call of Duty\" and \"World of Warcraft.\"</p><p>\"CMA is concerned that if Microsoft buys Activision Blizzard it could harm rivals, including recent and future entrants into gaming, by refusing them access to Activision Blizzard games or providing access on much worse terms,\" the watchdog said.</p><p>The regulator added that it is also concerned that Microsoft could use Activision's games to damage competition in the nascent market for cloud gaming, or the Netflix-like streaming of games via internet-connected devices including consoles, smartphones and laptops.</p><p>Microsoft is one of the world's largest cloud-computing service providers and the company has been a leader inthe cloud-gaming market through its Game Pass subscription service. Sony also offers cloud gaming through its PlayStation Plus subscription.</p><p>Microsoft President Brad Smith said the company is ready to work with the CMA on next steps and address any of its concerns.</p><p>\"Sony, as the industry leader, says it is worried about Call of Duty, but we've said we are committed to making the same game available on the same day on both Xbox and PlayStation,\" Mr. Smith said. \"We want people to have more access to games, not less.\"</p><p>Representatives for Sony didn't respond to a request for comment.</p><p>Entering the second phase of the probe could indicate the U.K. regulator is concerned the deal could harm British game developers and consumers, said William Newman, a senior counsel at a New York litigation firm. \"The U.K. in particular has a very large gaming industry,\" he said.</p><p>The U.K. is home to some top game studios, including Electronic Arts Inc.'s Codemasters and Take-Two Interactive Software Inc.'s Rockstar North. It is also the world's sixth-largest videogame software market, according to industry tracker Newzoo BV. China is the largest, followed by the U.S.</p><p>Less than one-third of the more than 275 mergers the CMA has investigated since 2017 have moved to the second phase. Of those, the CMA blocked eight, more than a dozen were abandoned and others were approved or gained approval subject to certain conditions.</p><p>Microsoft's deal for Activision is also being reviewed in the U.S. by the Federal Trade Commission over antitrust concerns. The current FTC leadership has broadcast that it plans to scrutinize acquisitions by the biggest technology companies. Since assuming office in 2021, FTC Chairwoman Lina Khan has taken steps to investigate more deals and what the commission sees as anticompetitive conduct.</p><p>Regulators in the European Union and other jurisdictions are also expected to scrutinize the Microsoft-Activision deal.</p><p>Microsoft announced the agreement to buy Activision for approximately $95 a share in January. It has said it expects the deal, which would be its largest acquisition by far, to close by June of 2023.</p><p>Buying Activision would significantly increase Microsoft's videogame revenue. Activision's sales totaled $8.8 billion in 2021. Microsoft reported $16.23 billion in videogame revenue for the fiscal year through June, accounting for about 8% of its total revenue.</p><p>Dieter Paemen, a partner with law firm Clifford Chance LLP who is based in Brussels, said the CMA has shown itself to be more assertive after the U.K.'s split from the EU.</p><p>In recent years, the CMA has been exerting its powers in a series of high-profile cases, targeting tech giants such as Alphabet Inc.'s Google, Apple Inc. and Facebook parent Meta Platforms Inc. Last year, it directed Meta to sell animated-images company Giphy, saying its acquisition could limit competition among platforms and British advertisers. Meta, which acquired the company for $315 million in 2020, is appealing the decision.</p><p>If the CMA's investigation moves forward, it would represent a speed bump for Microsoft, said Eric Talley, a corporate law professor at Columbia Law School.</p><p>\"When you enter Phase 2, you're basically saying regulatory authorities want to dig deeper into your paperwork,\" he said. \"Someone has already determined there are some yellow flags here.\"</p><p>Write to Sarah E. Needleman at sarah.needleman@wsj.com and Kim Mackrael at kim.mackrael@wsj.com</p><p>Microsoft's Activision Deal Raises Competition Concerns, Says U.K. Watchdog</p>",
+  "published": "2022-09-01T15:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3711,
+          "end": 3721
+        },
+        {
+          "start": 3684,
+          "end": 3694
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

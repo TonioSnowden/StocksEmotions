@@ -1,0 +1,46 @@
+{
+  "_id": "6983a36156229ae833cda5f3b3af9cd408a60ccf5e65a88be9ca8bfa74c2e466",
+  "feed": "wall-street-journal",
+  "title": "Walmart Explores Adding Streaming Video to Walmart+ Membership Program; Retailer has held talks with Disney, Comcast and Paramount about adding one of their services as a perk",
+  "text": "<p>It is unclear if the discussions will result in an agreement, but the retailer is looking to partner with one of the providers, the people said. The talks were earlier reported by the New York Times.</p><p>Disney operates the Disney+, ESPN+ and Hulu services; Comcast owns Peacock; and Paramount runs the Paramount+ and Showtime services. All three companies are looking to expand their distribution as the competition for subscribers intensifies.</p><p>Walmart has worked to grow membership of Walmart+ since introducing the service in 2020. A subscription costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline. The retailer has added perks to build interest, such as six months of the Spotify music streaming service.</p><p>Walmart hasn't disclosed how many members have signed up. The service has around 16 million members, according to a May survey from Morgan Stanley, up from about 15 million the previous November.</p><p>Walmart has tried to get into the streaming video business in the past, but has moved away from direct involvement in recent years. In 2020, Walmart sold its Vudu on-demand streaming service to Fandango, a unit of Comcast's NBCUniversal, after it failed to gain wide adoption.</p><p>Amazon, meanwhile, has invested heavily to ramp up its own Prime Video service, adding original programming and live sports. Prime Video is included along with free shipping and other perks in its Prime membership, which costs $14.99 a month or $139 a year in the U.S. Amazon also recently added a year of Grubhub's restaurant delivery services for Prime subscribers.</p><p>The membership services are just one of the ways in which Walmart and Amazon are competing. After buying Whole Foods, Amazon has rolled out its own physical stores and pushed into pharmacy services. Last month, it agreed to buy One Medical, an operator of health clinics.</p><p>For its part, Walmart has been rolling out grocery delivery services and building its own health clinics. The company also has been trying to expand its digital business, including listing more goods from third-party sellers that sell on Amazon, and growing its own digital advertising business.</p><p>Robbie Whelan and Lillian Rizzo contributed to this article.</p><p>Walmart Explores Adding Streaming Video to Walmart+ Membership Program</p>",
+  "published": "2022-08-09T21:17:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 101,
+          "end": 107
+        },
+        {
+          "start": 198,
+          "end": 204
+        },
+        {
+          "start": 200,
+          "end": 206
+        },
+        {
+          "start": 218,
+          "end": 225
+        },
+        {
+          "start": 220,
+          "end": 227
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.53396,
+        "baseWeight": 5.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.53395975,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

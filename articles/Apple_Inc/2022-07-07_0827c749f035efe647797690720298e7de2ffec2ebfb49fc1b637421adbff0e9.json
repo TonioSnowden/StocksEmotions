@@ -1,0 +1,30 @@
+{
+  "_id": "0827c749f035efe647797690720298e7de2ffec2ebfb49fc1b637421adbff0e9",
+  "feed": "economist-blog",
+  "title": "Has TikTok burst the Zuckerbubble?",
+  "text": "<p>The stakes are high for Meta. For over a decade, many people's lives have been recorded on the giant social-media company's platforms: Facebook, Instagram and WhatsApp. TikTok, owned by ByteDance, a Chinese firm, is disrupting this order. The short-video platform, launched only in 2016, has amassed over 1bn users at a faster pace than its predecessors and its revenue is forecast to reach $23bn by 2024, nearly all of it from advertising. The AI-powered “For You” page, an addictive and never-ending stream of recommended videos, is keeping eyes on screens for longer than ever.</p><p>By some estimates 44% of TikTok's American users are under 25 (compared with 16% of Facebook's). That makes the video app a hugely desirable and influential platform for advertisers wanting to sell stuff to the young. But TikTok is increasingly moving beyond entertainment and into other industries, like shopping and news (one-quarter of Tiktok's American users consider it to be a source of news). Even The Economist launched on TikTok this week (don't expect many dance routines).</p><p>But ByteDance's Beijing roots are sparking fear and scrutiny. President Donald Trump said he would ban the app from American stores in 2020, because of concerns over data security. Suspicion emerged anew last month after an investigation by Buzzfeed, a digital media firm, found that engineers in China had gained access to American users' data. A commissioner at the Federal Communications Commission, America's telecoms regulator, has asked Apple and Google to remove TikTok from their app stores, but it remains there for now. Such concerns aside, Meta's seemingly unshakeable rule over social-media feeds appears to be over.</p>",
+  "published": "2022-07-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999714,
+      "offsets": [
+        {
+          "start": 1508,
+          "end": 1513
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.90250057,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 5.9604645e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

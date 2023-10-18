@@ -1,0 +1,34 @@
+{
+  "_id": "c879a310abd984b05007dbe421ec083ec10ca6f862a352f3957556bfb463c985",
+  "feed": "wall-street-journal",
+  "title": "REVIEW --- Play: News Quiz",
+  "text": "<p>B. Winston Churchill</p><p>C. Anthony Eden</p><p>D. Harold Macmillan</p><p>---</p><p>2. Activist investor Vivek Ramaswamy is pushing Chevron -- to do what?</p><p>A. Go all in on renewables</p><p>B. Pump more fossil fuels</p><p>C. Sell itself to Warren Buffett</p><p>D. Acquire Occidental Petroleum</p><p>---</p><p>3. Chilean voters rejected a proposed new constitution, leading to a cabinet reshuffling by the president. Who's that?</p><p>A. Gabriel Boric</p><p>B. Michelle Bachelet</p><p>C. Carolina Toha</p><p>D. Mauricio Morales</p><p>---</p><p>4. Clothing makers may start selling more garments made from unblended cloth. Why?</p><p>A. Fashionistas are reading Leviticus</p><p>B. Fire safety lawsuits</p><p>C. A Chinese tariff quirk</p><p>D. Ease of recycling</p><p>---</p><p>5. Who's just begun to divide their consulting and auditing businesses?</p><p>A. Deloitte</p><p>B. KPMG</p><p>C. Ernst &amp; Young</p><p>D. Pennypacker Poole</p><p>---</p><p>6. A judge allowed Elon Musk to amend his countersuit against Twitter -- by adding what?</p><p>A. Mismanagement charges from a whistleblower</p><p>B. Tax returns showing he can't afford to buy Twitter</p><p>C. Compromising texts from Jack Dorsey</p><p>D. Allegations that social media causes tooth decay</p><p>---</p><p>7. Official portraits of Barack and Michelle Obama were unveiled -- where?</p><p>A. The White House</p><p>B. The National Gallery</p><p>C. The National Portrait Gallery</p><p>D. The Art Institute of Chicago</p><p>---</p><p>8. A 31,000-year-old skeleton missing a foot may represent the earliest known case of amputation. Where was it found?</p><p>A. Tonga</p><p>B. New Guinea</p><p>C. Madagascar</p><p>D. Borneo</p><p>---</p><p>9. Porsche is going public. Who will continue to own 75% of the shares?</p><p>A. Mercedes</p><p>B. BMW</p><p>C. Volkswagen</p><p>D. Stellantis</p><p>---</p><p>ANSWERS</p><p>1. B</p><p>2. B</p><p>3. A</p><p>4. D</p><p>5. C</p><p>6. A</p><p>7. A</p><p>8. D</p><p>9. C</p>",
+  "published": "2022-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 109,
+          "end": 116
+        },
+        {
+          "start": 108,
+          "end": 115
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.054574,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.507012,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

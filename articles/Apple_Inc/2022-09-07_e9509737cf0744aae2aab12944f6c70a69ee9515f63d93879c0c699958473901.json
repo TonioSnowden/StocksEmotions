@@ -1,0 +1,50 @@
+{
+  "_id": "e9509737cf0744aae2aab12944f6c70a69ee9515f63d93879c0c699958473901",
+  "feed": "wall-street-journal",
+  "title": "Apple's iPhone 14 Lineup to Headline Wednesday Product Event; The tech giant is seen revealing its most expensive 5G-capable smartphones",
+  "text": "<p>Apple is set to unveil a new iPhone and Apple Watch at its annual September event.</p><p>The tech giant is expected to introduce the iPhone 14 lineup at its annual September event, which has begun at its corporate headquarters in Cupertino, Calif., and on its website.</p><p>This year, the company is also expected to show off updated Apple Watches, including a version with a larger screen, as healthcare uses continue to be in focus for the gadget that first went on sale in 2015.</p><p>The iPhone 14 lineup will be the center of attention for customers and investors, and is expected to be an evolutionary offering after late 2020s iPhone 12 brought 5G cellular capability for the first time. 5G has been touted as offering faster download speeds, appealing for streaming video and videogames.</p><p>Demand for the iPhone 12 and iPhone 13 lineups helped Apple post record profits and sales in the past two years. IPhone revenue rose 39% in fiscal 2021 and is expected to rise another 6.7% to a record $205 billion this fiscal year, which ends later this month.</p><p>The biggest changes on Wednesday are expected in the higher-end iPhone Pro models that cost more and have helped drive more revenue for the company. Apple is expected to reveal 6.1- and 6.7-inch display versions of the Pro models and add a 6.7-inch offering to the iPhone 14 base version along with the 6.1-inch display.</p><p>\"The iPhone's sales performance year to date has been impressive, and is the biggest reason why the company has largely bucked the economic downturn,\" said Gene Munster, managing partner at Loup Ventures. \"Keeping that segment's momentum going this holiday in the face of a stressed consumer will be top of mind for investors when the new models are unveiled.\"</p><p>SHARE YOUR THOUGHTS</p><p>What new Apple products are you most excited for? Join the conversation below.</p><p>Apple has defied an industrywide decline in smartphone shipments, which slipped almost 9% in the past quarter compared with a year earlier, according to researcher International Data Corp. During the first half, the bright spot in the market was smartphones priced above $900, according to Counterpoint Research.</p><p>The iPhone 13 with the 6.1-inch display and 128 gigabytes of storage made its debut last year starting at $799, while the same-sized Pro version with a better camera system and other upgrades started at $999. The bigger iPhone Pro started at $1,099 last year.</p><p>Some analysts are predicting Apple may increase prices with the iPhone 14 as the company faces increased cost pressures.</p><p>\"IPhone pricing is the main focus item for investors,\" Wamsi Mohan, an analyst for Bank of America Global Research, wrote in a note last week.</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple's iPhone 14 Lineup to Headline Wednesday Product Event</p>",
+  "published": "2022-09-07T17:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 828,
+          "end": 833
+        },
+        {
+          "start": 1181,
+          "end": 1186
+        },
+        {
+          "start": 1740,
+          "end": 1745
+        },
+        {
+          "start": 1808,
+          "end": 1813
+        },
+        {
+          "start": 2407,
+          "end": 2412
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

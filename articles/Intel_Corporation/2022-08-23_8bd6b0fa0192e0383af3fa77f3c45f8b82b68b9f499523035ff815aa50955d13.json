@@ -1,0 +1,34 @@
+{
+  "_id": "8bd6b0fa0192e0383af3fa77f3c45f8b82b68b9f499523035ff815aa50955d13",
+  "feed": "ftcomall",
+  "title": "Europe and Nasa are right to shoot for the stars",
+  "text": "<p>What do Nasa's plans to launch one of the world's most powerful rockets next Monday have in common with Europe's ambitions to build cutting edge semiconductor factories?</p> <p>At the very least, both are moonshots — one literally and the other metaphorically. Other similarities struck me as I listened to a Boeing executive last week discuss the challenges of building the first rocket system designed to bring humans back to the Moon after a 50-year absence. </p> <p>Both projects have been politically rather than industrially driven; both require tens of billions of dollars of state support; and both risk delivering uncompetitive results. </p> <p>Finally, I will bet that the EU's plan to double its share of global semiconductor manufacturing to 20 per cent by 2030 will, like Nasa's $20bn space launch system, overrun and overspend.</p> <p>But does that mean both projects will be a waste of taxpayers' money? Not necessarily. Much will depend on how politicians and the public value the capabilities that are delivered.</p> <p>“Political projects get challenged on performance criteria,” says Professor Bent Flyvbjerg of the University of Oxford's Saïd Business School, an expert in management of megaprojects. “But you can argue for both of these projects. It could be about jobs or it could be strategic. The problem is that these are never discussed clearly and openly like that, so things become muddled.”</p> <p>When Artemis 1 lifts off on Monday for its first unmanned test flight, it will be heralded as the launch of a new age of space exploration that could take humans beyond the Moon to Mars. </p> <p>But that was never the key consideration when the space launch system was announced with a $6bn budget a decade ago, according to Casey Dreier, senior space adviser to The Planetary Society, a non-profit group. Instead, politicians wanted to preserve the thousands of jobs that were at risk when the Space Shuttle programme ended in 2011. It's “optimised for a political rather than a technical solution”, he says.</p> <p>Contractors such as Boeing, which is building the rocket's core stage, have been criticised for delays and poor management. Yet other factors contributed to soaring costs. Rebuilding a supply chain that had withered when the US abandoned crewed lunar missions in the 1970s was never going to be cheap.</p> <p>And technology has since emerged that threatens to render the launch system redundant. Elon Musk's reusable Falcon rockets have slashed the costs of launch. His giant, reusable rocket, Starship, aims to take them even lower.</p> <p>Critics of the space launch programme now suggest it should be ditched when Starship comes to market. A government watchdog has warned that the first few Artemis missions could cost an eye-watering $4bn each.</p> <p>Similar criticisms are being levelled at Europe, even before it dispenses any subsidies for new chip factories, or fabs. Brussels may have wooed Intel with generous incentives, but the US chipmaker is trying to catch up to Asian rivals TSMC and Samsung with aggressive expansion. That strategy remains unproven. And as technology advances, investment needs rise. </p> <p>ASML is Europe's strongest card in the semiconductor race as it dominates the market for advanced lithography machines. Yet even the Dutch company was initially wary of Europe's aim of “strategic autonomy” in advanced chipmaking. It estimates that operating costs for a new facility in Europe would run roughly 2.5 times higher than in Asia without hefty subsidies. </p> <p>But even with subsidies, will Europe's €43bn in public and private investment&#xa0;be enough? Consultants BCG estimate that Taiwan pays as much as 25-30 per cent of the total cost of ownership of a new fab built in the country over 10 years. China gives even more. BCG calculates the US and Europe are offering just 10-15 per cent.</p> <p>So is Europe wasting its money if chipmakers it backs struggle to produce chips that can compete globally?</p> <p>The fact is that neither Europe's chip ambitions nor Nasa's space launch system are driven entirely by commercial concerns. So perhaps they should not be judged solely on commercial criteria. Clearly, flagrant waste is unacceptable. But some returns may be less visible when judged by traditional methods — the seeds of a lunar economy in which many companies can eventually take part, for example, or the skills and innovation sparked by new chip capabilities.</p> <p>We won't know whether the moonshot programmes deliver on these less commercial measures for a long time. But we do know that if we don't reach for the stars we will never get there.</p> <p><a href=\"mailto:peggy.hollinger@ft.com\"><em>peggy.hollinger@ft.com</em></a></p><p>Source: Peggy Hollinger 2022 'Europe and Nasa are right to shoot for the stars' FT.com 23 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-23T14:59:21.964Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2866,
+          "end": 2871
+        },
+        {
+          "start": 2842,
+          "end": 2847
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 14
+    }
+  ]
+}

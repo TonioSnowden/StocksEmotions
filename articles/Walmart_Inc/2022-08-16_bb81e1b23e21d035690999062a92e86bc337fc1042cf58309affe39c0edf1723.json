@@ -1,0 +1,90 @@
+{
+  "_id": "bb81e1b23e21d035690999062a92e86bc337fc1042cf58309affe39c0edf1723",
+  "feed": "wall-street-journal",
+  "title": "Walmart Earnings Show Rise in Revenue as Higher Prices Lift Business; Retailer says it is gaining market share in some categories such as grocery, and it continues to work through a glut of inventory",
+  "text": "<p>Walmart Inc.'s revenue rose in the second quarter as the retail company benefited from consumers both paying more for goods and stepping up shopping trips to its stores.</p><p>Walmart, in its earnings report Tuesday, said it is gaining market share in some categories such as grocery as shoppers grapple with inflation, and that some Covid-19-related costs have shrunk. But higher prices have led shoppers to hold back on some purchases. Walmart is also selling through a glut of inventory leading to higher discounts.</p><p>\"The actions we've taken to improve inventory levels in the U.S., along with a heavier mix of sales in grocery, put pressure on profit margin,\" Walmart Chief Executive Doug McMillon said.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook for Walmart's business? Join the conversation below.</p><p>Walmart's U.S. comparable sales, those from stores and digital channels operating for at least 12 months, rose 6.5% in the quarter ended July 29, helped by higher prices, market-share gains in grocery and strong sales of private-label products. Revenue rose 8.4% to $152.86 billion.</p><p>Both Walmart, the nation's largest retailer by revenue, and Target Corp. sent warnings in recent weeks that efforts to clear out excess inventory and weaker-than-expected demand for a range of products would diminish their profits this year. Operating income in the latest quarter dipped 6.8% as higher discounts and selling more low-margin grocery items cut into margins.</p><p>Walmart has been working to get its financial house in order. It has been trimming costs, including culling its corporate ranks in recent weeks.</p><p>The company's stores are packed with discounted goods, with rows of toys, clothes and summer items under yellow clearance signs. The value of inventory was up 25% from a year earlier, but that is lower than the previous quarter, and executives said they believe inventory has peaked.</p><p>Walmart has canceled billions' worth of orders and sold through much of its excess summer product, but it is still working to sell electronics, home goods and apparel goods, said Chief Financial Officer John David Rainey on a conference call. Walmart aims to continue to sell through the items to be well-positioned for the busy holiday shopping season, he said.</p><p>While many Americans are showing signs of financial stress, some measures of consumer health have shown improvement in recent weeks. Inflation hovered near four-decade highs in July, but it came down slightly from the previous month as gasoline prices fell. U.S. consumer sentiment rose in early August, continuing its climb from a record low earlier this summer as inflation expectations improved.</p><p>Some consumers are changing their spending as a result of inflation, and large retailers are scrambling for market share as shoppers pay more for fewer goods. Consumers are also shifting spending to the things they need as prices stay elevated, executives said.</p><p>\"We have seen mid- to higher-income customers come to Walmart, as you'd expect\" in an inflationary environment, Mr. McMillon said on the call with analysts. Visits to stores strengthened at the end of the quarter, executives said.</p><p>Grocery aisles have been a key battleground to win inflation-weary shoppers. Grocery prices rose 13.1% year over year in July, the fastest annual pace since 1979. Walmart earns around 56% of its U.S. revenue from grocery sales.</p><p>On Tuesday, Walmart said its unit sales of food were slightly negative for the quarter. Grocery-sales volume industrywide fell 2.5% in those four weeks, according to data from market-research firm IRI.</p><p>Overall, Walmart said its net income in the three months ended in July was $5.15 billion, compared with $4.28 billion a year earlier. On a per-share basis excluding one-time items, the profit was $1.77, compared with the $1.62 a share expected from analysts, according to a FactSet poll.</p><p>In early trading Walmart shares rose more than 4% to $138.49. Walmart shares through Monday's close are down 8.2% this year, compared with a 9.8% decline in the S&amp;P 500 index and 6.6% drop in the Dow Jones Industrial Average.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Walmart Earnings Show Rise in Revenue as Higher Prices Lift Business</p>",
+  "published": "2022-08-16T13:41:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 11
+        },
+        {
+          "start": 169,
+          "end": 176
+        },
+        {
+          "start": 429,
+          "end": 436
+        },
+        {
+          "start": 741,
+          "end": 748
+        },
+        {
+          "start": 788,
+          "end": 795
+        },
+        {
+          "start": 1074,
+          "end": 1081
+        },
+        {
+          "start": 1440,
+          "end": 1447
+        },
+        {
+          "start": 1865,
+          "end": 1872
+        },
+        {
+          "start": 2107,
+          "end": 2114
+        },
+        {
+          "start": 3272,
+          "end": 3279
+        },
+        {
+          "start": 3348,
+          "end": 3355
+        },
+        {
+          "start": 3375,
+          "end": 3382
+        },
+        {
+          "start": 3545,
+          "end": 3552
+        },
+        {
+          "start": 3839,
+          "end": 3846
+        },
+        {
+          "start": 3883,
+          "end": 3890
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

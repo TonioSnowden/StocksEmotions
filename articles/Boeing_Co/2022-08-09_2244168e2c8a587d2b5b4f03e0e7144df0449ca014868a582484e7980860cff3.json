@@ -1,0 +1,30 @@
+{
+  "_id": "2244168e2c8a587d2b5b4f03e0e7144df0449ca014868a582484e7980860cff3",
+  "feed": "wall-street-journal",
+  "title": "Business News: New Boeing Dreamliners on the Way --- FAA clears way for jet maker to resume shipments, with American first up",
+  "text": "<p>American is set to be the first customer to receive a new 787 after the halt in deliveries, and the plane will be the airline's first new Dreamliner since April, 2021.</p><p>Boeing has delivered only a handful of the planes since the fall of 2020 after discovering a series of production defects that drew increased scrutiny by its own engineers and regulators at the Federal Aviation Administration.</p><p>Resuming deliveries is a crucial part of the aerospace company's efforts to boost cash flow. American expects its new plane to enter commercial service in the coming weeks.</p><p>\"We appreciate the work done by the Federal Aviation Administration and Boeing during the review process,\" American said. The 787 is popular with airlines for long-haul international flights, and the freeze on deliveries has complicated some carriers' plans for a larger international expansion this summer. Many restrictions that restrained global travel during the Covid-19 pandemic were lifted, prompting a resurgence in cross-border travel demand.</p><p>The FAA said it would inspect each aircraft before issuing an airworthiness certificate. The first jet was inspected and cleared Monday, according to people familiar with the matter.</p><p>American and other airlines have had to pare back flying plans ahead of the summer as anticipated delivery dates kept slipping. American had originally planned to have 13 new Dreamliners for this summer's schedule.</p><p>It first trimmed its plans late last year and then had to cut back again when it became clear that it wouldn't receive any of the planes in time for peak tourism season.</p><p>American said last month that it expects to receive two of the planes in August but hasn't added them to its schedule until later this fall.</p><p>---</p><p>Doug Cameron contributed to this article.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.999993,
+      "offsets": [
+        {
+          "start": 168,
+          "end": 174
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.314191,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.31419098,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

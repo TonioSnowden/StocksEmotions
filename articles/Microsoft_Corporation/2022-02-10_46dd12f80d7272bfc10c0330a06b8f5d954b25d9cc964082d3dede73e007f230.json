@@ -1,0 +1,44 @@
+{
+  "_id": "46dd12f80d7272bfc10c0330a06b8f5d954b25d9cc964082d3dede73e007f230",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech; The new tools help automate tasks. But 'we love Excel,' says Cory Hrncirik, who leads Microsoft's Modern Finance project.",
+  "text": "<p>This is the first part of a series that focuses on how CFOs and other executives digitize their finance operations. Edited excerpts follow.</p><p>WSJ: When did Microsoft embark on its digitization journey?</p><p>Mr. Hrncirik: About seven or eight years [ago], we moved all of our data to the cloud. You have to deal with looking ahead and trying to understand the future of your team. We call that strategy and forecasting. We think about the manual tasks that we have to do, and we think about how we automate those. We focused a lot about streamlining our data, creating one source of truth.</p><p>WSJ: What is the upside for finance employees?</p><p>Mr. Hrncirik: We want to use technology for areas where [it] is suited to streamline and simplify the work that our people do. We want them focusing on areas that, frankly, technology still can't help us solve very well, like negotiating with business partners or looking for greenfield opportunities or managing complex projects.</p><p>WSJ: How much is the company relying on machine learning?</p><p>Mr. Hrncirik: Our first foray into machine learning was in the forecasting arena. Forecasting is something that every finance group does, regardless of company or organization. For most, it takes a lot of time. For most, it's a lot of heavy lifting in Excel, and it was for us as well. Just to put that in perspective, we typically would spend about three weeks every quarter building a forecast, and we would involve a thousand people in that process, creating Excel spreadsheets in all of our subsidiaries and in all of our product teams. And then bubbling those forecasts up until they reach the CFO.</p><p>We introduced machine learning back in 2015, and within two quarters we realized that our algorithms were not only performing as well as the human-based process, but we cut our variance rate in half from about 3% to 1.5%. [Now], we can actually turn those models around in about 30 minutes.</p><p>WSJ: This is the quarterly forecast, correct? Instead of three weeks, that now takes about 30 minutes?</p><p>Mr. Hrncirik: That's right. We then push the insights out to our people around all of our subsidiaries. They still have a chance to look at them because they bring unique knowledge of local markets. They'll often say, \"Oh, the all-up number looks perfect,\" but we want to adjust some of the seasonality or the split between different products or things like that. Machine learning doesn't always perform really well at the deep, granular level.</p><p>WSJ: Are there other use cases?</p><p>Mr. Hrncirik: We've branched out and employed [it] in things like compliance. We employed it in speeding up our internal audit process. We employ it in predicting recessions. We use it in our treasury group for analyzing documents from governments around the world to understand possible risks. We use it even to identify which invoices can be automated and which need human intervention.</p><p>WSJ: What needed to change for that?</p><p>Mr. Hrncirik: When I started my career, I [had] to connect to 50 different data sets to pull information into Excel and then manually create insights from that data. We've moved all of those data sources, actually over 100 different [ones]. We've merged [them] in a data lake, and so you merge all of that data together in the cloud. The second step is creating standard reports and analytical frameworks so that we can talk about the same business the [same] way everywhere around the world.</p><p>WSJ: Are you using bots?</p><p>Mr. Hrncirik: The use of virtual agents was our foray into this world of artificial intelligence. It's natural language processing, either using text or voice, where this artificial intelligence is not only understanding the words that are spoken—in, by the way, over 60 languages—but also then inferring intent, and also streamlining some of their conversation into a thread. About 30% of a million [internal] queries are handled entirely through virtual agents now.</p><p>WSJ: Where are you deploying these bots?</p><p>Mr. Hrncirik: [For example] in our invoice payment space. We process thousands of invoices a month, and a lot of those invoices are from the same suppliers. What we found in doing that was that about 70% of all invoices could be automated. We trained a machine-learning algorithm to actually find the 70% and just pay them.</p><p>The algorithm also says, \"Hey, by the way, we've detected an irregularity or an anomaly in this geography, or in this specific [stock keeping unit] or product area.\"</p><p>WSJ: How accurate is the technology?</p><p>Mr. Hrncirik: Our error rate has gone from about 2% to less than 1%. It's so accurate because you don't have humans manually entering data into the system or manually doing some of the calculations and other things.</p><p>WSJ: Will these tools allow you to bring down your finance head count?</p><p>Mr. Hrncirik: If you actually look at most finance teams, the head count grows in lockstep with business growth, and that was the case for Microsoft. Throughout our history, from the '70s, '80s and '90s, as we added additional revenue, we added more people.</p><p>The downturn of 2008 and 2009 was a catalyst for us. There was a decision made here at Microsoft to keep our [finance] head count flat. We've now done that over the past decade. Over the same time frame, our revenue has [nearly] tripled. Obviously, our market cap now is over $2 trillion, and the business is much more complex, and yet we have [roughly] the same number of people [in finance].</p><p>WSJ: Is the finance organization still using Excel?</p><p>Mr. Hrncirik: We love Excel, and we use it often. Excel has a place and always will have a place.</p><p>Write to Nina Trentmann at Nina.Trentmann@wsj.com</p><p>Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech</p>",
+  "published": "2022-02-10T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 5612,
+          "end": 5621
+        },
+        {
+          "start": 5105,
+          "end": 5114
+        },
+        {
+          "start": 4899,
+          "end": 4908
+        },
+        {
+          "start": 160,
+          "end": 169
+        },
+        {
+          "start": 154,
+          "end": 163
+        },
+        {
+          "start": 160,
+          "end": 171
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

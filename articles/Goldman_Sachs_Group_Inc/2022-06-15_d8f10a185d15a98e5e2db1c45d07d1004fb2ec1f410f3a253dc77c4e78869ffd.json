@@ -1,0 +1,45 @@
+{
+  "_id": "d8f10a185d15a98e5e2db1c45d07d1004fb2ec1f410f3a253dc77c4e78869ffd",
+  "feed": "reuters",
+  "title": "RPT-COLUMN-Goldman sparks bear-bull battle in the lithium market: Andy Home",
+  "text": "<p>LONDON, June 15 (Reuters) - Is the white-hot lithium market about to be dowsed in a cold cyclical shower of oversupply?</p><p>Goldman Sachs thinks so.</p><p>\"We expect lithium prices to continue to correct for the rest of the year and remain under pressure from increasing supply over the next few years,\" the Wall Street heavyweight argued in a May 29 battery metals research note. (\"The end of the beginning\").</p><p>It's a bold call, given the supply-chain stresses that have caused spot lithium carbonate prices to surge over 900% since the start of 2021.</p><p>The backlash from lithium bulls has been ferocious, specialist consultancy Benchmark Mineral Intelligence (BMI) issuing a June 9 riposte titled \"Lithium Oversupply? Not likely\".</p><p>The narrative around the outlook for the electric vehicle battery enabler is fiercely contested and will remain so for the foreseeable future.</p><p>However, the clash of bull-bear views has at least pin-pointed some of the big \"known unknowns\" at work in the lithium supply chain.</p><p>RAMPING UP...SLOWLY</p><p>One key variable is how long new supply takes to reach market.</p><p>All industrial metal mines take time to ramp up to capacity and teething problems are the norm not the exception as new equipment is bedded down and processing rates flexed.</p><p>The lithium sector is no exception with a long track record of over-promising and under-delivering on new supply. BMI cites the example of Tianqi Lithium's Australian hydroxide plant, originally scheduled to come online in 2018 but only now producing its first lithium.</p><p>Even once in production, new lithium supply won't hit the market until it is certified, a process that typically takes 6-18 months.</p><p>New copper mines can start shipping their concentrates almost immediately, knowing that although grades may be sub-optimal, the copper is still recoverable through the smelting-refining process.</p><p>Battery makers' specifications for the lithium they'll buy are so tight that it takes time for any producer to fine tune output to customer requirements.</p><p>The extended timeline for mine development is \"a structural problem\" for lithium, according to Will Adams, head of battery metals research at Fastmarkets.</p><p>It can take up to 15 years to bring a mine into production but you can build a battery gigafactory in just one or two years. That allows for repeated mismatches of supply and first-user demand.</p><p>A further complication is the fractured nature of the production landscape.</p><p>Analysts at Fitch Solutions have identified 128 operations, both active and prospective, controlled by 103 individual companies, of which only 18 have more than two operations and 85 companies have just one. \"The lithium supply sector comprises a very large number of junior and exploration companies,\" meaning higher project execution risks, according to Fitch. (\"Lithium Production Growth To Accelerate, But Supply Risks Abound,\" Dec. 20, 2021)</p><p>NEW TECHNOLOGIES</p><p>Intense competition for future supply and super-high prices have generated a global search for new sources of lithium and new ways of processing it into high-purity form.</p><p>This includes China, where investment is flowing into both traditional brine projects but also into lepidolite mining, a potential significant supply growth driver, according to Goldman.</p><p>Lepidolite is a lithium-bearing mica mineral which is found in standalone deposits as well as alongside spodumene, the most common form of hard-rock lithium.</p><p>There are already four lepidolite producers clustered around the city of Yichun in the province of Jiangxi, according to commodity research house CRU. (\"Scrutinising the lithium technology boom here , \" March 11, 2022)</p><p>Yichun is also home to the world's largest lepidolite mine - \"414 mine\" - with around 2.7 million tonnes of lithium carbonate equivalent reserves.</p><p>However, lepidolite deposits are low grade, few reaching more than 0.8% lithium oxide, meaning low yields and up to 25 tonnes of concentrate to produce one tonne of lithium carbonate, according to CRU.</p><p>Processing is also difficult with high impurities meaning elevated energy costs and significant quantities of waste product.</p><p>None of which stopped downstream players such as CATL and Gotion High Tech from signing supply deals based on lepidolite deposits in 2021, CRU noted.</p><p>It's clear that lepidolite is going to be part of the lithium supply equation but what's far from clear is to what degree and when.</p><p>The same applies to other new lithium supply routes being explored such as geothermal brines here  and direct extraction processing here .</p><p>Given the scale of demand from the transition to a low-carbon economy, coupled with generous government grants for new technologies in both the United States and Europe, future lithium production looks set to arrive in many different forms.</p><p>All have the potential significantly to alter supply dynamics but the time from research to pilot plant to commercial production is nigh impossible to forecast.</p><p>Lepidolite is just one of many new-supply \"known unknowns\" when it comes to lithium.</p><p>PRICING PROBLEMS</p><p>Lithium is still an immature, albeit fast-evolving market with multiple spinning parts in the price.</p><p>Make that \"prices\" plural.</p><p>Right now, the spot price for lithium carbonate is retreating from its March highs but the price for lithium supplied under longer-dated contracts is still rising, according to Fastmarkets.</p><p>The spot market is dominated by Chinese players and hence acutely sensitive to local market conditions, most recently the hit to vehicle sales from rolling lockdowns.</p><p>Industry specialists prefer to focus on the bigger volume tonnages shipped from producer to consumer under long-term supply contracts.</p><p>Lithium pricing has not yet been enticed into the world of exchange trading despite products on both the London Metal Exchange (LME) and the CME.</p><p>The absence of a clear pricing signal, particularly a futures reference price, itself adds to the unpredictability of lithium supply.</p><p>The smaller players in the sector already face financing hurdles. The lack of a hedging mechanism doesn't help persuade potential investors.</p><p>Ironically, the split in pricing means that both bulls and bears could be right in the short term as a falling spot price and lagging term price converge.</p><p>The longer-term outlook, however, looks set to remain contested until some of the multiple supply uncertainties start to be resolved.</p><p>The opinions expressed here are those of the author, a columnist for Reuters.</p>",
+  "published": "2022-06-15T23:01:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 18
+        },
+        {
+          "start": 120,
+          "end": 127
+        },
+        {
+          "start": 120,
+          "end": 133
+        },
+        {
+          "start": 3242,
+          "end": 3249
+        },
+        {
+          "start": 3242,
+          "end": 3250
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.9450555,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.94505537,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

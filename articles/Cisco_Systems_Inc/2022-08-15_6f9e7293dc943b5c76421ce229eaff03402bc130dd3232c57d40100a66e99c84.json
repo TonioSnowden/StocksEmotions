@@ -1,0 +1,50 @@
+{
+  "_id": "6f9e7293dc943b5c76421ce229eaff03402bc130dd3232c57d40100a66e99c84",
+  "feed": "market-watch",
+  "title": "Ski-Doo maker BRP resumes operations following cyber attack; shares fluctuate; BRP Inc. announced the resumption of operations at some of its sites Monday following a cyber attack that targeted the Ski-Doo maker",
+  "text": "<p>BRP Inc. shares fluctuated on Monday, compared with the S&amp;P 500 index's 0.2% decline.</p><p>The company said its manufacturing sites in Valcourt in Canada, Rovaniemi in Finland, Gunskirchen in Austria and Sturtevant in the U.S. are ramping up production activities and expect to be fully operational on Tuesday. \"The rest of the production sites are planning to resume operations over the course of the week in a phased approach,\" BRP said, in a statement released early Monday.</p><p>See Now: Cisco says it was breached by hacker linked to notorious cybercrime groups</p><p>\"BRP's team, with the assistance of external advisers, are currently working to restore all internal systems from its backup repositories,\" the company added.</p><p>The malware infiltration came through a third-party service provider and the attack was limited to BRP's internal systems, according to the Valcourt, Quebec-based company. \"At this time, while the investigation is still ongoing, it has not revealed any evidence that its clients' personal information would have been affected by the attack,\" BRP said, in its statement. \"As such, at this stage, BRP expects that the impact of this incident from a data privacy perspective should be limited.\"</p><p>BRP has put in place a recovery plan to minimize the financial consequences of the cyberattack, it said, and does not anticipate any impact on its year-end financial guidance</p><p>The company declined to provide additional details on the attack when contacted by MarketWatch.</p><p>Opinion: Cyber attacks on national-security targets will never end. That's why going analog is part of the solution</p><p>\"Chances are that the company has been hit by a ransomware attack,\" cybersecurity expert Graham Cluley, host of the Smashing Security podcast, told MarketWatch, adding that hundreds of companies fall victim to this type of attack every day. \"In these the attackers typically encrypt data on the company's servers (making it inaccessible to their firm) and demand a cryptocurrency payment in exchange for a decryption key,\" he said. \"Often times the attackers will additionally steal data from the company, and threaten to release it on the web or sell it to other cybercriminals.\"</p><p>\"All the hackers are looking for are companies to extort money from, they probably don't have something specifically against Ski-Doos,\" Cluley added.</p><p>BRP shares have fallen 10.2% this year, compared with the S&amp;P 500's decline of 10.4%.</p><p>Last week networking giant Cisco Systems Inc. CSCO said it had been breached by a cyberattack from a hacker with links to notorious cybercrime groups.</p><p>Ski-Doo maker BRP resumes operations following cyber attack; shares fluctuate</p>",
+  "published": "2022-08-15T14:51:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.99961597,
+      "offsets": [
+        {
+          "start": 479,
+          "end": 484
+        },
+        {
+          "start": 2425,
+          "end": 2442
+        },
+        {
+          "start": 2444,
+          "end": 2448
+        },
+        {
+          "start": 2439,
+          "end": 2444
+        },
+        {
+          "start": 2453,
+          "end": 2462
+        },
+        {
+          "start": 2439,
+          "end": 2457
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.016488,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.016487837,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

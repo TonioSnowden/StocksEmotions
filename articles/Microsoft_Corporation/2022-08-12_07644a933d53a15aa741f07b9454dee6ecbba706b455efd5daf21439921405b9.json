@@ -1,0 +1,34 @@
+{
+  "_id": "07644a933d53a15aa741f07b9454dee6ecbba706b455efd5daf21439921405b9",
+  "feed": "wall-street-journal",
+  "title": "Activist Invests in New York Times",
+  "text": "<p>Among ValueAct's plans for New York Times is convincing more readers to pay for content from new acquisitions such as sports-media company the Athletic, as well as subscriber favorites such as crosswords, games and recipes, a person familiar with the matter said. Shares of New York Times rose nearly 11% to $35.05. They are down around 27% this year.</p><p>A New York Times spokeswoman said the company is aware that ValueAct has made an investment in the company. \"As we do with other shareholders, members of our management team have had conversations with ValueAct to hear their views and share ours,\" she said.</p><p>ValueAct paid around $350.2 million for the shares, according to the filing. Based on the current share price, ValueAct's stake is valued at around $387 million.</p><p>ValueAct said in the filing that it believes New York Times shares are undervalued and represent an attractive investment opportunity.</p><p>ValueAct, founded in 2000, has stakes in companies in sectors ranging from information technology and energy to financials and consumers.</p><p>ValueAct invests in a small number of companies at once and, in many cases, pushes for representation on the board. It is known for doing much of its work behind the scenes.</p><p>Its other media investments have included the company now known as Fox Corp. which, like New York Times, has a large portion of its shares controlled by one family. ValueAct founder and former Chief Executive Officer Jeffrey Ubben held a board seat there from 2015 to 2018. Fox and Wall Street Journal parent company News Corp share common ownership.</p><p>Mr. Ubben stepped back from ValueAct in 2017, leaving protege Mason Morfit in charge. Mr. Morfit is known for having served on Microsoft Corp.'s board.</p><p>Pressuring the Times for change could be difficult because of its dual-class share structure that preserves voting power with the Ochs-Sulzberger Trust. The family trust owns 95% of Class B shares and can elect 70% of the board.</p><p>---</p><p>Denny Jacob contributed to this article.</p>",
+  "published": "2022-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 1697,
+          "end": 1712
+        },
+        {
+          "start": 1682,
+          "end": 1697
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

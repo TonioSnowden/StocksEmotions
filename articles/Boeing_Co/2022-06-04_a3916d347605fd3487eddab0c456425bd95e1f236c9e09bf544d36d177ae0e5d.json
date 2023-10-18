@@ -1,0 +1,20 @@
+{
+  "_id": "a3916d347605fd3487eddab0c456425bd95e1f236c9e09bf544d36d177ae0e5d",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Supply-chain problems led Boeing to recently pause production of its 737 MAX aircraft for about 10 days, people familiar with the matter said.</p><p>The Stellantis unit formerly known as Chrysler is paying $300 million for conspiring to defraud federal regulators and customers about vehicle emissions, U.S. authorities said.</p><p>Bristol-Myers Squibb said it would acquire biotech company Turning Point Therapeutics for $4.1 billion.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-06-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 26,
+          "end": 32
+        }
+      ]
+    }
+  ]
+}

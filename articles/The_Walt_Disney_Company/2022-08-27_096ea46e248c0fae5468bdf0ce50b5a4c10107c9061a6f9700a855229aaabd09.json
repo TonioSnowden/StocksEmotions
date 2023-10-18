@@ -1,0 +1,62 @@
+{
+  "_id": "096ea46e248c0fae5468bdf0ce50b5a4c10107c9061a6f9700a855229aaabd09",
+  "feed": "wall-street-journal",
+  "title": "Disney Gets Deal to Broadcast Cricket Events in India; Pact for men's and women's tournaments comes after the company lost rights to popular Indian cricket league",
+  "text": "<p>Financial terms weren't disclosed, but the single-round sealed-bid process \"yielded a significant uplift to the rights fee from the previous cycle,\" the ICC said. The tender, bidding and evaluation process started in June. The ICC is cricket's world governing body and organizes major international tournaments.</p><p>In June, Disney lost five years of the streaming rights for the Indian Premier League, the nation's most popular cricket league, which features shorter, more TV-friendly matches than other competitions. The winning bid of $2.6 billion for IPL came from Viacom18, a joint venture between Paramount Global, Indian billionaire Mukesh Ambani's Reliance Industries Ltd. and others.</p><p>Disney this month lowered its forecast for future user growth of streaming platform Disney+, partly because it missed out on the rights to stream the Indian Premier League.</p><p>Cricket broadcasts are a major lure for India's sizable population of potential streaming subscribers, and entertainment streaming companies like Disney are under pressure to add customers beyond the U.S. as growth has slowed domestically. The company has said cricket matches are an important driver of international subscriptions.</p><p>K Madhavan, Disney Star's India country manager and president, said in a statement that with the acquisition, \"Disney Star has further strengthened its status as the premier destination for marquee cricket events in the country.\"</p><p>Write to Jennifer Hiller at jennifer.hiller@wsj.com</p><p>Disney Gets Deal to Broadcast Cricket Events in India</p>",
+  "published": "2022-08-27T22:45:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99997693,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 318,
+          "end": 324
+        },
+        {
+          "start": 321,
+          "end": 327
+        },
+        {
+          "start": 684,
+          "end": 690
+        },
+        {
+          "start": 768,
+          "end": 775
+        },
+        {
+          "start": 773,
+          "end": 780
+        },
+        {
+          "start": 1002,
+          "end": 1008
+        },
+        {
+          "start": 1008,
+          "end": 1014
+        },
+        {
+          "start": 1477,
+          "end": 1483
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

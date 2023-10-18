@@ -1,0 +1,29 @@
+{
+  "_id": "357324fc99f2e9166eba98d2093b10b27bec6d37b0a36a26a7cd192a6631833b",
+  "feed": "reuters",
+  "title": "BRIEF-Boeing Selects Spirit Aerosystems To Replace KC-135 Horizontal Stabilizers",
+  "text": "<p>* SPIRIT AEROSYSTEMS HOLDINGS INC - NEW HORIZONTAL STABILIZERS WILL BE PRODUCED AT SPIRIT FACILITY IN TULSA, OKLA</p><p>* SPIRIT AEROSYSTEMS HOLDINGS INC - CONTRACT IS FOR AN INITIAL 34 HORIZONTAL STABILIZER KITS Source text for Eikon: Further company coverage:</p>",
+  "published": "2022-09-19T13:35:34.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999798,
+      "offsets": [
+        {
+          "start": 6,
+          "end": 12
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

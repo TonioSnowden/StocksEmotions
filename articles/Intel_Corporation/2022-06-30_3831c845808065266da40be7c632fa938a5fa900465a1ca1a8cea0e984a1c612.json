@@ -1,0 +1,20 @@
+{
+  "_id": "3831c845808065266da40be7c632fa938a5fa900465a1ca1a8cea0e984a1c612",
+  "feed": "wall-street-journal",
+  "title": "Qualcomm's Apple Slice Still Has an Expiration Date; Apple's reported struggle to develop in-house modem chip only delays the inevitable, but the extra cash flow can help Qualcomm diversify further",
+  "text": "<p>Qualcomm told analysts last year that it expected to have about 20% of Apple's iPhone business by that cycle. Stacy Rasgon of Bernstein estimates that keeping the full iPhone business would add $4 billion to $6 billion to Qualcomm's revenue for its fiscal year ending September 2024—an 8%-12% upside to Wall Street's current projection.</p><p>Neither Qualcomm nor Apple has publicly commented on the report, leaving the obvious possibility that Mr. Kuo and his sources could have it wrong. That Apple is developing such chips is well-known; the executive leading the famously secretive company's in-house chip efforts confirmed as much in an employee town hall meeting in late 2020.</p><p>But modem chips—also referred to as baseband processors—are notoriously complex, requiring tight integration between a device's main computing processor and the wireless network to which it is connected. Chip giant Intel Corp. once tried to develop a competitive baseband for the iPhone but came up short. Qualcomm, the main developer of the digital cellular technology most widely used in today's networks, has dominated the market for years, accounting for 51% of baseband revenue in 2021, according to Strategy Analytics.</p><p>None of which is to say that Apple won't get there eventually. The company has some of the world's deepest pockets, with nearly $73 billion in net cash plus an annual research-and-development budget that totals more than $24 billion—more than three times what Qualcomm spends. It also has a powerful motivation to control more of its silicon destiny. Chips designed in-house ultimately cost less than buying them from outside suppliers and allow the company to more tightly integrate the design with its devices.</p><p>Then there is also the bad blood between Apple and Qualcomm that culminated in a multiyear legal battle between the two, which was settled in 2019 primarily because Apple needed Qualcomm's modem to get 5G iPhones to the market in time. Ed Snyder of Charter Equity, who has long covered the wireless chip market, wrote Wednesday that Apple remains \"hell-bent on ridding itself of Qualcomm and has made its modem effort the highest investment priority in the company for several years.\" He projects Apple will have its modem chip ready for 2024 iPhones and will fully replace Qualcomm in the lineup by the following year.</p><p>Fortunately for Qualcomm, the company already has been working to reduce its dependence on Apple and to sell Wall Street on that vision. At its analyst meeting last fall, Qualcomm said it expects Apple to account for a single-digit percentage share of its chipset business by the end of fiscal '24. Investors have sort-of bought in: Qualcomm's stock price decline of 28% since that meeting is slightly better than the 33% loss seen by the PHLX Semiconductor Index over the same time. Another year or two of the iPhone business could provide Qualcomm with extra cash flow to invest in acquisitions and other diversification efforts—so long as both the company and its investors continue to understand that Apple's modem is more a question of when than if.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Qualcomm's Apple Slice Still Has an Expiration Date</p>",
+  "published": "2022-06-30T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 892,
+          "end": 897
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "50d5a5169f1f313e672a3ab170d09bc28987bbce8b201522791d5793f77a82f7",
+  "feed": "wall-street-journal",
+  "title": "With New iOS, Apple Faces Facts on Masks",
+  "text": "<p>iOS 14.5 (April 2021) -- Realizing that passwords are a real pain, Apple releases a software update that allows those with an Apple Watch to unlock their iPhones with a mask on.</p><p>iOS 15.4 (March 2022) -- Realizing that all of that isn't what people really want, Apple finally releases an update that lets you unlock Face ID while wearing a mask. No password punch-in needed. Just, you know, two years too late.</p><p>With the release of iOS 15.4 on Monday, our long iPhone-mask-unlock nightmare ends. The software update also includes new emojis, an additional Siri voice and more. It will be available as a free download for 2015's iPhone 6s and later. The mask feature will only work on the iPhone 12 models and later.</p><p>As I always say, the question isn't if -- but when -- you'll upgrade to the latest version of iOS.</p><p>If you can, hold off a few days, at least until any potential issues have been fixed.</p><p>I can understand if you just can't wait another millisecond to stop mashing in your password or to get the new lip-bite emoji. Here's a quick review of the features that will hit your iPhone and where you can find them:</p><p>Face ID with a Mask</p><p>When you install iOS 15.4, a prompt will ask if you would like to set up Face ID with a Mask. (You can also access it from Settings &gt; Face ID &amp; Passcode.)</p><p>To set it up, you'll need to go through the whole rotate-your-head-like-a-yoga-instructor process to rescan your face. This is because the system needs to collect more information about the unique features around your eye area. When your face is concealed with a mask, Face ID will rely on those features to confirm it's you. You can't wear a mask when enrolling your face.</p><p>You will feel like Harry Houdini the first time you see the padlock unlock with your mask on. A glance at the screen while wearing your mask and, boom! You're in. And just like regular Face ID, you can use it to confirm your Apple Pay transactions or autofill saved passwords.</p><p>There are a few drawbacks. Since it needs to see the area around your eyes, Apple says it doesn't support sunglasses. I found that to be true for two pairs of sunglasses, but one pair that had more transparent lenses worked just fine.</p><p>Like with regular Face ID, Apple is scanning your face, something that can raise privacy concerns. But the company encrypts the data and saves it to a secure part of your iPhone's processor. It doesn't go to Apple's servers.</p><p>As for regular glasses, if you didn't go through the setup with them on, you'll likely want to do another scan with them.</p><p>I've also found that hats can interfere. If my hat blocks more of my forehead and the top of an eye, the system doesn't seem to have enough information to let me in. Raising up the hat seems to do the trick.</p><p>Apple also warns that Face ID with a Mask is less accurate than without a mask. I have certainly experienced some failed unlock attempts over the past month.</p><p>Siri's New Voice</p><p>In an effort to bring more diversity to Siri, the assistant no longer defaults to a female voice, and last year, Apple added voices recorded by Black actors. iOS 15.4 adds another American voice, designed to be less explicitly male or female. A company spokeswoman confirmed that it was recorded by a member of the LGBTQ+ community.</p><p>To check it out, go to Settings &gt; Siri &amp; Search &gt; Siri Voice and select Voice 5. Feel free to try some other options: I'm a big British &gt; Voice 2 fan. I like to imagine Hugh Grant setting my kitchen timer.</p><p>New Emojis</p><p>A mirrored disco ball, a drained battery, a melting face, a bird's nest, a saluting face, coral, beans. The new iOS is stocked with lots of random new emojis. One of the more hidden but awesome additions? You can now choose separate skin tones for each hand in the handshake emoji. Just hold down on the handshake emoji and you'll see a new interface where you can pick a skin tone for each hand.</p><p>Add AirTag Warnings</p><p>Since their release about a year ago, AirTags, Apple's lost-item trackers, have sparked privacy and safety concerns -- such as stalking or other surveillance. If you set up an AirTag with an iPhone with iOS 15.4, you'll now get an added warning that states that using the item to track people without their consent is a crime in many places.</p><p>Other Things</p><p>There are lots of other things, too. A new tap-to-pay feature enables businesses to accept Apple Pay payments using another iPhone -- no payment terminal needed.</p><p>Then there's the long-anticipated Universal Control. You can now drag your cursor from your Mac over to your iPad, making them feel like one continuous computer.</p><p>Still missing from iOS 15.4? Support for the long-promised digital driver's licenses. For that we wait until some future iOS variant.</p>",
+  "published": "2022-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 261,
+          "end": 266
+        },
+        {
+          "start": 1893,
+          "end": 1902
+        },
+        {
+          "start": 2207,
+          "end": 2212
+        },
+        {
+          "start": 2021,
+          "end": 2026
+        },
+        {
+          "start": 1893,
+          "end": 1898
+        },
+        {
+          "start": 14,
+          "end": 19
+        },
+        {
+          "start": 2388,
+          "end": 2393
+        },
+        {
+          "start": 3023,
+          "end": 3028
+        },
+        {
+          "start": 3924,
+          "end": 3929
+        },
+        {
+          "start": 67,
+          "end": 72
+        },
+        {
+          "start": 2735,
+          "end": 2740
+        },
+        {
+          "start": 4323,
+          "end": 4332
+        },
+        {
+          "start": 4323,
+          "end": 4328
+        },
+        {
+          "start": 126,
+          "end": 131
+        },
+        {
+          "start": 126,
+          "end": 137
+        }
+      ]
+    }
+  ]
+}

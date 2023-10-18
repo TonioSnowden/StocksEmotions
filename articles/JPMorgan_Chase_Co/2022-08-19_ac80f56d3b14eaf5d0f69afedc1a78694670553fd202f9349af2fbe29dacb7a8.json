@@ -1,0 +1,34 @@
+{
+  "_id": "ac80f56d3b14eaf5d0f69afedc1a78694670553fd202f9349af2fbe29dacb7a8",
+  "feed": "wall-street-journal",
+  "title": "Walmart to Cover Medically Necessary Abortions for Workers; Retailer to also cover travel under healthcare plan, an expansion of policy covering the procedure only when the health of the mother was in danger",
+  "text": "<p>On Friday Walmart, based in Bentonville, Ark., sent a memo to its roughly 1.7 million U.S. workers that said its healthcare plan would cover the cost of abortion when \"there is a health risk to the mother, rape or incest, ectopic pregnancy, miscarriage or lack of fetal viability.\"</p><p>Previously, Walmart's health plan said the company would cover the procedure \"when the health of the mother would be in danger if the fetus were carried to term, the fetus could not survive the birthing process, or death would be imminent after birth.\"</p><p>Walmart's policy contrasts with some other large companies, including banks, technology companies and retailers such as Target Corp., which broadly cover abortion and related travel under company healthcare plans.</p><p>Walmart's expanded coverage was earlier reported by CNBC.</p><p>Earlier this summer several large companies added coverage for travel related to abortion to employee healthcare plans in response to the Supreme Court's decision.</p><p>Target, Walgreens Boots Alliance Inc. and Amazon.com Inc. offer employee healthcare plans that cover abortion broadly, according to people familiar with the plans. Large banks and technology companies, including Citigroup Inc. and JPMorgan Chase &amp; Co., tend to cover the costs of abortion care for employees and family members under their plans. The companies are among those that have also promised to reimburse employees for travel to receive abortion and other healthcare services not provided in their state.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Walmart to Cover Medically Necessary Abortions for Workers</p>",
+  "published": "2022-08-19T17:58:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1196,
+          "end": 1216
+        },
+        {
+          "start": 1202,
+          "end": 1222
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000127,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.2755394e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

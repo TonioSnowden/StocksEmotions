@@ -1,0 +1,42 @@
+{
+  "_id": "9b3935f05acd3ae02b6ba148ce2038dc6ece112a58cbe045ce6d4455b86df012",
+  "feed": "wall-street-journal",
+  "title": "Profit From America's Healthcare Bloat --- Companies benefit from push to alter system",
+  "text": "<p>But just as bad are the incentives baked into it. Most wealthy countries have government-controlled health systems that encourage doctors to keep costs down by directing patients to less invasive approaches at first. America's works the opposite way.</p><p>In the U.S., everyone from your primary-care doctor to your cardiologist has an incentive to make you consume as much healthcare as possible, from the prescription drug you could do without to the expensive surgical procedure you might be able to avoid through physical therapy.</p><p>But the incentives might be starting to change, ever so gradually, creating an opportunity for a host of companies. Among them are those helping doctors make the shift, like Privia Health Group Inc. and Agilon Health Inc. Others, like Oak Street Health Inc., Cano Health Inc. and CareMax Inc., also invest and operate medical centers that focus on value-based care.</p><p>The trend started with the country's largest insurer -- the government. Due to provisions in the Affordable Care Act, Medicaid has been pushing providers to adopt the approach, which seeks to reward the doctor for keeping a patient healthy, instead of just encouraging more volume, known as a fee-for-service model. Commercial insurers such as UnitedHealth Group, the nation's largest, are pushing to shift medical providers to this model.</p><p>We are in the early stages, with more than 70% of provider revenue tied to fee-for-service arrangements, according to Gist Healthcare. But analysts including Ryan Daniels at William Blair see value-based care expanding in coming decade as pressure to reduce healthcare costs grows.</p><p>\"We believe a movement of financial and quality risk to providers is the best means to address the cost and quality issues that are present in healthcare today,\" analysts led by Mr. Daniels wrote in a recent report.</p><p>The changes might gradually help turn the tide on healthcare costs, but for medical providers they are a big headache. Realigning a large medical practice to a new business model can be cumbersome. Doctors go to school to treat patients, not to deal with revamping their actuarial models or upgrading their IT systems. Some groups wind up teaming up with, or selling themselves to a larger business like UnitedHealth Group Inc.'s Optum, which can help move providers to value-based care. Others who choose to remain independent are turning to companies like Privia or Agilon, which focuses on the Medicare population.</p><p>\"When doctors go to medical school they don't learn about technology stack, the revenue cycle or reimbursement models,\" says Parth Mehrotra, Privia's president and chief operating officer. \"We're stepping in to handle those things so doctors can actually practice medicine.\"</p><p>Most of Privia's providers are still using a fee-for-service model, but the company aims to convert a growing portion of them to value-based care over time. Analysts expect Privia's practice collections, a measure of revenue, to grow from $1.6 billion in 2021 to $2.7 billion in 2023, according to data compiled by FactSet. Privia's shares have outperformed the broader market, rising 55% this year.</p><p>There are risks to that growth, of course. For Privia, one particular challenge is it is pitching its services to independent doctors who could sell their practices to a company such as Optum, for instance.</p><p>Industry watchers have been talking about the shift to value-based care for years and the pace has been slow but undeniable. Instead of just hoping to cash in on the next high-price drug or device, investors can make money from wringing the excess out of America's pricey healthcare complex.</p>",
+  "published": "2022-09-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 2238,
+          "end": 2261
+        },
+        {
+          "start": 1240,
+          "end": 1258
+        },
+        {
+          "start": 2223,
+          "end": 2246
+        },
+        {
+          "start": 1232,
+          "end": 1250
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.4295092,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 8.940697e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

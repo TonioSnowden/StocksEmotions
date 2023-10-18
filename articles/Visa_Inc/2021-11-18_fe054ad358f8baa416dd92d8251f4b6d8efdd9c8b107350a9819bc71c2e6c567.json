@@ -1,0 +1,20 @@
+{
+  "_id": "fe054ad358f8baa416dd92d8251f4b6d8efdd9c8b107350a9819bc71c2e6c567",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Workers at Deere ratified a new six-year contract, ending a strike against the company that lasted over a month.</p><p>Amazon said it would stop accepting Visa Inc. U.K. credit cards because of their high fees, marking a major escalation in a yearslong battle.</p><p>A panel of security and economic experts convened by Congress recommended that the U.S. take more aggressive steps to dial back commercial ties with China.</p><p>Target and TJX said they were able to sidestep supply-chain snarls to post strong sales for the most recent quarter and stock up for the holiday season.</p><p>U.S. stocks fell, with the S&amp;P 500 and Nasdaq both losing 0.3% and the Dow retreating 0.6%.</p><p>Activist investors competing to join a company's board could get a boost for their campaigns under a plan approved by the SEC.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 149,
+          "end": 158
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

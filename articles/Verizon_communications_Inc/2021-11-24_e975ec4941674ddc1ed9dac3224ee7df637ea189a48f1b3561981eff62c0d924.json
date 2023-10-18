@@ -1,0 +1,28 @@
+{
+  "_id": "e975ec4941674ddc1ed9dac3224ee7df637ea189a48f1b3561981eff62c0d924",
+  "feed": "wall-street-journal",
+  "title": "AT&T, Verizon Propose 5G Limits to Break Air-Safety Standoff; Wireless operators said they will limit the strength of service while regulators review the impact on planes and helicopters",
+  "text": "<p>\"While we remain confident that 5G poses no risk to air safety, we are also sensitive to the Federal Aviation Administration's desire for additional analysis of this issue,\" the companies said in the letter to FCC Chairwoman Jessica Rosenworcel. Wireless industry officials have held frequent talks with FCC and FAA experts to discuss the interference claims and potential fixes, according to people familiar with the matter.</p><p>Wireless industry executives don't expect the temporary limits to seriously impair the bandwidth they provide customers because networks already direct signals away from planes and airport tarmacs, according to another person familiar with the matter.</p><p>Still, the voluntary limits are a rare step for wireless companies that place a high value on the spectrum licenses they hold. U.S. carriers spent $81 billion to buy licenses for the 5G airwaves in question, known as the C-band, and spent $15 billion more to prepare them for service this winter.</p><p>The carriers earlier this month delayed their rollout plans until early January after FAA leaders raised concerns about the planned 5G service. Air-safety officials worried the new transmissions could confuse some radar altimeters, which aircraft use to measure their distance from the ground.</p><p>U.S. wireless companies send 5G signals over lower frequencies than the altimeters, but air-safety officials worried that some especially sensitive sensors could still pick up cell-tower transmissions. Regulators in Canada and France have also imposed some temporary 5G limits.</p><p>C-band limits are most relevant to AT&amp;T and Verizon, which paid premiums to grab licenses for the new signals ready for use in December 2021. The companies still plan to launch their service, subject to the new limits, in January 2022. The proposed limits would extend to July 6, 2022.</p><p>Rival carrier T-Mobile US Inc. is less vulnerable to delay because it spent a smaller amount for licenses that are eligible for use in December 2023. It also controls a broad swath of licenses suitable for 5G that aren't subject to air-safety claims.</p><p>Write to Drew FitzGerald at andrew.fitzgerald@wsj.com</p><p>AT&amp;T, Verizon Propose 5G Limits to Break Air-Safety Standoff</p>",
+  "published": "2021-11-24T18:32:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 6,
+          "end": 13
+        },
+        {
+          "start": 1591,
+          "end": 1598
+        },
+        {
+          "start": 2144,
+          "end": 2151
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "56a83f59436917ad700ee14d82484993ef15b1fe04432dce63540699e2fbde2d",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL JOURNAL  ---  Personal Technology:  Smart-Home Devices Set  To Learn New Language  ----  By Shara Tibken",
+  "text": "<p>   If you think about smart-home gadgets at all, you probably think about energy-saving thermostats or lights you control with an app. Most people don't worry about how they work, let alone how they might work together. </p><p>   Some of tech's biggest players -- Apple Inc., Alphabet Inc.'s Google, Amazon.com Inc. and Samsung Electronics Co. -- have established smart-home platforms, so your iPhone can turn off the lights or Alexa can change the thermostat without too much extra setup. But that still means shoppers must check if new products work with the tech they already have at home. </p><p>   Compatibility issues and setup complexity have made people slow to go all-in with smart-home technology. A new standard, called Matter, aims to change that. </p><p>   When it rolls out this year, Matter will act as a common language spoken by most new -- and many older -- smart-home products. You could buy any gadget you wanted and connect it to whichever app you prefer. You'll be able to control it with the voice assistant of your choice, or even use multiple assistants and apps inside your home. </p><p>   Even though Matter would work behind the scenes, it could mean more-affordable devices that are easier to set up and even play nicely together. </p><p>   What's perhaps most surprising: All the biggest names in smart-home tech are on board, so going forward, you won't be trapped in one walled garden. If you get tired of Alexa and want to switch to Apple's HomePod Mini, you could do it without having to also buy new automated blinds. </p><p>   \"We all really recognized that unless we solved some foundational problems that were hitting all of us across the industry, this industry just wasn't going to grow,\" said Michele Turner, senior director of Google smart-home ecosystem. </p><p>   Along with the tech giants, over 220 other companies support Matter. Between now and the end of the decade, vendors will ship more than 5.5 billion Matter-compliant smart-home devices, according to ABI Research. </p><p>   Matter is designed to be more secure and private than other smart-home systems, in part because it can perform some basic functions without sending messages to the cloud. And you probably won't have to throw out all your old smart devices. </p><p>   That's not to say the companies supporting Matter won't try to lock you in somehow. Matter defines basic functionality, but advanced features will still be linked to companies -- like how AirPods work better with Apple devices. </p><p>   Initially, Matter will run in door locks; sensors for motion, air quality and more; thermostats; lighting; garage-door openers; blinds and shades; smart plugs; and smart TVs. More complex smart-home products, such as security cameras, robot vacuums and appliances, won't be supported at launch. </p><p>   When a developer wants to add a feature to its smart-home product, it has to expend resources to update the software for every platform. With Matter, most changes would need to be made only once, so developers could lower their prices. </p><p>   Once you get your Matter-compatible product home, setup will be easy -- you would just scan a QR code to add it to your network. \"The goal is for the vast majority of devices out there -- lights, plugs, switches, sensors -- to make that initial setup so dead simple that it just takes a couple of seconds,\" Ms. Turner said. </p><p>   Google and Amazon's home devices regularly communicate with the cloud, while Apple's HomeKit is designed to work without as much internet dependence. Smart-home commands stay inside your home, which can make responses faster and more private. Matter takes a similar approach. If there's an internet outage, your Matter-enabled products could still work. </p><p>   \"All smart-home accessories will have the same level of security, privacy and ease of use that Apple customers enjoy today with HomeKit accessories,\" Apple spokeswoman Jacqueline Roy said. </p><p>   In the past, Eve Systems GmbH didn't link its smart plugs and sensors with Google and Amazon because they depend on the cloud, said Tim Both, Eve's senior brand and product manager. Eve didn't want to be responsible for user data. With Matter, the system's data can stay inside your home, even if you use Google or Amazon's platforms. </p><p>   Amazon and others will still use the cloud for some things. Older Alexa-enabled smart speakers can't process commands without it, said Chris DeCenzo, a principal engineer at Amazon working on smart home and Alexa devices. </p><p>   If you already bought into the smart-home life, you won't have to start over. Not completely, anyway. </p><p>   All Philips Hue lights will work with Matter when the Hue bridges that control them get updated software, said George Yianni, co-founder of the Philips Hue lighting business, who now runs its R&amp;D for parent company Signify NV. \"Even ones we sold 10 years ago will become Matter-compatible.\" </p><p>   Most newer products from the giants will work with the new standard. Google's Nest Wifi and its recent Hub displays will become connection points for Matter, while all Nest displays and speakers will get updates to control Matter devices. The newest Nest Thermostat will be compatible as well. </p><p>   Nearly all Amazon Echo devices will let you set up and control Matter, too. Apple's HomePod Mini and second-generation Apple TV 4K will be able to act as Matter hubs, as will Samsung's SmartThings Hub v3. </p><p>   Products that can't be updated will continue to work as before, just without the increased compatibility. Assa Abloy Group will upgrade some of its Yale locks, but it can't update its August line. </p><p>   Some Yale locks can be upgradable with a hardware module -- so you don't have to buy a new lock but you still might have to spend a bit extra. The company aims to make all future consumer locks work with Matter. </p><p>   Despite any initial shortcomings, Matter may be the key to smarter homes, even the homes of people without Ph.D.s in electrical engineering. \"We know we're competing with a light switch,\" said Samantha Fein, vice president of business development and marketing at Samsung's SmartThings. \"So if it's not as easy as that, we're not going to get anywhere.\" </p><p></p>",
+  "published": "2022-02-23T07:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3774,
+          "end": 3779
+        },
+        {
+          "start": 251,
+          "end": 261
+        },
+        {
+          "start": 2400,
+          "end": 2405
+        },
+        {
+          "start": 3719,
+          "end": 3724
+        },
+        {
+          "start": 5176,
+          "end": 5181
+        },
+        {
+          "start": 1413,
+          "end": 1418
+        },
+        {
+          "start": 5133,
+          "end": 5138
+        },
+        {
+          "start": 251,
+          "end": 260
+        },
+        {
+          "start": 5176,
+          "end": 5184
+        },
+        {
+          "start": 3347,
+          "end": 3352
+        },
+        {
+          "start": 251,
+          "end": 256
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

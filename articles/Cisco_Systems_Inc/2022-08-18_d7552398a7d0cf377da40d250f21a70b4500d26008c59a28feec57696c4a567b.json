@@ -1,0 +1,34 @@
+{
+  "_id": "d7552398a7d0cf377da40d250f21a70b4500d26008c59a28feec57696c4a567b",
+  "feed": "wall-street-journal",
+  "title": "Stocks End Higher as Investors Mull Economic Data, Fed Minutes; Federal Reserve meeting minutes Wednesday showed the central bank sees risks in both raising interest rates too high and not high enough",
+  "text": "<p>Stock indexes have climbed in recent weeks on signs that inflation was moderating and hopes that the Fed would ease off from its aggressive campaign of rate rises.</p><p>The rally—which had pushed the S&amp;P 500 to its highest level since April— has been tempered after minutes from the Fed's July meeting, released Wednesday, indicated that policy makers could keep raising rates to curb inflation. Still, officials said they would be cautious, acknowledging the risk that too much tightening could cause economic pain.</p><p>\"The rather vanilla nature of yesterday's Fed minutes directly plays into the directionlessness of today's markets,\" said Eric Leve, chief investment officer at investment-management firm Bailard.</p><p>Home sales data showed a further cooling of the U.S. housing market. Sales of existing homes fell for a sixth consecutive month in July, the National Association of Realtorsreported Thursday. Higher mortgage rates have weighed on sales, another example of how the Fed's rate hikes are affecting all corners of the economy.</p><p>Meanwhile, new applications for unemployment benefits inched down last week, according to the Labor Department, suggesting the jobs market is holding up despite signs of weakness in the broader economy.</p><p>\"There is still a narrow pathway toward a 'soft landing,' but it is getting harder and harder to achieve,\" said Joe Little, global chief strategist atHSBC Asset Management.</p><p>On the earnings front, shares of Kohl's Corp. retreated 6.9% after the retailer's earnings shrank by nearly two-thirds in its second quarter.</p><p>Cisco Systems Inc. shares jumped 6.3% after the maker of networking and security equipment posted flat quarterly revenue, avoiding a decline it previously forecast.</p><p>With roughly 95% of companies in the S&amp;P 500 having reported second-quarter results, about three-quarters have beat Wall Street earnings expectations, according to FactSet. Index constituents are on pace to post about 6% earnings growth for the second quarter.</p><p>\"Going forward, the outlook looks a lot more cloudy. We are going to have an earnings picture that, in my mind, is going to continue to deteriorate. That's the reason why we should enter this period with maybe a little bit more prudence,\" said Marco Pirondini, U.S. head of equities and portfolio manager at asset-management firm Amundi US.</p><p>Elsewhere, Bed Bath &amp; Beyond sank 23% after investor Ryan Cohen filed to sell his stake in the company. The selloff comes after the stock's recent, frenzied gains driven by individual investors, who jolted the stock in ways reminiscent of last year's meme-stock craze.</p><p>The yield on the benchmark 10-year U.S. Treasury note dipped to 2.879% from 2.894% on Wednesday. Bond yields and prices move in opposite directions.</p><p>In commodity markets, international oil benchmark Brent crude rose 3.1% to $96.59 a barrel. The prospect of weakening demand and additional supplies have dragged on crude prices in recent weeks.</p><p>Energy stocks outperformed Thursday as oil prices climbed, with the S&amp;P 500 energy sector up 2.5%.</p><p>Overseas, the pan-continental Stoxx Europe 600 edged up 0.4%. In Asia, Japan's Nikkei 225 dropped 1%, Hong Kong's Hang Seng declined 0.8% and the Shanghai Composite Index lost 0.5%.</p><p>Write to Will Horner at william.horner@wsj.com and Hannah Miao at hannah.miao@wsj.com.</p><p>Stocks End Higher as Investors Mull Economic Data, Fed Minutes</p>",
+  "published": "2022-08-18T20:08:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1550,
+          "end": 1568
+        },
+        {
+          "start": 1540,
+          "end": 1557
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000005,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

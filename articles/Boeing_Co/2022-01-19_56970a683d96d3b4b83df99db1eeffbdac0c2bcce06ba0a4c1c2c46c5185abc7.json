@@ -1,0 +1,20 @@
+{
+  "_id": "56970a683d96d3b4b83df99db1eeffbdac0c2bcce06ba0a4c1c2c46c5185abc7",
+  "feed": "wall-street-journal",
+  "title": "How to Mess Up a 5G Rollout",
+  "text": "<p>At issue is the C-band spectrum that carriers plan to use to blanket metro areas with 5G. Carriers paid the U.S. government $80 billion for this valuable spectrum, but the Federal Aviation Administration now won't let them use it. The agency says the signals could potentially interfere with plane altimeters that measure the distance to the ground.</p><p>The Federal Communications Commission reviewed these concerns during notice-and-comment on its plan to repurpose C-band from satellite operators. In March 2020, it approved a 258-page decision that included a safe buffer between the bands occupied by altimeters and 5G -- larger than many other countries require.</p><p>Yet some 20 months later, the FAA demanded to relitigate the FCC decision and took airlines and carriers hostage. If Verizon and AT&amp;T didn't pause their 5G rollout, the FAA would order flights grounded or diverted. AT&amp;T and Verizon didn't want to be blamed for that, so they twice agreed to scale back and delay their rollouts.</p><p>Two weeks ago they struck a deal with the Transportation Department to limit C-band signals within a mile of airport runways for six months and delay deploying 5G until Jan. 19. The FAA said it wouldn't ask for another delay. And if you believed that . . .</p><p>On Sunday the FAA said it had cleared only 45% of U.S. commercial airplanes to land in low-visibility conditions at only 48 of the 88 airports it deemed at highest risk from potential 5G interference. This didn't cover Boeing's wide-bodied 777 and 787 models, which are flying in countries around the world with fewer 5G restrictions.</p><p>This meant airlines would have to reroute or cancel thousands of flights. The disruptions would cause immediate havoc while forgone 5G service wouldn't be felt by Americans. Wireless carriers would be blamed for the chaos, which is probably why they conceded Tuesday to more \"voluntary\" and \"temporary\" restrictions.</p><p>\"At our sole discretion, we have voluntarily agreed to temporarily defer turning on a limited number of towers around certain airport runways as we continue to work with the aviation industry and the FAA to provide further information about our 5G deployment, since they have not utilized the two years they've had to responsibly plan for this deployment,\" AT&amp;T said.</p><p>That's far too charitable to the FAA and Transportation Department. Transportation Secretary Pete Buttigieg rolled FCC Chair Jessica Rosenworcel, who has supported the carriers' 5G rollout behind the scenes. And now he and Mr. Biden are portraying their blundering as a diplomatic victory. This Administration needs less political spin and more competent governance.</p><p>(See related letter: \"Letters to the Editor: FAA Not to Blame for Prioritizing Our Safety\" -- WSJ Jan. 31, 2022)</p>",
+  "published": "2022-01-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 1468,
+          "end": 1474
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

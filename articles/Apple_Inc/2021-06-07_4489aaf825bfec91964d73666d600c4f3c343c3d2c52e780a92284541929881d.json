@@ -1,0 +1,60 @@
+{
+  "_id": "4489aaf825bfec91964d73666d600c4f3c343c3d2c52e780a92284541929881d",
+  "feed": "ftcomall",
+  "title": "Apple under pressure to close loopholes in new privacy rules",
+  "text": "<p>Apple has come under pressure to tighten its new <a href=\"https://www.ft.com/content/dd724838-d37f-4894-b986-e4675482161e\">privacy rules</a> ahead of its annual developers' conference on Monday, after experts warned that thousands of apps were continuing&#xa0;to collect data from users who had opted out of tracking.</p> <p>The new rules, which came into effect in April as part of the iPhone's iOS 14.5 software update, force apps to get consent from users to track their behaviour in order to target them with advertising. </p> <p>However, many third parties are continuing to use workaround methods to identify users who do not consent, which critics argue has created confusion over what Apple's new policies allow.</p> <p>The result is that the amount of data being collected from many iPhone users may be unchanged even after they choose not to be tracked, according to Eric Seufert, a marketing strategy consultant.</p> <p>“Anyone opting out of tracking right now is basically having the same level of data collected as they were before,” said Seufert. “Apple hasn't actually deterred the behaviour that they have called out as being so reprehensible, so they are kind of complicit in it happening.”</p> <p>Sean O'Brien, founder of the Yale Privacy Lab, said Apple was being “extremely disingenuous” by marketing its <a href=\"https://www.ft.com/content/ff67e5a6-ca3e-42d2-98b8-01e656a6d396\">privacy efforts</a> without properly enforcing them to protect users.</p> <p>In an email seen by the Financial Times, one vendor told its clients it had managed to continue collecting data on more than 95 per cent of its iOS users by gathering device and network information such as IP addresses to determine who a user is — a surreptitious tactic known as “fingerprinting”.</p> <p>Apple bans fingerprinting, telling developers they “may not derive data from a device for the purpose of uniquely identifying it”, but experts say the policy is not being enforced. </p> <p>Moreover, some adtech groups, whose developer clients number in the tens of thousands, believe that looser “probabilistic” methods of identification are acceptable, because they rely on temporary, aggregated data rather than by creating unique or permanent device IDs.&#xa0;</p> <p>“The problem comes when you start matching this individual user based on this individual data point from the device, and then you try to find the connection directly,” said Paul Mueller, chief executive of Adjust, a “mobile measurement partner” that helps thousands of apps run their smartphone ad campaigns. “But if you group users by behaviour and then match these groups, that is something that we believe is within the spirit of these rules.”</p> <p>Critics said Apple's privacy push may backfire if it continues to allow such practices. “It's becoming clear that iOS14 was much more a marketing promotion than an actual privacy initiative, sadly,” said Alex Austin, chief executive of Branch, a mobile marketing platform. </p> <p>Apple said in a statement: “We believe strongly that users should be asked for their permission before being tracked. Apps that are found to disregard the user's choice will be rejected.”</p> <p>It declined to comment on whether it makes a distinction between fingerprinting and “probabilistic matching”.</p> <p>Seufert predicts Apple will provide clarity shortly — perhaps coinciding with its annual developers conference on Monday — which could lead to a wave of app rejections during the app review process this month.&#xa0;</p> <p>If Apple waits much longer, it risks coming under legal fire over the gap between reality and its marketing rhetoric, which has suggested that third parties' ability to track users is entirely blocked when users ask them to stop, said O'Brien.</p> <p>He drew a comparison with Google, which faced several lawsuits after it was discovered in 2018 that it had been tracking the locations of its users even after they expressly told it not to.</p> <p>“Apple may find this out the hard way, as Google has in the past, if the company is hit with lawsuits for misleading customers in regard to privacy,” he said. “Just as it was discovered that Google's location history was never actually turned off in 2018, I think we will find that Apple still allows apps to peer into the windows of consumers' lives.”</p><p>Source: Patrick McGee in San Francisco 2021 'Apple under pressure to close loopholes in new privacy rules' FT.com 7 June. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-06-07T13:50:32.382Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3055,
+          "end": 3060
+        },
+        {
+          "start": 2740,
+          "end": 2745
+        },
+        {
+          "start": 3251,
+          "end": 3256
+        },
+        {
+          "start": 1570,
+          "end": 1575
+        },
+        {
+          "start": 3964,
+          "end": 3969
+        },
+        {
+          "start": 1148,
+          "end": 1153
+        },
+        {
+          "start": 3682,
+          "end": 3688
+        },
+        {
+          "start": 2480,
+          "end": 2485
+        },
+        {
+          "start": 595,
+          "end": 600
+        },
+        {
+          "start": 949,
+          "end": 955
+        }
+      ]
+    }
+  ]
+}

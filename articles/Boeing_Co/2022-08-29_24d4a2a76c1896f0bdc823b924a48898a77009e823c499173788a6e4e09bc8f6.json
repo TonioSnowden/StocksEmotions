@@ -1,0 +1,42 @@
+{
+  "_id": "24d4a2a76c1896f0bdc823b924a48898a77009e823c499173788a6e4e09bc8f6",
+  "feed": "wall-street-journal",
+  "title": "NASA's Artemis Launch Faces Delays Due to Engine Problem on Moon Rocket; Successful liftoff of Orion spacecraft and SLS rocket would be big step for flight expected to last around six weeks",
+  "text": "<p>Teams from the agency were focused on an issue that was preventing the problem engine from reaching a temperature range that would permit launch. The launch countdown clock was paused at 40 minutes until a prospective launch.</p><p>The agency hoped to blast off the SLS rocket with the Orion spacecraft on top as soon as 8:33 a.m. ET. Jeremy Graeber, assistant launch director, said earlier the agency expected to establish a new launch time after the earlier delays. NASA had previously set a two-hour window to take off this morning beginning at 8:33 a.m ET.</p><p>Large crowds are expected for the launch. A local tourism organization predicted that up to 200,000 people would visit Brevard County, where the Kennedy launch complex is located, to watch the rocket try to roar off the launchpad. Area businesses posted signs wishing the mission well: one bar offered a \"moonshot\" for $6.</p><p>The mission, officially called Artemis I, is the first major test of most of the main components that NASA and aerospace companies have been developing to help return astronauts to the lunar surface. No astronauts have reached the moon since 1972, but NASA aims through its Artemis program to make that happen as soon as 2025.</p><p>Photos: A Preview of NASA's Artemis Moon Mission</p><p>There are risks: NASA estimated a 1 in 125 chance that the Orion vehicle could be lost because of a problem during Artemis I. The probability of that loss is higher during the ascent phase of the flight than the re-entry and landing sequence, a spokeswoman said.</p><p>Officials said Sunday there was an 80% chance that weather conditions would permit NASA to attempt lift off at the start of a two-hour window beginning at 8:33 a.m. Storms may move in later in that period, potentially complicating the launch, said Melody Lovin, a weather officer at a division of the U.S. Space Force.</p><p>Last-minute technical problems or issues related to public safety also could potentially cause delays. NASA officials said Sunday that teams were conducting checks related to a potential small helium leak and a communications system, but described those issues as relatively minor.</p><p>NASA officials have set backup dates in early September.</p><p>A successful lift off Monday would be just the first part of a mission that is expected to last as long as six weeks. NASA will stress test the SLS rocket and Orion spacecraft during the flight because astronauts won't be on board the latter vehicle's crew capsule.</p><p>Officials from the agency said at a briefing Saturday that they may know as soon as 63 seconds after lift off if the mission will be able to meet a critical objective: using SLS to blast Orion deep enough into space to allow Orion to re-enter the atmosphere and test its heat shield.</p><p>Another critical moment is expected around one hour and 36 minutes after launch, when a propulsion system is slated to give Orion a big push toward the lunar orbit that NASA wants the craft to follow for as many as 19 days. Later, Orion's crew capsule will face temperatures of close to 5,000 degrees Fahrenheit as it falls through Earth's atmosphere at re-entry speed of around 25,000 miles an hour.</p><p>\"It is a new rocket and a new spacecraft to send humans to the moon on the very next flight. This has not been done in over 50 years, and it's incredibly difficult,\" Mike Sarafin, Artemis mission manager, said during a briefing Saturday.</p><p>The flight scheduled to start Monday is a test, a point emphasized by officials at NASA and executives at the aerospace companies, including Boeing Co. and Lockheed Martin Corp., that were hired to develop space vehicles and other hardware for the mission. Bill Nelson, the NASA administrator, said in a recent interview that the agency could learn a great deal even if the flight is cut short.</p><p>NASA and the contractors behind Artemis I and subsequent Artemis missions have faced pressure to get to the launchpad after grappling with technical setbacks that led to cost overruns and delays.</p><p>The inspector general at NASA has estimated the Artemis I launch would cost $4.1 billion in production and operational expenses, as would each of the following three flights. The inspector general has described that per-flight cost as unsustainable. NASA officials have said they are pushing to find cost savings and that the expenses for each mission would fall as more are launched.</p><p>Boeing, Lockheed, Northrop Grumman Corp. and other contractors involved in the effort said their companies have taken steps to cut costs.</p><p>Monday's flight is designed as a precursor to Artemis II, a mission planned for 2024 that would take astronauts on board the Orion spacecraft around the moon and back. A year later, the Artemis III mission would deliver four astronauts aboard the Orion spacecraft to lunar orbit, where two would transfer to a lander that Elon Musk's SpaceX is now developing and then descend to the lunar surface.</p><p>Ultimately, the agency wants to create a permanent presence on the lunar surface and push on to Mars.</p><p>Write to Micah Maidenberg at micah.maidenberg@wsj.com</p><p>NASA's Artemis Launch Faces Delays Due to Engine Problem on Moon Rocket</p>",
+  "published": "2022-08-29T12:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 3505,
+          "end": 3515
+        },
+        {
+          "start": 4340,
+          "end": 4346
+        },
+        {
+          "start": 3481,
+          "end": 3491
+        },
+        {
+          "start": 4310,
+          "end": 4316
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

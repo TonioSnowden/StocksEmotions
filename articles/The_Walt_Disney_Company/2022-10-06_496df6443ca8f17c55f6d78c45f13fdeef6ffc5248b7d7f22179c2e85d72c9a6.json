@@ -1,0 +1,24 @@
+{
+  "_id": "496df6443ca8f17c55f6d78c45f13fdeef6ffc5248b7d7f22179c2e85d72c9a6",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   The pound rose 0.6% on Tuesday to $1.14. A World News article on Wednesday about U.K. Prime Minister Liz Truss incorrectly said the pound rose to 1.14 a dollar. </p><p>   (See: \"World News: Truss's Reversal Sparks U.K. Political Backlash\" -- WSJ October 4, 2022) </p><p>   --- </p><p>   Carolyn Everson was chief operating officer and executive vice president of U.S. ad sales for Viacom's MTV Networks. An Exchange article in some editions Saturday about Ms. Everson's appointment to Walt Disney Co.'s board of directors incorrectly said she was the chief operating officer of Viacom. </p><p>   (See: \"EXCHANGE --- Disney, Loeb Find A Truce --- Carolyn Everson, tech executive, to join board\" -- WSJ October 1, 2022) </p><p></p>",
+  "published": "2022-10-06T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 455,
+          "end": 466
+        },
+        {
+          "start": 576,
+          "end": 582
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

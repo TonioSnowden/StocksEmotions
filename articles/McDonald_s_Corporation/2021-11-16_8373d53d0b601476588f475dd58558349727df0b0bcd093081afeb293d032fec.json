@@ -1,0 +1,20 @@
+{
+  "_id": "8373d53d0b601476588f475dd58558349727df0b0bcd093081afeb293d032fec",
+  "feed": "market-watch",
+  "title": "Bitcoin as a universal payment method? This Deutsche Bank chart shows one big thing standing in the way.",
+  "text": "<p>In a survey conducted by the bank, they found that of 60% of those holding bitcoin BTCUSD have used it as a payment method. “In other words, between 3% and 7% of consumers have used Bitcoin as a means of payment over the past three months. In volume, this represents less than 2% of all the Bitcoin transactions,” Laboure said.</p><p>UncreditedAnd there are three main reasons it's not taking off as a payment option: low transaction speeds, high transaction costs and extreme volatility.</p><p>“Another barrier preventing its widespread use is related to the security of digitalwallets. Unlike a lost credit card, which can easily be replaced without financialloss, a lost digital access key to a bitcoin digital wallet can make it impossible toaccess the account. And if a bitcoin account is hacked, whom does the accountowner call?” wrote the analyst in a note to clients that published on Monday.</p><p>As Laboure explained, each block of bitcoin's digital ledger, or the blockchain, can store only one megabyte of information, with 10 minutes needed to mine a new block. And it takes at least that long for the blockchain to confirm a bitcoin payment transaction.</p><p>“The Bitcoin network can only process up to seven transactions persecond, which equals six hundred thousand transactions per day. Visa V, bycomparison, can handle up to twenty-four thousand transactions per second, equalto more than two billion transactions per day,” said Laboure.</p><p>UncreditedA slow clearing process can lead to bitcoin transactions piling up, and the longer the wait, the higher the fee miners can charge to open a new block. She noted that fees ranged from $2 to $60 per transaction between 2020 and 2021.</p><p>For context, she looks at the fixed processing fee charged by bitcoin during the first week or so of November — $3.65, versus the 1.3% to 3.5% of the transaction value typically charged by credit cards. A 2.4% fee on an online shopping order of $169 would equal a fee of $4.06. So it would take a much higher purchase to make a bitcoin fee worthwhile, Laboure said.</p><p>UncreditedThen there's the question of volatility. A 10% spread is not uncommon in a 24-hour period for the crypto, which sank 30% in a single day in May. Compare that to the British pound, which fell 10% in its worst-ever one day drop following the Brexit vote drop.</p><p>Read:Has the ‘crypto winter' arrived? Selloff sends bitcoin under $60,000, Ether sharply lower</p><p>High volatility isn't helped by low liquidity, with bitcoin supply capped at 21 million tokens and 90% already in circulation, meaning big trades can have a big impact on prices. Laboure said more regulation for bitcoin could also help build trust in the crypto and lead to higher adoption and less volatility.</p><p>She also highlighted some positive steps for bitcoin, such as the first upgrade of its blockchain since 2017, the Taproot upgrade, that took place over the weekend and is aimed at improving scalability issues.</p><p>Likely to play an even more “critical role,” is the Lightening Network, which allows transactions to be processed off the blockchain at no cost and is serving bitcoin payments for Starbucks SBUX, McDonald's MCD and Chivo, El Salvador's state-issued crypto wallet, she noted. Launched as a beta in 2018, the network claims it can process 25 million transactions per second at 4 cents each, 1,000 times faster than Visa, the analyst said.</p>",
+  "published": "2021-11-16T10:15:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "name": "McDonald's Corporation",
+      "offsets": [
+        {
+          "start": 3121,
+          "end": 3131
+        }
+      ],
+      "nexusId": "10050164"
+    }
+  ]
+}

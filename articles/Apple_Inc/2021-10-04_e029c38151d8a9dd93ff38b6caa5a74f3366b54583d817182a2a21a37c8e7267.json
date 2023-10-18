@@ -1,0 +1,36 @@
+{
+  "_id": "e029c38151d8a9dd93ff38b6caa5a74f3366b54583d817182a2a21a37c8e7267",
+  "feed": "market-watch",
+  "title": "Your index funds may not be as diversified as you think",
+  "text": "<p>Diversification is the most powerful concept in finance. By holding many stocks, you can substantially reduce the portfolio's risk. When some stocks are going up in value, others might be going down. A market event — say a rise in oil prices — will drop some stocks, but it will increase the value of others and leave yet other stocks largely unaffected.</p><p>This is why investors are encouraged to hold portfolios of many stocks, and why so many Exchange-Traded Funds (ETFs) and mutual funds hold dozens, if not hundreds, of stocks drawn from a wide set of sectors and industries. After all, by the time you have 500 stocks in your portfolio through an S&amp;P 500 ETF or&#xa0;index fund, surely you are just about as diversified as you can be, right?</p><p>In principle, this is correct. In reality, it is not and it's why S&amp;P 500 SPX investors are taking more risk than they probably realize. If you have money in a pension fund or 401(k), or your IRA is in a set of broad-market ETFs or funds, you are holding something closely aligned with the S&amp;P 500.</p><p>How S&amp;P 500 funds and ETFs work</p><p>The problem is that while the S&amp;P 500 holds many stocks, it does not hold a small amount of&#xa0;each&#xa0;stock.</p><p>Learn more:How much should I invest? | How to Invest: Ep. 1</p><p>Obviously if you hold, say, 500 stocks but 90% of your money is in just one of them, you are not going to get much benefit of diversification. While not quite that dramatic, something similar is what occurs with most indexes, including the S&amp;P 500 ETFs and funds.</p><p>This occurs because the rule for how much of a stock an S&amp;P index ETF or fund holds is based on its market capitalization: the dollar price of a share multiplied by the number of shares it has outstanding. It's basically the market value of the company.</p><p>Also read: Planning for retirement is hard, but you can do it, one step at a time</p><p>For example, Apple AAPL has 16 billion shares and each share is currently worth $150, so Apple has a market capitalization of $2.4 trillion. By comparison, Ford F has a $55 billion market capitalization. So, if your portfolio holds the S&amp;P 500, you'll have 50 times the dollar investment in Apple as you do in Ford.</p><p>As the market stands today, this is a big problem for&#xa0;diversification, because the largest stocks have much higher capitalization than the other stocks. In fact, the top 10 stocks in the S&amp;P 500 now have 25% of that index's weight in terms of capitalization; the tech sector comprises 40%.</p><p>The tech tilt in the S&amp;P 500</p><p>If 40% of your portfolio is in technology and tech-sector shares overall drop by 50%, your portfolio would be down by 20% — actually probably 30% or more, since other positions would be affected, too.</p><p>This tech tilt in the S&amp;P is at a historic high. (See: XX:SP500.45 ) The only time it came close was in 2000 and things did not end well that time around. Then, the S&amp;P 500 fell nearly 50%, partly because the dot-com bubble in tech, telecom and media stocks violently burst.</p><p>See: The S&amp;P 500 now is top-heavy in 5 big tech stocks but that alone won't end this bull market</p><p>A chief reason for the growing significance of tech in the S&amp;P 500 is the domination of companies where scale matters, perhaps even where a natural monopoly exists. When you hold an S&amp;P 500 ETF or fund, you are highly concentrated in these stocks — most notably Apple, Google GOOGL, Facebook FB, Microsoft MSFT and Amazon AMZN. So, if something bad happens in the tech sector, your S&amp;P portfolio will be highly affected.</p><p>Put another way, without even knowing it, you have placed a big bet on technology.</p><p>How to lower your risk</p><p>On Tuesday, Sept. 28, the S&amp;P 500 fell 2%, its worst one-day drop since May, partly due to the slide of 3.5% or more for companies like Facebook, Google and Microsoft. By contrast, the Dow DJIA dropped 1.6%. Until recently, the S&amp;P had been up for seven straight months.</p><p>The solution for increasing diversification without taking on the extra risk of an S&amp;P ETF or fund is to find an ETF that is spread well across economic sectors, country exposures and what are called styles, such as large companies versus small companies.</p><p>Equal-weighted ETFs are offered by companies such as Syntax, iShares and TOBAM; the latter is French and works with institutional investors such as pension funds; it doesn't offer ETFs.</p><p>Also read:Will you outlive your savings?</p><p>The message is simple: You are not getting the diversification you might be expecting from the broad range of ETFs and funds that mimic the standard indexes. This not only goes for the S&amp;P 500, but for others like the suite of Russell indexes and the international MSCI ACWI index MSCI.</p><p>Be sure to read: Worried about Social Security? Panic can lead to bad decisions</p><p>So, if you're in an S&amp;P 500 ETF or fund, you may want to look instead to one using an equally weighted index. At a minimum, don't add tech ETFs or funds to your portfolio because you already essentially have them in the mix, even without trying.</p><p>Rick Bookstaber&#xa0;is co-founder and head of risk at Fabric, a firm focused on risk management for financial advisers. He previously held chief risk officer roles at Morgan Stanley, Salomon Brothers, Bridgewater Associates and the University of California. At the U.S. Department of Treasury during the Obama administration, he helped steer the risk management process and governance for the U.S. financial system post-2008.&#xa0;</p><p>This article is reprinted by permission from&#xa0;NextAvenue.org, © 2021 Twin Cities Public Television, Inc. All rights reserved.</p><p>More from Next Avenue:</p><p>The Dangers of Fad Investing</p><p>Tell Your Adult Kids: Investing Isn't a Game</p><p>Caution About Investing in a Popular Type of ETF</p>",
+  "published": "2021-10-04T05:03:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3305,
+          "end": 3310
+        },
+        {
+          "start": 1854,
+          "end": 1858
+        },
+        {
+          "start": 2126,
+          "end": 2131
+        },
+        {
+          "start": 1848,
+          "end": 1853
+        },
+        {
+          "start": 1924,
+          "end": 1929
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "e49f0bed91f179add3b1276ea2650a0a93e7ebb0701cd3aa6477cb054f4d97a0",
+  "feed": "ftcomall",
+  "title": "Apple reaches quiet truce over iPhone privacy changes",
+  "text": "<p>Apple has allowed app developers to collect data from its 1bn iPhone users for targeted advertising, in an unacknowledged shift that lets companies follow a much looser interpretation of its controversial <a href=\"https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d\">privacy policy</a>. &#xa0;</p> <p>In May Apple communicated its privacy changes to the wider public, launching an advert that featured a harassed man whose daily activities were closely monitored by an ever-growing group of strangers. When his iPhone prompted him to “Ask App Not to Track”, he clicked it and they vanished. Apple's message to potential customers was clear — if you choose an iPhone, you are choosing privacy. </p> <p>But seven months later, companies including Snap and Facebook have been allowed to keep sharing user-level signals from iPhones, as long as that data is anonymised and aggregated rather than tied to specific user profiles. </p> <p>For instance Snap has told investors that it plans to share data from its 306m users — including those who ask Snap “not to track” — so advertisers can gain “a more complete, real-time view” on how ad campaigns are working. Any personally identifiable data will first be obfuscated and aggregated.</p> <p>Similarly, Facebook operations chief Sheryl Sandberg said the social media group was engaged in a “multiyear effort” to rebuild ad infrastructure “using more aggregate or anonymised data”.</p> <p>These companies point out that Apple has told developers they “may not derive data from a device for the purpose of uniquely identifying it”. This means they can&#xa0;observe “signals” from an iPhone at a group level, enabling ads that can still be tailored to “cohorts” aligning with certain behaviour but not associated with unique IDs.</p> <p>This type of tracking is becoming the norm. Oren Kaniel, the chief executive of AppsFlyer, a mobile attribution platform that works with app developers, said that when his company introduced such a “privacy-centric” tool based on aggregated measurement in July 2020, “the level of pushback that we received from the entire ecosystem was huge”.</p> <p>But now such aggregated solutions are the default for 95 per cent of his clients. “The market changed their minds in a radical way,” he said.</p> <p>It is not clear whether Apple has actually blessed these solutions. Apple declined to answer specific questions for this article but described privacy as its North Star, implying it was setting a general destination rather than defining a narrow pathway for developers.</p> <p>Cory Munchbach, chief operating officer at customer data platform BlueConic, said Apple had to stand back from a strict reading of its rules because the disruption to the mobile ads ecosystem would be too great.</p> <p>“Apple can't put themselves in a situation where they are basically gutting their top-performing apps from a user-consumption perspective,” she said. “That would ultimately hurt iOS.”</p> <p>For anyone interpreting Apple's rules strictly, these solutions break the privacy rules set out to iOS users.</p> <p>Lockdown Privacy, an app that blocks ad trackers, has called Apple's policy “functionally useless in stopping third-party tracking”. It performed a variety of tests on top apps and observed that personal data and device information is still “being sent to trackers in almost all cases”.&#xa0;</p> <p>But the companies aggregating user-level data said the reason apps continue to “leak” information such as a user's IP address and location was simply because some require such information to function. Advertisers must know certain things such as the user's language or the device screen size, otherwise the app experience would be awful.</p> <p>The risk is that by allowing user-level data to be used by opaque third parties so long as they promise not to abuse it, Apple is in effect trusting the very same groups that<a href=\"https://www.ft.com/content/3cabd134-0271-4783-8f0e-a17bb682afbe\"> chief executive Tim Cook has lambasted</a> as “hucksters just looking to make a quick buck”.</p> <p>Companies will pledge that they only look at user-level data once it has been anonymised, but without access to the data or algorithms working behind the scenes, users won't really know if their data privacy has been preserved, said Munchbach.</p> <p>“If historical precedent in adtech holds, those black boxes hide a lot of sins,” she said. “It's not unreasonable to assume it leaves a lot to be desired.”</p><p>Source: Patrick McGee 2021 'Apple reaches quiet truce over iPhone privacy changes' FT.com 8 December. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-12-08T11:49:21.978Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2495,
+          "end": 2500
+        },
+        {
+          "start": 1354,
+          "end": 1359
+        },
+        {
+          "start": 2167,
+          "end": 2172
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 2625,
+          "end": 2631
+        },
+        {
+          "start": 2211,
+          "end": 2216
+        },
+        {
+          "start": 3665,
+          "end": 3670
+        },
+        {
+          "start": 511,
+          "end": 516
+        },
+        {
+          "start": 2833,
+          "end": 2838
+        },
+        {
+          "start": 228,
+          "end": 233
+        },
+        {
+          "start": 2980,
+          "end": 2985
+        }
+      ]
+    }
+  ]
+}

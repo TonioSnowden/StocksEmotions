@@ -1,0 +1,90 @@
+{
+  "_id": "ef7bca5e27b5869d537e0feba515b4b7e0639cb75e7efc6b7fb6094dc2798182",
+  "feed": "wall-street-journal",
+  "title": "Boeing Gets New Chance to Step Up in Space",
+  "text": "<p>\"We're providing both the brains and muscle,\" Boeing says on its website, \"to make the next generation of human spaceflight possible.\"</p><p>Boeing has a long history developing NASA vehicles and handling missions for the agency. The company helped deliver astronauts to the moon in the 1960s, and worked on Space Shuttle operations before that program ended more than a decade ago. It also provides support for the International Space Station for NASA.</p><p>Boeing's space business has struggled more recently, including technical and management problems with the SLS. Stumbles with its separate Starliner spacecraft repeatedly delayed a flight for NASA, and that ship has lagged behind a competing vehicle from Elon Musk's SpaceX.</p><p>A successful SLS launch would help Boeing restore its reputation as it competes for government contracts and engineering talent with startups.</p><p>\"The SLS is just another opportunity for us to show how well Boeing can do space,\" said John Shannon, a Boeing vice president who oversees the SLS program for the company. \"This vehicle can do something that no other vehicle can do, and we haven't had a rocket like this in 50 years.\"</p><p>Mr. Shannon added the company is confident that two of the big parts of the mission that Boeing engineers worked on -- the main stage of the rocket used during liftoff, and a propulsion system designed to give Orion a big push in space toward lunar orbit -- will function as planned.</p><p>The test launch of SLS and Orion without crew was supposed to happen four years ago, but Boeing and other contractors faced technical slip-ups and challenges the NASA inspector general has cited as among the sources of delays and cost overruns.</p><p>The belated test launch comes after problems Boeing has faced elsewhere in its commercial, military and space segments. Three years ago, Boeing botched a test launch of its Starliner space capsule, sending it into the wrong orbit and failing to dock with the International Space Station. Subsequent technical problems delayed a do-over until a successful Starliner test launch earlier this year. The company booked $767 million in charges related to that program over the past three years.</p><p>\"We need Boeing to get this right,\" said Scott Pace, a former NASA official who is director of the Space Policy Institute at George Washington University. \"There's a long history in recent years of Boeing's technical problems, which they're trying to fix -- I sure hope they do, because it's a national asset and it needs to work.\"</p><p>Any major problems with this initial Space Launch System test launch could set back NASA's planned Artemis missions to the moon. Two years from now, astronauts are scheduled to be on Orion as another SLS rocket launches it into space. And as soon as 2025, NASA wants SLS to propel astronauts to lunar orbit, where they would get on a SpaceX lander to travel to the lunar surface. The missions could lay the groundwork for a possible future lunar base and an eventual operation to Mars, according to plans NASA has laid out under Artemis.</p><p>The overall project also involves aerospace companies including Northrop Grumman Corp. and Lockheed Martin Corp. Those contractors also at times faced technical issues and delays flagged by the space agency's inspector general. Lockheed Martin years ago dealt with challenges related to flight software and valves used for Orion, while Northrop Grumman, responsible for booster rockets on SLS, did so with insulation and avionics, according to reports from NASA's inspector general.</p><p>Building and testing a new generation of exploration spacecraft that meet NASA's stringent requirements has been challenging, with supply chains posing difficulties in recent years, said Mike Hawes, a vice president and program manager for Orion at Lockheed. Wendy Williams, vice president for propulsion systems at Northrop Grumman, said the company incorporated lessons from building boosters for the first Artemis flight into the second, reducing timelines and costs.</p><p>NASA Inspector General Paul Martin has estimated each of the first four Artemis missions will cost $4.1 billion, a figure he said is unsustainable.</p><p>Mr. Martin's office had flagged Boeing miscalculations related to the scope of the project, welding problems and other troubles. \"There was poor planning and poor execution,\" he said in congressional testimony earlier this year.</p><p>Mr. Shannon, the Boeing manager for SLS, has said the company faced difficulties with the infrastructure at a Louisiana facility where NASA wanted the company to build the rocket. He said the company underestimated how long it would take to get its suppliers to provide needed parts.</p><p>\"The aerospace supply chain for human spaceflight had really atrophied,\" he said, citing the end of NASA's Space Shuttle program years earlier for that. \"We had to go in and really reinvigorate that supply chain.\"</p><p>As of a year ago, Boeing and one of its joint ventures were awarded contracts worth about $12 billion over more than a dozen years for SLS work, according to a NASA inspector general report from November. Those deals represented 59% of the total contract value for the rocket program. Unlike with other government contracts, Boeing hasn't booked any charges for SLS because many of its agreements with NASA are so-called cost-plus contracts, meaning taxpayers foot the bill for cost increases.</p>",
+  "published": "2022-08-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 46,
+          "end": 52
+        },
+        {
+          "start": 134,
+          "end": 140
+        },
+        {
+          "start": 444,
+          "end": 450
+        },
+        {
+          "start": 751,
+          "end": 757
+        },
+        {
+          "start": 1230,
+          "end": 1236
+        },
+        {
+          "start": 1513,
+          "end": 1519
+        },
+        {
+          "start": 1523,
+          "end": 1529
+        },
+        {
+          "start": 1713,
+          "end": 1719
+        },
+        {
+          "start": 1724,
+          "end": 1730
+        },
+        {
+          "start": 1804,
+          "end": 1810
+        },
+        {
+          "start": 4147,
+          "end": 4153
+        },
+        {
+          "start": 4359,
+          "end": 4365
+        },
+        {
+          "start": 4387,
+          "end": 4393
+        },
+        {
+          "start": 4854,
+          "end": 4860
+        },
+        {
+          "start": 5159,
+          "end": 5165
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

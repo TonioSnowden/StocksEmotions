@@ -1,0 +1,40 @@
+{
+  "_id": "d9d272d07f1f305be4f283627c8ad92991ec6b6e8e3b1257adedb5e87960ba45",
+  "feed": "wall-street-journal",
+  "title": "The Cloud Isn't Recession Proof; Amazon, Microsoft and Google's cloud businesses offset more challenged segments but aren't immune to a slowing economy",
+  "text": "<p>A slump in e-commerce sales is expected to result in a year-over-year decline in Amazon's combined revenue from its retail segments for the first time, while falling demand for personal computers could drive Microsoft's More Personal Computing business to low single-digit growth for the June quarter. And Google, which remains predominantly dependent on online advertising, is looking vulnerable after disappointing results from smaller digital ad rivals Snap and Twitter last week. Alphabet's share price sank nearly 6% on Friday after those two companies' reports.</p><p>But these three also happen to run the largest public cloud services, which should be a relative bright spot in their results. Microsoft already projected about 21% year-over-year growth for its Intelligent Cloud segment for its fiscal fourth quarter ended in June, and the company has never yet missed its own forecast for this key segment, according to FactSet. Analysts expect 32% growth for Amazon's AWS segment revenue and 38% growth for Google's much smaller Cloud segment. Combined revenue from the three cloud businesses is expected to come in at roughly $47 billion for the June quarter—up 28% year over year.</p><p>Still, that is a notable deceleration from the 33% growth seen in the March quarter—and 35% in last year's second quarter. Businesses of all sizes were turning to the cloud before the pandemic, but demand for such services picked up even more after the outbreak as companies rushed to set up remote-work capabilities. With the pandemic now into its third year, some of that new activity is starting to level out: Few companies remain that haven't set up for remote or hybrid work. That creates some challenging comparisons as general economic conditions are worsening.</p><p>Cloud businesses can still be relatively durable because much of their revenue is based on subscription contracts. But services such as Amazon, Microsoft and Google also still depend on usage by customers that can go up and down depending on the health of their businesses. Amazon saw this early in the pandemic when a sharp drop in ride-sharing and travel in 2020 hurt major AWS customers such as Airbnb and Lyft, causing the division's revenue to miss Wall Street's projections.</p><p>More recently, Snowflake noted in May that use of its cloud-based data-warehousing software was affected by lower-than-expected demand from consumer-facing companies dealing with \"shifting economic circumstances.\" Snowflake's revenue beat Wall Street's forecast by only 2% for its fiscal quarter ended in April, the narrowest beat since the company went public in 2020.</p><p>And Qualtrics, which provides cloud-based software for companies to measure customer experience, reduced its full-year outlook during its second-quarter report last week, with Chief Executive Zig Serafin noting that some deals are taking longer to close as businesses \"scrutinize all sorts of spend across their companies.\"</p><p>Amazon, Microsoft and Google operate much larger cloud businesses, but they still could see some impact from the same dynamics. In a report last week, UBS analysts said conversations with large customers of major cloud services showed a notable shift in tone. \"Bottom line, our checks down-ticked relative to 3 months ago, with references to slower new migration activity and longer sales cycles on new deals that we haven't heard over the last 18 months,\" the report read.</p><p>Even the cloud can't float above a recession.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>The Cloud Isn't Recession Proof</p>",
+  "published": "2022-07-25T11:03:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 695,
+          "end": 704
+        },
+        {
+          "start": 1900,
+          "end": 1909
+        },
+        {
+          "start": 208,
+          "end": 219
+        },
+        {
+          "start": 208,
+          "end": 217
+        },
+        {
+          "start": 2939,
+          "end": 2948
+        },
+        {
+          "start": 41,
+          "end": 50
+        }
+      ]
+    }
+  ]
+}

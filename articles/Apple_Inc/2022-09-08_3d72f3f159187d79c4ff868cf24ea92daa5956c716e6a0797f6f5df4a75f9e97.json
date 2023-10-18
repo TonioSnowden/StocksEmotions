@@ -1,0 +1,46 @@
+{
+  "_id": "3d72f3f159187d79c4ff868cf24ea92daa5956c716e6a0797f6f5df4a75f9e97",
+  "feed": "market-watch",
+  "title": "Traditional TV 'is marching to a distinct precipice,' former Disney CEO Iger says; But streaming won't guarantee success in a crowded market, he adds",
+  "text": "<p>The legacy TV landscape \"is marching to a distinct precipice, and it's going to be pushed off,\" he said, according to a Bloomberg News recap of the conversation.</p><p>While media companies have been making big bets on streaming, not all will succeed, in Iger's view, given fierce competition in the market not just from legacy entertainment companies, but also from Amazon.com Inc. AMZN, Apple Inc. AAPL, and other tech giants.</p><p>Apple doesn't disclose streaming subscriber numbers, but it's thought to have a significantly smaller paying base of subscribers than lions Disney and Netflix Inc. NFLX do. That said, Iger offered some praise to the consumer-electronics giant, saying that he was doubtful the company would be able to grow its business so quickly.</p><p>\"They've done better than I expected them to do because it wasn't a business they were in at all,\" he said, according to Variety's roundup of the presentation.</p><p>He also sees continued risk for the theatrical business, saying that recent streaming successes have changed his mind about what can be accomplished through home viewing.</p><p>\"The movie industry used to argue that you couldn't create cultural impact without people going to the movie theater around the globe that same weekend,\" Iger said, according to Variety. He feels differently now, in part after seeing how shows like \"House of the Dragon\" and \"The Mandalorian\" rose to pop-cultural prominence despite their streaming debuts.</p><p>Iger shared thoughts on Twitter Inc. TWTR as well, detailing how Disney contemplated an acquisition of the social-media company years back while looking for ways to expand its distribution avenues, though he ultimately decided against a deal given the presence of hate speech on the platform and his belief that owning the company would be a major distraction.</p><p>Traditional TV 'is marching to a distinct precipice,' former Disney CEO Iger says</p>",
+  "published": "2022-09-08T16:51:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99891996,
+      "offsets": [
+        {
+          "start": 421,
+          "end": 426
+        },
+        {
+          "start": 423,
+          "end": 428
+        },
+        {
+          "start": 394,
+          "end": 398
+        },
+        {
+          "start": 383,
+          "end": 393
+        },
+        {
+          "start": 382,
+          "end": 391
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0429144,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.04291463,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

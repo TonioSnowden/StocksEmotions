@@ -1,0 +1,76 @@
+{
+  "_id": "4fdb583560bafbb48c39d7e8b76f518117242d6f91494e76272c014bb64e280a",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Hack Pits Microsoft  Against Dell and IBM  ----  By Aaron Tilley",
+  "text": "<p>   The cyberattack that compromised many U.S. government and corporate networks is fueling a debate among big tech companies over what the safest way is for customers to store critical data. </p><p>   It pits Microsoft Corp., which is urging clients to rely on cloud-computing systems, against others including Dell Technologies Inc. and International Business Machines Corp., who argue customers want to mix the cloud with the more traditional on-premise data-storage systems in a construct called hybrid-cloud. </p><p>   Government and industry cybersecurity experts for about two months have been trying to unravel details of the incident that is causing a reassessment of long-held networking-security assumptions. The hackers, investigators believe, gained access via networking company SolarWinds Corp. and other avenues of attack. </p><p>   In a House committee hearing about the hack Friday, Microsoft President Brad Smith said in prepared remarks, that \"cloud migration is critical to improving security maturity across many organizations.\" All of the attacks the company has identified involved on-premise systems, he has previously said. </p><p>   The debate is part of the fallout from the suspected Russia-led hack that Senate Intelligence Committee Chairman Sen. Mark Warner (D., Va.), on Tuesday said may be in scope and scale \"beyond any that we've confronted as a nation.\" </p><p>   Microsoft, one of the world's biggest cloud vendors, has said cloud services offer customers the most robust data protection. A mixed approach \"creates an additional seam that organizations need to secure. A consequence of this decision is that if the on-premises environment is compromised, this creates opportunities for attackers to target cloud services,\" Microsoft said in a blog post on its investigation of the hack. </p><p>   The notion that the hybrid cloud is less secure is inaccurate, said Paul Cormier, chief executive of Red Hat, the business IBM acquired two years ago in part in a bet on the growing demand for hybrid cloud services. \"Any software could get broken into. The cloud providers could get broken into as well,\" he said. </p><p>   Companies traditionally invested in big servers to store much of the data on their products and customers. That changed about a decade ago, with the rise of cloud-computing. Amazon.com Inc. and Microsoft popularized the business model where they provide remote hardware and software on a pay-as-you-go basis. </p><p>   One of the biggest security concerns around cloud computing is fear that the compromise of a service provider could lead to a broad set of its customers having their data accessed, cybersecurity experts have said. </p><p>   Expecting customers to shift all of their data to the cloud is impractical, Red Hat's Mr. Cormier said. Many companies, especially in the financial industry, are required to keep data on-premises for security or regulatory reasons, he said. </p><p>   Holding data in-house is seen as safer by many customers, said Keith White, a former Microsoft cloud executive and senior vice president for hybrid-cloud services at Hewlett Packard Enterprise Co. HPE didn't find any of its customers exposed to the SolarWinds attacks, he said. </p><p>   Raising questions about hybrid-cloud security \"serves the broader Microsoft narrative,\" Deepak Patil, a senior vice president of Dell Technologies' cloud business and former Microsoft cloud executive, told the Journal. \"But the reality is, look at a majority of customers, their workloads are running on-prem.\" Dell sells hardware and software to manage hybrid cloud systems. </p><p>   Microsoft in a statement said \"we offer security options for both cloud and on-premises deployments\" but added that the protection built into the cloud requires more effort to deliver to on-site servers. </p><p>   In remarks for the Friday congressional hearing, Microsoft's Mr. Smith said that\"when Microsoft's cloud services are attacked, we can detect anomalies and indicators of compromise in ways that are not possible in an on-premises environment.\" The company also couldn't hunt for the Russian hackers in on-premises networks, he said. </p><p>   --- </p><p>   Robert McMillan contributed to this article. </p><p></p>",
+  "published": "2021-03-01T07:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3503,
+          "end": 3512
+        },
+        {
+          "start": 3301,
+          "end": 3310
+        },
+        {
+          "start": 2279,
+          "end": 2288
+        },
+        {
+          "start": 22,
+          "end": 31
+        },
+        {
+          "start": 1707,
+          "end": 1716
+        },
+        {
+          "start": 3193,
+          "end": 3202
+        },
+        {
+          "start": 2934,
+          "end": 2943
+        },
+        {
+          "start": 867,
+          "end": 876
+        },
+        {
+          "start": 3793,
+          "end": 3802
+        },
+        {
+          "start": 3756,
+          "end": 3765
+        },
+        {
+          "start": 3756,
+          "end": 3767
+        },
+        {
+          "start": 3793,
+          "end": 3804
+        },
+        {
+          "start": 1347,
+          "end": 1356
+        },
+        {
+          "start": 196,
+          "end": 211
+        },
+        {
+          "start": 196,
+          "end": 205
+        }
+      ]
+    }
+  ]
+}

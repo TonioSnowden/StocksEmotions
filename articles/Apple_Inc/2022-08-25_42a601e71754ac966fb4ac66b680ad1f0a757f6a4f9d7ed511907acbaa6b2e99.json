@@ -1,0 +1,34 @@
+{
+  "_id": "42a601e71754ac966fb4ac66b680ad1f0a757f6a4f9d7ed511907acbaa6b2e99",
+  "feed": "market-watch",
+  "title": "Affirm stock stumbles as earnings beat but outlook comes up short; 'In light of the uncertain macroeconomic backdrop, we are approaching our next fiscal year prudently,' CFO says",
+  "text": "<p>Affirm's AFRM revenue rose to $364.1 million from $261.8 million, while analysts were looking for $355 million.</p><p>The company's count of active merchants grew to 235,000 from 207,000 on a sequential basis, while its count of annual active consumers reached 14.0 million from 12.7 million in the March quarter.</p><p>\"While the growth of online commerce is falling back to pre-COVID levels, the secular trend toward adopting honest financial products is gaining momentum,\" Chief Executive Max Levchin said in a release.</p><p>See also: SoFi stock gains as Biden's student-loan forgiveness announcement 'removes an overhang'</p><p>Gross merchandise volume (GMV) was $4.4 billion, up 77% from a year before, whereas analysts were modeling $4.1 billion.</p><p>For the fiscal first quarter, Affirm's management expects GMV of $4.2 billion to $4.4 billion, along with revenue of $345 million to $365 million. The FactSet consensus was for $4.55 billion in GMV and $386 million in revenue.</p><p>Looking at the full fiscal year, Affirm executives model $20.5 billion to $22.0 billion in GMV and $1.625 billion to $1.725 billion in revenue. Analysts surveyed by FactSet were projecting $19.15 billion in GMV and $1.91 billion in revenue.</p><p>\"In light of the uncertain macroeconomic backdrop, we are approaching our next fiscal year prudently while maintaining our focus on driving responsible growth and continuing to invest in strengthening our leadership position,\" Chief Financial Officer Michael Linford said in a statement. \"We continue to expect to achieve a sustained profitability run rate, on an adjusted operating income basis, by the end of fiscal 2023.\"</p><p>Don't miss: Why Apple's BNPL efforts could mark a 'tipping point' in lending</p><p>Affirm shares have declined 69% so far this year as the S&amp;P 500 SPX has fallen 12%.</p><p>Affirm stock stumbles as earnings beat but outlook comes up short</p>",
+  "published": "2022-08-25T20:20:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1629,
+          "end": 1634
+        },
+        {
+          "start": 1639,
+          "end": 1644
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

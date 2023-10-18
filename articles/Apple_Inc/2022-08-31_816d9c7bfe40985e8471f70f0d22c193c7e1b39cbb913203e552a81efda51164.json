@@ -1,0 +1,42 @@
+{
+  "_id": "816d9c7bfe40985e8471f70f0d22c193c7e1b39cbb913203e552a81efda51164",
+  "feed": "ftcomall",
+  "title": "Brussels proposes tough regulations on smartphone spare part availability",
+  "text": "<p>Smartphone manufacturers supplying the EU will face stringent requirements to provide spare parts and ensure longer battery life, according to draft proposals published by Brussels on Wednesday.</p> <p>The European Commission said that at least 15 different component parts should be made available for at least five years from the date of a <a href=\"https://www.ft.com/reports/mobile-technology\">smartphone's</a> introduction to the market and that batteries should survive at least 500 full charges without deteriorating to below 83 per cent of their capacity.</p> <p>Phones would also have to display an energy efficiency label, similar to those used for washing machines and dishwashers, which will show battery endurance and other characteristics such as resistance to drops. </p> <p>The scheme is Brussels' latest directive targeting electronics manufacturers after introducing in June a requirement to use a <a href=\"https://www.ft.com/content/cb800a87-5382-448f-8495-c00ea13c0102\">standardised charger</a> by 2024, despite years of industry opposition, in particular from Apple. </p> <p>Extending the life cycle of all the smartphones sold in the <a href=\"https://www.ft.com/european-union\">EU </a>by five years would save emissions equivalent to around 10mn tonnes of Co2 — roughly the same as taking 5mn cars off the road, according to a study by the European Environmental Bureau, a non-governmental organisation. </p> <p>The draft regulations, which also cover tablets and standard mobile phones, suggest that if hardware is made more repairable and recyclable it would cut the energy consumption involved in its production and use by a third.</p> <p>“Devices are often replaced prematurely by users and are, at the end of their useful life, not sufficiently reused or recycled, leading to a waste of resources,” the document said.</p> <p>A senior EU official warned that products that did not meet sustainability requirements “will go off the market”.</p> <p>Smartphone makers argue that requiring more parts to be available simply increases the consumption of plastic.</p> <p>Digital Europe, which represents the tech industry, said: “A potential overproduction, subsequent warehousing and destruction of spare parts will naturally result in wasted resources, reduced material efficiency and negative economic value ultimately resulting in higher costs for the consumer.”</p> <p>The sustainability director at a large US company also argued that it would encourage over-repairing: “Do we really need a back cover with a scratch to be considered waste?”</p> <p>Some manufacturers, such as iPhone maker Apple, have already stepped up their repair programmes after years of pressure from campaigners. Components including the battery, display, SIM tray, cameras and speakers can be repaired in the latest iPhones. </p> <p>In April, it launched its first self-service repair scheme for iPhones, renting or selling tool kits and parts to consumers in the US and promising to expand into Europe in the coming months. </p> <p>The new proposals also cover software, requiring manufacturers to provide security updates for five years after devices leave the market and functionality updates for three years. That could present a challenge to makers of smartphones using Google's Android operating system, which make up the majority of European sales and typically receive only a few years of software updates.</p> <p>Wayne Lam, mobile analyst at CCS Insight, said the regulations would be more challenging for smaller smartphone manufacturers than giants such as Apple and Samsung.&#xa0;</p> <p>“It will be a burden for the lesser brands and I'm sure we'll start to see limitations of smartphone models they will offer in the EU market,” he said. “The net effect may very well be to make smartphones less affordable or wipe out the ultra-low cost category altogether.”</p> <p>Environmental campaigners called the regulations a “game changer” for the market.</p> <p>Mathieu Rama, programme manager at the Environmental Coalition on Standards, said that requiring better transparency on repairability and battery life would make it easier for consumers to compare across models and “could mark the end of the era of disposable devices”. </p> <p>Brussels has previously said that its energy labels on lightbulbs had encouraged manufacturers to make much more efficient products and that in an EU-wide survey 79 per cent of consumers said that the labels had influenced their purchases.</p><p>Source: Alice Hancock in Brussels and Tim Bradshaw in London 2022 'Brussels proposes tough regulations on smartphone spare part availability' FT.com 31 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-31T20:40:30.124Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 918,
+          "end": 923
+        },
+        {
+          "start": 921,
+          "end": 926
+        },
+        {
+          "start": 2341,
+          "end": 2346
+        },
+        {
+          "start": 3266,
+          "end": 3271
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.000206,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00020611286,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

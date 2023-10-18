@@ -1,0 +1,28 @@
+{
+  "_id": "972606f43b43983c21bdfbf0776effcf6d40d6aa8a65da9e9e502bc0ad8a70a4",
+  "feed": "wall-street-journal",
+  "title": "White House Convenes Open-Source Security Summit Amid Log4j Risks; Widespread use of open-source technologies and their maintenance by small groups creates national-security concerns, officials say",
+  "text": "<p>Thursday's meeting was prompted in part by the discovery of a flaw in Log4j, an open-source logging tool used in thousands of commercial products, which hackers can exploit with relative ease to gain wider systems access. The vulnerability, disclosed in early December, set off a global scramble among companies, government agencies and software developers to patch the weakness.</p><p>The virtual summit, led by deputy national security adviser Anne Neuberger, included executives from Apple Inc., Alphabet Inc., Meta Platforms Inc. and Microsoft Corp., among others, along with specialist open-source software organizations such as GitHub Inc., the Apache Software Foundation and the Linux Open Source Foundation.</p><p>The Cybersecurity and Infrastructure Security Agency, the Commerce Department, the Defense Department and the Energy Department were among the federal agencies present.</p><p>Attendees said they focused on practical ways in which the public and private sector can work together to enhance security standards in open source, in part by building on community efforts already under way such as frameworks developed by the Open Source Security Foundation. The OpenSSF includes major banks, technology companies and academic institutions in its membership, which works to improve security in the open-source supply chain.</p><p>Apache, which distributes Log4j, is pushing for more expert help from technology companies that use free software. \"We believe the path forward will require upstream collaboration by the companies and organizations that consume and ship open source software,\" the foundation said in a statement after the meeting.</p><p>Alphabet's Google suggested setting up a marketplace to match volunteers with open-source projects deemed critically important by a public-private sector partnership, based on where and how they are used.</p><p>\"If we're going to solve a lot of these grand challenges, it's going to take all of us,\" said Mike Hanley, GitHub's chief security officer, who attended Thursday's meeting. Following the meeting, a number of participants issued statements expressing support for the White House's attention to the issue but warned that security in open-source software remains fragile.</p><p>\"For too long, the software community has taken comfort in the assumption that open source software is generally secure due to its transparency and the assumption that many eyes were watching to detect and resolve problems,\" said Kent Walker, chief legal officer at Google in a blog post published after the meeting. \"But in fact, while some projects do have many eyes on them, others have few or none at all.\"</p><p>Compounding the problem of vulnerabilities in open-source software is that these components are baked into other products. This means that technology providers often have to come up with individual patches to fix something like the Log4j vulnerability, which can lengthen the time companies are exposed to hackers.</p><p>In a call with reporters on Monday, CISA Director Jen Easterly, who described the Log4j vulnerability as the most severe she had seen in her career, warned that problems stemming from the flaw could linger for years.</p><p>Log4j cast the problems with open-source software security into sharp relief, but experts have long warned that underinvestment in open-source would create problems. In an executive order on cybersecurity in May, President Biden referred to open-source vulnerabilities and said the government will require technology providers to list such components used in their products in the future.</p><p>Smaller open-source projects are often maintained by small teams of part-time volunteers, which creates major supply-chain risks, said Casey Ellis, founder and chief technology officer at Bugcrowd Inc., which runs a platform for ethical hackers to find and report security holes in company systems.</p><p>\"The internet isn't just one of these supply-chain dependencies,\" he said. \"At this point, it is literally built on thousands of them.\"</p><p>The White House and tech organizations are expected to meet again about the matter in April, GitHub's Mr. Hanley said.</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-01-14T00:16:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 481,
+          "end": 491
+        },
+        {
+          "start": 481,
+          "end": 490
+        },
+        {
+          "start": 481,
+          "end": 486
+        }
+      ]
+    }
+  ]
+}

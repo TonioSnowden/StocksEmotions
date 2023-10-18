@@ -1,0 +1,60 @@
+{
+  "_id": "64f568c11ec2478bb10611264a815e9e3d90f380abf1f0ccf3aeafeaa0b25913",
+  "feed": "wall-street-journal",
+  "title": "Cybersecurity (A Special Report) --- How Encryption Does -- or Doesn't -- Work With Messaging Apps: Here's how to know when your messages are most secure",
+  "text": "<p>Your messaging apps are probably among the tools you use most on your smartphone, holding a stream of sensitive, identifiable information you wouldn't want in the wrong hands. People use the apps to share addresses, phone numbers, passwords and photos. Unless you use a secure, encrypted service, all of that information could be open to snooping. Hackers wouldn't need your phone to try to see what you're sending. And companies offering these communication tools could take a peek at what you send and receive.</p><p>Legally, providers of private communication are allowed unfettered access to users' unencrypted messages, says Paul Ohm, professor of law at the Georgetown University Law Center specializing in information privacy. They could not only share the information with law enforcement, but also use the data to feed you customized ads or other marketing.</p><p>Law-enforcement agencies are increasingly requesting data from social-networking sites about users, and companies are \"generally cooperative,\" Mr. Ohm says. Meta Platforms Inc. received 215,000 government requests for user data from June to December of 2021, up from 191,000 during that time frame in 2020, according to the company's biannual report on the subject. Meta, which owns Facebook, Instagram and WhatsApp, provided some data on users nearly 73% of the time in response to those requests.</p><p>Meanwhile, cyberattacks against the communications industry rose 51% in 2021, according to the cybersecurity firm Check Point Software Technologies Ltd. If hackers attack a cloud service or data center, \"emails get exposed, messages get exposed, photos get exposed,\" says Mark Ostrowski, Check Point's head of engineering for the eastern U.S. \"It's used for extortion.\"</p><p>Encryption for messaging tends to come in two main forms: end to end, and in transit. With end-to-end encryption, the messages are scrambled before the text leaves the sender's device. While passing through servers, the messages remain unreadable. Only the receiver's device can decode the message.</p><p>Encryption in transit, which is considered less secure than end-to-end encryption, scrambles messages only while the text makes its way to the servers for processing. Once the text is on those servers, the messaging provider may be able to read them. Messages are encrypted again before being sent to the recipient.</p><p>For maximum security, consumers should opt for a service with end-to-end encryption turned on by default, such as Apple Inc.'s iMessage or the app Signal. Others, such as Telegram and Meta's Messenger, let you turn that feature on -- though many people don't. Some messaging systems don't offer encryption at all. This includes SMS text messages sent through your cellular provider, as well as direct messages sent on TikTok and Twitter.</p><p>Also, keep in mind that while going the most secure route keeps your data shielded from middlemen, it doesn't guarantee 100% privacy, because encryption doesn't determine who sees a message once it reaches its recipient. Some services offer self-destructing messages and tell you if your recipient took a screenshot, but even with these guardrails, you'd never know if someone took a photo of the messages you sent.</p><p>To help sort all this out, here's how the most popular messaging services available on Android and iOS handle encryption.</p><p>Signal</p><p>End-to-end encrypted? Yes, by default, across Signal's mobile and desktop apps.</p><p>Security experts widely consider Signal to be the gold standard for private messaging. Users can set messages that automatically disappear from the sender's and receiver's phones in as little as 30 seconds or as long as a month. To access these settings, go to each contact in the app, then tap Disappearing Messages to choose how long you want messages to last. You can also set group chats to disappear.</p><p>Limitations: Signal requires users to provide a phone number at sign-up, and you have to give people your phone number to chat with them. It also offers fewer social-media features than iMessage and WhatsApp, which are both used by more people. And there's no way to access the service through a web browser. Browser access is convenient for users, providing a way to read and respond to messages on multiple devices without needing to download an app.</p><p>Also, the Signal app can't detect when someone takes a screenshot of a message.</p><p>Apple Messages app and iMessage service</p><p>End-to-end encrypted? Yes, when you're inside Apple's walled garden. If your messages appear blue, they are part of iMessage and are end-to-end encrypted. Apple says it can't decrypt your conversation. Using the Messages app, your chats can remain end-to-end encrypted across multiple Apple devices -- including in group chats with other Apple-device users.</p><p>Limitations: If you're using Apple's Messages app but the recipient doesn't have an iPhone, your messages won't be encrypted. That's when your messages appear green, which means you're doing standard SMS texting outside of the iMessage service. Wireless carriers could intercept and see these messages.</p><p>Encrypted iMessage chats can be backed up to Apple's iCloud, but Apple says it may give your iCloud content to the authorities in response to a search warrant. You can disable iCloud backups or back up your smartphone directly to a computer using encryption.</p><p>The Messages app doesn't tell users if someone takes a screenshot of a chat.</p><p>WhatsApp</p><p>End-to-end encrypted? Yes, by default, across the Meta-owned service's smartphone and desktop apps.</p><p>The app uses Signal's encryption protocol to keep itself and any snoopers from accessing users' messages. Users can also enable disappearing chats, including group chats, making messages go away after 24 hours, seven days or 90 days. Users also can unsend messages before and after they've been viewed by pressing down on the text, tapping the trash-can icon and tapping Delete for Everyone.</p><p>Limitations: As with Signal, you can't message people on WhatsApp without giving them your phone number. And users aren't notified if someone takes a screenshot.</p><p>Messenger and Instagram DMs</p><p>End-to-end encrypted? Not by default. You must turn the feature on.</p><p>There are two ways to enable end-to-end encryption on Meta's Messenger. Users can swipe up on an existing chat to enter Vanish Mode. The chat's messages will be encrypted and will disappear for both parties once the app is closed. Users can also launch a \"secret conversation\" by starting a new message and tapping the padlock icon at the top of the screen. To start an encrypted group chat, tap the padlock button, then create a group.</p><p>Messenger will notify a user if someone takes a screenshot of a disappearing message. You can also unsend messages before and after they're viewed.</p><p>Instagram's direct messages also have a Vanish Mode if you slide up on a chat. You also can tap and hold a DM on Instagram to unsend it, even after the recipient has viewed it.</p><p>Limitations: Encrypted messages are stored in a separate part of the app, which means that when you go to send a new message to someone you can't simply scroll up to see old messages between the two of you. Also, you can't access encrypted conversations on Facebook's desktop website. And you can't start end-to-end encrypted chats with people you haven't messaged before, so you have to send an innocuous message and receive a response before you send anything encrypted.</p><p>Meta lets you message from one of its platforms to people on another (e.g., from Instagram to Facebook). But you can't send encrypted messages from one of the apps to the other.</p><p>Telegram</p><p>End-to-end encrypted? Not by default, but it does always encrypt in transit.</p><p>If you want end-to-end encryption, turn on the Secret Chat feature. Tap a contact's username, then More &gt; Start Secret Chat.</p><p>Limitations: Telegram requires your phone number to sign up. Secret Chat doesn't work with group messages. Also, Telegram's cloud setup, which allows messages to sync across desktop and smartphone apps, doesn't work with end-to-end encrypted chats.</p><p>Telegram will alert users if a screenshot of a message is taken with an iPhone, but it says such detection on Android phones is more challenging and you might not be notified.</p><p>---</p><p>Mr. Brown is a Wall Street Journal reporter in New York. He can be reached at dalvin.brown@wsj.com.</p>",
+  "published": "2022-06-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2459,
+          "end": 2469
+        },
+        {
+          "start": 4433,
+          "end": 4438
+        },
+        {
+          "start": 5113,
+          "end": 5118
+        },
+        {
+          "start": 4347,
+          "end": 4352
+        },
+        {
+          "start": 5093,
+          "end": 5098
+        },
+        {
+          "start": 4774,
+          "end": 4779
+        },
+        {
+          "start": 4672,
+          "end": 4677
+        },
+        {
+          "start": 2459,
+          "end": 2468
+        },
+        {
+          "start": 4542,
+          "end": 4547
+        },
+        {
+          "start": 2459,
+          "end": 2464
+        },
+        {
+          "start": 4725,
+          "end": 4730
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

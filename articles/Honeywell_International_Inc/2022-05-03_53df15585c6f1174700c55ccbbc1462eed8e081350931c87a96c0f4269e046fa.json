@@ -1,0 +1,40 @@
+{
+  "_id": "53df15585c6f1174700c55ccbbc1462eed8e081350931c87a96c0f4269e046fa",
+  "feed": "wall-street-journal",
+  "title": "Smart Office Buildings Can Help Sniff Out Viruses but Are Vulnerable to Hacks; These buildings promise healthier, happier workplaces. Experts point to privacy and cybersecurity concerns.",
+  "text": "<p>The headquarters, completed in 2021, is at the forefront of a quiet revolution sweeping through commercial buildings across the U.S. Office towers increasingly resemble multistory computers. They are full of sensors—Honeywell's office has more than 300 per floor—with elevators and doors connected to the internet, and all overseen by a single software from a laptop or smartphone.</p><p>Smart buildings promise to cut carbon emissions and lead to healthier, happier workplaces. But they also raise privacy and cybersecurity concerns. Building owners often lack technological expertise, making them vulnerable to attacks.</p><p>\"It's the soft underbelly of our infrastructure,\" said Tom Shircliff, principal of the real-estate consulting firm Intelligent Buildings LLC.</p><p>Commercial buildings have used software to control some mechanical and electrical systems since the 1980s, but for decades the sector saw little innovation, said Arie Barendrecht, chief executive of WiredScore, which runs a certification system for smart buildings.</p><p>That started to change in the 2010s. The rise of cloud computing and internet-connected systems such as smart doors, smart lighting and facial-recognition cameras mean commercial developers and landlords now have more gadgets than ever at their disposal.</p><p>Smart-building-related companies last year raised a record $2.88 billion in venture capital, according to data firm CB Insights.</p><p>The rising popularity of remote work means office owners looking to fill their buildings are now competing with people's homes, which are increasingly full of gadgets such as smart speakers and smart doors. That creates pressure to invest in technology.</p><p>Honeywell began designing its Charlotte headquarters in 2019. Much of the building's tech is focused on energy savings and convenience. Facial-recognition cameras and smart elevators mean workers can get from their car in the garage to their desk without touching anything. Arriving packages are stored in a small locker that can be opened with a personal QR code.</p><p>When the pandemic broke out, the company started to think more about air quality, adding sensors that can track particles, said Manish Sharma, vice president and general manager of sustainable buildings at Honeywell. Honeywell said it spent around $10 million on smart-building technologies at the property.</p><p>Paul Dougherty, president of real-estate investment firm PRP LLC, believes investments like this pay off because they make buildings greener, cheaper to run and more appealing to tenants, which in turn makes them more valuable. In December, PRP paid $275 million for the Honeywell building, one of the highest prices a square foot ever paid for a Charlotte office building.</p><p>Many landlords pay little attention to digital security at their buildings, cybersecurity consultants say. Because most systems in a smart building are connected to each other, getting access to a single internet-connected door can potentially give criminals control over an entire skyscraper. They can lock doors and elevators until ransom is paid, or use weak spots to steal massive troves of data.</p><p>In 2013, hackers managed to break into Target Corp.'s systems and stole data on tens of millions of customers. The entry point was an HVAC contractor.</p><p>\"The bad guys only need to find one way in and whatever you've connected to is now on the table,\" said Dave Tyson, president of cybersecurity company Apollo Information Systems Corp.</p><p>It is hard to gauge how many smart buildings have been successfully targeted, but the federal government is increasingly aware of the dangers. In 2017, then-Secretary of Defense Jim Mattis met with Lucian Niemeyer, assistant secretary of defense, to discuss the threat of hostile governments targeting smart infrastructure and buildings, Mr. Niemeyer said.</p><p>\"He made it clear that he was concerned it was creating a national security risk,\" Mr. Niemeyer recalled.</p><p>The following year, Mr. Niemeyer launched a working group with smart-building-tech professionals and producers of control systems to figure out how to protect buildings from attacks.</p><p>\"I was having a hard time talking to mission owners saying, hey, you need to put some money into the security of your buildings. They just didn't want to do it,\" said Mr. Niemeyer, now CEO of Building Cyber Security, a nonprofit that seeks to promote smart-building safety.</p><p>Mr. Niemeyer worries that as protections around mobile phones and databases become stronger, more criminals will turn to smart buildings as an easier target. \"You're going to see that threat move,\" he said.</p><p>Honeywell says it works hard to design its building system in a way that prevents cyberattacks. It pays an \"ethical hacker\" to try to break into the property's systems and spot potential vulnerabilities. And in case an attack does succeed, a warning system is set up to alert the company.</p><p>And in a nod to privacy concerns, Honeywell's Mr. Sharma said sensors and facial-recognition cameras don't allow the company to pull data on where a specific employee is at any given time.</p><p>Write to Konrad Putzier at konrad.putzier@wsj.com</p><p>Smart Office Buildings Can Help Sniff Out Viruses but Are Vulnerable to Hacks</p>",
+  "published": "2022-05-03T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4385161066",
+      "nexusId": "10040831",
+      "name": "Honeywell International Inc.",
+      "offsets": [
+        {
+          "start": 4894,
+          "end": 4903
+        },
+        {
+          "start": 2233,
+          "end": 2242
+        },
+        {
+          "start": 2244,
+          "end": 2253
+        },
+        {
+          "start": 4571,
+          "end": 4580
+        },
+        {
+          "start": 1662,
+          "end": 1671
+        },
+        {
+          "start": 2606,
+          "end": 2615
+        }
+      ]
+    }
+  ]
+}

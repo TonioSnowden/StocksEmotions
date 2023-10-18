@@ -1,0 +1,30 @@
+{
+  "_id": "683733cb03741a7aff0872bb3ff803b77d75cf3af04af14d1dd0ed0d504305c2",
+  "feed": "market-watch",
+  "title": "Market analysts can't agree on where stocks are going next. So double-check the data before you buy or sell",
+  "text": "<p>Viral TikTok accuses Zillow and competitors of manipulating the housing market. Here's what's really going on.</p><p>No, Zillow isn't buying all the homes in your neighborhood. But the rise of so-called iBuyers does raise regulatory questions. See full story.</p><p>When the stock market pulls back, keep buying — especially these five companies</p><p>Sentiment has gotten too bearish. Consider shares of Microsoft , ConocoPhillips and Yum China . See full story.</p><p>‘I'm no hedonist' but I want to build our next home for retirement, my wife says no. We've saved $3 million. What should I do?</p><p>Have a question about your own retirement savings? Email us at HelpMeRetire@marketwatch.com See full story.</p><p>Why Costco is rationing toilet paper and paper towels again, and what it says about supply chains everywhere</p><p>Supply chain issues are also hitting the warehouse retailer, with furniture and computers impacted See full story.</p><p>MARKETWATCH PERSONAL FINANCE </p><p>The Ways and Means Committee's proposed tax law changes zero in on how the super-rich use self-directed individual retirement accounts (IRAs). See full story.</p>",
+  "published": "2021-09-25T12:00:05.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99999875,
+      "offsets": [
+        {
+          "start": 387,
+          "end": 396
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0408643,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.04086435,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

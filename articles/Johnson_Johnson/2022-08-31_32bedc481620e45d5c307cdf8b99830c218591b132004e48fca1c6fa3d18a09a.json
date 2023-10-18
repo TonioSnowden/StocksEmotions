@@ -1,0 +1,38 @@
+{
+  "_id": "32bedc481620e45d5c307cdf8b99830c218591b132004e48fca1c6fa3d18a09a",
+  "feed": "wall-street-journal",
+  "title": "What to Know About Covid-19 Booster Shots Targeting Omicron; Shots could become available within days if the CDC greenlights them",
+  "text": "<p>The new shots are being rolled out to bolster people's protection against the Omicron subvariants BA.4 and BA.5, which appear to evade some of the protection provided by the original vaccines. \"At some point, the virus is divergent enough from the strain for which the vaccine was designed that you need to consider a modified design,\" said Sten Vermund, professor of public health and pediatrics at Yale School of Public Health.</p><p>Shots could become available within days if the Centers for Disease Control and Prevention endorses the FDA's recommendation. </p><p>New booster shots targeting Omicron subvariants of the coronavirus are authorized for some who have received their first series of Covid-19 vaccination. PHOTO: Amir Hamja for The Wall Street Journal</p><p>Here is what we know about the new booster shots:</p><p>What boosters are available?</p><p>The FDA authorized two modified booster shots: one from Moderna and the other from Pfizer and its partner BioNTech. Both use messenger RNA, or mRNA, the gene-based technology used in their original Covid-19 vaccines.</p><p>How are the new boosters different from the old ones?</p><p>The new booster shots have two main targets, making them \"bivalent\" vaccines, whereas the original vaccines and boosters had one target. One of the targets in the new booster shots is the original coronavirus strain that was predominant in 2020—the same strain targeted by the original vaccines and boosters.</p><p>The second target is a component of the Omicron subvariants BA.4 and BA.5. These subvariants share an identical \"spike\" protein that has a different genetic makeup than the spike protein in the original virus.</p><p>The new booster shots contain genetic instructions for human cells to produce copies of the BA.4 and BA.5 spike protein, which in turn sets off an immune response that may have stronger neutralizing activity against these subvariants than the original vaccines. </p><p>New boosters have two targets, a component of the Omicron subvariants BA.4 and BA.5 and the original coronavirus strain targeted by vaccines from Moderna, Johnson &amp; Johnson, and Pfizer-BioNTech. PHOTO: Landon Speers for The Wall Street Journal</p><p>How do we know if they are safe and effective?</p><p>The FDA is basing its authorization on testing of the modified boosters in mice, the real-world safety and effectiveness of the original vaccines, and the performance in human studies of earlier iterations of booster shots targeting the original Omicron strain. The FDA doesn't have the results of human studies of the modified boosters recently started by Moderna and Pfizer.</p><p>\"There's really no evidence yet of what these BA.5 shots do in terms of clinical efficacy,\" said Robert Wachter, professor of medicine at University of California, San Francisco. \"My guess is they will lead to somewhat higher levels of antibodies against BA.5 but at least in the preliminary studies it wasn't night and day, it wasn't off the charts better than the current booster.\"</p><p>In contrast, the FDA authorized the original Covid-19 vaccines in late 2020 after their safety and effectiveness were tested in studies of tens of thousands of people. Health officials say authorizing the new boosters without large new clinical trials is similar to the approval process for annual updates to seasonal flu shots. </p><p>The FDA authorized the original Covid-19 vaccines in late 2020 after their safety and effectiveness were tested in studies of tens of thousands of people. PHOTO: Amir Hamja for The Wall Street Journal</p><p>Should I get a booster this fall?</p><p>The FDA says all adults 18 and older who previously received at least a primary vaccination (two doses of an mRNA or protein vaccine, or one dose of Johnson &amp; Johnson's vaccine) may receive a modified booster shot from either Moderna or Pfizer/BioNTech at least two months after primary or booster vaccination. Previously vaccinated adolescents 12 and older may receive a Pfizer/BioNTech booster shot.</p><p>A vaccine committee advising the Centers for Disease Control and Prevention is scheduled to meet Thursday to make a formal recommendation for use of the new boosters.</p><p>Where can I get a booster shot?</p><p>The new booster shots are expected to be available at pharmacies, hospitals, doctors' offices and other sites that have also administered Covid-19 vaccines.</p><p>What if I have already had a primary vaccination and at least one booster?</p><p>Experts say you should still get the new booster shot if you are eligible and it has been at least two months since your last shot. \"Now their immunity can be enhanced by specific immunity to emerging circulating variants,\" Dr. Vermund said. \"So it can only do them good.\"</p><p>When should I get a booster shot if I recently got Covid-19?</p><p>The CDC has previously said that people with known current infections should defer vaccination, including the original booster shots, until recovery from the infection. The CDC also has said people who recently had Covid-19 may consider delaying a Covid-19 shot by three months.</p><p>Studies have shown that increased time between infection and vaccination may improve the immune response to vaccination, the CDC said. The agency hasn't yet specified whether these guidelines apply to the new, modified boosters. Dr. Vermund said he recommends people wait at least a month after infection before getting a booster.</p><p>—Liz Essley Whyte contributed to this article.</p><p>This article may be updated .</p><p>What to Know About Covid-19 Booster Shots Targeting Omicron</p>",
+  "published": "2022-08-31T14:19:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2028,
+          "end": 2045
+        },
+        {
+          "start": 3628,
+          "end": 3645
+        },
+        {
+          "start": 2041,
+          "end": 2058
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.85,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

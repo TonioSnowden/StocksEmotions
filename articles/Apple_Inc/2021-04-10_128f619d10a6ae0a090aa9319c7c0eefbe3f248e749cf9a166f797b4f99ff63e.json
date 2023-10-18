@@ -1,0 +1,20 @@
+{
+  "_id": "128f619d10a6ae0a090aa9319c7c0eefbe3f248e749cf9a166f797b4f99ff63e",
+  "feed": "economist-newspaper",
+  "title": "The Green Apple",
+  "text": "<p>This content has been removed</p>",
+  "published": "2021-04-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 10,
+          "end": 15
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

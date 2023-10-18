@@ -1,0 +1,38 @@
+{
+  "_id": "b0442ee0e4848339e7f2871a5a1d65c89d3c4f980c73c7cfb63f6ff636c9e916",
+  "feed": "market-watch",
+  "title": "Chinese restaurant operators slip as COVID-19 cases climb",
+  "text": "<p>China reported a steep rise in Covid-19 infections in the past week, with new cases in recent days numbering in the hundreds and the capital of Shaanxi province going under lockdown.</p><p>\"New rounds of Covid testing in Shanghai have increased fears of further lockdowns for China, which would have a ripple effect on other markets,\" ANZ analysts said in a research note.</p><p>Goldman Sachs  late last month cut its 2022-23 earnings forecasts for Yum China  and Haidilao to reflect a more conservative outlook on same-store-sales recovery and store expansion in the second half.</p><p>Fitch Ratings  said in a research note last month that it expects dining restrictions and sporadic lockdowns throughout China to weigh on the recovery in dining demand over the coming six to 12 months.</p><p>\"The sudden and prolonged Covid-19 control measures so far this year have been more severe than our earlier expectations and the initial pandemic impact in 2020,\" Fitch  said.</p><p>Write to Justina Lee at justina.lee@wsj.com</p><p> Chinese restaurant operators slip as COVID-19 cases climb</p>",
+  "published": "2022-07-06T05:24:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 367,
+          "end": 380
+        },
+        {
+          "start": 367,
+          "end": 374
+        },
+        {
+          "start": 365,
+          "end": 378
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0506654,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.05066538,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

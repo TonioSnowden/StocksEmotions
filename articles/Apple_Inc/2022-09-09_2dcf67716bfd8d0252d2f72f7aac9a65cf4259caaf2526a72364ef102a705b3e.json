@@ -1,0 +1,34 @@
+{
+  "_id": "2dcf67716bfd8d0252d2f72f7aac9a65cf4259caaf2526a72364ef102a705b3e",
+  "feed": "wall-street-journal",
+  "title": "Business News: Video Site Rumble Hires Glenn Greenwald",
+  "text": "<p>Toronto-based Rumble, which started nearly a decade ago as a place to share lighthearted videos, has grown in popularity among right-leaning users in recent years. It is among the tech platforms seeking to build an alternative ecosystem as Apple Inc. and Alphabet Inc.'s Google sidelined Parler, a free-speech-focused social-media network favored by conservatives, in the wake of the Jan. 6, 2021, attack on the Capitol. Parler has since been reinstated on both app stores.</p><p>Rumble's move toward live news programming comes as it plans to go public through a merger with special-purpose acquisition company CF Acquisition VI.</p><p>As part of the SPAC deal, Rumble is expected to raise approximately $400 million, according to a securities filing. A large portion of those funds will be used to sign content creators, the people familiar with the matter said.</p><p>Rumble's revenue last year was $9.5 million, twice that of 2020. Advertising makes up a large portion.</p><p>Mr. Greenwald said he has been working for Rumble for the past year, creating a small number of videos every month as part of a deal to post content that remains exclusive to the platform for a short period.</p><p>Mr. Greenwald said that as part of his new deal, he will host and produce a live hourlong news show Monday through Friday at 7 p.m. ET. The show will start with a 20-minute monologue and be followed by a one-on-one interview or discussion, he said.</p><p>\"What will be different is the content and how we discuss it,\" Mr. Greenwald said in a statement.</p><p>Mr. Greenwald, a co-founder of the Intercept, is known for being the first to report on many of the documents leaked by former National Security Agency employee Edward Snowden, which revealed previously unknown surveillance activities in 2013.</p><p>Last year, Rumble received a sizable investment led by Narya Capital, a Cincinnati-based venture-capital fund co-founded by \"Hillbilly Elegy\" author J.D. Vance and Colin Greenspon. Mr. Vance is the Republican nominee for a Senate seat in Ohio in this November's election.</p><p>Peter Thiel, who is also a Narya investor, invested in Rumble in a personal capacity.</p>",
+  "published": "2022-09-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 239,
+          "end": 248
+        },
+        {
+          "start": 240,
+          "end": 250
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.1678767,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.16787684,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

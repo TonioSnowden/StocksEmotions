@@ -1,0 +1,32 @@
+{
+  "_id": "d05d4c8228a802d968770d0fd446389e4e03720a681bc5ef457ed598df593542",
+  "feed": "wall-street-journal",
+  "title": "Financial Firms Seek Edge in Algorithms Inspired by Quantum Computing; Some firms are running algorithms used for quantum computers on advanced machines for risk analysis and portfolio optimization",
+  "text": "<p>Quantum-inspired technology is a broad term that relates to using certain algorithms that typically run on quantum computers on fast-processing classical computers instead. These types of algorithms are well suited to solving optimization problems, which are common in the financial-services sector and include things like risk analysis and derivative pricing, according to Carl Dukatz, quantum program lead at Accenture PLC.</p><p>Interest in quantum-inspired technology has grown as executives hear about developments in true quantum computing, analysts said. Firms including HSBC Holdings PLC, Ally Financial Inc. and Spanish multinational bank BBVA are looking to quantum-inspired technology for near-term advantages.</p><p>Applications of quantum-inspired optimization problems can yield solutions anywhere from 1% to 10% more accurate than existing approaches and can come to solutions anywhere from two to three times as fast, according to Troels Steenstrup, technology head of KPMG's Global Quantum Hub.</p><p>According to Will Zeng, head of quantum research at Goldman Sachs Group Inc., it makes sense that demand from financial services is so high because the industry has well-specified mathematical problems, in which incremental improvements in computing can make huge differences to the bottom line.</p><p>\"There's definitely big, valuable problems that have a theoretical quantum advantage,\" Dr. Zeng said.</p><p>Still, quantum computers today are far from ready for large-scale commercial operation. Qubits, the quantum version of a computer bit, are delicate, easily disrupted by changes in temperature, noise or frequency. The number of qubits running in today's quantum machines remains relatively small, meaning experiments are currently limited to a narrow swath of information.</p><p>When Google announced plans last year to create a commercial-grade quantum computer by 2029, it said it was aiming for a 1-million-qubit machine, while its systems at the time had less than 100 qubits.</p><p>\"The main focus in the near term is really on the quantum-inspired type activity,\" said Steve Suarez, HSBC global head of innovation, global functions. The London-based bank initiated an official quantum program in August 2021.</p><p>Currently, the applications the bank is exploring involve portfolio optimization and pricing, said Philip Intallura, HSBC global business lead for quantum computing.</p><p>\"The inspired technologies lend themselves quite well to that,\" Dr. Intallura said.</p><p>Transforming these processes into quantum-inspired solutions first involves rewriting the traditional algorithm as an algorithm that typically runs on quantum machines, according to KPMG's Dr. Steenstrup.</p><p>Companies often do optimization problems using linear equations. In one mode of quantum-inspired, those linear equations are rewritten as quadratic equations, in which multiple variables can be multiplied by each other. That is one of a handful of differences between the initial equation and the quantum-inspired process, Dr. Steenstrup said.</p><p>After the algorithm is rewritten, it is a question of testing it on certain types of classical machines to determine whether the new algorithm works faster and more effectively than the traditional ones.</p><p>Ally Financial started its work in this area during late 2021. Chief Information, Data and Digital Officer Sathish Muthukrishnan said the company has built some quantum-inspired algorithms and is in the process of testing them. He said that currently the work is focused on areas like pricing, portfolio optimization and other business use cases.</p><p>Mr. Muthukrishnan said that he hasn't yet found a quantum-inspired solution that functions so much better than a traditional equation that he has to rush to implement it.</p><p>\"I also want to make sure that I go to market with the most impactful quantum-inspired algorithm I can,\" he added.</p><p>Testing these solutions is also a priority for Escolástico Sánchez, quantum discipline leader at BBVA. Dr. Sánchez said he has been working on proof of concept for several solutions in this area, including an algorithm designed to help with portfolio management.</p><p>Running the algorithm on past data sets has shown promising results, Dr. Sánchez said, although the bank needs to do more work to ensure the solution will work on present and future data sets before it creates a plan to implement.</p><p>In terms of true quantum, Dr. Sánchez said, \"sooner or later, I think that this hardware is going to be valuable and robust enough to resolve some problems better than classical [computers].\"</p><p>Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com</p><p>Financial Firms Seek Edge in Algorithms Inspired by Quantum Computing</p>",
+  "published": "2022-06-10T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1052,
+          "end": 1075
+        },
+        {
+          "start": 1052,
+          "end": 1076
+        },
+        {
+          "start": 1052,
+          "end": 1065
+        },
+        {
+          "start": 1052,
+          "end": 1059
+        }
+      ]
+    }
+  ]
+}

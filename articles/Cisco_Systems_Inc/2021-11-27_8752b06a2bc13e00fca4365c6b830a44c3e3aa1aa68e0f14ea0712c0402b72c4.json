@@ -1,0 +1,20 @@
+{
+  "_id": "8752b06a2bc13e00fca4365c6b830a44c3e3aa1aa68e0f14ea0712c0402b72c4",
+  "feed": "economist-newspaper",
+  "title": "Israel and NSO Group: Hacked off",
+  "text": "<p>But not everyone is enjoying the good times. On November 23rd Apple, a big smartphone-maker, announced that it would be suing NSO Group, an Israeli firm founded in 2010 and a one-time member of the unicorn club, accusing it of \"weaponising powerful state-sponsored spyware\" against its customers. It was the latest blow in an awful year for a firm which, despite the clandestine nature of its business, has become one of Israel's best-known--and most controversial--companies.</p><p>Whereas most cyber-security firms focus on defence, NSO Group sells hacking software to governments. Its best-known product, Pegasus, is designed to gain undetected access to smartphones. Targets can have their messages read, their locations tracked and microphones and cameras activated clandestinely.</p><p>NSO Group has said that it exports its software only to trusted governments. It says it has saved \"thousands of lives\" and is used to combat \"terrorists and paedophiles\". Yet a list of 50,000 phone numbers considered for targeting, which leaked earlier this year, included those of Emmanuel Macron, France's president; Roula Khalaf, the editor of the Financial Times; and hundreds of politicians, journalists and campaigners in dozens of countries, such as India, Mexico and Hungary.</p><p>Apple is not the only company pursuing NSO Group through the courts. Its list of opponents reads like a \"who's who\" of Silicon Valley firms. Last year Microsoft, Google, VMWare and Cisco filed briefs in support of another lawsuit brought in 2019 by WhatsApp, a secure-messaging service owned by Meta, the parent company of Facebook. On November 8th an American court said that lawsuit could go ahead, ruling that NSO Group was not covered by the immunity to civil lawsuits enjoyed by national governments.</p><p>Israel's government has, until recently, backed the firm, using its capabilities as a way to boost ties with allies. After the leak of the target list, the government put out a determinedly dull statement assuring readers that export licences complied with international law. (In private some Israeli exporters ridiculed the outrage the leaks provoked.) The firm's notoriety served as a sort of backhanded compliment to the technical abilities of Israel's broader technology industry.</p><p>But official support may be cooling as foreign governments join the chorus of displeasure, says John Scott-Railton of Citizen Lab, which is part of the University of Toronto and has done much of the technical-analysis work on Pegasus. On November 3rd America added NSO Group to the same sanctions list to which it has banished Huawei, a big Chinese telecoms firm, barring the use of American technology in NSO Group's products. After Mr Macron's name appeared on the leaked list, Israeli officials jumped on planes to Paris to try to smooth things over.</p><p>The bad publicity seems to have been bad for business. On November 22nd Moody's, a credit-rating agency, downgraded NSO Group's debt to CAA2, one of the lowest grades available, and warned that it might default on $500m of loans. \"NSO was seen as a win-win for both investors and Israel's government so long as it wasn't getting too much attention,\" says Mr Scott-Railton. \"But these days it looks like an investment that's blowing up in everyone's face.\"</p>",
+  "published": "2021-11-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 1445,
+          "end": 1450
+        }
+      ],
+      "nexusId": "10013206"
+    }
+  ]
+}

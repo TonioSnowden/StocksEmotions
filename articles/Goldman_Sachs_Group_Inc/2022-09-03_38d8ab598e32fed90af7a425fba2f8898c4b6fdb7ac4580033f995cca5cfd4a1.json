@@ -1,0 +1,38 @@
+{
+  "_id": "38d8ab598e32fed90af7a425fba2f8898c4b6fdb7ac4580033f995cca5cfd4a1",
+  "feed": "economist-newspaper",
+  "title": "China-US relations: Financial recoupling",
+  "text": "<p>Since 2011 the Public Company Accounting Oversight Board (PCAOB), an auditing governance body, has demanded that accounting firms auditing New York-listed Chinese companies open the companies' books for inspection. These reviews were made all the more urgent by repeated instances of fraud by Chinese firms. Yet the Chinese government had pushed back, at times declaring such paperwork \"state secrets\" and threatening criminal charges against anyone who reveals them.</p><p>A law passed in America in 2020, the Holding Foreign Companies Accountable Act, gave auditors three years to comply before their Chinese clients were forcibly delisted. When in March the Securities and Exchange Commission, America's market watchdog, published a list of firms slated for delisting, it caused the sharpest fall in American-traded Chinese stocks in more than a decade. In mid-August fears of impending financial turmoil grew when five Chinese state-owned companies voluntarily delisted from American exchanges.</p><p>For their part, regulators in Beijing had sent a cold message to investors in America. A crackdown on Didi Global, a Chinese ride-hailing firm, just days after it listed in New York implied that the Chinese government cared little about the reputation of companies listed on foreign markets.</p><p>All this means the deal between the PCAOB and the China Securities Regulatory Commission (CSRC) comes as a welcome surprise. It seems to show that leaders in Beijing still see some value in financial links with America--defying predictions of an imminent financial decoupling between the world's two largest economies.</p><p>Signing the deal may have been the easy part, however. Lawyers working on cross-border regulatory arrangements note that carrying it out will be fraught with risks. The statements released by the PCAOB and the CSRC are contradictory in places. The Americans note that they will not need to go through Chinese authorities to access documents. There can be \"no loopholes and no exceptions\", their statement says. The Chinese say all arrangements will be done through the CSRC. A single disagreement on access could end up derailing the entire deal.</p><p>Given the Chinese government's sensitivity around data, the inspections could be awkward. The PCAOB can examine documents not just from the current year, but from a few years back. While the most recent audit documents may have been prepared without the data disclosures that China considers a national-security risk, documents requested from previous years may still contain sensitive information, notes Travis Lundy of Smartkarma, a research firm.</p><p>That might help explain why, even though the deal has been signed, the market is so far pricing in only a 50% chance of eventual success, according to analysts at Goldman Sachs, a bank. Agreements between China and America have a poor record when it comes to implementation. Analysts at Bernstein, a broker, reminded investors of another high-profile pact meant to patch up relations: \"Remember the Trump phase one trade deal?\" That agreement failed miserably.</p>",
+  "published": "2022-09-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2764,
+          "end": 2777
+        },
+        {
+          "start": 2764,
+          "end": 2771
+        },
+        {
+          "start": 2744,
+          "end": 2757
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

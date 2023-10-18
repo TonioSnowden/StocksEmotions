@@ -1,0 +1,40 @@
+{
+  "_id": "85f98333692325bbd68e8b1766c17684adec3eae40085e8d6cda111bc8339843",
+  "feed": "wall-street-journal",
+  "title": "Apple Adds More At-Home Features",
+  "text": "<p>Many changes, available by way of a free software update in the fall, ought to add functionality to aging devices. Some are reserved for the newest Apple products. Here's a breakdown of the most interesting announcements.</p><p>Chat and Productivity</p><p>FaceTime, Apple's video chat app, is getting features popular in competitors: blurred backgrounds, grid view for group calls, background noise reduction, screen sharing and meeting links. The new functionality is available on iOS and Mac devices. And, for the first time, Android and Windows users can join a FaceTime call via a Chrome or Edge web browser.</p><p>When there are several people on screen, the audio will sound like it is coming from the direction of the person speaking. That feature -- along with the Portrait Mode blurred background -- is available on iOS devices with A12 Bionic chips or newer, and 2018 Macs or newer.</p><p>In addition to sharing what's on your screen in FaceTime, you can watch a video or listen to audio together. For now, supported apps include Disney+, TikTok and Hulu. Notably missing: Netflix.</p><p>Content shared in Messages will now show up in relevant apps. For example, if someone texts you photos, they'll be grouped in a new \"Shared With You\" tab in your Photos app. But images the app detects as memes or screenshots will be left out.</p><p>For those with an iPad and Mac, you can use your Mac's mouse, trackpad and keyboard to control what is on your iPad, and drag and drop files between them.</p><p>Safari gets a feature that might convert you from Chrome or another browser: Tab groups let you store clusters of related websites.</p><p>The most productivity-boosting feature may involve extending your Mac's battery life. \"Low power mode,\" found in iPhones, will be available in MacOS Monterey.</p><p>Focus and Mindfulness</p><p>The Away message is back, in the Messages app. When you turn on Do Not Disturb, Messages contacts will be able to see you have gone dark in their conversations with you.</p><p>Notifications are getting smarter. You will be able to set up different focus modes, such as \"Personal\" or \"Work,\" which allow notifications from specific sets of apps and people for a custom duration (or even location). When you turn on a focus mode on one device, it will apply to all your other compatible Apple devices. In theory, it is designed to limit distractions -- but it will likely take some tinkering to ensure that urgent calls from VIPs still come through.</p><p>AirPod Pro Improvements</p><p>My personal favorite announcement from today? Find My AirPods is finally useful -- as long as you have Apple's pricier buds. If you have AirPods Pro or Max, you can soon ping your earbuds -- even if they are closed in their case. (Previously, this only worked if the buds were out of their case.) A new separation alert will send you a notification if you leave the 'Pods behind in an unfamiliar location.</p><p>More Privacy Protections</p><p>Built-in privacy features have long been a part of Apple devices. But for the first time, the company is including new privacy capabilities as part of its paid iCloud storage plans -- now called iCloud+. Private Relay will act like a virtual private network, or VPN, by encrypting all your website traffic. The user is assigned an anonymous IP address and the address of the destination website is encrypted.</p><p>The company also announced features that don't require a subscription. Your driver's license can be encrypted and stored in the Wallet app. The TSA is even working on using the digital IDs for security screening. However, it will initially only be available for license holders in select U.S. states.</p>",
+  "published": "2021-06-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2927,
+          "end": 2932
+        },
+        {
+          "start": 254,
+          "end": 259
+        },
+        {
+          "start": 2258,
+          "end": 2263
+        },
+        {
+          "start": 148,
+          "end": 153
+        },
+        {
+          "start": 2548,
+          "end": 2553
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

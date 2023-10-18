@@ -1,0 +1,37 @@
+{
+  "_id": "d4c767ae3732cb542d081627173624c8f7172c3b97c06385e1b1d687f5d1bc83",
+  "feed": "reuters",
+  "title": "Aerospace suppliers flag cash flow warning as jet production hits turbulence",
+  "text": "<p>Boeing -supplier Spirit AeroSystems Holdings Inc said earlier this month a \"challenging environment\" is \"putting a lot of pressure on our ability to generate cash\".</p><p>\"We've got to carry extra inventory buffers because of supply chain,\" Spirit 's finance chief, Mark Suchinski , had said.</p><p>Global supply chains have been roiled by disruptions and rising inflation in the wake of the pandemic, deepening risks for manufacturers depending on a fragmented network of parts makers.</p><p>The aerospace industry hasn't traditionally carried higher inventory levels, instead relying on a just-in-time model to reduce costs, but the COVID-19 pandemic has upended that strategy by hobbling the shipment of parts in a supply chain that is spread out globally.</p><p>The war in Ukraine has only amplified the industry's headache, with companies such as French jet engine maker Safran SA stocking up on titanium to offset any supply shortages due to the conflict.</p><p>GRAPHIC: Inventory levels at aerospace suppliers - here </p><p>\"The problem is just-in-time inventory does not work at the current environment, because there are too many uncertainties,\" Morgan Stanley analyst Kristine Tan Liwag said.</p><p>Among those are fluctuating production schedules at planemakers. Boeing , for example, has struggled to stabilize 737 production at 31 jets per month.</p><p>\"Starting in September, cash flows were impacted as Howmet Aerospace carried higher inventory due to customer schedule rebalances, which we expect to persist in the fourth quarter,\" the company said last month.</p><p>Some suppliers are also stocking parts in anticipation of jet output hikes next year as they look to speed up their recovery from one of the worst crises the industry has faced in modern times.</p><p>An inventory build opens up the possibility that companies may struggle in the event of a downturn but aerospace executives maintain demand is strong. Industry observers also note long backlogs at Boeing and Airbus will offer protection.</p><p>\"Our analysis indicates healthy growth in aircraft deliveries even through a severe recession,\" CFRA Research senior equity analyst Colin Scarola said.</p>",
+  "published": "2022-11-18T16:39:55.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 1919,
+          "end": 1925
+        },
+        {
+          "start": 1231,
+          "end": 1237
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.85,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

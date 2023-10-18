@@ -1,0 +1,62 @@
+{
+  "_id": "d1f26c1484da826123112863d3f6d6d29c0ac0f6a7e4db2d842d8793daf82914",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Tries to Reduce Business Expenses by Restricting Spending on Travel and Company Gatherings; Finance chief Amy Hood warns employees to keep an eye on budgets",
+  "text": "<p>At a recent picnic for one Microsoft team, managers paid for their employees' food and drinks instead of billing the company, one of the people said. In the past, the company has typically covered such expenses, the person said.</p><p>A Microsoft spokeswoman pointed to Microsoft Chief Financial Officer Amy Hood's comments after the company's fourth-quarter results last month saying the company will continue to invest in growth \"while maintaining intense focus on operational excellence and execution discipline.\"</p><p>Microsoft has been looking for other ways of controlling costs. It has frozen hiring in some parts of the company and said last month that it plans layoffsof less than 1% of its workforce of about 181,000 employees.</p><p>As part of that effort, Microsoft this week laid off some employees in its Modern Life Experiences group, which helps develop software products for consumers, said a person familiar with the matter.</p><p>Last month, Ms. Hood told employees in a company meeting to keep an eye on expenses and think twice before submitting them, said people familiar with the meeting.</p><p>Companies across the tech sector have been trying to control costs to adapt to high inflation, economic-growth concerns and a slowdown in advertising spending.</p><p>Last week, Oracle Corp. began laying off hundreds of employees and Robinhood Markets Inc. said it was slashing about 23% of its full-time staff. In June, Netflix Inc. said it was laying off about 300 employees, following layoffs of 150 people in the previous month.</p><p>Microsoft reported its slowest growth in sales in nearly two years last quarter, with revenue up 12% at $51.9 billion. The company was hurt by a slowdown in its cloud business, declining videogame sales and the effects of a strong dollar.</p><p>Chief Executive Satya Nadella said on an earnings call that the company wasn't immune to the current economic turmoil, but added \"IT spend is going to increase because every business is trying to fortify itself with digital tech to in some sense navigate this macro environment.\"</p><p>Helped by strong demand for its software and cloud-computing services, Microsoft shares have done relatively well. Its stock has fallen less than 3% over the past 12 months, while the tech-heavy Nasdaq Composite Index slid around 15%.</p><p>Many of the top tech companies that depend more on advertising revenues have done worse. Facebook parent Meta Platforms Inc., for example, is down more than 50% over the same period.</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com and Sarah Krouse at sarah.krouse+1@wsj.com</p><p>Microsoft Tries to Reduce Business Expenses by Restricting Spending on Travel and Company Gatherings</p>",
+  "published": "2022-08-09T18:28:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9999976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 27,
+          "end": 36
+        },
+        {
+          "start": 508,
+          "end": 517
+        },
+        {
+          "start": 511,
+          "end": 520
+        },
+        {
+          "start": 746,
+          "end": 755
+        },
+        {
+          "start": 1504,
+          "end": 1513
+        },
+        {
+          "start": 2091,
+          "end": 2100
+        },
+        {
+          "start": 2105,
+          "end": 2114
+        },
+        {
+          "start": 2541,
+          "end": 2550
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

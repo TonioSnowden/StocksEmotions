@@ -1,0 +1,24 @@
+{
+  "_id": "54f607f0f3437007735f0970d955ee872cb97682fb5304e4c1903c1c3e40b9c6",
+  "feed": "wall-street-journal",
+  "title": "J&J Agrees to Buy Medical-Device Maker Abiomed; All-cash deal would be worth $16.6 billion upfront, including cash on hand",
+  "text": "<p>Abiomed sells the Impella heart pumps for treatment of conditions including a heart attack, heart failure and clogged arteries.</p><p>J&amp;J Agrees to Buy Medical-Device Maker Abiomed</p>",
+  "published": "2022-11-01T11:13:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 128,
+          "end": 131
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_id": "bdbaab43f4fd66899961d76681ae9e703f42d02f063dffa4f65dc7cd71e8e13e",
+  "feed": "wall-street-journal",
+  "title": "Apple's Moves Vex  Digital Advertisers  ----  By Patience Haggin and Suzanne Vranica",
+  "text": "<p>   Digital advertisers are studying new Apple Inc. measures that they fear will limit access to data about users, changes industry participants see as an escalation of the tech giant's crackdown in the name of consumer privacy. </p><p>   Apple's changes, unveiled during its developer conference Monday, threaten to restrict companies' abilities to track users' web behavior and gather information on them from third parties such as data brokers. The announcement comes months after Apple's curbs on in-app tracking roiled the digital-ad industry, and the changes will be part of a new version of Apple's operating system this fall. </p><p>   While the earlier moves affected only apps within Apple's iOS operating system, the latest changes affect a broader array of web traffic on Apple devices, leading advertisers, email marketers, publishers and ad-tech companies to anticipate broader ramifications. </p><p>   Apple's changes mark \"a massive step to increase the walls in the garden by making sure all access to the external world would be proxy by them,\" said Tal Chalozin, chief technology officer of ad-tech company Innovid Inc. </p><p>    Craig Federighi, Apple senior vice president of software engineering, described the moves as shielding users against data-gathering practices that many aren't aware of. \"We believe in protecting your privacy and giving you transparency and control over your information,\" he said at the conference. </p><p>   Apple will by default block users' internet protocol addresses from being transmitted to websites visited in its Safari browser. Many companies collect a user's IP address and combine it with other data to \"fingerprint\" and recognize a user's repeat visits, often to support personalized ads. Apple has banned fingerprinting in Safari for years but left users' IP addresses visible. Blocking those will let Apple better enforce its ban, depriving fingerprinters of a unique data point identifying Safari users. </p><p>   Safari enjoys browser market share of about 19% world-wide, according to a March survey by Statista, making the browser second only to Google's Chrome. </p><p>   \"IP blocking for trackers is a monumental development that is likely the nail in the coffin for user-centric profiling. Without an IP address to latch onto, tracking companies simply won't be able to uniquely identify users in a way that is commercially reliable,\" said Eric Seufert, a digital-marketing strategist and consultant. </p><p>   Industry watchers wonder whether Apple's change could pressure Alphabet Inc.'s Google to take the same step. A Google spokeswoman confirmed the search giant has been considering a similar move to block IP addresses in its Chrome browser. </p><p>   Apple is offering heightened IP blocking through a paid service that will cover the IP addresses on all of a user's devices. A new, premium version of its iCloud storage service, called iCloud+, includes a feature called \"Private Relay,\" which redirects a user's web traffic through multiple servers to obfuscate the user's IP address and prevent fingerprinting. That product, which won't be available in several countries including China, will anonymize internet traffic much as virtual private networks do. </p><p>   The VPN market is expected to reach $31.1 billion in 2021, according to Statista. Corporations often employ VPNs to keep connections direct and private. Consumers often use them to view streaming content that isn't available in their home regions. </p><p>   Users of iCloud who already pay for extra storage or other features on the service will receive iCloud+ at no additional cost, Apple said. </p><p>    Alex Austin, chief executive of mobile ad-measurement firm Branch Metrics Inc., said that \"Private Relay could be vastly more damaging to the advertising ecosystem\" than Apple's curbs on apps earlier this year. He cautioned that some details remain unknown, however. \"If IP were to go away entirely, it would be very challenging for a lot of companies to operate,\" he said. </p><p>   Apple is also cracking down on email tracking. Most marketing emails contain hidden pixels that can identify when a recipient has opened an email. These trackers also collect information including users' IP addresses that can tell marketers when and where their messages were opened. </p><p>   Even with chatbots and social-media influencers on the scene, email has remained a core tool for many companies to communicate with loyal customers, acquire new ones and build brand awareness. Apple's changes could blunt its usefulness, ad executives said, and some voiced surprise that the tech giant extended its data-tracking curbs to users' inboxes. </p><p>   \"It will be a lot tougher for brands to know if their emails are working or not,\" said Nii Ahene, chief strategy officer at digital ad firm Tinuiti Inc., who added that he didn't see the move as addressing a burning privacy issue. \"There are no winners here. The only winner is Apple.\" </p><p></p>",
+  "published": "2021-06-09T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1122,
+          "end": 1127
+        },
+        {
+          "start": 3906,
+          "end": 3911
+        },
+        {
+          "start": 2636,
+          "end": 2641
+        },
+        {
+          "start": 4383,
+          "end": 4388
+        },
+        {
+          "start": 1811,
+          "end": 1816
+        },
+        {
+          "start": 670,
+          "end": 675
+        },
+        {
+          "start": 3702,
+          "end": 3707
+        },
+        {
+          "start": 4822,
+          "end": 4827
+        },
+        {
+          "start": 1404,
+          "end": 1409
+        },
+        {
+          "start": 37,
+          "end": 46
+        },
+        {
+          "start": 470,
+          "end": 475
+        },
+        {
+          "start": 883,
+          "end": 888
+        },
+        {
+          "start": 1697,
+          "end": 1702
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3520,
+          "end": 3525
+        },
+        {
+          "start": 760,
+          "end": 765
+        },
+        {
+          "start": 37,
+          "end": 47
+        },
+        {
+          "start": 2431,
+          "end": 2436
+        },
+        {
+          "start": 584,
+          "end": 589
+        },
+        {
+          "start": 225,
+          "end": 230
+        },
+        {
+          "start": 37,
+          "end": 42
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

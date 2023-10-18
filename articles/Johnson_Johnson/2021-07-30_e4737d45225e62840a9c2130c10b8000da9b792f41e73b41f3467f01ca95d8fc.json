@@ -1,0 +1,28 @@
+{
+  "_id": "e4737d45225e62840a9c2130c10b8000da9b792f41e73b41f3467f01ca95d8fc",
+  "feed": "wall-street-journal",
+  "title": "Business News: J&J Vaccine Maker To Resume Output",
+  "text": "<p>The plant makes vaccines for Johnson &amp; Johnson.</p><p>The Baltimore plant had been shut down after FDA inspectors determined there was contamination at the plant.</p><p>J&amp;J confirmed that the FDA had authorized the Emergent plant to resume manufacture of the company's vaccines and said it would continue to work toward securing clearance of doses manufactured at the plant as quickly as possible.</p><p>In a letter from the FDA to Emergent on Wednesday viewed by the Journal, the federal agency said, \"Based upon our current observations of the implemented corrective actions, FDA does not object to the resumption of manufacturing\" at the Baltimore plant.</p><p>One person familiar with the issue said the Emergent plant in Baltimore, once it is operating at full capacity, could make as many as 120 million doses a month.</p>",
+  "published": "2021-07-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 29,
+          "end": 46
+        },
+        {
+          "start": 15,
+          "end": 18
+        },
+        {
+          "start": 157,
+          "end": 160
+        }
+      ]
+    }
+  ]
+}

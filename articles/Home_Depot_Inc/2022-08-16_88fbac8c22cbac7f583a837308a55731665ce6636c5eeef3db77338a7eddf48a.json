@@ -1,0 +1,38 @@
+{
+  "_id": "88fbac8c22cbac7f583a837308a55731665ce6636c5eeef3db77338a7eddf48a",
+  "feed": "ftcomall",
+  "title": "Wall Street mixed as traders weigh strong earnings against weak economic data",
+  "text": "<p>US stocks were mixed on Tuesday after earnings results from retailers including Walmart and Home Depot showed ongoing consumer strength, against the backdrop of a slowdown in the housing market. </p> <p>Wall Street's broad S&amp;P 500 ended the day up 0.2 per cent, while the technology-heavy Nasdaq Composite closed down 0.2 per cent, having switched between small gains and losses throughout the day. </p> <p>The moves came after Walmart, the world's largest bricks-and-mortar retailer, <a href=\"https://www.ft.com/content/331a22d4-022e-4639-8ba8-354a6a23c038\">reported</a> stronger-than-expected quarterly figures and raised its full-year guidance. The company, widely seen as a barometer for the health of the US consumer, had in late July issued its second profit warning in 10 weeks.</p> <p>Shares in Walmart added more than 5 per cent following its earnings report, among the best performers in the S&amp;P on Tuesday. In May, the group's shares endured their <a href=\"https://www.ft.com/content/6bd41174-6f7c-4152-9fa0-4a11f2a0ed05\">biggest one-day drop</a> since 1987 after it cut guidance.</p> <p>Also bolstering Wall Street was DIY retail chain <a href=\"https://www.ft.com/stream/464f7780-6a0a-4d35-a6de-4e433e03d88f\">Home Depot</a>, which reported its highest quarterly sales and earnings on record. The results came as consumers continued to spend on home improvement despite high inflation and a broader slowdown in the housing market. </p> <p>Data released Tuesday <a href=\"https://www.ft.com/content/cc8915bf-f176-409a-862c-e0f844343067\">showed</a> that the rate of new home construction in the world's largest economy fell to its lowest level in July since early 2021. US housing starts last month fell 9.6 per cent month on month to an annualised pace of just under 1.45mn, lower than Wall Street forecasts of about 1.54mn and below June's figure of 1.6mn.</p> <p>Meanwhile, Brent crude fell 2.9 per cent to settle at $92.34 a barrel, extending its decline from the previous session in the latest sign of recession fears stalking markets. US marker West Texas Intermediate dropped 3.2 per cent on Tuesday to $86.53 a barrel. The prices were at their weakest level since early February and late January, respectively, before Russia's full-scale <a href=\"https://www.ft.com/war-in-ukraine\">invasion of Ukraine</a>.</p> <p>US government bonds came under pressure on Tuesday, with the yield on the benchmark 10-year Treasury note rising 0.02 percentage points to 2.81 per cent as its price fell. </p> <p>Elsewhere, Europe's regional Stoxx 600 share index closed 0.2 per cent higher. Germany's Dax rose 0.7 per cent and London's FTSE 100 added 0.4 per cent.</p> <p>Earlier on Tuesday, fresh survey results had cast a pall over the outlook for Germany. Figures from economic research group Zew showed that investment professionals' confidence in the eurozone's largest economy had deteriorated again in August. A reading of minus 55.3 for August was worse than the previous month's figure and a consensus forecast of minus 53.8.</p> <p>Central banks have in recent months indicated that monetary policy- tightening strategies will be guided in part by signals given by economic data releases.</p> <p>This has made market watchers pay more attention to individual data points than they have previously, said Altaf Kassam, Emea head of investment strategy and research at State Street Global Advisors.</p> <p>“It's going to increase volatility, and the worry is that will be magnified by lower liquidity in the summer,” he said. “Every data point is going to be scrutinised, which can lead to greater day-to-day volatility.”</p><p>Source: Ian Johnston in London and Kate Duguid in New York 2022 'Wall Street mixed as traders weigh strong earnings against weak economic data' FT.com 16 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-16T20:12:35.041Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 956,
+          "end": 966
+        },
+        {
+          "start": 962,
+          "end": 972
+        },
+        {
+          "start": 92,
+          "end": 102
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.5699158,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.5699158,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

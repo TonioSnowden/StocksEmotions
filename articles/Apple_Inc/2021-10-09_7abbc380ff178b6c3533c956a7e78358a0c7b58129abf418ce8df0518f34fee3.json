@@ -1,0 +1,96 @@
+{
+  "_id": "7abbc380ff178b6c3533c956a7e78358a0c7b58129abf418ce8df0518f34fee3",
+  "feed": "market-watch",
+  "title": "Apple seeks to avoid allowing developers to link out to other payment options in Epic appeal",
+  "text": "<p>Apple AAPL in particular is appealing an injunction from the decision that lets developers direct consumers to third-party payment systems outside of the App Store, thus potentially saving developers commission fees of up to 30%, and seeking a “stay” of the order in the meantime.</p><p>“Apple is carefully working through many complex issues across a global landscape, seeking to enhance information flow while protecting both the efficient functioning of the App Store and the security and privacy of Apple's customers,” Apple said in a filing in federal court in Oakland, Calif. “Striking the right balance may solve the Court's concerns making the injunction (and perhaps even Apple's appeal itself) unnecessary. A stay is warranted in these circumstances.”</p><p>For more: Epic v. Apple could be a legal marathon as appeals wend through system</p><p>Apple specifically raised objections to links from digital storefronts within the App Store to external payment links for digital goods and services.</p><p>“Links and buttons to alternate payment mechanisms are fraught with risk,” the company said in its filing. “Moreover, because external links operate outside of iOS —and outside of Apple's commerce engine — Apple has no visibility into their technological and financial functions, and limited ability to redress fraud by identifying and removing bad actors from the App Store.”</p><p>In aproposed settlement of a 2019 class-action lawsuit from developers in August, Apple&#xa0;agreed to allow app makers to direct their consumers to payment options outside the App Store. That concession, however, involved only communications outside the apps themselves, such as emails to consumers for which the developer has contact information.</p><p>If Apple is unsuccessful in its appeal Friday, it would be forced to allow developers to link out from apps to alternate payment options as of Dec. 9, which could affect its multibillion-dollar App Store business.</p><p>While Apple representatives continued to call the judge's decision a “resounding victory,” they said an appeal was necessary to challenge an “incorrect injunction” that could cause irreparable harm to Apple and its customers. They said Apple is working on potential solutions to address the injunction, but declined to say what they may be.</p><p>In-depth: What is a platform, and what should one do? The answer could determine the future of Apple and the rest of Big Tech</p><p>Last month, federal Judge Yvonne Gonzalez Rogers, who oversaw the federal trial in Oakland, Calif., in May, delivered a potential gut punch in a ruling that Apple cannot force app makers to use its in-app payment service.</p><p>But to the relief of Apple and its investors, she rejected Epic's argument that Apple and its App Store constitute a monopoly — the linchpin of legislation attempting to rein in Big Tech players such as Apple, Alphabet Inc.'s Google GOOGGOOGL, Amazon.com Inc. AMZN, and Facebook Inc. FB. Epic quickly appealed the decision to the Ninth Circuit Court of Appeals in San Francisco.</p>",
+  "published": "2021-10-09T10:56:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2691,
+          "end": 2696
+        },
+        {
+          "start": 837,
+          "end": 842
+        },
+        {
+          "start": 2358,
+          "end": 2363
+        },
+        {
+          "start": 2814,
+          "end": 2819
+        },
+        {
+          "start": 1167,
+          "end": 1172
+        },
+        {
+          "start": 517,
+          "end": 522
+        },
+        {
+          "start": 2158,
+          "end": 2163
+        },
+        {
+          "start": 2546,
+          "end": 2551
+        },
+        {
+          "start": 2123,
+          "end": 2128
+        },
+        {
+          "start": 2632,
+          "end": 2637
+        },
+        {
+          "start": 1193,
+          "end": 1198
+        },
+        {
+          "start": 1928,
+          "end": 1933
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 675,
+          "end": 680
+        },
+        {
+          "start": 1711,
+          "end": 1716
+        },
+        {
+          "start": 774,
+          "end": 779
+        },
+        {
+          "start": 497,
+          "end": 502
+        },
+        {
+          "start": 281,
+          "end": 287
+        },
+        {
+          "start": 6,
+          "end": 10
+        },
+        {
+          "start": 1446,
+          "end": 1451
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

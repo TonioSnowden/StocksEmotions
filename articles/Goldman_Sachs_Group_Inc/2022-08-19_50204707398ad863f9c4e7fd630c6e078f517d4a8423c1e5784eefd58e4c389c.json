@@ -1,0 +1,42 @@
+{
+  "_id": "50204707398ad863f9c4e7fd630c6e078f517d4a8423c1e5784eefd58e4c389c",
+  "feed": "market-watch",
+  "title": "Bank of America, Citigroup, Goldman Sachs and other banks near $1 billion settlement over traders' use of banned messaging apps; Federal regulators intend to levy the fines over alleged breach of rules that require retention of business records",
+  "text": "<p>The Securities and Exchange Commission and the Commodity Futures Trading Commission plan to announce the deals with the banks by Sept. 30, the end of the government's current fiscal year. That would put the penalties in the government's annual enforcement statistics.</p><p>Spokesmen for the SEC and CFTC declined to comment. Spokespeople for the banks declined to comment. A spokesman for UBS couldn't be reached.</p><p>An expanded version of this report appears at WSJ.com.</p><p>Top stories from WSJ.com</p><p>Americans Are Breaking Up With Their Work Friends</p><p>It Now Costs $300,000 to Raise a Child</p><p>Bank of America, Citigroup, Goldman Sachs and other banks near $1 billion settlement over traders' use of banned messaging apps</p>",
+  "published": "2022-08-19T22:58:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 28,
+          "end": 35
+        },
+        {
+          "start": 28,
+          "end": 41
+        },
+        {
+          "start": 606,
+          "end": 613
+        },
+        {
+          "start": 606,
+          "end": 619
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.8609076,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.86090755,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

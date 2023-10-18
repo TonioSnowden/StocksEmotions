@@ -1,0 +1,34 @@
+{
+  "_id": "2984ff32e24fbb398cc81369a1e2ab4c5aeae717c5e344dec1790f142dfc2999",
+  "feed": "wall-street-journal",
+  "title": "World News:  Severe Heat Wave Takes a Toll on China  ----  By Sha Hua and Yang Jie",
+  "text": "<p>   Dried-up rivers, scorching heat and power rationing in parts of China are disrupting factories and threatening crop yields, adding to the country's economic strains and echoing struggles with extreme weather around the world. </p><p>   Parts of China are suffering their worst heat wave in six decades, with temperatures as high as 110 degrees Fahrenheit in many parts of the country's central and southwestern regions, said state weather services, which predict that high temperatures in the south may last another two weeks. </p><p>   The heat has coincided with a lack of rain, down 40% in July from a year earlier (and the lowest since 1961), and with water levels in the upper stretches of the Yangtze River -- a crucial source of hydropower, transport and water for crops -- at the lowest level since recordings began, according to data published on Monday by China's Ministry of Water Resources. Soaring temperatures have driven up air-conditioning demand, overloading the electricity grid. </p><p>   On Monday, the southwestern Chinese province of Sichuan, heavily reliant on hydropower, ordered many factories in 19 cities to shut or scale back production for six days to give priority to electricity supplies for homes, according to a notice seen by The Wall Street Journal and referenced in company filings. </p><p>   The cuts are hitting a number of global manufacturers. Apple Inc. device maker Foxconn Technology Group had to partially cease production at a plant. A spokesman said the impact currently isn't significant. </p><p>    Toyota Motor Corp. and Volkswagen AG both said their plants in Sichuan had temporarily suspended operations. VW said it expected a slight delay on deliveries. </p><p></p>",
+  "published": "2022-08-18T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1344,
+          "end": 1354
+        },
+        {
+          "start": 1338,
+          "end": 1347
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000031,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 3.0994415e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

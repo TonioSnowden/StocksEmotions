@@ -1,0 +1,60 @@
+{
+  "_id": "545cb7d377e41a41b663fb94997b463491199804148799afc4b38a599b02d8d2",
+  "feed": "ftcomall",
+  "title": "Apple sues Israeli spyware group NSO",
+  "text": "<p>Apple is suing NSO Group Technologies, the Israeli military-grade spyware manufacturer that created surveillance software used to target the mobile phones of journalists, political dissidents and human rights activists, to block it from using its products. </p> <p>The iPhone maker's lawsuit, filed on Tuesday in federal court in California, alleged that <a href=\"https://www.ft.com/content/6d5a43a2-527d-4cd7-86c9-cff378e0c3fc\">NSO</a>, the largest known Israeli cyber warfare company, had spied on and targeted Apple users. It is seeking damages as well as an order stopping NSO from using any Apple software, device or services.</p> <p>NSO develops and sells its spyware, known as Pegasus, which exploits vulnerabilities in iPhones and Android smartphones, and allows those who deploy it to infiltrate a target's device unnoticed. </p> <p>Apple's suit provided new details about a recently patched vulnerability, nicknamed FORCEDENTRY, that was used by NSO's clients for about eight months to deliver code to an unspecified number of targets.</p> <p>NSO said its software had saved “thousands of lives . . . around the world” and that its technology helped governments “catch paedophiles and terrorists”. </p> <p>The company has never provided any evidence to back up those claims, citing confidentiality agreements with the government agencies that <a href=\"https://www.ft.com/stream/6b101ef2-9145-4599-be5c-9235e8f8dcc3\">NSO</a> sells to with the approval of the Israeli authorities. </p> <p>It has recently appealed to the Israeli government to help lobby the White House to remove NSO from a US Department of Commerce blacklist for selling a technology that has resulted in “transnational repression”, according to two people familiar with the request. </p> <p>It is not known if the Israeli government has acted on that request.</p> <p>The US government <a href=\"https://www.ft.com/content/e381b556-c859-4a3b-8f7c-5fe80d3272d2\">announced this month</a> that it had added NSO Group and rival Tel Aviv-based Candiru to the trade blacklist, which would restrict exports of US hardware and software to the companies, as it cracks down on the global hacking-for-hire industry.</p> <p>Apple's lawsuit comes as Moody's cut NSO's debt two notches to eight levels below investment grade, indicating a high risk of default on $500m in loans. </p> <p>The company had fully drawn down a bank credit line, Moody's said, and tight liquidity meant NSO could breach a covenant on its debt, leading to a default.</p> <p>Pegasus was <a href=\"https://www.ft.com/content/2f5feb53-e7ff-47b3-ad42-93a8f2bc6aac\">revealed</a>&#xa0;in July to have been used to target smartphones&#xa0; belonging to dozens of journalists, human rights activists and politicians, according to an investigation by a consortium of newspapers.</p> <p>“State-sponsored actors like the NSO Group spend millions of dollars on sophisticated surveillance technologies without effective accountability. That needs to change,” Craig Federighi, Apple's senior vice-president of software engineering, said <a href=\"https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/\">in a statement</a>. “Apple devices are the most secure consumer hardware on the market — but private companies developing state-sponsored spyware have become even more dangerous.”</p> <p>Apple's complaint comes just weeks after the US Court of Appeals for the Ninth Circuit held that NSO and its parent company Q Cyber were not sovereign entities and therefore were not shielded from an earlier lawsuit brought by Facebook accusing NSO of targeting users of its WhatsApp messaging service. </p> <p>In the complaint, Apple called NSO a group of “notorious” and “amoral” hackers that act as “mercenaries” creating cyber-surveillance machinery “that invites routine and flagrant abuse” for commercial gain.</p> <p>The US company accused NSO of violating multiple federal and state laws “arising out of their egregious, deliberate and concerted efforts in 2021 to target and attack Apple customers”.</p> <p>Apple issued an <a href=\"https://www.ft.com/content/2ae631af-edc6-4ce3-b848-323e9c8de3d7\">emergency software update</a> in September after a vulnerability from Pegasus was exposed by researchers at the University of Toronto's Citizen Lab.</p><p>Source: Hannah Murphy and Patrick McGee in San Francisco and Mehul Srivastava in Jerusalem  2021 'Apple sues Israeli spyware group NSO' FT.com 23 November. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-11-23T21:51:07.224Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 510,
+          "end": 515
+        },
+        {
+          "start": 741,
+          "end": 746
+        },
+        {
+          "start": 2588,
+          "end": 2593
+        },
+        {
+          "start": 427,
+          "end": 432
+        },
+        {
+          "start": 3500,
+          "end": 3505
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3518,
+          "end": 3523
+        },
+        {
+          "start": 2824,
+          "end": 2829
+        },
+        {
+          "start": 2664,
+          "end": 2670
+        },
+        {
+          "start": 3145,
+          "end": 3150
+        },
+        {
+          "start": 1886,
+          "end": 1891
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "ff0a272db692e299481ba5e4217f5f969d809ab2d6e284075055abc54d87fe83",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Data Centers  Are Unpopular -- All  The Better for the Stocks  ----  By Carol Ryan",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  Data centers have been in the headlines for all the wrong reasons. Yet controversy about how much they tax cities' power grids may turn out to be a good thing for the companies that own them. </p><p>\n  As with e-commerce warehouses, demand for space in data centers skyrocketed during the Covid-19 pandemic as more of daily life moved online. However, the stocks haven't been as good an investment. Over the past year, shares in U.S. data-center players returned minus 9% including dividends, compared with 5% gains on average for listed warehouse companies such as Prologis. Over a three-year period, they have underperformed logistics stocks and the S&amp;P 500 index. </p><p>\n  Data-center owners haven't been able to raise rents because there has been plenty of supply and they have powerful tenants. Nasdaq-listed Equinix gets 35% of its overall rent from big cloud providers like Amazon and Microsoft, who negotiate hard for the best deals. Stripping out energy costs, major tech companies pay around half the rent that a small business or government tenant does, according to real-estate analysis company Green Street. </p><p>\n  Scrutiny of the resources data centers consume could help in the short term. As they tend to cluster in areas where fiber-optic cable is dense, data centers can put pressure on local power grids, as well as supplies of water, which is used to keep servers cool. A major data center can use as much energy as several thousand homes. Power is so central to the business that leases tend to be measured in megawatts. </p><p>\n  In Northern Virginia, the world's top data-center hub, new facilities are struggling to get access to power due to difficulty with transmission lines. Several of Europe's biggest data-center markets have some kind of obstacle to new development. Authorities in Dublin recently stopped plans to build around 30 new facilities to ease pressure on the city's power grid. </p><p>\n  Tighter supply is beginning to improve landlords' bargaining position. In the first six months of 2022, asking rents for data centers in major U.S. hubs rose 5.9% compared with the same period of last year, according to real-estate firm CBRE. If the trend continues, 2022 will be the first year of positive rent growth for data centers since 2017. </p><p>\n  Worries about economic growth haven't damped demand so far. In Europe, a record 215 megawatts of new deals were signed in the second quarter, more than double the amount for the same period of 2021, according to Green Street. Big cloud providers are still hoovering up capacity to make sure they can meet the data-storage needs of their clients. </p><p>\n  Global internet traffic is doubling roughly every four years, and all the data produced by this activity needs to be housed somewhere. Now that major markets are becoming saturated, construction of new data centers is likely to shift to secondary cities where access to power is less constrained. But it will be a couple of years before this new space can be built. </p><p>\n  Data-center landlords can't afford to gouge their big-tech tenants if they want to stay in their good books. Huge rent increases of the kind demanded for the best-located warehouses are probably out of reach. The sector's resource-hogging ways are also a long-term risk as investors focus more on sustainability. </p><p>\n  Still, after years of underperformance, data-center owners are starting to claw a bit of negotiating power back from their customers. The cloud may rain at last for real estate. </p><p></p>",
+  "published": "2022-08-31T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 910,
+          "end": 919
+        },
+        {
+          "start": 903,
+          "end": 912
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0002394,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00023949146,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

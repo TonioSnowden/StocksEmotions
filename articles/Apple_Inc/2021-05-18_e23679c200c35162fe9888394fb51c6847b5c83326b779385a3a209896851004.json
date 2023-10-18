@@ -1,0 +1,28 @@
+{
+  "_id": "e23679c200c35162fe9888394fb51c6847b5c83326b779385a3a209896851004",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Parler Taps New CEO, Returns to App Store",
+  "text": "<p>He is married to Candace Owens, an author and commentator known for being a supporter of former President Donald Trump. In 2019, Mr. Farmer was an active financial supporter and candidate for the U.K.'s Brexit Party, according to Parler.</p><p>The company didn't disclose the reason behind the executive change.</p><p>\"For the past two months I have worked with an incredible team of people, under the leadership of Mark Meckler, to bring Parler back online and return to Apple's App Store after we had been unfairly maligned by the media and its allies in Big Tech and Congress,\" Mr. Farmer said.</p><p>Apple and Alphabet Inc.'s Google removed Parler from their app marketplaces in January in the wake of the deadly Capitol riot, saying the social-media platform hadn't taken adequate steps to remove harmful content. Amazon.com Inc.'s cloud-computing business also withdrew its services, causing Parler to briefly go dark before its website returned online with the help of other tech companies in February. At the time, Parler said it had more than 20 million users.</p><p>In Parler's return to service, executives have said they have rebuilt the platform with new community guidelines that indicate it is \"viewpoint neutral\" and won't allow itself to be used as a tool for crime or unlawful acts.</p><p>To satisfy Apple's rules, Parler said on Monday it would exclude certain content in its iOS app that could be otherwise viewed on the web-based and Android versions of the platform. It also said it had added process algorithms that automatically detect violent content or incitements to violence.</p><p>Parler's looser policies on content moderation attracted high-profile conservative media personalities such as Fox News host Sean Hannity, as well as supporters of Mr. Trump, including some who have promoted baseless claims that the 2020 election was stolen, as other platforms were cracking down on this kind of speech.</p>",
+  "published": "2021-05-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 460,
+          "end": 465
+        },
+        {
+          "start": 586,
+          "end": 591
+        },
+        {
+          "start": 1288,
+          "end": 1293
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

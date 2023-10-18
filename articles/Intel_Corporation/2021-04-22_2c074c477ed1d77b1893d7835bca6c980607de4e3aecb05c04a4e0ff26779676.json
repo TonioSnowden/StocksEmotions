@@ -1,0 +1,28 @@
+{
+  "_id": "2c074c477ed1d77b1893d7835bca6c980607de4e3aecb05c04a4e0ff26779676",
+  "feed": "wall-street-journal",
+  "title": "European Tech Company Can Help Chip Shortage",
+  "text": "<p>ASML, which competes with Applied Materials to sell semiconductor-manufacturing gear to the likes of Intel and Taiwan Semiconductor Manufacturing, on Wednesday more than doubled its growth forecast for the year and said it was increasing production capacity for 2022 -- a reassuring sign for any business that needs chips to make its products and any consumer waiting for them. The stock jumped nearly 5%.</p><p>The Dutch manufacturer has grown to become Europe's most valuable technology company, with a market value of $257 billion. That compares with $118 billion for Applied Materials, even though the U.S. company has slightly higher revenue. One reason is ASML's near-monopolistic position in a cutting-edge chip-making technology called extreme ultraviolet (EUV) lithography. Intel's new chief executive, Pat Gelsinger, last month said the company erred in not embracing EUV earlier.</p><p>ASML's EUV revenue will grow 30% this year -- that hasn't changed -- but it is working with its supply chain to ramp up output for next year ahead of its previous plans. The company said it was looking at boosting capacity in more standard deep ultraviolet (DUV) lithography. Given that the current shortage seems to be affecting basic chips as much as advanced ones, concrete steps here would be welcome.</p><p>That said, ASML's DUV business will manage nicely this year with just existing capacity. Following big capital-spending announcements by TSMC, Intel and Samsung, the company expects to increase revenue by 30% in 2021, led by DUV machines. Its previous guidance implied growth of around 12%. Meanwhile, ASML's first-quarter results were boosted by a more immediate response to the shortage as chip makers bought software upgrades that increase the output of existing machines.</p><p>At 47 times prospective earnings, ASML is an expensive stock, both relative to peers and its own record. One question hanging over that valuation is geopolitical. CEO Peter Wennink sees ASML as a potential beneficiary of the \"capital inefficiency\" that might result from greater U.S. autonomy in chip manufacturing. Yet China accounted for 15% of ASML's first-quarter revenue -- business that is vulnerable to U.S. moves to limit Chinese access to cutting-edge chip technology.</p><p>The nosebleed valuation might deter stock pickers, but it is in part an expression of confidence in ASML's ability to help fix the great chip shortage.</p>",
+  "published": "2021-04-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 777,
+          "end": 782
+        },
+        {
+          "start": 1434,
+          "end": 1439
+        },
+        {
+          "start": 101,
+          "end": 106
+        }
+      ]
+    }
+  ]
+}

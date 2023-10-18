@@ -1,0 +1,28 @@
+{
+  "_id": "5842cdc9a0bc1f015948f9fa9b14858b5b8462aa81989d9a1bf52fff8519f8c0",
+  "feed": "wall-street-journal",
+  "title": "Media & Technology: Blackstone Backs Startup Fighting Hackers With AI",
+  "text": "<p>Existing investors in the company, including TCV, formerly known as Technology Crossover Ventures, Khosla Ventures and Accel also participated in the round, according to the company.</p><p>The coronavirus pandemic has increased demand for cybersecurity as a shift to remote work models prompted more organizations to adopt cloud-based software applications, according to Hitesh Sheth, Vectra's president and chief executive.</p><p>\"That's a good indication that companies all over are experiencing a strong uptick in cloud usage, and now they need a way to keep it secure because they're quickly finding that the security measures they had in place are no longer going to work,\" Mr. Sheth said by email.</p><p>Recent far-reaching cyberattacks such as those involving SolarWinds Corp. and Microsoft Corp. software have illustrated how cyber breaches can spread through the business community, and have drawn the attention of regulators. The spike in cyberattacks has further driven demand for products like those made by Vectra.</p><p>Vectra said sales of its Cognito Detect for Microsoft Office 365 product grew at a rate of 700% between the third quarter of 2020 and the first quarter of 2021.</p><p>\"The size, scale and sophistication of these attacks brought forth the realization that things you trust, you can't trust anymore,\" Mr. Sheth said. \"For SolarWinds, organizations that don't use SolarWinds still need to be concerned if they do business with companies that use SolarWinds.\"</p><p>The latest investment in Vectra brings the total invested in the business so far to some $350 million, according to the release. Late-stage growth investor TCV led a $100 million investment in the company in 2019, while sister publication WSJ Pro Venture Capital reported that Atlantic Bridge led a $36 million investment round in Vectra in 2018.</p><p>Blackstone closed its debut growth-equity fund last month with $4.5 billion. However, the firm has a fairly long history of backing cybersecurity businesses through its flagship buyout funds and other investment vehicles. Last year, for example, the firm's tactical opportunities team invested $400 million in FireEye Inc. alongside cybersecurity-focused investment firm ClearSky.</p>",
+  "published": "2021-04-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 770,
+          "end": 779
+        },
+        {
+          "start": 770,
+          "end": 785
+        },
+        {
+          "start": 1054,
+          "end": 1070
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

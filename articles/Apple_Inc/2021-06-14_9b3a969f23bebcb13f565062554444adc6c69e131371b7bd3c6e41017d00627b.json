@@ -1,0 +1,20 @@
+{
+  "_id": "9b3a969f23bebcb13f565062554444adc6c69e131371b7bd3c6e41017d00627b",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>G-7 leaders called on China to respect human rights but stopped short of an outright condemnation of Beijing, as Biden sought to build momentum for an international coalition to counter Chinese influence in the world.</p><p>---</p><p>The Justice Department subpoenaed tech giant Apple for information about an account belonging to Trump's former White House counsel Don McGahn in February 2018.</p><p>---</p><p>A federal judge in Texas ruled that a major hospital system in Houston can require its employees to be vaccinated against Covid-19.</p><p>---</p><p>The proportion of Covid-19 lab tests that are coming back positive is at the lowest recorded point since the pandemic took hold in the U.S.</p><p>---</p><p>Novak Djokovic beat Stefanos Tsitsipas to capture his second French Open. It was the Serb's 19th career Grand Slam championship.</p>",
+  "published": "2021-06-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 267,
+          "end": 272
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

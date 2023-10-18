@@ -1,0 +1,20 @@
+{
+  "_id": "56d9bb83db4220b76988890630aa4affa9d0d9abc3deece6d266988d9a496825",
+  "feed": "economist-newspaper",
+  "title": "An Apple a day",
+  "text": "<p>This content has been removed</p>",
+  "published": "2021-07-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3,
+          "end": 8
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

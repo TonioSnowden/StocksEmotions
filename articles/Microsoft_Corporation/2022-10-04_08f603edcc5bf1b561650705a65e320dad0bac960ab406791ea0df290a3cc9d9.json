@@ -1,0 +1,24 @@
+{
+  "_id": "08f603edcc5bf1b561650705a65e320dad0bac960ab406791ea0df290a3cc9d9",
+  "feed": "wall-street-journal",
+  "title": "White House Issues 'Blueprint for an AI Bill of Rights'; Some tech executives voice concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence",
+  "text": "<p>Still, some technology leaders said the White House blueprint could lead to heavy-handed regulation that might risk putting U.S. businesses at a disadvantage.</p><p>Rob Zuber, chief technology officer of San Francisco-based software company CircleCI, said legislative efforts play a role in policing AI, but can also stifle innovation. \"It's on tech leaders to create environments in which their teams are equally accountable for keeping their AI efforts in check,\" Mr. Zuber said.</p><p>\"I would not regulate things until we have to,\" said Eric Schmidt, former chief executive of Alphabet Inc.'s Google. \"There are too many things that early regulation may prevent from being discovered,\" Mr. Schmidt said.</p><p>Others said they welcomed the guidelines as providing a framework for regulatory clarity in a murky area of the technology market.</p><p>\"The AI systems that permeate our lives are often built in ways that directly conflict with these principles,\" said Mark Surman, executive director of the Mozilla Foundation, the nonprofit behind the Firefox browser. \"They're built to collect personal data, to be intentionally opaque, and to learn from existing, frequently biased data sets,\" said Mr. Surman, an advocate for online privacy.</p><p>He urged federal lawmakers to expand the framework \"into something formal and enforceable.\"</p><p>The guidelines issued Tuesday identify \"five principles that should guide the design, use, and deployment of automated systems to protect the American public in the age of artificial intelligence.\"</p><p>The principles are:</p><p>• protecting people from unsafe or ineffective automated systems</p><p>• preventing discrimination by algorithms</p><p>• safeguarding people from abusive data practices and giving them agency over how their data is used</p><p>• informing people that an automated system is being used</p><p>• letting users opt out of automated systems</p><p>\"Algorithms used in hiring and credit decisions have been found to reflect and reproduce existing unwanted inequities or embed new harmful bias and discrimination,\" the White House said. Unchecked online data collected from social media, the guidelines said, \"has been used to threaten people's opportunities, undermine their privacy, or pervasively track their activity—often without their knowledge or consent.\"</p><p>The U.S. guidelines aren't as strict as the EU's General Data Protection Regulation, enacted four years ago, which authorizes steep fines for companies that don't comply with rules limiting the way companies gather and use personal data.</p><p>The GDPR has forced technology companies that operate in the EU, including Microsoft Corp. and Amazon.com Inc., to boost compliance efforts and, in some cases, change their approach to collecting, leveraging and sharing user data.</p><p>Last year, the EU's executive arm proposed legislation setting out rules for the use of AI in designated \"high-risk\" areas, including critical infrastructure, college admissions and loan applications—with fines of up to 6% of a company's annual worldwide revenue for the most severe violations.</p><p>\"At a global level, the U.S. is playing catch-up,\" said Peter van der Putten, director of the AI Lab at Massachusetts-based software company Pegasystems Inc. \"But in an increasingly global market, many U.S. companies will have to comply with global policies anyway.\"</p><p>Oren Etzioni, a co-founder of the Allen Institute for AI, a research organization based in Seattle, and chairman of an AI advisory board at New York-based software-automation vendor UiPath Inc., said he expects the White House guidelines to influence government policies and lead to regulatory and legislative measures.</p><p>\"If implemented properly, the bill could reduce AI misuse and yet support beneficial uses of AI in medicine, driving, enterprise productivity, and more,\" Mr. Etzioni said.</p><p>Write to Angus Loten at angus.loten@wsj.com</p><p>White House Issues 'Blueprint for an AI Bill of Rights'</p>",
+  "published": "2022-10-04T22:12:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2568,
+          "end": 2577
+        },
+        {
+          "start": 2568,
+          "end": 2583
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

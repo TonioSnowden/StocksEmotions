@@ -1,0 +1,34 @@
+{
+  "_id": "3e913376e24e03694987e96a04e30a884699619d2f75834c14eb37a6f704333e",
+  "feed": "wall-street-journal",
+  "title": "Walgreens Offers Bonuses Up to $75,000 to Recruit Pharmacists; Thousands of drugstore chain's locations operate with reduced pharmacy hours due to pharmacist shortage",
+  "text": "<p>Bonuses are on offer in certain markets in every state, according to job postings reviewed by The Wall Street Journal and people familiar with the matter. The $75,000 bonus that Walgreens is paying is rare; more common at the chain are awards of $30,000 or $50,000. The bonuses come with a requirement for pharmacists to remain in their jobs for a period, usually a year or more.</p><p>A Walgreens spokesman said the bonuses are part of a larger investment focused on recruitment and retention. \"This is one of many steps to address pharmacy staffing in some areas,\" he said.</p><p>Pharmacy chains paid bonuses to employees earlier in the pandemic when the companies scrambled to staff up, first to administer Covid-19 tests and later to distribute vaccines. In recent months, demand for shots and tests has waned as those who want the vaccine have gotten it, and people increasingly test at home using over-the-counter test kits.</p><p>Still, the need for more workers remains, Walgreens said. Some 3,000 stores operate with reduced pharmacy hours due to pharmacist shortages, causing the chain to lose revenue on prescriptions, the company has said.</p><p>The median annual pay for a drugstore pharmacist was $127,820 in 2021, according to the U.S. Bureau of Labor Statistics. Pharmacists are typically required to have a doctor of pharmacy, or Pharm.D, a professional degree that often requires four years of studies beyond the undergraduate level. And they must be licensed, which requires passing two exams.</p><p>There were about 322,200 pharmacists employed in the U.S. in 2020, BLS data show.</p><p>A range of employers have raised salaries or doled out special bonuses to address inflation and retain workers through a tough labor market. Walmart Inc. has offered bonuses to new hires in roles such as truck drivers while companies such as Exxon Mobil Corp. gave U.S. staff a one-time payment in June equal to 3% of their salaries.</p><p>Severe staffing shortages during the height of the pandemic led Walgreens and rival CVS Health Corp. to cut store hours, raise pay and hire tens of thousands more workers. </p><p>Staffing shortages during the height of the pandemic led CVS to cut store hours, raise pay and hire more workers. PHOTO: GABBY JONES for The Wall Street Journal</p><p>CVS is continuing to offer bonuses for new hires in some cases. A handful of online job postings advertise $30,000 awards for pharmacists. A CVS spokesman declined to quantify bonuses being offered to pharmacists but said the company offers competitive pay.</p><p>CVS Chief Executive Karen Lynch last week said the company is in a good position on the labor front and is able to keep its more than 9,000 U.S. retail locations open regular hours.</p><p>Like many other industries, including nursing homes, grocers and hospitals, the pharmacy chains have been grappling with labor shortages and complaints about burnout from employees. The companies have been central to U.S. government efforts to test and vaccinate Americans against Covid-19. But at some critical times during the pandemic, people faced delayed test results, weekslong waits for shots and unexpected store closures.</p><p>Pharmacists and pharmacy technicians have said they are juggling too many tasks with little to no backup and are working long hours or extra shifts. Companies have said they have taken steps to improve conditions for their pharmacy staff, including adding scheduled break times and stepping up automated prescription filling.</p><p>The American Pharmacists Association, a trade group representing pharmacists, has called for private insurance and government plans to reimburse pharmacists for clinical work, such as patient consultations or help managing medications, rather than have payments based strictly on services such as prescriptions filled or shots given.</p><p>Locations in Vermont are among the places where Walgreens is offering bigger bonuses. State regulators there are alleging that insufficient staffing at locations statewide led to unsafe conditions, medication errors and unexpected store closures that left people unable to get their medication.</p><p>The state's Office of Professional Regulation in June laid out a case against the company and requested that the state's pharmacy board \"revoke, suspend, reprimand, condition or otherwise discipline\" the licenses of the state's 32 Walgreens locations.</p><p>A Walgreens spokesman declined to comment on the charges. The company has until Aug. 20 to respond.</p><p>Write to Sharon Terlep at sharon.terlep@wsj.com</p><p>Walgreens Offers Bonuses Up to $75,000 to Recruit Pharmacists</p>",
+  "published": "2022-08-11T14:20:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1712,
+          "end": 1724
+        },
+        {
+          "start": 1698,
+          "end": 1710
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

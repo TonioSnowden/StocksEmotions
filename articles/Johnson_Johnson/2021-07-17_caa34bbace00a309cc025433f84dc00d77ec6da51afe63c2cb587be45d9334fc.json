@@ -1,0 +1,20 @@
+{
+  "_id": "caa34bbace00a309cc025433f84dc00d77ec6da51afe63c2cb587be45d9334fc",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Biden Rips Social Media Over False Information About Shots",
+  "text": "<p>The administration this week has raised concerns about misinformation, with the pace of vaccinations down in the U.S. and the highly transmissible Delta variant spreading. Experts say the vaccines are highly effective against Covid-19. U.S. health regulators have warned that the Johnson &amp; Johnson vaccine is linked to a very small incidence of cases of a rare neurological disorder.</p><p>Misinformation being circulated on Facebook makes various claims, including that the vaccine can lead to infertility, according to the White House. The Centers for Disease Control and Prevention says there is no evidence that the Covid-19 vaccines cause female or male fertility problems.</p><p>Facebook spokesman Kevin McAlister said Mr. Biden's claim wasn't supported by facts and that more than 3.3 million Americans have used a Facebook tool to find out where to get a vaccine.</p><p>Facebook said it had \"removed more than 18 million pieces of COVID misinformation, removed accounts that repeatedly break these rules, and connected more than 2 billion people to reliable information about COVID-19 and COVID vaccines across our apps.\"</p><p>Some Republicans have criticized the White House's handling of the issue. GOP Sen. Josh Hawley of Missouri wrote in a letter to Facebook dated Thursday that the administration flagging posts it viewed as spreading misinformation amounted to directing the company \"to police speech.\" He asked Facebook to detail any social-media posts it deleted at the administration's request.</p>",
+  "published": "2021-07-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 280,
+          "end": 297
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

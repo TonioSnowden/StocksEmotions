@@ -1,0 +1,24 @@
+{
+  "_id": "49131c434e1fc36a806b6631d8c561b4e2a0629497ffabecaf864844b3742e52",
+  "feed": "economist-newspaper",
+  "title": "Technology and covid-19: Zoom fatigue",
+  "text": "<p>The mania has ended. Today the lockdown-lunacy index--which includes Netflix, a streaming service; Peloton, a maker of fancy exercise bikes; Robinhood, a stock-trading app; Shopify, an e-commerce platform; and Zoom, a videoconferencing firm--has fallen by more than 80% from its peak, far exceeding the 18% drop in the NASDAQ. Zoom and friends are trading at below pre-pandemic prices.</p><p>How worrying is this return to Earth? To be sure, some of it reflects gloomier prospects for the global economy, racked by inflation, war and rising interest rates. And it is disappointing that two years of digitisation and remote work have not provided clear evidence of a productivity boom (see Finance &amp; economics section). Yet there are reasons still to be techno-optimistic. Much of the early enthusiasm may simply have been focused on the wrong types of firm. Though the pandemic darlings have fizzled, the shift towards ever greater digitisation continues. The true winners are not the flashy consumer-tech firms, but the companies that provide the infrastructure to enable this shift.</p><p>Much of the decline of our lockdown index reflects shakier business models. On August 22nd Zoom reported that its year-on-year revenue growth had fallen to 8%, the lowest rate since the company listed in 2019. Three days later Peloton reported a nearly 30% fall in its quarterly sales, compared with a year ago. Subscribers are fleeing Netflix for other viewing platforms, such as Disney+. Robinhood is laying off a quarter of its staff as day traders cool on the markets.</p><p>The fading work-from-home boom has affected the demand for hardware, too. Worldwide PC shipments are expected to decline by 10% this year; analysts reckon mobile-phone sales will tumble by 7%. A downturn in spending on video games and a series of crypto implosions have dented the sales of the powerful semiconductors used to mine digital currencies and render computer graphics (see Schumpeter).</p><p>Look beyond the boom and bust of consumer tech, though, and you see the real successes. The market for the infrastructure technology that underpins people's daily lives, such as cloud computing, cybersecurity and digital payments, is thriving. The cloud-computing industry is expected to grow to almost $500bn this year, up from $243bn in 2019 (see Business section). Amazon's cloud offering, the largest in the world, is still growing at 33% each year. It accounted for three-quarters of the firm's operating income over the past 12 months, and is propping up the tech giant's ailing e-commerce business. Its closest rivals are the cloud services of Microsoft and Google. Their annual sales are growing by 40% and 36%, respectively.</p><p>Cloudification has created new demands for cybersecurity, another tech winner. The combined revenue at the three largest listed cybersecurity firms has almost doubled since the start of the pandemic. Their market capitalisation has tripled, and has come down only a fraction since the start of the year. Digital payments are another bright spot, thanks to lockdowns and social distancing. Three-quarters of iPhone owners use Apple Pay, up from half in 2019, and nine out of ten American retailers now accept it as a payment method. Almost 200m people in India and China have used some form of digital payment for the first time since the onset of covid. A third of adults in sub-Saharan Africa now have a mobile-money account, up from a fifth in 2017.</p><p>Sanity reigns</p><p>The bubble may have burst on the pandemic's darlings, but the drumbeat of digitisation continues. The less eye-catching technologies that provide the underlying infrastructure for the shift are the true beneficiaries of covid. Whether these will fuel a productivity boost one day remains to be seen. But there was more going on during the pandemic than lockdown lunacy.</p>",
+  "published": "2022-09-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 0.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "e82660f1ce007da6fd17e2f87eb4bd1ca240afa4107224b2fcff287a1eeb43db",
+  "feed": "reuters",
+  "title": "BUZZ-U.S. STOCKS ON THE MOVE-Li Auto , PG&E , Planet Fitness , U.S. casino operators",
+  "text": "<p>*</p><p>The Day Ahead newsletter: here  </p><p>*</p><p>The Morning News Call newsletter: here  </p><p>U.S. stock index futures fell on Monday, kicking off another week on softer footing, as investors worried that the Federal Reserve 's aggressive push to curb inflation may tip the American economy into recession.</p><p>At 07:43 ET, Dow e-minis were down 0.59% at 29,494. S&amp;P 500 e-minis were down 0.67% at 3,684.25, while Nasdaq 100 e-minis were down 0.59% at 11,309.75. The top two NYSE percentage gainers premarket: ** Benson Hill Inc , up 10.1% ** Overseas Shipholding Group Inc , up 10.1% The top three NYSE percentage losers premarket: ** Sonendo Inc , down 11.9% ** Ennis Inc , down 8.6% ** Eve Holding Inc Ord, down 7% ** Wynn Resorts Ltd : up 5.2% premarket Las Vegas Sands Corp : up 6.9% premarket Melco Resorts &amp; Entertainment Ltd : up 10.8% premarket BUZZ - U.S. casino operators jump as Macau allows tour groups after nearly 3 years ** Li Auto Inc : down 2.4% premarket BUZZ - Down after lowering Q3 delivery outlook ** Chevron Corp : down 1.4% premarket Exxon Mobil Corp: down 1.3% premarket Occidental Petroleum Corp : !Field name {PCHNG_PRE} is invalid premarket Ovintiv Inc : down 1.6% premarket BUZZ - U.S. energy sector down as recession fears pressure crude prices ** Cohn Robbins Holdings Corp : up 8.0% premarket BUZZ - Rises after co and Allwyn Entertainment call off deal ** Micron Technology Inc : down 0.7% premarket BUZZ - Down, Susquehanna cuts PT ahead of Q4 results ** Amazon.com Inc : down 0.6% premarket BUZZ - To hold second Prime Day event to boost holiday sales ** Nike Inc : down 0.8% premarket BUZZ - Slips after Telsey Advisory cuts PT on challenges in China ** PG&amp;E Corp : up 4.4% premarket BUZZ - Climbs on S&amp;P 500 index inclusion ** Planet Fitness Inc : up 4.3% premarket BUZZ - Rises after Raymond upgrades to 'buy' ** REIT Reliance Global Group Inc: up 10.7% premarket BUZZ - Gains on share repurchase program ** Viatris Inc : down 0.6% premarket BUZZ - Slips as JP Morgan cuts PT to $13</p>",
+  "published": "2022-09-26T11:59:04.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.6,
+      "offsets": [
+        {
+          "start": 1973,
+          "end": 1982
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.6302494,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.36975062,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

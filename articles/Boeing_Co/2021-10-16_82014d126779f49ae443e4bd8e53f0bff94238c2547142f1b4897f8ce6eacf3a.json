@@ -1,0 +1,20 @@
+{
+  "_id": "82014d126779f49ae443e4bd8e53f0bff94238c2547142f1b4897f8ce6eacf3a",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>The S&amp;P 500, Dow and Nasdaq rose 1.8%, 1.6% and 2.2%, respectively, for the week, following a strong streak of earnings reports.</p><p>Walmart is helping launch a new company that aims to provide financial services for its millions of customers and workers.</p><p>The Boeing ex-employee charged with misleading air-safety regulators about a flight-control system that played a significant role in two 737 MAX crashes is being unfairly blamed for the disasters, his attorney said.</p><p>China's central bank said that the risk of Evergrande's debt crisis spilling over into the financial system was controllable.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-10-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 256,
+          "end": 262
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

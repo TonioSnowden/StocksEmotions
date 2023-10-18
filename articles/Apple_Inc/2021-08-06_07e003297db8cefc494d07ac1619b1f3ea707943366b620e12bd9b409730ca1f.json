@@ -1,0 +1,132 @@
+{
+  "_id": "07e003297db8cefc494d07ac1619b1f3ea707943366b620e12bd9b409730ca1f",
+  "feed": "wall-street-journal",
+  "title": "Apple Plans iPhone Software To Report Child-Abuse Images --- Company says change will protect minors from predators; critics fear privacy intrusion",
+  "text": "<p>Apple, which has built much of its brand image in recent years on promises to safeguard users' privacy, said that its new software will further enhance those protections by avoiding any need for widespread scanning of images on the company's servers, something that Apple currently doesn't perform.</p><p>After news of Apple's plans leaked out Wednesday, critics said they worried that by building software that can flag illegal content belonging to its users, Apple might be softening its stance on how it protects user data via encryption -- a source of growing contention between the technology giant and law-enforcement organizations over the past decade.</p><p>Apple's system will use new techniques in cryptography and artificial intelligence to identify child sexual abuse material when it is stored using iCloud Photos, the company said. Using software that runs on both the iPhone and Apple's cloud, Apple will detect whether images on the device match a known database of these illegal images. If a certain number of them -- Apple declined to say exactly how many -- are uploaded to iCloud Photos, Apple will review the images. If they are found to be illegal, Apple said it would report them to the National Center for Missing and Exploited Children, a private, nonprofit organization established in 1984 under a congressional mandate that serves as a clearinghouse for reports of child abuse.</p><p>The software will detect illegal images, but doesn't work on videos, Apple said.</p><p>The system aims to provide a counter to law enforcement's criticism that Apple doesn't do enough to help identify criminals who hide their illegal activity behind encryption.</p><p>Apple has made the security it offers users on its iPhones and some other devices a key element of its pitch to consumers, adding ever more features to safeguard their privacy. The privacy stance, at times, has led the company to clash with governments. In the wake of the December 2019 attack by a Saudi aviation student that killed three people at a Florida Navy base, then-Attorney General William Barr called on Apple to find a way to crack the encrypted phones.</p><p>The Justice Department also attempted in 2016 under the Obama administration to push Apple to create a software update that would break the privacy protections of the iPhone to gain access to a phone linked to a dead gunman responsible for a 2015 terrorist attack in San Bernardino, Calif. The company has refused to build tools that break the iPhone's encryption, saying that such software would undermine user privacy.</p><p>The issue around sexual images of children stored on Apple iPhones dates back to the early days of the device when, back in 2008, one was found with such imagery. A judge ordered Apple to assist the government in unlocking the iPhone. The company complied, though it has since significantly upgraded security features on the device that have made accessing data stored there more challenging. Law-enforcement authorities frequently point to child pornography and the use of encrypted communications by terrorists to argue for data access.</p><p>\"Apple's expanded protection for children is a game changer,\" John Clark, president and CEO of the National Center for Missing and Exploited Children, said in a statement. \"The reality is that privacy and child protection can coexist.\"</p><p>The planned software update to detect child sexual abuse material wouldn't affect the iPhone's encryption system and it allows iPhone users to keep their data on the device completely private, Apple said. Users who don't upload their images to iCloud Photos wouldn't trigger the detection system, Apple said.</p><p>Apple will also add features that will give the iPhone a way of blurring out and then warning children if they are sending or receiving sexually explicit photos via the Messages app. The software can be configured to alert parents, too.</p><p>Because Messages is the app used to send encrypted iMessages, Apple's new alerting functionality could be of interest to governments looking to push Apple into conducting surveillance, said Matthew Green, an associate professor of computer science at Johns Hopkins University. \"Now Apple has demonstrated that they can build a surveillance system, for very specific purposes, that works with iMessage,\" he said. \"I wonder how long they'll be able to hold out from the Chinese government?\"</p><p>Apple said that its software isn't designed for mass surveillance or the scanning of content on its devices.</p><p>The argument isn't sitting well with privacy proponents. On Thursday, the Electronic Frontier Foundation, a digital-rights group, described Apple's software as a \"backdoor\" to the iPhone and others said that the move potentially undermined the privacy of Apple's devices. \"Apple is creating a platform for surveillance,\" said Bruce Schneier, a cryptographer. \"They're using it for this one purpose, but the technology is general-purpose, and that is very, very dangerous.\"</p><p>The iPhone no longer represents the impenetrable data safe it once did as companies including Grayshift LLC, Israel's Cellebrite Mobile Synchronization Ltd. and others have developed methods to retrieve data from the devices.</p><p>The iPhone maker isn't the only tech company to spar with governments over encryption. Facebook Inc. has rolled out encryption more widely across its platform, also drawing fire from law enforcement in the U.S. and abroad, who argued, in part, it would make it more difficult to pursue child-exploitation cases.</p><p>A Facebook spokesman didn't comment on whether it would follow Apple's move.</p>",
+  "published": "2021-08-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1547,
+          "end": 1552
+        },
+        {
+          "start": 3920,
+          "end": 3925
+        },
+        {
+          "start": 4007,
+          "end": 4012
+        },
+        {
+          "start": 897,
+          "end": 902
+        },
+        {
+          "start": 2716,
+          "end": 2721
+        },
+        {
+          "start": 2065,
+          "end": 2070
+        },
+        {
+          "start": 1462,
+          "end": 1467
+        },
+        {
+          "start": 1096,
+          "end": 1101
+        },
+        {
+          "start": 882,
+          "end": 887
+        },
+        {
+          "start": 455,
+          "end": 460
+        },
+        {
+          "start": 4596,
+          "end": 4601
+        },
+        {
+          "start": 4347,
+          "end": 4352
+        },
+        {
+          "start": 1023,
+          "end": 1028
+        },
+        {
+          "start": 313,
+          "end": 318
+        },
+        {
+          "start": 4729,
+          "end": 4734
+        },
+        {
+          "start": 3505,
+          "end": 3510
+        },
+        {
+          "start": 5530,
+          "end": 5535
+        },
+        {
+          "start": 1649,
+          "end": 1654
+        },
+        {
+          "start": 1159,
+          "end": 1164
+        },
+        {
+          "start": 3609,
+          "end": 3614
+        },
+        {
+          "start": 4140,
+          "end": 4145
+        },
+        {
+          "start": 654,
+          "end": 659
+        },
+        {
+          "start": 4711,
+          "end": 4716
+        },
+        {
+          "start": 3077,
+          "end": 3082
+        },
+        {
+          "start": 3621,
+          "end": 3626
+        },
+        {
+          "start": 266,
+          "end": 271
+        },
+        {
+          "start": 2590,
+          "end": 2595
+        },
+        {
+          "start": 2201,
+          "end": 2206
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

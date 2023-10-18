@@ -1,0 +1,28 @@
+{
+  "_id": "efd08d63fbd247b2617e03e1ac78b711ce69208a5938260d650a96158badfc9f",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- UnitedHealth Will Drop Some Copays",
+  "text": "<p>UnitedHealth announced the initiative during its second-quarter earnings call. The healthcare and health-insurance company on Friday reported profit that beat analysts' expectations, and it raised its earnings guidance for the year.</p><p>In addition to insulin, used by patients with diabetes, and naloxone, which is administered to people suffering the effects of opioid overdoses, the zero-copay list will include epinephrine, administered to curb allergic reactions; glucagon, used to treat hypoglycemia, or low blood sugar; and albuterol, taken to ease breathing difficulties caused by asthma.</p><p>For the second quarter, UnitedHealth said revenue rose 13% to $80.3 billion.</p><p>The company now expects full-year earnings of $20.45 a share to $20.95 a share, up 15 cents on either end from its prior guidance.</p><p>Profit for the quarter ended June 30 came in at $5.07 billion, or $5.34 a share, compared with $4.27 billion, or $4.46 a share, a year earlier.</p>",
+  "published": "2022-07-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "offsets": [
+        {
+          "start": 13,
+          "end": 25
+        },
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 617,
+          "end": 629
+        }
+      ]
+    }
+  ]
+}

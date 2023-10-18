@@ -1,0 +1,24 @@
+{
+  "_id": "141761d9c6f0db1b7389065d5f5a8e0e2d839a3f8fe6a8eac736b7ab149c9310",
+  "feed": "economist-newspaper",
+  "title": "The World Ahead 2022; Dramatic shifts in the semiconductor industry will continue",
+  "text": "<p>Then covid-19 further complicated matters—and the coming year will bring little respite. By the middle of 2021 the pandemic had triggered a chip-supply crunch, as much of the world took to working from home and bought lots of electronic goods to help them do so. Car manufacturers lost out, having cancelled their chip orders early on in the pandemic only to find themselves at the back of the queue when demand for cars rebounded. As a result, in 2022 chipmakers will still be working overtime to expand supply.</p><p>Meanwhile governments around the world will be doing everything they can to incentivise the construction of the facilities that will provide for this expansion on their soil. America will decide how to spend the $52bn it earmarked in the summer of 2021 to boost domestic chip production. If all goes to plan TSMC, a Taiwanese chipmaker, which leads the world in the production of high-end chips by some margin, will be halfway through building its own factory in America for the first time. Europe will either still be contemplating a stimulus of its own, or already spending it.</p><p>Yet the industry is shifting in ways which make it difficult for governments to allocate taxpayers' money efficiently. The cost of manufacturing cutting-edge chips continues to rise, pushing manufacturers to seek new ways of improving performance. Governments that spend buckets of taxpayer cash in an attempt to grab high-end production may end up overlooking the novel technologies that are starting to redefine the landscape. Blueprints underlying chip designs are being published under open-source licences, for anyone to use</p><p>One important tactic will be the development of more advanced ways of combining and connecting already-made chips, rather than simply pushing to etch individual chips with ever smaller (and thus faster) features. This technology, known as packaging, has long been ignored as a dull, downstream part of the industry, but it will become more important in 2022. Companies including TSMC and Intel, a big American chipmaker, are developing their own packaging technologies, rather than farming out the job to anonymous firms in China or elsewhere in Asia.</p><p>A new business model for the design of chips will also take hold, in which the blueprints underlying chip designs are published under open-source licences, available for anyone to use. An open-source chip design known as RISC-V will continue eating the industry from the bottom up; the cheapest circuits are already being switched over to it. Companies that own and control proprietary chip designs—such as Intel, with its x86 architecture—will be racing to offer at least the impression of openness, in an effort to fend off the threat.</p><p>In a word, then, 2022 will be messy. The chipmaking industry was already reconfiguring itself as the costs of continually shrinking circuits became overwhelming. As governments attempt to use stimulus money to reshape the chip supply chain, they will be trying to grab a beast in the midst of transformation.</p><p>Hal Hodson: Technology correspondent, The Economist</p><p>■</p><p>This article appeared in the Business section of the print edition of The World Ahead 2022 under the headline “A messy year ahead”</p>",
+  "published": "2021-11-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 2582,
+          "end": 2587
+        },
+        {
+          "start": 2011,
+          "end": 2016
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

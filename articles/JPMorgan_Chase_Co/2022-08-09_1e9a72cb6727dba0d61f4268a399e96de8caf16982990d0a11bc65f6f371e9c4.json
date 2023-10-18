@@ -1,0 +1,42 @@
+{
+  "_id": "1e9a72cb6727dba0d61f4268a399e96de8caf16982990d0a11bc65f6f371e9c4",
+  "feed": "market-watch",
+  "title": "Here are 10 reasons why JPMorgan says the global stock market rally will continue",
+  "text": "<p>Valuations, they note, are particularly attractive outside the United States, where they trade at 12.6 times forward earnings, a 20% discount from the historical average. The dividend yield minus the bond yield is still above average in Japan, the eurozone and the U.K., they add. The JPMorgan strategists say bond yields could keep stalling in the near term, given expectations of rough economic data.</p><p>The other reasons the strategists are bullish on stocks:</p><p>* The technical backdrop for stocks, including positioning, appears favorable.</p><p>* Investor sentiment is overly bearish</p><p>* The Fed is likely reaching peak hawkishness.</p><p>* The dollar could be peaking.</p><p>* Robust bank balance sheets will allow them to keep supporting the business cycle.</p><p>* Earnings will see only a modest pullback.</p><p>* The consumer is cushioned by excess savings and a strong labor market.</p><p>* China will behave countercyclically to developed markets in the second half.</p><p>The S&amp;P 500 SPXhas dropped 13% this year, while the largest overseas stock ETF, the Vanguard Total International Stock ETF VXUS, has dropped 16%.</p><p>Here are 10 reasons why JPMorgan says the global stock market rally will continue</p>",
+  "published": "2022-08-09T09:44:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 24,
+          "end": 32
+        },
+        {
+          "start": 283,
+          "end": 291
+        },
+        {
+          "start": 285,
+          "end": 293
+        },
+        {
+          "start": 1106,
+          "end": 1114
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.880573,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8805727,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

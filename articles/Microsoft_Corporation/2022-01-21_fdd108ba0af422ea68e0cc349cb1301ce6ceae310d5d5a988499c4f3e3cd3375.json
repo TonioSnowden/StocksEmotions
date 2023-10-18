@@ -1,0 +1,20 @@
+{
+  "_id": "fdd108ba0af422ea68e0cc349cb1301ce6ceae310d5d5a988499c4f3e3cd3375",
+  "feed": "wall-street-journal",
+  "title": "Google's 'Inclusive Language' Police; The company labels terms like 'senior citizen,' 'dummy variable,' and 'black box' verboten.",
+  "text": "<p>Google has created guidelines for \"inclusive\" language in software and documentation that describe how software should reflect the hypersensitive feelings of programmers who are immersed in woke culture and fixated on victimhood and offense. Apparently these guidelines will be enforced in the future in all new open-source projects, and the company will scrub earlier versions as well. Various other technology groups, including some at universities and professional associations, have developed their own guidelines. Microsoft recently introduced a feature for its popular Word software that can ferret out and replace noninclusive words and phrases.</p><p>It isn't surprising that standard programming terms such as \"master/slave\" and \"whitelist/blacklist\" are now verboten. Nor is the nixing of gendered pronouns. But apparently, for reasons that elude me, the use of \"black box,\" which has no negative connotations I am aware of, is also inappropriate, according to Google's guidelines.</p><p>The list of terms excluded in the name of inclusion often borders on ridiculous. I was amused to picture some millennials, programmed by years of training in diversity, equity and inclusion, sitting around at a sensitivity-training meeting coming up with this list.</p><p>As a \"senior citizen,\" I was surprised to find that this term isn't inclusive enough for Google, as is the quaint \"80 years young.\" Instead, Google says my cohort should be called \"older adults.\" Apparently the push for inclusion goes beyond people. Google urges developers to replace \"older version\" when describing computer programs with \"earlier version.\"</p><p>Other terms describing computer programs have also been proscribed. A developer can no longer say that some functionality is \"crippled\" by a bug or that anomalous data seem \"crazy.\" And \"dummy variable,\" a key term in coding, should now be replaced with \"placeholder,\" which seems no more inclusive to me, and I doubt a dummy variable, even if it could care, would.</p><p>My favorite proscription is against the word \"smartphone.\" Presumably Google assumes other phones will be offended.</p><p>This is all rather silly, but there are at least two underlying problems with scrubbing words from language. First, it's a waste of time. While groups like the Association for Computing Machinery waste time debating whether the term \"quantum supremacy\"—the threshold where a quantum computer first solves a problem a classical computer cannot solve in any feasible time—should be replaced because it alludes to \"crimes against humanity,\" computer scientists in China and elsewhere are working to achieve quantum supremacy.</p><p>More important, many colorful phrases—the very thing that makes language vivid and enjoyable—too often now are perceived as dangerous, and excising them risks diminishing the possibilities of communication. Few of us would want to read a novel devoid of colorful wording. And for anyone who has had to read computer documentation, a hint of humor would be a welcome addition. Give us, not to mention the smartphones of the future, a break.</p><p>Mr. Krauss, a theoretical physicist, is president of the Origins Project Foundation and author of \"The Physics of Climate Change.\"</p><p>Google's 'Inclusive Language' Police</p>",
+  "published": "2022-01-21T23:13:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 519,
+          "end": 528
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

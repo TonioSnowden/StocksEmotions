@@ -1,0 +1,24 @@
+{
+  "_id": "cd7bd89f5166c0f6606485571cc9a31963721047d657c3b656f11727bedfcf83",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Software Company  Was Warned of Flaw  ---  Ransomware attack  has affected hundreds  of organizations  around the world  ----  By Dustin Volz and Robert McMillan",
+  "text": "<p>   WASHINGTON -- The software company linked to a massive ransomware spree that began last week and has affected hundreds of organizations across the globe was notified in early April of a cybersecurity vulnerability used in the attack, according to the Dutch security researcher group that discovered the issue. </p><p>   Kaseya Ltd., a Miami-based software supplier that helps technology-service providers manage computer networks, was told of a serious cybersecurity hole in its Kaseya VSA software on April 6, Victor Gevers, chairman of the Dutch Institute for Vulnerability Disclosure, said Wednesday. Mr. Gevers's organization, which is a volunteer-run security group, discovered the flaw. </p><p>   \"When we discovered the vulnerabilities in early April, it was evident to us that we could not let these vulnerabilities fall into the wrong hands,\" Mr. Gevers said in a blog post. \"After some deliberation, we decided that informing the vendor and awaiting the delivery of a patch was the right thing to do.\" </p><p>   Kaseya declined to comment on the timeline but said that Mr. Gevers's organization \"has been a great partner and we value the service they provide.\" </p><p>   The flaw reported by the Dutch group was one of seven vulnerabilities the group reported to Kaseya concerning its software, Mr. Gevers said. Kaseya has said multiple flaws were chained together in the attack, but it wasn't clear exactly how the attack was carried out or the extent to which all the flaws were used. </p><p>   Security researchers who uncover flaws in software frequently alert the companies discreetly before announcing any problems publicly in order to allow for a patch before hackers are made aware of them. But sometimes hackers independently detect the same security flaws before they are fixed. </p><p>   Mr. Gevers said Kaseya responded with urgency once it was notified of the vulnerabilities in its software and worked to quickly issue two patches -- one in April and another in May -- that addressed some of the security issues. </p><p>   But Kaseya is still working to fully patch its VSA software. In an update on its blog Wednesday, Kaseya said it had been unable to resolve an unidentified issue that blocked the release of its latest security update intended to address the ransomware attack. </p><p>    The ransomware cyberattack that began Friday -- for which a prolific ransomware gang based in Russia known as REvil has claimed responsibility -- is estimated to have hit hundreds of mostly small and medium-size businesses. It led to the shutdown of some locations of a supermarket chain in Sweden and created disruptions for schools in New England. On Tuesday, President Biden said the impact on U.S. businesses appeared to be minimal. </p><p>   Mr. Biden was expected to meet with senior officials from across his administration Wednesday to discuss the recent deluge of ransomware attacks that have been traced back to Russia-based criminal groups. </p><p>   More broadly, Russian cyberattacks, whether carried out by Russian intelligence agencies or criminal groups operating within Russia's borders, have become a top national security challenge for the Biden administration. On Tuesday, the Republican National Committee disclosed that one of its contractors, Synnex, had been breached by hackers, but said that \"after a thorough investigation, no RNC data was accessed.\" </p><p>   Hackers affiliated with the S.V.R., Russia's foreign intelligence service, are believed to be responsible for the Synnex breach, which was part of a larger espionage operation recently highlighted in a June alert by Microsoft Corp., according to people familiar with the matter. </p><p>   The Russian Embassy in Washington didn't respond to a request to comment. Russia has historically denied accusations made by the U.S. about engaging in cyberattacks. </p><p></p>",
+  "published": "2021-07-08T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3510,
+          "end": 3525
+        },
+        {
+          "start": 3510,
+          "end": 3519
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

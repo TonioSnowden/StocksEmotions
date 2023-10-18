@@ -1,0 +1,24 @@
+{
+  "_id": "ab5bdfd8227b2401f1fdff8f9082153a0f817b641ab861ffdd0da48fcc5db8b3",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Big Retailers Hit Hardest by Overstocking",
+  "text": "<p>Jason Miller, an associate professor of logistics at Michigan State University's Eli Broad College of Business, said the surplus of inventory is largely hitting general merchandise stores, including retailers like Target Corp., Walmart Inc., Kohl's Corp. and Macy's Inc., that turn over large amounts of goods based on seasonal patterns and consumer shopping trends.</p><p>\"When you step back and look at the overall picture, we're not drowning in inventories relative to where overall sales are at,\" Mr. Miller said. \"Inventories are still a little bit below pre-Covid levels.\"</p><p>The retail sector's ratio of inventories to sales, a measure of how much companies have in stock compared with what they sell, remains very tight by historical standards. The most recent Census Bureau data shows the ratio was at 1.18 in April 2022, compared with 1.48 in April 2019.</p><p>A lower ratio typically measures merchants' efficiency in matching stocks to sales, but if the measure gets too low, say experts, there are greater chances of stores running out of stocks and losing sales, which was a problem early in the pandemic when shelves were stripped bare because of the sharp pivot in consumer demand for specific products.</p><p>Among general merchandise stores, the level of inventories relative to sales has grown far beyond prepandemic levels, suggesting strategies to restock stores and warehouses have gotten out of step with consumer buying patterns, leaving stockpiles of unsold goods. At those stores, the ratio for inventories to sales was 1.58 in April, up sharply from 1.38 in April 2019, according to Census Bureau figures.</p><p>Delivery delays caused by port backlogs, factory closures and other supply-chain bottlenecks have caused many retailers to extend their buying cycles to ensure goods get on the shelves.</p><p>Nikki Baird, vice president of strategy at retail-software firm Aptos LLC, said she has seen clients place larger orders than necessary as a way of planning for the worst-case scenario, part of the shift from \"just-in-time\" inventory management to a \"just-in-case\" strategy.</p>",
+  "published": "2022-07-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 228,
+          "end": 240
+        },
+        {
+          "start": 228,
+          "end": 235
+        }
+      ]
+    }
+  ]
+}

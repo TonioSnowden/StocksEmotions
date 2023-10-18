@@ -1,0 +1,48 @@
+{
+  "_id": "058612ea2fe3b993d0e67ee10f28d632e28e9ffd20c341c08f8f19dd9b8ec561",
+  "feed": "wall-street-journal",
+  "title": "SolarWinds Hackers Target Another Weak Point in Tech Supply Chain; Firms that resell or manage cloud services are springboards for bigger attacks",
+  "text": "<p>In a blog post revealing the campaign, Tom Burt, Microsoft's corporate vice president for customer security and trust, said the activity suggests the Russia-linked hackers are broadening their push to infiltrate digital supply chains.</p><p>The group \"hopes to piggyback on any direct access that resellers may have to their customers' IT systems and more easily impersonate an organization's trusted technology partner to gain access to their downstream customers,\" he said in the blog post.</p><p>The Kremlin-linked group breached at least nine federal agencies and 100 firms in an espionage campaign last year by compromising a software update from network-management firm SolarWinds. Russia has denied involvement.</p><p>The hackers are now using tactics such as phishing attacks to breach vendors that help companies manage tools such as Microsoft's Office 365, said Charles Carmakal, chief technology officer for cybersecurity firm Mandiant Inc.</p><p>Such firms don't always have good logging practices that allow them to trace attackers' steps through their systems and onto those of their customers, said Mr. Carmakal, whose firm has worked with Microsoft to track the activity.</p><p>\"The actions that attackers take might not be recorded,\" he added. \"Once you figure out that an intrusion is happening, it's very difficult to figure out what an attacker did because you might not have any logs.\"</p><p>Companies often turn to managed-service providers to help them configure or run workplace software. They also can buy software from resellers licensed by technology vendors such as Microsoft. Responding to hacks can be particularly difficult if businesses don't know the extent of computer-access privileges they provide to either type of third-party partner, Mr. Carmakal said.</p><p>\"A lot of companies are surprised by that,\" he said.</p><p>Microsoft last year updated contracts with resellers to restrict some of their access privileges and require partners to install multifactor authentication, Mr. Burt said.</p><p>Since May, Russia-linked hackers have targeted at least 140 companies that resell or manage cloud-computing services and compromised as many as 14 of them, according to Microsoft. The company said the cyberattacks were part of a sharp increase in activity by the hacking group.</p><p>The Biden administration has urged federal software vendors to ramp up their defensive measures as part of a May executive order aimed at shoring up U.S. cybersecurity. Washington in recent years has also pushed the telecommunications and utilities sectors to scrutinize—or in some cases blacklist—suppliers in countries such as China and Russia.</p><p>But any given organization can still have blind spots in its supply chain, security experts say, opening the door for state-backed espionage or criminal hacking operations.</p><p>In July, a ransomware gang targeted Miami-based software firm Kaseya Ltd., breaching nearly 60 of its clients. Hackers then moved through the computer networks of those customers, some of whom were also technology service-providers, to reach hundreds of additional victims.</p><p>Such domino effects make tech suppliers efficient starting points for large-scale hacks, said John Hammond, senior security researcher at cyber firm Huntress Labs Inc.</p><p>\"IT solution providers are in the crosshairs and organizations should remain ever-vigilant following the slew of cyberattacks this year,\" he said.</p><p>Write to David Uberti at david.uberti@wsj.com</p>",
+  "published": "2021-10-26T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1809,
+          "end": 1818
+        },
+        {
+          "start": 1558,
+          "end": 1567
+        },
+        {
+          "start": 49,
+          "end": 60
+        },
+        {
+          "start": 825,
+          "end": 834
+        },
+        {
+          "start": 2150,
+          "end": 2159
+        },
+        {
+          "start": 49,
+          "end": 58
+        },
+        {
+          "start": 1131,
+          "end": 1140
+        },
+        {
+          "start": 825,
+          "end": 836
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

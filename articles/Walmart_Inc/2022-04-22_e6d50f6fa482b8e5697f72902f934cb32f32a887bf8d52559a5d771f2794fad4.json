@@ -1,0 +1,28 @@
+{
+  "_id": "e6d50f6fa482b8e5697f72902f934cb32f32a887bf8d52559a5d771f2794fad4",
+  "feed": "wall-street-journal",
+  "title": "Meta Falls Behind in Payments in India",
+  "text": "<p>It needs to get its act together quickly if it doesn't want to lose out to Google and Walmart in the race for controlling digital payments in the world's second-largest internet market. Meta has a popular mobile messaging platform in the country with WhatsApp, which has its own local payment service. But so far, the encrypted messaging app has been at loggerheads with the Indian government over multiple issues, all of which are likely impacting its payment ambitions in India.</p><p>The National Payments Corporation of India, or NPCI, the governing body that oversees the widely popular Unified Payment Interface, or UPI instrument, gave approval to WhatsApp last week to extend its payments service to 100 million users. That may sound like a lot, but it is only a fourth of WhatsApp's user base in India.</p><p>The development is still an improvement from where WhatsApp has been for the past few years. It was only in late 2020 when WhatsApp was allowed to expand the rollout of payments to 20 million users. The Indian government has stalled WhatsApp Payments' rollout for years now, at first because of Meta's refusal to store financial data in India, and then over concerns about privacy and cybersecurity. WhatsApp's decision to sue the Indian government last year over its rules to weaken encryption hasn't helped matters. The messaging app is also under antitrust investigation for its new privacy policy. The government has even restricted WhatsApp from sharing transaction data with Meta.</p><p>During this time, WhatsApp rivals Google Pay and Walmart-backed PhonePe have taken over the market. Combined, they control over 80% of the UPI market share, according to official figures published by the NPCI. In comparison, WhatsApp's payment share stands at an abysmal 0.02% by value. UPI transactions crossed $1 trillion in value in the financial year that ended in March. To be sure, no one can make money off UPI but it acts as a high-transaction feature to attract users to an app, and they can use it for shopping and bill payments.</p><p>NPCI's latest mandate, which has yet to be enforced, will likely restrict Walmart and Google's hold on the UPI market. But it has thrown WhatsApp a lifeline. According to the new rules, no third-party payment provider can exceed a 30% market share. This is expected to encourage more companies to challenge Google and Walmart's duopoly in the market. So Meta has an opening to catch up, but to take full advantage, it may need to patch up relations with Indian regulators.</p><p>In India, where WhatsApp is a standard communication tool, companies can potentially list products for sale, communicate and receive orders through messages and finally accept payment for them. By putting payments into WhatsApp, Meta would make it so users don't need to exit its family of apps throughout their purchase journey. It is the final piece in the company's commerce strategy that starts with advertising-led product discovery and shopping and ends with a transaction. Through payments, it would also get access to Indian small businesses to which it can eventually sell other financial and advertising products. But Meta is stuck on the starting line, while others are sprinting ahead.</p>",
+  "published": "2022-04-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 86,
+          "end": 93
+        },
+        {
+          "start": 2107,
+          "end": 2114
+        },
+        {
+          "start": 2351,
+          "end": 2358
+        }
+      ]
+    }
+  ]
+}

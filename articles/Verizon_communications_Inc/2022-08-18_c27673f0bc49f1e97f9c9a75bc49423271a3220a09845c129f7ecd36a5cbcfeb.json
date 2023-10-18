@@ -1,0 +1,82 @@
+{
+  "_id": "c27673f0bc49f1e97f9c9a75bc49423271a3220a09845c129f7ecd36a5cbcfeb",
+  "feed": "market-watch",
+  "title": "Verizon has 'few palatable options,' analyst says in downgrade; The phone company paid a 'stupendous sum' for 5G spectrum but has yet to realize extensive new revenue streams, according to MoffettNathanson",
+  "text": "<p>Verizon shares are off nearly 3% in Thursday afternoon trading.</p><p>As rival AT&amp;T Inc. T turned more promotional in recent years, Verizon has followed more a mixed strategy, according to Moffett. At times Verizon also amped up its offers, but it's cut them back more recently. As Moffett put it, Verizon \"seesawedbetween periods of promotionality and financial restraint, optimizing neither.\"</p><p>Aggressive industry-wide promotions can be a race to the bottom in the U.S. wireless market, and Moffett in the past has described Verizon as a sort of \"elder statesman\" that seemed to recognize the broader industry benefits of promotional restraint. But while Verizon historically was able to maintain higher pricing thanks to its strong network, T-Mobile US Inc. TMUS has the edge on quality in the current 5G era, and it also has lower prices.</p><p>\"In survey after survey, T-Mobile is pulling away, winning consistently not only for download and upload speeds, but for coverage and availability as well,\" Moffett wrote. \"Verizon's customer base, self-selected for their 'best network' positioning, appears particularly vulnerable.\"</p><p>Verizon now must also contend with growing competition from cable companies like Comcast Corp. CMCSA and Charter Communications Inc. CHTR, which offer their own wireless plans to consumers but leverage Verizon's network through a mobile virtual network operator (MVNO) agreement.</p><p>The arrangement lets Verizon benefit to some degree from the cable companies' growth, but that growth also cuts into opportunities for Verizon to add and retain its own true subscribers. Plus, the cable players charge less than traditional wireless companies, with a pricing strategy that has forced Verizon and its incumbent peers to offer their own lower-priced tiers to better compete.</p><p>\"To be sure, Verizon does recapture some value from their wholesale contract with Cable (as long as they don't lose more than their fair share to Cable),\" Moffett wrote. \"But that recapture almost certainly falls short of fully offsetting their share of retail subscriber losses to Cable and the industry-wide pricing disruption created by Cable's aggressive pricing and dramatic share gains.\"</p><p>Additionally, Moffett highlighted that Verizon and its rivals have yet to realize the lofty 5G benefits they had once expected, to the point where even company management teams seem to be backing off of such discussion, in his view.</p><p>\"Today, that enthusiasm [for incremental revenue opportunities from 5G] is mostly gone,\" he wrote. \"Admittedly, consensus expectations have also come down, so there is less room for disappointment. But the costs of the one-time enthusiasm – most notably in the debt associated with the stupendous sum Verizon spent on C-Band spectrum – remains.\"</p><p>See also: Verizon stock downgraded as Bank of America waits 'for 5G to be a thing'</p><p>Moffett sees Verizon with \"few palatable options,\" and he reduced his price target on the stock to $41 from $55.</p><p>He also cut his price target on AT&amp;T's stock to $17 from $19, though he kept a market perform rating.</p><p>Verizon shares have declined about 10% over the past three months, as AT&amp;T's has fallen roughly 9%. The S&amp;P 500 SPX is up nearly 5% over a three-month span.</p><p>Verizon has 'few palatable options,' analyst says in downgrade</p>",
+  "published": "2022-08-18T18:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 125,
+          "end": 132
+        },
+        {
+          "start": 199,
+          "end": 206
+        },
+        {
+          "start": 516,
+          "end": 523
+        },
+        {
+          "start": 645,
+          "end": 652
+        },
+        {
+          "start": 1112,
+          "end": 1119
+        },
+        {
+          "start": 1314,
+          "end": 1321
+        },
+        {
+          "start": 1412,
+          "end": 1419
+        },
+        {
+          "start": 1526,
+          "end": 1533
+        },
+        {
+          "start": 1690,
+          "end": 1697
+        },
+        {
+          "start": 2209,
+          "end": 2216
+        },
+        {
+          "start": 2755,
+          "end": 2762
+        },
+        {
+          "start": 2841,
+          "end": 2848
+        },
+        {
+          "start": 3041,
+          "end": 3048
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.0,
+        "baseWeight": 15.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "4b5e56f3a63e322380ec9736211765865bf658bd63aa09f01190f851d385d4dd",
+  "feed": "wall-street-journal",
+  "title": "Dish Network Enlists IBM to Help Build 5G Network; IBM will provide orchestration software, technology that helps network providers manage and automate how they deliver 5G services",
+  "text": "<p>The terms of Dish's multiyear contract with IBM weren't disclosed.</p><p>Dish jumped into the U.S. wireless industry in 2019, purchasing about 9 million former Sprint Corp. customers as part of a government-brokered deal that allowed T-Mobile US Inc. to acquire Sprint. Dish's consumer cellphone brands include Boost Mobile, Ting and Republic Wireless.</p><p>Dish has been obtaining 5G spectrum airwaves for years with ambitions of being a formidable competitor in the wireless sector.</p><p>Chief Network Officer Marc Rouanne said Dish could target a number of industries, including logistics and healthcare. He declined to say what kinds of companies are testing Dish's 5G service and when it would become generally available.</p><p>IBM will provide what is known as orchestration software, technology that helps network providers manage and automate how they deliver 5G services, including fine-tuning speed levels or coverage areas for specific customers. For instance, an autonomous-car operator might need low latency, or quick response times, for fleets of cars in certain cities, while an energy company might be fine with slower response times over a broader coverage area.</p><p>\"Today, it's like a highway, and once you're on it you don't have priority over anyone else,\" Mr. Rouanne said. He added that IBM's software can divide that highway into customized lanes for each customer, allowing them to \"steer the service according to the needs of the sub-network.\"</p><p>IBM's software will run on Amazon Web Services, an IBM spokeswoman said. Amazon.com Inc. announced in April that it would provide cloud services for Dish's 5G network.</p><p>5G network providers are increasingly adopting cloud-computing infrastructure, which makes it easier for providers to roll out new workloads and use cases, said Patrick Filkins, a research manager at research firm International Data Corp. Software doesn't have to be tied to specific hardware. The upshot, he said, is that 5G networks are more agile and can be manipulated in ways that are difficult to do with 4G and older-generation networks.</p><p>Every major telecom provider deploying 5G has ambitions for orchestration software for network customization, Mr. Filkins said.</p><p>Write to Jared Council at jared.council@wsj.com</p><p>Dish Network Enlists IBM to Help Build 5G Network</p>",
+  "published": "2021-09-15T17:50:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 51,
+          "end": 54
+        },
+        {
+          "start": 2255,
+          "end": 2258
+        },
+        {
+          "start": 1285,
+          "end": 1288
+        },
+        {
+          "start": 44,
+          "end": 47
+        },
+        {
+          "start": 1496,
+          "end": 1499
+        },
+        {
+          "start": 711,
+          "end": 714
+        },
+        {
+          "start": 21,
+          "end": 24
+        },
+        {
+          "start": 1445,
+          "end": 1448
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "c9e35bb39dc4ce7fd3dc8a07776b31ad2930695857e543deb541c94af989aff9",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>China Evergrande made an overdue interest payment to international bondholders, China's state-owned Securities Times reported.</p><p>Snap said it expects growth to slow in the current quarter due to recent changes to Apple's App Store privacy rules, sending its stock down 22% after hours.</p><p>The S&amp;P 500 rose 0.3% to close at a record, while the Nasdaq gained 0.6%. The Dow slipped 0.02%.</p><p>Investors piled into shares of the special-purpose acquisition company taking Trump's new social-media platform public.</p><p>Western Digital's talks to merge with Japanese chip maker Kioxia Holdings in a $20 billion-plus deal have stalled.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-10-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 211,
+          "end": 216
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

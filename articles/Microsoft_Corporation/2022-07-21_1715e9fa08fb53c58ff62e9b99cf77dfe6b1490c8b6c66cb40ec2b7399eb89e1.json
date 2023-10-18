@@ -1,0 +1,80 @@
+{
+  "_id": "1715e9fa08fb53c58ff62e9b99cf77dfe6b1490c8b6c66cb40ec2b7399eb89e1",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Microsoft, Oracle Boost Links Between Their Clouds  ----  By Steven Rosenbush",
+  "text": "<p>   Oracle Corp. and Microsoft Corp. announced a deeper interoperability of their clouds, allowing customers to more easily run projects across the two platforms. </p><p>   Years ago, many cloud providers tried to lock customers into a single platform, but that is no longer feasible as the cloud has become more central to operations. Customers typically use multiple clouds, and cloud platform providers such as Microsoft and Oracle are adapting to that multicloud environment. About two-thirds of enterprise-level companies use multiple clouds, according to a May 2021 report by Boston Consulting Group. </p><p>   The Oracle Database Service for Microsoft Azure was announced today at Microsoft Inspire, an online event for Microsoft partners. </p><p>   It builds on an integration introduced in 2019, known as Oracle Interconnect for Microsoft Azure. That earlier step connected Oracle Cloud Infrastructure to Microsoft Azure cloud infrastructure. It required a fair amount of effort and technical expertise on the part of customers to make it work, the companies said. </p><p>   \"Over the last couple years we have had a lot of success with that. And we also got a lot of customer feedback. And one of the things that customers [said] was, 'Hey, it's great you are working together, but we really would like a more integrated experience,'\" said Clay Magouyrk, executive vice president, Oracle Cloud Infrastructure. </p><p>   \"The ability to benefit from both clouds, and the flexibility, is a real win for customers,\" said Corey Sanders, corporate vice president of Microsoft Cloud for Industry and Global Expansion. </p><p>   The new service connects Oracle's database service directly to the Azure cloud, eliminating custom work that previously would have been required. </p><p>   In practice, that means an Oracle database user can move data easily to the Microsoft Azure cloud and have access to Microsoft tools such as Azure Synapse, which analyzes the data, the companies said. </p><p>   There are no fees associated with data transfer between the two cloud platforms, although customers will pay for other services beyond data transfer, such as Azure Synapse or the self-tuning and patching Oracle Autonomous Database. </p><p>   The new service includes a dashboard with a single sign-on process. That means Oracle customers who move workloads to Azure can still work in an Oracle-like environment and vice versa, reducing the need for customers to learn new systems. </p><p>   Oracle and Microsoft interconnects are in 11 facilities in the Americas, Europe and Asia. That physical proximity allows a less than 2-millisecond level of latency or delay in communication across the cloud platforms, the companies said. </p><p>   Oracle and Microsoft have made the service available on an early basis to a number of companies including Veritas Technologies LLC, a multicloud data management company based in Santa Clara, Calif. </p><p>    Amazon.com Inc.'s Amazon Web Services, Microsoft Azure and Alphabet Inc.'s Google Cloud accounted for 65% of the $53 billion in global cloud-service spending in the first quarter of the year, up from 52% four years ago, according to Synergy Research Group. </p><p></p>",
+  "published": "2022-07-21T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2635,
+          "end": 2644
+        },
+        {
+          "start": 17,
+          "end": 32
+        },
+        {
+          "start": 1517,
+          "end": 1526
+        },
+        {
+          "start": 804,
+          "end": 819
+        },
+        {
+          "start": 2397,
+          "end": 2406
+        },
+        {
+          "start": 17,
+          "end": 26
+        },
+        {
+          "start": 1831,
+          "end": 1840
+        },
+        {
+          "start": 400,
+          "end": 409
+        },
+        {
+          "start": 664,
+          "end": 673
+        },
+        {
+          "start": 2861,
+          "end": 2876
+        },
+        {
+          "start": 703,
+          "end": 712
+        },
+        {
+          "start": 804,
+          "end": 813
+        },
+        {
+          "start": 625,
+          "end": 640
+        },
+        {
+          "start": 1790,
+          "end": 1805
+        },
+        {
+          "start": 12,
+          "end": 21
+        },
+        {
+          "start": 880,
+          "end": 895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "4c2d4c0b2fa5e445c45d5f73ffe6b2bee74126fbb229f76a39e368272d3d3c4a",
+  "feed": "wall-street-journal",
+  "title": "Google-Facebook Ad Deal Is Investigated by EU, U.K. Antitrust authorities open probes into a once-secret 2018 deal known as Jedi Blue",
+  "text": "<p>The European Commission, the EU's top antitrust enforcer, and the U.K.'s Competition and Markets Authority said Friday they are each investigating a once-secret 2018 deal, known as Jedi Blue, that emerged as part of a lawsuit brought a year and a half ago by a group of U.S. states led by Texas.</p><p>The Texas lawsuit argues that Google gave Meta special terms and access to its ad server, a ubiquitous tool for allocating advertising space across the web, in return for its abandoning a rival advertising technology that could have undermined Google's control over online ads.</p><p>Both Google and Meta disputed the characterization of their deal as potentially anticompetitive. They both said it wasn't an exclusive deal, and Google said Meta didn't receive special treatment compared with other partners.</p><p>The opening of a case is a key procedural step in European competition probes. If the commission or the U.K.'s CMA find evidence of wrongdoing, they can file formal charges; if not, they say they could drop their cases. The two authorities said they plan to cooperate in their investigations.</p><p>The two new cases are part of a big wave of antitrust enforcement in Europe. In recent years, the commission has filed formal charges against Apple Inc. for allegedly abusing its control over the distribution of music-streaming apps, including Spotify, and against Amazon.com Inc. for allegedly using nonpublic data it gathers from third-party sellers to unfairly compete against them. Both companies have denied wrongdoing.</p><p>Google and Meta have been major targets. The EU opened a probe last year looking at whether Google abuses its leading role in the advertising-technology sector, while the U.K. has agreed to a settlement with Google giving the CMA oversight of the company's plan to stop supporting an advertising technology called third-party cookies in its Chrome browser.</p><p>Google denies its ad-tech business is anticompetitive and says it will work with EU regulators in their probe. The company also points to its settlement with the U.K. as an example of how it works with regulators to promote competition.</p><p>The enforcement of existing laws also comes as big tech companies brace for the broadest expansion in technology regulation in a generation.</p><p>The EU is finalizing the texts of two new tech laws, one that seeks to limit potential abuses of dominance and the other that aims to force them to do more policing of online content, both backed by significant fines.</p><p>Friday's cases will examine the 2018 contract between the two companies, in which Meta agreed for its so-called audience network, which displays ads on third-party websites, to participate in a Google ad program called Open Bidding, the authorities said. That Google program is an alternative to a rival technology that allows websites to circumvent Google's powerful ad exchange when selling ads.</p><p>The Texas lawsuit claims that Google gave Meta preferential terms that effectively lowered its costs to buy ads, with the aim of undercutting the rival bidding technology, which is called Header Bidding. The EU and U.K. said they were investigating whether the Google-Meta deal aimed to exclude or hindered the growth of competing systems such as Header Bidding.</p><p>\"We're concerned that Google may have teamed up with Meta to put obstacles in the way of competitors who provide important online display advertising services to publishers,\" said Andrea Coscelli, head of the U.K.'s CMA.</p><p>A Google spokeswoman said Friday that the company's Open Bidding program has more than 25 partners and that Meta didn't get preferential treatment. Google also said that Header Bidding's popularity has continued to grow. A Meta spokesman said its Google deal is similar to those it has with other bidding platforms.</p><p>Write to Sam Schechner at sam.schechner@wsj.com</p><p>Google-Facebook Ad Deal Is Investigated by EU, U.K.</p>",
+  "published": "2022-03-11T11:25:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1234,
+          "end": 1243
+        },
+        {
+          "start": 1234,
+          "end": 1244
+        },
+        {
+          "start": 1234,
+          "end": 1239
+        }
+      ]
+    }
+  ]
+}

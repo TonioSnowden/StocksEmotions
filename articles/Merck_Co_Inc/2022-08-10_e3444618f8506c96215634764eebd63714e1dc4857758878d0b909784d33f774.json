@@ -1,0 +1,38 @@
+{
+  "_id": "e3444618f8506c96215634764eebd63714e1dc4857758878d0b909784d33f774",
+  "feed": "wall-street-journal",
+  "title": "Biotech Startup Cerevance Strikes Alzheimer's Research Deal With Merck; Company could earn more than $1 billion through the collaboration",
+  "text": "<p>Under the deal, Merck agreed to pay Cerevance $25 million up front and could pay up to $1.1 billion more in success-based payments. Cerevance also could earn royalties on sales of drugs emerging from the collaboration.</p><p>Complex neurological diseases have long frustrated pharmaceutical companies, but the field received good news this week when biotech company Karuna Therapeutics Inc. said a schizophrenia drug it is developing met its primary goal in a late-stage clinical trial.</p><p>Cerevance in March also said it had seen positive results from a mid-stage clinical trial of a drug it is developing for Parkinson's disease patients.</p><p>\"Hopefully the tide is turning,\" said Cerevance Chief Executive Craig Thompson.</p><p>Cerevance gathers brain tissue from brain banks, or centers that obtain brains from organ donors. It then examines the tissue to identify lines of attack on brain diseases, studying metrics such as which genes are over- or underactive in a given disease, according to Mr. Thompson.</p><p>That technology underpins this new collaboration with Merck and Cerevance's own drug-discovery process. Cerevance also has a partnership with Takeda Pharmaceutical Co. to research treatments for gastrointestinal disorders.</p><p>Cerevance's treatment for Parkinson's disease patients, which shows potential to help patients better control their symptoms, will enter later-stage clinical trials in early 2023, Mr. Thompson said.</p><p>In a trial starting early next year, Cerevance will study the drug as an adjunct to existing Parkinson's medications. In addition, the company plans a separate trial to see if its drug also could be used as a stand-alone treatment before patients begin to receive the Parkinson's drug levodopa, Mr. Thompson said.</p><p>Cerevance, which in 2020 extended its Series B round of venture funding to $65 million, is now seeking another round of financing as it prepares for new Parkinson's disease clinical trials starting next year, Mr. Thompson said.</p><p>Write to Brian Gormley at brian.gormley@wsj.com</p>",
+  "published": "2022-08-10T14:55:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 16,
+          "end": 21
+        },
+        {
+          "start": 65,
+          "end": 70
+        },
+        {
+          "start": 1041,
+          "end": 1046
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.9201703,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9201702,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

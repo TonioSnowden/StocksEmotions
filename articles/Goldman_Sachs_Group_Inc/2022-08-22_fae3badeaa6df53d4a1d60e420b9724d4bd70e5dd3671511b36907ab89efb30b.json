@@ -1,0 +1,50 @@
+{
+  "_id": "fae3badeaa6df53d4a1d60e420b9724d4bd70e5dd3671511b36907ab89efb30b",
+  "feed": "wall-street-journal",
+  "title": "BYD, Tesla's Chinese Rival, Is Coming Into Its Own; China's top electric-vehicle maker has emerged as a formidable force—one that could soon be felt globally",
+  "text": "<p>* Recommendation: Buy</p><p>* Price: HK$278</p><p>BYD, China's largest electric-vehicle maker, has had a stellar year. Gathering clouds over the Chinese economy could prove a temporary headwind but the company's business acumen is hard to argue with: The Warren Buffett-backed auto maker managed to extend its lead over domestic rivals in July, with sales of its new-energy vehicles more than tripling to a record.</p><p>Beijing's continued commitment to the sector also helps. The stock has almost doubled from its 52-week low in March on the back of government incentives for cleaner vehicles. BYD now trades at 56 times next 12 months' estimated earnings, according to FactSet, matching U.S. rival Tesla but much lower than smaller Chinese peer Li Auto, which sits at 109.</p><p>And as China competes with the West over green energy and high-tech manufacturing, domestic adoption of electric vehicles continues to accelerate rapidly. BYD, now one of the world's most valuable car makers, is emerging as a big beneficiary, assisted by its vertically integrated operations that include battery- and chip-making capabilities. The number of battery electric vehicles sold in China reached nearly two million in the first half of 2022, according to HSBC. The bank estimates BEV penetration in China will rise from 17% in 2022 to 30% in 2025.</p><p>Goldman Sachs, meanwhile, expects BYD's share of China's new-energy-vehicle market will rise from 26% in the first quarter of this year to 36% in 2023 and 45% in 2025. One reason: BYD designs and produces practically all of its vehicles' most valuable components, including batteries, motors and some semiconductors like microcontrollers. That has proven to be a huge advantage in recent years as supply-chain snarls have tripped up competitors, including Tesla, and gives BYD an edge by allowing it to shorten its product cycles.</p><p>BYD is also scouting lithium mines to protect itself from surging prices of the essential battery metal. Despite rapid sales growth, BYD's margins were hammered last year due to high raw material prices. Net margins fell to 1.4% in 2021 from 2.6% a year earlier, according to FactSet. That compares with Tesla's 10.3%.</p><p>There is some hope of that reversing however, as commodity prices retreat again and new, pricier models hit showroom floors: The models in BYD's launch pipeline are twice as expensive as prior ones, according to Goldman Sachs. The bank expects BYD's net margin to expand to 2.2% this year and 2.5% in 2023.</p><p>BYD has also paid down debt rapidly in recent years and as of December had more cash and short-term investments on hand than debt according to FactSet—a reverse of the situation as recently as June last year. In the downside scenario of a nasty Chinese recession, that could prove to be an important cushion.</p><p>One obvious challenge at home will be getting buyers to pony up for pricier cars with China's economy, potentially at least, deep in the doldrums. But for now at least, the company still seems confident. BYD, which reports on Aug. 29, said in July that first-half net income could climb as much as 207% to 3.6 billion yuan, equivalent to about $528 million.</p><p>Sustaining such heady numbers will be a challenge but with strong, cost-effective technology, an integrated supply chain and Beijing's determination to dominate the sector, it would be a mistake to count BYD out.</p><p>Write to Megha Mandavia at megha.mandavia@wsj.com</p><p>BYD, Tesla's Chinese Rival, Is Coming Into Its Own</p>",
+  "published": "2022-08-22T10:07:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99998564,
+      "offsets": [
+        {
+          "start": 2378,
+          "end": 2391
+        },
+        {
+          "start": 1316,
+          "end": 1323
+        },
+        {
+          "start": 1307,
+          "end": 1320
+        },
+        {
+          "start": 1316,
+          "end": 1329
+        },
+        {
+          "start": 2362,
+          "end": 2375
+        },
+        {
+          "start": 2378,
+          "end": 2385
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.800004,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 4.172325e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

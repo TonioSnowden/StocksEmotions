@@ -1,0 +1,24 @@
+{
+  "_id": "b9a2f13bbb91f1a7ac75d0ded37f45c223f7c71fc1aa371de8e97a508c49fbaa",
+  "feed": "wall-street-journal",
+  "title": "Business News: Amazon's Challenge Over Pentagon Pact Kept Alive in Court",
+  "text": "<p>The move opens the door to continued protracted court battles over Joint Enterprise Defense Infrastructure, or JEDI.</p><p>Some Pentagon officials have suggested in recent months that the Defense Department might have to consider other approaches to obtaining enterprise-level cloud services, rather than pursuing further years of litigation over the Joint Enterprise Defense Infrastructure, or JEDI, contract.</p><p>Asked for comment, the Pentagon referred to a statement a Defense Department technology official made in January in connection with the JEDI litigation.</p><p>\"Regardless of the JEDI Cloud litigation outcome, the Department continues to have an urgent, unmet requirement for enterprise-wide, commercial cloud services,\" that statement said. \"We will be prepared to ensure it is met one way or another.\"</p><p>Amazon's cloud division, Amazon Web Services, said it was pleased with the ruling. \"AWS continues to be the superior technical choice, the less expensive choice, and would provide the best value to the DoD and the American taxpayer.</p><p>A Microsoft spokesman dismissed the decision as procedural. \"Not once, but twice, professional procurement staff at the DoD chose Microsoft after a thorough review,\" he said.</p>",
+  "published": "2021-04-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1165,
+          "end": 1174
+        },
+        {
+          "start": 1037,
+          "end": 1046
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

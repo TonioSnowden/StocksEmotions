@@ -1,0 +1,32 @@
+{
+  "_id": "e88641c1af0b6d6f8ae1bf9b9dcc870eb55a26ad60c9564fcbc9fa9c1e218779",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: FDA Clears Blood Cancer Treatment",
+  "text": "<p>The approval suggests a possible path forward for Western drugmakers seeking to bring China-developed drugs to the U.S. amid concerns about the quality of the drugs' development: conducting separate, confirmatory studies in Americans.</p><p>In one of J&amp;J's U.S. studies, about 98% of the 97 multiple-myeloma patients treated with Carvykti had a significant reduction in the proteins that signal the presence of myeloma, and 83% had a complete remission, indicating no detectable cancer cells, at a median of 22 months after treatment.</p><p>Joseph Mikhael, chief medical officer of the International Myeloma Foundation, said the effectiveness demonstrated in the study was \"really unprecedented. That's why there's so much excitement around it.\"</p><p>Multiple myeloma is a cancer affecting plasma cells, and although other treatments have extended patients' survival in recent years, it is estimated to cause more than 12,400 deaths each year in the U.S., according to the American Cancer Society.</p><p>J&amp;J's Carvykti belongs to a class of therapies known as CAR-T, short for chimeric antigen receptor T cell. CAR-T is a complex treatment that starts with extracting a patient's own T-cells, the infection-fighting white blood cells that are part of the immune system.</p><p>The patients' T-cells are genetically engineered in laboratories, so that when they are injected back into the patient about four weeks later, these modified T-cells target and kill cancer cells.</p><p>Development of some CAR-T therapies has also sparked safety concerns, which have forced companies to halt some trials. CAR-Ts can cause serious side effects such as overstimulating the immune system, and medical centers need to be specially trained to monitor patients after treatment.</p><p>On Monday, a Belgian company, Celyad Oncology SA, said it paused a study of an experimental CAR-T in people with colorectal cancer after two patients died. Celyad said it is investigating the deaths.</p><p>Carvykti is now the sixth CAR-T therapy cleared for use in the U.S., after Novartis AG, Bristol-Myers Squibb Co. and Gilead Sciences Inc. introduced others, all for blood cancers.</p><p>Uptake of the medicines hasn't been explosive partly because of the complexity of manufacturing and administering them to patients. In some cases, there has been a squeeze on the supply of a virus that is used in the production process. Combined sales of CAR-Ts have risen to $1.7 billion in 2021 from $340 million in 2018, according to the companies' earnings reports.</p><p>J&amp;J has said Carvykti alone could eventually generate at least $5 billion in sales a year world-wide.</p><p>The therapies are some of the most expensive new drugs, some priced at more than $400,000 per patient. Drug-price watchdogs have called the pricing excessive, which could put them out of reach for some patients.</p><p>The companies note that CAR-Ts are given as a one-time treatment, have been found to be effective and are costly to develop and manufacture.</p><p>J&amp;J's Carvykti carries a price tag of $465,000 per patient for the one-time treatment. The company expects most insurers and Medicare will cover the treatment, a spokesman said.</p><p>The previously approved CAR-T therapies were largely based on research and testing in Western countries.</p>",
+  "published": "2022-03-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 2479,
+          "end": 2482
+        },
+        {
+          "start": 245,
+          "end": 248
+        },
+        {
+          "start": 981,
+          "end": 984
+        },
+        {
+          "start": 2934,
+          "end": 2937
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "02ce9d9c5b1742711826867f9039ec5c94f2d2af3d00175d9693607281509988",
+  "feed": "wall-street-journal",
+  "title": "Bed Bath & Beyond Stock Surges  ----  By Jodi Xu Klein, Soma Biswas and Andrew Scurria",
+  "text": "<p>   Bed Bath &amp; Beyond Inc. shares soared as much as 70% on Tuesday before retreating to close up 29%, defying recent analysts' warnings over the retailer's exaggerated valuation given its shrinking liquidity. </p><p>   The stock of the home-goods company changed hands at as high as $28.04 a share in late-morning trading, surging from $8.88 on Aug. 9. </p><p>   The jump in shares coincided with a modest rally in Bed Bath &amp; Beyond's debt prices. Its 2044 notes traded at 31.6 cents on the dollar Tuesday, up from 24.3 cents five days ago, according to MarketAxess. </p><p>   The sharp rise in shares came despite a number of analysts' warnings about dwindling liquidity at the retailer, which is fighting to maintain the confidence of suppliers and investors after a push into private-label brands that didn't resonate with consumers. Bed Bath &amp; Beyond ended May with roughly $100 million in cash, after burning throughover $300 millionof its reserves and borrowing $200 million from its credit line. </p><p>   Research analyst Susan Anderson at B. Riley Securities earlier Tuesday cut the rating on the company to sell, saying its $2.2 billion valuation is \"unrealistic.\" </p><p>   Justin Kleber, a research analyst at Robert W. Baird &amp; Co., last week downgraded the company to \"underperform,\" saying the frenzied move in shares has been driven by market participants who aren't focused on fundamentals. Mr. Kleber said turning around the business will be difficult. </p><p>   The jump in Bed Bath &amp; Beyond's shares is inconsistent with its debt prices, which are trading at deep discounts to face value, noted Tero Janne, co-head of the restructuring group at financial advisory firm Solomon Partners. </p><p>   Bed Bath &amp; Beyond has been addressing the liquidity issues in the past month. The retailer, known for its large assortment of home-goods products, is hunting for $375 million in a first-in-last-out loan that would build cash and help manage an existing asset-based debt facility, according to people with knowledge of the matter. </p><p>   Responses to the loan proposal, marketed by JPMorgan Chase &amp; Co., are expected this week, said the people, who asked not to be named, citing the private nature of the talks. The loan would be secured by equity in the company's Buy Buy Baby brand, they said. </p><p>   Bed Bath &amp; Beyond and JPMorgan didn't respond to requests for comment. A FILO loan is generally structured within an asset-based lending facility and is funded in full at the closing. In an event of default, it becomes subordinated to other senior secured debt. </p><p>   The company's cash burn is projected at roughly $200 million in the second quarter ending in August and would jump to $400 million if its vendors decide to shorten the payment requirements from 60 to 30 days, according to a Bank of America analyst report. </p><p></p>",
+  "published": "2022-08-17T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 2252,
+          "end": 2260
+        },
+        {
+          "start": 2004,
+          "end": 2024
+        },
+        {
+          "start": 2238,
+          "end": 2246
+        },
+        {
+          "start": 2016,
+          "end": 2036
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

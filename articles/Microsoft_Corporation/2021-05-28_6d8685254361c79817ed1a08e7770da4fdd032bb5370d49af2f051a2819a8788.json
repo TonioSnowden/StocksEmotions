@@ -1,0 +1,48 @@
+{
+  "_id": "6d8685254361c79817ed1a08e7770da4fdd032bb5370d49af2f051a2819a8788",
+  "feed": "ftcomall",
+  "title": "Rebel AI group raises record cash after machine learning schism",
+  "text": "<p>A breakaway group of <a href=\"https://www.ft.com/artificial-intelligence\">artificial intelligence</a> researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era's most powerful technology.</p> <p>The group has split from OpenAI, an organisation founded with the backing of Elon Musk in 2015 to make sure that superintelligent AI systems do not one day run amok and harm their makers. The schism followed differences over the group's direction after it took a landmark $1bn investment from Microsoft in 2019, according to two people familiar with the split.</p> <p>The new company, Anthropic, is led by Dario Amodei, a former head of AI safety at OpenAI. It <a href=\"https://www.anthropic.com/news/announcement\">has raised</a> $124m in its first funding round. That is the most raised for an AI group trying to build generally applicable AI technology, rather than one formed to apply the technology to a specific industry, according to the research firm PitchBook. Based on figures revealed in a company filing, the round values Anthropic at $845m.</p> <p>The investment was led by Jaan Tallinn, the Estonian computer scientist behind Skype. Eric Schmidt, the former chief executive of Google, and Dustin Moskovitz, co-founder of Facebook, have also backed the venture.</p> <p>The break from OpenAI started with Amodei's departure in December, and has since grown to include close to 14 researchers, according to one estimate. They include Amodei's sister, Daniela Amodei, Anthropic's president, as well as a group of researchers who worked on GPT-3, OpenAI's <a href=\"https://www.ft.com/content/51f1bb71-ce93-4529-9486-fec96ab3dc4d\">breakthrough</a> automatic language system, including Jared Kaplan, Amanda Askell, Tom Henighan, Jack Clark and Sam McCandlish.</p> <p>OpenAI changed course two years ago when it sought Microsoft's backing to feed its growing hunger for computing resources to power its deep-learning systems. In return, it promised the software company first rights to commercialise its discoveries.</p> <p>“They started out as a non-profit, meant to democratise AI,” said Oren Etzioni, head of the AI institute founded by the late Microsoft co-founder Paul Allen. “Obviously when you get $1bn you have to generate a return. I think their trajectory has become more corporate.”</p> <p>OpenAI has sought to insulate its research into AI safety from its newer commercial operations by limiting Microsoft's presence on its board. However, that still led to internal tensions over the organisation's direction and priorities, according to one person familiar with the breakaway group.</p> <p>OpenAI would not comment on whether disagreement over research direction had led to the split, but said it had made internal changes to integrate its work on research and safety more closely when Amodei left. </p> <p>Microsoft won exclusive rights to tap OpenAI's research findings after <a href=\"https://www.ft.com/content/df752cc6-ac98-11e9-8030-530adfa879c2\">committing $1bn</a> to back the group, much of it in the form of technology to support its computing-intensive deep learning systems, including GPT-3. Earlier this week Microsoft said it had embedded the language system in some of its software-creation tools so that people without coding skills could create their own applications.&#xa0;</p> <p>The rush to rapidly commercialise <a href=\"https://www.ft.com/content/beaae8b3-d8ac-417c-b364-383e8acd6c8b\">GPT-3</a> comes in contrast to OpenAI's handling of an earlier version of the technology, developed in 2019. The group initially said it would not release technical details about the breakthrough out of concern over potential misuse of the powerful language system, though it later reversed course.</p> <p>To insulate itself against commercial interference, Anthropic has registered as a public benefit corporation with special governance arrangements to protect its mission to “responsibly develop and maintain advanced AI for the benefit of humanity”. These include creating a long-term benefit committee made up of people who have no connection to the company or its backers, and who will have the final say on matters including the composition of its board.</p> <p>Anthropic said its work would be focused on “large-scale AI models”, including making the systems more easy to interpret and “building ways to more tightly integrate human feedback into the development and deployment of these systems”.</p> <p><em>This article has been amended since initial publication to correct the number of researchers leaving OpenAI for Anthropic and Dario Amodei's previous roles at OpenAI</em></p><p>Source: Richard Waters and Miles Kruppa in San Francisco 2021 'Rebel AI group raises record cash after machine learning schism' FT.com 28 May. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-05-28T22:38:14.092Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1729,
+          "end": 1740
+        },
+        {
+          "start": 2052,
+          "end": 2061
+        },
+        {
+          "start": 562,
+          "end": 571
+        },
+        {
+          "start": 2703,
+          "end": 2712
+        },
+        {
+          "start": 2305,
+          "end": 2316
+        },
+        {
+          "start": 2939,
+          "end": 2948
+        },
+        {
+          "start": 2305,
+          "end": 2314
+        },
+        {
+          "start": 1729,
+          "end": 1738
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

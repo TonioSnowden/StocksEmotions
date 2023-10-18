@@ -1,0 +1,42 @@
+{
+  "_id": "c35a118b012af10d993d39f25b534bdce5a6c50a7f2c379ebb033d097caeaa0c",
+  "feed": "wall-street-journal",
+  "title": "RIP Big Bull Market (1982-2022); From start to finish, the Dow rose from 776.91 to 36800, a 9.6% annual rate.",
+  "text": "<p>Were there any clues that a rip-roaring bull market was starting? In 1982 the federal-funds rate was 10%, down from a peak of 19% a year earlier, and it began a long, steady drop until hitting zero in December 2008. It was still zero this March. Not anymore. The price-earnings multiple in 1982 was 7.7.</p><p>The biggest clue was that most investors in 1982 were either complacent or had sworn off owning stocks after years of awful returns. Reminder: Bear markets are no fun. Stocks often go up in the morning and down in the afternoon. And there are bull traps—stocks rally for months, enticing gullible momentum investors, only to be followed by gut-wrenching drops.</p><p>The bull born in 1982 got some help. Investors started to seek higher returns than bonds. President Reagan cut taxes, especially on capital gains, driving capital formation. Lower interest rates meant a lower cost of exploring new ideas. And explore we did.</p><p>It is no coincidence that the IBM PC was introduced exactly a year earlier, with its whopping 16 kilobytes of memory standard. For around $3,000, you could buy a fully appointed computer that couldn't do much. But in October 1981 the VisiCalc spreadsheet program became available for the IBM PC for $100. Now PCs were little firecrackers of productivity. \"VisiCalc took 20 hours of work per week for some people and turned it out in 15 minutes,\" noted founder Dan Bricklin.</p><p>Smart brokerage firms told skeptical clients to go out and buy something, almost anything. The real gem was the digital technology that was changing the workplace, doing more with less. The stock market funded Silicon Valley, which boosted corporate offerings and earnings, which then goosed the stock market. This virtuous circle brought the internet to the masses and created cloud computing, search engines, the iPhone, Uber and same-day delivery. Notably, its endgame was Carvana and crypto.</p><p>As a wet-behind-the-ears engineer designing chips, I was hired by Paine Webber to track semiconductor companies soon after the bull's birth. The industry was a roller coaster—shortages followed by gluts. Still is. Not wanting gray hair and ulcers, I searched for Silicon Valley's fountain of growth. It was pretty simple: the elasticity of ever-declining costs for chips, per bit, per gate, per function drove demand. These magic beans fed the stampeding stock-market bull as cheaper laser printers, servers and eventually smartphones were delivered to the masses.</p><p>Forty-seven times in 40 years is a heck of a run. A lot of folks made a lot of money. But as the adage goes, don't confuse a bull market with brains. Especially with technology—don't just buy a name and stick with it. Digital Equipment and its minicomputers peaked in 1987. IBM began a long stretch of mediocrity. Apple was practically dead until the iPhone. Intel had a good run but lost its formula. Meanwhile, cloud and e-commerce and social-media companies became earnings machines and trillion-dollar babies.</p><p>But now what? Like it or not, we're in a new era. Capital, as always, sloshes around the globe searching for its highest return. Inflation usually means money is attracted to real assets rather than ideas. Energy? Real estate? Commodities? Fixed income will be attractive again. Corporate earnings, meanwhile, have started to decline as input costs—material, labor, regulatory overhead—spiral upward, red meat for bears.</p><p>Of course, a new bull market could start anytime, but don't even think about another big one driven by interest-rate declines until, well, interest rates go up enough. Instead, the next bull will be fueled by earnings growth from whatever drives productivity next. Forget last cycle's winners, find new ones—next-generation machine intelligence, geothermal energy, gene therapy, insta-vaccines, nuclear fusion or, more likely, something completely out of left field that starts out expensive, is dismissed by skeptics and then gets relentlessly cheaper over decades, creating wealth for society.</p><p>This is why we should always nurture the supply side, with capital-forming low tax rates and regulations that allow productivity to increase. The bull is dead, long live the bull.</p><p>Write to kessler@wsj.com.</p><p>RIP Big Bull Market (1982-2022)</p>",
+  "published": "2022-08-07T21:45:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.9961601,
+      "offsets": [
+        {
+          "start": 2697,
+          "end": 2700
+        },
+        {
+          "start": 2732,
+          "end": 2735
+        },
+        {
+          "start": 1211,
+          "end": 1214
+        },
+        {
+          "start": 953,
+          "end": 956
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0001454,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00014531612,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

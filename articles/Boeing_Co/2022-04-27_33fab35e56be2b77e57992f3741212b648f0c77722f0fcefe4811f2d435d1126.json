@@ -1,0 +1,37 @@
+{
+  "_id": "33fab35e56be2b77e57992f3741212b648f0c77722f0fcefe4811f2d435d1126",
+  "feed": "reuters",
+  "title": "RPT-BUZZ-PREVIEW: Boeing shares fall; quarterly results due early Wed",
+  "text": "<p>** Earlier, Texas Republican Sen. Ted Cruz backed the families of passengers killed in two fatal Boeing 737 MAX crashes, sharply criticizing the Justice Department's deferred prosecution agreement with Boeing 737 MAX crashes, sharply criticizing the Justice Department's deferred prosecution agreement with</p><p>** Also on Tues was news Boeing entered 737 MAX maintenance, repair and overhaul (MRO) agreement with Spirit AeroSystems Holdings Inc entered 737 MAX maintenance, repair and overhaul (MRO) agreement with</p><p>** BA expected to report an increase in rev to $16.021 bln from $15.217 bln a yr ago, while it is expected to post a loss of 27c/shr vs a yr-ago loss of $1.53/shr, according to Refinitiv data</p><p>** The company has missed consensus earnings expectations in six of the last eight reporting periods, based on Refinitiv data</p><p>** The average analyst rating on the stock is a \"buy,\" while the median 12-mo price target on the stock is $250, per Refinitiv data. BA was last at ​$167.30</p><p>** BA 's stock is down about 17% YTD while the Dow Jones industrial average is down about 8% in that period</p>",
+  "published": "2022-04-27T09:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999922,
+      "offsets": [
+        {
+          "start": 18,
+          "end": 24
+        },
+        {
+          "start": 97,
+          "end": 103
+        },
+        {
+          "start": 332,
+          "end": 338
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.910242,
+        "baseWeight": 3.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9102422,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

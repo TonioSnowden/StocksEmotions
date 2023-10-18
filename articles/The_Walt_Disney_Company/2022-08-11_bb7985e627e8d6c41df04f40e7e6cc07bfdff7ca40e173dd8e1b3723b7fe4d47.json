@@ -1,0 +1,42 @@
+{
+  "_id": "bb7985e627e8d6c41df04f40e7e6cc07bfdff7ca40e173dd8e1b3723b7fe4d47",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>The Nasdaq entered a bull market, rising 2.9% after the release of the inflation data, while the S&amp;P 500 and Dow gained 2.1% and 1.6%, respectively. U.S. government bonds rallied.</p><p>---</p><p>Disney posted a 26% jump in revenue, driven by record results at its theme parks division and the addition of more new subscribers than projected to Disney +. The company lowered its forecast for future Disney + growth.</p><p>---</p><p>SoftBank said it would sharply reduce its stake in Chinese e-commerce giant Alibaba , a move that preserves cash at SoftBank as it rides out a severe downturn.</p><p>---</p><p>A federal jury in Chicago convicted two former traders at JPMorgan charged with manipulating gold prices, finding they used misleading orders to rig prices.</p><p>---</p><p>The SEC proposed requiring large hedge funds to report their cryptocurrency exposure through a confidential filing known as Form PF.</p><p>---</p><p>Samsung Electronics unveiled its latest models of two of the world's most-expensive phones.</p><p>---</p><p>United Airlines paid a $10 million deposit for 100 electric flying taxis, a sign it is growing more confident in the nascent technology.</p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99279994,
+      "offsets": [
+        {
+          "start": 387,
+          "end": 395
+        },
+        {
+          "start": 333,
+          "end": 341
+        },
+        {
+          "start": 184,
+          "end": 190
+        },
+        {
+          "start": 384,
+          "end": 392
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8841023,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.3900001,
+        "tagPositionWeight": 0.27410257,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

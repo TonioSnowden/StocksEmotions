@@ -1,0 +1,34 @@
+{
+  "_id": "d4912b6a8a114a450c53ea38f7139ffbec7a98d3d6b4f7c428dc74d258eaab9b",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  CFOs Weigh In on Disclosure Proposals  ----  By Jennifer Williams-Alvarez",
+  "text": "<p>   Two proposed rules on sustainability- and climate-related disclosures drew responses from more than a hundred companies, weighing in on the benefits of a global baseline for disclosures and the drawbacks of revealing information that could put a company at a competitive disadvantage. </p><p>   The International Sustainability Standards Board, which sets climate-disclosure rules, is considering two proposals that would require companies to disclose sustainability- and climate-related risks. Together, the proposals drew more than 1,300 comments, including from chief financial officers at Caterpillar Inc., Intel Corp., Levi Strauss &amp; Co. and Verizon Communications Inc. </p><p>   One letter -- signed by more than 80 CFOs -- stressed that the ISSB should focus on aligning its standards with existing and developing reporting standards, and that the board should also quickly move to sustainability topics other than climate, such as social issues. </p><p>   Some executives raised questions on how the ISSB's rules would interact with the Securities and Exchange Commission's proposal to require companies to report on greenhouse-gas emissions and climate risks. Tobacco company Philip Morris International Inc., for one, expressed concern on the threshold for inclusion of information in the ISSB's proposals. Limited to climate-related data, the SEC's proposal is likely narrower than the broader sustainability issues the ISSB is looking at, Philip Morris CFO Emmanuel Babeau said. </p><p>   \"If information responding to ISSB requirements is meant to be included in regulated filings or linked from regulated filings, the definition of the threshold for inclusion (significant risks and opportunities) is confusing and likely at odds with the SEC standard for inclusion,\" he said in a July 29 letter. This means it may not be feasible for companies listed in the U.S. to include the disclosures in financial filings, Mr. Babeau noted in the comment, which was co-signed by the company's chief sustainability officer, Jennifer Motles. </p><p>   Even where such disclosures aren't prohibited, he added, litigation fears could lead companies to exclude them from financial filings. </p><p>   The SEC's rule proposal, however, was less gently received during its comment period, which ended in June and drew roughly 3,400 letters. Companies skewered the proposal, saying it would be costly to follow and lacked clarity on the threshold for disclosure. </p><p>   Last week, ISSB Chair Emmanuel Faber said the board is actively considering the actions of the SEC and others. A working group including the ISSB and authorities from five jurisdictions -- the U.S., China, Japan, the European Union and the U.K. -- is meeting regularly to coordinate and understand disclosure expectations from each, he said. </p><p>   \"We cannot have the goal of a global baseline where companies and investors can use comparable information and reliable information without looking at what very important jurisdictions are doing,\" Mr. Faber said. This includes the SEC, he added. </p><p>   The SEC didn't respond to a request to comment. </p><p>   Mr. Faber said the ISSB board will review at a September meeting the feedback provided during the comment period, which closed July 29. He expects the new rules to be issued early next year, giving companies more time to implement the requirements, he said. Previously, the rules had been expected by year-end. </p><p>   One of the ISSB proposals would require companies to disclose significant climate-related risks, such as floods and other extreme weather events. The other requires companies to share information on sustainability risks more broadly, and the processes in place to manage them. </p><p>   The ISSB's proposals aim to set a baseline on disclosures as companies grapple with varying frameworks, standards and regulatory disclosure requirements from around the world. More companies are using multiple frameworks, with 80% of them doing so in 2020 compared with 68% in 2019, according to research firm Audit Analytics. </p><p>   \"We're trying to have as close to one single version of the truth,\" said Caterpillar CFO Andrew Bonfield, referring to efforts for a baseline standard. \"Because ultimately, we're providing this information to investors. And if you don't have comparability, it's very hard.\" </p><p></p>",
+  "published": "2022-08-13T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US1491231015",
+      "nexusId": "10011563",
+      "name": "Caterpillar Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 581,
+          "end": 597
+        },
+        {
+          "start": 583,
+          "end": 599
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.005977,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0059769154,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

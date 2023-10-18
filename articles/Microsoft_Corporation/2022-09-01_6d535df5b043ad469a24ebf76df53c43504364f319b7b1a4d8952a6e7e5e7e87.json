@@ -1,0 +1,78 @@
+{
+  "_id": "6d535df5b043ad469a24ebf76df53c43504364f319b7b1a4d8952a6e7e5e7e87",
+  "feed": "ftcomall",
+  "title": "Microsoft's $75bn Activision deal threatened with in-depth UK competition probe",
+  "text": "<p>Microsoft's $75bn acquisition of video game maker Activision Blizzard has been threatened with an in-depth UK competition probe that could derail the landmark deal, unless the US tech giant manages to address antitrust concerns by next week. </p> <p>The UK's competition regulator said that it believed the deal would hurt Sony and other makers of games consoles, while presenting a threat to open competition in new markets such as gaming subscriptions services and cloud gaming. It gave Microsoft five days to come up with undertakings that would resolve its worries or face an extended probe.</p> <p>The challenge makes the Competition and Markets Authority the first global antitrust regulator to sound the alarm over the transaction, and sets out the issues that Microsoft will have to overcome to pull off its biggest-ever deal. The CMA's objection last year to another giant tech tie-up, Nvidia's $40bn purchase of chip designer Arm, was made after a similar initial investigation and laid down a marker for international regulatory action that eventually led to it being called off. </p> <p>The Activision deal would make Microsoft the third-biggest gaming company in terms of revenues, behind only China's Tencent and Japan's Sony. The CMA warned it would put Microsoft in a position to harm rivals by refusing them access to Activision games, or by providing access on much worse terms.</p> <p>Sorcha O'Carroll, senior director of mergers at the CMA, said: “Following our phase 1 investigation, we are concerned that Microsoft could use its control over popular games like <em>Call of Duty</em> and <em>World of Warcraft</em> post-merger to harm rivals, including recent and future rivals in multi-game subscription services and cloud gaming.”</p> <p>The deal also faces scrutiny from other regulators but the European Commission is not expected to begin its formal review process for at least another month, according to one person familiar with the schedule. The US Federal Trade Commission does not follow a set timetable and has not given any clues about its thinking on the deal.</p> <p>The <a href=\"https://www.gov.uk/government/news/microsoft-activision-deal-could-lead-to-competition-concerns\">CMA said</a> that if its concerns were not addressed by Microsoft providing suitable remedy proposals within five working days then it would investigate the deal using a so-called phase 2 probe. This would involve an independent panel examining the acquisition in depth and analysing competition implications.</p> <p>Microsoft has already tried to win over regulators and industry opponents by saying that <em>Call of Duty</em>, the blockbuster game that has brought in $30bn in lifetime sales for Activision, will <a href=\"https://blogs.microsoft.com/on-the-issues/2022/02/09/open-app-store-principles-activision-blizzard/\">continue to be available</a> on other companies' game consoles after the deal, rather than being turned into an exclusive title on Microsoft's Xbox. </p> <p>It has also promised that any online games stores it runs will remain open, giving rival games makers an equal chance of finding an audience.</p> <p>The US company has claimed the Activision purchase will leave it with only 13 per cent of the games market, making it hard for regulators to object to the deal on normal “horizontal” merger grounds involving the combination of two companies in the same market. Instead, any case is likely to turn on whether the “vertical” merger between a content producer and hardware platform would harm competition.</p> <p>Microsoft president and vice-chair Brad Smith said: “We're ready to work with the CMA on next steps and address any of its concerns. Sony, as the industry leader, says it is worried about <em>Call of Duty</em>, but we've said we are committed to making the same game available on the same day on both Xbox and PlayStation. We want people to have more access to games, not less.”&#xa0;</p> <p>The ruling by the CMA comes as the UK regulator seeks to carve out a leadership role in global regulation post-Brexit by striking uncompromising stances on prominent deals. Britain's exit from the EU has given the CMA powers to block big global deals that were once the responsibility of Brussels even if they have limited connection to the UK.</p><p>Source: Jane Croft in London and Richard Waters in San Francisco 2022 'Microsoft's $75bn Activision deal threatened with in-depth UK competition probe' FT.com 1 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-01T13:47:05.778Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 479,
+          "end": 488
+        },
+        {
+          "start": 481,
+          "end": 490
+        },
+        {
+          "start": 750,
+          "end": 759
+        },
+        {
+          "start": 1102,
+          "end": 1111
+        },
+        {
+          "start": 1240,
+          "end": 1249
+        },
+        {
+          "start": 1490,
+          "end": 1499
+        },
+        {
+          "start": 2087,
+          "end": 2096
+        },
+        {
+          "start": 2096,
+          "end": 2105
+        },
+        {
+          "start": 2339,
+          "end": 2348
+        },
+        {
+          "start": 2655,
+          "end": 2664
+        },
+        {
+          "start": 2666,
+          "end": 2675
+        },
+        {
+          "start": 3214,
+          "end": 3223
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.0,
+        "baseWeight": 14.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

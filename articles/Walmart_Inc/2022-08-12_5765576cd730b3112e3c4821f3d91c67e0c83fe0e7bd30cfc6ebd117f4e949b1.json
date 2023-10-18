@@ -1,0 +1,30 @@
+{
+  "_id": "5765576cd730b3112e3c4821f3d91c67e0c83fe0e7bd30cfc6ebd117f4e949b1",
+  "feed": "wall-street-journal",
+  "title": "YouTube Advances Plans for Streaming Video Marketplace; Ultracompetitive U.S. market is prompting streaming services to seek new ways to find subscribers",
+  "text": "<p>YouTube currently allows subscribers to YouTube TV, its $64.99-a-month online package of cable channels, to add on a subscription to services such as HBO Max. The new marketplace would allow consumers to choose streaming services a la carte through the main YouTube app.</p><p>YouTube, which is owned by Alphabet Inc., will be joining the likes of Amazon.com Inc., Roku Inc. and Apple Inc., which all have their own hubs to sell streaming video services. With an array of apps now available, these tech giants are trying to position themselves as the go-to place for consumers to get access to all of their favorite movies and shows. Selling multiple services through a single app can make life easier for consumers.</p><p>Typically, companies with streaming hubs get a share of revenue from purchases within their marketplaces. YouTube is discussing splitting subscription revenue with streaming partners, although the terms may vary widely for each partner, according to people familiar with the situation. YouTube declined to comment.</p><p>For streaming video services, which are facing greater competition and slowing growth in the U.S., the YouTube store offers another avenue to get in front of potential customers. Companies are exploring a variety of new marketing and distribution strategies to boost sign-ups.</p><p>NBCUniversal's Peacock has had discussions with potential partners about adding their streaming services to its app, according to people familiar with the discussions. Peacock declined to comment.</p><p>Walmart is contemplating adding streaming services as a new perk to its membership program. Netflix Inc. and other streaming services have agreed to be part of Verizon's new Plus Play subscription manager, which lets customers sign up for and manage their streaming services through the connectivity company's interface.</p><p>(More to come.)</p><p>YouTube Advances Plans for Streaming Video Marketplace</p>",
+  "published": "2022-08-12T21:56:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1488,
+          "end": 1495
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.81450695,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.18549377,
+        "tagPositionWeight": 7.1525574e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 8
+    }
+  ]
+}

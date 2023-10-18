@@ -1,0 +1,54 @@
+{
+  "_id": "0cde7439c7addaf02755e8d5c20128ea4b165efbca12de7fe54b1f693a087b8b",
+  "feed": "market-watch",
+  "title": "Apple's enviable cash hoard is dwindling. Here's what that means for the stock. Companies distributing cash to shareholders perform better",
+  "text": "<p>According to a longstanding theory in corporate finance, companies with cash hoards underperform those with smaller savings accounts, on average. This theory was laid out several decades ago by Michael Jensen, an emeritus professor of business administration at Harvard Business School. In a now-famous 1986 article in the American Economic Review, Jensen argued that companies would be less efficient to the degree they hoarded cash above and beyond what was needed for current operations.</p><p>Why would too much cash be a bad thing? Jensen theorized that it encourages corporate managers to engage in foolish behaviors. Jensen argued that shareholders should try to \"motivate managers to disgorge the cash rather than investing it at below the cost of capital or wasting it on organization inefficiencies.\"</p><p>That's the theory. But does it hold up in practice? To get insight, I reached out to Rob Arnott, founder of Research Affiliates. Arnott was co-author in 2003 (with Cliff Asness of AQR Capital Management) of a study that provided empirical support for Jensen's theory. Their study, which appeared in the Financial Analysts Journal, was entitled \"Surprise! Higher Dividends = Higher Earnings Growth.\"</p><p>They analyzed corporate earnings growth over 10-year periods between 1871 and 2001 and found that earnings grew the fastest following years in which companies' dividend-payout ratios were the highest. Companies that hoarded their cash instead of distributing it to shareholders performed more poorly, on average.</p><p>In an interview, Arnott said he believes the conclusions he and Asness reached two decades ago are still valid. He therefore considers Apple's shrinking cash hoard to be a positive for the company's future prospects.</p><p>What if Apple in the future needed the cash it no longer has? Arnott replied that the company would only need to approach the debt or equity markets to raise the cash, which it would have no trouble doing — provided it was going to use the cash for a productive purpose. This proviso is the key to why a small cash hoard is positive, Arnott argued: It imposes market discipline and accountability on any new projects or investments a company might want to make. With high levels of cash, in contrast, there is no such discipline or accountability.</p><p>In any case, Apple doesn't appear to be suffering in the wake of its diminished cash hoard. Since year-end 2019, during which its cash- and short-term investments have fallen 55%, return on equity jumped to 163% from 55%, according to FactSet. Over the same period the stock has produced a 35.3% annualized total return, tripling the 11.1% for the S&amp;P 500 SPX.</p><p>The bottom line? Plausible as the narrative may be that shrinking cash levels are a bad omen, they in fact appear to be a positive development. The broader investment implication is to dig below the surface when presented with such narratives.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com</p><p>More: Apple raises $5.5 billion in debt after upbeat earnings, iPhone sales offset fears of a consumer pullback</p><p>Also read: Just do it: Buy these 3 powerhouse consumer stocks that company insiders love</p><p>Apple's enviable cash hoard is dwindling. Here's what that means for the stock.</p>",
+  "published": "2022-08-05T11:25:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999904,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1637,
+          "end": 1642
+        },
+        {
+          "start": 1652,
+          "end": 1657
+        },
+        {
+          "start": 1726,
+          "end": 1731
+        },
+        {
+          "start": 2275,
+          "end": 2280
+        },
+        {
+          "start": 3049,
+          "end": 3054
+        },
+        {
+          "start": 3244,
+          "end": 3249
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

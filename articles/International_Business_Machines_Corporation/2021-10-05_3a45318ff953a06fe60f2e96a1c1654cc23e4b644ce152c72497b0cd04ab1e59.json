@@ -1,0 +1,20 @@
+{
+  "_id": "3a45318ff953a06fe60f2e96a1c1654cc23e4b644ce152c72497b0cd04ab1e59",
+  "feed": "wall-street-journal",
+  "title": "AI Startup Domino Data Lab Raises $100 Million in New Funding; San Francisco startup says its machine-learning platform provides hub to coordinate large data-science teams",
+  "text": "<p>Domino Data has raised $228 million since its founding in 2013. Private-equity firm Great Hill Partners led the series F round with participation from graphics-chip maker Nvidia Corp. and existing investors Coatue Management, Highland Capital Partners and Sequoia Capital. The company didn't disclose its valuation.</p><p>The San Francisco-based company offers a platform that helps companies with their machine-learning operations, or MLOps, specifically in the building, deploying and ongoing management of the basic building blocks of machine-learning applications called models.</p><p>Domino Data's customers include aerospace and defense giant Lockheed Martin Corp., auto maker Ford Motor Co. and other large multinational companies.</p><p>Businesses are expanding their use of machine-learning and other AI technologies to enhance the customer experience, increase sales and improve operations. Research firm International Data Corp. in August forecast global spending on AI will grow from $85.3 billion in 2021 to more than $204 billion in 2025.</p><p>But businesses creating and deploying machine-learning models across their operations often have trouble coordinating the efforts of large data-science teams, Mr. Elprin said. In addition, those teams often lack a central resource where they can access the data and compute power needed to train their models and where they can monitor the performance of their models once they go live, he said.</p><p>\"Data scientists build these great models in a sort of an R&amp;D lab environment. But there are actually a lot of technical challenges and operational risks moving them in production,\" said Mr. Elprin</p><p>The Domino Data platform provides companies a central hub for tapping compute resources as well as for cataloging and tracking models once they're deployed.</p><p>Peter Krensky, a director, analyst on the business analytics and data-science team at technology research and advisory firm Gartner Inc., said businesses are finding machine-learning platforms to be a \"mission control center\" that allow hundreds or even thousands of models to be managed.</p><p>Other companies offering data-science and machine-learning platform tools include Databricks Inc., Dataiku Inc., DataRobot Inc., International Business Machines Corp. and SAS Institute Inc. The market for these tools grew almost 8% to $4.33 billion last year from $4.02 billion in 2019, according to Gartner.</p><p>Lockheed said it's been using Domino Data's platform since 2017 and that it allows more than 700 data scientists to coordinate their work, share resources and reduce the expected time to build new models.</p><p>The company used Domino Data to build an application that matches job openings and employees' skills. The application has paired thousands of employees to new jobs within the company, said Michael Johnson, Lockheed's senior manager of artificial intelligence and machine learning.</p><p>Lockheed also used the platform to build an application to help it keep tabs on its thousands of suppliers.</p><p>Across the company, according to Mr. Johnson, Domino Data makes data scientists perhaps 20% to 25% more productive, which is adding up to thousands of hours in time savings.</p><p>Write to John McCormick at john.mccormick@wsj.com</p><p>AI Startup Domino Data Lab Raises $100 Million in New Funding</p>",
+  "published": "2021-10-05T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 2204,
+          "end": 2235
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

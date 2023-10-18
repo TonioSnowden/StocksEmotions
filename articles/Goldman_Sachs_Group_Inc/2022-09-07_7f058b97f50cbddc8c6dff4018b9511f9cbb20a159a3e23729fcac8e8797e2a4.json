@@ -1,0 +1,34 @@
+{
+  "_id": "7f058b97f50cbddc8c6dff4018b9511f9cbb20a159a3e23729fcac8e8797e2a4",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Foreign Funds Place Hopes on India  ----  By Megha Mandavia",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  The Indian stock market is roaring, outperforming its emerging-market peers, even as recession fears grip the world amid rising debt costs and stubborn inflation. </p><p>\n  The MSCI India Index has gained over 8% in the past three months, while the MSCI Emerging Market index and the U.S. S&amp;P 500 have lost 6%. </p><p>\n  Foreign institutional investors have returned with a bang: Asia saw foreign buying of $10 billion in August, the first monthly net inflow this year, led by buying in India, which attracted $7 billion of those flows, according to Goldman Sachs. </p><p>\n  The bounceback might seem odd at first glance, as there has been plenty of concerning news. Last week, India said its economy grew 13.5% in the April-June period from a year earlier, the fastest pace in a year, data released by the Statistics Ministry showed. But that was still short of the central bank's forecast of a 16.2% increase. Following that reading, credit-rating firms and banks cut their 2022 growth outlooks for the country. Around the same time, the Indian rupee touched a record low against the dollar. </p><p>\n  So, is the Indian stock market divorced from market realities, or is something else going on? </p><p>\n  The answer may lie with India's strong domestic consumption story, its relative insulation from the global economy and a fall in oil prices since June. </p><p>\n  However, investors may have to watch out for any weakening of domestic demand during the coming festive season. </p><p>\n  According to BofA Securities, consumption sentiment faltered in July amid elevated levels of inflation and unemployment. It added that there are further downside risks to earnings from the weakening global economy and a high base for profits in the year-earlier period. But the bank said any hit to profits is unlikely to be steep in the near term, given the sharp correction in crude and commodity prices. </p><p>\n  India is the third-largest global importer of oil -- importing more than 80% of the oil it needs. As oil prices started to tick down in June, Indian markets started to inch up. According to FactSet, Brent crude global spot prices have fallen 25% over the last three months. </p><p>\n  Lower oil prices can help cool supply-side inflation in India, giving the country's central bank a breather on rate increases. India has raised the benchmark policy rate by 1.4 percentage points in three moves since May, and has vowed to do more to bring inflation under its 6% target ceiling. Recently, the central bank said India has shown resilience despite war and recession fears globally. </p><p>\n  With slim pickings around the world for investors to bet their money on right now, India might seem like an opportunity. But it comes with its own baggage for investors to carry. </p><p></p>",
+  "published": "2022-09-07T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 567,
+          "end": 580
+        },
+        {
+          "start": 567,
+          "end": 574
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.006872,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.006872058,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

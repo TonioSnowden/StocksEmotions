@@ -1,0 +1,34 @@
+{
+  "_id": "bd4e454ad74dd6dd79819a23cd398f2821e3cf5a8ed335bcf7972dfbbcfdc360",
+  "feed": "wall-street-journal",
+  "title": "FTC's Antitrust Posture Spurs Companies to Rethink Mergers",
+  "text": "<p>\"In all too many areas of our economy, including agriculture, airlines, healthcare, we've seen significant consolidation and reduction of competition,\" Ms. Khan said in an interview. \"Mergers have played a role in that.\"</p><p>The FTC issued 42 letters of investigation over mergers or similar transactions during the 2021 fiscal year, according to the latest available data, almost double the number for 2020 and the highest in more than 10 years. Deal makers, antitrust attorneys and Republicans complain that in some cases the FTC is trying to slow down deals where there isn't a credible threat to competition.</p><p>\"The emphasis is on using process to make doing deals more expensive and to heighten the risk, delay and uncertainty of doing those deals,\" said Christine Wilson, a Republican commissioner who has been critical of Ms. Khan's management.</p><p>Bankers and boards of directors are now more aware of the risk that antitrust enforcers will investigate, which has sometimes led companies to postpone merger plans, said Eric Swedenburg, co-head of the M&amp;A practice at Simpson Thacher LLP.</p><p>\"Boards are well aware of the aggressive antitrust enforcement regime right now,\" Mr. Swedenburg said. \"You have to assume you're not going to get a pass on anything.\"</p><p>Companies will still pursue deals, Pfizer Inc. Chief Executive Albert Bourla said at a recent conference. \"But I foresee challenges, particularly large-scale acquisitions,\" he said. Pfizer has agreed to a $5.4 billion deal for another drugmaker, while Amazon.com Inc. has made public two acquisitions in recent weeks valued at a total of about $5.6 billion.</p><p>The FTC can sue to block deals, but it can also reach settlements that require companies to undo some effects of a merger.</p><p>Those settlements have grown stricter under Ms. Khan, who revived a tactic the FTC abandoned more than 20 years ago: requiring a merged company to seek approval for future deals, even those below the $101 million threshold that triggers disclosure to the agency.</p><p>The agency has also stopped giving companies early assurance that deals won't be investigated, while dealing with a surge in the number of mergers it must review.</p><p>Ms. Khan, a former law professor, is seeking to unwind decades of legal precedent favoring corporate expansion through acquisition. She contends that prevailing antitrust theories focus too heavily on consumer prices while neglecting the downside of markets dominated by large companies.</p><p>\"Congress created laws that embed a certain default skepticism of mergers,\" Ms. Khan said. \"That's a law that we're charged with enforcing.\"</p><p>Business groups contend that mergers benefit everyday people through lower prices and better service.</p><p>One of Ms. Khan's first moves at the FTC was to withdraw guidelines adopted in 2020 that had outlined the FTC's policy toward vertical mergers, or deals that don't fuse direct competitors. Typically, these involve a large company buying a supplier or distributor of their products.</p><p>The former guidelines said that in evaluating whether to challenge vertical deals, the FTC would consider whether they lower a company's production costs, and with that, potentially lead to lower consumer prices.</p><p>In repealing the guidelines, Ms. Khan and other Democrats said federal law bars any merger that substantially lessens competition, \"even if a merger does create efficiencies.\"</p><p>A few months later, the FTC challenged two vertical mergers, semiconductor giant Nvidia Corp.'s purchase of ARM, a global chip design company, and Lockheed Martin Corp.'s plans to buy a rocket motor manufacturer.</p><p>Instead of litigating with the FTC, Nvidia and Lockheed called off the deals.</p><p>On July 27, the FTC, on a partisan vote, made public an unusual merger challenge: alleging Facebook owner Meta Platforms Inc.'s deal to acquire a virtual-reality fitness game creator would impede potential -- not necessarily current -- competition.</p><p>The FTC said Meta could have improved choices for consumers by developing its own VR-exercise app. That would have enhanced competition, and conversely the decision to buy a competitor's app would do the opposite, the FTC said.</p><p>Meta has said the FTC's lawsuit is based on ideology and speculation about how VR works and whether Meta could have developed its own game.</p><p>FTC officials counter that the acquisition reflects a pattern in which tech companies gobble up potential rivals to gain dominance.</p><p>The FTC is also suing to break up Meta, alleging it created a social-media monopoly through an illegal pattern of buying nascent competitors such as Instagram. Meta is fighting the suit and argues it has improved Instagram and other services.</p><p>The number of reviewable mergers more than doubled in 2021, but the FTC logged fewer merger enforcement actions than during the last fiscal year of the Trump administration.</p><p>The number of enforcement cases is on track to rise this year, however, and antitrust lawyers attribute that partly to the fact that Ms. Khan can rely on the vote of a third Democrat, Alvaro Bedoya, who was recently confirmed to the five-member commission.</p><p>Many on Wall Street doubt whether some of the year's biggest deals will be approved. Traders give Microsoft Corp.'s planned acquisition of game publisher Activision Blizzard Inc. a 60% probability of the deal being completed, according to Christopher Colpitts at brokerage Cowen Inc.</p><p>Ms. Khan also has targeted stricter oversight of private equity, an industry that can \"strip and flip\" companies and degrades their productive capacity, she said.</p><p>Twice in June, the FTC settled with private-equity firm JAB Consumer Partners, which was acquiring animal hospitals in Texas, California, Washington, D.C., Virginia and Colorado. The agreements required JAB to tell the FTC about any other clinics it wants to buy near its existing assets in other states. JAB said that it had no objections to the terms.</p>",
+  "published": "2022-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 5175,
+          "end": 5190
+        },
+        {
+          "start": 5140,
+          "end": 5155
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4701837,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.52981627,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

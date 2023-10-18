@@ -1,0 +1,32 @@
+{
+  "_id": "42357cd1a046ccb02dc6499bb3cb2736e86cc37f29d797e0d2815f487a683948",
+  "feed": "ftcomall",
+  "title": "US Republican National Committee contractor hacked",
+  "text": "<p>The US Republican National Committee is co-operating with law enforcement officials after it emerged that one of its contractors had been hacked, but said that its own data had not been accessed. </p> <p>Richard Walters, RNC chief of staff, said that the political committee had been informed over the weekend “that Synnex, a third-party provider, had been breached”. He added: “We immediately blocked all access from Synnex accounts to our cloud environment.”&#xa0;</p> <p>A Russian state-backed cyber espionage group known as <a href=\"https://www.ft.com/content/dc2e7569-a5ce-4ee5-b584-7ccee6a9dfee\">Cozy Bear</a> is suspected of hacking Synnex, according to one person briefed on the matter. Also known as APT29, the group has been linked to the hacking and theft of emails from the <a href=\"https://www.ft.com/content/c07ce9d4-64cb-11e6-a08a-c7ac04ef00aa\">Democratic National Committee</a> ahead of the 2016 US election. </p> <p>It was also suspected of involvement in a cyber espionage <a href=\"https://www.ft.com/content/0548b0fb-4dce-4b9e-ab4b-4fac2f5ec111\">campaign uncovered last year</a> targeting US software company SolarWinds, in which the email systems of federal agencies and corporations were breached. </p> <p>Walters denied a report claiming that the RNC had also been successfully hacked by the Russian group. “Our team worked with Microsoft to conduct a review of our systems and after a thorough investigation, no RNC data was accessed,” he said. “We will continue to work with Microsoft, as well as federal law enforcement officials on this matter.”</p> <p>Synnex said that it was “conducting a thorough review of a few instances in which outside actors have attempted to gain access, through Synnex, to customer applications within the Microsoft cloud environment”, but it was unable to provide further details.&#xa0;</p> <p>The RNC contractor was breached as the Biden administration faces pressure to <a href=\"https://www.ft.com/content/81c644d4-811f-4d9c-b4ac-bb0ee1038526\">stop a string of cyber attacks</a> against US businesses and critical infrastructure in recent weeks.&#xa0;</p> <p>When President Joe Biden <a href=\"https://www.ft.com/content/d99ae424-ef3f-443e-a9b7-bbbe729478f3\">met Russian president Vladimir Putin</a> in Geneva last month, he demanded a halt to the attacks from within Russia from both state-backed hackers and criminal ransomware groups. But the attacks have continued.&#xa0;</p> <p>Over the weekend, a Russian-speaking criminal hacking cartel REvil — which is also believed to operate out of Russia — went on a global ransomware spree, <a href=\"https://www.ft.com/content/a8e7c9a2-5819-424f-b087-c6f2e8f0c7a1\">hitting as many as 1,500 companies</a> and forcing Sweden's Coop grocery chain to close hundreds of stores.</p> <p>At a briefing on Tuesday, even before the RNC disclosed the attack on its contractor, Jen Psaki, White House press secretary, said Biden administration officials were engaged with Russian officials on cyber matters. She said that “expert-level talks . . . are continuing and we expect to have another meeting next week focused on ransomware attacks”.</p> <p>Psaki added: “As the president made clear to President Putin when they met, if the Russian government cannot or will not take action against criminal actors residing in Russia, we will take action or reserve the right to take action on our own.”</p> <p>Biden is expected on Wednesday to meet top officials from the state department, the homeland security department, the justice department and US intelligence officials regarding the cyber attacks.</p> <p>Cybersecurity group FireEye said that Russian government-backed hackers were “active right now with intrusions”, suggesting that they were benefiting from security companies being focused on <a href=\"https://www.ft.com/content/0e7bdc3f-c016-4b8e-85fb-c7945a790fe5\">criminal ransomware</a> activities. </p> <p>Microsoft would not comment on the Synnex or RNC breach, but said: “We continue to track malicious activity from nation-state threat actors — as we do routinely — and notify impacted customers through our nation-state notification process.”</p><p>Source: Hannah Murphy in San Francisco and James Politi in Washington 2021 'US Republican National Committee contractor hacked' FT.com 7 July. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-07-07T03:44:08.820Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1081,
+          "end": 1090
+        },
+        {
+          "start": 1229,
+          "end": 1238
+        },
+        {
+          "start": 1482,
+          "end": 1491
+        },
+        {
+          "start": 3243,
+          "end": 3252
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

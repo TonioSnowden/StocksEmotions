@@ -1,0 +1,34 @@
+{
+  "_id": "e5dc5ed89e4cc52af4f7c64e5ad6d77e0b390f589f9e32df4253bbf6f68d0cfd",
+  "feed": "wall-street-journal",
+  "title": "U.S. Jobless Claims Fell Last Week in Tight Labor Market; Labor Department on Friday provides an update on August payrolls, wages gains and unemployment",
+  "text": "<p>Last week's total was above the 2019 weekly average of 218,000.</p><p>The four-week moving average for initial claims, which smooths out weekly volatility, fell by 4,000 to 241,500.</p><p>Continuing claims, a proxy for the number of people receiving government unemployment payments, increased to 1.44 million in the week ended Aug. 20 from 1.41 million a week earlier. Continuing claims are reported with a one-week lag.</p><p>The jobs market remains strong, but some signs have pointed to slowing momentum as the Federal Reserve raises interest rates to tamp down inflation running near a four-decade high. The average pace of job growth in the first half of the year was slower than in all of 2021, and job openings are down slightly from a record high this spring.</p><p>On Friday, the Labor Department will report how many jobs the U.S. economy added in August and say whether the unemployment rate held at the half-century low reached in July. The August employment report will include updated figures on wage gains, a factor driving high inflation.</p><p>Several companies, including Ford Motor Co., Walmart Inc., Robinhood Markets Inc. and Redfin Corp., have said they are laying off workers or plan to shrink their workforce as they face declining business activity and rising interest rates.</p><p>There are nearly two job openings for every unemployed worker seeking a job, meaning that it remains easy for laid-off workers to quickly land a new job. Companies are also raising wages as they compete for a limited pool of workers. Average hourly earnings were up 5.2% in July from a year earlier.</p><p>Write to Sarah Chaney Cambon at sarah.chaney@wsj.com</p><p>U.S. Jobless Claims Fell Last Week in Tight Labor Market</p>",
+  "published": "2022-09-01T13:11:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1069,
+          "end": 1081
+        },
+        {
+          "start": 1077,
+          "end": 1089
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000455,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.553795e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

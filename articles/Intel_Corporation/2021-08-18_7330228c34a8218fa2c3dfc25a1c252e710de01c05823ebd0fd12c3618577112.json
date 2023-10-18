@@ -1,0 +1,52 @@
+{
+  "_id": "7330228c34a8218fa2c3dfc25a1c252e710de01c05823ebd0fd12c3618577112",
+  "feed": "market-watch",
+  "title": "GlobalFoundries reportedly files for IPO, suggesting Intel acquisition isn't in the cards",
+  "text": "<p>Reuters reported Wednesday afternoon that GlobalFoundries sent IPO paperwork to the Securities and Exchange Commission, with plans to seek a valuation of about $25 billion, according to unnamed sources. The company is expected to publicly reveal the filing in October, Reuters reported, but market conditions could change the timing.</p><p>The Wall Street Journal reported last month that GlobalFoundries and Intel INTC were discussing a potential merger as Intel looks to ramp up its direct manufacturing amid a semiconductor shortage. Sources told Reuters that GlobalFoundries was concerned that a tie-up with Intel would harm relations with other customers, and that Intel had not made a formal offer.</p><p>For more: Intel wants to buy AMD's old chip-making business? How weird are semiconductor mergers going to get?</p><p>GlobalFoundries was once the manufacturing arm of Advanced Micro Devices Inc. AMD, but spun out of that chip company in a deal that gave partial ownership to Mubadala Investment Co. , Abu Dhabi's sovereign wealth fund that is now the majority owner of the entity. AMD, a fierce rival of Intel in chips for personal computers and servers, is still a major customer of GlobalFoundries.</p><p>Intel's stock was quiet in after-hours trading Wednesday after the report was released. Intel shares have gained 4.8% so far this year, as AMD shares have increased 12.8% and the S&amp;P 500 index SPX has increased 18.4%.</p>",
+  "published": "2021-08-18T17:43:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1097,
+          "end": 1102
+        },
+        {
+          "start": 53,
+          "end": 58
+        },
+        {
+          "start": 606,
+          "end": 611
+        },
+        {
+          "start": 1282,
+          "end": 1287
+        },
+        {
+          "start": 664,
+          "end": 669
+        },
+        {
+          "start": 403,
+          "end": 408
+        },
+        {
+          "start": 452,
+          "end": 457
+        },
+        {
+          "start": 709,
+          "end": 714
+        },
+        {
+          "start": 1194,
+          "end": 1199
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "a9771e1738324e2703ae8ff98285351bd2079decf2b73f2492837e21c04511fa",
+  "feed": "market-watch",
+  "title": "Watch: Southwest pilot warns passengers to 'quit sending naked pictures' over AirDrop, or it's everyone off the plane! The woman who posted the viral TikTok video says a few female passengers received an explicit image: 'It was a nude man that had AirDropped himself to everyone'",
+  "text": "<p>The caption for the 16-second clip posted by user Teighlor Marsalis — which has now been viewed more than 2 million times — indicates that Southwest \"takes airdropping nudes very seriously.\"</p><p>Marsalis told CNN that before the flight took off to Cabo San Lucas, Mexico, two women sitting in front of her received an explicit image via AirDrop, and they showed it to her. A third woman who received the unsolicited pic complained to a flight attendant.</p><p>\"It was a nude man that had AirDropped himself to everyone,\" said Marsalis.</p><p>Marsalis also received an AirDrop request, but she denied accepting it. She told Insider that the pilot handled the situation \"perfectly.\"</p><p>So how did the pilot respond? The TikTok video features the captain making this colorful announcement over the intercom:</p><p>\"So here's the deal. If this continues while we're on the ground, I'm gonna have to pull back to the gate, everybody's gonna have to get off, we're gonna have to get security involved, and vacation is gonna be ruined.\"</p><p>The pilot then adds, \"So you folks, whatever that AirDrop thing is — quit sending naked pictures. Let's get yourself to Cabo\"</p><p>A Southwest spokesperson wasn't available to comment on the authenticity of the content of the video, but the company shared the following general statement with MarketWatch over email: \"The safety, security and wellbeing of Customers and Employees is the Southwest Team's highest priority at all times. When made aware of a potential problem, our Employees address issues to support the comfort of those traveling with us.\"</p><p>According to Marsalis, a flight attendant then checked on everyone in the cabin. About 10 minutes later, the crew ran through the usual pre-flight announcements and security checks, and the plane lifted off and completed the trip with no further incidents.</p><p>Apple notes that AirDrop is set to share with a person's contacts only by default, but users can also choose to use AirDrop to share with \"everyone.\" So organizations can restrict the use of AirDrop for devices or apps being managed by using a mobile device management (MDM) solution.</p><p>Last year, computer-science researchers at the Technical University of Darmstadt in Germany found a vulnerability in the AirDrop feature that allowed scammers to potentially access a user's email address and phone number when within range of an iPhone, iPad or Macbook device. Apple has since released security patches and updates to address a number of such vulnerabilities — learn more here and here.</p><p>Watch: Southwest pilot warns passengers to 'quit sending naked pictures' over AirDrop, or it's everyone off the plane!</p>",
+  "published": "2022-09-01T19:57:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1813,
+          "end": 1818
+        },
+        {
+          "start": 2358,
+          "end": 2363
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

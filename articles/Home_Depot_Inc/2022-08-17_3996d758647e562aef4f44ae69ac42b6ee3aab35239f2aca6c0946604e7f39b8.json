@@ -1,0 +1,50 @@
+{
+  "_id": "3996d758647e562aef4f44ae69ac42b6ee3aab35239f2aca6c0946604e7f39b8",
+  "feed": "wall-street-journal",
+  "title": "Retailers' Quarterly Results Cheer Investors --- Walmart, Home Depot report an increase in revenue as consumers pay more for items",
+  "text": "<p>\"I certainly don't want to say the consumer is strong, but they are relatively OK,\" Walmart Chief Financial Officer John David Rainey said in an interview.</p><p>Walmart said revenue rose 8.4% to $152.86 billion in the July quarter, helped by consumers paying more for items, market-share gains in its grocery business and more visits from shoppers. Company executives expect inflation and consumer spending to stay steady throughout the year. Home Depot's quarterly sales rose 6.5% to $43.79 billion, despite a decline in the home-improvement chain's number of transactions from a year ago.</p><p>While many people in the U.S. are showing signs of financial stress, some measures of consumer health have shown improvement in recent weeks. Inflation in July came down slightly from the previous month as gasoline prices fell. U.S. consumer sentiment rose in early August, continuing its climb from a record low earlier this summer.</p><p>A reading on U.S. retail spending for July is due out Wednesday. Retailers such as Target Corp. and Lowe's Cos. are also slated to release quarterly financial results.</p><p>Walmart, the nation's largest retailer by revenue, warned last month that efforts to clear out excess inventory and weaker-than-expected demand for a range of products would diminish operating income -- a key measure of profitability -- this year. On Tuesday, Walmart tempered the downbeat forecast, saying operating income would shrink by a smaller margin than it expected.</p><p>Sales and the number of visits to Walmart stores accelerated near the end of the quarter, in part, because more high-income shoppers started to flock to Walmart for groceries, Chief Executive Doug McMillon said. The start of the back-to-school shopping season has also been strong, he said. \"Fuel coming down in recent weeks is helpful,\" he said. But \"it's still about 27% inflated per gallon versus a year-ago nationally.\"</p><p>Still, many consumers are spending more but buying less. At Walmart, grocery sales volumes fell slightly during the quarter, but dollar sales rose due to higher prices and share gains.</p><p>Industrywide, grocery sales volumes fell 2.5% in the four weeks ended July 10, according to data from market-research firm IRI. Walmart earns most of its U.S. revenue through grocery sales.</p><p>Home Depot said the number of transactions fell by 3% from a year ago. However, high-value transactions, or those over $1,000, grew fast. Overall comparable sales, those from stores and digital channels operating for at least 12 months, rose 5.8% in the quarter ended July 31 from the year-earlier period.</p><p>Home Depot executives said on a call with analysts that they noticed an uptick in spending near the end of the second quarter and into the current one. Executives at the retailer believe some people are back home doing improvement projects after summer vacations.</p><p>Rapid shifts in consumer buying patterns have weighed on retailers' profits of late and, in some instances, created a glut of some products that were early pandemic favorites such as patio furniture and bikes.</p><p>On Tuesday Walmart said operating income in the latest quarter fell 6.8% amid higher discounts and selling more thinner-margined grocery items.</p><p>Overall Walmart said its net income in the three months ended in July was $5.15 billion, compared with $4.28 billion a year earlier.</p><p>Home Depot posted earnings of $5.17 billion, or $5.05 a share, compared with $4.81 billion, or $4.53 a share, in the year-earlier quarter.</p><p>---</p><p>Dean Seal contributed to this article.</p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 58,
+          "end": 68
+        },
+        {
+          "start": 435,
+          "end": 445
+        },
+        {
+          "start": 2243,
+          "end": 2253
+        },
+        {
+          "start": 2262,
+          "end": 2272
+        },
+        {
+          "start": 2546,
+          "end": 2556
+        },
+        {
+          "start": 3292,
+          "end": 3302
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.717865,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7178652,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "a9f6a2f6596a550edca855561b3497d26d9af3d425bb264e1de937b9137a583d",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Earnings Decline, Sales Growth Slows Amid Weakening PC Sales; Software giant's cloud business grew last quarter, while Windows sales declined",
+  "text": "<p>Sales of Microsoft's Windows operating system fell by 15% during the quarter, the company said. Sales of PCs, a large portion of which use Windows, have fallen this year after booming at the onset of the pandemic. The company's Azure cloud-computing platform and other cloud services posted a 35% rise in revenue, although the pace of its growth has slowed in the past year.</p><p>(More to come)</p><p>Write to Asa Fitch at asa.fitch@wsj.com</p><p>Microsoft Earnings Decline, Sales Growth Slows Amid Weakening PC Sales</p>",
+  "published": "2022-10-25T20:31:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 9,
+          "end": 18
+        },
+        {
+          "start": 430,
+          "end": 439
+        },
+        {
+          "start": 9,
+          "end": 20
+        }
+      ]
+    }
+  ]
+}

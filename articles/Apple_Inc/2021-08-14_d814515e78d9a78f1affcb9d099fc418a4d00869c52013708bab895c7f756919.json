@@ -1,0 +1,116 @@
+{
+  "_id": "d814515e78d9a78f1affcb9d099fc418a4d00869c52013708bab895c7f756919",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Personal Technology:  Apple Asks for Even  More of Our Trust  ---  A botched rollout of new child-protection features  prompted questions. You may not like the answers.  ----  By Joanna Stern",
+  "text": "<p>\n  \"Is Apple going to see the nudes on my phone?\" </p><p>\n  \"Is Apple going to mistake my newborn in the bathtub for child pornography?\" </p><p>\n  \"Is Apple scanning all my messages and photos?\" </p><p>\n  It certainly wasn't an average week in tech questions from my friends and family. And I don't blame them for the freakout. Apple's announcement last week of two distinct child-protection measures for iOS confused -- and creeped out -- even the most tech savvy. </p><p>\n  For those catching up: One initiative is software intended to identify child pornography -- also known as \"child sexual abuse material\" -- when it is stored using Apple's iCloud Photos. The other is a parental control enabling iPhones, iPads and Macs to blur out sexually explicit photos in the Messages app, and warn children about sending or receiving them. It could also alert parents of children 12 and under that they are sending or receiving such images. </p><p>\n  \"Wonderful! Apple wants to protect the children!\" Right? Except, Apple flubbed the explanation. </p><p>\n  \"I grant you, in hindsight, introducing these two features at the same time was a recipe for this kind of confusion,\" Craig Federighi, Apple's senior vice president of software engineering, told me. </p><p>\n  The outcry wasn't over a technical issue. Instead, it was focused on the interpretation -- and in some cases, the conflation -- of two very different technologies intended to solve two very different problems. And at the center of it all? Giant questions about user privacy and the power that the world's biggest companies have over our lives and personal data. </p><p>\n  It's important that we understand these two features, how they work and can be controlled -- and how the leap of faith we must make when buying Apple products seems to get longer every year. </p><pre>\n </pre><p>\n  Child Pornography Detection </p><pre>\n </pre><p>\n  How does this work? Some basics: The National Center for Missing and Exploited Children maintains a database of known illegal child pornography. Other big tech companies -- Google, Facebook, Microsoft, etc. -- have methods of scanning photos you upload to their servers to see if any match the images in the NCMEC repository. The fact that Apple does some of this on the phone, ostensibly to protect user privacy, is where the controversy lies. </p><p>\n  The illegal photos collected by NCMEC and other child-safety organizations have been converted into cryptographic codes -- strings of numbers called \"neural hashes\" -- that identify signature characteristics of images. After this update hits your phone later this year, the software will generate hashes for your own photos as they're prepared for upload to iCloud. The device then would cross reference your image hashes to the hashes from the child-pornography database. This is why you shouldn't have to worry about some picture of your kid in the bathtub being flagged. The system is designed to match only fingerprints of known illegal images. </p><p>\n  Still with me? Each uploaded photo gets a \"safety voucher,\" encrypted code that says whether that photo matches an illegal one. Even if there is a positive match, no alarm bells ring at this point. However, if an account collects around 30 safety vouchers corresponding to illegal images, according to Mr. Federighi, the account gets flagged to Apple's human moderators. They review the vouchers (and no other images) to see if they actually contain potentially illegal images. If they do, Apple reports the account to NCMEC. </p><p>\n  What are the big concerns? The biggest is that this is a \"back door\" for Apple and other entities to scan the private contents of your iPhone. Child pornography is abhorrent. Full stop. But what if the technology were used to spot other types of photos? Say, an authoritarian government looking for satirical photos of its leader? The Electronic Frontier Foundation, a digital-rights watchdog group, has been asking these very questions this week. </p><p>\n  \"In no way is this a back door. I really don't understand that characterization,\" Mr. Federighi said. He said Apple would say no to any government asking to add its own image hashes to the software. He also said the image databases are audited by outside parties, and that the hash data that Apple sends to iPhones would be the same no matter what country the device is in. He said that the human review that happens before alerting authorities would catch any discrepancies. </p><p>\n  What control do we have? This applies only to users of iCloud Photos. If you don't use the service, this doesn't happen on your device. While there isn't an on/off switch for this, you can disable iCloud Photos in settings. Then you'd have to back up your photos some other way. </p><pre>\n </pre><p>\n  Communication Safety </p><pre>\n </pre><p>\n  How does this work? The better name for this might have been \"texted nudes detection.\" If an account designated as a child in iCloud Family Sharing receives or prepares to send a sexually explicit photo in the Messages app, the photo will appear blank. A warning message will appear, giving the child a choice to view or skip. In accounts of children 12 and under, parents can opt to receive notifications when a child views or sends such an image. </p><p>\n  The technology here is totally different than the hashing system for child pornography. Apple uses on-device machine learning to determine whether an image contains nudity. It's similar to the tech that lets you search your photos for \"dogs\" or \"beaches.\" Mr. Federighi said while it can make a mistake, the company has had a hard time fooling it in testing. </p><p>\n  What are the big concerns? Apple has long touted the privacy of its messaging service, including that it is end-to-end encrypted so no one but the sender and receiver(s) are privy to the actual chats. Privacy advocates such as the EFF argue that by introducing a third party -- the parent of a child age 12 or under -- Apple is nearing a \"slippery slope.\" Governments and other powerful entities might want to be notified of other sorts of messaging activity among Apple users. Apple says this feature doesn't break end-to-end encryption, and the company doesn't gain access to the communications as a result of it. </p><p>\n  While in general parents will likely appreciate such a tool, there's some concern it might invade children's privacy. It could potentially out children who are questioning their sexuality. Mr. Federighi said the feature was designed so that cannot happen. The child will be warned before viewing an image that would trigger the parental alert, and the actual image isn't shown to the parents when they are alerted. </p><p>\n  What control do we have? This is a feature of Apple's Family Sharing that parents can choose to turn on. For children under 12, parents can set up those notifications. For kids 13 or older, parents aren't notified. </p><pre>\n </pre><p>\n  Big Questions </p><pre>\n </pre><p>\n  These tools and technologies raise big questions about control over the phones in our pockets. At the very least, they require a level of trust in Apple that goes far beyond the normal iOS software update. </p><p>\n  We have to trust that these features really do work as described. We have to trust Apple won't use any of these child-protection tools for less-noble reasons. And if we trust all the reasons the company laid out for this to be safe, we also have to trust its technology won't land in the wrong hands, by hacking or coercion. </p><p>\n  Also, the company is now making deeper decisions about what can and can't happen on the phones it sells us, though Mr. Federighi said customers don't have to install new software updates if they don't want to. </p><p>\n  Still, most people I know feel compelled to regularly update their software and hardware. And they usually don't go digging into any deeply buried settings. These controls are no longer about switching on or off Bluetooth or a battery saver; the stakes are our autonomy to choose what happens to our most personal data. It should be made much clearer and simpler -- just as Apple should have made the rollout of these features. </p><p></p>",
+  "published": "2021-08-14T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 6507,
+          "end": 6512
+        },
+        {
+          "start": 6983,
+          "end": 6988
+        },
+        {
+          "start": 1695,
+          "end": 1700
+        },
+        {
+          "start": 596,
+          "end": 601
+        },
+        {
+          "start": 3358,
+          "end": 3363
+        },
+        {
+          "start": 295,
+          "end": 300
+        },
+        {
+          "start": 3467,
+          "end": 3472
+        },
+        {
+          "start": 4134,
+          "end": 4139
+        },
+        {
+          "start": 906,
+          "end": 911
+        },
+        {
+          "start": 5457,
+          "end": 5462
+        },
+        {
+          "start": 7809,
+          "end": 7814
+        },
+        {
+          "start": 5159,
+          "end": 5164
+        },
+        {
+          "start": 959,
+          "end": 964
+        },
+        {
+          "start": 5895,
+          "end": 5900
+        },
+        {
+          "start": 3213,
+          "end": 3218
+        },
+        {
+          "start": 128,
+          "end": 133
+        },
+        {
+          "start": 3952,
+          "end": 3957
+        },
+        {
+          "start": 4,
+          "end": 9
+        },
+        {
+          "start": 5908,
+          "end": 5913
+        },
+        {
+          "start": 5749,
+          "end": 5754
+        },
+        {
+          "start": 51,
+          "end": 56
+        },
+        {
+          "start": 6841,
+          "end": 6846
+        },
+        {
+          "start": 2114,
+          "end": 2119
+        },
+        {
+          "start": 1125,
+          "end": 1130
+        },
+        {
+          "start": 34,
+          "end": 39
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "39b3de28ae4ab93ac4aceb8c200db4f2b90fc6b3e1472ab4b4412ec041305472",
+  "feed": "wall-street-journal",
+  "title": "Letters to the Editor:  How to Keep the Political Appointees Honest",
+  "text": "<p>   Regarding Jennifer Mascott and Eli Nachmany's review of \"The 'Chevron' Doctrine\" by Thomas Merrill (Bookshelf, Aug. 24): Justice Clarence Thomas is correct that Chevron was wrongly decided and should be overruled. The 1984 decision is an assault on separation of powers as envisioned by the Constitution. </p><p>   I worked in the Agriculture Department before Chevron. Late in the Carter administration and early in the Reagan administration, my job was to review draft proposed regulations, draft final regulations and prepare legislative proposals for the secretary. My observation of political appointees of both parties is that virtually all seek to expand their authority and promote their pet projects. That is true no matter how much their public rhetoric decries big government and profligate spending. </p><p>   Without any deference for the department's interpretation of statutes, it was nonetheless rare for a court to overturn our regulations. Political appointees hate to lose in court, so when told that a draft regulation would likely be overturned, they would have the regulation revised to nix outlandish interpretations of statutes. Chevron, which compels courts to defer to agency interpretations, removed that check on executive power. </p><p>   Em. Prof. Theodore A. Feitshans </p><p>   North Carolina State University </p><p>   Raleigh, N.C. </p><p></p>",
+  "published": "2022-08-31T06:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1125,
+          "end": 1132
+        },
+        {
+          "start": 349,
+          "end": 356
+        },
+        {
+          "start": 62,
+          "end": 69
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.699563,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6995629,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

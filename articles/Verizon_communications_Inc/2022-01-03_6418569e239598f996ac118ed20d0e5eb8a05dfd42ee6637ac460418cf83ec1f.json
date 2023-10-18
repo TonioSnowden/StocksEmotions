@@ -1,0 +1,32 @@
+{
+  "_id": "6418569e239598f996ac118ed20d0e5eb8a05dfd42ee6637ac460418cf83ec1f",
+  "feed": "wall-street-journal",
+  "title": "AT&T, Verizon Rebuff Request To Delay 5G Over Flight Safety",
+  "text": "<p>\"If U.S. airlines are permitted to operate flights every day in France, then the same operating conditions should allow them to do so in the United States,\" the chief executives wrote Sunday in a letter reviewed by The Wall Street Journal.</p><p>The Federal Aviation Administration has been preparing flight restrictions that could go into effect as soon as Wednesday. The limits could restrict pilots from using certain automated systems to help land aircraft in bad weather, a move that could disrupt air travel and cargo shipments.</p><p>\"U.S. aviation safety standards will guide our next actions,\" the FAA said Sunday. The agency declined to comment about when it might issue the flight limits in official notices to air missions.</p><p>Telecom-industry officials have pointed to dozens of countries, including France, that have already allowed cellular service over parts or all of the frequencies in question, known as C-band. France is among the countries that have imposed wireless limits near airports while regulators study the effect signals have on aircraft.</p><p>The message from AT&amp;T CEO John Stankey and Verizon CEO Hans Vestberg responded to a letter Transportation Secretary Pete Buttigieg and Federal Aviation Administration chief Steve Dickson sent late Friday. That missive asked the carriers to postpone their planned 5G launch by \"no more than two weeks\" while officials worked to address the wireless services' effect on specific airports over the coming weeks.</p><p>Air-safety regulators have said the new cellular services could confuse key cockpit-safety systems.</p><p>AT&amp;T and Verizon, which combined serve more than half of all U.S. cellphone connections, disputed officials' claims of air-safety risks. The companies postponed a planned December debut of the new signals to provide more time for telecom and aviation regulators to share information about the wireless infrastructure and aircraft equipment in question.</p><p>Wireless companies later pledged to limit C-band signals for another six months, through early July. The letter Sunday proposed even stricter 5G limits over the same period.</p><p>But the telecom CEOs said transportation regulators' latest delay request would be to \"the detriment of millions of our consumer, business and government customers,\" noting that carriers spent more than $80 billion to acquire the licenses in a Federal Communications Commission auction that closed in January 2021.</p><p>FCC authorities padded the spectrum they auctioned with a swath of buffer frequencies to prevent interference with cockpit systems. But air-safety regulators have expressed concern that more sensitive altimeters could mistake cellular transmissions for terrain.</p><p>AT&amp;T and Verizon have spent the past year preparing to turn on new signals to provide fifth-generation technology, a faster and more capable mobile service. Wireless companies in other countries use similar frequencies, but the spectrum wasn't available to U.S. providers until recently.</p><p>Without a resolution to the dispute, Messrs. Buttigieg and Dickson warned the FAA's flight limits would bring severe economic consequences.</p><p>\"Failure to reach a solution by Jan. 5 will force the U.S. aviation sector to take steps to protect the safety of the traveling public, particularly during periods of low visibility or inclement weather,\" they wrote in their Dec. 31 letter.</p><p>The competing proposals are the latest in a flurry of behind-the-scenes work by aerospace manufacturers and wireless companies, their regulators and senior White House officials. As they attempted to hammer out solutions to allow the new 5G service to go live without prompting severe flight restrictions, the trade group Airlines for America asked the FCC to consider an emergency request to delay the wireless rollout.</p><p>The airline trade group said Sunday it continued to urge the FCC and telecom industry to work with the FAA and aviation industry to reach a compromise. An FCC spokeswoman declined to comment on the request but said the commission remained optimistic that \"by working together we can both advance the wireless economy and ensure aviation safety.\"</p>",
+  "published": "2022-01-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 2676,
+          "end": 2683
+        },
+        {
+          "start": 1572,
+          "end": 1579
+        },
+        {
+          "start": 6,
+          "end": 13
+        },
+        {
+          "start": 1097,
+          "end": 1104
+        }
+      ],
+      "nexusId": "10074051"
+    }
+  ]
+}

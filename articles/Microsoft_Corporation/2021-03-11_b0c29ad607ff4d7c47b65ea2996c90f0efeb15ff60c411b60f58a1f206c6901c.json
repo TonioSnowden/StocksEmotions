@@ -1,0 +1,48 @@
+{
+  "_id": "b0c29ad607ff4d7c47b65ea2996c90f0efeb15ff60c411b60f58a1f206c6901c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Hacks Exploited U.S. Security Gap",
+  "text": "<p>The attack that Microsoft disclosed last week affected at least tens of thousands of customers and has been linked by the software giant and other security researchers to China-based hackers.</p><p>The Chinese Embassy in Washington on Tuesday didn't directly address the charge that China was behind the Microsoft hack and referred to earlier comments from Beijing in which the government said it \"opposes and combats cyberattacks and cyber thefts in all forms.\"</p><p>It is the second major suspected nation-state hack unearthed in the past few months to have employed U.S. servers as a launchpad.</p><p>Suspected Russian hackers used U.S.-based cloud services to support key stages of their attack that leveraged a hack at SolarWinds Corp., the Austin, Texas, network software provider through which they penetrated U.S. government and corporate networks.</p><p>In both cases, the hacks were disclosed by private-sector researchers, not the U.S. government.</p><p>The NSA, with its tens of thousands of employees, is one of the main U.S. government organizations responsible for protecting the U.S. in cyberspace.</p><p>It has vast surveillance powers, though is generally prohibited from using them to collect intelligence on domestic targets, including computer servers inside the U.S. maintained by American companies.</p><p>\"The combination of these two attacks definitely has pushed us to a tipping point in terms of the policy makers and the executive branch recognizing now that we need to do something,\" said Glenn Gerstell, former general counsel at the NSA.</p><p>The SolarWinds hackers used cloud-computing systems run by Microsoft and Amazon.com Inc. to launch their attacks. At a Senate hearing last week, Microsoft President Brad Smith said the method was of obvious appeal to the Russians because it enabled them to circumvent U.S. intelligence collection.</p><p>Amazon declined to appear at the hearing, prompting bipartisan ire from lawmakers, and hasn't commented publicly on the use of its data centers in the SolarWinds attack.</p><p>\"This is a sophisticated actor that apparently took the time to research legal authority. It knew that by operating from servers in the United States, it could evade some of the U.S. government's best threat hunters,\" Tom Burt, Microsoft corporate vice president for customer security, said of the Exchange hack.</p><p>Based on the internet addresses used, the hack emanated from lesser-known service providers such as DigitalOcean Inc., as well as servers in Hong Kong, the Netherlands, China and other jurisdictions, said Joe Slowik, a researcher with DomainTools. About half the servers identified as connected to the Exchange hack were in the U.S., according to the DomainTools analysis.</p><p>A Digital Ocean spokeswoman said that \"illegal activity is not tolerated on our platform.\" The company, she said, takes action when misuse is discovered, including working with government agencies if they are affected.</p><p>Security experts said Microsoft is caught in the middle of both attacks in part because its products are ubiquitous. It is also a major software provider to the U.S. government and large corporate clients, making Microsoft software flaws appealing targets to hackers trying to spy on U.S. networks, they said.</p><p>The Microsoft Exchange attacks were carried out by at least four hacking groups, all of which have been linked to China, said Alexis Dorais-Joncas, a researcher with ESET, a security company that has been tracking the attack.</p>",
+  "published": "2021-03-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1673,
+          "end": 1682
+        },
+        {
+          "start": 2923,
+          "end": 2932
+        },
+        {
+          "start": 298,
+          "end": 307
+        },
+        {
+          "start": 16,
+          "end": 25
+        },
+        {
+          "start": 2224,
+          "end": 2233
+        },
+        {
+          "start": 1587,
+          "end": 1596
+        },
+        {
+          "start": 3114,
+          "end": 3123
+        },
+        {
+          "start": 3215,
+          "end": 3224
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

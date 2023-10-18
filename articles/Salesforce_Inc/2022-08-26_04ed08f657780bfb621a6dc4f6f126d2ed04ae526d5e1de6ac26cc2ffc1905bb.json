@@ -1,0 +1,66 @@
+{
+  "_id": "04ed08f657780bfb621a6dc4f6f126d2ed04ae526d5e1de6ac26cc2ffc1905bb",
+  "feed": "wall-street-journal",
+  "title": "Salesforce Sees Some Clouds Ahead",
+  "text": "<p>Fiscal second-quarter results from Salesforce late Wednesday confirmed that the largest pure-play provider of cloud-based software isn't immune to the macroeconomic slowdown. Revenue of $7.7 billion for the quarter ended in July narrowly beat Wall Street's forecast, while billings, a measure of business transacted during the period, rose only 11% year over year to $6.9 billion. That turned out to be 5% below analysts' forecast, which was the worst miss for that metric in at least five years, according to FactSet.</p><p>The bad news wasn't limited to the most recent quarter. Salesforce trimmed its full-year outlook for the second time, while issuing a revenue projection for the third quarter that was below Wall Street's targets. That projection calls for revenue to grow 14% year over year to $7.8 billion for the quarter ending in October, which would be the company's lowest quarterly growth rate on record, according to data from S&amp;P Global Market Intelligence. Salesforce shares fell 3.4% on Thursday.</p><p>Salesforce executives were upbeat on the call to discuss the results, noting some of the reduced outlook can be chalked up to currency rates. But they conceded the company is seeing \"stretched sales cycles, additional deal approval layers and deal compression,\" in the words of Chief Financial Officer Amy Weaver. So Salesforce is watching expenditures even more closely, in keeping with its new focus on maintaining operating margins around 20%. Ms. Weaver noted actions that include a \"measured and very deliberate approach\" on hiring, as well as a close eye on corporate travel.</p><p>Less clear is whether Salesforce will revert to its tendency for making big acquisitions. The company continues to insist that major deals are never off the table, though founder and co-Chief Executive Marc Benioff seemed to suggest on Wednesday's conference call that the company would be more selective. \"We want to be able to use our cash constructively. This is important for us,\" he said of the company's first-ever stock buyback worth $10 billion. \"It doesn't mean that we're not going to have different kind of guardrails for M&amp;A.\"</p><p>Smaller software companies hoping to cash out with Salesforce have new competition.</p>",
+  "published": "2022-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.9999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 35,
+          "end": 45
+        },
+        {
+          "start": 571,
+          "end": 581
+        },
+        {
+          "start": 962,
+          "end": 972
+        },
+        {
+          "start": 968,
+          "end": 978
+        },
+        {
+          "start": 1002,
+          "end": 1012
+        },
+        {
+          "start": 1317,
+          "end": 1327
+        },
+        {
+          "start": 1602,
+          "end": 1612
+        },
+        {
+          "start": 2165,
+          "end": 2175
+        },
+        {
+          "start": 2181,
+          "end": 2191
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

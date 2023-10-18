@@ -1,0 +1,46 @@
+{
+  "_id": "3e5da346a88ec429762e29be3c7c5fc1e4955beb9218b1106bb0134a9dd2b338",
+  "feed": "wall-street-journal",
+  "title": "Lloyd's to Exclude Catastrophic Nation-Backed Cyberattacks From Insurance Coverage; By 2023, insurer groups must add clauses to cyber policies excluding state-backed hacks that severely affect target nation's infrastructure, insurance marketplace says",
+  "text": "<p>The move is designed to make sure insurers are clearly stating what they will and won't cover, as the ability of state-backed hacks to spread and cause damage could cause systemic risk in the insurance market, the notice said.</p><p>At a minimum, Mr. Chaudhry said, policies must contain clauses that exclude losses arising from a war, declared or otherwise, where the policy doesn't have a separate war exclusion. They must also exclude losses where a state-backed attack has a catastrophic effect on the target nation and impairs its ability to function. There must also be a robust process by which parties decide attribution for attacks, according to the notice.</p><p>Lloyd's didn't respond to a request for comment.</p><p>While exclusions for openly declared war are relatively straightforward, determining attribution for a nation-backed cyberattack is fraught with difficulty. For instance, drawing a line between when a criminal group is simply acting in support of a nation, or actually operating as a state agent, is a challenge, U.S. officials have previously said. Brokers said that determining the degree of damage caused by an attack, which would trigger the exclusions, is similarly tough.</p><p>\"For most market participants, it's not so much about nation-state activity as it is about when that level of activity rises to a degree of catastrophe in financial terms,\" said Gregory Eskins, U.S. and Canada cyber product leader at the Marsh brokerage unit of Marsh &amp; McLennan Cos. \"That's something we're all wrestling with.\"</p><p>Insurers have been exploring ways to tighten the language in their policies, particularly after a New Jersey judge last year ruled in favor of Merck &amp; Co. deciding it was entitled to payouts from its insurers after a 2017 cyberattack. Merck had been affected by the NotPetya virus, which it said ultimately cost $1.4 billion to recover from. The company's property and casualty insurers initially denied the claims on the basis of war exclusions. In that case, the judge said Merck couldn't reasonably be expected to know that war exclusions would apply to such an event, essentially declaring that a common acts-of-war exclusion doesn't cover cyberattacks.</p><p>Part of the reason why insurers are increasingly leery of covering state-backed cyberattacks is the vast economic damage they can cause. Packaged-food company Mondelez International Inc., which was also a victim of NotPetya, claimed $100 million in damages related to the attack, while Britain's National Health Service said the WannaCry virus cost it over $100 million. The U.S. government has formally attributed NotPetya to Russia and WannaCry to North Korea. Both nations deny involvement.</p><p>Cyber insurance, which has become an increasingly important market due to a proliferation of attacks in recent years targeting companies of all sizes, has been going through a period of readjustment in recent months, as carriers better understand how to model and price the risk they are covering.</p><p>The new Lloyd's requirements represent an \"evolution\" in how the insurance industry is approaching cyber, said Thomas Reagan, U.S. and Canada cyber practice leader at Marsh, but the new stipulations also introduce difficulties.</p><p>\"As with all these things to some extent, it's two steps forward and one step back,\" Mr. Reagan said. While the bulletin establishes some certainty and clarity around what Lloyd's expects, he said, it also creates uncertainties for policyholders, such as how to attribute a given cyberattack.</p><p>War exclusions in particular have been a topic of fierce debate within the cyber-insurance industry for years, but Russia's invasion of Ukraine in February reignited concerns that a significant cyberattack, such as one that takes down critical infrastructure, could result in catastrophic losses for insurers. The relative youth of the cyber-insurance market means there is a lack of standardization around terms and exclusion clauses, ratings firm Moody's Investors Service Inc., a unit of Moody's Corp., said in a June note.</p><p>\"In U.S. litigation, insurers must generally demonstrate that an exclusion within an insurance policy applies to the case. This puts the burden of proof on the insurers in the case of the war exclusion,\" Moody's analysts said in the note. Moody's declined to comment on the Lloyd's bulletin.</p><p>While the Lloyd's requirement is significant because it seeks to remove ambiguity about when and where exclusions will be applied to policies, it could also hurt hack victims, said Joshua Motta, chief executive of insurer Coalition Inc., which offers cyber-specific coverage.</p><p>\"The other significance is that policyholders may be left without support or critical services from their insurer pending government attribution,\" he said.</p><p>Lloyd's Market Association—a trade group for managing agents, or companies leading syndicates—came up with a number of draft contractual clauses in November 2021 that would exclude state-backed cyberattacks from coverage in cyber policies. Lloyd's said in its note Tuesday that the use of these clauses would satisfy its requirements.</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-08-18T22:26:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 1660,
+          "end": 1665
+        },
+        {
+          "start": 1742,
+          "end": 1747
+        },
+        {
+          "start": 1651,
+          "end": 1662
+        },
+        {
+          "start": 1752,
+          "end": 1757
+        },
+        {
+          "start": 1660,
+          "end": 1671
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

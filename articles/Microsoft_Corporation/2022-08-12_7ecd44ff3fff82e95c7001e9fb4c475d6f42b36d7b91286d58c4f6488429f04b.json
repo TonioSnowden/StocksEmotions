@@ -1,0 +1,34 @@
+{
+  "_id": "7ecd44ff3fff82e95c7001e9fb4c475d6f42b36d7b91286d58c4f6488429f04b",
+  "feed": "market-watch",
+  "title": "Why an analyst says sell these four big software stocks; Salesforce, Workday, Snowflake, and Okta shares initiated with sell ratings at Guggenheim",
+  "text": "<p>DiFucci is the only analyst tracked by FactSet to rate each of Salesforce CRM, Workday, and Okta at sell.</p><p>\"We have launched coverage of the Software Sector with a cautionary bias due to near-term macro weakness that will likely persist for longer than most investors anticipate—and yes, even software is susceptible to macro forces,\" DiFucci wrote in a note distributed to clients late Thursday, while acknowledging that he also appreciates the \"long-term potential\" of many stocks in the sector.</p><p>As for Salesforce, DiFucci said that the company \"exemplifies the attractive characteristics of the software model, whereby revenue growth benefits from a massive renewal base,\" yet he still has some fears about the company.</p><p>Salesforce's new annualized contract value \"is probably less than most realize,\" he continued, while adding that the software company \"spends materially more to capture new business\" relative to its peers. That trend reflects itself in Salesforce's operating margins, which are about 10 percentage points lower than those of the average large-capitalization peer, according to DiFucci.</p><p>\"We estimate op. margin could expand more than investors are expecting, but it's negated by CRM's persistent pursuit of inorganic growth that results in negative [free-cash flow] margins after accounting for M&amp;A [merges and acquisitions],\" he wrote. \"We're skeptical of management's ability to deliver efficient organic growth (even if at lower rates)—this decreases the intrinsic value that we assign to CRM's recurring [revenue] stream.\"</p><p>He titled his note to clients \"Scrutinizing the Prodigal Son\" and set a $150 price target on the stock, which closed Thursday at $186.73.</p><p>On Snowflake, DiFucci has concerns about how the company would fare in a downturn. He expects that the company's fiscal 2023 revenue forecast is achievable regardless of economic issues, though he doubts whether merely meeting that target would \"be enough to sustain the share price.\"</p><p>\"In the event of a recession, the beginnings of which we believe SNOW saw in its F1Q23 results—similar to most other non-security enterprise software companies, by our estimates—Snowflake's new business momentum could be significantly impacted,\" he wrote, while setting a $125 price target. Snowflake's stock ended Thursday's session at $167.88.</p><p>See also: Snowflake stock drops after downgrade that analyst deems 'a tough call'</p><p>DiFucci is less upbeat about Workday's ability to meet its fiscal 2023 revenue outlook, writing that the company faces a \"high hurdle\" as it chases the 25% growth in annualized contract value that he thinks the company will need in order to achieve its revenue forecast.</p><p>\"We see the targets for sustainable 20%+ subscription revenue growth and $10 billion in total revenue by FY26 at risk too,\" he wrote, adding that he doesn't believe that Workday \"will remain an organic high growth company (defined as 20% growth for the foreseeable future) even 1-2 years out.\"</p><p>He established a $134 price target on Workday shares, which finished Thursday at $166.08.</p><p>On Okta, DiFucci sees much \"underappreciated opportunity\" ahead that the company could tap, though he predicts \"a couple of difficult quarters near term.\"</p><p>\"Our estimates of the future market opportunity imply that it will take some time for this large potential addressable market to become realizable, as Okta opens up Identity markets to segments of corporate demand that did not have access to such solutions before or did not have the level of sophistication (e.g., expertise, funding, etc.) required to consume them,\" he wrote. \"Further, we believe execution is key for Okta as it looks to penetrate several markets, some of which it currently has little to no exposure to.\"</p><p>DiFucci has an $89 price target on Okta's stock, which closed Thursday at $102.49.</p><p>He took relatively more optimistic views of other stocks in the software universe, initiating coverage of Microsoft Corp. MSFT, Cloudflare Inc. NET, and ServiceNow Inc. NOW at neutral, while launching coverage of CrowdStrike Holdings Inc. CRWD, Oracle Corp. ORCL, Palo Alto Networks Inc. PANW, Progress Software Corp. PRGS, Smartsheet Inc. SMAR, Splunk Inc. SPLK, and Zscaler Inc. ZS at buy.</p><p>Read: Why Microsoft's earnings guidance is more complicated than it seems</p><p>Why an analyst says sell these four big software stocks</p>",
+  "published": "2022-08-12T12:29:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 4219,
+          "end": 4228
+        },
+        {
+          "start": 3902,
+          "end": 3916
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.92658246,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.0734175,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

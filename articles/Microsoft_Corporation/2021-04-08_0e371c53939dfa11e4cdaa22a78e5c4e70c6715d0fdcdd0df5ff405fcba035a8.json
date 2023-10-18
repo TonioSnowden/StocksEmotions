@@ -1,0 +1,48 @@
+{
+  "_id": "0e371c53939dfa11e4cdaa22a78e5c4e70c6715d0fdcdd0df5ff405fcba035a8",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Hack Probe Eyes Prior Data Thefts",
+  "text": "<p>Such a method, if confirmed, could realize long-held fears about the national security consequences of Beijing's prior massive data thefts. And it would suggest the hackers had a higher degree of planning and sophistication than previously understood.</p><p>\"We face sophisticated adversaries who, we know, have collected large amounts of passwords and personal information in their successful hacks,\" said Anne Neuberger, President Biden's deputy national security adviser for cyber and emerging technology. \"Their potential ability to operationalize that information at scale is a significant concern.\"</p><p>Soon after the hack on computer systems using Microsoft Exchange Server was discovered in March, senior national security officials in the Biden administration recognized it as a major international cybersecurity problem.</p><p>The White House assembled an interagency task force that included private-sector partners, such as the Redmond, Wash., tech giant and cybersecurity companies, to quickly share information and develop security patches for the affected Exchange Server customers.</p><p>Among the potential sources of the personal data is China's vast archive of likely billions of personal records its hackers stole over the past decade. The hackers might have mined that to discover which email accounts they needed to use to break into their targets, people familiar with the matter said.</p><p>Another theory under investigation: The hackers scanned social-media sites like LinkedIn to determine which email accounts corresponded to systems administrators and were therefore likely the ones to use in the attack. A third: The hackers might have been simply lucky, breaking into systems using a default administrator email address.</p><p>The attack on the Exchange Server systems began slowly and stealthily in early January, launched by a hacking group dubbed Hafnium that has targeted infectious-disease researchers, law firms and universities in the past, cybersecurity officials and analysts said. The operational tempo picked up dramatically, as other China-linked hacking groups became involved, infecting thousands of servers, while Microsoft scrambled to send its customers a software patch in early March.</p><p>Microsoft and other security companies have publicly linked the Exchange Server attack to groups believed to be based in China. The Biden administration hasn't publicly attributed the hack to any group, and China has denied involvement.</p><p>But officials at Microsoft and within the Biden administration remain puzzled by how the suspected Chinese actors were able to pull off such a global operation so rapidly, days before Microsoft first released a patch that would have protected customers, said Tom Burt, Microsoft's vice president of customer security and trust, in an interview.</p><p>The attackers exploited a set of previously unknown bugs to infiltrate Exchange Server systems and target a range of the systems' users. But to do that, the hackers had to know the email accounts of the respective networks' system administrators, Mr. Burt said.</p><p>A theory soon emerged that the hackers were relying on personal information that led them to the system administrators' email account names, whether mined in previous hacks, or scraped from publicly available social-media sites like LinkedIn.</p><p>In 2015, the Obama administration discovered that hackers linked to China breached the U.S. Office of Personnel Management, the human-resources office for the U.S. federal government. The hackers pilfered millions of government background investigation records dating back 20 years, gaining detailed information on current and former U.S. government employees and their families.</p><p>Beijing has also been implicated in scores of hacks of enormous databases of personal information from corporations in the U.S. and overseas, such as Marriott International Inc. and the credit-reporting company Equifax Inc.</p><p>As the code used in the Exchange Server attacks was made public, security experts and U.S. officials urgently warned that criminals would leverage that code in a second massive wave of cyberattacks.</p><p>But the feared wave of attacks wasn't as severe as anticipated, according to investigators. Those hackers wouldn't likely have had access to the personal information, giving credence to cybersecurity officials' theory that the Chinese hackers may have used extra information.</p><p>In all, the China-linked hackers are estimated to have infiltrated as many as 20,000 servers, according to an estimate by Symantec, the security division of Broadcom Inc.</p>",
+  "published": "2021-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 2707,
+          "end": 2716
+        },
+        {
+          "start": 2201,
+          "end": 2210
+        },
+        {
+          "start": 2622,
+          "end": 2631
+        },
+        {
+          "start": 2126,
+          "end": 2135
+        },
+        {
+          "start": 2455,
+          "end": 2464
+        },
+        {
+          "start": 645,
+          "end": 654
+        },
+        {
+          "start": 2707,
+          "end": 2718
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

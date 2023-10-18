@@ -1,0 +1,34 @@
+{
+  "_id": "c05f5a49cfe6845d790eaab50b3bfc86d6285b0437b7732bbb6a59613ee0de6c",
+  "feed": "market-watch",
+  "title": "U.S. stocks rise 15% on average one year after midterms, analysts find",
+  "text": "<p>As candidates across the country duke it out with their challengers, investors can rest assured that their portfolios will likely see strong returns — that is, if the past is any guide, according to research from Strategas.</p><p>With the midterms just 62 days away, a team of equity strategists from Strategas found that since 1946, U.S. stocks have never traded lower 12 months after a midterm vote.</p><p>Instead, the index has typically seen robust gains, rising 15% on average excluding dividends. By comparison, the S&amp;P 500 SPX has seen an average price increase of 7.1% a year on average since the index was created in 1957, according to Dow Jones Market Data.</p><p>Using a more current time frame, the average annualized price gain from Sept. 6, 2012 through Tuesday's close is 10.6%, according to Dow Jones Market Data. Both of these figures exclude dividends.</p><p>MarketWatch reported back in 2018 that while the S&amp;P 500 typically underperforms in the 12 months leading up to the midterms, that dynamic shifts to outperformance in the 12 months that follow.</p><p>To be sure, historical trends don't guarantee future outperformance. And there are still risks surrounding the midterms, including the likelihood that President Joe Biden could face a more divided Congress. While Democrats now enjoy a majority in the House, their majority in the Senate is razor-thin, and complicated by high inflation and two conservative Democrats who occasionally resist the president's agenda.</p><p>According to 538's election tracker, polling shows Republicans are generally favored to win the House in November, while Democrats are slightly favored to retain control of the Senate.</p><p>Polling by J.P. Morgan Chase &amp; Co. has shown that Wall Street professionals generally expect Republicans to seize control of both the House and the Senate.</p><p>This means President Biden could face a more divided government, which could create problems for the market, as MarketWatch has previously reported.</p><p>So far this year, the S&amp;P 500 SPX has fallen 17.5%, while the Dow Jones Industrial Average DJIA is off by 13.8%, and the Nasdaq Composite COMP is down 25.8%. Stocks traded higher on Wednesday, with the Nasdaq set to snap its longest losing streak since 2016, which was a historic year for American politics.</p><p>U.S. stocks rise 15% on average one year after midterms, analysts find</p>",
+  "published": "2022-09-07T15:47:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 1647,
+          "end": 1669
+        },
+        {
+          "start": 1658,
+          "end": 1675
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

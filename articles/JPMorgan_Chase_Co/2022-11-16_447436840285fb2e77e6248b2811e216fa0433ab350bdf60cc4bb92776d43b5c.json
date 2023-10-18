@@ -1,0 +1,24 @@
+{
+  "_id": "447436840285fb2e77e6248b2811e216fa0433ab350bdf60cc4bb92776d43b5c",
+  "feed": "wall-street-journal",
+  "title": "FTX Could Drag 'Good' Crypto, Too --- Decentralized finance doesn't solve many of the sector's woes, nor will it be left alone by regulators",
+  "text": "<p>The FTX debacle has spread, prompting investors to dump digital currencies and quit other centralized crypto venues. Trading house Alameda Research, an affiliate of FTX that blew a hole in its balance sheet, used to have a big role in market making, and its absence is worsening price swings, according to analytics firm Kaiko. The latest ructions follow a round of failures among crypto lenders that started in May, triggered by excessive risk and opaque practices.</p><p>It looks like a final indictment of crypto's efforts to ape Wall Street with its own answers to Goldman Sachs and JPMorgan. If this is a game of trust, nobody should put their faith in a crypto king rather than a banker with a direct line to myriad liquidity providers -- including the central bank -- and the protection of deposit insurance.</p><p>Yet some in the crypto sphere see a silver lining, believing the crisis will refocus the ecosystem on its original purpose of cutting out the middleman -- its motto being \"verify, don't trust.\" Decentralized finance or DeFi protocols like MakerDAO, Aave and Curve offer services such as lending and trading through liquidity pools, where nobody acts as an intermediary liable to bank runs. \"Smart contracts\" automatically unlock transactions between parties once conditions are met. Despite this year's crypto implosion, these protocols worked as intended.</p><p>\"The 'back to DeFi' argument will be the dominating narrative,\" said Clara Medalie, Kaiko's director of research. \"In decentralized finance you can see everything on the chain, so you can never have a situation like FTX's.\"</p><p>However, as Joshua Peck, founder of TrueCode Capital, points out, \"DeFi just moves the risk around: Counterparty risk shifts over to technology risk, and to trust in the management of the DeFi token.\" On top of coding bugs, DeFi comes with the danger of hacks, which are worryingly commonplace.</p><p>Another big problem in the current environment is that DeFi's growth since 2017 happened in symbiosis with centralized crypto, not as an alternative to it.</p><p>Defunct crypto bank Celsius Network showed how centralized crypto is a big borrower in DeFi pools, muddying their transparency benefits. To be sure, these loans are often overcollateralized, which is why Celsius ended up paying back its DeFi debts even before going bust in July. Still, using crypto as a guarantee raises the risk of vicious selling spirals. Also, overcollateralization generally happens when the money is used for speculation, not productive investments.</p><p>Furthermore, growth in decentralized lending has been closely linked to \"stablecoins,\" which are overwhelmingly pegged to the U.S. dollar to overcome crypto's volatility problem. Any peg to the greenback is dependent on the U.S. government, and is kept alive by some intermediary holding dollar assets or arbitrage and collateral-based mechanisms that can fail. This happened to the TerraUSD stablecoin in May, just as it did in conventional finance to money-market funds in 2008.</p><p>While the most popular stablecoin, Tether, hasn't yet broken down, it suffered $3.5 billion of redemptions this month and persistently trades under $1. Kaiko data suggests Alameda was borrowing Tether on Aave and selling it on Curve, putting it under heavy pressure in DeFi markets.</p><p>Neither regulators nor investors are likely to differentiate much between centralized and decentralized crypto finance. As a result, DeFi protocols will probably struggle to raise venture-capital money and pools could dry up. The total value locked in DeFi tokens is $43 billion, 74% less than at the end of March. On top of falling crypto token prices, there have likely been withdrawals: Measured in ether, a popular digital currency, the loss is 30%.</p><p>The lesson to learn from FTX isn't just that opacity is bad, but that all of crypto is a deeply interconnected ecosystem in which assets are created without relation to real-world wealth and then used as collateral to further inflate what boils down to a single, enormous credit risk -- crypto itself.</p>",
+  "published": "2022-11-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 581,
+          "end": 589
+        },
+        {
+          "start": 578,
+          "end": 586
+        }
+      ]
+    }
+  ]
+}

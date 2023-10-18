@@ -1,0 +1,20 @@
+{
+  "_id": "1bf81a30cdbe63bc98a2bed5cb45e4925f7e5d226c03afee68da93e61fd469a1",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Antibody Drug Cocktail Allowed",
+  "text": "<p>The combination, administered together via a single intravenous infusion, is cleared for patients who are at high risk of worsening to severe Covid-19, including those 65 and older or who have certain medical conditions.</p><p>Monoclonal antibodies are engineered proteins that mimic the immune system's ability to fight off viruses. Regeneron Pharmaceuticals Inc. makes a similar antibody-based Covid-19 treatment that previously received FDA authorization.</p><p>Companies are developing Covid-19 antibody treatments that are more convenient to take and can tackle emerging virus mutations.</p><p>Lilly co-developed bamlanivimab with Canadian company AbCellera Biologics Inc. It was derived from a blood sample taken from one of the first U.S. patients to recover from Covid-19. Lilly licensed the second antibody, etesevimab, from Junshi Biosciences of China.</p><p>A 1,035-person study found that the two-drug cocktail reduced the combined risk of death and hospitalization by 70% compared with patients who received a placebo. Some 7% of patients in the study who received the placebo died or were hospitalized for Covid-19, versus 2% of those who received the Lilly combination. Some patients had side effects including certain allergic reactions.</p><p>Lilly and its manufacturing partner Amgen Inc. plan to make up to one million doses of etesevimab by mid-2021. About 100,000 doses are ready immediately and an additional 150,000 are expected to be available throughout the first quarter, Lilly said.</p><p>The U.S. government previously agreed to purchase 950,000 doses of the first Lilly antibody, bamlanivimab, and has directed the allocation of doses to health-care providers. Lilly said Tuesday it expects the procurement and allocation of the new two-antibody cocktail to mirror the same process.</p>",
+  "published": "2021-02-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "offsets": [
+        {
+          "start": 1266,
+          "end": 1276
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "00113f37a33a54a05f031f539489eebc685aad563ac9c7ae38a049fb6045102a",
+  "feed": "wall-street-journal",
+  "title": "Letters to the Editor:  Apple's New Passkeys Could  Make Estate Settling Harder",
+  "text": "<p>   While Apple Inc.'s passkeys are an interesting innovation in online security, they fail to address an important problem (\"Apple Wants to End Passwords -- Here's How It Would Work\" Personal Journal, June 13). </p><p>   When my brother died, we were unable to access his bank accounts, life insurance or health records because his passwords were secured by a password manager to which he had left no one the master password. I've subsequently adopted a password manager and given my sister access to the safe-deposit box where my master password is stored. How will biometric-based passkeys allow for access after death? Managing someone's estate is already complicated, and this could complicate that task. </p><p>   Stephen Klein </p><p>   Spinnerstown, Pa. </p><p></p>",
+  "published": "2022-06-25T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 6,
+          "end": 16
+        },
+        {
+          "start": 23,
+          "end": 28
+        },
+        {
+          "start": 6,
+          "end": 15
+        },
+        {
+          "start": 6,
+          "end": 11
+        },
+        {
+          "start": 122,
+          "end": 127
+        },
+        {
+          "start": 121,
+          "end": 127
+        }
+      ]
+    }
+  ]
+}

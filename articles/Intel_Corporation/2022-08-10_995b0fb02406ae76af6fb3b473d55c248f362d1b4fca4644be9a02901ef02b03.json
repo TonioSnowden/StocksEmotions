@@ -1,0 +1,42 @@
+{
+  "_id": "995b0fb02406ae76af6fb3b473d55c248f362d1b4fca4644be9a02901ef02b03",
+  "feed": "ftcomall",
+  "title": "Semiconductor stocks: slowdown will not undercut US manufacturing plans",
+  "text": "<p>The US chip sector is experiencing both feast and famine. This week the US signed $52bn of subsidies into law. It is a transformative level of support designed to spur the expansion of domestic chip manufacturing. The timing, however, is unfortunate. Around the world, demand for chips is collapsing. </p> <p>With inflation in the US at <a href=\"https://www.ft.com/content/9d0cc752-9e65-45aa-8fc2-de0999cf632d\">8.5 per cent</a> it makes sense that spending on PCs and other personal tech is down. The knock-on effect has been reported by Intel and Nvidia. Idaho-based Micron Technology has also pointed to weaker demand in cloud computing and cars. These two areas were expected to hold up better than consumer tech. </p> <p>Before inflation rose, the <a href=\"https://www.ft.com/content/f108567d-4e8f-4561-9486-d80bb164812a\">chip sector</a> was already wrestling with a couple of problems. Firstly, the end of the coronavirus pandemic sales boom. Secondly, the aftermath of a production increase that could lead to overcapacity. </p> <p>Inventory is running down. Sales of the chips that power computers, cars and other electronics are unlikely to recover this year. Global sales rose 13 per cent in the second quarter of the year, according to the Semiconductor Industry Association. But within that period, sales in June were down 2 per cent on the previous month. Overall, they are expected to rise just 7 per cent this year, down from 26 per cent in 2021, according to Gartner, a consultancy. &#xa0;</p> <p>The Philadelphia semiconductor index, which comprises the 30 largest US companies involved in the design, manufacture and sale of semiconductors, is down 25 per cent this year. That is twice as large as the decline in the broader S&amp;P 500. Yet valuations remain elevated. Micron, for example, is valued at over 10 times forecast 2023 earnings — a 12-month high. &#xa0;</p> <p>The saving grace is that investment from the US government will not create oversupply. The programme is a counterpoint to similar efforts in China. Both countries want to bolster self-sufficiency in semiconductors, a commodity now crucial to higher end manufacturing.</p> <p>Projects will take years, perhaps decades, to come to fruition. It will take three or four years for production to start at Intel's Ohio chip plant. Micron's $40bn investment will be spread over 10 years. The chip cycle is typically around three to five years. With luck, the next upswing will coincide with a renaissance in US manufacturing. </p> <p><em>This article has been amended to change June sales data to month on month</em></p><p>Source:  2022 'Semiconductor stocks: slowdown will not undercut US manufacturing plans' FT.com 10 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-10T22:42:16.826Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 2046,
+          "end": 2051
+        },
+        {
+          "start": 452,
+          "end": 457
+        },
+        {
+          "start": 446,
+          "end": 451
+        },
+        {
+          "start": 2071,
+          "end": 2076
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0228605,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.022860408,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "c094edce0965720be8c18eda867c34e70ebe89569d72f5f5e9e7147e04d6b305",
+  "feed": "wall-street-journal",
+  "title": "Stock Futures Wobble With Retail Earnings in Focus; Oil prices extended declines into a third day",
+  "text": "<p>Stocks have largely rallied in recent days, with the S&amp;P 500 climbing for four straight weeks as of last Friday. Weak data on China's economy and U.S. manufacturing are weighing on sentiment, spurring concerns that the momentum may be fading, investors said.</p><p>The retailers' earnings reports, starting with Home Depot and Walmart on Tuesday and followed by Target and others later in the week, will be scrutinized for signals about how hard inflation is affecting consumer spending.</p><p>\"It's going to be about inventory levels, margins and pricing power and if consumers are still spending on discretionary, or if all their wages are going to food and energy,\" said Esty Dwek, chief investment officer at FlowBank.</p><p>Oil prices extended their declines into a third day on concerns about global economic growth and some progress made in the Iran nuclear talks. Global crude benchmark Brent fell 0.8% to trade at $94.37 a barrel.</p><p>The bond market continued to flash a recessionary signal, with the yield curve inverted. The yield on the benchmark 10-year Treasury note was at 2.802% while the 2-year yield reached 3.218%.</p><p>Overseas, the pan-continental Stoxx Europe 600 added 0.2%. In Asia, major benchmarks were mixed with the Shanghai Composite Index closing little changed and Hong Kong's Hang Seng Index declining 1.1%.</p><p>Stock Futures Wobble With Retail Earnings in Focus</p>",
+  "published": "2022-08-16T10:17:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 304,
+          "end": 314
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0913024,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.091302395,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

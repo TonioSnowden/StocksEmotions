@@ -1,0 +1,60 @@
+{
+  "_id": "3906308810cb0305cbb7be9dd3c0d4164580560f62e7472076677f28e32e4f91",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Hackers Accessed Microsoft Systems",
+  "text": "<p>\"We detected unusual activity with a small number of internal accounts and upon review, we discovered one account had been used to view source code in a number of source code repositories,\" Microsoft said.</p><p>This compromised account was able to view Microsoft's source code, but not make changes, the company said.</p><p>Microsoft's disclosure raises the specter that the hackers may have targeted and then compromised other technology companies as well, said Sherri Davidoff, chief executive of the security consulting firm LMG Security LLC.</p><p>\"That's why these hackers are going after these companies,\" she said. \"They don't want access to just one company. They want access to everything.\"</p><p>A Microsoft spokesman declined to say what products or internal systems were affected by the intrusion.</p><p>Microsoft said it has \"found no evidence of access to production services or customer data,\" and \"no indications that our systems were used to attack others.\"</p><p>The SolarWinds attack dates back to at least October 2019 and has prompted a flurry of cyber investigations within government and private industry. Through a backdoor the attackers installed in SolarWinds' Orion networking software, the hackers found their way into systems belonging to the Department of Homeland Security, the State Department, the Treasury and Commerce departments and others.</p><p>U.S. government and cybersecurity officials have linked the attack to Russia. The Kremlin has denied involvement in the hacks.</p><p>A Wall Street Journal analysis of internet records identified infected computers at two dozen organizations that installed the tainted network monitoring software from SolarWinds. Among them: networking-gear maker Cisco Systems Inc., chip makers Intel Corp. and Nvidia Corp., and accounting firm Deloitte LLP.</p><p>The hackers also compromised at least one reseller of Microsoft's cloud-based computing services and tried to use that as a way of gaining access to emails belonging to the cybersecurity vendor CrowdStrike Inc. That attempt was unsuccessful, CrowdStrike said last week. Microsoft is the world's second-largest cloud-computing company after Amazon.com Inc.</p><p>The SolarWinds attack went undetected for months and was discovered by FireEye Inc., a cybersecurity company, when hackers tripped an alarm. FireEye put more than 100 cyber sleuths on the job of investigating the hack of its systems, before ultimately zeroing in on SolarWinds' software as the source of the compromise.</p><p>U.S. government and corporate Investigators are still trying to assess what information the hackers were able to glean in what cybersecurity officials have characterized as one of the biggest breaches of U.S. networks in years.</p>",
+  "published": "2021-01-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 45,
+          "end": 54
+        },
+        {
+          "start": 2049,
+          "end": 2058
+        },
+        {
+          "start": 685,
+          "end": 694
+        },
+        {
+          "start": 248,
+          "end": 257
+        },
+        {
+          "start": 313,
+          "end": 322
+        },
+        {
+          "start": 1833,
+          "end": 1842
+        },
+        {
+          "start": 190,
+          "end": 199
+        },
+        {
+          "start": 787,
+          "end": 796
+        },
+        {
+          "start": 248,
+          "end": 259
+        },
+        {
+          "start": 313,
+          "end": 324
+        },
+        {
+          "start": 1833,
+          "end": 1844
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "0b3e5b21550e21794bd4d69e0b6fc5c9f8b266d645499b5bb504164f40986f97",
+  "feed": "reuters",
+  "title": "UPDATE 3-Maersk appoints new CEO to steer shipping firm through 'turbulence' to come",
+  "text": "<p>*</p><p>Clerc takes over as shipping boom comes to an end</p><p>*</p><p>Important to keep costs down amid high growth - Clerc</p><p>(Adds quote from chairman and incoming CEO, share price)</p><p>By Stine Jacobsen and Jacob Gronholt-Pedersen</p><p>COPENHAGEN, Dec 12 (Reuters) - A.P. Moller-Maersk said on Monday it had appointed company veteran Vincent Clerc as its new chief executive to lead the shipping giant through a period of slowing container demand.</p><p>Clerc, 50, will take over from Soren Skou on Jan. 1 at a time of rapid growth for Maersk as it seeks to develop its land-based logistics business while seeing freight rates in its core container shipping business plummet as a global recession looms.</p><p>\"The strong tail winds that benefited the supply chain industries during the pandemic are coming to an end,\" Maersk Chairman Robert Maersk Uggla told a press conference at the company's headquarters in Copenhagen.</p><p>\"I think it's an advantage for the company to have some new energy in the CEO position... at a time when we can see turbulence on the horizon,\" he said.</p><p>The change comes less than a year after Uggla, the grandson of Maersk Mc-Kinney Moller, the former Maersk head who transformed the group into an international conglomerate, was elected chairman of the board. Uggla also heads the holding company that controls Maersk .</p><p>Shares in Maersk have roughly doubled since Skou took over as CEO in 2016. Skou has overseen the group's transformation from a conglomerate into an integrated logistics company, a process that included selling its oil and gas business to France's TotalEnergies in 2017.</p><p>Clerc, currently head of the group's Ocean &amp; Logistics business, said he will focus on keeping costs down at a time when Maersk has been buying up warehouses and distribution centres to offer an end-to-end transportation service rather than just container shipping.</p><p>\"When we grow as fast as we have been, we want to be sure that we don't end up with too-high costs,\" Clerc said.</p><p>Maersk shares have lost more than 40% of their value since January's record high, and were trading 2.7% lower at 1218 GMT on Monday, underperforming Copenhagen's benchmark index .</p><p>\"We credit today's share price reaction to Soren Skou 's very successful tenure, but also to the fact that the timing and company's communication on outlook can be seen as rather gloomy,\" said DNB analyst Jorgen Lian in a written comment.</p><p>Clerc, a Swiss citizen born in 1972, joined Maersk in 1997 and has since held several senior positions including Chief Trade and Marketing Officer and Chief Commercial Officer.</p><p>Copenhagen-based Maersk is one of the world's biggest shipping and logistics companies, handling supply chains for large customers like Walmart and Nike . It employs more than 100,000 people in 130 countries.</p>",
+  "published": "2022-12-12T12:21:36.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.99996287,
+      "offsets": [
+        {
+          "start": 2701,
+          "end": 2705
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "714f0babf72e035a4c0542edd47d7605840d325751f406e1ca25285beffe2146",
+  "feed": "ftcomall",
+  "title": "Facebook accuses Iranian hackers of using platform to spy on US military",
+  "text": "<p>Facebook said on Thursday it had blocked a “sophisticated” online cyber espionage campaign conducted by hackers in Iran attempting to surveil about 200 western military, defence and aerospace personnel via its platform.</p> <p>According to Facebook, a known group of Iranian hackers known as Tortoiseshell created fake online personas such as defence employees and recruiters on its platform to trick victims into inadvertently clicking on malicious links or files that would allow surveillance of their devices.</p> <p>The campaign, running since 2020, targeted about 200 individuals in the military, defence and aerospace industries “primarily in the US, and to a lesser extent in the UK and Europe”, the platform said.&#xa0;</p> <p>While Facebook has uncovered a handful of cyber espionage campaigns using its platform, such as one <a href=\"https://www.ft.com/content/70b94c78-474a-475a-b242-924f6b11929f\">carried out</a> by Chinese hackers to target pro-Uyghur activists and dissidents, the latest campaign marked the first targeting predominantly US citizens.&#xa0;</p> <p>Facebook attributed the attacks to the Iran-based group Tortoiseshell with a “high level of confidence”. Tortoiseshell is believed to have largely targeted sectors such as IT in the Middle East since about 2018. </p> <p>While Facebook did not suggest that the campaign was state-backed, it said it had found that a part of the malware deployed by the hackers was developed by Mahak Rayan Afraz, an IT company in Tehran “with ties to the Islamic Revolutionary Guard Corps”.</p> <p>As well as using Facebook, Tortoiseshell created fake websites, including false versions of a US Department of Labor job search site and recruiting websites for particular defence companies. These allowed the hackers to steal their victims' email and social media login details, and gather information about their device usage.</p> <p>In other cases, the hackers hid malware in Microsoft Excel spreadsheets, allowing them access to victims' systems.</p> <p>“Just the level of investment into the reconnaissance and social engineering phases has all the hallmarks of well-resourced and persistent behaviour that we've come to expect from more sophisticated advanced persistent threat actors that we track,” Mike Dvilyanski, Facebook's head of cyber espionage investigations, told the Financial Times.</p> <p>Iran — alongside Russia, China and North Korea — is one of the most potent cyber aggressors and has recently been targeting researchers, academics and diplomats with insights into policy. Earlier this week, state-backed Iranian hackers <a href=\"https://www.ft.com/content/07503e36-1bad-436e-9e8c-087a6a37daf1\">were found</a> to be impersonating academics at London university's School of Oriental and African Studies as part of an espionage campaign targeting Middle East experts, for example.&#xa0;</p> <p>Facebook said it had disrupted the group by taking down “fewer than 200” of its accounts, blocking the malicious domains from being shared on its platform and notifying victims.&#xa0;</p> <p>Many of the fake personas were cultivated across social media platforms, it added. LinkedIn said it had “restricted the accounts responsible” for the activity on its platform and was monitoring the situation, while Twitter said the platform was “actively investigating” the matter.&#xa0;</p> <p>Microsoft said it was “aware and tracking this threat actor”. Google said it had added the malicious domains used by the hackers to its “blocklist”.</p><p>Source: Hannah Murphy in San Francisco 2021 'Facebook accuses Iranian hackers of using platform to spy on US military' FT.com 15 July. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-07-15T17:04:10.400Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3092,
+          "end": 3101
+        },
+        {
+          "start": 1798,
+          "end": 1807
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

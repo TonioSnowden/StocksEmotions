@@ -1,0 +1,48 @@
+{
+  "_id": "c7710aa9379582690e0f0b58fe8553abb0d2c841a339258f5f625efe82383d96",
+  "feed": "wall-street-journal",
+  "title": "Faster End to Libor Sought --- CFTC subcommittee tells brokers they should switch to SOFR by late July",
+  "text": "<p>The new guidelines are from a CFTC subcommittee working under an initiative dubbed \"SOFR First.\" It is meant to persuade market players to adopt the Secured Overnight Financing Rate, as Libor's replacement. SOFR is the alternative preferred by regulators and many major banks.</p><p>As of July 26, big banks like JPMorgan Chase &amp; Co. will see certain derivatives priced in SOFR on dealer screens. Libor conventions will remain for information purposes only.</p><p>\"A lot of this is about inertia,\" said Tom Wipf, a Morgan Stanley banker. \"We face a reality of no new Libor contracts by the end of this year. We don't have a lot of time to do this.\"</p><p>Mr. Wipf is the head of the Alternative Reference Rates Committee, which backs SOFR and is made up of major banks, insurers and asset managers working alongside the New York Fed. He spoke Tuesday at an ARRC panel after the guidelines were announced.</p><p>The CFTC subcommittee includes representatives from the likes of BlackRock Inc. and Goldman Sachs Group Inc. Its announcement was a recommendation, not a firm deadline. But Mr. Wipf and others said it would push the derivatives market to link more trades to SOFR.</p><p>Top U.S. financial officials, including Treasury Secretary Janet Yellen, said Friday that some market players aren't moving swiftly enough to replace Libor and urged them to adopt SOFR.</p><p>Market participants have been slower to adopt the new rate than advocates had hoped. Some have complained that SOFR lacked rates that are weeks or months in the future, making it difficult to plan around future interest-rate risk. The ARRC said a lack of sufficient transactions and data made formally recommending those forward-looking reference rates a challenge. On the heels of the announcement, Mr. Wipf said the ARRC should be able to recommend forward-looking SOFR rates by the end of July.</p><p>Some corporate treasurers and investors have turned to competing alternatives. Some on Wall Street have started using the Bloomberg Short Term Bank Yield Index as a benchmark, while regional banks gravitated toward Ameribor, which is sensitive to funding cost increases during a crisis. A recently published JPMorgan client survey showed 41% of clients prefer using the Bloomberg index for swaps since it most resembles Libor, compared with 34% in favor of SOFR.</p><p>But when asked what would be the most active benchmark for the swaps market in five years, 63% of JPMorgan clients said it would likely be SOFR. JPMorgan interest-rate derivatives strategist Josh Younger said this may be driven in part by the ARRC's advocacy and the automatic conversion of outstanding Libor derivative contracts to that index in two years.</p>",
+  "published": "2021-06-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 2143,
+          "end": 2151
+        },
+        {
+          "start": 2376,
+          "end": 2384
+        },
+        {
+          "start": 2422,
+          "end": 2430
+        },
+        {
+          "start": 2396,
+          "end": 2404
+        },
+        {
+          "start": 2443,
+          "end": 2451
+        },
+        {
+          "start": 304,
+          "end": 323
+        },
+        {
+          "start": 307,
+          "end": 327
+        },
+        {
+          "start": 2124,
+          "end": 2132
+        }
+      ]
+    }
+  ]
+}

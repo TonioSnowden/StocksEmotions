@@ -1,0 +1,38 @@
+{
+  "_id": "7ba1cb4b513245913a7df8a1587da48ac46f81435272a14af60d4834c7336152",
+  "feed": "wall-street-journal",
+  "title": "Bank of Mexico Raises Interest Rates for 10th Straight Time; Overnight interest-rate target rises from 7.75% to 8.5%, its highest since the target was adopted in 2008",
+  "text": "<p>The bank cited large and varied inflation shocks, as well as \"the increasing challenges for monetary policy stemming from the ongoing tightening of global financial conditions.\"</p><p>It was the 10th consecutive rate increase since June of 2021 and second straight three-quarter point rise, matching the previous two interest-rate moves by the U.S. Federal Reserve. It is also the highest level since the Bank of Mexico adopted the interest-rate target in 2008.</p><p>Led by rising food prices, Mexico's inflation stood at 8.15% at the end of July, its highest level since December 2000. The core consumer-price index, which excludes energy and agricultural products but includes processed food, rose to 7.65%, also a more than 21-year high.</p><p>The bank noted the Fed's two consecutive three-quarter point increases in the federal-funds rate and rate increases by a large number of other central banks. The size of future rate increases will depend on prevailing conditions, the bank added.</p><p>The statement leaves the door open for the Bank of Mexico to reduce its pace of tightening, but also the possibility of larger increases, said Rafael de la Fuente, chief Latin America economist at UBS Securities.</p><p>\"They may be faced with a Fed that slows down the pace of hikes. On the other hand they could be faced with another upward surprise to their domestic inflation,\" he said.</p><p>The Bank of Mexico raised its inflation forecasts through the third quarter of 2023, but said it still expects inflation to return to its 3% target in the first quarter of 2024. It estimates inflation will average 8.5% in the third quarter of this year before beginning to ease gradually in the fourth quarter.</p><p>\"The concerns about inflation are still very much intact,\" said Mr. de la Fuente.</p><p>The Mexican peso gave back some gains in the wake of the rates decision, trading at 19.98 against the U.S. dollar versus 19.92 earlier in the day.</p><p>The central bank statement was \"slightly more dovish\" that the previous one, Goldman Sachs's chief Latin America economist Alberto Ramos said in a note.</p><p>\"In our assessment, the case for a follow-up 75 basis-point rate hike in September would have to be supported by additional negative inflation surprises and further deterioration of inflation expectations, alongside a hawkish Sept. 21 FOMC decision and guidance,\" he added.</p><p>Write to Anthony Harrup at anthony.harrup@wsj.com</p><p>Bank of Mexico Raises Interest Rates for 10th Straight Time</p>",
+  "published": "2022-08-11T20:18:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99952006,
+      "offsets": [
+        {
+          "start": 1977,
+          "end": 1990
+        },
+        {
+          "start": 1977,
+          "end": 1984
+        },
+        {
+          "start": 1963,
+          "end": 1976
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

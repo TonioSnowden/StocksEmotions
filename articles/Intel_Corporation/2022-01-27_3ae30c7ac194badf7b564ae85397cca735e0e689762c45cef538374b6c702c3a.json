@@ -1,0 +1,32 @@
+{
+  "_id": "3ae30c7ac194badf7b564ae85397cca735e0e689762c45cef538374b6c702c3a",
+  "feed": "wall-street-journal",
+  "title": "AMD's Planned Purchase of Xilinx Clears Last Big Regulatory Hurdle; China's market regulator conditionally approves the $35 billion deal, which would put AMD on a more even keel with rival Intel",
+  "text": "<p>AMD and Xilinx didn't immediately reply to requests for comment.</p><p>AMD's addition of San Jose, Calif.-based Xilinx, which specializes in a type of chip called field-programmable gate arrays, would put AMD, based in Santa Clara, Calif., on a more even keel with rival Intel Corp., which also has a FPGA business acquired from Altera in 2015.</p><p>Xilinx and Intel are the dominant makers of FPGA, which can be reprogrammed after they are made. FPGA are often used in 5G telecommunications infrastructure, military communications and radar systems. AMD specializes in central-processing units and graphics chips used in computers.</p><p>The approval comes weeks after AMD and Xilinx said they would push back the close date of the deal to the first quarter of this year from end-2021, as they couldn't secure necessary approvals.</p><p>The Chinese antitrust regulator said in a statement that it is requiring the merged entity to maintain or expand investments into R&amp;D activities in China for core technologies. The merged entity must sell to Chinese customers on fair, reasonable and nondiscriminatory terms, it also said. These conditions would apply for at least six years, and the merged entity must report to authorities every six months on these commitments, the regulator said.</p><p>China's antitrust authority, which has broad reach to claim say over deals in which at least one party has a significant presence in the Chinese market, has played a key role in some semiconductor deals in recent years.</p><p>Last month, Intel received the green light from the Chinese regulator for the $9 billion sale of its flash-memory chip business to South Korea's SK Hynix Inc., clearing the last hurdle for that deal.</p><p>In 2018, Qualcomm Inc. scrapped its $44 billion planned acquisition of NXP Semiconductors NV after waiting for an approval from Chinese authorities, which didn't come in time.</p><p>Write to Yang Jie at jie.yang@wsj.com</p><p>AMD's Planned Purchase of Xilinx Clears Last Big Regulatory Hurdle</p>",
+  "published": "2022-01-27T15:14:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 265,
+          "end": 270
+        },
+        {
+          "start": 350,
+          "end": 355
+        },
+        {
+          "start": 189,
+          "end": 194
+        },
+        {
+          "start": 1497,
+          "end": 1502
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

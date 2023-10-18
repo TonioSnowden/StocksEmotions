@@ -1,0 +1,28 @@
+{
+  "_id": "0a2f7442c1d52b13e17fdca209f911fa8b6b0a394ad7b0d66039cfb884157f58",
+  "feed": "wall-street-journal",
+  "title": "Volatility Measure Hits Three-Year Low Despite Market Tumult; Some investors might be fleeing the market altogether, rather than using a tool such as the VIX to protect against losses, strategists say",
+  "text": "<p>The Cboe Volatility Index, or VIX, a widely watched volatility measure based on options prices tied to the S&amp;P 500, is hovering at slightly elevated levels. It hasn't closed above 30, a key level that signifies increased fear, since June and settled Tuesday just below 24. The VVIX, an index measuring the volatility of the VIX itself, has fallen relatively steadily since January and recently hit a three-year low of 80.</p><p>The last time the VVIX was this low, the VIX was at 12, a level of extreme calm. That hardly matches the mood now. Worries about inflation, higher interest rates and slowing corporate profit growth have pulled the S&amp;P 500 down 14% this year, while the Bloomberg U.S. Aggregate Bond Index has fallen 8.5%.</p><p>That suggests some investors might be fleeing the market altogether, rather than using a tool such as the VIX or derivatives to protect against losses, some strategists said.</p><p>One of the primary reasons that volatility has been subdued of late is that investors have shifted their portfolios away from stocks, lessening the need to hedge. Starting at the end of 2021, systematic funds—which follow trends or target certain measures of risk—pared their equity exposure to historically low levels.</p><p>Many of those strategies have paid off this year. Systematic trend funds, otherwise known as managed futures, employ a trend-following strategy that has averaged a 14% return this year, according to Morningstar Direct. The iMGP DBi Managed Futures Strategy ETF, which seeks to mirror the performance of the largest hedge funds employing that strategy, has gained 21% in 2022.</p><p>Following another strategy that has gained in popularity, asset managers and hedge funds recently stepped up bearish bets against U.S. stocks to the highest levels since 2016, according to a JPMorgan Chase &amp; Co. analysis of futures tracking major stock indexes.</p><p>On the other hand, hedging strategies that buy put options have struggled. The Cboe S&amp;P 500 5% Put Protection Index, which buys out of the money puts that should rise in value when the market falls, has trailed the S&amp;P 500 this year, falling 15%.</p><p>A put option gives investors the right to sell shares of the underlying index at a given price until a listed date, while a call option gives the right to buy.</p><p>\"The S&amp;P 500 hit a new three-month low in each of the first six months of the year; we have not seen that since the 1970s,\" said Rocky Fishman, head of index volatility research at Goldman Sachs Group Inc. \"The gradual move lower has made this a very difficult year for put-protection hedging strategies.\"</p><p>At times, put-buying has failed to deliver returns relative to the extreme premiums it has commanded since the March 2020 crash.</p><p>Investors have pulled back from buying protection against moderate selloffs or increases in the VIX, according to Bram Kaplan, head of Americas equity derivatives strategy at JPMorgan. There is still high demand, he said, for hedges against what are known as tail-risk events, or those with a statistically minute probability of occurring, from firms such as banks and insurance companies.</p><p>Those hedges are taking the form of puts on the S&amp;P 500 or calls on the VIX, which are far out of the money but offer a high payout.</p><p>\"Investors are realizing that the chance of the VIX spiking is extremely low unless something unexpected shows up,\" said Shailesh Gupta, head of trading at Simplify Asset Management.</p><p>Another factor that has crimped the volatility market? Barclays PLC stopped supporting an exchange-traded product in March that tracked VIX futures contracts. Open interest on the iPath Series B S&amp;P 500 VIX Short-Term Futures Exchange-Traded Note, known as VXX, fell in July to roughly half the average levels in 2020 and 2021. Analysts at the research firm Tier1 Alpha said that decline has created a cascading effect of lower overall activity from dealers, helping prevent the VVIX from rising.</p><p>Write to Eric Wallerstein at eric.wallerstein@wsj.com</p><p>Volatility Measure Hits Three-Year Low Despite Market Tumult</p>",
+  "published": "2022-08-03T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2448,
+          "end": 2455
+        },
+        {
+          "start": 2448,
+          "end": 2472
+        },
+        {
+          "start": 2448,
+          "end": 2461
+        }
+      ]
+    }
+  ]
+}

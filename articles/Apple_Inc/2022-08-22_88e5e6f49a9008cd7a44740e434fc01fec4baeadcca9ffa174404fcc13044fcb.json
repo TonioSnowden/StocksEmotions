@@ -1,0 +1,34 @@
+{
+  "_id": "88e5e6f49a9008cd7a44740e434fc01fec4baeadcca9ffa174404fcc13044fcb",
+  "feed": "wall-street-journal",
+  "title": "Droughts Take Widening Toll On World's Largest Economies",
+  "text": "<p>In the American West, a drought that began two decades ago now appears to be the worst in 1,200 years, according to a study led by the University of California, Los Angeles.</p><p>Researchers compare droughts by measuring the growth of annual tree rings that reflect rainfall and temperature from year to year in specific areas. Climate scientists said this year's dry spells are partly due to La Nina, a cyclical pattern of cooler water in the eastern Pacific Ocean that pushes the atmospheric jet stream northward, leaving parts of Europe, the U.S. and Asia with less rain. The United Nations said the number of droughts worldwide has risen 29% since 2000 due to land degradation and climate change.</p><p>For some of the world's biggest economies, this summer's droughts are hurting industries including electricity generation, agriculture, manufacturing and tourism. That is compounding existing strains such as supply-chain disruptions stemming from the Covid-19 pandemic and pressure on energy and food prices from the war in Ukraine.</p><p>In the U.S., agricultural forecasters expect farmers to lose more than 40% of the cotton crop, while in Europe the Spanish olive-oil harvest is expected to fall as much as a third amid hot and dry conditions.</p><p>In Europe, rivers such as the Rhine and Italy's Po that serve as arteries for trade are running at historic lows, forcing manufacturers to cut shipments. Falling river levels have reduced hydropower generation across the continent, affecting a key alternative to natural gas, which is in shorter supply as Russia squeezes flows.</p><p>Heat has forced France to lower production at several nuclear reactors because the river water that cools them is too warm. And Germany, Europe's biggest consumer of Russian gas, plans to burn more coal instead of gas to generate electricity, but low levels on the Rhine are holding back shipments.</p><p>Meager snowfall at the river's source in the Swiss Alps and reduced rainfall downstream have lowered water flow in the Rhine Delta in the Netherlands. That has allowed seawater into the nation's system of locks and dams, slowing river traffic and seeping into reservoirs used for drinking and agriculture.</p><p>Eleven inches of rain had fallen in much of the country this year by early August compared with the usual 16, leaving the Rhine so low in places that it is snarling exports from German manufacturers upriver.</p><p>\"Everything is hurting Germany more than anywhere else, that's a common theme,\" said Andrew Kenningham, chief Europe economist at Capital Economics in London.</p><p>In the U.S., smaller snowpacks in the Sierra Nevada mountains of California have sharply reduced water supplies in the region, home to the nation's largest agriculture industry. Officials of the Westlands Water District in the Central Valley, the state's most important agricultural region, said about a third of the 600,000 farmland acres there are being left unplanted this year because of water shortages.</p><p>The Colorado River has fallen so much that the U.S. Bureau of Reclamation on Aug. 16 declared a second consecutive annual shortage, triggering a second straight year of mandatory water cuts to Arizona, Nevada and Mexico.</p><p>In Yuma County, Ariz. -- a major producer of lettuce, baby greens and other vegetables -- farmers expect a hit of as much as 10% to their $3.4 billion-a-year industry, said Wade Noble, general counsel for four irrigation districts there.</p><p>\"It's less income into the area,\" Mr. Noble said. \"It's less buying and selling.\"</p><p>In central and southwestern China, authorities declared a drought in six provincial-level jurisdictions, which together accounted for a fourth of China's grain output last year.</p><p>The southwestern province of Sichuan has been hit hardest by lower rainfall, as it relies heavily on hydropower for electricity. Soaring temperatures have driven up demand for air conditioning, threatening to overload the power grid.</p><p>Local authorities on Sunday activated the highest emergency response amid the crunch, extending an order from last week to many factories to shut or scale back production to \"leave electricity for the residents\" until Thursday.</p><p>The restrictions, while limited, have affected a number of global manufacturers such as Apple Inc. device maker Foxconn Technology Co. Ltd., Volkswagen AG and Toyota Motor Corp., as well as manufacturers of lithium salts, fertilizers and photovoltaic equipment. Tesla Inc. has asked Shanghai's government to help ensure its suppliers have sufficient electricity supply amid a crunch, according to a government letter and people familiar with the matter.</p><p>Water levels along some sections of the Yangtze -- a crucial source of hydropower, transport and water for crops -- have fallen to their lowest since record-keeping began, according to China's Ministry of Water Resources.</p><p>La Nina episodes typically last nine to 12 months, but this one is in its second year and is expected to last until at least February 2023, according to a recent advisory issued by the National Oceanic and Atmospheric Administration.</p><p>The impact of extended drought and heat waves on tourism, manufacturing and agriculture could become a long-term drag on the credit ratings of governments across Southern Europe, according to Moody's Investors Service.</p><p>\"If it becomes the norm that July, August are unbearable in parts of Europe, then companies and people are likely to react to that,\" said Marie Diron, managing director of sovereign credit at Moody's in London.</p><p>---</p><p>Eric Niiler contributed to this article.</p>",
+  "published": "2022-08-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 4217,
+          "end": 4227
+        },
+        {
+          "start": 4192,
+          "end": 4202
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

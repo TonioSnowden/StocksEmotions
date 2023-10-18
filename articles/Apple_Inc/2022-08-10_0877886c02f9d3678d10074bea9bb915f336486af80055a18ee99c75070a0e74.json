@@ -1,0 +1,34 @@
+{
+  "_id": "0877886c02f9d3678d10074bea9bb915f336486af80055a18ee99c75070a0e74",
+  "feed": "wall-street-journal",
+  "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes. More marketers are using artificial-intelligence tools to help develop creative ideas",
+  "text": "<p>Inspiration for the ads came from an unlikely source: artificial intelligence.</p><p>Kayak worked with New York advertising agency Supernatural Development LLC, whose internal AI platform combines marketers' answers to questions about their business with consumer data drawn from social media and market research to suggest campaign strategies, then automatically generates ideas for advertising copy and other marketing materials.</p><p>Supernatural's AI found that Kayak should target its campaign largely toward young, upper-income men, who it said would respond to humor about Americans' inability to agree on basic facts in politics and pop culture, said Michael Barrett, co-founder and chief strategy officer at Supernatural.</p><p>\"That gave us a good amount of license to zig where the category was zagging and to be more relevant, more provocative,\" Mr. Clarke said of the AI findings.</p><p>The campaign has been one of Kayak's most successful to date in driving brand favorability, Mr. Clarke said.</p><p>Marketers have primarily used AI in a creative capacity in services like creative automation, which tests thousands of slight variations on elements such as ad copy and color schemes to determine which combinations will best attract consumers' attention.</p><p>But AI is expected to change marketing practices drastically in coming years thanks to new tools like OpenAI Inc.'s automated language generator GPT-3, which allows algorithms to better understand different languages and produce original text content, said Tom Davenport, distinguished professor of information technology and management at Babson College in Wellesley, Mass., who co-wrote a 2019 paper on the subject.</p><p>Unilever PLC's Dollar Shave Club recently began working with AI firm Addition Technologies Inc., whose platform can analyze millions of social-media posts, to help identify themes for use in marketing products that range from razors to wet wipes.</p><p>\"It's like having a machine hive mind that you can just keep asking questions because it has completely consumed all comments on the subject,\" said Matt Orser, vice president and head of creative at Dollar Shave Club.</p><p>Addition also worked with ad agency Droga5 LLC to create an interactive ad campaign for the New York Times that turns headlines from each subscriber's reading history into a visual \"portrait\" of that person. Many headlines were too long to fit within the portraits' design, so Addition programmed its platform to rewrite each in fewer than 50 characters, said a Times spokesman.</p><p>AI's primary benefit for marketers is its ability to quickly complete projects, such as brand strategy briefs, that would take humans days or weeks, giving staffers more time to focus on other work, said Supernatural Chief Creative Officer Paul Caiozzo.</p><p>When Signal Messenger LLC, maker of encrypted messaging app Signal, wanted to plan its first major marketing campaign in 2021, it turned to AI marketing consulting firm DumDum LLC.</p><p>DumDum invites marketers to discuss their most pressing challenges in brief \"thinkathon\" sessions, then runs those ideas through an AI platform that matches them with potential solutions based on a growing pool of behavioral data and consumer surveys conducted by DumDum to provide CMOs with outside perspectives.</p><p>DumDum presented Signal with several options, and executives chose one that focused on the fact that Signal, unlike many other digital platforms, doesn't collect user data. They bought several Instagram ads designed to highlight how its parent, Meta Platforms Inc., targets users with their own personal data, said Jun Harada, head of growth and communication at Signal. One post began, \"You got this ad because you're a certified public accountant in an open relationship.\"</p><p>Facebook responded by shutting down Signal's ad account, according to Mr. Harada. The move came only days after Apple Inc. announced sweeping data-privacy changes that would upend the digital advertising industry.</p><p>When used correctly, AI forces marketers to consider new perspectives and avoid simply repeating approaches that worked in the past, said DumDum founder Nathan Phillips.</p><p>\"You can create a dance between human and computer that changes the way you think,\" Mr. Phillips said.</p><p>The idea of AI as a creative partner isn't new, but most campaigns have positioned it as a gimmick.</p><p>In 2018, Toyota Motor Corp.'s Lexus released what it called \"the world's first advert to be scripted entirely by AI.\" However, a Lexus spokeswoman described that effort as a \"one-off,\" and it still needed a human director.</p><p>Increased use of AI could potentially eliminate some entry-level marketing jobs, but it will never replace the people required to ensure that content is fit for public consumption and to prevent controversies such as Microsoft Corp.'s anti-Semitic chat bot, said Mr. Davenport, the Babson College professor.</p><p>Ad industry leaders agreed that AI will supplement, not supplant, human ingenuity. \"While [AI] can unlock the creative capacity of people by making their work more efficient and effective, sometimes we need to throw logic out the window and fall back on our intuition,\" said Rob Reilly, global chief creative officer at ad giant WPP PLC.</p><p>More creative firms will begin using AI tools in the coming years, but most will not position themselves as AI-driven businesses, because CMOs aren't particularly concerned with the process as long as the resulting campaigns are successful, said Mr. Caiozzo of Supernatural.</p><p>\"AI is just the tool that is freeing me to do my job,\" he said. \"Most people don't care how you bake the bread.\"</p><p>Write to Patrick Coffee at patrick.coffee@wsj.com</p><p>Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.</p>",
+  "published": "2022-08-10T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3821,
+          "end": 3831
+        },
+        {
+          "start": 3839,
+          "end": 3849
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

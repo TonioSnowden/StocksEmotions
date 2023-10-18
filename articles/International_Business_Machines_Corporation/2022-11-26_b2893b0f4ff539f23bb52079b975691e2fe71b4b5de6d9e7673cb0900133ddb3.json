@@ -1,0 +1,68 @@
+{
+  "_id": "b2893b0f4ff539f23bb52079b975691e2fe71b4b5de6d9e7673cb0900133ddb3",
+  "feed": "wall-street-journal",
+  "title": "Obituaries: IBM Executive Managed Seminal Computer System",
+  "text": "<p>Dr. Frederick P. Brooks Jr. liked building things, first laying foundations for modern computer systems at International Business Machines Corp. and later at the University of North Carolina, where he started the computer-science department.</p><p>Dr. Brooks managed the development of IBM's System/360 family of compatible mainframe computers and then the software system that went with them during the 1960s. The computers became some of IBM's most popular models of the era, offering customers a choice of big or small computers with different processing speeds that could be used for both business and scientific tasks. The system was easy to expand since all the hardware ran off the same software, a departure from other systems that required software reprogramming when computers were added.</p><p>Dr. Brooks died Nov. 17 at his home in Chapel Hill, N.C., after his health had declined in recent years. He was 91 years old.</p><p>IBM's 360 software program was the largest software-development project in the computer industry during the early 1960s, Dr. Brooks's colleagues said. Some of the system's architecture later became ubiquitous throughout the industry, including the eight-bit byte that Dr. Brooks selected over competing options. The decision permitted upper and lower letters and special symbols to be stored in one byte, allowing for word processing and numerical calculations to be performed on the same computer. At that time, word and numerical functions typically required separate computers.</p><p>\"Of all my technical accomplishments, making the eight-bit byte decision is by far the most important,\" Dr. Brooks said in a 2007 interview with the U.K.-based Computer History Museum.</p><p>At the height of the 360 project's development, Dr. Brooks managed 1,000 people from IBM's Poughkeepsie, N.Y., plant. Dr. Brooks said later in interviews that before the project was completed in 1964 he had contemplated leaving IBM, where he had worked since earning a Ph.D. in applied mathematics at Harvard University in 1956. He had been eyeing a move to academia for years, and for a time tried living on just his wife Nancy's salary at IBM to get used to the reduced income he expected as a college professor. The couple met at Harvard and married just before starting their jobs at IBM.</p><p>Nancy Brooks, who survives her husband, was hired as a physicist for IBM's first transistorized computer, known as Project Stretch. The couple eventually had three children.</p><p>In 1963, Dr. Brooks accepted University of North Carolina administrators' offer to found a computer-science department that colleagues said was one of the first in the country, and he later served as the department's chairman. During a lunch meeting called by IBM's then-CEO Thomas Watson Jr. to change his mind about leaving the company, Dr. Brooks recalled Mr. Watson's bewilderment at his wanting to leave just as his career as one of the company's top program managers was taking off.</p><p>\"I said, 'I like to make things,'\" said Dr. Brooks during the computer museum interview. \"And he said, 'I do too.'\"</p><p>Dr. Brooks agreed to stay at IBM through 1964 to complete the work on the 360 software. Mr. Watson sent another IBM executive to North Carolina to teach Dr. Brooks's computer classes in his absence.</p><p>For Dr. Brooks, the move to North Carolina reunited him with his family and his educational roots. He was born in Durham, N.C., on April 19, 1931, and grew up in Greenville, N.C., where his father was a physician. The oldest of three boys in the family, Dr. Brooks said in interviews that he became interested in business machines and filing systems at an early age. He earned a bachelor's degree in physics at Duke University in Durham in 1953.</p><p>When Dr. Brooks arrived at the Chapel Hill campus permanently in 1965 he started building the computer-science department from scratch with a small staff and an emphasis on collaboration with the rest of the university.</p><p>\"One of the things he always said was he wanted computers to amplify human intelligence,\" said Mary Whitton, research professor emerita, who was Dr. Brooks's chief collaborator in virtual-reality research for 20 years.</p><p>Dr. Brooks stepped down as chairman of the UNC computer-science department in 1984 but stayed on as a professor in the department until 2005 when he retired. He remained on the faculty part time for another 10 years.</p>",
+  "published": "2022-11-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 12,
+          "end": 15
+        },
+        {
+          "start": 107,
+          "end": 138
+        },
+        {
+          "start": 2126,
+          "end": 2129
+        },
+        {
+          "start": 919,
+          "end": 922
+        },
+        {
+          "start": 2347,
+          "end": 2350
+        },
+        {
+          "start": 2712,
+          "end": 2715
+        },
+        {
+          "start": 2273,
+          "end": 2276
+        },
+        {
+          "start": 434,
+          "end": 437
+        },
+        {
+          "start": 3086,
+          "end": 3089
+        },
+        {
+          "start": 1913,
+          "end": 1916
+        },
+        {
+          "start": 1770,
+          "end": 1773
+        },
+        {
+          "start": 280,
+          "end": 283
+        },
+        {
+          "start": 3169,
+          "end": 3172
+        }
+      ]
+    }
+  ]
+}

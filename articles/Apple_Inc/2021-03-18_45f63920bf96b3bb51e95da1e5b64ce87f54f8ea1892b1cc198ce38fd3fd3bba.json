@@ -1,0 +1,92 @@
+{
+  "_id": "45f63920bf96b3bb51e95da1e5b64ce87f54f8ea1892b1cc198ce38fd3fd3bba",
+  "feed": "ftcomall",
+  "title": "Apple warns Chinese apps not to dodge its new privacy rules",
+  "text": "<p>A cat-and-mouse game has begun between Apple and Chinese tech companies, as the iPhone maker tries to enforce its new privacy policies in China. </p> <p>Apple is expected to roll out changes to iPhones in the Spring that will give users more privacy from mobile advertising, a market that hit $240bn last year, according to App Annie. </p> <p>The changes will force apps to ask for permission before collecting tracking data on users, a move that has been bitterly fought by Facebook, since most users are expected to say no. </p> <p>But even before introducing the changes, Apple is facing problems in China, where <a href=\"https://www.ft.com/content/520ccdae-202f-45f9-a516-5cbe08361c34\">tech companies are testing ways to beat the system</a> and continue tracking users without prompting for their consent. Apple previously said it would reject from its App Store any apps that “are found to disregard the user's choice”.</p> <p>On Thursday, Apple fired pre-emptive warnings to at least two Chinese apps, telling them to cease and desist after naming a dozen parameters such as “setDeviceName” that could be used “to create a unique identifier for the user's device”.</p> <p>“We found that your app collects user and device information to create a unique identifier for the user's device,” reads a screenshot of a warning to one developer who was using a new way of identifying users called CAID, which was developed by the state-backed China Advertising Association. </p> <p> Its guidelines suggest an update must be “compliant with the App Store Review Guidelines within 14 days” or “your app will be removed from sale”. </p> <p>Jackie Singh, former senior cyber security staffer to the Biden Campaign, said the warnings demonstrated Apple's sophisticated ability to use automated tools to detect violations of its privacy guidelines.</p> <p>“Apple clearly has the technical capability to deny the existence of apps in their ecosystem which perform activities intended to uniquely identify people and track their behaviour outside of Apple's walled garden,” she said.&#xa0;</p> <p>“The real question is whether they will choose to broadly or narrowly enforce these policies within the context of a foreign government's whims and desires — and how Apple will choose to respond to such challenges from other nations moving forward.”</p> <p>Apple's move is an attempt to nip in the bud any resistance to its new policy, which has been deeply unpopular with developers worldwide, many of whom offer free apps that make money from ads.</p> <p>A marketing industry veteran who wished to remain anonymous added: “Apple's new policy will hurt the advertising industry's ability to verify their traffic. In China, big and small firms were all testing out the CAID, but Apple's recent actions will put a stop to these tests.”</p> <p>The Financial Times has obtained information about the software development kits from five of China's biggest tech companies, including Baidu, ByteDance, and Tencent, that show they are testing or implementing CAID as a way of identifying users in the future. </p> <p>ByteDance's guide recommends developers use its SDK, “Ocean Engine,” to “issue” two new identifiers, CAID1 and CAID2, one based on a user's IP address and the type of browser and phone; another on a phone's IMEI — a unique number that identifies a device on a mobile network.</p> <p>Both new IDs violate Apple's rules, which state that developers must obtain permission to use “other IDs with a third-party advertising network”.</p> <p>As a “fallback,” ByteDance also recommends developers use “fingerprinting and probabilistic matching” methods to identify users — another violation.</p> <p>Tech experts say the fact that Chinese tech companies are creating multiple identification systems suggests that Chinese apps will tweak their submissions in numerous ways to get past Apple's enforcement. </p> <p>“The SDKs suggest that [Chinese app developers] are prepared to play that cat-and-mouse game,” said Irene Knapp, formerly a senior software engineer at Google and now a member at the campaign group Tech Inquiry. &#xa0;</p> <p>Singh noted that CAA's privacy terms, which are publicly available, suggest that a CAID can initially be created on servers hosted by app developers rather than on the device itself. She said this could indicate that developers may try to get their apps approved by Apple by making changes at the server level that are harder to detect.</p> <p>“If the app is written in such a way that the actual CAID code exists remotely and the parameters are sent off to a server, this could make detection more difficult,” she added.</p> <p>The efforts to undermine Apple's new privacy push will put the $2tn tech giant in a bind.</p> <p>“Either [Apple] upsets Chinese companies — in some cases government owned or backed — potentially arresting its meteoric growth in China over the past decade and disrupting a core part of its supply chain, or it gives Chinese developers special privilege and opens up that can of worms,” said Alasdair Pressney, director of product strategy at AdColony, a mobile in-app an network and marketplace.</p> <p>Apple declined to comment. </p>&#xa0;<p>Source: Yuan Yang in Shanghai and Patrick McGee in San Francisco 2021 'Apple warns Chinese apps not to dodge its new privacy rules' FT.com 18 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-18T19:13:22.065Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2444,
+          "end": 2450
+        },
+        {
+          "start": 1606,
+          "end": 1611
+        },
+        {
+          "start": 39,
+          "end": 44
+        },
+        {
+          "start": 836,
+          "end": 841
+        },
+        {
+          "start": 4171,
+          "end": 4176
+        },
+        {
+          "start": 2599,
+          "end": 2604
+        },
+        {
+          "start": 2100,
+          "end": 2105
+        },
+        {
+          "start": 4908,
+          "end": 4913
+        },
+        {
+          "start": 145,
+          "end": 150
+        },
+        {
+          "start": 3670,
+          "end": 3675
+        },
+        {
+          "start": 551,
+          "end": 556
+        },
+        {
+          "start": 1899,
+          "end": 1904
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 4518,
+          "end": 4524
+        },
+        {
+          "start": 2184,
+          "end": 2189
+        },
+        {
+          "start": 4445,
+          "end": 4450
+        },
+        {
+          "start": 708,
+          "end": 713
+        },
+        {
+          "start": 1707,
+          "end": 1713
+        },
+        {
+          "start": 3212,
+          "end": 3217
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

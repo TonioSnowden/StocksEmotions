@@ -1,0 +1,90 @@
+{
+  "_id": "4de3f199850076dd330d2b6d6f93c939480e64b72e83f143ac90de040f48b411",
+  "feed": "reuters",
+  "title": "Disney tops Netflix on streaming subscribers, sets higher prices",
+  "text": "<p>Shares of Disney rose 6.9% in after-hours trading to $120.15 on Wednesday.</p><p>Disney in 2017 staked its future on building a streaming service to rival Netflix as audiences moved to online viewing from traditional cable and broadcast television.</p><p>Five years later, Disney has edged past Netflix in total streaming customers. The Mouse House added 14.4 million Disney + customers, beating the consensus of 10 million expected by analysts polled by FactSet , as it released \"Star Wars\" series \"Obi-Wan Kenobi\" and Marvel's \"Ms. Marvel.\"</p><p>Combined with Hulu and ESPN+, Disney said it had 221.1 million streaming subscribers at the end of the June quarter. Netflix said it had 220.7 million streaming subscribers.</p><p>\"Disney is gaining market share when Netflix is struggling to add more subscribers,\" Investing.com analyst Haris Anwar said. \"Disney has still more room to grow in international markets where it's rolling out its service fast and adding new customers.\"</p><p>To help attract new customers, Disney will offer an ad-supported version starting on Dec. 8 for $7.99 a month, the same price it now charges for the ad-free version, the company said.</p><p>Prices for Hulu will rise by $1 to $2 per month in December depending on the plan.</p><p>The company lowered its long-term subscriber forecast for Disney + customers on Wednesday, blaming the loss of cricket rights in India.</p><p>Disney now projects between 215 million and 245 million total Disney + customers by the end of September 2024. That is down from the 230 million to 260 million which Disney had been forecasting.</p><p>The adjustment came from reduced expectations for India, where the company is losing streaming rights for Indian Premier League cricket matches.</p><p>For the first time, Disney broke out estimates for Disney + Hotstar customers in India from the rest of Disney +.</p><p>Chief Financial Officer Christine McCarthy said Disney expected to add up to 80 million Disney + Hotstar customers by September 2024, and between 135 million and 165 million others.</p><p>The company still expects its streaming TV unit to turn a profit in fiscal 2024, McCarthy said. In the most recent quarter, the division lost $1.1 billion.</p><p>For the fiscal third quarter ended July 2, Disney posted adjusted earnings per share of $1.09, up 36% from a year earlier, as visitors packed its theme parks. Analysts polled by Refinitiv had expected earnings of 96 cents.</p><p>Operating income more than doubled at the parks, experiences and products division to $3.6 billion.</p><p>Streaming losses put a drag on the media and entertainment unit, whose profit declined by 32% to nearly $1.4 billion.</p><p>Overall revenue rose 26% from a year earlier to $21.5 billion, ahead of the analyst consensus of $20.96 billion.</p>",
+  "published": "2022-08-10T21:52:59.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 16
+        },
+        {
+          "start": 75,
+          "end": 81
+        },
+        {
+          "start": 261,
+          "end": 267
+        },
+        {
+          "start": 561,
+          "end": 567
+        },
+        {
+          "start": 706,
+          "end": 712
+        },
+        {
+          "start": 831,
+          "end": 837
+        },
+        {
+          "start": 989,
+          "end": 995
+        },
+        {
+          "start": 1283,
+          "end": 1291
+        },
+        {
+          "start": 1361,
+          "end": 1367
+        },
+        {
+          "start": 1423,
+          "end": 1429
+        },
+        {
+          "start": 1527,
+          "end": 1533
+        },
+        {
+          "start": 1721,
+          "end": 1727
+        },
+        {
+          "start": 1805,
+          "end": 1813
+        },
+        {
+          "start": 1863,
+          "end": 1869
+        },
+        {
+          "start": 2196,
+          "end": 2202
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

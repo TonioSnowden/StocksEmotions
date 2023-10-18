@@ -1,0 +1,34 @@
+{
+  "_id": "51027900472275e5d287f3e21ba6a35a7eea35384aaa562d86083ea4568a02ac",
+  "feed": "wall-street-journal",
+  "title": "Warby Parker Cuts Sales Forecast, Corporate Staff as Consumers Delay Purchases; Eyeglasses maker affirms plan to open 40 retail locations this year",
+  "text": "<p>Savings from those actions will amount to between $8 million and $9 million this year, and about $15 million to $17 million next year, the company said. It reiterated plans to open 40 stores this year, which would bring its total to 201.</p><p>Warby Parker is one of several brands that launched as online disrupters and are now turning to bricks-and-mortar selling in search of profits. Since its initial pitch of eyeglasses starting at $95, the company has expanded into offering eye exams and contact lenses.</p><p>In March, the company said sales growth would be lower for the year compared with 2021, but attributed lower demand to the disruption caused by the Omicron variant of Covid-19 earlier in the year. Now, executives say, inflation is a drag on consumer spending, and the company is unsure when this period of higher prices on everything from food to fuel will end.</p><p>\"We're really being conservative in our assumptions,\" Dave Gilboa, Warby Parker co-founder and co-chief executive, told analysts during a conference call, adding that customers are making fewer discretionary purchases. \"We're not counting on that pent-up demand to show up in our forecast.\"</p><p>Warby Parker said it now expects net revenue between $584 million and $595 million for the year, compared with its prior forecast of $650 million to $660 million. The latest forecast implies year-over-year revenue growth between 8% and 10%, instead of between 20% and 22%.</p><p>Shares of Warby Parker were up roughly 19% for the day, closing at $16.90. The company's stock has fallen about 64% so far this year, compared with a 12% decline in the S&amp;P 500.</p><p>Investors bidding up the shares Thursday are more focused on the long-term growth outlook of the company more than the aggressive reduction in targets in the short term, said Ed Yruma, an analyst for Piper Sandler. \"They're less than 1% of the optical market, they have attractive price points, they could easily triple the store count over time,\" he said.</p><p>Warby Parker became the latest retailer to lower its guidance, following companies including Walmart Inc. and sneaker maker Allbirds Inc., as higher prices cause consumers to pull back on their spending.</p><p>In the latest quarter, Warby Parker reported revenue of $149.6 million, up 14% from the previous year. Its net loss widened to $32.2 million, or 28 cents a share, as the company said it reported higher expenses including those tied to stock-based compensation.</p><p>On an adjusted basis, the loss was a penny a share, which narrowly beat analysts' forecasts.</p><p>The company said its gross margin fell from the prior year, attributing the decline to its growing contact lens business.</p><p>Average revenue per customer increased 8.2% during the quarter to $254.</p><p>Write to Charity L. Scott at Charity.Scott@wsj.com</p><p>Warby Parker Cuts Sales Forecast, Corporate Staff as Consumers Delay Purchases</p>",
+  "published": "2022-08-11T21:14:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2046,
+          "end": 2057
+        },
+        {
+          "start": 2060,
+          "end": 2072
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

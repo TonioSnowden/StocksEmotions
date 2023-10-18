@@ -1,0 +1,32 @@
+{
+  "_id": "575f46ccaeb7f04b8986fe66cb74b0b701d6ce04820e0aa7f58fe91ed763a086",
+  "feed": "wall-street-journal",
+  "title": "Morgan Stanley Profit Rises 9%; Revenue rose 7% to $14.5 billion in the quarter, which fell just short of expectations",
+  "text": "<p>The bank earned record profits for the full year. Wealthy clients flocked to the bank for help managing their money, and the market for deals on Wall Street stayed hot.</p><p>Investment banking revenue grew 6% in the fourth quarter. Rivals Goldman Sachs Group Inc., JPMorgan Chase &amp; Co. and Citigroup Inc. also reported gains in investment banking.</p><p>Stock and bond trading revenue fell 6% in the fourth quarter. Trading revenue also fell at Goldman, JPMorgan and Citigroup.</p><p>Morgan Stanley shares rose slightly in pre-market trading.</p><p>Morgan Stanley Profit Rises 9%</p>",
+  "published": "2022-01-19T13:08:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 234,
+          "end": 258
+        },
+        {
+          "start": 434,
+          "end": 441
+        },
+        {
+          "start": 234,
+          "end": 247
+        },
+        {
+          "start": 234,
+          "end": 241
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "aa2b61099fd3d3d5b01a196b3a9ef6abb00bee8edd36e9d116a81760b208232f",
+  "feed": "wall-street-journal",
+  "title": "Fast Company Shuts Website After Two Hacks Within Days",
+  "text": "<p>In the first attack, Fast Company said abhorrent language appeared on its website on Sunday afternoon. The company shut down its website for about two hours that day. Then Fast Company said its content-management system was hacked on Tuesday night. Its Apple News followers received two notifications on their devices about a minute apart. \"The messages are vile and are not in line with the content and ethos of Fast Company,\" the company said.</p><p>Apple News said on Twitter Tuesday night that it disabled Fast Company's channel after \"an incredibly offensive alert\" was sent.</p><p>Apple Inc. and Fast Company didn't return requests for comment on Wednesday.</p><p>New York-based Fast Company publishes a website and a magazine about technology, design and other topics. It had 4.9 million unique online visitors in August, according to Comscore Inc., a firm that measures internet traffic.</p><p>Fast Company apologized to its readers who saw the content before it was taken down.</p><p>\"Fast Company regrets that such abhorrent language appeared on our platforms and in Apple News,\" the company said.</p><p>The company released its first print issue in 1995. In 2005, the Chicago-based private investor Joe Mansueto acquired the company and Inc. Magazine, a business publication, for around $40 million.</p><p>Mansueto Ventures LLC, which publishes both Inc. Magazine and Fast Company, didn't respond to a request for comment Wednesday. Both Mansueto Ventures's and Inc. Magazine's websites were also down on Wednesday morning.</p>",
+  "published": "2022-09-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 575,
+          "end": 580
+        },
+        {
+          "start": 1047,
+          "end": 1052
+        },
+        {
+          "start": 446,
+          "end": 451
+        },
+        {
+          "start": 575,
+          "end": 584
+        },
+        {
+          "start": 253,
+          "end": 258
+        },
+        {
+          "start": 575,
+          "end": 585
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

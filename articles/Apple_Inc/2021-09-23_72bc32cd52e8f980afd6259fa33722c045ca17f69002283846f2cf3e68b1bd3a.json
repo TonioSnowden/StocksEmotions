@@ -1,0 +1,48 @@
+{
+  "_id": "72bc32cd52e8f980afd6259fa33722c045ca17f69002283846f2cf3e68b1bd3a",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Facebook Says iOS Privacy  Moves Harmed Its Ad Tools  ----  By Bowdeya Tweh",
+  "text": "<p>   Facebook Inc. said that Apple Inc.'s recent changes to enhance privacy for users of its mobile operating system are impeding tools that the social-media giant uses to help advertisers measure the effectiveness of their campaigns. </p><p>   In a blog post Wednesday, Graham Mudd, Facebook's vice president of product marketing, said the company has heard from many advertisers that privacy changes in the online advertising industry have had a greater-than-expected impact on their operations. </p><p>   Mr. Mudd suggested that Facebook's tools may be underreporting information such as sales and app installs, meaning that ad campaigns on the platform are performing better than the data show. Facebook estimates that its tools are undercounting how often campaigns are driving iOS users to visit a website and take an action, otherwise known as a website conversion, by about 15%, according to the blog post. </p><p>   Mr. Mudd also said Facebook has embarked on a multiyear effort to develop technologies that collect less personal identifying information from users but still allow it to show personalized ads and measure their effectiveness. </p><p>   Apple in April rolled out a change to its iOS software requiring apps to ask users for permission to track their activity and share it with other apps or websites. The move has been at the center of an intensifying fight between the iPhone maker and Facebook and other companies that use such tracking technology to sell digital ads. </p><p>   Apple has defended the introduction of the technology, with executives saying that users should be able to choose which information they share with apps. </p><p>   Apple didn't respond to a request for comment on Facebook's blog post. </p><p>   \"We really just want to give users a choice,\" Craig Federighi, Apple's senior vice president of software engineering, said in an April interview. \"These devices are so intimately a part of our lives and contain so much of what we're thinking and where we've been and who we've been with that users deserve and need control of that information.\" </p><p>   Facebook, with Alphabet Inc.'s Google and Amazon.com Inc., is part of a triopoly in U.S. digital advertising that accounts for a roughly 90% share of the market, according to some estimates. </p><p>   Facebook has warned several times that Apple's move would hurt its ad-tracking tools. Mr. Mudd on Wednesday repeated guidance the company gave in July, when it reported sharp growth in quarterly revenue and profit, that the impact would be felt more in the third quarter. </p><p>   The company has generated more than $54 billion in revenue from advertising in the first six months of this year, up from roughly $36 billion in revenue during the same period last year. </p><p>   Facebook shares fell 4% to $343.21 on Wednesday. </p><p>   Daniel Salmon, a research analyst with BMO Capital Markets who covers Facebook, in a note said that the company's announcement didn't contain surprises, but it likely tempers the prospects of outperforming its financial guidance in the current quarter. </p><p></p>",
+  "published": "2021-09-23T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 24,
+          "end": 33
+        },
+        {
+          "start": 2250,
+          "end": 2255
+        },
+        {
+          "start": 1116,
+          "end": 1121
+        },
+        {
+          "start": 1450,
+          "end": 1455
+        },
+        {
+          "start": 24,
+          "end": 29
+        },
+        {
+          "start": 1604,
+          "end": 1609
+        },
+        {
+          "start": 1738,
+          "end": 1743
+        },
+        {
+          "start": 24,
+          "end": 34
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

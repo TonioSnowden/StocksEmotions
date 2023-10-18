@@ -1,0 +1,24 @@
+{
+  "_id": "da124cabed5eeae771698e7099b027db5cbe5862531c80bd45670676a730d07d",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   Boeing  Co. is developing the MQ-25 drone for the U.S. Navy. In some editions Tuesday, a Business &amp; Finance article about Boeing's defense-and-space unit incorrectly described the drone as the MQ-9. </p><p>   --- </p><p>   Mayur Gupta  was named chief marketing officer for cryptocurrency-exchange platform Kraken. A Business &amp; Finance article on April 20 about his appointment incorrectly said Mr. Gupta is Kraken's first CMO. </p><p>   (See: \"Crypto Platform Kraken Hires CMO\" -- WSJ Apr. 20, 2022) </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-04-27T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 121,
+          "end": 127
+        },
+        {
+          "start": 0,
+          "end": 10
+        }
+      ]
+    }
+  ]
+}

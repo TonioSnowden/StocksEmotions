@@ -1,0 +1,20 @@
+{
+  "_id": "cda887c181c829170688e753019cb3e09bae6d114312987f47ce056615053aeb",
+  "feed": "wall-street-journal",
+  "title": "Data Recovery Startup HYCU Bags $87.5 Million in Funding; Remote work keeps pushing companies and their data onto the cloud",
+  "text": "<p>\"Up and down the spectrum, you're just seeing so much of that,\" said Simon Taylor, co-founder and chief executive of Boston-based HYCU. \"That's a major focus for us as a company.\"</p><p>Bain Capital Ventures led the funding round. Mr. Taylor declined to share how it affects the valuation of HYCU, an acronym for \"Hybrid Cloud Uptime.\"</p><p>The company launched in 2017 as Comtrade Software and rebranded as HYCU the next year under the name for its backup product for Nutanix Inc . cloud services. HYCU has since developed software tailored for public and private cloud providers such as VMware Inc ., Alphabet Inc .'s Google and Microsoft Corp ., Mr. Taylor said.</p><p>Companies tend to use applications across multiple environments, including private clouds that can run through on-site data centers and public clouds operated remotely, said Santhosh Rao, an information-technology analyst for research firm Gartner Inc. Many vendors specialize in one or the other bucket, he said, and are now trying to build the opposite capability to cover customers' hybrid setups.</p><p>\"It's going to take at least two to three years for this whole thing to come together,\" Mr. Rao said, adding that ransomware is spurring a new sense of urgency to such efforts.</p><p>Investors are pumping money into enterprise tech companies as businesses move further online because of the coronavirus pandemic, a trend also creating more opportunities for hackers.</p><p>The cybersecurity sector alone pulled in about $11.5 billion in funding last year, compared with roughly $4.4 billion in 2016, according to analytics firm CB Information Services Inc .</p><p>Many venture capital and private-equity firms have been targeting cloud-focused firms, which are riding companies' growing use of cloud-based applications to do business.</p><p>Risk-detection firm Orca Security Ltd. closed a $55 million Series B round in December, network-security company iBoss Inc. closed $145 million in growth financing  in January, and cloud-native security startup Wiz Inc. announced $130 million in Series B funding last week.</p><p>At HYCU, Mr. Taylor said he plans to hire 100 staffers this year on top of the 200 the company now employs, mainly to strengthen marketing and sales to expand beyond its roughly 2,000 customers.</p><p>Enrique Salem , a partner at Bain Capital Ventures, who joined HYCU's board as part of the funding deal, said backup and recovery is growing more crucial as companies rely on data analytics to power their businesses. Vendors such as HYCU are betting companies will continue to store and move information across multiple cloud providers, he added.</p><p>\"At some point, you've got to trust that the cloud provider is protecting their infrastructure,\" said Mr. Salem, who also serves as chairman of the board of cybersecurity firm FireEye Inc. \"But I always say you've got to make sure that your data and what you do is also protected.\"</p><p>Write to David Uberti at david.uberti@wsj.com</p>",
+  "published": "2021-03-30T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 620,
+          "end": 634
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

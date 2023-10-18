@@ -1,0 +1,34 @@
+{
+  "_id": "9fca05a4ccfe7918fe4e94c97e3a9c85d9212b2793e9db0fdc99da1f6460652f",
+  "feed": "wall-street-journal",
+  "title": "Walmart Expands Abortion Coverage in Employee Health Plan; Retailer expands the types of medical situations for which its employee health plan would cover abortions",
+  "text": "<p>On Friday Walmart, based in Bentonville, Ark., sent a memo to its roughly 1.7 million U.S. workers that said its healthcare plan would cover the cost of abortion when \"there is a health risk to the mother, rape or incest, ectopic pregnancy, miscarriage or lack of fetal viability.\" A Walmart spokeswoman said it would defer to the woman's doctor in determining whether those conditions are met.</p><p>Previously, Walmart's health plan said the company would cover the procedure \"when the health of the mother would be in danger if the fetus were carried to term, the fetus could not survive the birthing process, or death would be imminent after birth.\"</p><p>Walmart's policy contrasts with some other large companies, including banks, technology companies and retailers such as Target Corp., which broadly cover abortion and related travel under company healthcare plans.</p><p>Walmart's expanded coverage was earlier reported by CNBC.</p><p>Earlier this summer, several large companies added coverage for travel related to abortion to employee healthcare plans in response to the Supreme Court's decision.</p><p>Target, Walgreens Boots Alliance Inc. and Amazon.com Inc. offer employee healthcare plans that cover abortion broadly, according to people familiar with the plans. Large banks and technology companies, including Citigroup Inc. and JPMorgan Chase &amp; Co., tend to cover the costs of abortion care for employees and family members under their plans. The companies are among those that have also promised to reimburse employees for travel to receive abortion and other healthcare services that aren't provided in their state.</p><p>Walmart is headquartered in Bentonville, Ark., a state that allows abortion to save a mother's life but not in the case of rape or incest.</p><p>The type of health-insurance plan offered by large and midsize U.S. companies tends to include some abortion benefits. A federal antidiscrimination statute requires all employers that provide health insurance to cover an abortion if the life of the mother is at risk from the pregnancy.</p><p>On Friday, Walmart told workers it would also cover travel for medically necessary abortions. \"Given how recent events are resulting in state-by-state healthcare environments, we will expand our travel coverage,\" said Walmart Chief People Officer Donna Morris in a memo. The benefit extends to workers and their covered dependents accessing covered abortion when it isn't available within 100 miles of their location, she said.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Walmart Expands Abortion Coverage in Employee Health Plan</p>",
+  "published": "2022-08-19T20:20:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1087,
+          "end": 1115
+        },
+        {
+          "start": 1093,
+          "end": 1122
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.900038,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 3.8027763e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "5a7d826b22f0a6d9366986362621b2f5037de4be5a4c9a5a4e30e1ea3ed1da56",
+  "feed": "wall-street-journal",
+  "title": "Inflation's Silver Lining: You Can Make Money on Your Savings Again; Fed rate increases mean consumer banks such as Marcus and Ally are paying more on savings accounts and CDs",
+  "text": "<p>SHARE YOUR THOUGHTS</p><p>What tips do you have on making money on your savings? Join the conversation below.</p><p>The average annual percentage yield on a one-year CD reached 0.46% in August, according to the Federal Deposit Insurance Corp. That is up from 0.15% since March. Likewise, the average rate on savings accounts rose to 0.13%, up from 0.06% in March.</p><p>Online banks such as Ally Financial Inc. and Capital One Financial Corp. have been the early movers. They have raised CD rates, on average, by 0.43 percentage point and savings rates by 0.38 percentage point over the past month, analysts at Goldman Sachs Group Inc. said in a research note Monday. Goldman's online bank, known as Marcus, recently offered 1.7% annually on its savings account, up from 0.5% in April.</p><p>Deposit growth at online banks has lagged behind that of traditional banks since the start of the pandemic, said Adam Stockton of financial research firm Curinos. Online banks tend to have large businesses in categories that have recently experienced high consumer demand for loans, like credit cards and auto loans. Raising deposit rates can help them keep up with peers.</p><p>While online banks are boosting rates, bigger players such as JPMorgan Chase &amp; Co. and Bank of America Corp. have barely budged. Large banks are typically slowto increase those rates, because their extensive branch networks and large marketing budgets mean they usually have plenty of deposits on hand. Pandemic stimulus further drove up deposits at the biggest banks.</p><p>Slowly increasing deposit rates allows banks to pocket the difference between what they earn on loans and what they pay to customers.</p><p>Still, the larger banks could boost their own rates in the months ahead because demand for loans is strong and further tightening is expected from the Fed, Goldman Sachs analyst Richard Ramsden said. \"The reason you want to attract deposits is the extent to which you can do something with them,\" he said. Deposits at commercial banks have held steady this year, but could decline if consumers find higher-yielding alternatives to park their money, he added.</p><p>Meanwhile, Mr. Stockton from Curinos said, \"We expect to see more rate competition filtering through the fourth quarter and intensifying in the first half of the next year.\"</p><p>Write to Charley Grant at charles.grant@wsj.com</p><p>Inflation's Silver Lining: You Can Make Money on Your Savings Again</p>",
+  "published": "2022-09-04T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1193,
+          "end": 1213
+        },
+        {
+          "start": 1203,
+          "end": 1223
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000132,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.3232231e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

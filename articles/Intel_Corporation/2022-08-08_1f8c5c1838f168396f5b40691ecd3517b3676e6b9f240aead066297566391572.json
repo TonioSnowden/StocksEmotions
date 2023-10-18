@@ -1,0 +1,34 @@
+{
+  "_id": "1f8c5c1838f168396f5b40691ecd3517b3676e6b9f240aead066297566391572",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Nancy Pelosi's Taiwan Gambit Reshapes Political Risk in Asia  ----  By Nathaniel Taplin",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  Nancy Pelosi, the speaker of the U.S. House, has come and gone in Taiwan. In her wake have come missile flyovers, the largest Chinese military exercises near the Taiwan Strait in decades -- and for those on the island, a surreal sense of life mostly going on. </p><p>\n  Markets reacted strongly. U.S. 10-year Treasury yields fell to a four-month low ahead of Mrs. Pelosi's arrival as investors fled for safety -- and jumped back after her plane landed. Taiwan's main stock index, after a drop Tuesday, has clawed back all that ground. Shares of Semiconductor Manufacturing International Corp., China's chip manufacturing national champion, which dropped ahead of the visit, gained 15% since her plane landed and China announced military drills. The S&amp;P Defense and Aerospace Select Index is up 9% since July 18, when news of Mrs. Pelosi's trip first broke, outpacing the S&amp;P 500's 8% gain. </p><p>\n  The visit marks a significant turning point in Sino-U.S. relations. Beneficiaries could include Taiwan's rivals -- especially Samsung and Intel, if Taiwan's ability to supply chips in a crisis comes under further question. Losers probably include multinational manufacturers of nearly everything outside of defense, who rely on a stable security environment in Asia. This includes those with an outsize presence in China like Apple, or U.S. firms that depend on Chinese business like Boeing. </p><p>\n  China's drills surrounding the island probably won't result in a direct military clash. The problem is that the exercises -- surrounding the island and blocking routes to key ports -- are far more ambitious than anything China tried before, and look like a trial run for a blockade. </p><p>\n  All of this comes as China's economic problems -- a dysfunctional housing market, high youth unemployment, rising skepticism among Western multinationals and a capricious regulatory environment -- increasingly look structural rather than cyclical. More regular exercises of this sort would have several advantages from Beijing's perspective: They distract from problems at home, they make the U.S. and its allies look toothless, and they serve as practice for an invasion or blockade. A real blockade remains very risky -- especially since China still needs lots of things, especially advanced microchips, from Taiwan and the West. </p><p>\n  The spat unfolding makes any kind of serious rapprochement between China and the U.S. harder. Initiatives like removing bilateral tariffs may become too heavy a political lift. And multinationals like Apple may be forced to further accelerate their diversification plans -- creating more resilient supply chains but significantly raising costs for years. </p><p>\n  It is possible to construct a case for a more positive outcome. Beijing's intimidation could focus minds in Taiwan and in the U.S. on the need for much more, and better-targeted spending to bolster Taiwan's defenses, and for already sold arms to arrive sooner. Quiet pressure from foreign multinationals in China and domestic economic interests could convince Beijing that aggressive maneuvers toward Taiwan are self-defeating because they drive away critically needed investment. </p><p>\n  But the cycle of escalation -- and ideological conflict -- has its own logic that can be difficult to derail and lead to unpredictable outcomes. And Mrs. Pelosi is far from the only important, politician that will be eyeing their legacy in the months and years ahead: Chinese President Xi Jinping himself will decide what course China takes. Investors, and everyone else, must hope leaders on both sides find wisdom and good counsel to match their ambition. </p><p></p>",
+  "published": "2022-08-08T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1047,
+          "end": 1052
+        },
+        {
+          "start": 1055,
+          "end": 1060
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000567,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 5.6743622e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 27
+    }
+  ]
+}

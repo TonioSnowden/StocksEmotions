@@ -1,0 +1,34 @@
+{
+  "_id": "5d3383f876e06efaa2dae45c52481a9d838ee05cc585e3cde45362e0f531219d",
+  "feed": "reuters",
+  "title": "SeatGeek to go public via $1.35 billion deal with Billy Beane -backed SPAC",
+  "text": "<p>Founded in 2009, SeatGeek's partners include the Dallas Cowboys , Brooklyn Nets and Liverpool F.C., as well as Major League Soccer, the National Football League , half of the English Premier League, and multiple theaters across New York City's Broadway and London's West End.</p><p>The deal with RedBall Acquisition Corp will result in gross proceeds of about $675 million, including a $100 million private investment in public equity (PIPE), the companies said.</p><p>The investment will be led by venture-capital firm Accel and joined by Qualtrics founder and Chairman Ryan Smith as well as owner of Smith Entertainment Group, which includes the Utah Jazz basketball team, Kevin Durant and Rich Kleiman's Thirty Five Ventures.</p><p>RedBall is co-chaired by Beane and former Goldman Sachs banker Gerald Cardinale banker</p><p>Beane shot to fame in 2003 with Michael Lewis's book \"Moneyball: The Art of Winning an Unfair Game\". The book tells the story of the Oakland Athletics baseball team and their incredible success after using data-driven performance analytics under general manager Beane, before becoming the inspiration for the 2011 film starring Brad Pitt.</p><p>The deal comes at a time when SPAC mergers have slowed, although overall M&amp;A activity has set new records this year.</p><p>SPACs are created with the purpose of merging with a private company at a later date, to take it public by sidestepping a traditional IPO.</p><p>Credit Suisse is serving as a financial adviser to SeatGeek.</p>",
+  "published": "2021-10-13T15:19:46.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 759,
+          "end": 766
+        },
+        {
+          "start": 759,
+          "end": 772
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.85838544,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.14262497,
+        "tagPositionWeight": 0.0010104179,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

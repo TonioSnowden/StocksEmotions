@@ -1,0 +1,56 @@
+{
+  "_id": "d9e0a79d958fc9e3d002cec36304dd61746ed7caab5c3dd0ad7d1629cd55b546",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  App-Store  Bill Passed  By Senate  Committee  ----  By Ryan Tracy",
+  "text": "<p>   WASHINGTON -- A Senate panel advanced bipartisan legislation Thursday that would limit the ability of Apple Inc. and Alphabet Inc.'s Google to impose rules and fees on developers using their consumer-app stores. </p><p>   The vote by the Senate Judiciary Committee with strong support from Democrats and Republicans sends the bill to the Senate floor, and came over the objections of Apple and Google which say they need to control content on their app stores to ensure the security and privacy of users. </p><p>   It was a win for app developers, content creators and others who say Apple's App Store and Google Play limit innovation through their fees and controls. </p><p>   \"We've got a couple of companies that are really wielding undue market power,\" said Sen. Mike Lee (R., Utah), a conservative who has expressed skepticism about legislation imposing new government regulations. He voted \"yes.\" </p><p>   Central to lawmakers' concerns are transaction fees as high as 30% charged by app stores when consumers make in-app purchases or buy subscriptions. Technology companies, content creators, and others say this raises their costs, holding back their ability to launch new products or expand their businesses. </p><p>   Sen. Richard Blumenthal (D., Conn.) likened Apple and Google to railroad monopolies that own the means for other companies to get their products to market. </p><p>    Sen. John Cornyn (R., Tex.), who voted \"no\" Thursday, suggested the fees were fair compensation for the platform the companies provide. </p><p>   \"I hope we're not, by focusing on these specific cases, suggesting that somehow there is something wrong with creating a new product that has value to consumers and making a profit and creating jobs,\" Mr. Cornyn said. </p><p>   The bill was initially approved 21-1. After the vote, Sen. Thom Tillis (R., N.C.) asked to change his vote to \"no\", a committee spokeswoman said. </p><p>   The bill seeks to bar the app-store owners from forcing developers to use the owners' in-app payment systems. The owners also couldn't prevent apps from telling consumers about other payment options. </p><p>   It also would ban app-store owners from \"unreasonably\" favoring their own apps in search results, and from using app developers' nonpublic business information to compete with them. </p><p>   An Apple representative declined to comment on the Senate vote. Apple has privately warned the committee that the bill would enable so-called sideloading, where consumers could add apps to their device without going through the Apple App Store. </p><p>   Google has raised similar privacy and security concerns, while noting that unlike Apple, the Android operating system allows sideloading. Both companies also questioned that the bill doesn't apply to other content distribution systems, such as gaming platforms. </p><p></p>",
+  "published": "2022-02-04T07:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2220,
+          "end": 2225
+        },
+        {
+          "start": 374,
+          "end": 379
+        },
+        {
+          "start": 564,
+          "end": 569
+        },
+        {
+          "start": 1223,
+          "end": 1228
+        },
+        {
+          "start": 2281,
+          "end": 2286
+        },
+        {
+          "start": 2445,
+          "end": 2450
+        },
+        {
+          "start": 102,
+          "end": 111
+        },
+        {
+          "start": 102,
+          "end": 112
+        },
+        {
+          "start": 102,
+          "end": 107
+        },
+        {
+          "start": 2544,
+          "end": 2549
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

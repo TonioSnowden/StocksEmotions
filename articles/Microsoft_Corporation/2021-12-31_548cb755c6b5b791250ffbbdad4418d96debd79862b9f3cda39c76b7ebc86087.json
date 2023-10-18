@@ -1,0 +1,24 @@
+{
+  "_id": "548cb755c6b5b791250ffbbdad4418d96debd79862b9f3cda39c76b7ebc86087",
+  "feed": "wall-street-journal",
+  "title": "Tech Providers Face Challenges to Move Data From Europe",
+  "text": "<p>\"This is worrying and getting tough,\" said Martynas Barysas, director for internal market at Business Europe, a trade group in Brussels. \"We're entering 2022 without clarity on international data flows.\"</p><p>The Irish data protection commissioner is expected to announce a decision in 2022 that could force Facebook Inc., now called Meta Platforms Inc., to stop sending data from Europe to the U.S. The regulator sent Facebook a preliminary order to stop data transfers in 2020, but the case was stalled for months while the company filed a procedural complaint in Ireland's High Court. The court rejected the company's complaints in May 2021.</p><p>Especially if the Irish decision comes before there is a new arrangement to replace Privacy Shield, a potential order to stop moving data to the U.S. could have broad repercussions for Meta and other companies, said Caitlin Fennessy, chief knowledge officer at the International Association of Privacy Professionals, a trade group. \"The challenges are increasing, not decreasing,\" she said.</p><p>EU and U.S. officials have been discussing terms for a new data arrangement that could satisfy demands from the EU's top court. The court ruled in 2020 that Privacy Shield was illegal because American government surveillance was a threat to Europeans' privacy, and people had no form of legal redress to challenge it in the U.S. The EU's justice commissioner said in March that it could take years to find a solution, and additional U.S. privacy legislation could help. A spokesman for the European Commission, the EU's executive arm that is taking part in the negotiations with the U.S., said talks have intensified in the past months.</p><p>\"These negotiations take some time, given also the complexity of the issues discussed and the need to strike a balance between privacy and national security,\" he said.</p><p>In recent months, cases have stacked up in which European regulators required companies and government offices to cut ties with American technology providers. Portugal's statistical institute, for example, stopped using cloud-security company Cloudflare Inc. after the country's regulator said it was possible that Cloudflare could move data to the U.S., where it is based. Cloudflare said it didn't transfer any of the institute's data to the U.S. In December, a German court ordered a university to stop using Cookiebot, a consent-management platform for websites that shared data with a U.S.-based cloud host. Even if the data were kept in the EU, the court ruled, an American company could be required to give data to law enforcement authorities under the U.S. Cloud Act, a 2018 law that requires U.S.-based companies to comply with such demands.</p><p>U.S. cloud providers including Amazon.com Inc.'s Amazon Web Services and Microsoft Corp. said they store Europeans' data in the EU upon request, offer encryption and challenge requests to provide data to law-enforcement authorities.</p>",
+  "published": "2021-12-31T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2760,
+          "end": 2769
+        },
+        {
+          "start": 2760,
+          "end": 2775
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

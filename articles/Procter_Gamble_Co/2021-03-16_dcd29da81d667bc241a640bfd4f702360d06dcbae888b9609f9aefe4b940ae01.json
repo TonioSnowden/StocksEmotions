@@ -1,0 +1,24 @@
+{
+  "_id": "dcd29da81d667bc241a640bfd4f702360d06dcbae888b9609f9aefe4b940ae01",
+  "feed": "wall-street-journal",
+  "title": "Business News: Consumer Goods Companies Aim to Develop Smart Gadgets",
+  "text": "<p>Recent products include a smart toothbrush introduced last year that is designed to make recommendations on how a person could brush better. Colgate R&amp;D staffers worked on the brush head, sensors and other aspects of the physical product, while members of the IT team developed the underlying application, including the machine learning that analyzes the data to make recommendations. \"It is really about maximizing the use of the combined skills,\" said Mr. Crowe.</p><p>\"The IT function as a separate entity, operating as a service or a central center of competence alone, doesn't work,\" said Procter &amp; Gamble Co. CIO Vittorio Cretella.</p><p>Like Colgate, the consumer-packaged goods company also has its IT and R&amp;D teams working together, creating its own smart toothbrush as well as the Olay Skin Advisor personalized skin-care analyzer, and the Gillette Style Advisor facial-hair style assistant.</p>",
+  "published": "2021-03-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "nexusId": "10044575",
+      "name": "The Procter & Gamble Company",
+      "offsets": [
+        {
+          "start": 588,
+          "end": 604
+        },
+        {
+          "start": 588,
+          "end": 608
+        }
+      ]
+    }
+  ]
+}

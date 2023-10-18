@@ -1,0 +1,38 @@
+{
+  "_id": "d1f2f6adca16f7e7f55d9632e732d77ad4e3e16f2e0ec8d9696b3d74b73ac528",
+  "feed": "market-watch",
+  "title": "Dell stock sinks as the end of the PC boom finally lands on its top line; Dell misses Wall Street's expectations for revenue, executives say 'our view of the demand environment … has changed'",
+  "text": "<p>Other PC manufacturers such as HP Inc. HPQ and Apple Inc. AAPL had already signaled that demand is slipping for PCs, but Dell executives had been much more optimistic as their quarterly sales continued to gain and the company seemingly took market share. Executives changed their tune Thursday, however.</p><p>For more: PC industry suffered worst decline in years during second quarter</p><p>\"Since we last spoke in late May, our view of the demand environment through the backhalf of FY23 has changed,\" co-Chief Operating Officer Jeff Clarke said in comments prepared for a conference call later Thursday. \"The demand environment slowed and pushed to the right over the course of the quarter, particularly in [Client Solutions Group]. We saw a decline in PC demand as we went through the quarter with higher [average selling prices] partially offsetting a unit decline.\"</p><p>\"The Q2 and second half macro dynamics have become more challenging as customers are taking a more cautious view of their needs given the uncertainty,\" Clarke added. \"We have responded swiftly by managing inventories down and reducing our expenditures.\"</p><p>Chief Financial Officer Tom Sweet, in what passed for a financial forecast in Dell executives' prepared remarks, said that executives \"are more cautious as we enter the second half.\"</p><p>\"We are actively managing our costs and spending and we remain focused on what we can control, executing our strategy to consolidate and modernize our core and build new growth engines that enable our customers' multi-cloud future,\" Sweet said.</p><p>In-depth: The pandemic PC boom is over, but its legacy will live on</p><p>Dell reported second-quarter earnings of $506 million, or 68 cents a share, on sales of $26.43 billion, up from $24.19 billion a year ago. After adjusting for Stock-based compensation and other effects, Dell reported earnings of $1.68 a share, up from $1.48 a share last year. Analysts on average expected adjusted earnings of $1.64 a share on revenue of $26.5 billion.</p><p>In the PC division — known as Client Solutions Group, or CSG — the miss was small, but spread out across both main categories, consumer and business sales. Dell reported Consumer sales of $3.35 billion, down from $3.69 billion a year prior, and $12.14 billion in Commercial sales, up from $10.58 billion last year. Analysts on average were projecting Consumer revenue of $3.54 billion and Commercial sales of $12.24 billion.</p><p>Dell stock has held up roughly in line with the S&amp;P 500 index SPX this year, falling 14.6% as the bellwether index declined 13.1%.</p><p>Dell stock sinks as the end of the PC boom finally lands on its top line</p>",
+  "published": "2022-08-25T21:01:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 58,
+          "end": 62
+        },
+        {
+          "start": 47,
+          "end": 57
+        },
+        {
+          "start": 47,
+          "end": 56
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7692325,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7692325,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

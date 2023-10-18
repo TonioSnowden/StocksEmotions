@@ -1,0 +1,33 @@
+{
+  "_id": "7faed2f18b06e2d5652889fbab3b270539b8c10eecafb19cfac246fb24af3b3a",
+  "feed": "reuters",
+  "title": "China hedge fund who bet on Li Auto lost big in Oct, cut positions",
+  "text": "<p>That compares with an average decline of 21% for other funds that use the long/short playbook in Chinese stocks, according to data from Eurekahedge.</p><p>Brilliance is among a batch of struggling offshore China fund managers who once reaped huge gains by investing in Hong Kong and U.S.-listed Chinese growth stocks, which have now been hit by tough industry regulations, COVID-19 lockdowns and Sino-U.S. tensions. The selloff in these stocks was exacerbated by the recent Communist Party Congress.</p><p>Brilliance's smaller retail UCITs product - Brilliance China Core Long Short Fund - has dropped 36% for the first 10 months of this year, according to Refinitiv data.</p><p>Brilliance founder Lin Shi, a former Hillhouse Capital analyst, said in its quarterly newsletter seen by Reuters that global investors' \"increasing concerns on China from a top-down perspective triggered the massive sell-off in October\".</p><p>Brilliance did not respond to emails and a phone call seeking comment.</p><p>Brilliant Partners Fund declined 24% last year, pressured by the firm's holdings in private tutoring companies, an industry that collapsed after a government crackdown.</p><p>Shi retained the fund's concentration strategy this year but shifted that to double down on electric vehicle maker Li Auto .</p><p>He bought 3.6 million Li Auto shares in the second quarter and another almost 3 million shares in the third quarter, according to 13F filings of the U.S. Securities and Exchange Commission (SEC). However, by the end of October, Li Auto 's shares fell as much as 60% from a peak in June due to worsening auto sales.</p><p>To calm investors, Shi said the Li Auto holdings were 60% hedged by short positions in other auto stocks. Brilliant Partners Fund held just one long position in Hong Kong and two in the ADR market as of end-September, the newsletter showed.</p><p>Brilliance saw its assets under management fall to $2.7 billion in October from $4.9 billion in February, according to its regulatory filings.</p><p>Net selling from international active funds totaled around $30 billion in Chinese equities over the past year, Goldman Sachs estimates. In October alone, as per Institute of International Finance estimates, outflows from Chinese stocks reached $7.6 billion, the most since March.</p><p>With Beijing starting to relax some of the COVID controls, China-focused funds may finally see some relief. The MSCI China Index has jumped more than 20% so far in November.</p>",
+  "published": "2022-11-15T08:09:10.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 2074,
+          "end": 2087
+        },
+        {
+          "start": 2074,
+          "end": 2081
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

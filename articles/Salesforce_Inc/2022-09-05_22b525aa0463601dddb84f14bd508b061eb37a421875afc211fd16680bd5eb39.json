@@ -1,0 +1,34 @@
+{
+  "_id": "22b525aa0463601dddb84f14bd508b061eb37a421875afc211fd16680bd5eb39",
+  "feed": "wall-street-journal",
+  "title": "Markets Struggle to Walk Tightrope With Focus on Fed; Stocks have skidded on strong economic data, while global pressures compound the discontent",
+  "text": "<p>Even seemingly good news isn't enough to maintain a stock rally. Major indexes initially rose Friday after the monthly jobs report walked the fine line of suggesting the economy remains strong while indicating wage pressures may be easing.</p><p>But stocks later pulled back in a volatile session that may have been exacerbated by light trading ahead of Labor Day weekend. Sentiment shifted after Russia indefinitely suspended natural-gas flows to Europe, raising the stakes as governments on the continent try to avoid energy shortages.</p><p>The S&amp;P 500 lost 1.1%, closing out a third consecutive week of declines during which the index has fallen 8.3%. It is down 18% in 2022.</p><p>Between the central bank's battle against inflation and economic pressures overseas, many investors say it isn't hard to find reasons to feel bearish.</p><p>\"Obviously we're still hiking [rates] at a very fast pace,\" said Tiffany Wade, senior portfolio manager at Columbia Threadneedle Investments. What's more, she said: \"​​There's a lot of negative factors going on around the world that could be impacting markets over the next several quarters.\"</p><p>Markets have struggled to walk a tightrope lately. With investors focused on the Fed's campaign to tame inflation, stocks have skidded when strong economic data suggested the central bank might need to raise interest rates more aggressively to cool the economy.</p><p>But since monetary tightening takes time to trickle down, analysts also have braced for the possibility that the economic data, at some point, will show the kind of weakness that accompanies a recession.</p><p>Friday's job numbers seemed to hit the sweet spot.</p><p>The report showed monthly wage growth eased in August, a positive sign as investors and policy makers watch for inflation to come down. U.S. employers added 315,000 jobs, suggesting the economy remains robust and essentially matching the forecasts of economists surveyed by The Wall Street Journal.</p><p>The Fed's commitment to tamping down inflation, which has remained near a four-decade high, has shaped a relationship that could appear topsy-turvy to the world beyond Wall Street: Data signaling economic strength has been received as bad news by the stock market, since it could persuade the Fed that more large interest-rate increases are needed to cool the economy enough to slow the cycle of price increases.</p><p>Last week, for example, the S&amp;P 500 slumped 1.1% Tuesday after data showed that job openings rose in July, another marker of a tight labor market in which demand for workers exceeds the number of unemployed people seeking work. And Thursday, stocks initially traded lower after a survey of U.S. manufacturing activity came in stronger than expected.</p><p>\"In general we're probably in a period where good news is taken badly by the markets,\" Ms. Wade said. \"As long as the economy still continues to be strong, it gives the Fed cover to raise rates more to combat inflation faster.\"</p><p>Investors this week will parse data assessing the services side of the economy as well as new jobless claims numbers as they anticipate the next meeting of the central bank's rate-setting committee later in September.</p><p>Traders were betting Friday there was a better than 50-50 chance that the Fed lifts rates by 0.75 percentage point at that meeting, though wagers on a smaller 0.5-percentage-point increase rose after the employment report, according to data from CME Group.</p><p>Since Fed Chairman Jerome Powell reiterated the central bank's stance on inflation in a speech on Aug. 26, markets have adopted a cautious tone.</p><p>Utilities, consumer staples and healthcare stocks, groups that tend to hold up relatively well when economic growth weakens, are among the best-performing S&amp;P 500 sectors since the day before his remarks. Shares of Cardinal Health Inc., utility Consolidated Edison Inc. and Cheerios cereal maker General Mills Inc. all outpaced the market during that time.</p><p>Technology stocks, which often trade at lofty valuations that make them particularly sensitive to rising rates, were the worst-performing S&amp;P 500 segment over the same period. Shares of Salesforce Inc. and Qualcomm Inc. have each dropped 12% since Aug. 25.</p><p>Even after its drawdown this year, the stock market in general is priced at levels that don't strike many investors as an enticing deal. The S&amp;P 500 traded late last week at 16.9 times its projected earnings over the next 12 months, down from the 21.5 at which it ended last year but just a touch below the 10-year average of about 17.2, according to FactSet.</p><p>\"We're at a rather treacherous point right now,\" said Brian Jacobsen, senior investment strategist at Allspring Global Investments. Even with valuations lower, he said: \"They're not so attractive where it looks like people have just given up on stocks and really reached the point of peak pessimism.\"</p><p>Jeremy Zirin, senior portfolio manager and head of private client U.S. equities at UBS Asset Management, said his team in recent months has bought shares of healthcare and consumer-staples companies.</p><p>Mr. Zirin considers the view that good news is bad for stocks to be too simplistic. In reality, he said, it is all about inflation, leaving a fairly narrow path for the market.</p><p>\"If good growth data is suggestive that inflation is going to remain high, that's going to be negative for markets most likely,\" he said. \"If inflation is coming down because demand is rapidly declining and we're careening into a recession, that's not good news either.\"</p><p>Write to Karen Langley at karen.langley@wsj.com</p><p>Markets Struggle to Walk Tightrope With Focus on Fed</p>",
+  "published": "2022-09-05T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.9200001,
+      "offsets": [
+        {
+          "start": 4080,
+          "end": 4095
+        },
+        {
+          "start": 4054,
+          "end": 4069
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

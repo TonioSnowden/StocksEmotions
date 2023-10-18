@@ -1,0 +1,34 @@
+{
+  "_id": "d7b24619ca8623c79bbf9988bb95387cd4985019a300ee1ae7e7ffa255ed30fb",
+  "feed": "ftcomall",
+  "title": "‘Most active fund managers should quit'",
+  "text": "<p>Most active fund managers should leave the industry as they fail to deliver returns for UK retail investors, according to the manager of Blue Whale, the investment fund <a href=\"https://www.ft.com/content/045bf4d9-5c1c-4932-90ad-ab6c2daa2c65\">founded by </a>billionaire Peter Hargreaves. </p> <p>Stephen Yiu, who co-founded the fund with Hargreaves, said only “high conviction” <a href=\"https://www.ft.com/content/c2e9abd0-0edd-4805-b1ab-d55b661c24de\">active managers</a> who back a small portfolio of carefully chosen stocks can justify their existence in the face of fierce competition from passive alternatives. </p> <p>He said novice do-it-yourself investors are well served by <a href=\"https://www.ft.com/reports/index-investing\">passive funds</a> that track the market, and that more experienced retail shareholders can aim to do better than the market by selecting high-conviction funds. &#xa0;&#xa0;</p> <p>“What I would like to see is lots of people in passive, lots of high conviction managers and get rid of everything in between. I think that would be very healthy,” he said. </p> <p>In Yiu's view, the vast middle ground of more conservatively run active strategies, including most of the offerings from large fund houses, should go.</p> <p>In the first half of this year, just 30 per cent of active funds have performed better than passive alternatives tracking the markets in which they invest, according to research from investment platform AJ Bell. </p> <p>The bulk of the UK active management industry, Yiu argues, does not devote enough personnel to stock picking and tends to hedge bets by having a large number of stocks in a portfolio. Lack of time to do extensive research makes fund managers reluctant to make bold calls. </p> <p>“There is a lot of career risk if you don't have enough resources,” said Yiu, 44, who worked as a fund manager for larger companies including Artemis and Hargreaves Lansdown before Hargreaves backed him to launch Blue Whale, seeding the fund with £25mn of his own money. </p> <p>In concentrated portfolios like his, Yiu said: “You're really betting your career on the back of 25 stocks, and it can go wrong.”</p> <p>Blue Whale gained traction during the Covid-19 pandemic as its large positions in tech groups including Meta and Google surged. The fund reached a peak of £1.2bn under management at the start of this year. Since then, the reversal of fortunes for tech stocks has also blighted Yiu's portfolio, which is down 20 per cent so far this year on a total return basis, according to Morningstar data. </p> <p>Yiu has now ditched his positions in <a href=\"https://www.ft.com/content/81c17cd2-a684-410c-8843-6aafe58045ba\">Google, Meta and Amazon</a>, leaving Microsoft as the fund's leading US tech holding. He said the chance of a recession makes companies exposed to digital advertising look vulnerable. “Who is going to get hit first in a recession? It's advertising. Everyone knows that,” he said. &#xa0;</p> <p>Launched in 2017, Blue Whale aims to join the ranks of the UK's most popular actively managed funds alongside those run by industry heavyweights Terry Smith and the duo Michael Lindsell and Nick Train, who also favour a small portfolio of a few dozen stocks. </p> <p>“Because of Peter Hargreaves' involvement we did have quite a big retail following from the beginning,” said Yiu. Hargreaves is known for founding the UK's largest funds supermarket Hargreaves Lansdown. He retired from the broker's board in 2015 and serves as chair of Blue Whale, with £150mn invested as at the end of July 2022. </p> <p>However, UK retail investors' attachment to “star managers” like Smith and Train has prompted concern after <a href=\"https://www.ft.com/content/dcc04950-f680-4210-af4e-669413501951\">the downfall </a>of one of the best-known stars of recent years, Neil Woodford. </p> <p>Yiu says it makes sense for investors to back fund managers who have a good record of outperformance, but that problems emerge when shareholders fail to keep tabs on how funds are doing. </p> <p>“It's too simplistic to say: ‘He's a genius. I'll give him all my money and I have nothing to worry about for 20 years',” he said. “It's not just about star manager culture. It's about blind belief.”</p> <p><em>The caption in this article was corrected after first publication to indicate that the £25mn seed money was provided by Peter Hargreaves</em></p><p>Source: Joshua Oliver 2022 '‘Most active fund managers should quit'' FT.com 1 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-01T04:00:25.075Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2338,
+          "end": 2347
+        },
+        {
+          "start": 2325,
+          "end": 2334
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

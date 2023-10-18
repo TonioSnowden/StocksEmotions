@@ -1,0 +1,24 @@
+{
+  "_id": "f7f954d31ce21cba3645b92c67fa05085be13a955e2908a0e3f5e951b8383180",
+  "feed": "wall-street-journal",
+  "title": "BNY Mellon, Google Develop AI to Spot Treasury Trade Fails",
+  "text": "<p>The failure to deliver the securities can cause both reputational harm and result in penalty recommendations from the Treasury Market Practices Group, which could be up to 3% of the face value of the securities, BNY Mellon said. TMPG is an industry trade group sponsored by the Federal Reserve.</p><p>BNY Mellon, which is one of the largest clearing and settlement firms in the roughly $20 trillion Treasury market, said that on a typical day about 2% of transactions fail to settle. BNY Mellon is involved in the clearing and settlement of about a third of U.S. Treasurys, according to research and consulting firm Aite Group. Other firms clearing and settling Treasury trades include JPMorgan Chase and State Street Corp., according to Aite.</p><p>\"It's a large market,\" said Brian Ruane, chief executive of BNY Mellon's clearance and collateral management business. \"So 2% is still a large number.\"</p><p>When the Treasury market technology service, which BNY Mellon announced earlier this month, predicts a market trade will fail to settle, it provides a warning to the client and allows them to take corrective action, such as obtaining additional securities to fulfill a trade.</p><p>The bank used 10 months of BNY Mellon settlement data to train and test the model and found it can pick up about 40% of the trades that are likely to fail. The model is new and will learn and get better as it ingests more client data, Mr. Ruane said.</p>",
+  "published": "2021-02-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 680,
+          "end": 688
+        },
+        {
+          "start": 680,
+          "end": 694
+        }
+      ]
+    }
+  ]
+}

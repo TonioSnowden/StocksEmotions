@@ -1,0 +1,38 @@
+{
+  "_id": "a9ce0e9a310752b2133e7b4572e5b075f666cb85b67d9671a5115d21fda8259f",
+  "feed": "wall-street-journal",
+  "title": "Snap Plans to Lay Off 20% of Employees in Cost-Cutting Drive; Snapchat owner prepares for extended period of low revenue growth with restructuring",
+  "text": "<p>\"It has become clear that we must reduce our cost structure to avoid incurring significant ongoing losses,\" Snap Chief Executive Evan Spiegel said in a memo to staff. \"We must now face the consequences of lower revenue growth and adapt to the market environment.\"</p><p>Snap shares rose 6% in morning trading to $10.61. Through Tuesday, the stock had fallen 79% in 2022.</p><p>The restructuring, earlier reported by the Verge, comes little more than a month after Snap posted its then weakest-ever quarterly sales growth as a public company, missing Wall Street expectations that had been scaled back after it issued a profit warning the month before. Shares in Snap are down more than 85% during the past year.</p><p>In its bid to cut around $500 million from annual costs, Mr. Spiegel said Snap would discontinue projects such as Snap Originals, which are shows on the app, and multiplayer games on the platform. The company is also winding down stand-alone apps Zenly and Voisey, a social map app and an app that connects singers and songwriters, respectively. The Wall Street Journal previously reported that Snap was shutting down future development of its Pixy flying selfie-camera drone fewer than four months after publicly launching it.</p><p>The company estimates the structural changes will cost it between $110 million and $175 million in one-time expenses.</p><p>Snap is one more example of a tech company that added staff at breakneck speed during the pandemic, as users embraced those services, and has had to rapidly adapt to deteriorating market conditions. Amazon.com Inc. CEO Andy Jassy has been working to cut back on the excesses of the company's e-commerce operation after it rapidly expanded during the past two years. Facebook parent Meta Platforms Inc. also has revised staffing plans.</p><p>Snap, in an earlier regulatory filing, said it had 3,863 employees at the end of 2020, adding around 65% in head count over the following roughly 18 months before making the decision first to slow hiring and now to slash more than 1,200 jobs. The cuts are expected to play out over coming months.</p><p>Snap said the changes, including lower marketing spending and trimmed spending on real estate and overhead functions, reflect a business plan for next year to generate free cash flow even in a low-growth scenario.</p><p>The company has said it is contending with a confluence of business challenges, including the impact of an economic downturn on ad spending, platform changes that have affected the ability to track how ads are doing and increased competition. Amid those problems, the company said it wouldn't provide an outlook for adjusted operating earnings or sales for the current quarter.</p><p>Mr. Spiegel said the company is restructuring to increase focus on growing user numbers, revenue growth and augmented reality. Other projects that aren't directly related to those areas will be cut or receive substantially less investment than they previously did.</p><p>As part of the restructuring, Snap is promoting a senior vice president of engineering, Jerry Hunter, to a newly created role of chief operating officer. The company's chief business officer, Jeremi Gorman, and another advertising executive are leaving to kick-start Netflix Inc.'s plan to add an ad-backed tier option to its offerings.</p><p>One of Snap's principal business challenges stems from changes Apple Inc. has made to its privacy policy that were implemented last year. They require apps to seek user consent to track them across other apps and websites. Many users have opted out, making it harder for platform providers to give advertisers reliable metrics about ad performance. Snap said it recently made two executive hires to address the problems related to the Apple iOS changes after struggling to introduce workarounds.</p><p>The company said its near-term business plan is focused on efforts such as boosting user engagement and improving its ad platform. Beyond that, it is eyeing new revenue sources, such as Snapchat+, a monthly subscription service, and, longer term, Snap said it is targeting a leadership position in augmented reality, where it already has been investing.</p><p>Snap, which announced plans for a $500 million stock buyback in July, also said it had completed that program.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>Snap Plans to Lay Off 20% of Employees in Cost-Cutting Drive</p>",
+  "published": "2022-08-31T15:38:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.98200005,
+      "offsets": [
+        {
+          "start": 3313,
+          "end": 3322
+        },
+        {
+          "start": 3335,
+          "end": 3345
+        },
+        {
+          "start": 3707,
+          "end": 3712
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.85,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

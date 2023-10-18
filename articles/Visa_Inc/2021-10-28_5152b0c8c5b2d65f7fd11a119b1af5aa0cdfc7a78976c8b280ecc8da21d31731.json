@@ -1,0 +1,20 @@
+{
+  "_id": "5152b0c8c5b2d65f7fd11a119b1af5aa0cdfc7a78976c8b280ecc8da21d31731",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Hertz said that it is linking up with Uber to make 50,000 Teslas available in Uber's ride-sharing network by 2023.</p><p>GM and Ford reported steep drops in profit for the third quarter as the computer-chip shortage dented factory output.</p><p>The Justice Department is scrutinizing Visa's relationships with large financial-technology companies as part of its antitrust investigation of the card giant.</p><p>Boeing posted a quarterly loss as 787 Dreamliner production problems and its latest space-launch setback offset a recovery in demand for new aircraft.</p><p>The S&amp;P 500 and Dow fell 0.5% and 0.7%, respectively, while the Nasdaq ended little changed.</p><p>Samsung Electronics reported record quarterly revenue and saw net profit grow by 31% on the back of booming demand for memory chips.</p><p>U.S. orders for durable goods decreased in September for the first time since spring.</p><p>Email-security software maker Mimecast is exploring a possible sale.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-10-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 272,
+          "end": 276
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

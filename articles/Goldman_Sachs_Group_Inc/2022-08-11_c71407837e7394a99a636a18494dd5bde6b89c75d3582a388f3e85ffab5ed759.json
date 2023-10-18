@@ -1,0 +1,38 @@
+{
+  "_id": "c71407837e7394a99a636a18494dd5bde6b89c75d3582a388f3e85ffab5ed759",
+  "feed": "market-watch",
+  "title": "McDonald's set to reopen in some cities in Ukraine — report; McDonald's is set to reopen some of its restaurants in Ukraine, according to an AP report.",
+  "text": "<p>McDonald's MCD has continued to the pay its more than 10,000 employees in the country, according to the Associated Press.</p><p>See Now: U.S. companies urged to invest in Ukraine as 'massive' reconstruction looms</p><p>Shares of McDonald's were down 0.2% in midday trading on Thursday. They have fallen 2.6% year to date, while the Dow Jones Industrial Average DJIA has declined 7.8%.</p><p>The company has not yet responded to a request for comment from MarketWatch.</p><p>The company's reported move was welcomed by Ukrainians on social media, including Oleksandr Tkachenko, the country's minister of culture and information policy.</p><p>See Now: Apple is not buying this Russian-sourced metal — but here's why many companies may still be using it</p><p>\"McDonalds reopening in Ukraine it is a good sign of economic and investment activity for other world companies,\" he tweeted.</p><p>\"Hooray, McDonald's announced reopening in coming months in safe cities (I guess, meaning further from the frontline as there're nowhere safe because of Russian rockets). What the first thing you will order?\" tweeted Kyiv-based political analyst Yarema Dukh.</p><p>McDonald's exited Russia following the country's invasion of Ukraine. In May the fast food chain said it had started the process of selling its entire portfolio of restaurants in Russia.</p><p>See Now: Apple has ended importsof gold and tungsten from Russia</p><p>U.S. companies are being urged to make major investments in Ukraine. Speaking remotely at a CEO Summit organized by Yale University earlier this year, Ukraine's President Volodymyr Zelensky told an audience of government and corporate leaders \"this is our common war.\" Goldman Sachs Group Inc. GS, Citigroup Inc. C, Pfizer Inc. PFE and Verizon Communications Inc. VZ were among the companies attending the event, according to Yale.</p><p>Andy Hunder, president of the American Chamber of Commerce in Ukraine, recently told MarketWatch that the resilience of Ukraine's business infrastructure should be noted by the rest of the world.</p><p>\"That … is sending out a message to companies that aren't in Ukraine at the moment, or are looking at [Ukraine] potentially,\" he said. \"The internet in wartime Kyiv works better than in many peacetime European capitals, the mobile network is up and running, the banks are working seamlessly.\"</p><p>McDonald's set to reopen in some cities in Ukraine — report</p>",
+  "published": "2022-08-11T15:49:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9994,
+      "offsets": [
+        {
+          "start": 1627,
+          "end": 1640
+        },
+        {
+          "start": 1627,
+          "end": 1634
+        },
+        {
+          "start": 1614,
+          "end": 1637
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050002,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 2.3841858e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

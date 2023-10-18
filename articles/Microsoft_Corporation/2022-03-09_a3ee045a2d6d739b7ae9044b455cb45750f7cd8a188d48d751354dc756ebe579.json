@@ -1,0 +1,40 @@
+{
+  "_id": "a3ee045a2d6d739b7ae9044b455cb45750f7cd8a188d48d751354dc756ebe579",
+  "feed": "ftcomall",
+  "title": "The secret US mission to bolster Ukraine's cyber defences ahead of Russia's invasion",
+  "text": "<p>Months before the Russian invasion, a team of Americans fanned out across Ukraine looking for a very specific kind of threat.</p> <p>Some were soldiers, with the US Army's Cyber Command. Others were civilian contractors and some employees of <a href=\"https://www.ft.com/content/7265e45f-12bc-4ba6-a1f2-f9c60bee9a0a\">American companies</a> that help defend critical infrastructure from the kind of cyber attacks that Russian agencies had inflicted upon Ukraine for years.</p> <p>The US had been helping Ukraine <a href=\"https://www.ft.com/content/778997c3-50ce-4b40-9c20-c8564c840a57\">bolster its cyber defences</a> for years, ever since an infamous 2015 attack on its power grid left part of Kyiv without electricity for hours. </p> <p>But this surge of US personnel in October and November was different: it was in preparation of impending war. People familiar with the operation described an urgency in the hunt for hidden malware, the kind which Russia could have planted, then left dormant in preparation to launch a devastating cyber attack alongside a more conventional ground invasion.</p> <p>Experts warn that Russia may yet unleash a devastating online attack on Ukrainian infrastructure of the sort that has long been expected by western officials. But years of work, paired with the past two months of targeted bolstering, may explain why Ukrainian networks have held up so far.</p> <p>Officials in Ukraine and the US are careful to describe the work of the “cybermission teams” as defensive, compared with the billions of dollars of lethal weapons that have poured into Ukraine to fight and kill Russian soldiers.</p> <p>Russian attacks have been blunted because “the Ukrainian government has taken appropriate measures to counteract and protect our networks”, said Victor Zhora, a senior Ukrainian government official. </p> <p>In the Ukrainian Railways, the team of American soldiers and civilians found and cleaned up one particularly pernicious type of malware, which cyber security experts dub “wiperware” — disabling entire computer networks simply by deleting crucial files on command.</p> <p>In just the first 10 days of the Russian invasion, nearly 1mn Ukrainian civilians escaped to safety on the rail network. If the malware had remained undiscovered and was triggered, “it could have been catastrophic”, said a Ukrainian official familiar with the issue.</p> <p>A similar malware went undetected within the border police, and last week, as hundreds of thousands of Ukrainian women and children tried to leave the country, computers at the crossing to Romania were disabled, adding to the chaos, according to people familiar with the matter. </p> <p>With a much smaller budget — about $60mn — these teams also had to lay the ground with private groups that provide the backbone for most of the infrastructure that Russian hackers, either government-affiliated or not, were expected to attack. </p> <p>On the last weekend in February, the Ukrainian national police, alongside other Ukrainian government arms, were facing a massive onslaught of “distributed denial-of-service attacks” (DDoS), which are relatively unsophisticated attacks that take down networks by flooding them with demands for small amounts of data from a large number of computers. </p> <p>Within hours, the Americans had contacted Fortinet, a Californian cyber security group that sells a “virtual machine” designed to counter just such an attack. </p> <p>Funding was approved within hours and the US Department of Commerce provided clearance within 15 minutes. Within eight hours of the request, a team of engineers had installed Fortinet's software on to Ukrainian police servers to fend off the onslaught, said a person familiar with the rapid-fire operation.</p> <p>The fact that these onslaughts are often targeting commercially available software — mostly from western manufacturers — has forced major US and European companies to dedicate resources to defending Ukrainian networks. </p> <p>Microsoft, for instance, has for months run a <a href=\"https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/\">Threat Intelligence Center </a>that has thrust its resources in between Russian malware and Ukrainian systems. </p> <p>On February 24, a few hours before Russian tanks started rolling into Ukraine, Microsoft engineers detected and reverse-engineered a newly activated piece of malware, Microsoft's president Brad Smith has said in a blog post.</p> <p>Within three hours, the company issued a software update to protect against the malware, warned the Ukrainian government about the threat and alerted Ukraine about “attacks on a range of targets”, including the military. On the US government's advice, Microsoft immediately extended the warning to neighbouring Nato countries, said a person familiar with the late-night decision. </p> <p>“We are a company and not a government or a country,” Smith wrote, but added that Microsoft and other software makers needed to remain vigilant against what happened in 2017, when a malware attributed to Russia spread beyond the borders of the Ukrainian cyber arena to the wider world, disabling computers at Merck, Maersk and elsewhere and causing $10bn of damage. </p> <p>So far, experts who have watched the Russian cyber assaults have been confused at their lack of success, as well as the lower tempo, intensity and sophistication of what Russian-government hackers are known to be capable of. </p> <p>Ukrainian defences have proved resilient, said one European official who was briefed this week by the Americans at a Nato meeting, and Russian offences have proved mediocre. He said the reason was that, so far, Russia has held back its elite corps in the cyber arena, much as it has on the battlefield, perhaps by underestimating the Ukrainians.</p> <p>One example, he said, was the fact that instead of communicating solely through encrypted military-grade phones, Russian commanders are sometimes piggybacking on Ukrainian cell phone networks to communicate, at times simply by using their Russian cell phones.</p> <p>“The Ukrainians love it — there is so much data in simply watching these phones, whether or not they are using encrypted apps,” he said. </p> <p>The Ukrainians then block Russian phones from their local networks at key moments, further jamming their communications. “Then you suddenly see Russian soldiers grabbing cell phones off Ukrainians on the street, raiding repair shops for sims,” he said. “This is not sophisticated stuff. It's quite puzzling.” </p><p>Source: Mehul Srivastava and Madhumita Murgia in London, Hannah Murphy in San Francisco 2022 'The secret US mission to bolster Ukraine's cyber defences ahead of Russia's invasion' FT.com 9 March. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-03-09T05:00:30.545Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 4560,
+          "end": 4569
+        },
+        {
+          "start": 4040,
+          "end": 4049
+        },
+        {
+          "start": 4350,
+          "end": 4359
+        },
+        {
+          "start": 3952,
+          "end": 3961
+        },
+        {
+          "start": 3720,
+          "end": 3729
+        },
+        {
+          "start": 4040,
+          "end": 4051
+        }
+      ]
+    }
+  ]
+}

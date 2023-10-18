@@ -1,0 +1,46 @@
+{
+  "_id": "5e844db429a461d403e2ffee05808f9a782cb79c85551932a508535d321160fc",
+  "feed": "market-watch",
+  "title": "Walmart reaches subscription video-streaming deal with Paramount+; Paramount+ shows will be part of perks retailer offers subscribers to Walmart+ membership program",
+  "text": "<p>The companies agreed to a 12-month exclusivity agreement and a two-year deal that would give Walmart+ members access to Paramount's ad-supported streaming service, according to people familiar with the deal. The perk will be available starting in September, Walmart said.</p><p>Walmart's announcement on Monday came after The Wall Street Journal reported the two companies had reached an agreement. Walmart is scheduled to announce quarterly earnings on Tuesday.</p><p>Paramount Global runs the Paramount+ service, which has shows such as \"Halo,\" the \"Star Trek\" series and \"Paw Patrol.\" The company said this month that Paramount+ had more than 43 million subscribers at the end of its latest quarter.</p><p>An expanded version of this story appears on WSJ.com.</p><p>Popular stories from WSJ.com:</p><p>* As Celebrity Backlash Grows, So Does Overall Private Jet Use</p><p>* If Your Co-Workers Are 'Quiet Quitting,' Here's What That Means</p><p>* Trump's Final Days Draw Scrutiny in Documents Probe</p><p>Walmart reaches subscription video-streaming deal with Paramount+</p>",
+  "published": "2022-08-15T21:42:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 257,
+          "end": 264
+        },
+        {
+          "start": 258,
+          "end": 265
+        },
+        {
+          "start": 270,
+          "end": 277
+        },
+        {
+          "start": 390,
+          "end": 397
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

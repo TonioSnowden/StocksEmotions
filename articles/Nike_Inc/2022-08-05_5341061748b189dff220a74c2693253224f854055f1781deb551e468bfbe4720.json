@@ -1,0 +1,42 @@
+{
+  "_id": "5341061748b189dff220a74c2693253224f854055f1781deb551e468bfbe4720",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Adidas's Fitness Regime Looks Like a Stretch  ----  By Carol Ryan",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  China isn't playing ball with Adidas's plan for peak performance in 2025. </p><p>\n  On Thursday, the German sportswear brand said sales in the three months through June increased 4% year over year at constant exchange rates. Adidas had put out its second sales and profit warning of the year last week, blaming a slow recovery among Chinese consumers as the country reopens from recent Covid-19 restrictions. </p><p>\n  A decision to stop selling its goods in Russia also shaved around 100 million euros off the company's top line during the quarter, equivalent to $102 million at current exchange rates. Adidas's shares lost 9% of their value in the days immediately after the warning but bounced back since. </p><p>\n  The German brand's problems in China go deeper than the recent lockdowns. </p><p>\n  International sports companies were losing market share to local competitors like Anta Sports before the pandemic. Since the second quarter of last year, that problem has been compounded by a consumer boycott over Adidas's stance on Xinjiang cotton, a problem that has also dogged rival Nike and Swedish fast-fashion retailer H&amp;M. Chinese influencers canceled their marketing partnerships with the brand and are still reluctant to sign back up. </p><p>\n  Just before the furor, Adidas had identified China as a crucial market to help the business meet new 2025 financial targets, announced early last year. Management wants to grow sales by an average of 8% to 10% a year through the middle of the decade, and reach an operating margin of up to 14% in 2025. This would narrow a longstanding profitability gap with Nike -- one reason why Adidas stock trades at a roughly 30% discount to its U.S. competitor in terms of projected earnings. In 2019, Adidas's margin was 11.3%, the highest level in at least 10 years, but that is expected to slip back to 7% in 2022, partly because of higher supply-chain costs. </p><p>\n  Shaky demand in China is making Adidas more reliant on consumers in other regions. The brand looks very strong in North America, where sales grew 21% in the second quarter compared with a year ago. In Europe, the Middle East and Africa growth was 7% despite the hit in Russia, but Adidas expects consumer spending to slow in its core European markets, where shoppers face much higher energy bills. </p><p>\n  Much of Adidas's momentum has come from China in recent years -- around 60% of its revenue growth between 2017 and 2019, compared with roughly 30% for Nike, according to Bank of America estimates. The company's share of the global sportswear market has been falling since 2018. </p><p>\n  Unless Chinese consumers forgive Western sportswear brands soon, Adidas will need some improbably heavy lifting by Western shoppers to get into the shape it wants. </p><p></p>",
+  "published": "2022-08-05T10:37:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 2431,
+          "end": 2435
+        },
+        {
+          "start": 1087,
+          "end": 1091
+        },
+        {
+          "start": 1080,
+          "end": 1084
+        },
+        {
+          "start": 1593,
+          "end": 1597
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000041,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.0769577e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

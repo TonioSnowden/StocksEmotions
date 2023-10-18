@@ -1,0 +1,34 @@
+{
+  "_id": "a28d1728bf748d6f4fb0c186eb48ecf013c2dc0b4593391bd8ed7761d50e890e",
+  "feed": "wall-street-journal",
+  "title": "Wireless Company Ligado Nears $70 Million Lender Reprieve; The wireless venture is close to a new financing round to stay afloat and avoid bankruptcy",
+  "text": "<p>The new financing is intended to cool tensions with Inmarsat and give Ligado more time to pursue its business and avert a near-term chapter 11 filing. Ligado last month warned investors it was running low on cash and needed an infusion to keep operating into 2023, people familiar with the matter said.</p><p>If the new loan closes, it would likely avert a near-term chapter 11 filing for Ligado, which warned investors last month it was running low on cash and needed an infusion to keep operating into 2023, people familiar with the matter said.</p><p>Ligado has spent most of the past decade seeking regulators' approval to provide wireless communications services on the ground as well as from orbit. Its bonds and loans are considered some of the riskiest U.S. debt on the market because of uncertainty that it can overcome opposition from the Pentagon and other federal agencies that have raised concerns about interference with Global Positioning System devices and other satellite services used by the military.</p><p>Ligado has shown a knack for averting financial disaster in the decade since it previously filed for bankruptcy under its old name, LightSquared. It spent more than three yearsunder chapter 11 protection before itemerged from bankruptcy in 2015 with a plan to seize a piece of the billions of dollars of investment U.S. telecom companies were making in building their fifth-generation wireless networks.</p><p>Executives scored a minor win in 2020 when the Federal Communications Commissionblessed its plan to offer those services subject to certain signal-strength limits. The company raised an additional $750 million the same year when it restructured its first-lien debt to save itself from a second bankruptcy, but its cash burn has continued since then.</p><p>Other federal agencies including the Defense Department and Commerce Department have continued toraise concerns about the proposed services' potential interference with the Global Positioning System and military users.</p><p>Last week, Inmarsat sued Ligado in a New York court after negotiations around Ligado's request to defer some of its payment obligations to Inmarsat fell through. Inmarsat said in the lawsuit that Ligado isn't holding up its end of the bargain under a cooperation agreement dating to 2007. Ligado denied breaching the cooperation deal and called the lawsuit meritless.</p><p>Ligado's rights for certain wireless radio frequencies, also known as spectrum, looked particularly attractive to some investors as cellphone carriers ramped up their spending on fifth-generation technologies. Its hopes for a windfall dimmed as rival satellite companies continued to protest any service expansion, arguing that 5G transmissions at frequencies close to other companies' satellite signals could render some devices inoperable.</p><p>A September National Academies of Sciences report on potential signal interference found that some modern GPS devices would continue working without harmful interference but still flagged overlaps that could affect other users. The report didn't sway some federal officials who have continued to oppose the company's wireless proposal.</p><p>Ligado maintains separate rights to send data to and from satellites. That technology has attracted fresh interest from investors in recent years as several companies develop plans to link satellites to mass-market smartphones like Apple Inc.'s iPhone.</p><p>Write to Andrew Scurria at Andrew.Scurria@wsj.com and Drew FitzGerald at Andrew.FitzGerald@wsj.com</p>",
+  "published": "2022-12-21T19:18:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99994683,
+      "offsets": [
+        {
+          "start": 3359,
+          "end": 3368
+        },
+        {
+          "start": 3359,
+          "end": 3369
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

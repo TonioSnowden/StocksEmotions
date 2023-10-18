@@ -1,0 +1,34 @@
+{
+  "_id": "8813d00027f3e9edaff42908ae7054f3b859dc9c4f0deb82c2723007adfbfca3",
+  "feed": "wall-street-journal",
+  "title": "Walmart Members Get Paramount+",
+  "text": "<p>The companies agreed to a 12-month exclusivity agreement and a two-year deal that would give Walmart+ members access to Paramount's ad-supported streaming service, according to people familiar with the deal. The perk will be available starting in September, Walmart said.</p><p>Walmart's announcement Monday came after The Wall Street Journal reported the two companies had reached an agreement. Walmart is scheduled to announce quarterly earnings on Tuesday.</p><p>The deal is the latest tie-up in the fast-changing streaming industry, where a growing group of companies are looking to bundle content to draw viewers or customers. YouTube is planning to launch an online store for streaming video services and has renewed talks with entertainment companies about participating in the platform. YouTube, which is owned by Alphabet Inc., would join Apple Inc., Roku Inc. and Amazon, which all have hubs to sell streaming video services.</p><p>Walmart executives have held talks in recent weeks to discuss a streaming deal with executives at Walt Disney Co., Comcast Corp. and Paramount Global, according to people familiar with the matter.</p><p>While this partnership is new, Paramount and Walmart have worked together for years. Paramount has had an office in Bentonville, Ark., dedicated to Walmart, which historically has been a big seller of its consumer products and home entertainment.</p><p>Paramount Global runs the Paramount+ service, which has shows such as \"Halo,\" the \"Star Trek\" series and \"Paw Patrol.\" The company said this month that Paramount+ had more than 43 million subscribers at the end of its latest quarter.</p><p>Walmart introduced Walmart+ in 2020 and aims to use the service to add new streams of revenue beyond selling goods, as well as rival the success Amazon has had with its Prime membership services. A subscription to Walmart+ costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline.</p><p>The deal would give Paramount+ a new avenue for growth in an increasingly competitive streaming market.</p>",
+  "published": "2022-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 830,
+          "end": 839
+        },
+        {
+          "start": 836,
+          "end": 846
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3971715,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.60332537,
+        "tagPositionWeight": 0.0004968643,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

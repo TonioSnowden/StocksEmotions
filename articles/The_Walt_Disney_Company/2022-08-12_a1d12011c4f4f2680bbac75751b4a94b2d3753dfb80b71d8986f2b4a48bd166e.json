@@ -1,0 +1,66 @@
+{
+  "_id": "a1d12011c4f4f2680bbac75751b4a94b2d3753dfb80b71d8986f2b4a48bd166e",
+  "feed": "wall-street-journal",
+  "title": "Nvidia, Tesla, Disney: Stocks That Defined the Week; Here are seven major companies whose stocks moved on the week's news",
+  "text": "<p>Tyson Foods Inc.</p><p>Rising costs are pecking at Tyson's profits. The meat-processing giant said raising chicken prices helped keep sales higher in its recent quarter, but any profit growth was wiped out by higher costs for wages, animal feed and transportation. Tyson's chicken challenges range from hatching enough chicks to short-handed processing lines in its plants. The company paid more for grain to feed its chickens and wages to keep plants staffed, and Tyson has sometimes bought chicken from rival processors to meet orders. Tyson shares fell 8.4% Monday.</p><p>Tesla Inc.</p><p>Billionaire Elon Musk now has a few extra bucks in the bank. In recent days, Mr. Musk sold nearly $7 billion of Tesla stock amid uncertainty over the fate of his $44 billion deal to buy Twitter Inc. Mr. Musk suggested in a tweet that the stock sales were aimed at avoiding a fire sale if he is forced to complete the transaction—in which case he could be on the hook for more than $33 billion in equity financing, per a regulatory filing. Since Twitter accepted Mr. Musk's acquisition offer in April, he has tried to walk away from the deal, resulting in a lawsuit that heads to court in October. Tesla shares rose 3.9% Wednesday.</p><p>Sweetgreen Inc.</p><p>Sweetgreen's rally from the worst of the pandemic hasn't been so sweet. The salad restaurant chain on Tuesday cut its fiscal 2022 outlook as its sales were hurt by an uneven Covid-related recovery in its urban locations and a slow return to offices. The company also said it was taking measures to manage operating expenses. The day before, Sweetgreen said it cut 5% of employees at its support center and reduced its real-estate footprint. Its suburban stores are doing better than those in cities, the company said. Sweetgreen shares sank in early trading but ended 8% higher Wednesday.</p><p>United Airlines Holdings Inc.</p><p>Flying taxis are closer to taking off. United has paid a $10 million deposit for 100 of the electric aircraft being developed by Archer Aviation Inc., after last year investing in the startup and striking a preliminary agreement. The development is a sign that the airline is growing more confident in the emerging technology, and other airlines have also announced investments in flying-taxi startups and preliminary orders. United Airlines Ventures President Michael Leskinen said that a trip from Manhattan to a New York airport might cost in the range of $110 to $120. United shares rose 2.4% Wednesday.</p><p>Walt Disney Co.</p><p>There is new light in the Magic Kingdom. Disney posted a better-than-expected jump in quarterly revenue, fueled by record results at its theme-park division as tourism and travel surge back to life. Disney's theme parks haven't been running at full capacity since they reopened in 2021 after Covid-related closures, but a new online reservations system and ride-reservation apps helped the company generate more revenue per visitor. The entertainment giant also saw its Disney+ streaming video platform add more new subscribers than projected during the period. Disney shares gained 4.7% Thursday.</p><p>Rivian Automotive Inc.</p><p>Rivian is revving up after a bumpy start. The electric-vehicle maker on Thursday said that its net loss in its second quarter nearly tripled to $1.7 billion, putting more pressure on the startup to conserve cash and fill customer orders quickly. Rivian started manufacturing vehicles for the first time late last year, and during the first half of 2022 the company struggled with parts-related problems that slowed its production. For the rest of the year, the company will be under pressure to prove it can rapidly increase its production rate and deliver vehicles to tens of thousands of waiting consumers. Rivian shares lost 0.1% Friday.</p><p>Write to Francesca Fontana at francesca.fontana@wsj.com</p><p>Nvidia, Tesla, Disney: Stocks That Defined the Week</p>",
+  "published": "2022-08-12T23:06:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999966,
+      "offsets": [
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 2425,
+          "end": 2440
+        },
+        {
+          "start": 2448,
+          "end": 2463
+        },
+        {
+          "start": 2480,
+          "end": 2486
+        },
+        {
+          "start": 2505,
+          "end": 2511
+        },
+        {
+          "start": 2637,
+          "end": 2643
+        },
+        {
+          "start": 2907,
+          "end": 2914
+        },
+        {
+          "start": 2934,
+          "end": 2941
+        },
+        {
+          "start": 2998,
+          "end": 3004
+        },
+        {
+          "start": 3026,
+          "end": 3032
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.92514,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.92514026,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

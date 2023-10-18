@@ -1,0 +1,36 @@
+{
+  "_id": "09c40ecf505b24ab65af8c984bc08c8d9edf44020784787f8e3247813967c796",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Emergent to Boost Output for J&J",
+  "text": "<p>In the wake of the problem, J&amp;J is taking over production of the vaccine ingredient at the Emergent plant.</p><p>The plant will no longer make the main ingredient for AstraZeneca PLC's Covid-19 vaccine so it can focus exclusively on J&amp;J's shot.</p><p>Emergent, which last year received a $628 million federal contract to manufacture Covid-19 vaccines and drugs, said late Sunday the additional $23 million is from the Biomedical Advanced Research and Development Authority, a part of the Department of Health and Human Services. It will be used for biologics manufacturing equipment specific to J&amp;J's vaccine. Emergent said J&amp;J will now have final sign-off for manufacturing the main ingredient at Emergent's plant.</p>",
+  "published": "2021-04-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 28,
+          "end": 31
+        },
+        {
+          "start": 40,
+          "end": 43
+        },
+        {
+          "start": 227,
+          "end": 230
+        },
+        {
+          "start": 612,
+          "end": 615
+        },
+        {
+          "start": 583,
+          "end": 586
+        }
+      ]
+    }
+  ]
+}

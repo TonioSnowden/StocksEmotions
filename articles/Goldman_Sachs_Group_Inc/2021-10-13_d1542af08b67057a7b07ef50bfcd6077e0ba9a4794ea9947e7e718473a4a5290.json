@@ -1,0 +1,24 @@
+{
+  "_id": "d1542af08b67057a7b07ef50bfcd6077e0ba9a4794ea9947e7e718473a4a5290",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: House Votes to Increase Debt Limit",
+  "text": "<p>The White House has said that President Biden would sign the measure into law.</p><p>The bill, which the House approved on a 219-206 vote, would increase the debt ceiling by $480 billion, an amount that the Treasury Department has said would allow the U.S. to pay its bills through Dec. 3, assuming it had also exhausted all of its cash-conservation strategies. Goldman Sachs has projected that the money would last somewhat longer, though not past the end of the year, suggesting the U.S. has roughly two months before Congress must address the debt ceiling again.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-10-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 356,
+          "end": 369
+        },
+        {
+          "start": 356,
+          "end": 363
+        }
+      ]
+    }
+  ]
+}

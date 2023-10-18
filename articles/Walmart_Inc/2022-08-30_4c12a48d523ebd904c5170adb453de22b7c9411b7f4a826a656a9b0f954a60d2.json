@@ -1,0 +1,38 @@
+{
+  "_id": "4c12a48d523ebd904c5170adb453de22b7c9411b7f4a826a656a9b0f954a60d2",
+  "feed": "wall-street-journal",
+  "title": "Best Buy Posts Drop in Sales as Shoppers Pull Back on Electronics; After 12.1% decline in comparable sales, retailer cautions that sales will decline in the third quarter as well",
+  "text": "<p>The retailer, which was one of several major chains to warn over the summer of a pullback by consumers, said Tuesday that comparable sales and operating profits would drop at similar rates in the fall quarter.</p><p>It follows a string of results by companies from Walmart Inc. to Nordstrom Inc. that have seen demand drop for some goods as consumers contend with higher prices for food and fuel and stop buying pandemic favorites such as electronics and patio furniture.</p><p>Last month, Best Buy cut its sales and profit forecast for the second quarter and the company has moved to cut jobs. Its final results were slightly better than those lowered expectations.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Best Buy Posts Drop in Sales as Shoppers Pull Back on Electronics</p>",
+  "published": "2022-08-30T11:33:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 258,
+          "end": 269
+        },
+        {
+          "start": 259,
+          "end": 271
+        },
+        {
+          "start": 259,
+          "end": 270
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.1408734,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.14087343,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "cbfbc8f60cc6a5de8129c0fe01a6c81ae33b9c06772921cb7fa1873b202141b4",
+  "feed": "wall-street-journal",
+  "title": "AARP Has a Staggering Conflict of Interest",
+  "text": "<p>Between 2010 and 2017, AARP received an estimated $4.189 billion in aggregate royalties from its partnership with UnitedHealth Group through its AARP-branded Medigap and Medicare Advantage plans. After 2017, AARP stopped disclosing exactly how much it profited from its insurance relationship. But it certainly hasn't stopped lobbying on behalf of its corporate benefactor.</p><p>In 2009, AARP lobbied for ObamaCare despite the clear opposition of its members. Then, in 2011, AARP fought against changes to Medigap insurance without disclosing its financial conflicts to Congress. Now it is pushing disastrous drug price controls in the absurdly named Inflation Reduction Act.</p><p>AARP should open its books ahead of any House vote on reconciliation so voters -- and members -- can see whom AARP truly represents.</p><p>Phil Kerpen</p><p>President, American Commitment and the Committee to Unleash Prosperity</p><p>Washington</p>",
+  "published": "2022-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 114,
+          "end": 132
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4846407,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.48464072,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

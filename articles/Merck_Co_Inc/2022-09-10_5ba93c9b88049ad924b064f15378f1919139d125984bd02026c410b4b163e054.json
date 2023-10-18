@@ -1,0 +1,38 @@
+{
+  "_id": "5ba93c9b88049ad924b064f15378f1919139d125984bd02026c410b4b163e054",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- The Score: The Business Week in 7 Stocks",
+  "text": "<p>The leadership gap at Bed Bath &amp; Beyond widened following the death of its finance chief. The struggling home-goods retailer on Tuesday said Laura Crossen will take over the role of chief financial officer on an acting basis after CFO Gustavo Arnal died by suicide on Sept. 2. His death follows the departure of other senior executives, including former CEO Mark Tritton in June. It came days after Mr. Arnal had briefed investors on the company's plans to secure new financing, cut jobs and close about a fifth of its stores. Bed Bath &amp; Beyond shares lost 18% Tuesday.</p><p>APPLE INC.</p><p>AAPL +0.9%</p><p>The iPhone is still the star of Apple. At an annual product launch event Wednesday, the company unveiled a new lineup of iPhone 14s with 5G-capable technology. Apple has defied a recent industrywide decline in smartphone shipments, and demand for the iPhone 12 and iPhone 13 lineups helped the company post record profits and sales in the past two years. The tech giant emphasized the safety features of its new iPhone 14s, noting they will get satellite connectivity for sending emergency messages in areas not touched by cell towers. Apple shares added 0.9% Wednesday.</p><p>TWITTER INC.</p><p>TWTR +6.6%</p><p>Elon Musk and Twitter collided in court. Their lawyers traded barbs in a Tuesday hearing over a stalled $44 billion takeover of the social-media company, disagreeing about whether the billionaire can include allegations from a whistleblower. A Delaware judge ruled Mr. Musk can include those claims in his countersuit but denied his request to push back a trial. Twitter shares gained 6.6% Wednesday.</p><p>TARGET CORP.</p><p>TGT +4.4%</p><p>Target CEO Brian Cornell, who turns 64 years old next year, isn't ready for his gold watch yet. The company said Wednesday that its board eliminated its mandatory retirement age of 65 for the CEO and that Mr. Cornell will lead the retailer for three more years as Target seeks stability. The retailer joins other companies such as 3M Co. and Merck &amp; Co. in relaxing or removing mandatory retirement ages for CEOs. Last year, Boeing Co. said it was raising the retirement age for David Calhoun to 70 from 65 so he could remain in the role. Target shares rose 4.4% Wednesday.</p><p>NETFLIX INC.</p><p>NFLX +4.8%</p><p>Netflix is tightening its belt. The streaming giant is hunting for cost cuts across nearly every corner of its business, The Wall Street Journal reported Wednesday. The company is paring back its real-estate footprint, limiting corporate swag, controlling cloud-computing costs and hiring more junior staff. Netflix said it lost nearly one million subscribers in the June quarter, citing growing competition from rival streaming services. The company is also working on a lower-price, ad-supported option and plans to crack down on password-sharing. Netflix shares increased 4.8% Wednesday.</p><p>ALPHABET INC.</p><p>GOOG +2.8%</p><p>Google's leader is searching for more efficiency. The Alphabet unit's Chief Executive Sundar Pichai, speaking at a conference late Tuesday, said he wants to make the company 20% more productive. Mr. Pichai pointed to macroeconomic concerns affecting advertising and consumer spending and cited past decisions to merge overlapping product areas to boost efficiency as examples of possible changes. Mr. Pichai previously raised concerns about employee productivity following an increase in hiring during the pandemic. Alphabet shares advanced 2.8% Wednesday.</p><p>KROGER CO.</p><p>KR +7.4%</p><p>Kroger shoppers are still paying up. The grocery-store operator posted quarterly sales that rose more than 9%, topping Wall Street estimates, as demand for groceries holds steady amid rising food prices. Kroger lifted its profit and revenue guidance for the year, which CFO Gary Millerchip said reflects \"sustained food at home trends.\" Rising costs of fuel, labor and raw materials pushed up prices over the past year, and retailers are passing them along to shoppers, giving sales an additional boost. Kroger shares gained 7.4% Friday.</p>",
+  "published": "2022-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1953,
+          "end": 1958
+        },
+        {
+          "start": 1937,
+          "end": 1948
+        },
+        {
+          "start": 1953,
+          "end": 1964
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4701837,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.52981627,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "a8fcde2403e6a42617e6cba8f80c187f0a9cf1d0660f708aff1acd1cb794a322",
+  "feed": "wall-street-journal",
+  "title": "Walmart Moves Upmarket; Food inflation is drawing a more affluent customer base to retailer's stores",
+  "text": "<p>Walmart also raised its operating income guidance for the full fiscal year ending in January 2023. It previously expected operating income to fall between 11% and 13% but now projects a milder decline of 9% to 11%. The retailer's stock price rose nearly 6% following the earnings call.</p><p>The company's value-price positioning is clearly paying off in today's inflationary environment. More middle- and high-income consumers are frequenting its stores, while low-income customers continue to stay loyal, according to the company's executives during the earnings call. Prices for food at home increased 13.1% in July from a year earlier, according to the Labor Department's consumer-price index, an acceleration from June and the largest year-over-year increase since 1979. That has led to some trade downs within food: Walmart is seeing consumers opt for cheaper hot dogs, canned tuna or chicken instead of deli meats, for example.</p><p>All this comes at a cost though: Walmart's low-price positioning and higher typical mix of nonfood general merchandise compared with pure-play grocers have hit its margins more than some supermarket peers. Walmart's U.S. operating margins fell roughly 0.8 percentage point from a year earlier, steeper than the 0.41-percentage-point decline Albertsons logged in its latest quarter.</p><p>While Walmart fared better than expected on most metrics, the one nit to pick is its higher-than-expected inventory levels, which remain about one-quarter above where they were a year earlier. That was still an improvement from the preceding quarter, when Walmart's merchandise levels were up 32% from a year before. Walmart said that roughly 40% of the second quarter's $12 billion inventory increase was due to inflation, and estimates that just $1.5 billion is true excess merchandise, noting that the numbers look worse partly because inventory was so lean last year. While Walmart managed to sell most of the excess summer clothes through clearance, it still has to work through piles of electronics and home and sporting goods.</p><p>Worth watching is how sticky this new base of middle- and higher-income customers will be. Walmart's actions last quarter should help: The company has introduced new perks such as a reduced-fee, direct-to-fridge delivery service membership and a free Paramount+ subscription to its Walmart+ membership program, catching up to benefits offered by Amazon Prime.</p><p>The pressure of sticking to low prices while adding new perks to its membership program may not be flattering to Walmart's margins in the short term, but if it gives the retail giant a shot at competing more directly with Amazon.com, it could well be worth it.</p><p>Walmart Moves Upmarket</p>",
+  "published": "2022-08-16T15:55:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 810,
+          "end": 817
+        },
+        {
+          "start": 955,
+          "end": 962
+        },
+        {
+          "start": 1127,
+          "end": 1134
+        },
+        {
+          "start": 1308,
+          "end": 1315
+        },
+        {
+          "start": 1557,
+          "end": 1564
+        },
+        {
+          "start": 1617,
+          "end": 1624
+        },
+        {
+          "start": 1877,
+          "end": 1884
+        },
+        {
+          "start": 2122,
+          "end": 2129
+        },
+        {
+          "start": 2503,
+          "end": 2510
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 11.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

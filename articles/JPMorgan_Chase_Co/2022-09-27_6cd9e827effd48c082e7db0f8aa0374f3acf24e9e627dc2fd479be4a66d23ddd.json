@@ -1,0 +1,42 @@
+{
+  "_id": "6cd9e827effd48c082e7db0f8aa0374f3acf24e9e627dc2fd479be4a66d23ddd",
+  "feed": "reuters",
+  "title": "EXCLUSIVE-India's inclusion into key govt bond index pushed back to next year - sources",
+  "text": "<p>Local bond settlement rules, tax complexities and the way in which investors will repatriate dollars are among the operational issues that still need to be resolved, said a fund manager at a large global fund. Index investors tend to favour international settlement platforms such as Euroclear but India has said it wants to settle bonds onshore, like China.</p><p>\"India is working to get its bonds included but operationally it is not ready,\" one of the sources said.</p><p>The government and the Reserve Bank of India are expected to sort out some of these issues by the end of 2022, said two of the sources. If resolved, an announcement on India's inclusion could come early next year, they said. The sources did not want to be named as they are not allowed to speak to the media.</p><p>India's finance ministry and JPMorgan did not immediately respond to Reuters' request for comment.</p><p>GLOBAL AMBITION</p><p>India has sought to be included in global bond indexes since 2013, but that ambition has been held up by a number of factors over the years, and JP Morgan only began considering India's inclusion in its global bond index in 2021.</p><p>If successful, India would be the last major emerging market to be added to the JP Morgan index.</p><p>Its inclusion could result in additional flows of as much as $30 billion within 10 months into the Indian government bond market, Morgan Stanley estimated earlier this month.</p><p>Last year, Morgan Stanley predicted that it could generate $170 billion to $250 billion of inflows over the next decade.</p><p>Most of JPMorgan 's index investors are in favour of including India in the index, but think issues such as investor verification and settlement rules need to be ironed out first, three of the sources said.</p><p>India is opposed to providing any capital gains tax waivers to overseas debt investors and wants global bond index operators to consider the local settlement of its government securities if they are included in their indexes, according to two separate Reuters reports.</p><p>\"It is not insurmountable, but right now there is no transparency on how a capital gains tax would be calculated or levied, so we wouldn't be surprised if there was a delay,\" said Jennifer Taylor, head of emerging market at State Street.</p>",
+  "published": "2022-09-27T08:40:35.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 1033,
+          "end": 1042
+        },
+        {
+          "start": 802,
+          "end": 810
+        },
+        {
+          "start": 1519,
+          "end": 1527
+        },
+        {
+          "start": 1198,
+          "end": 1207
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0006576,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00065743923,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

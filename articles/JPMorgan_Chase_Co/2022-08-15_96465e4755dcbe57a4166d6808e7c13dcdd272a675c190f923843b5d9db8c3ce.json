@@ -1,0 +1,90 @@
+{
+  "_id": "96465e4755dcbe57a4166d6808e7c13dcdd272a675c190f923843b5d9db8c3ce",
+  "feed": "market-watch",
+  "title": "After calling the summer stock-market rally, JPMorgan says it's not yet time for investors to play defense",
+  "text": "<p>But the arguments underpinning their call might come as a surprise to some investors.</p><p>According to Mislav Matejka, JPM's head of European and global equity strategy, the size of the Federal Reserve's next interest-rate hike — expected at the central bank's upcoming policy meeting in September — isn't as important as the direction of longer-term Treasury yields. So, instead of fixating on the size of the next Fed rate hike, investors should keep an eye out for a steepening yield curve. Only then will value stocks retake the lead from growth, according to the JPM team.</p><p>\"The key is the direction of long yields, where the peaking at mid-year wasone of the big catalysts for the rebound in Growth style,\" Matejka wrote in the research note.</p><p>Growth stocks like Amazon.com Inc. AMZN have been the stars of this summer's market rebound, which has seen shares of some of the most badly beaten-down stocks return to a position of market leadership.</p><p>For the curve to start steepening again, the JPM team believes the global economy will need to demonstrate that the slowdown in global economic growth has ended. Overnight, investors were confronted with more evidence of this trend in the form of more disappointing economic data out of China, which helped to inspire surprise interest rate cuts by the country's central bank.</p><p>While the JPM team expects growth stocks to continue to outperform until the end of the year, ultimately, they believe value stocks will assume the leadership position once again.</p><p>But unlike the last bout of value-stock leadership, which coincided with the brutal market selloff that marred the first half of 2022, it's possible — even likely — that investors could see value stocks outperform while the overall trend of rising stocks remains intact. According to the JPM team, this is because the value factor has historically been correlated with rising markets.</p><p>While few on Wall Street can reliably predict where markets are headed next, JPM strategists, including quants like Marko Kolanovic and Nikolaos Panigirtzoglou, succeeded in calling the summertime rally that has helped carry stocks out of bear-market territory.</p><p>Interestingly enough, JPM is one of the only Wall Street institutions that expects growth stocks to continue to lead, while also anticipating a Fed rate hike of 75 basis points in September.</p><p>But there are still plenty who remain cautious, including the BlackRock Investment Institute, which has recently advised clients to shift back intodefensive stocks and corporate credit. On Monday, BlackRock released another note warning investors that the rally in U.S. equities isn't worth chasing.</p><p>See: Why BlackRock says the stock market's big summer rally isn't worth chasing</p><p>But so far at least, the rally has shown few signs of losing steam. After opening lower on Monday, all three U.S. benchmarks managed to swing into the green by midday, leaving them on track to extend the longest winning streak since late last year.</p><p>See: U.S. stocks recover from lower open even as China raises worries over global growth</p><p>Recently, the S&amp;P 500 SPX was up 13 points, or 0.3%, to trade just shy of the 4,300 level, while the Dow Jones Industrial Average DJIA advanced160 points, or 0.5%, to just shy of 34,000. Meanwhile, the Nasdaq Composite COMP gained 50 points, or 0.4%. to 13,095.</p><p>After calling the summer stock-market rally, JPMorgan says it's not yet time for investors to play defense</p>",
+  "published": "2022-08-15T17:24:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 45,
+          "end": 53
+        },
+        {
+          "start": 114,
+          "end": 117
+        },
+        {
+          "start": 115,
+          "end": 118
+        },
+        {
+          "start": 561,
+          "end": 564
+        },
+        {
+          "start": 564,
+          "end": 567
+        },
+        {
+          "start": 986,
+          "end": 989
+        },
+        {
+          "start": 992,
+          "end": 995
+        },
+        {
+          "start": 1326,
+          "end": 1329
+        },
+        {
+          "start": 1334,
+          "end": 1337
+        },
+        {
+          "start": 1782,
+          "end": 1785
+        },
+        {
+          "start": 1792,
+          "end": 1795
+        },
+        {
+          "start": 1955,
+          "end": 1958
+        },
+        {
+          "start": 1966,
+          "end": 1969
+        },
+        {
+          "start": 2161,
+          "end": 2164
+        },
+        {
+          "start": 2173,
+          "end": 2176
+        },
+        {
+          "start": 3367,
+          "end": 3375
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.77872,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7787216,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

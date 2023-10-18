@@ -1,0 +1,68 @@
+{
+  "_id": "ef1bdf42ac43a1155201f6cd4c77710efe8478513d0cacef71a1f50af3ea8538",
+  "feed": "market-watch",
+  "title": "Intel stock logs worst day in more than a year as capital plan raises margin concerns",
+  "text": "<p>Intel INTC shares finished down 11.7% at $49.46, touching an intraday low of $49.14, after more than a dozen analysts cut their price targets and at least two downgraded the stock. Shares have not closed with a decline that large since a 16.2% drop on July 24, 2020 when the chip maker announced a delay on its next generation of chips. The last time the stock closed below $50 was on Jan. 4.</p><p>Intel Chief Executive Pat Gelsinger tried to assure concerned analysts that gross margins would stay “comfortably above 50%”&#xa0;late Thursday. Gelsinger is trying to return Intel to its former glory by boosting investment in new manufacturing capacity to about $25 billion to $28 billion, nearly double its previous range, but that is cutting into profit.</p><p>“We are repositioning Intel for growth to be a long-term growth company,” Gelsinger said. “Near-term, we could have chosen a more conservative route with modestly better financials, but instead the board, the management team — and this is why I came back to the company — choosing to invest to maximize the long-range business that we have.”</p><p>Analysts, though, focused on the next few years before that extra revenue comes in while changing their ratings and price targets on Intel. Mizuho analyst Vijay Rakash contended that Intel was “losing focus” while downgrading the stock to a neutral rating from a buy and cutting his price target to $55 from $70.</p><p>“We believe the pivot could become a capital drag, as it is difficult to both win in the foundry market and maintain attractive margins,” Rakesh said. That could also be more advantageous to smaller rival Advanced Micro Devices Inc. AMD, he said.</p><p>“We now believe splitting focus with building foundry capacity and accelerating five node transitions by 2025 could be a challenge and potentially widen the gap versus AMD,” Rakesh said. “In addition, if the performance gap to AMD increases further, Intel could have to price-discount more aggressively.”</p><p>Morgan Stanley analyst Joseph Moore downgraded Intel to equal-weight from overweight and cut his price target to $55 from $67 and said he was moving to the sidelines as the capex increase signaled fixed cost increases.</p><p>“We have consistently said that over $25 bn in capital spending would be problematic for us, and guidance for $25-28 bn ‘and higher in future years' puts the burden on double digit growth in 2023 and beyond – which the company also forecast – that seems challenging, particularly given our more cautious view on hardware demand after all,” Moore said.</p><p>Benchmark analyst David Williams also sees AMD benefiting as Intel spends years ramping up.</p><p>“We view Intel as a relative underperformer over the next 2-3 years, likely delivering sub-peer growth, declining gross margin, share loss, increased capital outlay, and compressed earnings power,” Williams wrote while maintaining a hold rating. “AMD would be the natural beneficiary as its prior investments and long-term partnership with TSMC TSM are now benefiting the firm's sustainable market share gains, higher than average growth rates and improving cash flow and earnings leverage.”</p><p>JPMorgan analysts cut their price target to $56 from $64, but defended Intel executives, saying that none of the options were great but they made the best choice among those available.</p><p>“The team has made the right decision to flex its spending power and revenue/market share scale now to potentially close the product/manufacturing gap with competitors,” they wrote, while maintaining an overweight rating.</p><p>Earlier in the year, Intel was rumored to be interested in acquiring silicon-wafer manufacturing company GlobalFoundries Inc. GFS to build out its fab operations more quickly, but that company later opted to pursue an initial public offering instead.</p><p>Read: GlobalFoundries IPO: 5 things to know about the chip company going public in a semiconductor shortage</p><p>Of the 41 analysts who cover Intel, 12 have buy ratings, 19 have hold ratings, and 10 have sell ratings, according to FactSet. Of those, 16 cut their price targets, driving the average down to $56.04 from a previous $61.83.</p>",
+  "published": "2021-10-22T16:40:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 2000,
+          "end": 2005
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3903,
+          "end": 3908
+        },
+        {
+          "start": 1898,
+          "end": 1903
+        },
+        {
+          "start": 768,
+          "end": 773
+        },
+        {
+          "start": 1271,
+          "end": 1276
+        },
+        {
+          "start": 3536,
+          "end": 3541
+        },
+        {
+          "start": 2625,
+          "end": 2630
+        },
+        {
+          "start": 1221,
+          "end": 1226
+        },
+        {
+          "start": 393,
+          "end": 398
+        },
+        {
+          "start": 2585,
+          "end": 2590
+        },
+        {
+          "start": 563,
+          "end": 568
+        },
+        {
+          "start": 3179,
+          "end": 3184
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_id": "815fef1f5d14e2f7eefae10500df48f0817657f2847b041f659f37aaf4f9e8f5",
+  "feed": "wall-street-journal",
+  "title": "Oracle and Microsoft Agree to Deepen Interoperability of Cloud Platforms; The deal reflects an evolving market in which customers use multiple clouds and refuse to be locked into a single service",
+  "text": "<p>The Oracle Database Service for Microsoft Azure is scheduled to be announced today at Microsoft Inspire, an online event for Microsoft partners.</p><p>It builds on an integration introduced in 2019, known as Oracle Interconnect for Microsoft Azure. That earlier step connected Oracle Cloud Infrastructure to Microsoft Azure cloud infrastructure. It required a fair amount of effort and technical expertise on the part of customers to make it work, the companies said.</p><p>\"Over the last couple years we have had a lot of success with that. And we also got a lot of customer feedback. And one of the things that customers (said) was, 'Hey, it's great you are working together, but we really would like a more integrated experience,'\" said Clay Magouyrk, executive vice president, Oracle Cloud Infrastructure.</p><p>\"The ability to benefit from both clouds, and the flexibility, is a real win for customers,\" said Corey Sanders, corporate vice president of Microsoft Cloud for Industry and Global Expansion.</p><p>The new service connects Oracle's database service directly to the Azure cloud, eliminating custom work that previously would have been required.</p><p>In practice, that means an Oracle database user can move data easily to the Microsoft Azure cloud and have access to Microsoft tools such as Azure Synapse, which analyzes the data, the companies said.</p><p>There are no fees associated with data transfer between the two cloud platforms, although customers will pay for other services beyond data transfer, such as Azure Synapse or the self-tuning and patching Oracle Autonomous Database.</p><p>The new service includes a dashboard with a single sign-on process. That means Oracle customers who move workloads to Azure can still work in an Oracle-like environment and vice versa, reducing the need for customers to learn new systems.</p><p>Oracle and Microsoft interconnects are in 11 facilities in the Americas, Europe and Asia. That physical proximity allows a less than 2-millisecond level of latency or delay in communication across the cloud platforms, the companies said.</p><p>Oracle and Microsoft have made the service available on an early basis to a number of companies including Veritas Technologies LLC, a multicloud data management company based in Santa Clara, Calif.</p><p>\"The experience has been very good. Many enterprise customers use Oracle and Microsoft and moving workloads…without this kind of integration would take a lot of effort,\" said Jane Zhu, senior vice president for corporate operations at Veritas.</p><p>\"Oracle and Microsoft are absolutely unique in the way they are integrating now,\" said Donald Feinberg, vice president and distinguished analyst at researcher Gartner Inc. \"I think we will start to see other cloud vendors do the same thing,\" he said.</p><p>Amazon.com Inc.'s Amazon Web Services, Microsoft Azure and Alphabet Inc.'s Google Cloud accounted for 65% of the $53 billion in global cloud-service spending in the first quarter of the year, up from 52% of global sales four years ago, according to Synergy Research Group.</p><p>Oracle, based in Austin, Texas, said in June that companywide revenue was up 5% to $11.84 billion in its fiscal fourth quarter, while total cloud revenue grew 19% from a year earlier to $2.9 billion.</p><p>Write to Steven Rosenbush at steven.rosenbush@wsj.com</p><p>Oracle and Microsoft Agree to Deepen Interoperability of Cloud Platforms</p>",
+  "published": "2022-07-20T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2057,
+          "end": 2066
+        },
+        {
+          "start": 86,
+          "end": 95
+        },
+        {
+          "start": 125,
+          "end": 134
+        },
+        {
+          "start": 1819,
+          "end": 1828
+        },
+        {
+          "start": 1212,
+          "end": 1227
+        },
+        {
+          "start": 302,
+          "end": 317
+        },
+        {
+          "start": 939,
+          "end": 948
+        },
+        {
+          "start": 2321,
+          "end": 2330
+        },
+        {
+          "start": 2500,
+          "end": 2509
+        },
+        {
+          "start": 11,
+          "end": 20
+        },
+        {
+          "start": 1253,
+          "end": 1262
+        },
+        {
+          "start": 3277,
+          "end": 3286
+        },
+        {
+          "start": 2778,
+          "end": 2793
+        },
+        {
+          "start": 226,
+          "end": 235
+        },
+        {
+          "start": 32,
+          "end": 47
+        },
+        {
+          "start": 226,
+          "end": 241
+        }
+      ]
+    }
+  ]
+}

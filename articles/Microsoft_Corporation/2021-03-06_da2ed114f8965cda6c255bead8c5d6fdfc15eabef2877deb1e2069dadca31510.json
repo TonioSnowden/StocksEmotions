@@ -1,0 +1,28 @@
+{
+  "_id": "da2ed114f8965cda6c255bead8c5d6fdfc15eabef2877deb1e2069dadca31510",
+  "feed": "ftcomall",
+  "title": "US approves new T-cell test for coronavirus",
+  "text": "<p>The first test for a T-cell response to the virus behind Covid-19 has received emergency approval for use in the US, creating another option for people to discover whether they have had the disease.&#xa0;</p> <p>Adaptive Biotechnologies, a Seattle-based biotech, worked with Microsoft, to create the blood test, which can be more accurate than some of the antibody tests on the market. </p> <p>As well as creating antibodies, the immune system produces T-cells in response to an infection. T-cells are white blood cells that can directly kill infected cells or help B-cells stimulate the production of antibodies.&#xa0;</p> <p>Lance Baldo, chief medical officer at Adaptive, said <a href=\"https://www.ft.com/content/5cf2ee49-df7a-4990-b337-860cf7737b2f\">T-cells were important</a> because they have a “very long memory”, appearing to remain in the body for <a href=\"https://www.ft.com/content/bcd20087-a7cc-4277-a628-9e2d25a702f0\">at least six to nine months</a>. Given how the pandemic has only been around for a year, they could remain even longer.&#xa0;</p> <p>Baldo said this could be particularly useful for people suffering from “long Covid” — with symptoms that persist over months — who may not have had a positive test at the time. It could help shape their care, and in the US it may influence what insurers will pay for.&#xa0;</p> <p>“You have these people with long-term Covid, they're not sure if they were ever really infected, their antibodies are definitely gone, they're not going to have a positive PCR [diagnostic test], and they're just calling us saying, ‘I want to know whether three months ago, six months ago, nine months ago, I actually had the coronavirus',” he said.</p> <p>Adaptive's lab tests, which have already been available from concierge medicine practices, can now be ordered by doctors across the US. </p> <p>The emergency use authorisation from the Food and Drug Administration comes after<a href=\"https://www.ft.com/content/16a2bea8-457e-4d7d-9f5b-15b31ddd89c0\"> a study </a>showed that T-cells could play an important role in the immune response to new variants. Researchers at La Jolla Institute for Immunology and the University of California said they found that T-cell responses in the vaccinated, or previously infected, were just as robust with the variants first identified in the UK, Brazil, South Africa and California.&#xa0;</p> <p>Adaptive says its research, which has not yet been peer-reviewed, showed its test detects 97 per cent of people who have had the disease, compared with antibody tests that vary between 77 to 97 per cent. The proportion of false negatives was less than 1 per cent.&#xa0;</p> <p>There has not yet been enough research into whether the discovery of these T-cells mean people are immune to the Sars-Cov-2 virus. But Adaptive is hoping patients who take the test will opt into research, which will allow the company to follow them and see if any develop Covid-19.&#xa0;</p> <p>Adaptive is also working with vaccine developers, which have so far focused on whether their shots elicit an antibody response, to see if they achieve a T-Cell reaction, too.&#xa0;</p> <p>Microsoft's machine learning tools helped Adaptive map the body's immune system.&#xa0;Adaptive also plans to create tests for T-Cell response to other infectious diseases, such as Lyme disease, and autoimmune disease.&#xa0;&#xa0;&#xa0;</p><p>Source: Hannah Kuchler in New York 2021 'US approves new T-cell test for coronavirus' FT.com 6 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-06T00:44:32.211Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2788,
+          "end": 2799
+        },
+        {
+          "start": 263,
+          "end": 272
+        },
+        {
+          "start": 2788,
+          "end": 2797
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

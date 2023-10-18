@@ -1,0 +1,44 @@
+{
+  "_id": "ed651a27ff47ddaf41a3dc20e321279988a1476671cf40b5d5577251087cba34",
+  "feed": "wall-street-journal",
+  "title": "Cyberspying for Hire Draws More Scrutiny",
+  "text": "<p>One of them, an obscure firm in North Macedonia, used a previously unknown vulnerability in Apple Inc.'s software to hack iPhones, according to watchdog group Citizen Lab, which collaborated with Facebook and issued its own report Thursday. Another group Facebook went after is \"an unknown entity in China\" involved in surveillance of ethnic minorities, according to the company.</p><p>Facebook's work is the latest, and broadest, attack by big tech companies on the shadowy industry that has grown up around infiltrating smartphones, computers and social-media accounts. The most visible player has been NSO Group, an Israeli company which Citizen Lab has tied to spying on dissidents and journalists on behalf of Gulf governments.</p><p>In 2019, Meta sued NSO, alleging it sent malware to about 1,400 users. Early last month, the Commerce Department sanctioned NSO and another spyware company, restricting their business activities after finding they helped foreign governments \"maliciously\" spy. A few weeks later, Apple sued NSO, alleging \"concerted efforts in 2021 to target and attack Apple customers, Apple products and servers and Apple through dangerous malware and spyware.\"</p><p>This week, Google researchers published an analysis that called an NSO phone-hacking tool \"one of the most technically sophisticated exploits we've ever seen,\" saying it rivals technology \"previously thought to be accessible to only a handful of nation states.\" The Wall Street Journal and Bloomberg earlier reported that NSO is considering selling its spyware group.</p><p>NSO Group didn't respond to requests for comment. The company has previously defended its practices and said it has helped save lives by providing governments legal tools to fight criminals with technology.</p><p>The U.S. also has taken additional action to curb such cyberspying activities. Language in a defense bill passed this week requires the State Department to send an annual report to Congress that names companies involved in cyberattacks or surveillance against activists and political opponents.</p><p>On Thursday, researchers from Facebook and Citizen Lab said their work shows the spyware industry is growing beyond NSO. \"The surveillance for hire industry is much broader than I think gets talked about,\" said Facebook's security policy chief, Nathaniel Gleicher. He said Facebook is trying to raise awareness across the tech industry about the problem of private spying.</p><p>The company's report said surveillance companies use Facebook and Instagram to find their targets, establish some kind of communication and use that communication to get them to download files containing malware. It said it notified about 50,000 people who may have been targeted. Targets included politicians, journalists, activists, academics and businesspeople. Facebook didn't identify who was paying for the spying.</p><p>The surveillance companies identified in the report include four Israel-based firms that collect information about spying targets, help coordinate fake social-media accounts and gather people's private information. One of them, Black Cube, employs former Israeli intelligence agents who have had their cover blown while spying on behalf of private clients, the Journal previously reported.</p><p>In an emailed statement, Black Cube said it doesn't \"undertake phishing or hacking and does not operate in the cyber world.\" The statement also said the company works with law firms and provides litigation support and takes steps to ensure its work is legal in the areas in which it operates.</p><p>The most technically detailed account to come out Thursday was from Citizen Lab, which said that earlier this year, it learned of an exiled Egyptian politician who was worried because his iPhone was \"running hot.\" Citizen Lab examined the phone and determined it had been compromised by two types of spyware. One was a familiar NSO product. The other was different.</p><p>The researchers went through the suspicious code and tied it back to an online presence in North Macedonia that they connected to a company called Cytrox. Cytrox in 2019 said it was part of the \"Intellexa alliance,\" a collection of cyber intelligence companies run by a former Israeli defense official, according to a news release from the company at the time. The official didn't respond to messages.</p>",
+  "published": "2021-12-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1006,
+          "end": 1011
+        },
+        {
+          "start": 1127,
+          "end": 1132
+        },
+        {
+          "start": 92,
+          "end": 102
+        },
+        {
+          "start": 1096,
+          "end": 1101
+        },
+        {
+          "start": 1079,
+          "end": 1084
+        },
+        {
+          "start": 92,
+          "end": 101
+        },
+        {
+          "start": 92,
+          "end": 97
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

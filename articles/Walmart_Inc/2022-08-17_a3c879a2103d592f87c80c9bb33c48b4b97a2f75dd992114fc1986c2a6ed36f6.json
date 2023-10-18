@@ -1,0 +1,74 @@
+{
+  "_id": "a3c879a2103d592f87c80c9bb33c48b4b97a2f75dd992114fc1986c2a6ed36f6",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Walmart's Customer Base Moves Upmarket  ----  By Jinjoo Lee",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n   Walmart's \"everyday low prices\" motto is paying off with a widening set of customers, though at a cost to its margins. </p><p>\n  The retail giant said on Tuesday that its Walmart-branded U.S. chain's same-store sales grew 6.5% from a year earlier in the quarter ended July 29, better than the 6% growth it forecast in last month's update. Both its operating income and adjusted earnings exceeded analyst expectations, which were subdued after Walmart downgraded its profit forecast last month. </p><p>\n  Walmart raised its operating-income guidance for the full fiscal year ending in January 2023. It previously expected operating income to fall between 11% and 13% but now projects a decline of 9% to 11%. The retailer's stock price rose about 5% on Tuesday. </p><p>\n  The company's value-price positioning is clearly paying off in today's inflationary environment. More middle- and high-income consumers are frequenting its stores, while low-income customers continue to stay loyal, according to executives during the company's earnings call. Prices for food at home rose 13.1% in July from a year earlier, according to the Labor Department's consumer-price index, an acceleration from June and the largest year-over-year increase since 1979. That led to some trade downs within food: Walmart is seeing consumers opt for cheaper hot dogs, canned tuna or chicken instead of deli meats, for example. </p><p>\n  All this comes at a cost: Walmart's low-price positioning and higher typical mix of nonfood general merchandise compared with pure-play grocers hit its margins more than some supermarket peers. Walmart's U.S. operating margins fell roughly 0.8 percentage point from a year earlier, steeper than the 0.41-percentage-point fall Albertsons logged in its latest quarter. </p><p>\n  While Walmart fared better than expected on most metrics, the one nit to pick is its higher-than-expected inventory levels, which remain about one-quarter above where they were a year earlier. That was still an improvement from the preceding quarter, when Walmart's merchandise levels were up 32% from a year before. Walmart said that roughly 40% of the second quarter's $12 billion inventory increase was due to inflation, and estimates that just $1.5 billion is true excess merchandise, noting that the numbers look worse partly because inventory was so lean last year. While Walmart managed to sell most of the excess summer clothes through clearance, it still has to work through piles of electronics and home and sporting goods. </p><p>\n  Worth watching is how sticky this new base of middle- and higher-income customers will be. Walmart's actions last quarter should help: The company introduced new perks such as a reduced-fee, direct-to-fridge delivery-service membership and a free Paramount+ subscription to its Walmart+ membership program. </p><p>\n  The pressure of sticking to low prices while adding new perks to its membership program may not be flattering to Walmart's margins in the short term, but if it gives the retail giant a shot at competing more directly with Amazon.com, it could well be worth it. </p><p></p>",
+  "published": "2022-08-17T06:01:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 21,
+          "end": 28
+        },
+        {
+          "start": 468,
+          "end": 475
+        },
+        {
+          "start": 518,
+          "end": 525
+        },
+        {
+          "start": 1285,
+          "end": 1292
+        },
+        {
+          "start": 1423,
+          "end": 1430
+        },
+        {
+          "start": 1590,
+          "end": 1597
+        },
+        {
+          "start": 1768,
+          "end": 1775
+        },
+        {
+          "start": 2017,
+          "end": 2024
+        },
+        {
+          "start": 2077,
+          "end": 2084
+        },
+        {
+          "start": 2337,
+          "end": 2344
+        },
+        {
+          "start": 2582,
+          "end": 2589
+        },
+        {
+          "start": 2910,
+          "end": 2917
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.895384,
+        "baseWeight": 12.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8953842,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

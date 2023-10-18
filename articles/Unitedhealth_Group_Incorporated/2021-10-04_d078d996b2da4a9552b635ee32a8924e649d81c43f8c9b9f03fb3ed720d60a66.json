@@ -1,0 +1,28 @@
+{
+  "_id": "d078d996b2da4a9552b635ee32a8924e649d81c43f8c9b9f03fb3ed720d60a66",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Covid Treatment  Costs Vary Widely  ----  By Anna Wilde Mathews, Tom McGinty and Melanie Evans",
+  "text": "<p>   The cost of similar Covid-19 treatments can vary by tens of thousands of dollars a patient, even within the same hospital, according to a Wall Street Journal analysis of pricing data that indicates pandemic care hasn't escaped the complex economics of the U.S. health system. </p><p>   One kind of patient, with a type of severe respiratory condition that is common among those admitted with Covid-19, is an example of the wide range. The rates for these patients usually spanned from less than $11,000 to more than $43,000, the analysis found, but some prices could be far higher, depending on the severity of the case. </p><p>   At NewYork-Presbyterian Weill Cornell Medical Center in New York, the cost for a severe-respiratory patient was around $55,182 if the person were insured by CVS Health Corp.'s Aetna, according to the hospital's data. For UnitedHealth Group Inc.'s UnitedHealthcare, the hospital's disclosed rate is $64,326, while the price listed in the hospital's data for patients covered by Anthem Inc.'s Empire Blue Cross Blue Shield was $94,357. </p><p>    The range of prices shows how similar hospital services can generate widely disparate bills. Even during the pandemic, and within the same hospital, the prices often reflect the leverage that an insurer has to wrangle discounts, as well as the hospital's market power to drive up its rates. </p><p>   A spokeswoman for New-York-Presbyterian said it negotiates each insurance contract individually and the cost to patients varies significantly depending on the care they receive, their coverage and their eligibility for financial assistance. A spokeswoman for Anthem said the insurer's rate appeared higher because of how it was calculated and disclosed by the hospital, and it reflected that the hospital is treating sicker patients. Aetna said rates vary for a number of reasons, while UnitedHealth said the rates disclosed by hospitals don't reflect the actual service costs. </p><p>   Throughout much of the pandemic, insurers waived out-of-pocket charges for Covid-19 treatment, so the variable costs didn't directly affect patients' pocketbooks. Now, patients are increasingly facing charges such as deductibles or coinsurance, which can depend on rates that hospitals and insurers secretly negotiated, according to the Kaiser Family Foundation. </p><p>   \"Some have limited insurance and they are getting these crazy bills, and they're saying, 'I don't know how I'm going to get through it,'\" said Adria Goldman Gross, chief executive of MedWise Insurance Advocacy, a patient-advocacy firm in Monroe, N.Y. </p><p>   A federal fund that can pick up the cost of Covid-19 treatment is focused on the uninsured. As a result, many patients with private coverage may actually pay more out of their pockets than those with no health plan at all. </p><p>   The pricing data became public this year under a new federal requirement. The Wall Street Journal analyzed this data for hundreds of hospitals, compiled by Turquoise Health Co., to understand what Covid-19 treatment costs. The analysis focused on private insurance, the kind offered by employers or purchased individually, not government-backed plans under Medicare or Medicaid. </p><p>   The analysis included three types of hospital patients: those with serious respiratory illness who typically avoided treatment with ventilators; respiratory patients who needed ventilators for at least four days; and patients who had a life-threatening condition, known as sepsis, and may also have briefly needed a ventilator. </p><p>   The Journal examined rates for billing codes for those conditions, which were the codes most frequently associated with privately insured Covid-19 patients in claims analyzed by Milliman Inc., an actuarial firm. </p><p>   The analysis looked at rates at more than 600 hospitals. In describing price ranges, the Journal has excluded the most extreme figures unless they were directly verified with the hospital and insurer involved, to ensure accuracy. </p><p>   Patients admitted for Covid-19 treatment may require stays in the intensive-care unit and ventilators to help with breathing. If their insurer has stopped blocking out-of-pocket charges for virus treatment, patients could face bills in the thousands of dollars tied to the prices that the companies have negotiated. </p><p>   \"You will have no control over what services are provided to you and you will have virtually no control over the cost,\" said Susan Null, principal at Systemedic Inc., a medical billing and patient advocacy firm in New City, N.Y. </p><p></p>",
+  "published": "2021-10-04T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "offsets": [
+        {
+          "start": 832,
+          "end": 855
+        },
+        {
+          "start": 1823,
+          "end": 1835
+        },
+        {
+          "start": 832,
+          "end": 854
+        }
+      ]
+    }
+  ]
+}

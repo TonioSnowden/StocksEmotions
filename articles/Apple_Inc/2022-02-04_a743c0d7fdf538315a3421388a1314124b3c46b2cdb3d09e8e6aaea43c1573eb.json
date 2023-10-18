@@ -1,0 +1,28 @@
+{
+  "_id": "a743c0d7fdf538315a3421388a1314124b3c46b2cdb3d09e8e6aaea43c1573eb",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Biden Administration Forms Cybersecurity Review Board to Probe Failures",
+  "text": "<p>Corporate security chiefs are wary of reporting cyberattacks to the federal government, concerned that they will get dinged for security failings. It's interesting that the board is kicking things off with Log4j—a major problem that can't be pinned on weak security at a big company and apparently hasn't caused any significant disruption to daily life.</p><p>Also interesting: Unlike the transportation board, the cyber board doesn't have subpoena power. And Homeland Security Secretary Alejandro Mayorkas said in an interview with WSJ that the board was intended to find remedies for future problems rather than cast blame for shortcomings.</p><p>Continued below.</p><p>Digital Event: How to Detect and Respond to Cyber Attacks</p><p>100% security is impossible, so businesses must prepare for the inevitable cyber attack. This event will discuss cyber vulnerabilities organizations are ignoring and strategies to reduce cyber risk.</p><p>Register Now</p><p>The cyber board isn't an independent agency like the transportation board and will instead reside within the Department of Homeland Security. It will have 15 members—three times as many as the full complement of the transportation board—from government and the public sector who don't need to be confirmed by the Senate.</p><p>Rob Silvers, the undersecretary for policy at DHS and a lawyer with experience in cybersecurity issues, will chair the board. Heather Adkins, (pictured), senior director of security engineering at Google, will serve as deputy chair.</p><p>Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency, is responsible for appointing members, in consultation with Mr. Silvers. Other members include cybersecurity and legal specialists from the federal government, as well as technology companies and organizations. CISA is expected to provide some expertise and funding.</p><p>DHS said the board expects to finish by the summer its probe of the vulnerabilities related to the open-source software logging tool called Log4j. Officials have warned that it is likely one of the gravest cybersecurity vulnerabilities on record.</p><p>Read the full story.</p><p>More Cyber News</p><p>European oil storage facilities affected by cyberattack at logistics company. Loading systems were disrupted at a handful of oil terminals in the Amsterdam area after a Jan. 29 cyberattack at Mabanaft and Oiltanking—two units of fuel logistics provider Marquard &amp; Bahls in Germany, Bloomberg reported. These outages add to the footprint of the incident, which also caused an estimated 233 gas stations in northern Germany to experience service interruptions, according to Germany's top cybersecurity agency. Royal Dutch Shell PLC earlier said it diverted some oil supplies to alternate storage facilities following the incidents at Mabanaft and Oiltanking, Reuters reported.</p><p>Belgium probes attack on energy companies. Belgium's Federal Computer Crime Unit is investigating cyber incidents at two of the country's energy providers at the ports of Antwerp and Ghent. (Associated Press)</p><p>Privacy News‎</p><p>Facebook feels $10 billion sting from Apple's privacy push. Facebook parent Meta Platforms closed down more than 26% in Thursday trading—a $230 billion-plus loss in market capitalization—after CFO David Wehner on Wednesday said the company expects the Apple policy to cost it more than $10 billion in sales for 2022, equivalent to about 8% of its total revenue last year.</p><p>Apple introduced the changes last April, altering its iPhone software to require apps to ask users whether they want to be tracked. The move limited the ability to gather data through apps for targeting digital ads and drove advertisers to alter spending patterns.</p><p>Weekend Reading</p><p>Ukraine-Russia:</p><p>Officials Fear Cyberattacks Would Affect Other Countries</p><p>On High Alert for Cyber Aggression</p><p>Insurers Want to Avoid Covering War. Ukraine Hacks Put That to the Test.</p><p>Companies Prepare for Fallout From Cyberattacks Against Ukraine</p><p>U.S. Companies Face More Restrictions After Privacy Ruling Against Google</p>",
+  "published": "2022-02-04T14:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3259,
+          "end": 3264
+        },
+        {
+          "start": 3045,
+          "end": 3050
+        },
+        {
+          "start": 3379,
+          "end": 3384
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

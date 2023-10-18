@@ -1,0 +1,62 @@
+{
+  "_id": "0f84d5d4862448544ada9db3bb0d42188d50c1d78147e9888ec85cb6a3f4c61e",
+  "feed": "market-watch",
+  "title": "Cisco earnings and revenue forecast quell fears of slowdown, send stock higher; After flat growth to wrap fiscal year, Cisco executives guide for revenue growth of 4% to 6%, topping Wall Street estimates",
+  "text": "<p>Analysts surveyed by FactSet on average had expected adjusted earnings of 82 cents a share on revenue of $12.73 billion. Shares gained more than 2% in after-hours trading immediately following the results, after closing with a</p><p>\"We had a strong end to our fiscal year thanks to our Q4 performance,\" Cisco Chief Executive Chuck Robbins said in a statement. \"Our teams executed well in the midst of an incredibly dynamic environment, resulting in the highest full year non-GAAP earnings per share in the history of the company.\"</p><p>Cisco'sprevious earnings report sparked concerns about business spending on technology, as the company's forecast missed expectations. At the time, executives focused more on supply-chain issues and effects from the Russian invasion of Ukraine as reasons for the miss, and fears of a widespread slowdown for purchases of networking gear have dissipated amid solid results from competitors like Arista Networks Inc. ANETand Juniper Networks Inc. JNPR</p><p>Wednesday's forecast was even more important, as it provided executives' expectations for the full new fiscal year, which began on Aug. 1. Cisco's forecast calls for adjusted earnings of $3.49 to $3.56 a share on revenue growth of 4% to 6%, after the previously fiscal year wrapped with adjusted earnings of $3.36 a share and sales of $51.56 billion. Analysts on average were projecting fiscal-year adjusted earnings of $3.53 a share on sales of $52.72 billion, which would reflect revenue growth of 2.2%.</p><p>For the fiscal first quarter, Cisco executives guided for 82 cents to 84 cents a share in adjusted profit and revenue growth of 2% to 4% in the fiscal first quarter. Analysts were forecasting adjusted earnings of 84 cents and a year-over-year revenue decline of roughly 3%, according to FactSet.</p><p>Cisco's stock is down 26% so far in 2022, while the Dow Jones Industrial Average DJIA, which counts Cisco as a component, has declined 6%. The broader S&amp;P 500 index SPX is off 10% this year.</p><p>Cisco earnings and revenue forecast quell fears of slowdown, send stock higher</p>",
+  "published": "2022-08-17T20:19:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 119,
+          "end": 124
+        },
+        {
+          "start": 297,
+          "end": 302
+        },
+        {
+          "start": 298,
+          "end": 303
+        },
+        {
+          "start": 523,
+          "end": 528
+        },
+        {
+          "start": 1110,
+          "end": 1115
+        },
+        {
+          "start": 1505,
+          "end": 1510
+        },
+        {
+          "start": 1769,
+          "end": 1774
+        },
+        {
+          "start": 1869,
+          "end": 1874
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

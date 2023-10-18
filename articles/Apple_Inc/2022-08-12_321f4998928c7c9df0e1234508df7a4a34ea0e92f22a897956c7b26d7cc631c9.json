@@ -1,0 +1,34 @@
+{
+  "_id": "321f4998928c7c9df0e1234508df7a4a34ea0e92f22a897956c7b26d7cc631c9",
+  "feed": "market-watch",
+  "title": "It's a Tom Jones rally but it may be overbought, say analysts; Critical information for the U.S. trading day",
+  "text": "<p>\"Obviously, a bear market rally, and a sustainable recovery are similar at the start. We must see consolidation to call the end of the year-to-date bear market,\" says Ipek Ozkardeskaya, senior analyst at Swissquote Bank.</p><p>The good news for bulls is that this is a Tom Jones rally, as in his famous song: \"It's not unusual.\"</p><p>Specifically, there is nothing superlative about the market's, notably the Nasdaq's, resurgence off its mid-June trough, suggests Bespoke Investment Group.</p><p>\"The 20% rally/decline threshold is the most commonly used to define bull and bear markets….The Nasdaq Composite reached the 20% rally level on a closing basis [on Wednesday], which ended the bear market for the index that began on November 19th, 2021,\" Bespoke writes in a note.</p><p>\"What is most striking about the just-ended Nasdaq bear market is just how average it was. From peak to trough, the Nasdaq fell 33.7% over 209 calendar days from November 19th, 2021 to June 16th, 2022. The average bear market since 1970 has seen the index fall 35.5% over 201 calendar days,\" Bespoke adds.</p><p>Technical factors, however, may be a red flag, at least in the short term. The 14-day relative strength index for S&amp;P 500 futures on Friday morning was just above 75, according to CMC Markets, signaling the underlying market is in overbought territory. Similarly, the RSI for Apple AAPL, the stock with largest S&amp;P 500 weighting, was 74.</p><p>Meanwhile, Nicholas Colas, co-founder of DataTrek Research, notes that the recent move lower in the CBOE Vix VIX to its long-run average of 20, normally a sign of calmer markets, has not been accompanied by the expected reduction in correlations between stock sectors.</p><p>High correlations between sectors such as large cap tech, communication services, consumer discretionary, financials, and health care are usually a sign of a stressed market.</p><p>\"The VIX close at 20 today is promising something stocks have not yet actually delivered, namely a healthy decoupling of sector price action from the overall market,\" says Colas.</p><p>\"We have had a standing recommendation all year to consider buying stocks when the VIX gets around 36 (2 standard deviations from the mean) and lighten up when it gets close to 20. We are at the latter point now. As much as we remain bullish, stocks look overextended here,\" he concludes.</p><p>Markets</p><p>S&amp;P 500 futures ES00 rose 0.5% to 4,233 and Nasdaq 100 futures NQ00 added 0.6% to 13,393. The dollar index DXY climbed 0.3% to 105.35 and the move pressured gold GC00, which fell 0.3% to $1,802 an ounce. U.S. crude oil futures CL.1 rose 0.2% to $94.57 a barrel and Bitcoin BTCUSD lost 0.3% to $24,131.</p><p>The buzz</p><p>A wave of Chinese companies, including PetroChina PTR, China Life Insurance LFC and Sinopec SHI have confirmed their intention to delist from the New York Stock Exchange,</p><p>Shares in Illumina ILMN are down 15% in premarket action after the gene-sequencing companyrevealed a second-quarter loss and revised down its full-year outlook in a report released after the closing bell on Thursday.</p><p>Fading inflation fears were highlighted by data from Bank of America, which showed the longest weekly streak of investor outflows from TIPS funds since April 2020.</p><p>The pound USDGBP is the major underperformer in forex, slipping 0.5% versus the buck, after data showed the U.K. economy contracted 0.1% in the second quarter.</p><p>The University of Michigan consumer sentiment survey is due for release at 10 a.m. Eastern.</p><p>The House of Representatives is due to vote on the Inflation Reduction Act, the legislation approved in the Senate that is focused on climate change and prescription drug prices and also raises corporate taxes.</p><p>President Donald Trump's legal team will have until 3 p.m. Eastern to object to the Justice Department's motion to release the search warrant.</p><p>Best of the web</p><p>In praise of boredom</p><p>China's busting housing bubble</p><p>A 950 basis point rate hike</p><p>Walgreens is offering $75,000 to recruit pharmacists</p><p>The chart</p><p>\"The state of the consumer balance sheet is a key consideration in determining the severity of any economic slowdown,\" says Mizuho Securities. On this, the news is pretty good. \"The bullish case for the state of the consumer is based on a major deleveraging in the consumer sector, so liabilities relative to disposable income are at 20-year low.\"</p><p>Top tickers</p><p>Here were the most active stock-market tickers on MarketWatch as of 6 a.m. Eastern. </p><p> Ticker   Security name  AMC      AMC Entertainment  GME      GameStop  TSLA     Tesla  BBBY     Bed Bath &amp; Beyond  NIO      Nio  AAPL     Apple  BABA     Alibaba  AMZN     Amazon  RIVN     Rivian  BNGO     Bionano Genomics</p><p>Random reads</p><p>Zoo police</p><p>Pope runs Ireland after pint of Guinness</p><p>Want to stay fresh? Don't think about it.</p><p>Need to Know starts early and is updated until the opening bell, but sign up here to get it delivered once to your email box. The emailed version will be sent out at about 7:30 a.m. Eastern.</p><p>It's a Tom Jones rally but it may be overbought, say analysts</p>",
+  "published": "2022-08-12T10:49:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 4468,
+          "end": 4473
+        },
+        {
+          "start": 1331,
+          "end": 1336
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290158,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 3.33786e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

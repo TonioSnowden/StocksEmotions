@@ -1,0 +1,30 @@
+{
+  "_id": "2cd0fce61473722a9a4a102c23f32393711783df72bd45601e67d43cf1e63738",
+  "feed": "wall-street-journal",
+  "title": "U.S. Obtains Warrant to Seize $45 Million Lukoil Plane; The Boeing 737, currently in Russia, was last in the U.S. on a trip ferrying oligarch Vagit Alekperov, according to the Justice Department",
+  "text": "<p>The department believes that the aircraft is currently in Russia. It last flew into the U.S. in March 2019, when it ferried Lukoil officials including oligarch Vagit Alekperov, then Lukoil's president, to Houston, the Justice Department said.</p><p>Mr. Alekperov resigned in April from his leadership role at Lukoil and from the company's board. The company didn't provide a reason for the departure. A representative for Lukoil didn't immediately respond to a request for comment Wednesday.</p><p>The U.S. imposed sweeping sanctions on Russia in response to its invasion of Ukraine in February, including controls that barred U.S.-made aircraft from being flown to Russia or Belarus without a special license.</p><p>The seizure action is being coordinated by the Justice Department's Task Force KleptoCapture, which was established to enforce the bevy of sanctions, economic controls and economic measures imposed on Russia in response to this year's invasion of Ukraine.</p><p>Earlier this month, U.S. officials obtained a warrant to seize an aircraft worth more than $90 million from blacklisted Russian oligarch Andrei Skoch.</p><p>Write to Richard Vanderford at richard.vanderford@wsj.com</p><p>U.S. Obtains Warrant to Seize $45 Million Lukoil Plane</p>",
+  "published": "2022-08-31T23:22:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 60,
+          "end": 66
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

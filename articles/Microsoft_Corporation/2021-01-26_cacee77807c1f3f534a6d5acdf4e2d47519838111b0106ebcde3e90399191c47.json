@@ -1,0 +1,20 @@
+{
+  "_id": "cacee77807c1f3f534a6d5acdf4e2d47519838111b0106ebcde3e90399191c47",
+  "feed": "ftcomall",
+  "title": "North Korea hackers use social media to target security researchers",
+  "text": "<p>Google has warned it has uncovered an “ongoing” state-backed hacking campaign run by North Korea targeting cyber security researchers.&#xa0;&#xa0;</p> <p>The Silicon Valley group said its threat analysis team found that cyber attackers posing as researchers had created numerous fake social media profiles on platforms such as Twitter and LinkedIn. To gain credibility, they also had set up a fake blog for which they would get unwitting targets to write guest posts about actual software bugs.&#xa0;</p> <p>After establishing communication with an actual researcher, the attackers would ask the target to work together on cyber vulnerability research and then share collaboration tools containing malicious code to install malware on the researcher's systems.</p> <p>In some cases, the attackers were able to create a backdoor to the victim's computer even when their systems were running fully patched and up-to-date Windows 10 and Chrome browser versions, Google said.&#xa0;</p> <p>The campaign would allow the hackers to glean insights into vulnerabilities the research community was studying to exploit them.&#xa0;</p> <p>Several researchers wrote on Twitter in the wake of the Google statement that they had been contacted by the hackers but had not been compromised.</p> <p>Google attributed the latest campaign to “a government-backed entity based in North Korea” — one of the biggest state sponsors of hacking alongside Russia, Iran and China.&#xa0;</p> <p>North Korea is also among the countries that have been accused of carrying out cyber attacks to steal coronavirus <a href=\"https://www.ft.com/content/534096ac-9044-4794-903f-03592d1fe874\">vaccine-related research</a> and data. The Wall Street Journal reported last year that Pyongyang had co-ordinated attacks on at least six vaccine developers including Johnson &amp; Johnson and Novavax in the US, the UK's AstraZeneca and several South Korean companies.&#xa0;</p> <p>According to analysts, North Korea's cyber army comprises thousands of expert hackers whose targets range from smaller-scale fraud and theft of cryptocurrencies to stealing nuclear secrets and weapons technology. </p> <p>Belying perceptions of the country as a technological backwater, its hackers have a record of major cyber disruptions including hacking Sony Pictures&#xa0;in 2014 and the WannaCry malware attack in 2017. In 2019 a UN sanctions report estimated that <a href=\"https://www.ft.com/content/cbb28ab8-8ce9-11e9-a24d-b42f641eca37\">$2bn had been raised</a> for Kim Jong Un's weapons programme via North Korean cyber actors.&#xa0;</p> <p>The latest campaign comes as cyber security companies have found themselves a particular target of hacking campaigns. </p> <p>In December, cyber security group <a href=\"https://www.ft.com/content/4edf14d8-e641-4566-bffc-273a5f1f4234\">FireEye</a> as well as Microsoft reported that they had been victims of a sprawling cyber espionage campaign run by Russian state hackers that also targeted a number of <a href=\"https://www.ft.com/content/edbad243-28ed-4133-98a0-1447a7213abf\">US federal agencies</a> and private sector groups. </p> <p><em>Additional reporting by Edward White in Seoul</em></p><p>Source: Hannah Murphy in San Francisco 2021 'North Korea hackers use social media to target security researchers' FT.com 26 January. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-01-26T06:07:49.486Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2472,
+          "end": 2481
+        }
+      ]
+    }
+  ]
+}

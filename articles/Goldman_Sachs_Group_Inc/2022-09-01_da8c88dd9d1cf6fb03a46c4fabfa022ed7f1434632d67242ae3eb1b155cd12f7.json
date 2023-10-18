@@ -1,0 +1,38 @@
+{
+  "_id": "da8c88dd9d1cf6fb03a46c4fabfa022ed7f1434632d67242ae3eb1b155cd12f7",
+  "feed": "wall-street-journal",
+  "title": "Brazil's Economy Continues Strong Expansion in Second Quarter; Many economists say they expect to raise forecasts for growth in the full year",
+  "text": "<p>Latin America's biggest economy has been surprisingly strong this year, helped by a mild wave of Covid-19 infections early in 2022, a strong labor market and, more recently, by some government-stimulus programs. Rapid, though moderating, inflation and higher interest rates are expected to slow growth in the rest of 2022.</p><p>\"We had expected a weaker second quarter, but we've seen more robust numbers and a significant and continuous expansion instead,\" said Claudio Ferraz, head economist for Brazil at the BTG Pactual investment bank. \"One of the sectors that has surprised positively has been services.\"</p><p>The strength shown by the economy in the second quarter, along with improved sentiment indicators and increased government-aid spending in the second half will push GDP growth in 2022 up to 2.9%, according to Alberto Ramos, an economist at Goldman Sachs. The bank's previous growth forecast was for expansion of 2.2%, he said in a research note.</p><p>Brazil's services sector, which represents about 70% of the economy, grew by 1.3% in the second quarter from the first, and by 4.5% from a year earlier, the IBGE said Thursday. Agriculture increased 0.5% from the previous quarter and contracted 2.5% from a year earlier, while industry expanded 2.2% in the quarter and 1.9% from a year earlier, while</p><p>\"There was growth in all subsectors of industry,\" said Rebeca Palis, the IBGE's coordinator for the GDP series. \"One of them is civil construction, which has been facing problems for years and was greatly affected by the pandemic, but has been recovering for a few quarters.\"</p><p>Consumer spending grew 2.6% in the quarter and 5.3% from the year-earlier quarter, while government spending shrank 0.9% from the first quarter and grew 0.7% from a year earlier. Gross fixed capital formation, a measure of investment, grew 4.8% in the quarter and expanded 1.5% year-on-year, the agency said.</p><p>\"For services, we still have support from the government-stimulus programs and the labor market is also helping,\" according to Flavio Serrano, chief economist at Greenbay Investimentos. \"One thing is pushing the other. The service sector is going well, and it's labor intensive. That generates new jobs, which boosts income, and that increases demand for services.\"</p><p>Brazil's unemployment rate fell to a more than six-year low of 9.1% in the three months through July, the IBGE said Wednesday morning, down from the pandemic-driven high of 14.9% in Sept., 2020. Logistics issues related to the pandemic, along with the impact of the Russian invasion of Ukraine, helped drive the pace of consumer price increases to an almost 19-year high of 12.13% in April, though the inflation rate has since declined, to 10.07% in July.</p><p>The Central Bank of Brazil has responded to higher prices by raising its benchmark interest rate, known as the Selic, which went from a record low of 2% in early 2021 to 13.75% at the bank's most recent monetary policy meeting at the start of August. The bank said at the last meeting that it might raise rates again at the next meeting, on Sept. 21.</p><p>Brazil will hold presidential elections in October, with former President Luiz Inácio Lula da Silva, popularly known as Lula, leading current President Jair Bolsonaro in polls since the start of the year. The outcome of the elections, as well as announcements about the new government's economic policies, could influence the timing of eventual cuts to the Selic, according to BTG's Mr. Ferraz.</p><p>\"There could be pleasant surprises about spending and other areas,\" which could allow the central bank to move up the start of rate cuts, he said, adding he expects the Selic to end this year at its current level. \"But a lack of commitment to fiscal control, among other things, could validate that there might only be cuts much later.\"</p><p>Write to Jeffrey T. Lewis at jeffrey.lewis@wsj.com</p>",
+  "published": "2022-09-01T14:40:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 846,
+          "end": 859
+        },
+        {
+          "start": 846,
+          "end": 853
+        },
+        {
+          "start": 842,
+          "end": 855
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0004406,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00044071674,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

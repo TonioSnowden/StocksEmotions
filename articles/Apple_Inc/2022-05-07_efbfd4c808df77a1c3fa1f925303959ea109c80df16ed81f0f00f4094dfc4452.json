@@ -1,0 +1,68 @@
+{
+  "_id": "efbfd4c808df77a1c3fa1f925303959ea109c80df16ed81f0f00f4094dfc4452",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  The Phantom Alerts Sending  iPhone Users on Wild Goose Chases  ---  Apple alerts users when an unknown AirTag is 'near you.' When those people don't  appear to be in the path of any rogue tracker, confusion and concern follow.  ----  By Dalvin Brown",
+  "text": "<p>   Apple Inc. has overshot its efforts to notify people when they're being followed by unknown AirTags: The company has been alerting even when someone isn't likely being tracked at all. </p><p>   Apple created its $29 quarter-size Bluetooth device to help people keep track of their keys and other personal items, but they're also being used to track people -- sometimes without permission. </p><p>   In response to unwanted AirTag tracking, Apple designed a system to notify iPhone users if they were being followed by someone else's AirTag. Your iPhone detects if the unknown AirTag is moving along with you, and, if so, an alert provides a map of the simultaneous paths. Then, you can trigger the errant AirTag's internal alarm to audibly pinpoint it. </p><p>   These notifications can be helpful and could even prevent a dangerous situation. But in recent weeks, some iPhone users have begun receiving alerts, often in the middle of the night, for AirTags that might not be in their path at all. The pop-up alerts have sparked confusion and concern, and have led recipients on wild goose chases. </p><p>   The maps on phantom AirTag alerts share a similar pattern: straight red lines radiating out from the user's location. If an AirTag were in motion (perhaps flying?) along these paths, it would be crossing in the middle of city streets, passing through construction zones, even penetrating walls. </p><p>   When the maps in these particular notifications are viewed side by side -- or compared with clearer examples of AirTag stalking -- they appear to be the result of a bug. But it can be alarming for an individual to receive this unexplained alert. </p><p>   The scope of the rogue AirTag alert issue isn't clear, though accounts have popped up on Twitter, Reddit, Facebook and elsewhere. </p><p>   An Apple spokesman said that such alerts could have resulted from an iPhone receiving area Wi-Fi signals that temporarily confused its location services. A potential fix would be to go to Settings &gt; Privacy &gt; Location Services, and toggle the switch off and on while Wi-Fi is enabled on the iPhone. He also said that in more densely populated areas, AirTags owned by others nearby could inadvertently trigger unwanted alerts. </p><p>   Ryan McClain, a 25-year-old marketer in Indianapolis, discovered a safety alert on his iPhone when he woke up one day in early April. </p><p>   \"It was a shock to my morning,\" he said. \"I thought, 'Who would want to stalk me? Who would want to hurt me?'\" He searched fruitlessly for the AirTag, had a mechanic check under his car and asked his neighbors if they owned one. They didn't. </p><p>   Mr. McClain said he and his fiancee spent the next day on edge, hoping the alert was the result of a glitch. </p><p>   Marcus Geisler experienced a similar alert. \"The AirTag's pattern of movement on the map looked super weird,\" said the 45-year-old Toronto-based consumer researcher. \"I thought maybe my neighbor's dog accidentally swallowed it,\" Mr. Geisler said. He looked all over but never found an AirTag. </p><p>   \"It was scary,\" said Natalia Garcia, a 24-year-old nonprofit worker who got an iPhone alert after a night out in downtown Chicago. \"I checked my purse, looked all around to make sure no one put an AirTag on me,\" she said. </p><p>   When she tried to make the supposed tracker emit its alarm sound, the Find My app said \"AirTag Not Reachable.\" </p><p>   Apple introduced AirTags in April 2021. The devices rely on nearby Apple products to relay their locations to the company's Find My network. If you attach an AirTag to your keys, you can check Apple's Find My app to track them down. If you have an iPhone 11 or later model, you can pinpoint your AirTag's location down to the centimeter. </p><p>   But because they are cheap and easy to use, AirTags became a tool to surreptitiously track others. Police departments throughout the country said they received reports of alleged AirTag stalking. In some cases, people found AirTags they didn't own on their cars or in their purses. </p><p>   In February, Apple published a safety guide for AirTags and said it was working on more ways for people to protect themselves against unwanted AirTag tracking. AirTag detection is turned on by default in Apple's Find My app. And last week, Apple began updating AirTag software to make the devices' speakers emit a louder chime when lost or triggered in an alert for an unknown AirTag. </p><p>   While phantom tracker alerts might be a nuisance, you probably shouldn't disable AirTag detection altogether. </p><p>   \"Getting false alarms with technology is a common occurrence,\" said John DeCarlo, director of the master's program in criminal justice at the University of New Haven and a former Branford, Conn., police chief. \"If you turn the notifications off, it leaves you without the benefits.\" </p><p></p>",
+  "published": "2022-05-07T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3343,
+          "end": 3348
+        },
+        {
+          "start": 420,
+          "end": 425
+        },
+        {
+          "start": 184,
+          "end": 189
+        },
+        {
+          "start": 1742,
+          "end": 1747
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 3276,
+          "end": 3281
+        },
+        {
+          "start": 4100,
+          "end": 4105
+        },
+        {
+          "start": 3469,
+          "end": 3474
+        },
+        {
+          "start": 78,
+          "end": 83
+        },
+        {
+          "start": 4136,
+          "end": 4141
+        },
+        {
+          "start": 3909,
+          "end": 3914
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ]
+    }
+  ]
+}

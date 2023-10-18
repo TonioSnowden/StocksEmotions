@@ -1,0 +1,32 @@
+{
+  "_id": "a25c4620a40c76f3d2571d38ad2a65ae5b949390a93b5b2247364b843dbb70d5",
+  "feed": "wall-street-journal",
+  "title": "United Nears Deal For Dreamliners",
+  "text": "<p>Boeing has resumed deliveries of the Dreamliner after a nearly two-year freeze following a string of manufacturing and regulatory issues.</p><p>Airbus has been dominating the market for smaller, narrow-body aircraft with its A320 family and expanding its lead over the rival 737 MAX since the latter's previous grounding following two fatal crashes of that jet in 2018 and 2019. But Boeing has retained a larger share of the market for wide-body jets, which hold more passengers and are generally used for long-haul international routes.</p><p>Dreamliners are popular among airlines for their fuel-efficiency and ability to make new direct routes profitable, bypassing the need to connect cities via a central hub. Each carries a list price of about $300 million before typical discounts, according to Boeing's latest publicly available list prices.</p><p>United, Boeing and Airbus declined to comment. Deals for new aircraft can fall apart even in their later stages.</p>",
+  "published": "2022-12-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 377,
+          "end": 383
+        },
+        {
+          "start": 790,
+          "end": 796
+        },
+        {
+          "start": 846,
+          "end": 852
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "926a7d3d291e2b907307002571bff2cddf736cbe83435b042162a49f5901e2ee",
+  "feed": "market-watch",
+  "title": "Netflix may have a familiar price in mind for its ad-supported streaming service; Netflix executives want commercials to start rolling out this year on a service that costs $7 to $9 a month, and right in the middle is the same price that Netflix charged for the streaming service when it began",
+  "text": "<p>Hastings established the $7.99 monthly price point for streaming when he split Netflix's service from its DVD-by-mail offering and began charging for both in 2011. The change caused an uproar among customers, who effectively saw their price double if they wanted to keep both services, which at the time were highly integrated.</p><p>The move proved prescient — Netflix attracted more than 220 million streaming subscribers as the DVD business tailed off to fewer than 1.2 million subscribers at last count. Streaming growth has stalled, though, after an early-pandemic boom receded into a wave of rival streaming services and price increases, and Netflix executives want a cheaper offering for price-conscious consumers while cracking down on account sharing.</p><p>Netflix's ad-supported service will compete with an ad-supported version of Disney+, which is scheduled to launch for $7.99 a month on Dec. 8. It would be a bigger price cut for Netflix, though, as its most popular service costs $15.49 in the U.S., while Disney will charge $10.99 to stream Disney+ without ads (Hulu will cost $14.99 a month without ads).</p><p>Microsoft Corp. MSFT has signed a deal to provide advertising services for Netflix, and the Bloomberg report said executives were aiming to show 4 minutes of advertisements per hour of streaming, before and within shows. They do not plan to advertise during children's programming or within the service's original movies, according to the report, which cites people familiar with the company's plans.</p><p>Netflix stock has fallen 62.9% so far this year, as the S&amp;P 500 index SPXhas declined 14.9%.</p><p>Netflix may have a familiar price in mind for its ad-supported streaming service</p>",
+  "published": "2022-08-27T00:20:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1105,
+          "end": 1119
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000318,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 3.182888e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

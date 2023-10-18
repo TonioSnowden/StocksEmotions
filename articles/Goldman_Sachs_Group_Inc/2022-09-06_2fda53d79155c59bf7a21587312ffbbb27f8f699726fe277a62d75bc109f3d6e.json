@@ -1,0 +1,50 @@
+{
+  "_id": "2fda53d79155c59bf7a21587312ffbbb27f8f699726fe277a62d75bc109f3d6e",
+  "feed": "market-watch",
+  "title": "The U.S. is on track for a soft landing, Goldman Sachs chief economist says",
+  "text": "<p>\"Since the FOMC started hiking the funds rate early this year, we have argued that the U.S. economy can achieve a soft landing, even though the path is narrow. It requires sustained below-trend output growth, a rebalancing of the labor market via sharply lower job openings coupled with a moderate rise in unemployment, and a large decline in inflation. While much can still go wrong and our probability that a (mild) recession will start in the next year remains about one in three, we see some encouraging signs that the economy is moving toward all three of these goals,\" he said in a note to clients.</p><p>The growth adjustment, Hatzius says, is furthest along. The slowdown initially came on reduced fiscal support and much higher food and energy prices, and now the rise in mortgage rates has dealt the housing market a blow.</p><p>The labor market also is adjusting. The labor force participation rate in August picked up to offset the declines of the prior few months, while payroll growth is starting to slow, and job openings have moved lower.</p><p>Hatzius says there's also encouraging news on inflation. \"Sharply lower commodity prices, a stronger dollar, and large improvements in supply-chain disruptions all suggest that goods price inflation will continue to abate,\" he said. Services inflation will take longer to moderate, but even there, a recent deceleration in the asking price for rents should show up in the next several months.</p><p>He said the recent decline in risk assets has improved the near-term risk outlook, although a large rally could run into the same constraints as early rebounds. \"For the most part, our strategists thus still expect markets to remain rangebound,\" he said.</p><p>The U.S. is on track for a soft landing, Goldman Sachs chief economist says</p>",
+  "published": "2022-09-06T11:32:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 41,
+          "end": 48
+        },
+        {
+          "start": 41,
+          "end": 54
+        },
+        {
+          "start": 1732,
+          "end": 1739
+        },
+        {
+          "start": 1732,
+          "end": 1745
+        },
+        {
+          "start": 1733,
+          "end": 1740
+        },
+        {
+          "start": 1733,
+          "end": 1746
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.7978244,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.79782426,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

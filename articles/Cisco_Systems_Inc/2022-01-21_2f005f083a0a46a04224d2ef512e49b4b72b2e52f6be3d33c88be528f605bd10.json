@@ -1,0 +1,28 @@
+{
+  "_id": "2f005f083a0a46a04224d2ef512e49b4b72b2e52f6be3d33c88be528f605bd10",
+  "feed": "wall-street-journal",
+  "title": "World News: Web Hack Fuels Fear In Kyiv of Invasion",
+  "text": "<p>Russia has denied any involvement in the cyberattacks.</p><p>The attack was at least several weeks in the making, and perhaps more, experts said. Mr. Zhora said the first signs of a hack date back to late 2021. Data from Cisco Systems shows the software was present in some networks even earlier. Cisco initially traced the intrusion to November, but on Thursday, the company said new data analysis indicated it may have begun in late summer, said Matthew Olney, Cisco's director of threat intelligence and interdiction.</p><p>The discovery of the wiper software, dubbed WhisperGate by Microsoft Corp., is \"particularly alarming,\" because previous outbreaks of this type of software have caused world-wide disruptions, the U.S. Cybersecurity and Infrastructure Security Agency warned on Tuesday.</p><p>Some security researchers worry the attacks might presage a larger operation, but so far, the hacks are notable for how limited they appear, and amount to a fraction of the damage -- or sophistication -- Western officials believe Moscow is capable of inflicting on Ukraine.</p><p>President Biden said Russian President Vladimir Putin may opt for \"something significantly short of a significant invasion\" during a press conference on Wednesday, and he cited cyberattacks as an example of a \"minor incursion\" that might not prompt as strong of a response from the U.S. and its allies.</p><p>After the press conference, White House press secretary Jen Psaki said Mr. Biden \"knows from long experience that the Russians have an extensive playbook of aggression short of military action, including cyberattacks and paramilitary tactics. And he affirmed today that those acts of Russian aggression will be met with a decisive, reciprocal, and united response.\"</p><p>A spokesman with the Russian Embassy in Washington didn't return messages seeking comment.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-01-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 215,
+          "end": 228
+        },
+        {
+          "start": 457,
+          "end": 462
+        },
+        {
+          "start": 291,
+          "end": 296
+        }
+      ],
+      "nexusId": "10013206"
+    }
+  ]
+}

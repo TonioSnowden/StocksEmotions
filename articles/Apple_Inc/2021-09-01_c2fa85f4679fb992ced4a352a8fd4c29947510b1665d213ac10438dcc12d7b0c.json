@@ -1,0 +1,28 @@
+{
+  "_id": "c2fa85f4679fb992ced4a352a8fd4c29947510b1665d213ac10438dcc12d7b0c",
+  "feed": "wall-street-journal",
+  "title": "Business News: Google Postpones Return to Office",
+  "text": "<p>\"The road ahead may be a little longer and bumpier than we hoped, yet I remain optimistic that we will get through it together,\" Alphabet Chief Executive Sundar Pichai said in a note to staff.</p><p>The delay comes a month after Google pushed its return to the office to October from September because of the highly infectious Delta variant. Earlier in August, its Silicon Valley peer, Apple Inc., delayed its back-to-work plans for staff until at least January.</p><p>In late July, Google said it would require employees at its U.S. campuses be vaccinated before they return. Mr. Pichai said it was \"one of the most important ways to keep ourselves and our communities healthy in the months ahead.\"</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 380,
+          "end": 390
+        },
+        {
+          "start": 380,
+          "end": 385
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

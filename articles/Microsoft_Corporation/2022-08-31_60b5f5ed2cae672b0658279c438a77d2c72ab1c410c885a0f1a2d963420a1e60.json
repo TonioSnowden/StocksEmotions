@@ -1,0 +1,34 @@
+{
+  "_id": "60b5f5ed2cae672b0658279c438a77d2c72ab1c410c885a0f1a2d963420a1e60",
+  "feed": "wall-street-journal",
+  "title": "Netflix Seeking Top Dollar for Brands to Advertise on Its Service; Streaming giant aims for Nov. 1 launch of ad-supported tier, ad buyers say",
+  "text": "<p>That is substantially higher than most other streaming platforms, the buyers said.</p><p>Netflix has been racing to get a lower-price, ad-supported tier off the ground as it looks for new ways to generate revenue and attract more cost-conscious users. Since announcing its openness to advertising in April—a significant change for a company that has long sold itself as a commercial-free haven—Netflix has made multiple moves, including choosing Microsoft to help launch the service and hiring two Snap Inc. executives to lead its advertising push.</p><p>Some of the ad buyers said they were told by Netflix that an ad-supported version would be launched on Nov. 1. In July, Netflix said it was targeting an early 2023 launch for the new tier.</p><p>Netflix wants to cap the amount any brand can spend annually on its platform at $20 million, in order to ensure that no brand advertises too much on the service and people end up seeing the same ad too often, some of the buyers said.</p><p>\"We are still in the early days of deciding how to launch a lower-priced, ad-supported tier,\" Netflix said in a statement. \"No decisions have been made.\"</p><p>The ad buyers said they were surprised Netflix would seek such a steep price for ads on an untested platform. However, they said, it isn't unusual for new entrants in the streaming space to seek high prices and then later negotiate them lower.</p><p>Since last week's meetings with ad buyers, Netflix has appointed two new people to lead its ad effort: Jeremi Gorman and Peter Naylor, both of whom previously worked at Snap Inc. and whose appointments were announced Tuesday. Both are highly regarded on Madison Avenue and are likely going to bring other ideas to the continuing negotiations.</p><p>Netflix expects to eventually be able to charge advertisers about $80 for every 1,000 views of an ad by helping them target specific audience segments, The Wall Street Journal previously reported.</p><p>For years, brands had bemoaned not being able to appear on the biggest streaming services such as Netflix, where consumers—especially younger people—were increasingly migrating as interest in traditional TV waned. More streaming services are starting to embrace ads: Warner Bros. Discovery Inc.'s HBO Max is offering a plan with commercials, and Walt Disney Co.'s Disney+ is launching an ad-supported version of its service this year.</p><p>Initially, Netflix plans to sell 15- and 30-second ads that would appear before and during some programs, ad buyers said. The company is looking to keep the ad load to four minutes of ads for every hour of programming—less than some of the other streaming services and much less than traditional TV, the ad buyers said. Ad loads on traditional TV are usually between 18 minutes and 23 minutes an hour, according to Kantar, a research firm.</p><p>Bloomberg News previously reported some details about Netflix's ad business, including when in the program and at which frequency the company planned for ads to appear. It also reported Netflix planned to introduce its ad-supported platform in select markets during the final quarter of the year.</p><p>Netflix wants brands to commit to a year-long upfront ad buy—much the way traditional TV networks have operated for decades—by late September, the buyers said.</p><p>Ad buyers said Netflix is offering advertisers the ability to target specific sets of users, but said it is less granular than what they have grown accustomed to with online ads. The options Netflix is offering include targeting people that are watching Netflix's top 10 shows in the U.S.; allowing brands to target people that are watching a specific genre of show such as comedy or drama; or the ability to target ads to a specific country, they said.</p><p>Advertisers and ad buyers had also hoped they would come up with an entirely new ad experience and not lean on the typical way ads have worked online for decades. Some wanted Netflix to pursue less-traditional options, from product placement to running ads that tie into the show's content by using the same actors, the Journal previously reported.</p><p>Write to Suzanne Vranica at suzanne.vranica@wsj.com</p><p>Netflix Seeking Top Dollar for Brands to Advertise on Its Service</p>",
+  "published": "2022-08-31T21:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 440,
+          "end": 449
+        },
+        {
+          "start": 438,
+          "end": 447
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7394909,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.024740815,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

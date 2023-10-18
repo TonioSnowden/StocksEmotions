@@ -1,0 +1,58 @@
+{
+  "_id": "89c9ba83550551dd5e288164ae1ebff70847ac17688f32345c22626cb7bc9b12",
+  "feed": "wall-street-journal",
+  "title": "Apple Sends Invites for Sept. 7 Event, New iPhones Expected; Tech giant typically uses its September events to unveil new iPhone models",
+  "text": "<p>\"Far out,\" the company wrote in the invitation. As is typical for these Apple announcements, details were sparse.</p><p>Since 2013, Apple has typically rolled out new iPhone models in September, although it was delayed until October in 2020 due to pandemic-related production challenges. Last year, the company unveiled the iPhone 13 and iPhone 13 Pro, as well as the Apple Watch Series 7, a new iPad Mini and iPad.</p><p>This year's event is scheduled at an earlier date than previous iPhone presentations in September, and some analysts have said this would allow the company to capture more sales in the July-to-September quarter. Apple reported an 11% decline in profit from April to June compared with a year earlier, althoughiPhone sales remained resilient despite economic challenges.</p><p>Other hardware and smartphone companies have seen sales slip this year as consumers reduce spending in the face of high inflation and other economic challenges.</p><p>Apple Chief Executive Tim Cook said in July that the company isn't seeing evidence in its data of a macroeconomic effect on iPhone sales.</p><p>For the iPhone 14 line, analysts are expecting upgrades related to battery life and processing capabilities, and the company may also upgrade the Apple Watch.</p><p>The iPhone 12 model released in 2020 was the first from Apple to include 5G, which improves internet connectivity. This year's phones could add that capability in more places around the world, Monness Crespi Hardt analyst Brian White said last month.</p><p>In 2020 and 2021, Apple held virtual events and streamed presentations on new products, but the company recently returned to an in-person presentation in June. That event, the company's Worldwide Developers Conference, also had prerecorded presentations.</p><p>Write to Talal Ansari at talal.ansari@wsj.com</p><p>Apple Sends Invites for Sept. 7 Event, New iPhones Expected</p>",
+  "published": "2022-08-24T17:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 71,
+          "end": 76
+        },
+        {
+          "start": 72,
+          "end": 77
+        },
+        {
+          "start": 124,
+          "end": 129
+        },
+        {
+          "start": 617,
+          "end": 622
+        },
+        {
+          "start": 934,
+          "end": 939
+        },
+        {
+          "start": 1285,
+          "end": 1290
+        },
+        {
+          "start": 1496,
+          "end": 1501
+        }
+      ],
+      "weightsV2": {
+        "weight": 18.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 5.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

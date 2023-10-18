@@ -1,0 +1,24 @@
+{
+  "_id": "2a7f3e4c2609a9af945ae595dbc11e4342c7bce60648f205808cf567993a5139",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Apple said it would allow music, video and other media apps to create in-app links to sign-up pages on those companies' websites.</p><p>Apple is working on new health-related features for its smartwatch.</p><p>---</p><p>States that ended enhanced federal unemployment benefits early have so far seen about the same job growth as states that continued offering the pandemic-related extra aid.</p><p>---</p><p>The SEC has opened an investigation into electric delivery-truck maker Workhorse, which was an early investor in now-struggling startup Lordstown Motors .</p><p>---</p><p>OPEC and a group of Russia-led producers said they agreed to continue increasing oil production in measured steps.</p><p>---</p><p>The Nasdaq rose 0.3% to close at a record, while the S&amp;P 500 edged up 0.03%. The Dow slipped 0.1%.</p><p>---</p><p>The SEC sued BitConnect and its founder, alleging a $2 billion fraud that misused bitcoin raised from investors world-wide.</p><p>---</p><p>Amazon said it is seeking to hire about 55,000 people globally for corporate and tech roles during a recruiting event set for Sept. 15.</p>",
+  "published": "2021-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 130,
+          "end": 135
+        }
+      ]
+    }
+  ]
+}

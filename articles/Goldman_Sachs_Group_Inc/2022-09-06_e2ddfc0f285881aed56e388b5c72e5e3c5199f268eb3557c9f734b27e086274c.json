@@ -1,0 +1,106 @@
+{
+  "_id": "e2ddfc0f285881aed56e388b5c72e5e3c5199f268eb3557c9f734b27e086274c",
+  "feed": "market-watch",
+  "title": "Goldman draws two downgrades amid investment banking jitters after share price gains; CFRA, Odeon cut ratings on Goldman Sachs after the shares rise 18% from mid-July lows",
+  "text": "<p>Both analysts cited weakness in the investment banking business, with the spigot mostly closed on capital-raising deals and initial public offerings.</p><p>Also Read: Merger Monday brings fresh hope to investment bankers facing talk of head count reductions</p><p>Shares of Goldman fell 1.8% on Tuesday, while the Dow Jones Industrial Average DJIA dipped 0.6%. Goldman and JPMorgan Chase &amp; Co. JPM are both components of the 30-stock index</p><p>The bearish calls on Goldman Sachs GS come after the stock rose about 18% from its lows in mid-July, although the share price remains in the red for 2022. The stock is now trading at about $326 a share after rising from below $282 in mid-July.</p><p>\"We do not see positive catalysts ahead,\" said CFRA analyst Kenneth Leon.</p><p>Leon remains less confident that the investment banking business will rebound in the fourth quarter, despite an active deal pipeline. Equity underwriting has declined 65% this year, with no signs of improvement and new debt issuance has also fallen off, he noted.</p><p>\"CEO confidence has declined and is a lead indicator to gauge forward M&amp;A and capital raising, as 2023 is expected to see a weakening global economy,\" Leon said.</p><p>He cut his target price for Goldman Sachs to $355 a share from $370 a share and reduced his 2022 profit target to $34.65 a share, from $37.00 a share, compared to the Wall Street consensus outlook of $34.81 a share.</p><p>On the plus side, Goldman may see positive gains in equity and fixed income trading amid market volatility, Leon said.</p><p>Odeon Capital analyst Richard Bove said weak investment banking revenue is hanging over big banks as he cut his ratings for Goldman Sachs and Morgan Stanley MS to sell from hold. He also reduced his rating on Citigroup Inc. C to hold from buy.</p><p>\"These companies are facing severe problems as business dries up,\" Bove said. \"Moreover, moves by the Federal Reserve to shrink its balance sheet suggests that the current tough times will extend through 2023.\"</p><p>Every major investment banking business is down except for investment grade bonds and businesses with the highest profit margins are down the most, he said.</p><p>Comparing numbers from July and August to year-earlier levels, U.S. high yield issuance is down 81% and deal-making in Asia excluding Japan is down 51%; U.S. leveraged loans are off by 71% and EMEA leveraged loans are down 65%.</p><p>At last check, Goldman shares are down 15.1% for 2022, compared to an 18.1% loss by the S&amp;P 500 SPX, a 14.3% drop by the Dow Jones Industrial Average DJIA and a loss of 16.4% by the Financial Select SPDR ETF XLF.</p><p>Goldman draws two downgrades amid investment banking jitters after share price gains</p>",
+  "published": "2022-09-06T18:22:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 113,
+          "end": 120
+        },
+        {
+          "start": 113,
+          "end": 126
+        },
+        {
+          "start": 261,
+          "end": 268
+        },
+        {
+          "start": 262,
+          "end": 269
+        },
+        {
+          "start": 347,
+          "end": 354
+        },
+        {
+          "start": 349,
+          "end": 356
+        },
+        {
+          "start": 449,
+          "end": 456
+        },
+        {
+          "start": 449,
+          "end": 462
+        },
+        {
+          "start": 1192,
+          "end": 1205
+        },
+        {
+          "start": 1200,
+          "end": 1207
+        },
+        {
+          "start": 1200,
+          "end": 1213
+        },
+        {
+          "start": 1397,
+          "end": 1404
+        },
+        {
+          "start": 1406,
+          "end": 1413
+        },
+        {
+          "start": 1621,
+          "end": 1634
+        },
+        {
+          "start": 1631,
+          "end": 1638
+        },
+        {
+          "start": 1631,
+          "end": 1644
+        },
+        {
+          "start": 2346,
+          "end": 2353
+        },
+        {
+          "start": 2362,
+          "end": 2369
+        },
+        {
+          "start": 2560,
+          "end": 2567
+        }
+      ],
+      "weightsV2": {
+        "weight": 21.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "c01e3fc5c57de15b9746a1c9e2d85c78ef2ab1f2ab6a9719440ad0ca901e1d01",
+  "feed": "wall-street-journal",
+  "title": "Market Rout Shows Dangers of Margin Lending, Crypto Style; A borrower is trapped as Celsius Networks suspends transactions",
+  "text": "<p>In July, Celsius filed for bankruptcy protection.</p><p>With transactions still suspended, Mr. Erlikh said he couldn't close out the loan or post additional collateral as instructed. He said his repeated calls and emails to the company have gone unanswered. Celsius hasn't liquidated his account, which now shows a $20,000 balance, but he can't use it either.</p><p>\"For me to pay them $10,000 to get back my collateral makes no sense if I could just pay back the loan itself,\" said Mr. Erlikh, who co-hosts a talk show called \"Crypto Junkeez\" on crypto investing.</p><p>Celsius said it isn't seeking court approval to allow customer withdrawals at this time, meaning accounts will stay frozen as the lender restructures in bankruptcy and addresses customer claims through the chapter 11 process. On July 18, Mr. Erlikh received an email from Celsius informing him the company had paused margin calls and liquidations, and directing him to an independent firm to file a claim on his funds.</p><p>Margin loans are one of the most common sources of the borrowed money, or leverage, that underlies the zigs and zags of financial markets. During the current winter for crypto firms and their investors, leverage is exposing crypto lenders' risk-management failures and exposing many of their customers to significant losses and stressful uncertainty.</p><p>Crypto investors have endured steep selloffs before, but the market is much bigger now, said Hassan Bassiri, a portfolio manager at Arca Funds.</p><p>\"There's more dollars at risk and more players,\" Mr. Bassiri said. \"Levered losses are going to be painful.\"</p><p>Trading on margin is a longstanding, if risky, practice in which investors borrow from their brokers to amplify their bets. When the value of the investor's collateral on the loan drops below a predetermined level, the broker can either ask for more or have the investor pay off the loan.</p><p>Market crashes and financial crises have taught traditional banks and brokers painful lessons on how to navigate the fraught decisions that often accompany calling margin loans. Liquidating an account can not only end the broker's relationship with that client, but it can tip the counterparty into insolvency. Contracts are precise, as are the lender's rights to seize collateral.</p><p>In crypto, the legal and regulatory structures are far less developed. It isn't always clear what a crypto lender can do with a counterparty's collateral once it moves to liquidate. Lenders and the investment firms that borrow from them tend to have a much less-complete picture of each others' finances than, say, a big bank like Goldman Sachs Group Inc. and its hedge-fund clients, said Richard Lee, a partner at Crowell &amp; Moring LLP.</p><p>\"All of those things are clear and battle-tested,\" Mr. Lee said of margin trading at traditional financial firms. \"From what I've seen in the crypto space, people are still trying to sort that out.\"</p><p>There are no regulators to impose limits on how much leverage crypto lenders and brokers can extend to clients, he said. \"People are still learning what the right amount of margin should be for each cryptocurrency,\" he said.</p><p>Margin calls can play out differently depending on the lender. In one corner of the crypto market, decentralized finance platforms, terms are set in transparent smart contracts, most loans are overcollateralized and liquidations are automated.</p><p>But on centralized crypto-lending platforms, the required collateral and even the timing of a potential margin call in some cases are negotiable.</p><p>\"Centralized exchanges and lending desks represent the vast majority of liquidations versus decentralized protocols,\" says Jack Neureuter, a research analyst at Fidelity Investments's crypto unit, Fidelity Digital Assets.</p><p>SHARE YOUR THOUGHTS</p><p>How are you approaching the crypto market right now? Join the conversation below.</p><p>In June, crypto broker Voyager Digital Ltd. said the hedge-fund firm Three Arrows Capital Ltd. defaulted on $675 million in loans. Three Arrows had suffered heavy losses on its crypto bets, including the collapsed cryptocurrency Luna, and couldn't repay Voyager.</p><p>Three Arrows' troubles rippled through the crypto world. Voyager filed for bankruptcy earlier this month. That same day, the chief executive of another crypto broker, Genesis Trading, confirmed Three Arrows had also failed to meet its margin call. Genesis's Michael Moro said it had sold Three Arrows' collateral. A British Virgin Islands court ordered Three Arrows to liquidate. The fund still owes Genesis $1.2 billion, according to court filings.</p><p>Three Arrows also has an outstanding loan from Celsius for $40.6 million, according to court filings. Celsius owes users $4.7 billion in deposits, according to filings.</p><p>BlockFi Inc. CEO Zac Prince said the company had liquidated its over-collateralized loan to Three Arrows but had incurred an $80 million loss from the hedge-fund's collapse.</p><p>Those losses, and the high-profile failures that have followed, are likely to harden the industry in ways past crises had for traditional financial firms, crypto traders said.</p><p>\"It is a tale as old as time,\" said Alex Thorn, head of firmwide research at Galaxy Digital Holdings, the crypto merchant bank. \"It was exacerbated by the novelty of the asset types, and there were a lot of people that got in front of their skis in a wild bull market.\"</p><p>Write to Justin Baer at justin.baer@wsj.com and Orla McCaffrey at orla.mccaffrey@wsj.com</p><p>Market Rout Shows Dangers of Margin Lending, Crypto Style</p>",
+  "published": "2022-07-20T16:28:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2578,
+          "end": 2602
+        },
+        {
+          "start": 2559,
+          "end": 2582
+        },
+        {
+          "start": 2578,
+          "end": 2585
+        },
+        {
+          "start": 2578,
+          "end": 2591
+        }
+      ]
+    }
+  ]
+}

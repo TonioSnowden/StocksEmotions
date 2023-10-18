@@ -1,0 +1,34 @@
+{
+  "_id": "adcd5077ec017465e938e315e1c2ade2546703db6dd8ad635cc110182f5b00bf",
+  "feed": "wall-street-journal",
+  "title": "CVS Wagers $8 Billion  On Home Healthcare  ----  By Sharon Terlep",
+  "text": "<p>   CVS Health Corp. is betting $8 billion that the house call is the future of healthcare. </p><p>   The drugstore giant's deal to acquire home-healthcare company Signify Health Inc., announced Monday, will add 10,000 contracted doctors and clinicians and give CVS a hand in coordinating medical care for millions of Americans. </p><p>   CVS, the nation's biggest healthcare company by revenue, said that it agreed to acquire Signify for $30.50 a share in an all-cash deal, confirming earlier Wall Street Journal reports. CVS said it expects the deal, finalized over the weekend after a sales process that drew interest from companies from Amazon.com Inc. to UnitedHealth Group Inc., to close in the first half of 2023. </p><p>   CVS for years has worked to transform itself from a pharmacy chain to an integrated provider of medical services, with the biggest step being its 2018 acquisition of insurer Aetna. Initially, CVS envisioned a model centered on pharmacists, in-store clinics and an insurance business. </p><p>   But Karen Lynch, who took over as CVS chief executive  last year, determined that the company needs doctors on its payroll to fulfill those ambitions. She also set out to expand CVS's presence in home healthcare, demand for which has been rising as the U.S. population has aged. </p><p>   \"The house call is having what I'd characterize as a renaissance,\" she said. \"This deal enhances the connection to consumers in the home.\" </p><p>   Signify's model is based on an analytics-and-technology platform, used by doctors that go into homes equipped with connected iPads, that allows the clinicians to assess patient needs and connect them with follow-up services. </p><p>   The clinicians \"operate much like Uber drivers,\" said Kyle Armbrester, Signify Health CEO. \"We're in a gig economy and this is a flexible model.\" </p><p>   Ms. Lynch said CVS, by being the care coordinator, can direct more patients to other CVS services and generate savings for patients. </p><p>   She said CVS remains focused on expanding into primary care in addition to in-home health. Ms. Lynch has previously said the company is looking to acquire primary-care practices. </p><p>   The deal is the latest for a home-health company. Rival Walgreens Boots Alliance Inc. last week finalized a deal to purchase a majority stake in CareCentrix, Inc., another home-healthcare platform. </p><p>   This spring, UnitedHealth agreed to buy LHC Group Inc., one of the country's largest home-health firms, for about $5.4 billion. Last year, Humana Inc. agreed to take full control of home-health provider Kindred at Home. Both LHC and Kindred provide continuous home-healthcare services. </p><p>   --- </p><p>   Laura Cooper contributed to this article. </p><p></p>",
+  "published": "2022-09-06T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2137,
+          "end": 2166
+        },
+        {
+          "start": 2120,
+          "end": 2149
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3966746,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.60332537,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

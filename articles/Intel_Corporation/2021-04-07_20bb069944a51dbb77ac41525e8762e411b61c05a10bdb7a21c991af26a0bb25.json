@@ -1,0 +1,32 @@
+{
+  "_id": "20bb069944a51dbb77ac41525e8762e411b61c05a10bdb7a21c991af26a0bb25",
+  "feed": "wall-street-journal",
+  "title": "Developer Builds AI-in-a-Backpack to Help the Visually Impaired; Using an AI-enhanced camera that can be worn on a vest or fanny pack, the system works with any laptop and alerts users to traffic signs, vehicles, walkways and more, its developer says",
+  "text": "<p>The system consists of a lightweight camera and a laptop tucked into a backpack. Mr. Mahendran also added Intel Corp .'s Movidius Neural Compute Sticks. The Intel devices look like thumb drives and plug into a laptop's USB port to increase the computer's ability to handle artificial-intelligence models.</p><p>\"This system is meant to be simple, wearable and not intrusive—so that the user doesn't get any unnecessary attention by other pedestrians in the public place,\" said Mr. Mahendran.</p><p>The camera, Luxonis Holding Corp.'s Oak-D spatial AI model, can be worn on a vest or a fanny pack. The Oak-D is actually a three-camera system that can identify what an object is, how far it is from the camera, and where it is in relation to the camera, for instance, to the left or to the right. It transmits that data to the laptop in the backpack. Mr. Mahendran said any laptop can be used with the system.</p><p>The camera, laptop and Intel Neural Compute Sticks contain \"computer vision,\" a form of AI in which machines are trained to analyze images. Sharing the AI processing load enables the system to work quickly. Mr. Mahendran and his team developed the AI models that identify physical objects.</p><p>The devices interpret the data, and speech software on the laptop sends a voice message to Bluetooth-enabled earphones to tell the wearer what's ahead. All data is processed by the system, with no need for an Internet connection.</p><p>When a user wearing the backpack nears an obstacle, the system will provide simple descriptions, such as \"stop sign\" or \"enabling crosswalk.\" The system also has voice-recognition software, which allows users to ask the system what's around them. The system responds with clock positions to tell where an object is, such as \"Traffic, 12 o'clock\" or \"Car, 2 o'clock.\"</p><p>The system is the latest in a series of technologies , many of them AI-enhanced, that have been developed to help the visually impaired.</p><p>Microsoft Corp .'s Seeing AI app, which works with a smartphone camera and speech software, can recognize faces, read handwriting and help the visually impaired handle other tasks. Aira Tech Corp. offers a smartphone app that uses the phone's camera to connect blind and low-vision people to professional visual interpreters. The interpreters see what the camera sees, and they tell users, helping them with things like reading, getting around a kitchen or identifying objects.</p><p>But unlike other systems, the one Mr. Mahendran developed doesn't depend on a network, which eliminates any possible problems of limited or slow connections.</p><p>\"It's all happening local,\" he said.</p><p>That's incredibly important, said Tuong Nguyen, senior principal analyst at tech research and consulting firm Gartner Inc . Those with visual impairments navigating the world \"need to be able to ID something immediately—not a few seconds later,\" he said.</p><p>The AI software will be made freely available to other developers in the hope that they'll help build out the system, Mr. Mahendran said.</p><p>Hema Chamraj is director of technology advocacy and the company's Intel's AI4Good group, which looks for ways to use the company's technology for social benefit.</p><p>\"He's used our technology to build something wonderful,\" she said.</p><p>Write to John McCormick at john.mccormick@wsj.com</p>",
+  "published": "2021-04-07T17:45:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3052,
+          "end": 3057
+        },
+        {
+          "start": 919,
+          "end": 924
+        },
+        {
+          "start": 157,
+          "end": 162
+        },
+        {
+          "start": 106,
+          "end": 111
+        }
+      ]
+    }
+  ]
+}

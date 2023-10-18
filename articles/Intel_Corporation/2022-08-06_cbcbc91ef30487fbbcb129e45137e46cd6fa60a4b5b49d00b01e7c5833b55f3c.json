@@ -1,0 +1,86 @@
+{
+  "_id": "cbcbc91ef30487fbbcb129e45137e46cd6fa60a4b5b49d00b01e7c5833b55f3c",
+  "feed": "market-watch",
+  "title": "Take a bow, Lisa Su: AMD's data-center business is a true rival to Intel; In first earnings report with a detailed breakout of the segment AMD has rebuilt from nearly nothing, CEO shows a strong and growing business just as larger rival Intel struggles to compete",
+  "text": "<p>In the first quarterly report from AMD AMD to include a long-desired breakdown of the server business, the chip maker reported $1.5 billion in quarterly revenue, roughly one-third of the disappointing $4.6 billion that Intel INTC reported last week. While a business that much smaller than its rival wouldn't normally be considered a success, AMD's market share was less than 1% when this column first profiled Su's server efforts in late 2018, and the two businesses are headed in drastically different directions.</p><p>AMD's data-center business grew by 85% over past year as its Epyc server chips continue to find customers and Xilinx gets digested, while Intel's business surprisingly shrank by 16%. Intel CEO Pat Gelsinger was forced to discuss yet another delay in rolling out a new server chip, code-named Sapphire Rapids, which had to be started over in the fab for (hopefully) volume production by the end of the year. Even if he is able to hit the new deadline, Gelsinger won't have much time before facing new competition: Su said AMD's next data-center chip, code-named Genoa, is still on track for 2023 with cloud-optimized capability and more cores.</p><p>Full earnings coverage: AMD stock slips as revenue forecast dips below Street consensus</p><p>Many analysts asked Tuesday about the current trajectory of AMD's server business with coy references to its larger rival — given the recent quarter at \"your largest competitor,\" \"given the current macro backdrop\" and given the \"certain concerns related to both enterprise and spending in the cloud.\" Su said that the data-center business remained strong, and that while AMD has gained market share, she noted that AMD's share is still a smaller one, with plenty of room for growth as Intel struggles.</p><p>\"We've certainly gained a lot of share, so we're a larger piece of the market. But we are still underrepresented,\" Su said. \"And the visibility with our customers, especially our large cloud customers [in the] second half of this year into next year, is very good. And we're planning really for the next four to six quarters, and that gives us good visibility.\"</p><p>The news wasn't all good, as concerns about the near future led shares to drop 6% in after-hours trading. Su admitted that cloud spending has slowed a bit in China, with Alibaba Group Holdings Ltd. BABA expected to report a sharp deceleration of growth in its cloud business. \"But certainly with North America cloud, they've been very strong this year, and the forecasts are robust for next year,\" she said.</p><p>Read more aboutthe Cloud boom coming back to earth</p><p>The personal-computer segment was the larger concern — AMD's PC business was up 25% to $2.2 billion, on strong sales of its Ryzen chips, but that growth is expected to fall off as the PC boom continues to peter out. Su said that the company's guidance called for the PC business to be down in the mid-teens, weighing down the stock.</p><p>Intel faces the same macro issues with slowing cloud growth and a PC pause, but AMD is in a far better position than its downtrodden rival to deal with those right now. If Su can keep releasing new products on time that truly rival or even exceed what Intel produces, AMD should continue to gain share as we see if the cloud and data-center markets are as recession-resistant as tech executives would like us to believe.</p><p>No matter where AMD heads from here, though, Su should be applauded for rebuilding a true rival to Intel on all fronts, but especially in the high-margin server/data-center business. It was the goal of a few CEOs who preceded her, but she is the only one to actually accomplish it, as evidenced in Tuesday's results.</p><p>Take a bow, Lisa Su: AMD's data-center business is a true rival to Intel</p>",
+  "published": "2022-08-06T14:13:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 67,
+          "end": 72
+        },
+        {
+          "start": 219,
+          "end": 224
+        },
+        {
+          "start": 237,
+          "end": 242
+        },
+        {
+          "start": 652,
+          "end": 657
+        },
+        {
+          "start": 654,
+          "end": 659
+        },
+        {
+          "start": 696,
+          "end": 701
+        },
+        {
+          "start": 1726,
+          "end": 1731
+        },
+        {
+          "start": 1732,
+          "end": 1737
+        },
+        {
+          "start": 2887,
+          "end": 2892
+        },
+        {
+          "start": 2903,
+          "end": 2908
+        },
+        {
+          "start": 3138,
+          "end": 3143
+        },
+        {
+          "start": 3155,
+          "end": 3160
+        },
+        {
+          "start": 3405,
+          "end": 3410
+        },
+        {
+          "start": 3423,
+          "end": 3428
+        },
+        {
+          "start": 3708,
+          "end": 3713
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.676994,
+        "baseWeight": 15.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6769937,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

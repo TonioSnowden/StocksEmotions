@@ -1,0 +1,24 @@
+{
+  "_id": "6a637b698b3d6152371220798d7c8106b5773263cdad211487a588add16db90c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Hackers Lurked In SolarWinds Email for Months",
+  "text": "<p>It is the latest development in the eight-week investigation into one of the worst breaches in U.S. history. SolarWinds, previously a little-known but critical maker of network-management software, is still trying to understand how the hackers first got into the company's network and when exactly that happened.</p><p>One possibility is that the hackers may have compromised the company's Office 365 accounts even earlier and then used that as the initial point of entry into the company, although that is one of several theories being pursued, Mr. Ramakrishna said.</p><p>Investigators are trying to determine how widespread the damage has been. So far only several dozen victims have been identified, but the attack could have ultimately affected close to 18,000 of the company's customers.</p><p>The internal investigation has involved searching through tens of terabytes of log files and other data to retrace the steps of a hacking operation that went undetected for more than a year, Mr. Ramakrishna said. \"We have been evaluating mountains of data,\" he said.</p><p>Ultimately the response to the incident will end up costing SolarWinds millions of dollars, said Mr. Ramakrishna, who had been pegged as SolarWinds's next chief executive when the hack was discovered but didn't start at the company until Jan. 4.</p><p>\"My attitude was to come in and assess first and figure out what we needed to do,\" he said. Since taking over, Mr. Ramakrishna has revamped the company's software-development processes and brought in outside cybersecurity experts to help respond to the breach, including Chris Krebs, formerly the Department of Homeland Security's top cybersecurity official, and Alex Stamos, formerly Facebook Inc.'s chief security officer.</p><p>Investigators describe the hack as one of the worst in U.S. history because of its sophistication, scope and the way it undermined the trusted relationship between technology providers and the products they make.</p><p>The attackers crafted a way to turn SolarWinds's own software update into a kind of digital Trojan horse. So far, the investigation has found that the hackers were running tests on SolarWinds's internal build systems, used to assemble the company's software updates, in September 2019. The build system was then used to create a malicious software patch that SolarWinds says it shipped out to fewer than 18,000 customers in 2020.</p><p>The U.S. government has publicly blamed Russia, which has denied responsibility. Last month, President Biden instructed his director of national intelligence, Avril Haines, to conduct a review of Russian aggression against the U.S., including the SolarWinds hack.</p><p>Dozens of SolarWinds's customers, including major technology companies such as Microsoft Corp. and Cisco Systems Inc., were affected by the incident, as well as the departments of the Treasury, Justice, Energy, Commerce, State, Homeland Security, Labor and Energy.</p><p>On Tuesday, people familiar with the investigation said that another group of hackers -- a group linked to China -- that had accessed the Agriculture Department's networks, exploited an unrelated and less serious flaw in SolarWinds software to further target the organization's computer systems. The Agriculture Department attack was reported earlier by Reuters. A spokesman for the Agriculture Department disputed aspects of the Reuters story but didn't clarify whether any part of the department had suffered a breach related to SolarWinds software.</p><p>Mr. Ramakrishna said that SolarWinds was already investigating a single report of hackers exploiting this bug when it learned of its own compromise last December.</p><p>---</p><p>Dustin Volz contributed to this article.</p>",
+  "published": "2021-02-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2706,
+          "end": 2715
+        },
+        {
+          "start": 2706,
+          "end": 2721
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

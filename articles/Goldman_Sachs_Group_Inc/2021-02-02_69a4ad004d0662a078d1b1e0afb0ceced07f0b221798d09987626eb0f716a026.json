@@ -1,0 +1,24 @@
+{
+  "_id": "69a4ad004d0662a078d1b1e0afb0ceced07f0b221798d09987626eb0f716a026",
+  "feed": "ftcomall",
+  "title": "Correction: Eugene Hopkinson",
+  "text": "<p>Eugene Hopkinson, a British Mensa board member who quit last week over data security fears, is a former executive director at Goldman Sachs, not managing director as wrongly stated in an article on January 30. Information held by Mensa included bank details from the online shop, not payment card numbers.</p><p>Source:  2021 'Correction: Eugene Hopkinson' FT.com 2 February. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-02-02T00:00:18.506Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 126,
+          "end": 133
+        },
+        {
+          "start": 126,
+          "end": 139
+        }
+      ]
+    }
+  ]
+}

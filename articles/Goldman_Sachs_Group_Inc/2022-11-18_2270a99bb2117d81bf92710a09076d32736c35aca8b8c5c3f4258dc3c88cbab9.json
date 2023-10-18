@@ -1,0 +1,32 @@
+{
+  "_id": "2270a99bb2117d81bf92710a09076d32736c35aca8b8c5c3f4258dc3c88cbab9",
+  "feed": "market-watch",
+  "title": "Bonds aren't more attractive than stocks even as yields register a 15-year high; The S&P 500's return is similar when the 10-year Treasury yield is high or low",
+  "text": "<p>In a recent research note sent to clients, Goldman Sachs coined a new acronym for the current market environment: T.A.R.A. In contrast to the T.I.N.A. era, the bank believes, investors now \"are facing T.A.R.A. (there are reasonable alternatives) — investment-grade credit offers relatively high nominal yields with comparably low risk.\"</p><p>This table summarizes the alternatives, listed in descending order of their current yields. </p><p> Asset                                                            Current  S&amp;P 500 earnings yield based on forward 4-quarter estimated EPS  5.1%  Moody's Seasoned Aaa Corporate Bond Yield                        4.9%  S&amp;P 500 earnings yield based on trailing actual 4-quarter EPS    4.8%  S&amp;P 500 dividend yield                                           1.8%</p><p>It certainly looks as though there are reasonable alternatives to stocks. Triple-A bonds' yield (4.9%) is almost as high as the S&amp;P 500's SPX earnings yield that is based on analysts' earnings per share (EPS) estimates for the next four quarters (5.1%).</p><p>Furthermore, since analysts are almost always too optimistic, we probably should discount that 5.1%, which would in turn put triple-A bonds at the top of the ranking.</p><p>Apples versus oranges</p><p>This comparison is unfair, however. Dividends and earnings will almost certainly be higher in 10 years' time, perhaps markedly so, and by investing in stocks you participate in that growth potential. With bonds, in contrast, you lock in a coupon payment that doesn't change.</p><p>Historically, in fact, the S&amp;P 500's earnings per share and dividends per share have on average grown faster than inflation. Assuming the future is like the past, you therefore should view the market's current earnings and dividend yields as real yields, as opposed to bond yields, which are nominal.</p><p>So we are comparing apples to oranges when comparing equity market yields with bond yields. Simply comparing the two yields, as the accompanying table invites us to do, tells us nothing. (For the record, Goldman Sachs focuses on many more factors besides this yield spread when concluding that \"the case for allocations to higher quality credit remains strong into next year.\")</p><p>To show that the yield spread by itself tells us nothing, I segregated all months since 1871 into two groups. The first contained those in which the S&amp;P 500's earnings yield was higher than the 10-year Treasury BX:TMUBMUSD10Y yield, while the second contained those in which it was lower. For each month I then calculated the stock market's real total-return over the subsequent one-, five- and 10-year periods. Averaging across the two groups, I found there to be no statistically significant difference.</p><p>This is illustrated in the accompanying chart, below. At the one-year horizon, the average returns are neck and neck. At the five-year horizon, the stock market turned in slightly better average returns following months in which the 10-year yield was below the S&amp;P 500's earnings yield. At the 10-year horizon, it was the reverse.</p><p>The bottom line? While fixed-income yields are dramatically higher today than they were a year ago, that doesn't necessarily mean bonds are now more attractive than equities.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com.</p><p>Bonds aren't more attractive than stocks even as yields register a 15-year high</p>",
+  "published": "2022-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 43,
+          "end": 56
+        },
+        {
+          "start": 1877,
+          "end": 1890
+        },
+        {
+          "start": 1877,
+          "end": 1884
+        },
+        {
+          "start": 43,
+          "end": 50
+        }
+      ]
+    }
+  ]
+}

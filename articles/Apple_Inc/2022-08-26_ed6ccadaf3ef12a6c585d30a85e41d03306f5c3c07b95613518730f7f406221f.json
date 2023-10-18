@@ -1,0 +1,38 @@
+{
+  "_id": "ed6ccadaf3ef12a6c585d30a85e41d03306f5c3c07b95613518730f7f406221f",
+  "feed": "market-watch",
+  "title": "Dow drops 650 points as U.S. stocks fall sharply after Powell warns of pain to households in inflation battle; Investors also mull improving data on inflation, consumer sentiment",
+  "text": "<p>How are stocks trading?</p><p>* The Dow Jones Industrial Average DJIA dropped 662 points, or 2%, to almost 32,649.</p><p>* The S&amp;P 500 SPX was down 97 points, or 2.3%, at about 4,101.</p><p>* The Nasdaq Composite COMP fell 360 points, or 2.9%, to 12,278.</p><p>For the week, the Dow is heading for a drop of 3.1%, while the S&amp;P 500 is on track to slide 2.9% and Nasdaq is on pace to lose 3.2%, FactSet data show, at last check.</p><p>What's driving the market?</p><p>U.S. stocks were falling sharply Friday, with losses led by the technology-heavy Nasdaq Composite, after the Federal Reserve Chair Jerome Powell reiterated his resolve to bring soaring inflation under control through higher interest rates.</p><p>In remarks that seemed even more hawkish than many investors anticipated, Powell tried to dispel any hopes for a less-aggressive monetary policy stance by insisting that the central bank will persist in its inflation fight, even if that means causing some near-term economic pain for American families.</p><p>\"Reducing inflation is likely to require a sustained period of below-trend growth,\" Powell said. \"While higher interest rates, slower growth, and softer labor market conditions will bring down inflation, they will also bring some pain to households and businesses.\"</p><p>As U.S. stocks fell early Friday afternoon, the S&amp;P 500's information-technology CO:IUIT, communication-services XX:SP500.50 and consumer-discretionary sectors XX:SP500.25 seeing the biggest losses, FactSet data show, at last check. All three areas were down almost 3%, as growth stocks suffered more than value.</p><p>\"It feels like investors have literally been at the beach all summer and forgetting about the problems that exist economically, said Ryan Belanger, founder and managing principal at Claro Advisors, in a phone interview Friday. \"This morning, Chair Powell's remarks just kind of refocused the lens here.\"</p><p>Jake Jolly, senior investment strategist at BNY Mellon Investment Management, said Powell's remarks solidified his stay-tough stance.</p><p>\"The market was pretty clearly set up for a hawkish 'sticking to the script' type of speech and the initial impression is that was what Chair Powell delivered — and he did in in less than 10 minutes,\" Jolly said. \"The key takeaway is he closed the door on this idea that there is going to be a short-term pivot on Fed policy.\"</p><p>Read: How stocks perform as central bankers gather each year at Jackson Hole</p><p>As the selloff accelerated, Wall Street's \"fear gauge,\" the CBOE Volatility Index VIX was up to around 22. It briefly topped 24 earlier in the week. Treasury yields also rose in response to Powell, with the spread between the two-year and 10-year Treasury yields moving further into inverted territory.</p><p>Ahead of Powell's remarks, a batch of fresh economic data was released, including a reading on the Fed's preferred inflation gauge, the personal-consumption-expenditures index. Headline PCE dropped 0.1% for July and to 6.3% from 6.8% annually. Core PCE, which excludes food and energy prices and is closely watched by Fed policy makers, rose 0.1% on a one-month basis but decelerated by a slightly bigger-than-expected amount to a 4.6% year-over-year rate, from 4.8%.</p><p>Read: Inflation falls in July for the first time in 20 months, key gauge shows</p><p>Personal incomes climbed 0.2% in July, while consumer spending rose 0.1%, below forecast. The U.S. trade in goods deficit sank 9.7% in July, while inventories rose.</p><p>As Powell spoke, investors also received an update from the University of Michigan's survey of consumer sentiment, which showed that consumers' outlook on the economy improved in August, while medium- and long-term inflation expectations continued to moderate.</p><p>Which companies are in focus?</p><p>* Electronics Arts Inc. EA shares rose 4.7%, even after reports denied earlier rumors about a potential deal with Amazon.com Inc. AMZN.</p><p>* Shares of Dell Technologies Inc. DELL fell over 11% after executives said the end of the pandemic-driven PC sales boom appeared in the second quarter. Revenue fell short of analysts expectations.</p><p>* Gap Inc. GPS shed 1.5%, erasing earlier gains that had followedan earnings report that slightly beat Wall Street expectations.</p><p>* Meta Platforms Inc. META was down over 3% as mega-cap 'FAANG' names declined on Powell's hawkish remarks. Amazon was down over 3%, while Apple Inc. AAPL was fell 2.7% and Netflix Inc. NFLX dropped 3.4%.</p><p>How are other assets faring ?</p><p>* The yield on the 10-year Treasury note BX:TMUBMUSD10Y was up about one basis point at 3.04%, while two-year Treasury yields BX:TMUBMUSD02Y rose four basis points to 3.43%.</p><p>* The ICE Dollar Index DXY was up 0.3%.</p><p>* Crude prices CL.1 were lower, with West Texas Intermediate crude for October delivery CLV22 edging down 0.3% to $92.23 a barrel.</p><p>* Gold futures GC00 were down, with gold for December delivery GCZ22 falling 1.3% to $1,747.80 an ounce.</p><p>* Bitcoin BTCUSD fell more than 4% to below $20,500.</p><p>Hear from Carl Icahn at the Best New Ideas in Money Festival on Sept. 21 and Sept. 22 in New York. The legendary trader will reveal his view on this year's wild market ride.</p><p>––Barbara Kollmeyer contributed to this report.</p><p>Dow drops 650 points as U.S. stocks fall sharply after Powell warns of pain to households in inflation battle</p>",
+  "published": "2022-08-26T17:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.98200005,
+      "offsets": [
+        {
+          "start": 4303,
+          "end": 4313
+        },
+        {
+          "start": 4271,
+          "end": 4280
+        },
+        {
+          "start": 4314,
+          "end": 4318
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.572125,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.42787504,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

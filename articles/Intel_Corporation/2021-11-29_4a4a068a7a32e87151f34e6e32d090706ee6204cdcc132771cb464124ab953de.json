@@ -1,0 +1,52 @@
+{
+  "_id": "4a4a068a7a32e87151f34e6e32d090706ee6204cdcc132771cb464124ab953de",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Inside Intel's Secret Warehouse in Costa Rica",
+  "text": "<p>Anders Fogh, a Germany-based Intel engineer, said the lab is crucial for his work, especially when he tries to replicate security flaws that external researchers report through Intel's bug-bounty program.</p><p>Intel employees around the world can ask for a specific machine in the configuration of their choice. Technicians make it available through cloud services. The lab gets around 1,000 requests a month to build equipment for remote tests.</p><p>More below.</p><p>5 Steps for Improving Collaboration Between IT and Security</p><p>The need to defend and protect vital assets and network systems grows more urgent each day. Learning these tried-and-true techniques will ensure better communication, cooperation and security results.</p><p>Get Started</p><p>Top News</p><p>A few years ago, executives at Intel Corp. began to realize they had a problem. The company was making dozens of new products each year, from chips to software platforms, but it didn't have a formal method for cataloging and storing older technology so engineers could test it for security flaws.</p><p>Some devices, such as Sandy Bridge microprocessors—launched in 2011 and discontinued in 2013—were so scarce that Intel's security researchers resorted to combing the internet for them.</p><p>\"We had to actually go on eBay and start looking for these platforms,\" said Mohsen Fazlian, general manager of Intel's product assurance and security unit.</p><p>Intel's issue reflects a wider concern: Legacy technology can introduce cybersecurity weaknesses. Tech makers constantly improve their products to take advantage of speed and power increases, but customers don't always upgrade at the same pace. This creates a long tail of old products that remain in widespread use, vulnerable to attacks.</p><p>Intel's answer to this conundrum was to create a warehouse and laboratory in Costa Rica, where the company already had a research-and-development lab, to store the breadth of its technology and make the devices available for remote testing. After planning began in mid-2018, the Long-Term Retention Lab was up and running in the second half of 2019.</p><p>Read the full story.</p><p>Cybersecurity</p><p>Chinese state-run companies limit use of Tencent. Managers at at least nine state-run Chinese companies, including China Mobile Ltd., China Construction Bank Corp. and China National Petroleum Corp., told employees that any chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down and deleted. Weixin is Tencent's dominant messaging app in China and the domestic sister app of WeChat. The companies also warned employees to be cautious about using Weixin for work-related communications. The companies haven't publicly disclosed security concerns over the app.</p><p>Beijing has recently stepped up scrutiny of internet giants including Tencent. On Wednesday, the Chinese Ministry of Industry and Information and Technology told app stores that Tencent needs government approval before it updates existing apps or launches new ones. (WSJ)</p><p>New tech poses challenges for U.S. spies. Omnipresent surveillance cameras, biometric border controls and location trackers on smartphones and other devices are obstacles for the Central Intelligence Agency and other intelligence officers. Artificial intelligence is making it easier and faster for foreign adversaries to sort through data and identify spies. While advanced technologies will also help U.S. authorities gather intelligence, the same technologies will likely give authoritarian societies such as China and Russia an advantage because they can exert greater control over them, a January report by the Center for Strategic and International Studies think tank said.</p><p>Recent examples show how technology can expose spies. A suspected U.S. intelligence officer held a supposedly clandestine meeting with Kim Jong Nam, the half brother of North Korean leader Kim Jong Un in 2017, days before Kim Jong Nam was assassinated. That meeting was captured by a hotel's security camera and became public knowledge. In December, investigative website Bellingcat named and published photographs of three Russian intelligence officers who it said shadowed and attempted to kill Russian opposition politician Alexei Navalny. Bellingcat used phone and travel data to track the intelligence operatives. (WSJ)</p><p>Israel restricts spyware exports. Israel reduced the number of countries where its companies can export hacking tools and cyberweapons to exclude countries that aren't democracies. Companies can continue to export to countries in Europe and members of the Five Eyes alliance. The U.S., U.K., New Zealand, Australia and Canada are members of the Five Eyes alliance. The U.S. Department of Commerce also recently added two Israeli companies, NSO Group and Candiru, to its entity list, making it more difficult for them to access technology and products made by American companies. NSO Group has faced increased criticism since reports about its Pegasus software came out in July. (PC Mag)</p><p>Civilians in Iran and Israel get caught up in cyberwar. Israel and Iran have engaged in a covert cyberwar that has widened to include civilian targets on a large scale. Two U.S. defense officials, speaking on the condition of anonymity, attributed a recent cyberattack on Iran's nationwide fuel distribution system to Israel. That attack paralyzed 4,300 gas stations, and it took 12 days to have service fully restored. Days later, there were cyberattacks against a major medical facility and a popular LGBTQ dating site in Israel, which officials there attributed to Iran. The latest attacks are thought to be the first to do widespread harm to many civilians.</p><p>U.S. authorities have warned of Iranian attempts to hack into computer networks of American critical infrastructure including hospitals. (New York Times)</p><p>Privacy News‎</p><p>Bipartisan momentum grows in the Senate for antitrust tech bills. Lawmakers in both parties are endorsing bills that would introduce legal constraints on search engines, e-marketplaces, app stores and other online platforms. There was an earlier push in the House for antitrust legislation, and the House Judiciary Committee passed far-reaching bills in June. Now, twelve Senators are backing the proposed American Innovation and Choice Online Act, which would treat large marketplaces such as Amazon's or Google's search engine like a dominant railroad operator that is central to commerce.</p><p>The growing momentum for antitrust legislation targeting tech giants comes as lawmakers push for greater privacy protections for children and others. (WSJ)</p><p>Big Number</p><p>$17 Million</p><p>Amount that the Australian Federal Police recently prevented cybercriminals from stealing from Australians' retirement savings accounts. The amount is equivalent to $24 million Australian dollars.</p>",
+  "published": "2021-11-29T13:57:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 205,
+          "end": 210
+        },
+        {
+          "start": 177,
+          "end": 182
+        },
+        {
+          "start": 1145,
+          "end": 1150
+        },
+        {
+          "start": 766,
+          "end": 771
+        },
+        {
+          "start": 1373,
+          "end": 1378
+        },
+        {
+          "start": 29,
+          "end": 34
+        },
+        {
+          "start": 1328,
+          "end": 1333
+        },
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 1713,
+          "end": 1718
+        }
+      ]
+    }
+  ]
+}

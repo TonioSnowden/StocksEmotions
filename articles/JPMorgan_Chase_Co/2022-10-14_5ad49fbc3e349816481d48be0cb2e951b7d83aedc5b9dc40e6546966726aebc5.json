@@ -1,0 +1,58 @@
+{
+  "_id": "5ad49fbc3e349816481d48be0cb2e951b7d83aedc5b9dc40e6546966726aebc5",
+  "feed": "wall-street-journal",
+  "title": "Banks Feast on Higher Rates, for Now; Banks built up capital thanks to higher interest income, but whether it is enough will be tested in quarters ahead",
+  "text": "<p>Banks have been pocketing the extra money they have made from higher interest rates. Now investors will see if they built up enough for tougher times ahead.</p><p>JPMorgan Chase's third-quarter net interest income, which is driven by both rising rates and growing loan books, was about a third higher than a year ago. Thanks in part to the Federal Reserve's recent interest-rate increases, JPMorgan raised its 2022 forecast for net interest income revenue, excluding its volatile markets unit, to about $61.5 billion, up from $58 billion.</p><p>This extra income is enabling banks to overcome some of their current challenges for now, including having capital ratios squeezed by falling bond prices and rising regulatory requirements. They are also dealing with lower Wall Street deal fees and having to continue to set aside more reserves for potential future loan losses. Adding to capital with retained profits helped JPMorgan's key common equity Tier 1 capital ratio rise to 12.5% from 12.2%. Still, the bank needs to keep going to accommodate rising capital requirements and hit its 13% target in the first quarter next year.</p><p>Whether the bank is able to get there smoothly depends on some things outside its control, though. The economy is one big factor: Chief Executive Jamie Dimon told analysts on Friday that a jump in the expected unemployment rate to 5% or 6%—from 3.5% now—would likely require the bank to set aside an additional $5 billion to $6 billion or so of loan-loss reserves. Those of course wouldn't be permanent losses, but would make it harder for the bank to organically build capital.</p><p>For now, JPMorgan shifted its full-year forecast for net charge offs on credit cards from sub-2% to about 1.5% this year. But it does foresee some bumps down the road: It said the extra cash in consumers' checking accounts could be depleted by spending and inflation trends by the middle of next year.</p><p>Then there is the diminishing benefit of higher rates. Mr. Dimon urged analysts not to draw too many conclusions from the bank's expected $19 billion haul in net interest income, excluding markets, in the fourth quarter. For one, the future will likely bring more intense competition for deposits, which the bank suggested has been slow to materialize perhaps partly because rates have risen so fast that consumers and businesses haven't had time to react.</p><p>Then there is Washington. If the Fed's coming plans for the next round of capital rules ends up increasing requirements on banks, for example, that could be a big factor in whether the capital they are building up today is eventually available to be returned to shareholders. That in turn is key to boosting an important measure of performance for investors, return on equity.</p><p>One thing that is more in banks' control is how efficiently they run their businesses. That is measured not only in costs such as compensation and technology, but also how much risky assets they need to have to generate sufficient revenue and income. Banks continue to manage down their risk-weighted assets, a measure of their books that adjusts for how risky an asset is, like a Treasury note versus a leveraged loan. JPMorgan reduced its assets on this measure by about 1% from the second quarter, and Citigroup reported a 2% sequential reduction. Citigroup's CET1 ratio rose from 11.9% in the second quarter to 12.2% in the third.</p><p>Investors for now seem pleased by this progress: Despite a down market on Friday morning, JPMorgan shares were up 1.8% midday, and Citigroup was up 0.9%.</p><p>But whether banks can truly change the narrative and \"shrink to grow\" depends in part on a broader transformation into more service-heavy businesses. Notably, payments revenue at JPMorgan was up 22% from a year ago, and treasury and trade solutions revenue at Citigroup was up 40%. Mr. Dimon said that his bank's recent acquisitions, like of travel-services businesses, were focused on growing in areas that wouldn't increase the bank's capital burdens.</p><p>Those are encouraging developments, but they take time. Meanwhile, conditions for banks might be about to get tougher.</p><p>Write to Telis Demos at Telis.Demos@wsj.com</p>",
+  "published": "2022-10-14T16:15:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 157,
+          "end": 165
+        },
+        {
+          "start": 157,
+          "end": 171
+        },
+        {
+          "start": 384,
+          "end": 392
+        },
+        {
+          "start": 909,
+          "end": 917
+        },
+        {
+          "start": 1607,
+          "end": 1615
+        },
+        {
+          "start": 3154,
+          "end": 3162
+        },
+        {
+          "start": 3459,
+          "end": 3467
+        },
+        {
+          "start": 3702,
+          "end": 3710
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.344433,
+        "baseWeight": 7.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.34443283,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

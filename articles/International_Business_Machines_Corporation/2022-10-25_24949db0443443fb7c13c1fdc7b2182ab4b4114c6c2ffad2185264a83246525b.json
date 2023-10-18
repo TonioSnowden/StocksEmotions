@@ -1,0 +1,96 @@
+{
+  "_id": "24949db0443443fb7c13c1fdc7b2182ab4b4114c6c2ffad2185264a83246525b",
+  "feed": "market-watch",
+  "title": "IBM's expensive and risky pivot to the cloud is finally paying off; Red Hat is a bright spot for the company, which is starting its third transformation in history",
+  "text": "<p>Red Hat's business was built on selling services and support for software that anyone could freely download and deploy. Yes, the rising popularity of open-source meant Red Hat would likely continue to be a critical component in enterprise computing.</p><p>Read: This one stock stands out when looking at key data from the FAANG+ group</p><p>But those critics thought Big Blue would struggle to be one of the open-source cool kids and that its old-school culture would kill Red Hat's vibe. Most importantly, Red Hat's business model could never hope to touch the profitability of Big Blue's tidy proprietary software and hardware businesses.</p><p>On Oct. 19, IBM silenced the critics with a strong financial report for the quarter, driven largely by rapid growth of businesses in its Red Hat unit, which Big Blue has kept largely separate from the rest of the company. That reversed a series of disappointing periods and set the market abuzz.</p><p>Investors have taken notice. IBM's shares are down only 2.3% amid this year's brutal bear market, less than the company's main cloud and software rivals, which have fallen as much as 35% (Salesforce CRM).</p><p>CEO Arvind Krishna repeatedly cited Red Hat as a bright spot for the company as it successfully grew business in so-called hybrid cloud computing, even in the teeth of a slowing economy. Hybrid cloud is a common approach to cloud computing that involves creating IT infrastructure that is self-hosted or running on dedicated hardware servers in a cloud provider as well as operated on public clouds, such as Amazon's AMZN AWS, Google's GOOGLGCP and Microsoft's MSFT Azure.</p><p>The victorious quarter may foretell IBM executing a successful third major pivot in its storied, 100-plus-year history — an almost unheard of feat for a major technology firm.</p><p>First, the company moved from business machines to selling computers. Next, it turned to selling software and services. The third and most recent change was to cloud computing.</p><p>The final pivot would not have been possible without open-source software — and not just that of Red Hat. To be fair, IBM has long relied on Linux and other open-source products to more effectively compete with Microsoft and other competitors; the company was among the first big companies to push Linux operating systems as a viable option on its servers. The Red Hat move accelerated the shift and the most recent quarterly announcement might be viewed as the final stage in the transition to open-source.</p><p>Open-source software is often both worked on and used by multiple competitors. For example, the Linux operating system powers not only IBM's cloud and its servers but also those of Amazon's AWS and Google's GCP.</p><p>Engineers from hundreds of companies contribute code and fixes to Linux, collectively shouldering the burden to underwrite, maintain and secure a valuable resource useful to all. Aside from Linux, many other open-source software products are widely used to power paid services in the cloud and for customers.</p><p>In fact, Amazon deploys hundreds of services based on open-source software projects. Indeed, cloud computing as we know it would not exist without open-source because it would be radically more expensive if Amazon and other cloud vendors had to pay a server license for each piece of software deployed.</p><p>With these types of winds at its back, the pace of open-source innovation has been breathtaking. Beyond operating systems, open-source products have become the most popular databases, messaging systems and web servers. Most of the world's popular programming languages are open-source.</p><p>Researchers including Yochai Benkler and Henry Chesborough have documented that open-source, and other forms of community-based collaborative development, can drive innovations more quickly, particularly for products such as software that are easy to share and customize.</p><p>As part of its long-term strategy to capitalize on this momentum and innovation, and to reduce its costs of maintaining and writing software, IBM has poured resources into many parts of the open-source software ecosystem. For example, IBM has consistently employed key developers working on the Linux kernel, the core operating system sold by Red Hat and now the world's dominant server operating system.</p><p>IBM and Red Hat engineers work on Kubernetes, another fast growing system used to deploy and manage cloud applications.</p><p>Red Hat brings expertise in multiple open-source areas critical for deploying hybrid clouds including the OpenShift developer platform, the Ceph distributed storage system and the Ansible IT automation platform. Curiously, even IBM's legacy mainframe business has benefitted from open-source by replacing proprietary software written by IBM engineers with open-source software maintained by a community of users working on mainframe applications.</p><p>The challenge for IBM will be to keep its cloud and open-source mojo strong. Open-source, in particular, changes quickly and requires a faster enterprise metabolism to stay on the leading edge. And unlike normal businesses, superstar engineers view their allegiance as much to the open-source project as to their employer; this is backed up by the ease with which they can switch jobs due to their position in an important project's hierarchy. For example, Linux kernel developers are constantly in high demand. IBM's careful preservation of Red Hat's unique open-source culture demonstrates the parent company understands how to play the open-source field.</p><p>With a Red Hat in hand and the future looking mostly cloudy, Big Blue appears to have pulled off a nearly magical third corporate pivot and is set for another period of extended growth.</p><p>Alex Salkever is a managing director at Techquity, a technology-advisory firm, and the author of four books, including \"The Driver in the Driverless Car.\" IBM is not a client, and he doesn't own shares of IBM.</p><p>IBM's expensive and risky pivot to the cloud is finally paying off</p>",
+  "published": "2022-10-25T19:10:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 1639,
+          "end": 1642
+        },
+        {
+          "start": 2074,
+          "end": 2077
+        },
+        {
+          "start": 4599,
+          "end": 4602
+        },
+        {
+          "start": 4708,
+          "end": 4711
+        },
+        {
+          "start": 5330,
+          "end": 5333
+        },
+        {
+          "start": 5867,
+          "end": 5870
+        },
+        {
+          "start": 5537,
+          "end": 5545
+        },
+        {
+          "start": 954,
+          "end": 957
+        },
+        {
+          "start": 4836,
+          "end": 4839
+        },
+        {
+          "start": 3988,
+          "end": 3991
+        },
+        {
+          "start": 2599,
+          "end": 2602
+        },
+        {
+          "start": 355,
+          "end": 363
+        },
+        {
+          "start": 4251,
+          "end": 4254
+        },
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 5817,
+          "end": 5820
+        },
+        {
+          "start": 786,
+          "end": 794
+        },
+        {
+          "start": 641,
+          "end": 644
+        },
+        {
+          "start": 5872,
+          "end": 5875
+        },
+        {
+          "start": 4081,
+          "end": 4084
+        },
+        {
+          "start": 567,
+          "end": 575
+        }
+      ]
+    }
+  ]
+}

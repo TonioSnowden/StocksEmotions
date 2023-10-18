@@ -1,0 +1,32 @@
+{
+  "_id": "e16f39d2e76cf699500a62d2438bbef698b756b472e0207ba82e32e3ec39ee6f",
+  "feed": "wall-street-journal",
+  "title": "Amazon, Microsoft Help Lift Cloud Startup Databricks to Sky-High Valuation; Snowflake rival again taps private markets ahead of eventual public listing",
+  "text": "<p>The San Francisco company, founded eight years ago, provides software that allows customers to use and analyze their data across different cloud vendors. Cloud-computing growth accelerated during the pandemic as companies and individuals adopted new services. And businesses and governments are increasingly signing up for a mix of providers to meet their needs.</p><p>Databricks, which is still losing money, over the past year more than doubled the number of customers paying $1 million or more a year for its service, Mr. Ghodsi said. The company has about $600 million in annual recurring revenue, up 75% over the past year.</p><p>The company is the latest example of a startup quickly returning to private markets with a big leap in valuation as large money-management firms and others pump money into Silicon Valley in a hunt for healthy returns at a time of low interest rates. Social-network company Reddit Inc. last month said it roughly doubled its valuation to $10 billion within six months, Fanatics Inc., the sports retailer, tripled its valuation in a year to $18 billion, and Clubhouse, the startup audio-chat social network, held a funding round that quadrupled its valuation within about three months, according to people familiar with the matter.</p><p>Mr. Ghodsi said the funding round wasn't deterring Databricks from its aim of going public, though he declined to detail plans for the listing.</p><p>Amazon and Microsoft declined to comment on their investment. Alphabet invested in Databricks because of the growing size of the market in data analysis, said Derek Zanutto, a general partner at its investment arm, CapitalG, calling the startup \"the Swiss Army knife of modern data analytics.\"</p><p>Snowflake Inc., a Databricks rival, was one of last year's hottest IPOs. Snowflake's valuation had surged above $100 billion, though it has retreated more than 25% since reaching its highs in December. The company still is valued at around $94 billion, more than double the IPO figure.</p><p>Databricks, in part, has won favor with cloud vendors because it operates differently from Snowflake. The latter aims to get customers to use its service as the primary interface to their remotely stored data, billing users for its services and their cloud use—effectively relegating cloud providers to a supplier role. Databricks offers its service alongside cloud providers, allowing the likes of Amazon and Microsoft to maintain direct customer contact. Databricks bills customers for its service, while the cloud vendors bill them for cloud use.</p><p>Snowflake's senior vice president of product, Christian Kleinerman, said the company's business model—keeping cloud vendors at arm's length—better protects it from having its customers stolen by the tech giants.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com</p><p>Amazon, Microsoft Help Lift Cloud Startup Databricks to Sky-High Valuation</p>",
+  "published": "2021-09-09T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1408,
+          "end": 1417
+        },
+        {
+          "start": 2894,
+          "end": 2903
+        },
+        {
+          "start": 8,
+          "end": 17
+        },
+        {
+          "start": 2387,
+          "end": 2396
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

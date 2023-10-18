@@ -1,0 +1,34 @@
+{
+  "_id": "f28950b91a777601ce0ecca28222757338b29cc3b7254f138eb7be954cfaeae2",
+  "feed": "wall-street-journal",
+  "title": "China Rolls Out Aid to Help Power Firms and Save Rice Harvest; Drought amid record heat wave compounds the economic challenges from Beijing's Covid strategy and the country's property slump",
+  "text": "<p>The financial support for China's power sector is unlikely to do much in the near term to alleviate power shortages that have hit the province of Sichuan and the sprawling metropolis of Chongqing in central China, among other areas. But they show how closely the central government is monitoring the matter ahead of a sensitive Communist Party meeting set to take place later this year.</p><p>The drought has dented hydropower output in Sichuan, which accounts for much of the province's electricity output, some of which is also shipped to other parts of the country. The lack of rainfall has coincided with a heat wave that has caused power demand to rise as households use more air conditioning to stay cool.</p><p>The heat wave is the worst to hit China in six decades. Areas of central and southwest China have seen temperatures as high as 110 degrees Fahrenheit. Water levels in parts of the Yangtze River—a crucial source of water for hydropower and artery for transportation—have been at their lowest since recordings began, the government has said.</p><p>In response, the government has forced many factories to curtail operations, including large manufacturers such as Foxconn Technology Group, a major supplier to Apple Inc. Meanwhile, Tesla Inc. has also sought government help to ensure its suppliers in Sichuan will have a sufficient electricity supply.</p><p>Sichuan, with a population of more than 80 million, is especially vulnerable to droughts, with hydropower accounting for more than 80% of its electricity generation last year. The fact that it is happening during what would ordinarily be the region's rainy season means that it could take months for reservoir levels to return to normal, indicating that the power shortages may persist for some time.</p><p>The hit to industrial output is the latest challenge to China's economy, which has been beset by a number of growing issues. Others have arisen from its strict enforcement of Covid-19 measures, which have included confining tens of millions of people temporarily to their homes, with broad economic consequences. A slump in the property sector has added to concerns of risk in the Chinese financial system.</p><p>Data released last week showed the scale of the challenges facing the economy, with factory output, consumer spending, investment and youth hiring all slumping. China's central bank on Monday cut benchmark interest rates on loans to households and businesses, although economists said those measures were unlikely to do much in terms of stimulating growth.</p><p>The efforts to shore up the economy are happening just before a twice-a-decade party congress, at which President Xi Jinping will seek to break with recent tradition and secure a third term. While Mr. Xi is widely expected to stay in power, his handling of China's economy has been a source of criticism.</p><p>China implicitly dropped the annual growth target of 5.5% in a meeting late last month, after the world's second-largest economy reported a 2.5% expansion in the first half of the year, effectively putting the target out of reach.</p><p>Grace Zhu contributed to this article.</p><p>Write to Brian Spegele at brian.spegele@wsj.com</p><p>China Rolls Out Aid to Help Power Firms and Save Rice Harvest</p>",
+  "published": "2022-08-24T14:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1200,
+          "end": 1209
+        },
+        {
+          "start": 1207,
+          "end": 1217
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000124,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.2278557e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

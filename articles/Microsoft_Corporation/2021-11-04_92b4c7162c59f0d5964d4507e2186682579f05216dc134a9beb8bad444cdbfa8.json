@@ -1,0 +1,32 @@
+{
+  "_id": "92b4c7162c59f0d5964d4507e2186682579f05216dc134a9beb8bad444cdbfa8",
+  "feed": "wall-street-journal",
+  "title": "Federal Cybersecurity Directive Spotlights Aging Computer Systems; Outdated equipment, talent shortages have complicated efforts to address vulnerabilities",
+  "text": "<p>As a result, some of the vulnerabilities listed in the directive, issued by the Biden Administration Wednesday, date back years in older versions of software from Microsoft Corp. and other large technology firms. Agencies that haven't continually upgraded these and other apps may lack protections needed to ward off the kinds of organized, sophisticated and widespread attacks that have crippled public- and private-sector systems in recent years.</p><p>Michael Kratsios, managing director and head of strategy at data-management startup Scale AI Inc. and former federal chief technology officer in the Trump administration, said years of neglect have made a number of agencies ready targets for hackers. Over that time, he said, cybersecurity has become inextricably linked to federal information-technology modernization efforts. \"No longer can the two be seen as separate initiatives,\" Mr. Kratsios said.</p><p>The directive, which applies to all executive-branch departments and agencies, except for the Defense Department, the Central Intelligence Agency and the Office of the Director of National Intelligence, lists some 290 known security flaws identified by cybersecurity professionals.</p><p>It describes the flaws as carrying \"significant risk to the federal enterprise.\"</p><p>While many vulnerabilities listed were identified this year, it was interesting that some date back several years, including some vulnerabilities with Microsoft Office, said Chronis Kapalidis, principal at the U.K.-based Information Security Forum, a security and risk-management firm whose clients include corporations and government agencies.</p><p>\"You would expect that most organizations have already tackled that,\" he said.</p><p>The deadline for addressing the more serious vulnerabilities is Nov. 17, 2021, and the deadline for the less serious ones is May 3, 2022, according to the directive.</p><p>Given that some of these vulnerabilities were identified years ago, Mr. Kapalidis said he was surprised that a number of resolution due dates are six months away.</p><p>The Government Accountability Office's IT and cybersecurity unit estimates that software being used across the federal government is about seven years old, on average, including a 35-year-old Transportation Department system that holds sensitive aircraft information and a nearly 50-year-old system used by the Education Department to store student-loan data.</p><p>Older systems mean many agencies operate with overly complicated IT infrastructure that is expensive and difficult to protect, in some cases relying on manual processes, said Adelaide O'Brien, research director at research firm International Data Corp.'s Government Insights unit.</p><p>The Office of Management and Budget, which includes the federal chief information officer, acknowledges that legacy systems create myriad challenges for agencies, including additional cybersecurity risks, an agency spokesperson said.</p><p>While the directive covers a broad range of vulnerabilities, the spokesperson said, \"when dealing with fragile legacy infrastructure that supports mission-critical operations, deploying patches can be a complicated endeavor.\"</p><p>Under the Federal Information Security Management Act, enacted in 2002, federal agencies are already required to meet a set of information-security standards, said Daniel Castro, vice president of the Information Technology and Innovation Foundation, a Washington, D.C., think tank.</p><p>\"It's a bit shocking that this is even a directive,\" Mr. Castro said about Wednesday's announcement. \"It's literally telling the federal government's cybersecurity staff that they should patch IT systems with known vulnerabilities,\" he said. \"Of course they should.\"</p><p>Instead of new policies, he added, federal officials should create measures to gauge agency compliance with existing rules, while accelerating efforts to update legacy systems across the government. \"Newer systems tend to have more features that allow for remote management, and many cloud-based systems do not rely on users to manually deploy patches,\" Mr. Castro said.</p><p>Jonathan Alboum, principal digital strategist for the federal government at enterprise-software company ServiceNow Inc., said that despite obstacles, federal agencies are making \"valiant strides\" in upgrading outdated systems. Some are leveraging the four-year-old Modernizing Government Technology Act, which allows federal agencies to reprogram unused IT budget allocations to fund future modernization projects, Mr. Alboum said.</p><p>The Biden administration's new directive will \"likely serve as a forcing function that empowers more federal agencies to modernize their IT infrastructure and ultimately improve their cybersecurity posture,\" Mr. Alboum said.</p><p>Sen. Maggie Hassan (D., N.H.), chair of the Senate Subcommittee on Emerging Threats and Spending Oversight, said she is encouraged by the White House directive, calling cybersecurity a \"new frontier in warfare.\"</p><p>\"We also know that there is still more work to do,\" Ms. Hassan said.</p><p>Write to Angus Loten at angus.loten@wsj.com and Isabelle Bousquette at isabelle.bousquette@wsj.com</p><p>Federal Cybersecurity Directive Spotlights Aging Computer Systems</p>",
+  "published": "2021-11-04T23:23:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 163,
+          "end": 178
+        },
+        {
+          "start": 163,
+          "end": 172
+        },
+        {
+          "start": 1417,
+          "end": 1433
+        },
+        {
+          "start": 1417,
+          "end": 1426
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "492648f14e292f81528345305e22ceecd9ac5fc69472f42b77ec71d9920fec88",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance:  Wall Street Firms Turn to Blockchain  ---  Goldman, JPMorgan  are processing some  trades using the  crypto technology  ----  By Paul Vigna",
+  "text": "<p>   Wall Street's biggest banks have largely avoided investing directly in cryptocurrencies. But many are quietly working to integrate blockchain, the technology behind crypto, into trading and other businesses. </p><p>    Goldman Sachs Group Inc. is trading some bonds and other debt securities for clients on blockchain-based networks such as Ethereum, and the bank is building its own blockchain-based trading platform. JPMorgan Chase &amp; Co. has a platform in place, called Onyx. </p><p>   Big Wall Street firms help make the economy run, connecting buyers and sellers of securities and lending money to businesses. But their sophisticated trades are often run on creaky old systems. Goldman and others hope they will be able to run faster, less-costly and ultimately more-profitable systems based on blockchains. </p><p>   The blockchain, sometimes called distributed ledger technology, is the plumbing that keeps crypto markets running. It is basically a software program that uses an open record-keeping system -- a central ledger -- to track assets and record transactions and information about ownership of those assets. Every participant operates off the same central ledger. </p><p>   Blockchain-driven systems on Wall Street would be different in some respects from the systems behind bitcoin and other cryptocurrencies. They would be permissioned networks, meaning a central party -- such as a bank or a consortium of banks -- would decide who is allowed on. </p><p>   Outside of banking, Walmart Inc. used blockchain for tracking its supply chains. In real estate, some title companies used it for recording homeownership. </p><p>   Goldman and others say that using blockchain in trading platforms should lower the risk associated with trading partners. Backers say it could make it easier for issuers to track who owns their shares or other assets. </p><p>   \"Blockchain technology is going to rewire all financial services,\" said Tom Farley, the former president of the New York Stock Exchange. </p><p>   That said, Wall Street firms have been experimenting with blockchain projects for at least the past five years. Despite much hype, few have had a widespread impact on how financial transactions take place. </p><p>   Others have thrown in the towel. A group of European insurance companies formed a consortium called B3i in 2016 to explore blockchain uses in their industry. In July, the consortium shut down after failing to raise new capital. </p><p>    Regulatory issues could be a challenge, especially for multinational banks dealing with a host of overseers. Rules about risk management, custody and collateral are being developed in the U.S. and overseas. For instance, the international Basel Committee on Banking Supervision is developing a set of regulations that could require banks to set aside capital against what it called unforeseen risks arising from blockchain networks. </p><p>   Challenges aside, few banks want to run the risk of being left out of a potential new technology. The biggest are engaged in an arms race to build competing platforms. </p><p>   At Goldman, Mathew McDermott runs the digital-asset group, which has about 70 full-time staffers specializing in areas such as engineering, compliance and legal and government affairs. Mr. McDermott said he was a skeptic when he first heard of the blockchain, but no more. The same is true of many top Wall Street bankers, who initially scoffed at the idea that bitcoin or other cryptocurrencies were more than a fad. </p><p>   \"I'm not doing this just to satisfy my curiosity,\" said Mr. McDermott, who has worked at Goldman for 16 years and led the group since 2020. \"Everything has a commercial driver.\" </p><p>   Goldman declined to disclose financial information about the group, including how much the bank has invested in it or whether it has turned a profit. The firm expects the blockchain-based trading platform it is building to serve itself and its clients, but also possibly be used by other banks as well. </p><p>   Some rivals are also planning for wider platforms. JPMorgan's Onyx platform, launched in 2020, can be used by other banks. Goldman, BNP Paribas and others have been using it to trade repos, or repurchase agreements. JPMorgan said Onyx has processed more than $350 billion of repo transactions. </p><p>   \"They're doing real trades,\" said Yuval Rooz, the chief executive of Digital Asset, which writes blockchain software and counts Goldman and the Australian Stock Exchange among its clients. Still, he said, competition is tight. </p><p>   Last year, Goldman arranged a $100 million, two-year bond issue for the European Investment Bank that was registered in France and handled on the Ethereum network. </p><p>   Normally, a bond sale like that would settle in five days. Mr. McDermott said it settled in just an hour. </p><p>   What that means in practice is that money that might otherwise be tied up for days between counterparties will be freed up. </p><p>   It means there is far less time to worry about counterparty risk, the odds that one party or the other to a trade won't hold up its end of the transaction. </p><p>   The bank has more clients for such digital bonds, Mr. McDermott said, and expects to complete more sales. </p><p></p>",
+  "published": "2022-08-23T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9998847,
+      "offsets": [
+        {
+          "start": 69,
+          "end": 77
+        },
+        {
+          "start": 405,
+          "end": 425
+        },
+        {
+          "start": 408,
+          "end": 428
+        },
+        {
+          "start": 3885,
+          "end": 3894
+        },
+        {
+          "start": 3920,
+          "end": 3928
+        },
+        {
+          "start": 4048,
+          "end": 4056
+        },
+        {
+          "start": 4085,
+          "end": 4093
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.668066,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.66806614,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

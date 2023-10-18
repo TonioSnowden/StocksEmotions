@@ -1,0 +1,20 @@
+{
+  "_id": "3fa9ef4ea8dbb6baa8978eda0ffdbd4dfb5197cf09fc9d099842cd20a575b10d",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Tyson Foods said it secured labor unions' support for its Covid-19 vaccine mandate, with the company agreeing to a new paid sick-leave policy for plant workers.</p><p>Chinese state investors are looking to take an ownership stake in ride-hailing giant Didi Global.</p><p>Chevron is preparing to defend itself against a potential challenge from activist investors like the one that roiled Exxon Mobil earlier this year.</p><p>The S&amp;P 500 edged down 0.03% in Friday's session, while the Dow industrials lost 0.2%. The Nasdaq posted a gain of 0.2% to close at a fresh record.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-09-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "name": "Chevron Corporation",
+      "offsets": [
+        {
+          "start": 259,
+          "end": 266
+        }
+      ],
+      "nexusId": "10051514"
+    }
+  ]
+}

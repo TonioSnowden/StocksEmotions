@@ -1,0 +1,76 @@
+{
+  "_id": "83b47af57b64aeea1fa18442275c2d2003ce217e553bf57f6878016d67e88f5d",
+  "feed": "wall-street-journal",
+  "title": "Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage; Security researchers say Israel's NSO Group has been exploiting the vulnerability since February",
+  "text": "<p>An Israeli cybersecurity firm has been exploiting a significant Apple Inc. software vulnerability since February to silently infect iPhones using iMessage, the company's messaging software, according to the research group that discovered the issue.</p><p>On Monday, Apple supplied a critical security update fixing the flaw, but the vulnerability had been used in attacks by Israel's NSO Group, according to Citizen Lab. Citizen Lab is an academic research group that investigates cyberattacks on journalists and dissidents.</p><p>\"After identifying the vulnerability used by this exploit for iMessage, Apple rapidly developed and deployed a fix in iOS 14.8 to protect our users,\" Apple said in a statement. \"We'd like to commend Citizen Lab for successfully completing the very difficult work of obtaining a sample of this exploit so we could develop this fix quickly.\"</p><p>The intrusion is particularly worrisome because it is what researchers at Citizen Lab refer to as a \"zero click\" attack, meaning, unlike most other iPhone hacks, the user doesn't need to click on a link or open a document to be infected. \"Anyone with iMessage on their phone could be silently infected,\" said John Scott-Railton, a researcher with Citizen Lab. \"They would see nothing.\"</p><p>\"People should update their devices immediately,\" Mr. Scott-Railton said.</p><p>Citizen Lab linked the flaw to NSO Group, which sells hacking tools used by governments world-wide to conduct surveillance.</p><p>Asked to comment on a report that Citizen Lab published on the issue Monday, an NSO spokesman said, \"NSO Group will continue to provide intelligence and law enforcement agencies around the world with lifesaving technologies to fight terror and crime.\"</p><p>The software used in the iPhone attacks \"is rare and probably expensive thing and it would have represented a substantial amount of development work,\" Mr. Scott-Railton said.</p><p>Apple said in its statement: \"Attacks like the ones described are highly sophisticated, cost millions of dollars to develop, often have a short shelf life, and are used to target specific individuals.\" This means \"they are not a threat to the overwhelming majority of our users,\" the company said.</p><p>Citizen Lab began pulling on the threads that led to the bug's discovery in March, when they found that a phone belonging to an anonymous Saudi activist had been infected by the Pegasus software, which was built by NSO Group to monitor the phone's activities.</p><p>At the time, it was unclear how Pegasus had been installed, but last week, while examining a backup of the phone, Citizen Lab discovered a copy of the attack code that had been used to infect it, by exploiting a bug in Apple's image processing software, Mr. Scott-Railton said.</p><p>\"What showed up there was a bunch of files labeled as GIFs but they weren't actually GIFs,\" Mr. Scott-Railton said. \"They contained this exploit that exploited Apple's image processing.\" GIF is an image file-formatting standard.</p><p>Examining the files, Citizen Lab discovered attack code that it linked to NSO Group, based on the naming conventions and behavior of the software it installed, Citizen Lab said.</p><p>In addition to the iOS operating system used by the iPhone, the attack affects iMessage on Apple's Macintosh computers, the iPad, and Apple Watches, Citizen Lab said.</p><p>While Apple has invested heavily in bolstering the iPhone's reputation for privacy and security, that reputation has come under strain this year. Earlier this month, the company paused the rollout of a system it had developed for detecting child pornography on its phones, after critics said it could undercut the iPhone's privacy.</p><p>Apple has also had to fix an unusually large number of iPhone bugs this year, many of which have been exploited by cyberattackers, according to Katie Moussouris, chief executive of Luta Security, a firm that advises companies on how to work with outside security researchers. \"Zero-click is both rare and especially dangerous,\" she said, \"though I'm more concerned with how many new unpatched iOS security holes have been exploited this year.\"</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage</p>",
+  "published": "2021-09-14T00:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2647,
+          "end": 2652
+        },
+        {
+          "start": 64,
+          "end": 74
+        },
+        {
+          "start": 3247,
+          "end": 3252
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 2866,
+          "end": 2871
+        },
+        {
+          "start": 4108,
+          "end": 4113
+        },
+        {
+          "start": 1870,
+          "end": 1875
+        },
+        {
+          "start": 3612,
+          "end": 3617
+        },
+        {
+          "start": 591,
+          "end": 596
+        },
+        {
+          "start": 260,
+          "end": 265
+        },
+        {
+          "start": 669,
+          "end": 674
+        },
+        {
+          "start": 3204,
+          "end": 3209
+        },
+        {
+          "start": 3286,
+          "end": 3291
+        },
+        {
+          "start": 64,
+          "end": 73
+        },
+        {
+          "start": 64,
+          "end": 69
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

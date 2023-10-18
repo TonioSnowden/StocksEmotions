@@ -1,0 +1,24 @@
+{
+  "_id": "f29eff94844326e70bbb336865b0a1739940f1433dd205d765156f03e0f8ae4e",
+  "feed": "economist-newspaper",
+  "title": "Scientific errors: Autoincorrect",
+  "text": "<p>Geneticists struggle with a particular version of this problem. A gene called Membrane Associated Ring-CH-type finger 1, commonly known as MARCH1, is, for instance, frequently re-encoded as the date March 1. Something similar happens to genes in the Septin family, of which SEPT1 is a member, and to Basic Helix-Loop-Helix Family Member E41, often known as DEC2.</p><p>This problem was first noticed in 2004, but was brought to wider attention in 2016 by Mark Ziemann of Deakin University, in Australia. In July Dr Ziemann followed up with a paper in PLOS Computational Biology entitled \"Gene name errors: Lessons not learned\". By surveying 166,000 genomics-related papers published between 2014 and 2020, he and his co-authors showed that the number of papers using Excel has steadily increased, and the proportion plagued with autocorrect errors continues to hover at around 30%.</p><p>Errors have also been flagged by researchers in other languages. In Portuguese, for instance, AGO2 (Argonaute RISC Catalytic Component 2) rebrands itself as Agosto 2. Dutch users experience problems with MEI1 (Meiotic Double-Stranded Break Formation Protein 1), \"Mei\" being the Dutch for \"May\". And geneticists in Finland, where the first month of the year is called Tammikuu, find TAMM41 (Mitochondrial Translocator Assembly And Maintenance Protein) encoding itself as the 41st of January.</p><p>This continuing state of affairs is surprising. In August 2020, aware they were playing David to Microsoft's Goliath, the committee which standardises gene names renamed those beginning MARC, MARCH and SEPT to begin MTARC, MARCHF and SEPTIN, and rebranded DEC1 as DELEC1. Other problematic gene names remained, but this was widely seen as a step in the right direction. Dr Ziemann's latest paper, though, suggests that few researchers have taken it.</p><p>Such errors often seem amusing rather than dangerous. But they reflect a deeper problem, which is that spreadsheets allow such silent errors, too well camouflaged for authors or their editors to spot, to go undetected for years. To stop this, Dr Ziemann recommends researchers abandon software like Excel in favour of bespoke code written with scientific applications in mind. Such programs are less susceptible to erroneous autocorrections and easier to audit. Whether his advice will be heeded this time round remains to be seen.</p>",
+  "published": "2021-09-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1464,
+          "end": 1475
+        },
+        {
+          "start": 1464,
+          "end": 1473
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

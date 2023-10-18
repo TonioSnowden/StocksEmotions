@@ -1,0 +1,20 @@
+{
+  "_id": "eb9856bddfbb072015a45e257cbae9435cb90cd8fca18286fd065fce9d56161f",
+  "feed": "wall-street-journal",
+  "title": "Business News: Goldman, EQT Near Parexel Deal",
+  "text": "<p>EQT oversees 67 billion euros in assets, equivalent to about $79 billion, and its focuses include real estate, technology, infrastructure and healthcare.</p>",
+  "published": "2021-07-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 15,
+          "end": 22
+        }
+      ]
+    }
+  ]
+}

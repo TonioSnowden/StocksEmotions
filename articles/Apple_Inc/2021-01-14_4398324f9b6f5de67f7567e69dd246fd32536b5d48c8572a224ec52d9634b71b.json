@@ -1,0 +1,92 @@
+{
+  "_id": "4398324f9b6f5de67f7567e69dd246fd32536b5d48c8572a224ec52d9634b71b",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL TECHNOLOGY:  Choose an  Encrypted  Chat App  For Privacy  ----  By Nicole Nguyen",
+  "text": "<p>\n  Two apps -- Signal and Telegram -- are currently the No. 1 and No. 2 free app downloads in Apple's App Store and Google's Play Store. Millions of users flocked to the chat apps in recent weeks, according to data from Apptopia and Sensor Tower. There are a few factors behind the surge. </p><p>\n  One is concern over a privacy-policy update for the Facebook Inc.-owned WhatsApp. Meanwhile, the deplatforming of President Trump from social networks following the U.S. Capitol riot has driven people to seek communication tools without moderators and external visibility. </p><p>\n  On Jan. 7, Tesla Inc. Chief Executive Elon Musk tweeted, \"Use Signal.\" A subsequent flood of users caused the app's phone-number verification system to break temporarily. Days later, Twitter Inc. CEO Jack Dorsey published a screenshot of Signal at the top of the App Store charts, along with a heart emoji. At the same time, influential accounts on Parler, the social network popular among conservatives, called on followers to move to Telegram. </p><p>\n  What do Signal and Telegram have in common? Both are chat apps that offer end-to-end encryption outside of tech companies' grasp. Encrypted messaging apps like Signal and Telegram can offer more security, privacy and features than plain text messaging -- but their encryption methods and data collection vary. WhatsApp and Apple Inc.'s iMessage offer end-to-end encryption, but within their respective ecosystems. </p><p>\n  A well-implemented encryption protocol makes messages and calls visible only to the sender and the intended recipient. The message's content looks like gibberish to everyone else, including the app maker, the government and your internet-service provider. </p><p>\n  It's important to note that encryption doesn't prevent the recipient from forwarding your message or taking a screenshot, or from someone seeing messages by gaining access to your phone. </p><p>\n  Since chat apps aren't compatible with one another, you have to get all your friends, family and colleagues on the same app -- or constantly hop between them. </p><pre>\n </pre><p>\n  Signal </p><pre>\n </pre><p>\n  Pros: Signal is widely regarded as the most private app. Its encryption is open source, which is considered a best practice among cybersecurity professionals. That means the code can be scrutinized for flaws and verified by researchers. It has apps for Android, iPhone, iPad, Mac, Windows and Linux, and privacy-minded features like expiring messages. The app added a number of user-friendly features over the past year, including group video chat for up to eight participants. (Group chats can host up to 1,000 participants.) </p><p>\n   Cons: Even though it's having a moment, it isn't as widely adopted as WhatsApp and iMessage. And while Signal is adding features regularly, it doesn't have WhatsApp's text formatting or location sharing. </p><pre>\n </pre><p>\n  Telegram </p><pre>\n </pre><p>\n  Pros: Telegram supports up to 200,000 members in a group, which is why it served as the go-to app for protesters in Hong Kong, Iran and Belarus. The app has unique features, like sorting contacts by when they were last seen. </p><p>\n  Cons: Telegram is often criticized for publishing only select parts of its code for public review. \"Telegram may have weaker cryptography than Signal, but it's hard to know because they have been somewhat shady about getting outside audits,\" said Riana Pfefferkorn, a research scholar at Stanford's Center for Internet and Society. </p><p>\n  Telegram spokesman Mike Ravdonikas said the app's encryption and API are \"fully documented and open for review by security experts.\" However, the code for the app's back-end server isn't public. A support page states that all code \"will be released eventually.\" </p><p>\n  As with Facebook Messenger, encryption must be turned on for each chat. Telegram can collect metadata such as IP address and device information, which the company says in its privacy policy is used to prevent spam and abuse. </p><pre>\n </pre><p>\n  WhatsApp </p><pre>\n </pre><p>\n  Pros: WhatsApp uses Signal's peer-reviewed encryption protocol, which keeps the contents of messages secret between its over two billion users. The app is feature-rich -- location sharing, custom wallpapers, the ability to star individual messages, and more. </p><p>\n   Cons: The desktop app doesn't work when your phone isn't connected to the internet. There are also new privacy concerns. A recent update to its terms of service and privacy policy caused an uproar among users who didn't want their data shared with Facebook. </p><p>\n  WhatsApp spokesman Carl Woog told me the update affects only users who communicate with businesses on the app. Soon businesses will be allowed to retain customer communications on a Facebook-hosted platform. The change doesn't affect users who opted out of sharing some data with Facebook in 2016, he said. </p><p>\n  Additionally, Mr. Woog explained that while Apple's App Store privacy label identifies \"location, contacts and user content\" as \"Data Linked to You,\" that information isn't necessarily being collected. Data such as IP address and approximate location are helpful in investigating abuse, he said. </p><p>\n  Still, the app is owned by Facebook, and shares some information with its parent company, including your phone number and mobile-device information. WhatsApp could, with a warrant, see who you're messaging, but it doesn't keep those records proactively. And it can't see the content of the messages. </p><pre>\n </pre><p>\n  iMessage </p><pre>\n </pre><p>\n  Pros: Like WhatsApp, iMessage has a massive user base -- it's the default messaging platform on the billion-plus active iPhones and iPads around the world. While you may know it by its app, Messages, iMessage is the platform itself, which manages end-to-end encrypted texts, images and voice notes -- the blue-bubble interactions. (Apple's FaceTime is also encrypted end-to-end.) </p><p>\n  Cons: The platform works only on Apple devices. Messages from Android users -- the chats with those green bubbles -- aren't encrypted. </p><p>\n  Apple does retain some metadata. Apple checks to see if the phone numbers you enter are iMessage compatible. The number, along with date and time of the lookup, is deleted after 30 days. A company spokeswoman said Apple can't determine whether any communication took place. </p><p></p>",
+  "published": "2021-01-14T07:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 91,
+          "end": 96
+        },
+        {
+          "start": 5598,
+          "end": 5603
+        },
+        {
+          "start": 1328,
+          "end": 1340
+        },
+        {
+          "start": 5814,
+          "end": 5819
+        },
+        {
+          "start": 1328,
+          "end": 1338
+        },
+        {
+          "start": 5679,
+          "end": 5684
+        },
+        {
+          "start": 5781,
+          "end": 5786
+        },
+        {
+          "start": 5781,
+          "end": 5788
+        },
+        {
+          "start": 5995,
+          "end": 6000
+        },
+        {
+          "start": 5995,
+          "end": 6002
+        },
+        {
+          "start": 91,
+          "end": 98
+        },
+        {
+          "start": 4701,
+          "end": 4706
+        },
+        {
+          "start": 5598,
+          "end": 5605
+        },
+        {
+          "start": 1328,
+          "end": 1335
+        },
+        {
+          "start": 4701,
+          "end": 4708
+        },
+        {
+          "start": 1328,
+          "end": 1339
+        },
+        {
+          "start": 5679,
+          "end": 5686
+        },
+        {
+          "start": 5814,
+          "end": 5821
+        },
+        {
+          "start": 1328,
+          "end": 1333
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

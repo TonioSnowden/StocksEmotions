@@ -1,0 +1,40 @@
+{
+  "_id": "c6e65f770c14ecf91fe99de1a2068c8c7c49ba9cf0dcdbb2222e0b80bf223c62",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Parler Social Network Is Back Online  ----  By Jeff Horwitz and Robert McMillan",
+  "text": "<p>   Parler, the social network popular with conservatives, has come back online after going dark when some tech companies withdrew their services in the wake of the deadly attack on the U.S. Capitol. </p><p>    Amazon.com Inc. removed Parler from its cloud-computing service a little over a month ago, effectively knocking the network offline. Apple Inc. and Alphabet Inc.'s Google removed it from their respective app stores. The tech companies said Parler had violated terms-of-service agreements, citing some of the content posted on the app. </p><p>   On Monday, Parler said it was relaunching its service, which it said had grown to over 20 million users. \"We're thrilled to welcome everyone back,\" said Mark Meckler, Parler's interim chief executive. </p><p>   \"Parler is being run by an experienced team and is here to stay,\" he said. </p><p>   The social-media company said its new platform was \"built on robust, sustainable, independent technology.\" It said it was focused on restoring service to existing users during the first week and that new sign-ups would come after. </p><p>   Parler's Internet servers are now hosted by SkySilk Inc., which operates out of a Los Angeles-area data center, according to Doug Madory, director of Internet analysis with the network-monitoring firm Kentik Inc. </p><p>   SkySilk on Monday confirmed it was providing Parler internet services. \"SkySilk feels that Parler is taking the necessary steps to better monitor its platform,\" the company said. \"SkySilk will support Parler in their efforts to be a nonpartisan public square as we are convinced this is the only appropriate course of action.\" </p><p>   The resumption of Parler service wasn't seamless. After re-establishing service on Monday morning, the platform appeared to again be inaccessible to at least some users in the afternoon. Parler didn't immediately respond to a request for comment on the service disruption. </p><p>   Parler previously had used Russian service provider DDoS-Guard to speed up delivery of its internet traffic. As of Monday, however, Parler wasn't using DDoS-Guard or a similar service -- something that could lead to sluggish performance for the social-media network, Mr. Madory said. \"This isn't going to support a lot of traffic, so maybe there are plans that we don't know about,\" he said. </p><p>   New community guidelines posted on Parler's website said the platform was \"viewpoint neutral\" and the company wouldn't knowingly allow it to be used as a tool for crime or unlawful acts. </p><p>   Parler on Monday remained suspended from Apple and Google's app stores. </p><p></p>",
+  "published": "2021-02-16T00:00:00.000Z",
+  "tags": [
+    {
+      "offsets": [
+        {
+          "start": 329,
+          "end": 339
+        },
+        {
+          "start": 2471,
+          "end": 2476
+        },
+        {
+          "start": 329,
+          "end": 336
+        },
+        {
+          "start": 2471,
+          "end": 2478
+        },
+        {
+          "start": 329,
+          "end": 340
+        },
+        {
+          "start": 329,
+          "end": 341
+        }
+      ],
+      "name": "Apple Inc.",
+      "id": "US0378331005",
+      "nexusId": "10022657"
+    }
+  ]
+}

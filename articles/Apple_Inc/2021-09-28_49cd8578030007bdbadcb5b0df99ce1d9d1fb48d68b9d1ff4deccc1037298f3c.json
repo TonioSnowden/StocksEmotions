@@ -1,0 +1,32 @@
+{
+  "_id": "49cd8578030007bdbadcb5b0df99ce1d9d1fb48d68b9d1ff4deccc1037298f3c",
+  "feed": "market-watch",
+  "title": "How stock-market investors can tap into alternative data without breaking the bank",
+  "text": "<p>Alternative data are an array of information gleaned from sources, including the web, satellites and even consumers' wallets, compared with the usual government- or company-provided data on the economy, earnings and other traditional metrics.</p><p>Check out:The explosion of ‘alternative' data gives regular investors access to tools previously employed only by hedge funds</p><p>The growth of the internet and the digital economy, along with technological advances in computing and data crunching, have helped to usher in a wave of alternative sources that can be used to gain an investment edge.</p><p>Thornton notes that some investors have also focused on mobility data from Alphabet Inc.'s GOOG Google, which allows users to examine by state and city where people are spending their time. Apple Inc. AAPL also provides some useful mobility data, including aggregate readings on transit and driving direction that have been helpful in assessing the economic recovery.</p><p>Kastle Systems offers weekly data on building occupancy that can help investors get a sense of where people are getting back to work, or not, Thornton said.</p><p>Aneta Markowska, chief financial economist at Jefferies, highlighted data sources that can be used to track the labor market — a top concern heading into the final months of the year.</p><p>It is worth paying attention to job-openings data from Indeed.com, she said, while periodical data from UKG Inc. on workforce activity has done a good job in flagging which way risks are tilting relative to consensus ahead of official monthly jobs reports.</p><p>That said, investors should take alternative data with a “grain of salt,” recognizing that often time series are quite short and relatively raw, requiring more work to make appropriate seasonal adjustments and other tweaks, she cautioned.</p>",
+  "published": "2021-09-28T22:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 788,
+          "end": 792
+        },
+        {
+          "start": 777,
+          "end": 782
+        },
+        {
+          "start": 777,
+          "end": 787
+        },
+        {
+          "start": 777,
+          "end": 786
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

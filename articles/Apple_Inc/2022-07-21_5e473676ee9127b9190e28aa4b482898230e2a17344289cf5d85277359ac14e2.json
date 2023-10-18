@@ -1,0 +1,68 @@
+{
+  "_id": "5e473676ee9127b9190e28aa4b482898230e2a17344289cf5d85277359ac14e2",
+  "feed": "wall-street-journal",
+  "title": "On TikTok, It's All Fun and Games Until China Wants Your Info; The app could be stealing your fingerprints or turning your smartphone into a listening device.",
+  "text": "<p>BuzzFeed reports that \"in the recordings, the vast majority of situations where China-based staff accessed US user data were in service\" of halting the flow of American data to China. But the fact that Chinese engineers had this access presents a national-security risk. If a tech company operates in mainland China, the Communist Party can easily gain access to its data. One way is through China's Data Security Law, which allows the government to regulate private companies' practices for storing and managing information in China if they collect \"core data\"—a broad term that means anything Beijing sees as a national or security concern.</p><p>TikTok said shortly before the BuzzFeed story broke that its \"default storage location\" for U.S. users' data would be routed to Oracle Cloud Infrastructure. But if Chinese engineers can still access that content, they could easily store it in mainland servers, even unintentionally. The BuzzFeed report details a member of TikTok's Trust and Safety Department saying, in a fall 2021 meeting, that \"everything is seen in China.\" Worse, an unidentified director referred to a \"Master Admin\" based in Beijing who had \"access to everything\" on the app.</p><p>(TikTok responded to the BuzzFeed report: \"We know we're among the most scrutinized platforms from a security standpoint, and we aim to remove any doubt about the security of US user data. That's why we hire experts in their fields, continually work to validate our security standards, and bring in reputable, independent third parties to test our defenses.\" ByteDance, its parent company, didn't provide additional comment.)</p><p>There is a lot the Chinese government might find valuable in the data TikTok collects about American users. According to the company's privacy policy, it collects consumers' real-time location, search history and biometric data (e.g., fingerprints or facial imprints). Such information is invaluable to create identity profiles, which hackers sell to the highest bidder in Chinese black markets to commit identity fraud, or the Chinese government could use information it forces tech companies to provide to access Americans' federal employee records. Government-sponsored hackers could create accurate scans of stolen fingerprints to help crack a two-factor security system.</p><p>Worse, TikTok requires the use of your device's microphone to collect voiceprints. Without access to TikTok's source code, which only the company possesses, it's hard to know what the app does with the permissions it's given. But there is evidence that it records even when you aren't using it. TikTok users report that Apple's app-spying feature, which alerts devices' owners when apps access your microphone or camera, pinged them about TikTok accessing their mics when the app was closed. If TikTok's access is as expansive as that implies, the Chinese government could use a smartphone as a listening device.</p><p>BuzzFeed's reporting prompted Federal Communications Commissioner Brendan Carr to write Apple and Google asking them to remove the app from their stores as \"an unacceptable national security risk.\"</p><p>Mr. Carr is right. TikTok's popularity among policy makers and journalists could give the Chinese Communist Party unfettered access to the data of influential Americans. This opens a terrifying gap in our nation's security by giving China the ability to listen to government officials' private conversations to blackmail them or, given that many of them use their personal devices to conduct official business, steal their credentials to access top-secret information. As of 2020, TikTok had access to clipboard content on Apple devices, which can provide some access to anyone using a password manager for secured accounts. If the user has even one of his government credentials briefly saved on his clipboard, then it can open a door into a federal agency.</p><p>TikTok said it would stop accessing users' clipboard content on iOS devices, after Apple's new privacy transparency feature in iOS 14 revealed that it was continuing the practice. But it's unclear whether it has, and no firm date accompanied the promise.</p><p>U.S. tech companies have long had ample evidence that TikTok presents a serious threat. President Trump issued an order in 2020 to ban TikTok from U.S. markets, which President Biden rolled back last June.</p><p>But even now, Apple and Google appear indifferent to TikTok's practices. Both companies' app stores have developer guidelines to prevent this sort of behavior. Section 5.1.2(ii) of Apple's developer guidelines provides: \"Data collected for one purpose may not be repurposed without further consent unless otherwise explicitly permitted by law.\" TikTok users may agree to let the app collect their data, but they certainly aren't asked to consent explicitly to their data going to the Chinese government. Apple claims to have rejected more than 343,000 apps from its App Store due to \"privacy violations.\" Yet TikTok seems to have gotten an exception—and is even listed as an \"iPhone Essential\" on the Apple app store's home page.</p><p>TikTok is likely too financially valuable to be deplatformed. It has 100 million monthly users in the U.S., most of whom use the app rather than the website. Each of those accounts means activity on Apple and Google's app stores, and both U.S. companies also get access to the app's data. Apple and Google also have a large stake in maintaining good relations with Beijing. To be able to sell its devices and services in China, Apple agreed to a deal that mandates it remove most of its encryption technology and let officials manage the computers of its mainland data centers, among other things. Google also operates in China.</p><p>Mr. Carr can't compel Apple and Google to change their practices, but Congress can enact legislation that will protect U.S. consumers. Lawmakers could ban the app outright or at least require Apple and Google to allow more-secure alternatives to their own app stores.</p><p>TikTok poses a serious danger to national security and Americans' privacy. If companies won't quell that threat, Congress needs to do it.</p><p>Mr. Thayer is president of the Digital Progress Institute and a Washington-based telecom and tech attorney.</p><p>On TikTok, It's All Fun and Games Until China Wants Your Info</p>",
+  "published": "2022-07-21T16:47:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2995,
+          "end": 3000
+        },
+        {
+          "start": 4829,
+          "end": 4834
+        },
+        {
+          "start": 5706,
+          "end": 5711
+        },
+        {
+          "start": 3947,
+          "end": 3952
+        },
+        {
+          "start": 3628,
+          "end": 3633
+        },
+        {
+          "start": 5026,
+          "end": 5031
+        },
+        {
+          "start": 5254,
+          "end": 5259
+        },
+        {
+          "start": 5876,
+          "end": 5881
+        },
+        {
+          "start": 4339,
+          "end": 4344
+        },
+        {
+          "start": 4506,
+          "end": 4511
+        },
+        {
+          "start": 5483,
+          "end": 5488
+        },
+        {
+          "start": 2614,
+          "end": 2619
+        },
+        {
+          "start": 5344,
+          "end": 5349
+        }
+      ]
+    }
+  ]
+}

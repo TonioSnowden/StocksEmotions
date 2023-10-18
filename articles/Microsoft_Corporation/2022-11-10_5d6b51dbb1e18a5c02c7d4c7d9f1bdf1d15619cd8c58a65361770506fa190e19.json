@@ -1,0 +1,24 @@
+{
+  "_id": "5d6b51dbb1e18a5c02c7d4c7d9f1bdf1d15619cd8c58a65361770506fa190e19",
+  "feed": "wall-street-journal",
+  "title": "Technology: IBM Unveils New Chip  In Quantum Effort  ----  By Isabelle Bousquette",
+  "text": "<p>   International Business Machines Corp. announced Wednesday that it has created a more powerful quantum computing chip, the next step in its yearslong effort to build quantum machines capable of delivering business value to companies. </p><p>   The 433-qubit Osprey chip, unveiled at IBM's annual Quantum Summit in New York, has more than three times as many qubits as the 127-qubit Eagle chip it introduced last year. </p><p>   But IBM is aiming to steadily build that computing power in the years ahead. The company said it plans to introduce a more than 4,000-qubit system in 2025, which would be able to solve some problems faster or more accurately than classical computers, as well as provide exact solutions to problems the best of today's computers can only estimate, achieving a milestone known as \"quantum advantage.\" </p><p>    Dario Gil, senior vice president at IBM and director of IBM Research, said the company would continue scaling up from there, and ultimately quantum systems will contain millions of qubits. </p><p>   \"We're getting closer and closer,\" said Dr. Gil. \"This is another step. Maybe there's a couple more steps, but it's getting closer.\" Today's computers use binary digits, or bits, which can either be zeros or ones. Quantum computers use quantum bits, or qubits, which represent and store information in a quantum state that is a complex mix of zero and one. Machines capable of supporting this quantum state have the potential to sort through vast numbers of possibilities in nearly real time. </p><p>   The types of problems quantum computers could one day tackle include simulating the behavior of natural materials in chemistry, and even breaking the public-key cryptography used to secure the internet, said Dr. Gil. </p><p>   On Wednesday, IBM also announced a partnership with Vodafone Group PLC to investigate ways of using classical computing to defend against future quantum-enabled threats to encryption, and unveiled new software to help mitigate errors in quantum systems. </p><p>    Microsoft Corp., Alphabet Inc.'s Google, D-Wave Systems Inc. and a generation of startups are also pushing forward in the quantum area. </p><p>   Since 2016, IBM has been putting client companies' quantum computers on the cloud to enable companies, universities and individuals to experiment with the tech. Jerry Chow, IBM fellow and director of infrastructure for IBM Quantum, said the companies would be able to start using the Osprey chip next year. </p><p></p>",
+  "published": "2022-11-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1959,
+          "end": 1968
+        },
+        {
+          "start": 1959,
+          "end": 1974
+        }
+      ]
+    }
+  ]
+}

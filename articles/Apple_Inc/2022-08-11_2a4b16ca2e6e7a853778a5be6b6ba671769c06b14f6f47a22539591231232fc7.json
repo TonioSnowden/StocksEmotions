@@ -1,0 +1,38 @@
+{
+  "_id": "2a4b16ca2e6e7a853778a5be6b6ba671769c06b14f6f47a22539591231232fc7",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL JOURNAL  ---  Personal Technology:  Foldable Phones Edge  Closer to Greatness  ----  By Dalvin Brown",
+  "text": "<p>\n  Smartphones have gotten boring. What's ahead could give us reason to get excited again. </p><p>\n  Year after year, we know what to expect from new phones: a rectangular glass box, better battery life, and software enhancements that seem like they should've always been there. That sameness has caused us to hold on to our phones longer than in the past. </p><p>\n  Foldable smartphones, which have flexible displays that bend in half, were supposed to revitalize the industry. They haven't quite pulled that off, but what they have done is show what's possible. Foldables are part of a grander plan by smartphone makers to break away from devices that all look the same, bringing innovation to an industry that's mostly filled today with glass slabs. The experimentation could lead to larger screens in smaller packages and devices that not only fold but also roll like a scroll. </p><p>\n  \"It's inevitable,\" said Runar Bjorhovde, an analyst at Canalys Research covering mobile phones. \"At some point, the only way to continue to increase screen size is to make displays flexible.\" </p><p>\n  Samsung on Wednesday unveiled its newest foldables, the $1,800 Galaxy Z Fold 4 and $1,000 Galaxy Z Flip 4. Both phones cost and look the same as last year's models, with the Flip folding in half like a clamshell to fit into your pocket, and the Fold opening like a book into a tablet-size device. Samsung said they're more rugged than their predecessors, with reinforced hinges and other tweaks that help address concerns about durability in its earliest foldables. </p><pre> </pre><p>\n  Pluses and minuses </p><pre> </pre><p>\n  Foldables solve challenges created by popular smartphones but create new concerns, too. On the plus side, the folding design protects the main screen, preventing scratches and other issues. But that flexible inner display is more fragile than traditional smartphone screens. Folding the screen in half also creates a crease, which interrupts the smooth glass finish people are accustomed to touching. And foldables require a hinge, which can make them less durable. </p><p>\n  When it comes to the Z Fold 4 and Z Flip 4, Samsung made them more rugged. They have slimmer hinges, stronger glass around the crease and stickier adhesives to keep the protective screens from peeling, Samsung said. </p><p>\n  Making foldables more durable may woo some holdouts, analysts say, but price likely matters even more. </p><pre> </pre><p>\n  The holdout </p><pre> </pre><p>\n  Samsung has led the market in foldable sales, but other companies have been working on new designs, too. They include Xiaomi, Oppo and Lenovo's Motorola business, and Apple has filed patents for a potential future foldable. </p><p>\n  Analysts suspect it could be years before Apple might begin to sell foldable devices, if at all, because of supply-chain issues and questions about the category's overall appeal to customers. </p><pre> </pre><p>\n  Enter: the rollable </p><pre> </pre><p>\n  The challenges with foldables have companies looking toward rollable phone designs, which would theoretically let users unfurl portions of the display when they need a bigger screen. </p><p>\n  Currently, the design is experimental for phones. LG -- which sells electronics and also has a business that builds displays for other companies -- has a $100,000 roll-able TV and last year showed off a rollable phone. </p><p>\n  While foldables have yet to find a big base of users, they're not going away. Trying something new is what gave birth to the iPhone, and more creative displays could eventually revolutionize the smartphone, too. </p><p></p>",
+  "published": "2022-08-11T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2480,
+          "end": 2485
+        },
+        {
+          "start": 2504,
+          "end": 2509
+        },
+        {
+          "start": 2578,
+          "end": 2583
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

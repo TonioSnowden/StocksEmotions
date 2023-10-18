@@ -1,0 +1,64 @@
+{
+  "_id": "af9afb241e8a067fa3af269c54c34cda48bdd00342dd4f556dd5c0302d06988d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Keywords:  Thanks for Powering  Our Wireless Network  ---  Amazon and Apple are using your devices for their  vast end-run around satellite and cable companies  ----  By Christopher Mims",
+  "text": "<p>   What to do if you're a globe-spanning tech titan that wants to connect millions or even billions of devices, but you don't want the hassle or cost of dealing with telcos, satellite operators or cable companies for connectivity? You use the devices your customers have already purchased -- and brought into homes, businesses and public spaces -- to make an end-run around traditional wireless networks. </p><p>   Apple and Amazon are transforming the devices we own into the equivalent of little cell towers or portable Wi-Fi hot spots that can connect other gadgets and sensors to the internet. They have already switched on hundreds of millions -- with many more on the way. Instead of serving as wireless hubs solely for your own smartwatches, lights and sensors, your iPhones and Echo speakers can help other people's gadgets stay connected as well -- whether you know it or not. </p><p>   On Friday, Amazon announced it's expanding its Sidewalk network, which already includes certain Ring Floodlight Cam and Spotlight models, to include Echo devices released in 2018 and after. This includes Echo speakers and Echo Dots, as well as all Echo Show, Echo Plus and Echo Spot devices. It will also use recent Ring Video Doorbell Pro models to communicate on the Sidewalk network via Bluetooth. </p><p>   Sidewalk was designed to allow smart devices to send very small bits of data securely from any available wireless connection, to supplement Wi-Fi networks and reduce wireless communication breakdowns. </p><p>   This announcement comes on the heels of Apple's AirTag introduction. These coin-size trackers can help locate lost items almost anywhere, because they use the company's Find My network. Each AirTag sends out a low-powered wireless signal, which can be received by the iPhones, iPads and Macs in a given area. </p><p>   Yes, perfect strangers are using slivers of our bandwidth, as our devices send out and listen to little chirrups of radio chatter that don't pertain to us. And you're now able to leverage the radios and internet connection of countless devices owned by other people, too. </p><p>   Users can opt out of these systems, but the tech giants are betting that for the most part we won't, because of the benefits that these new networks will provide -- from finding our lost possessions, pets and loved ones to remotely controlling our smart locks, security systems and lights. </p><p>   \"What we're seeing now is the battle of the mesh networks,\" says Ben Wood, chief analyst at CCS Insight, a tech industry consultancy. \"The use cases of these networks are limited only by customers' imaginations.\" </p><p>   If you could see an AirTag communicating with the radio waves that enable the Find My network, it would look like millisecond-bursts of light shooting out every few minutes, pinging every possible iPhone, iPad and Mac in range -- about 30 feet. This regular burst of chatter is key: If you lose your AirTag-attached keys in a park while on vacation in Sydney, for example, many strangers' iPhones would exchange an incredibly tiny amount of encrypted data with that AirTag as they passed by. When you open the Find My app to look for the keys, that data will have made its way to you, even if you're already back in the U.S. </p><p>   That tiny amount of data is why the Find My network, which began helping locate iPhones back in 2011, doesn't kill our batteries or bloat our cellphone bills, says Fadel Adib, an associate professor of electrical engineering and computer science at MIT. </p><p>   When a phone is transmitting and receiving data over a cellular network, it might use around a watt of power, while transmitting via Bluetooth Low Energy to an AirTag might require 1/100th of that power. \"So communicating with these tags is just a tiny, tiny fraction of what the phone is normally drawing,\" he adds. </p><p>   When your own iPhone (iPhone 11 or newer) is in proximity to an AirTag, the two can also communicate via ultra-wideband radio frequency using Apple's custom-designed U1 chip. This allows you to pinpoint the AirTag's location -- but isn't used to find other people's stuff. </p><p>   Amazon's Sidewalk network is in many ways different from Apple's Find My network, though it also uses encryption for security, says Manolo Arana, general manager of the Sidewalk project at Amazon. For one thing, the devices that power it stay put, so the network is not constantly in flux. And rather than just tracking the location and identity of things, Sidewalk can be used for nearly any kind of short two-way communication, he says. </p><p>   Cities blanketed by the Sidewalk network could allow devices to function even when their main connection to the internet goes down, or is unavailable. Say your Ring smart security light is too far from your home's Wi-Fi router, or maybe you just lose internet connectivity. If a neighbor's Echo or Ring device is in range, your security light could still function by routing its tiny bits of traffic through that other connection. </p><p>   Apple's Find My Network uses short-range wireless Bluetooth signals to communicate with nearby Apple devices -- as well as a recently announced handful of other products, such as Chipolo trackers and VanMoof bicycles. Amazon's Sidewalk also uses Bluetooth, but is adding long-range wireless technology known as LoRa to the Sidewalk network via certain Echo and Ring devices. </p><p>   LoRa systems have generally been used for enterprise applications, such as sensors and actuators in manufacturing and the energy industry. They can communicate small amounts of data across many miles when placed atop towers or even on satellites, using relatively little power. When placed inside a device like an Echo speaker, inside a home, the range can still be about a mile, says Marc Pegulu, vice president of LoRa at semiconductor-maker Semtech, one of Amazon's technology partners. </p><p>   Sidewalk's long range will enable a new way to track people with dementia who may wander, says Adam Sobol, CEO of CareBand. CareBand's smartwatch-style wrist monitor with built-in GPS can communicate via LoRa to Sidewalk-enabled Echo or Ring devices, allowing family members and caregivers to remotely monitor the whereabouts of a loved one. Mr. Sobol says that 90% of seniors with dementia who wander stay within a mile. Another advantage of Sidewalk is that users wouldn't have to pay any cellular fees to use devices like the CareBand tracker. </p><p>   Mr. Wood of CCS Insight says that embedding wireless networking into devices that are popular in their own right, such as Ring security cameras, is a good strategy. \"If you look at where there's already a high density of Ring devices, in Los Angeles especially, where Ring started, you could imagine a scenario in which this invisible Amazon Sidewalk network becomes this incredible asset to Amazon and a value-add to Prime subscribers,\" he says. </p><p>   People who own participating Echo and Ring devices can elect not to be part of the Sidewalk network, but the toggle to opt out is buried four menus deep in Amazon's Alexa and Ring apps. And while you can opt out of Apple's Find My network, you do it by turning off Find My. In other words, if you don't help others find their misplaced devices, you risk losing yours. </p><p>   Apple doesn't say how much data Find My uses, though it's likely to be minuscule. Amazon doesn't say either, but there's a cap to the amount of data it will send via your home's internet connection: 80 kilobits per second, and 500 megabytes a month per household Amazon account. \"That's 10 minutes of YouTube video,\" says Mr. Arana of Amazon. </p><p>   Nearly ubiquitous Sidewalk connectivity in cities could provide even more functions for Amazon, says Mr. Wood. The company's logistics arm could use it to track high-value deliveries using small Tile-style trackers, for instance. And while other companies have attempted widespread, device-based networks such as this, the sales volume and customer-approval ratings enjoyed by both Apple and Amazon provide a strategic advantage when building something that could arguably seem unworkable and a little creepy. </p><p>   \"People love Amazon, and it's become an intrinsic part of many people's lives, and particularly during the pandemic,\" says Mr. Wood. In the same way, Apple has built a high level of trust with its customers, allowing it to roll out its Find My network over more than a decade with little pushback from users, he adds. </p><p>   Aside from these vast networks becoming platforms in their own right for enabling new applications, they also serve as yet another way to keep customers locked into their creators' ecosystems. </p><p>   AirTags, in particular, are classic Apple: Who would switch to Android when it might mean suddenly not being able to find their keys? By the same token, Amazon's Sidewalk network gives people one more reason to own an Echo -- and to buy one for their aging loved ones. </p><p></p>",
+  "published": "2021-05-08T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 8525,
+          "end": 8530
+        },
+        {
+          "start": 4085,
+          "end": 4090
+        },
+        {
+          "start": 7850,
+          "end": 7855
+        },
+        {
+          "start": 7125,
+          "end": 7130
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 1515,
+          "end": 1520
+        },
+        {
+          "start": 4993,
+          "end": 4998
+        },
+        {
+          "start": 402,
+          "end": 407
+        },
+        {
+          "start": 6972,
+          "end": 6977
+        },
+        {
+          "start": 8128,
+          "end": 8133
+        },
+        {
+          "start": 4898,
+          "end": 4903
+        },
+        {
+          "start": 3897,
+          "end": 3902
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

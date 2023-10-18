@@ -1,0 +1,28 @@
+{
+  "_id": "f3e71b5cf89418336bdda7cfd23b94d87c3b627e7e26f5c7333d3729f9f93e92",
+  "feed": "market-watch",
+  "title": "European Parliament approves universal charger rules opposed by Apple",
+  "text": "<p>Apple has a different charger for its iPhone using its Lightning cable.</p><p>The parliament in a news release said it will subsequently adopt interoperability requirements for wireless charging as that becomes more prevalent. The lawmakers estimated the move will save up to 250 million euros ($248 million) a year on unnecessary charger purchases.</p><p>European Parliament approves universal charger rules opposed by Apple</p>",
+  "published": "2022-10-04T12:51:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 408,
+          "end": 413
+        },
+        {
+          "start": 64,
+          "end": 69
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

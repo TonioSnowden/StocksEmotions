@@ -1,0 +1,30 @@
+{
+  "_id": "ef42bdfcbc6d11502ca6bc67ec2e38c90e6cef9360048e96a6a718ec0cec3d52",
+  "feed": "wall-street-journal",
+  "title": "Tornado Case Highlights Limits of Crypto Policing",
+  "text": "<p>The Treasury Department on Monday imposed sanctions against Tornado Cash, a popular cryptocurrency platform known as a mixer because it blends funds from different users and redistributes them, obscuring their origin. The Treasury Department accused Tornado Cash of laundering billions of dollars in virtual currency, including $455 million allegedly stolen by North Korean hackers. As part of the penalties, officials blocked all property held by the exchange under U.S. jurisdiction and barred U.S. companies and individuals from transacting with it.</p><p>Analysts said the sanctions would hinder Tornado Cash's growth by discouraging users and major cryptocurrency exchanges that are reluctant to trade on a blacklisted platform.</p><p>Circle Internet Financial Ltd., the issuer of a stablecoin that tracks the U.S. dollar, blocked the sanctioned wallet addresses after Monday's announcement, effectively freezing the funds in those wallets.</p><p>\"It is likely that nearly all responsible registered Virtual Asset Service Providers also took steps to block customers from transacting with these addresses, or face charges of willfully avoiding US sanctions compliance obligations,\" Circle Chief Executive Jeremy Allaire wrote on Twitter.</p><p>But almost as soon as the sanctions were announced, some users began trying to exploit perceived shortcomings in the government's effort. For example, funds can still be transferred out of cryptocurrency wallets on the platform, and its software code, used to initiate transactions, can be reproduced and relaunched elsewhere.</p><p>\"It is difficult, if not impossible, to shut down Tornado Cash entirely,\" said Tom Robinson, co-founder of risk-management company Elliptic Enterprises Ltd., which analyzes illicit use of crypto services.</p><p>Tornado Cash's developers designed the service to enable users to exchange cryptocurrency with little or no information about the parties, a contrast to traditional financial institutions that are typically required to collect details about their account holders. The lack of disclosure creates opportunities for illicit transactions, Mr. Robinson said.</p><p>Tornado Cash's code isn't hosted by an individual or company, but lives on the Ethereum blockchain, a decentralized, global network of computers, where it automatically fulfills trades. As a result, the U.S. and other governments have no individual or entity they can force to halt Tornado Cash's operations. Even when Microsoft Corp.'s GitHub Inc. removed the latest copy of the platform's code from its website after the sanctions announcement Monday, some users had already copied the files.</p><p>Crypto analysts also see other workarounds that fans of the platform are exploiting. The sanctions will prevent most centralized cryptocurrency exchanges from touching the platform, but people can create their own cryptocurrency accounts without touching a major exchange, allowing users to send funds to whomever they like. Owners of a wallet don't need to consent to receive coins.</p>",
+  "published": "2022-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 2417,
+          "end": 2432
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

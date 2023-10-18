@@ -1,0 +1,28 @@
+{
+  "_id": "e3c0d01c2875e77d0362fb5bf35aa87847ba4efdbea1525aca2e99abc9c96a5a",
+  "feed": "wall-street-journal",
+  "title": "Business News: SoftBank Backs Israeli Startup",
+  "text": "<p>The fundraising comes as facial-recognition technology faces growing scrutiny from regulators and activists who say it infringes on privacy. Last month the European Union proposed a new law that sought to limit police use of the technology, while several U.S. cities including San Francisco and Portland, Ore., have banned it.</p><p>Large technology companies including Google's Alphabet Inc., Microsoft Corp. and Amazon Inc. have also stopped or dialed down their sales of facial-recognition technology in the past few years, citing privacy concerns.</p><p>That pullback affected AnyVision last year when Microsoft sold its stake in the startup citing \"the challenges of being a minority investor in a company that sells sensitive technology.\"</p><p>Microsoft-appointed lawyers had previously conducted an audit of AnyVision activities after media reports in 2019 said the startup's technology was used to power mass surveillance in the West Bank. The audit found it wasn't. AnyVision said the reports were unfounded.</p><p>AnyVision Chief Executive Avi Golan said SoftBank had investigated the surveillance allegations before investing. Mr. Golan was a partner at SoftBank's Vision Fund before joining AnyVision in November.</p><p>SoftBank Investment Advisers partner Anthony Doeh, who led the investment, said AnyVision was \"uniquely placed to redefine physical environment analytics across numerous industries.\" He declined to comment on the surveillance issue.</p><p>The AnyVision move is SoftBank's second major investment in facial-recognition technology, after the Vision Fund put $1 billion into Chinese firm SenseTime Group Ltd. in 2018 at a $7.7 billion valuation. Several of the world's biggestfacial-recognition firms, including SenseTime, Face++ and YITU Technology are based in China.</p><p>AnyVision plans to use the new funds to buy competitors whose software can \"go beyond facial\" to detect suspicious behavior in individuals based on their body positioning, what they are holding in their hands or their surrounding environment, Mr. Golan said. \"Someone is laying on the ground near gas tanks,\" he said as an example. \"Is it a safe situation?\"</p><p>AnyVision says its software, when plugged into surveillance cameras, can scan crowds for suspected criminals or people on aprivate watch list, and ping a mobile device when it spots them. It also sellssoftware it says can scan faces to decide if someone should be allowed entry at barriers and gates. The company has sold its crowd-scanning software to retailers and casinos, and its access-control software to offices and manufacturers, as well as a sports stadium in the U.S.</p><p>About a quarter of AnyVision's revenue comes from governments and military buyers, Mr. Golan said.</p>",
+  "published": "2021-07-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 594,
+          "end": 603
+        },
+        {
+          "start": 388,
+          "end": 397
+        },
+        {
+          "start": 388,
+          "end": 403
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

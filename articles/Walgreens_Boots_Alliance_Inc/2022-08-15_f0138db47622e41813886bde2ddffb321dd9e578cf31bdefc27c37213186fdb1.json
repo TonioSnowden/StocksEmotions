@@ -1,0 +1,38 @@
+{
+  "_id": "f0138db47622e41813886bde2ddffb321dd9e578cf31bdefc27c37213186fdb1",
+  "feed": "market-watch",
+  "title": "Want a big signing bonus? Walgreens is offering $75,000 as it recruits new pharmacists. Drugstore chain Walgreens is seeks to counteract staffing shortages",
+  "text": "<p>See also: Mark Cuban says buying metaverse real estate is 'the dumbest shit ever'</p><p>Pharmacist jobs paid a median salary of $128,570 in 2021, according to the U.S. Bureau of Labor Statistics, and that number is quite similar to the average salary for a Walgreens pharmacist, which, according to Glassdoor data, sits just north of $133,000.</p><p>Walgreens is hoping the signing bonus will entice prospective employees to apply for these jobs, which it has had a hard time filling.</p><p>\"This is one of many steps to address pharmacy staffing in some areas,\" a Walgreens spokesman is quoted as saying to Wall Street Journal.</p><p>See also: Beto O'Rourke scolds man who laughed during Uvalde shooting speech: 'It may be funny to you, motherf—er, but it's not funny to me'</p><p>Walgreens typically offers signing bonuses near $30,000 or as high as $50,000, according to the Journal, and those bonuses are usually paid out once a new employee has remained on the job for a certain period, generally a year or longer.</p><p>Companies oftentimes offer signing bonuses for positions that they are struggling to fill and in seller's markets in the employment sphere. During a labor shortage at the beginning of the COVID-19 pandemic, many companies, including Amazon AMZN, Chipotle CMG and McDonald's MCD, offered lucrative signing bonuses to new employees.</p><p>Walgreens did not immediately respond to a MarketWatch request for comment for this story.</p><p>See also: Walgreens contributed to San Francisco's opioid crisis, judge rules</p><p>The news comes as the latest jobs report indicated that the labor market is still quite strong in the U.S. despite inflation and rising interest rates and fear of a looming recession — the U.S. added 528,000 jobs in July and unemployment fell to prepandemic levels.</p><p>The signing-bonus news for Walgreens Boots Alliance Inc. WBA comes as the company recently upped its dividend payout and abandoned a plan to divestU.K.-based health and beauty retailer Boots and No7 Beauty Co.</p><p>Best New Ideas in Money podcast: The recession question: Can the Fed tackle inflation without pushing the U.S. economy into recession?</p><p>Shares of Walgreens Boots Alliance Inc. are down 23% to date in 2022, comparing unfavorably with the S&amp;P 500 SPX, which has slipped by about half that much this year.</p><p>Want a big signing bonus? Walgreens is offering $75,000 as it recruits new pharmacists.</p>",
+  "published": "2022-08-15T13:44:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 1775,
+          "end": 1803
+        },
+        {
+          "start": 2102,
+          "end": 2131
+        },
+        {
+          "start": 2111,
+          "end": 2140
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

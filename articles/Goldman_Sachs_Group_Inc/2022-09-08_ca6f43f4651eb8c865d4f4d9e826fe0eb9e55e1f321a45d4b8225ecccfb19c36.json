@@ -1,0 +1,38 @@
+{
+  "_id": "ca6f43f4651eb8c865d4f4d9e826fe0eb9e55e1f321a45d4b8225ecccfb19c36",
+  "feed": "wall-street-journal",
+  "title": "Bank of Japan Can Stomach Weak Yen; Japan doesn't need to fear the falling yen so long as its inflation remains mild",
+  "text": "<p>The growing gap between those rates and what is available on other global currencies—10-year U.S. Treasurys currently yield 3.29%—has resulted in an extremely weak currency. One U.S. dollar now buys around 144 yen, up from 115 at the start of this year—an exchange ratenot seen since the late 1990s.</p><p>Should this be a concern for Japan? A weak yen increases costs of imports, including energy supplies, thus feeding into inflation pressures and hitting corporate profits. But the impact looks manageable for two key reasons.</p><p>First, inflation in Japan remains quite mild by current standards. In July, the country's consumer-price index was up just 2.6% from a year earlier, compared with 8.5% in the U.S. What is more, Japan-watching economist Richard Katz says that 88% of Japan's inflation over the past three months came from volatile food and energy prices, compared with 39% in the U.S. This gives the BOJ some room to argue that inflation in Japan could prove more transitory than elsewhere. </p><p>PHOTO: Jonathan Han/The Wall Street Journal</p><p>Second, the weak yen's drawbacks for corporate Japan are at least offset by its benefits, including higher profits from exports and overseas subsidiaries when translated into yen terms. In a note on Aug. 2, Marcel Thieliant of Capital Economics estimated that the yen's depreciation so far—to around 132 against the dollar at that point—would have a net positive impact on corporate profits worth around one trillion yen, equivalent to $6.9 billion, or roughly 0.2% of gross domestic product.</p><p>Standing pat as the yen craters could end up being an audacious final act in a tenure full of them for Gov. Kuroda: His second five-year term ends next April. Goldman Sachs said in a note that its Japan economists expect the yield-curve control policy to remain in place at least until then. This, of course, suggests new uncertainty around the BOJ's stance could start to creep in early next year. But for now, don't expect it to flinch at the cratering yen.</p><p>Write to Aaron Back at aaron.back@wsj.com</p><p>Bank of Japan Can Stomach Weak Yen</p>",
+  "published": "2022-09-08T13:26:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1681,
+          "end": 1694
+        },
+        {
+          "start": 1693,
+          "end": 1706
+        },
+        {
+          "start": 1693,
+          "end": 1700
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

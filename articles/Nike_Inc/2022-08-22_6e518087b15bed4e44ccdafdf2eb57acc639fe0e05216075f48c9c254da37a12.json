@@ -1,0 +1,34 @@
+{
+  "_id": "6e518087b15bed4e44ccdafdf2eb57acc639fe0e05216075f48c9c254da37a12",
+  "feed": "wall-street-journal",
+  "title": "Adidas CEO to Leave Amid Struggles in China; German sportswear firm has been under pressure from investors after facing challenges in its key market",
+  "text": "<p>\"After three challenging years that were marked by the economic consequences of the Covid-19-pandemic and geopolitical tensions, it is now the right time to initiate a CEO transition and pave the way for a restart,\" the company said Monday.</p><p>Adidas shares were down around 3% in Frankfurt after the announcement. They are down 37% this year.</p><p>Mr. Rorsted has led the company since 2016 and his contract was due to run out in 2026. During his tenure, Adidas advanced its digital transformation and grew online sales more than fivefold. But revenue growth lagged behind peers such as Nike Inc. and Puma SE in recent years, heaping investor pressure on the management.</p><p>\"The investor debate around change in leadership at Adidas has increased in intensity in recent months based on our discussions,\" analysts at RBC Capital Markets said Monday.</p><p>In particular, Adidas has been held back by challenges in China. Sales have been hit by a consumer boycott that began last year after the company joined other Western brands to raise concerns about forced-labor allegations in China's Xinjiang region. Chinese sportswear makers, meanwhile, have improved in quality and design in recent years, increasing their market share.</p><p>More recently, China's Covid-19 restrictions have hit Adidas's revenues in the region. In July, Adidas cut its earnings target for the year, citing the slowdown in the country. China is the largest apparel and footwear market in the world, valued at $376 billion in 2021, followed by the U.S. at $330 billion, according to market researcher Euromonitor International.</p><p>Other factors, such as suspended operations in Russia and the supply chain problems that have engulfed global business, have contributed to the company's lackluster performance lately.</p><p>In the second quarter, Adidas sales rose 4% at constant currency driven by Europe and the Americas regions, while revenue in mainland China, Taiwan and Hong Kong declined by 35%.</p><p>Mr. Rorsted, who was born in Denmark, joined Adidas from German chemicals and consumer-goods company Henkel AG &amp; Co. KGaA where he was CEO.</p><p>\"The past years have been marked by several external factors that disrupted our business significantly,\" Mr. Rorsted said on Monday. \"It required huge efforts to master these challenges.\"</p><p>\"This is why enabling a restart in 2023 is the right thing to do—both for the company and me personally,\" he said.</p><p>Write to Georgi Kantchev at georgi.kantchev@wsj.com</p><p>Adidas CEO to Leave Amid Struggles in China</p>",
+  "published": "2022-08-22T13:59:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 580,
+          "end": 589
+        },
+        {
+          "start": 575,
+          "end": 584
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0063453,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0063453913,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

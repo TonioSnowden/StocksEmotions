@@ -1,0 +1,32 @@
+{
+  "_id": "7514fdddd36c4b280007d4bbf2a116376d5c32041d16f386ccb7aa692f222ca7",
+  "feed": "wall-street-journal",
+  "title": "Net Neutrality and Big Tech's Speech Hypocrisy",
+  "text": "<p>\"Net neutrality is the idea that the internet should be free and open for everyone,\" Facebook CEO Mark Zuckerberg declared in July 2017 after the Federal Communications Commission's then-chairman, Ajit Pai, moved to repeal the regulation, which the FCC had adopted two years earlier. Twitter's public-policy manager, Laura Culbertson, wrote: \"Free expression is part of our company DNA. We are the platform that lets users see what's happening and to see all sides. . . . Without Net Neutrality in force, ISPs would even be able to block content they don't like, reject apps and content that compete with their own offerings, and arbitrarily discriminate against particular content providers by prioritizing certain Internet traffic over theirs.\"</p><p>Facebook and Twitter turned out to be more threatening than under threat. Broadband providers haven't attempted to block content or competitors since the FCC repealed net neutrality. But social media, app stores and cloud providers, which were never subject to the rules, all have engaged in censorship repeatedly in recent weeks.</p><p>Facebook, Twitter and Snapchat moved in lockstep to shut down Donald Trump's accounts. Google and Apple banned the social-media app Parler, which promotes itself as a free-speech alternative to Twitter. Amazon Web Services booted Parler from its cloud, banishing it from the web until it could arrange service from another provider.</p><p>Appeals by big tech companies to protect an \"open and free Internet\" were always dubious. They had an interest in supporting net neutrality because it put them at an advantage. Among other things, the rule prohibited broadband providers from charging bandwidth guzzlers like Google's YouTube, Amazon and Facebook more to upload their content at faster speeds.</p><p>Broadband providers also couldn't \"zero rate\" content -- meaning they were barred from selectively excluding content from their data caps. So AT&amp;T couldn't offer free unlimited streaming of its own HBO Max service or be paid to do so by Disney+, Hulu or streaming startups. The Obama rules made it harder for telecom carriers that owned content providers to compete with tech giants and finance network expansions. This is one reason broadband investment declined in 2016.</p><p>Mr. Pai's deregulation encouraged broadband investment, which helps explain why carriers haven't had to slow speeds amid increased user demand for bandwidth. Mr. Pai also required carriers to make public disclosures of their network-management practices, performance and commercial terms of service and asked the Federal Trade Commission to take action against those that engaged in anticompetitive or unfair and deceptive practices.</p><p>All this has served consumers well. The nation's three large wireless providers compete fiercely on price and service. They also face stiff competition from cable companies that offer mobile service and many small prepaid services that don't require annual contracts.</p><p>If AT&amp;T were to slow or block YouTube to promote HBO Max, customers could move to another carrier. Between 1% and 3% of users switch wireless carriers each month. Cable companies no longer enjoy a monopoly in fixed broadband, since wireless carriers now offer at-home service too. Satellite upstarts like Elon Musk's Starlink are also getting into the broadband business, thanks in part to other deregulation by Mr. Pai's FCC.</p><p>Tech companies, on the other hand, boast far more market power because of so-called network effects. Customers of different phone and internet carriers can call, text and email one another, but social-media platforms aren't interoperable. This makes it harder for startups to compete. Facebook and Twitter have to worry less about losing ground to competitors if they censor or unfairly treat users.</p><p>As for Apple and Google, they enjoy an app-store duopoly due to policies locking out competitors. If Google bans an app from its Play Store, users with smartphones that run on its Android operating system -- virtually all of them except iPhones -- would have to use technological back doors or buy an iPhone to install the app. Vice versa for Apple. Because of the high costs of switching phones, Apple and Google can essentially block or restrict apps with impunity. If both do, as with Parler, it's finished.</p><p>There's more competition in cloud services, but websites face serious technical and financial hurdles in migrating to other providers if they get booted. Cloud providers that selectively shut down websites are unlikely to lose customers to competitors in the near term, though they may draw fewer new ones.</p><p>All of which is to say big tech companies today more closely resemble the old telephone monopolies that Congress sought to regulate as common carriers in 1930s than broadband providers do. They have used their market power to suppress speech and competitors, even while pretending to defend an \"open and free Internet.\" They supported a legal challenge to Mr. Pai's deregulation, which the U.S. Circuit Court of Appeals for the District of Columbia mostly dismissed.</p><p>Democratic states including California and Washington have since imposed their own net-neutrality policies. Which leads to an idea: While Republicans now have little clout in Washington, those in Florida or Texas might consider imposing their own neutrality rules on Big Tech.</p><p>---</p><p>Ms. Finley is a member of the Journal's editorial board.</p>",
+  "published": "2021-01-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1176,
+          "end": 1181
+        },
+        {
+          "start": 4116,
+          "end": 4121
+        },
+        {
+          "start": 4170,
+          "end": 4175
+        },
+        {
+          "start": 3780,
+          "end": 3785
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

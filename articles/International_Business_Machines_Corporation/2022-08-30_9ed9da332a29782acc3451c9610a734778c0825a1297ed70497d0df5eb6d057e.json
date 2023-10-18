@@ -1,0 +1,30 @@
+{
+  "_id": "9ed9da332a29782acc3451c9610a734778c0825a1297ed70497d0df5eb6d057e",
+  "feed": "economist-blog",
+  "title": "Powerful prices; Vast corporate profits are delaying an American recession",
+  "text": "<p>The past few weeks have put pricing power in the spotlight in America. According to data published on August 25th, post-tax corporate profits reached 12.1% of gdp in the second quarter, their highest since at least the 1940s (see chart). When companies announced their second-quarter results, dozens noted their capacity to raise prices in the face of higher wages and dearer inputs. Chipotle, a fast-food chain, emphasised that it had sold more expensive burritos to its relatively affluent customer base. The boss of Hilton boasted that, having raised room rates sharply in the face of strong demand, the hotel chain was set for “the biggest summer” in its century-long history. At ibm, a tech giant, an executive reported that the company was at last “starting to capture the reality” of higher costs in its pricing.</p><p>The combined effect of all these individual corporate decisions is striking. Nearly three-quarters of companies in the s&amp;p 500, America's main stock index, beat earnings estimates in the second quarter. Overall, their profit margins were roughly 12%, a touch lower than in the same quarter last year but still above their five-year average of 11%. That helps explain the rally in stockmarkets that got going in mid-June. It also adds to the evidence that, despite all the gloomy talk, America's economy is in reasonably good shape—and is not in recession.</p><p>If there were a compression in margins, it would be a surefire sign of a downswing in the business cycle. Facing lower profits, firms are forced to find ways to cut costs, which often includes firing workers. When enough do that, it becomes a drag on the rest of the economy. Conversely, chunky margins suggest no such cost-cutting pressure. Thus corporate results of the past couple of months are squarely on the side of resilience.</p><p>Why are companies doing so well? Unsurprisingly, energy firms have led the pack, benefiting from the surge in oil and gas prices that followed Russia's invasion of Ukraine in February. Revenues in the s&amp;p 500, including energy companies, were up by nearly 14% in the second quarter compared with a year ago. Excluding energy companies, they were up by 9%, according to FactSet, a data provider.</p><p>Nevertheless, even allowing for the outperformance of the energy sector, profitability has been impressive. Part of the explanation is that American companies have more market power than a few decades ago, bringing greater stability to their earnings. Laxer application of anti-monopoly laws over the years as well as the return-to-scale of big-tech platforms help account for that.</p><p>Yet the robustness of profits over the past year is down to something far more basic: the robustness of both consumers' and companies' balance-sheets. In nominal terms, final demand has been well above its pre-pandemic trend, fuelled by several rounds of stimulus.</p><p>The question is how long the good times will last. Pessimism is building as the Federal Reserve raises interest rates to combat inflation. In July a survey of chief financial officers by ubs, a bank, found they were more downbeat about their pricing power over the next 12 to 24 months than they had been in January. Some companies are already cutting back their capital-spending plans, which could spill over into hiring, too.</p><p>But this is all being done from a position of considerable strength. Aneta Markowska, an economist at Jefferies, another bank, says the Fed may ultimately be forced to induce a recession to curb inflation, but adds that it will have a fight on its hands, in part because of the resilience of profit margins. “It's like a Mike Tyson economy,” she explains. “It's a lot stronger than you think, and it's going to take a lot of work to take it down.”</p><p>■</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.9998826,
+      "offsets": [
+        {
+          "start": 684,
+          "end": 687
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0021379,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0021378994,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

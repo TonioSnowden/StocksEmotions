@@ -1,0 +1,30 @@
+{
+  "_id": "a5809c969840cfb179b274ba16e381023ef2ca50ca3b71af0d2e18057aa3889e",
+  "feed": "ftcomall",
+  "title": "Fast food restaurants: high wages are helping robot chefs",
+  "text": "<p>Mechanisation of food production is as old as human ingenuity itself. Commodity staples and many packaged foods today would be impossible to produce without the help of machines. The next step is introducing robots into restaurants. As labour costs soar, that could give cyborgs another mechanical foot in the door. </p> <p>Restaurants suffered hard during the pandemic. Staff, once found, do not hang around long given the industry's high turnover rates. Even a radical Australian proposal to lower the minimum age to <a href=\"https://www.9news.com.au/finance/retailers-13-years-old-how-young-can-you-get-a-job-in-australia-shops-retail-hiring-laws/50b881ec-0190-4699-b632-290e269d025e\">work to 13</a> offers an unlikely solution.</p> <p>In fast food restaurants, where competition is high and efficiency vital, machines already chip in. Lex's own back-of-the-burger-wrapper calculations suggest that trend will continue.</p> <p>Ordering and payment processes at fast-food chains are already being mechanised. Robots have also found their way into the kitchen. Flippy, a robotic arm made&#xa0;by California-based Miso, can flip burgers and operate fryers. The machines operate in White Castle chains in the US and are being trialled by KFC elsewhere in the world. The company claims Flippy works twice as fast with 30 per cent more output than its human counterpart.</p> <p>McDonald's chief executive Chris Kempczinski recently played down the role automation will play in his company's future. Yet its own data suggests otherwise. The average number of restaurant employees was 62 at the end of last year, down from 64 in 2017, Lex calculates. </p> <p>Burger flippers could become scarce indeed. In Australia where minimum wages are some of the highest globally, a 10 per cent headcount reduction — or 6 people — saves the average restaurant employing that number of people on minimum wage US$163,000 each year, assuming 40-hour weeks.</p> <p>That suggests a mere four-month payback on the US$60,000 reported cost of two of Miso's arms, assuming no breakdowns and ignoring running costs. The same economics mean payback comes within a year in most developed economies, including the US and Japan. </p> <p>Should cheap labour become yet another scarce input, expect more machines and fewer teens at fast food outlets.</p><p>Source:  2022 'Fast food restaurants: high wages are helping robot chefs' FT.com 3 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-03T04:00:42.266Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1154,
+          "end": 1164
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000194,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.9431114e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

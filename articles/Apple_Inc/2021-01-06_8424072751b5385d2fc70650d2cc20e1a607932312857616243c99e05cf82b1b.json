@@ -1,0 +1,88 @@
+{
+  "_id": "8424072751b5385d2fc70650d2cc20e1a607932312857616243c99e05cf82b1b",
+  "feed": "ftcomall",
+  "title": "App makers explore desperate measures to dodge Apple privacy rules",
+  "text": "<p>App developers are exploring surreptitious new forms of user tracking to evade Apple's new privacy rules, which threaten to <a href=\"https://www.ft.com/content/1a72d3d7-f2ec-4bb1-9f61-d65afba41821\">upend the mobile advertising industry</a> in the coming months.</p> <p>Early in 2021, an<a href=\"https://www.ft.com/content/da9247a7-f6bc-4b6f-994a-fb156d3dea54\"> iPhone update</a> will prevent apps from using advertising identifiers known as IDFA without obtaining each user's explicit consent for targeting. Developers expect more than two-thirds of users will block tracking when they see a pop-up appear within their apps.</p> <p>Some app makers say they plan to use invasive tracking techniques such as “device fingerprinting” to work around the new restrictions — even though doing so risks getting them thrown off the App Store if they are caught. </p> <p>“100 per cent, everyone will try doing fingerprints, whether Apple enforces their rules or not,” one mobile games developer said. </p> <p>Privacy campaigners have welcomed Apple's changes but warn that it is never possible to eliminate tracking entirely. </p> <p>“There is still going to be tracking,” said Andrés Arrieta, director of consumer privacy engineering at Electronic Frontier Foundation, a campaigner for digital rights. “We will still see apps trying to do nefarious things. No matter what you do, you will have those bad actors.”</p> <p>Facebook has <a href=\"https://www.ft.com/content/54c54efb-7c80-4468-bf8f-c646e2bbe07f\">led criticism of Apple's change</a>, taking out a series of newspaper advertisements in December that accused Apple of depriving app makers of as much as half of their ad revenues by removing personalisation.</p> <p>Few other developers are willing to pick a public fight with Apple, whose App Store acts as gatekeeper to a $500bn economy. But privately, the creators of some of the App Store's most popular apps are fretting, given the importance of advertising as a means of both revenue and distribution. </p> <p>“The impact is close to impossible to predict,” said the head of one large mobile games developer. </p> <p>“This is a huge, huge change,” said the chief of another leading mobile games developer. “It's the biggest risk that we have [as a company] . . . It could really affect us negatively.” </p> <p>Developers are concerned that many in the advertising industry are still unaware of the magnitude of the coming changes. “Brands and agencies have no idea — they don't have a full grasp on where the ecosystem is headed,” said a policy executive at one app maker. “Tech intermediaries are being forced to solve the problem.” </p> <p>Under such pressure, some developers are, in desperation, considering using new and more invasive forms of tracking, even if users deny their apps permission to use IDFA.</p> <p>Device fingerprinting can be used to recognise repeat visits from the same smartphone, even across multiple apps. The technique, which is banned by Apple's App Store rules but can be difficult to detect, works by correlating a combination of a device's hardware and software characteristics, configurations such as internet connections, battery or language settings, and patterns of usage. </p> <p>Another way to track people between apps is if they use the same email address to sign up for various services and games. “Hashed emails”, whereby addresses are turned into a string of letters and numbers, allow companies to share user details without directly handing over an individual's email address to their partners. </p> <p>While these techniques might be difficult for Apple to detect, the cost of being caught — and losing access to the world's most lucrative mobile storefront — could be enormous. “Do you want to play with fire?” one developer asked. </p><p>Source: Tim Bradshaw 2021 'App makers explore desperate measures to dodge Apple privacy rules' FT.com 6 January. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-01-06T04:00:58.757Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2647,
+          "end": 2652
+        },
+        {
+          "start": 847,
+          "end": 852
+        },
+        {
+          "start": 79,
+          "end": 86
+        },
+        {
+          "start": 1489,
+          "end": 1496
+        },
+        {
+          "start": 744,
+          "end": 751
+        },
+        {
+          "start": 1489,
+          "end": 1494
+        },
+        {
+          "start": 1240,
+          "end": 1245
+        },
+        {
+          "start": 47,
+          "end": 52
+        },
+        {
+          "start": 3258,
+          "end": 3265
+        },
+        {
+          "start": 3258,
+          "end": 3263
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 1329,
+          "end": 1336
+        },
+        {
+          "start": 744,
+          "end": 749
+        },
+        {
+          "start": 47,
+          "end": 54
+        },
+        {
+          "start": 1329,
+          "end": 1334
+        },
+        {
+          "start": 1240,
+          "end": 1247
+        },
+        {
+          "start": 2647,
+          "end": 2654
+        },
+        {
+          "start": 847,
+          "end": 854
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

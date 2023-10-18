@@ -1,0 +1,32 @@
+{
+  "_id": "11cb0a6d3621bebf43f4bccc068881d9bc24dfabfa390e8272dcfaa6f8d854e6",
+  "feed": "market-watch",
+  "title": "Tesla applies to sell electricity to Texas residents: report",
+  "text": "<p>Electricity could be drawn from that grid or from Tesla home batteries, the report said, and Texans with solar panels on their homes could sell excess power to Tesla's grid as well.</p><p>About 120 other companies already sell electricity to consumers in Texas, which was hit by a calamitous cold snap in February that pushed the state's power grid to the brink and left many residents without electricity for days.</p><p>Tesla battery packs are planned to store energy at an Apple Inc. AAPL solar plant near Monterey, Calif., and it has a massive battery project in Australia.</p>",
+  "published": "2021-08-26T21:31:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 464,
+          "end": 474
+        },
+        {
+          "start": 475,
+          "end": 479
+        },
+        {
+          "start": 464,
+          "end": 473
+        },
+        {
+          "start": 464,
+          "end": 469
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

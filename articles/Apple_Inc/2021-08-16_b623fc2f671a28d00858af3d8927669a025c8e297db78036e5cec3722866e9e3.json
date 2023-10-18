@@ -1,0 +1,32 @@
+{
+  "_id": "b623fc2f671a28d00858af3d8927669a025c8e297db78036e5cec3722866e9e3",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Businesses Want Details From Hacked Tech Firms",
+  "text": "<p>When Your Tech Supplier Is Attacked</p><p>Delays of weeks or months: Some tech companies are slow to share details about hacks of their products, leaving customers vulnerable to disruptions and uncertain how to respond as information trickles out.</p><p>Cyberattacks in which hackers target a service provider and then use that foothold to access their customers' networks are receiving scrutiny from policy makers in the U.S. and Europe. Large-scale incidents in recent months at software companies SolarWinds Corp., Accellion and Kaseya Ltd. demonstrate attackers' ability to infect a large number of companies and government agencies that use the same technology products.</p><p>The danger of leaving customers in the dark about such so-called supply-chain attacks is malware can spread, disrupting their operations and those of business partners down the line. Details about how attackers accessed a software vendor, for example, could help the company's clients know what suspicious activity to watch for and how to strengthen defenses.</p><p>Privacy</p><p>Kids' medical data on dark web. Personal information from the vaccine records of around 200 children was stolen from Canadian day-care facilities and posted on a ransomware website. The stolen data appeared to be connected to an attack earlier this year that exploited a vulnerability in file-transfer software from Accellion USA LLC, according to cybersecurity firm Emsisoft. Hackers stole data from around 80 day-care centers and more than 3,000 children in Ontario's Durham Region. The region said it has stopped using the Accellion software. (CTV News Toronto)</p><p>Apple executive defends tools to fight child porn, acknowledges privacy backlash. Craig Federighi, Apple's senior vice president of software engineering, in an interview emphasized that the new system will be auditable. He conceded that the tech giant stumbled in the unveiling of two new tools. One is aimed at identifying known sexually explicit images of children stored in Apple's cloud storage service and the second will allow parents to better monitor what images are being shared with and by their children through text messages. (WSJ)</p><p>The concern is whether Apple can use software that identifies illegal material without the system being taken advantage of by others, such as governments.</p><p>Cryptocurrency</p><p>Track and trace: Cryptocurrency exchange Binance must freeze accounts allegedly involved in a hack of artificial intelligence company Fetch.ai that it said cost it $2.6 million, London's High Court ruled. Binance must also try to recover assets from the accounts, the court said. A representative for the company said it routinely freezes accounts that demonstrate suspicious activity. (Reuters)</p><p>Cybercriminals fight tracking. Hacker groups are using a service to check their bitcoin wallets for any association with criminal actors that might alert authorities. Cryptocurrency analysis firm Elliptic discovered the website Antianalysis, which it says helps hackers determine whether they need to remove an affiliation with criminal groups and launder money to hide from authorities. Law enforcement authorities have used cryptocurrency analysis to track down hackers such as Florida teen Graham Ivan Clark, who pleaded guilty to hacking celebrities' Twitter accounts to run a cryptocurrency scam in 2020. (BBC)</p><p>Hacker Returns Stolen Cryptocurrency: The hacker or hackers who plundered more than $600 million of cryptocurrency assets from a decentralized finance platform finished returning almost all of the money Friday, marking a surprise conclusion to a heist that rattled the crypto industry. The assets were transferred back to blockchain addresses controlled by Poly Network on Friday, according to an emailed statement from the company. All that remains outstanding are $33 million of tether tokens, frozen by the company Tether in the effort to recover the stolen goods. (WSJ)</p><p>Ransomware</p><p>Hospitals hard-hit: Ransomware attacks forced 48% of 130 hospital tech and cyber executives to shut down technology in the last six months, according to a survey from market research firm Ipsos. Large hospitals reported an average outage time of 6.2 hours at a cost of $21,500 per hour, while medium-size hospitals said they shut down for close to 10 hours, on average, at a cost of around $45,700 per hour. (Helpnet Security)</p><p>Eighty-seven percent of organizations across industries that experienced a ransomware incident in the past year paid the ransom, according to a study of 800 tech leaders by market research firm International Data Corp. Average ransom paid? $250,000. (Infosecurity Magazine)</p><p>Business Email Compromise Hacks</p><p>Suspects charged in Europe: Police charged 23 individuals and conducted raids in Romania, Ireland and the Netherlands in relation to an organized crime group that set up fake websites and email addresses similar to legitimate retailers' addresses. The group tricked victims into placing orders for products that didn't exist, defrauding companies in at least 20 countries in Europe and Asia, according to Europol. (ZDNet)</p>",
+  "published": "2021-08-16T16:59:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1696,
+          "end": 1701
+        },
+        {
+          "start": 1974,
+          "end": 1979
+        },
+        {
+          "start": 1597,
+          "end": 1602
+        },
+        {
+          "start": 2164,
+          "end": 2169
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "ee61b74fcc6c22b96257996786a709b3d94cba47b7e4a9891b1708f944e6f52a",
+  "feed": "wall-street-journal",
+  "title": "Dan Loeb's Third Point Buys Back Disney Stock; Activist investor suggests buying the rest of Hulu and spinning off ESPN",
+  "text": "<p>Third Point is pushing Disney to \"make every attempt\" to buy up Comcast Corp.'s remaining minority stake in the streaming giant Hulu before its contractual deadline in early 2024.</p><p>\"We believe that it would even be prudent for Disney to pay a modest premium to accelerate the integration but are cognizant that the seller may have an unreasonable price expectation at this time,\" Loeb's letter said.</p><p>The letter also states that there is a \"strong case to be made\" that Disney should spin off its ESPN business to shareholders to alleviate leverage at the parent company, despite ESPN's centrality to the company's streaming offerings and the significant free cash flow it generates.</p><p>Mr. Loeb's letter also urges the company to institute a cost-cutting program and continue its pandemic-era suspension of cash dividend payments.</p><p>Third Point previously held 4.1 million shares of Disney and successfully pushed the company to suspend its $3 billion annual dividend and plow the funds instead into the streaming business.</p><p>But by the first quarter of this year, the hedge fund had completely exited its position. Mr. Loeb had become worried that it would take years for Disney's streaming business to reap the profits needed to boost the company's share price, a person familiar with his thinking told The Wall Street Journal in May.</p><p>Disney shares gained 1.9% to $123.76 in early trading Monday.</p><p>Dan Loeb's Third Point Buys Back Disney Stock</p>",
+  "published": "2022-08-15T15:19:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999976,
+      "offsets": [
+        {
+          "start": 23,
+          "end": 29
+        },
+        {
+          "start": 33,
+          "end": 39
+        },
+        {
+          "start": 226,
+          "end": 232
+        },
+        {
+          "start": 466,
+          "end": 472
+        },
+        {
+          "start": 873,
+          "end": 879
+        },
+        {
+          "start": 877,
+          "end": 883
+        },
+        {
+          "start": 1159,
+          "end": 1165
+        },
+        {
+          "start": 1165,
+          "end": 1171
+        },
+        {
+          "start": 1322,
+          "end": 1328
+        },
+        {
+          "start": 1329,
+          "end": 1335
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.885504,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.88550425,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

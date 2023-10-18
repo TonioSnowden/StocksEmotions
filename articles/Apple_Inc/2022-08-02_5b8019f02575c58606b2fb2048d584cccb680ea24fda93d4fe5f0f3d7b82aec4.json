@@ -1,0 +1,32 @@
+{
+  "_id": "5b8019f02575c58606b2fb2048d584cccb680ea24fda93d4fe5f0f3d7b82aec4",
+  "feed": "market-watch",
+  "title": "Unity Software stock rises on report of possible China spinoff",
+  "text": "<p>Shares fell in early July after Unity said it offered to buy IronSource Ltd. for $4.4 billion, following a large decline in May, when the company revealed a workaround to Apple Inc.'s AAPL opt-out of using Identifier for Advertisers inadvertently sabotaged its own ad-targeting tools. Unity shares are down 61% over the past 12 months, compared with a 6% decline in the S&amp;P 500 index SPX.</p><p>Unity Software stock rises on report of possible China spinoff</p>",
+  "published": "2022-08-02T17:21:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 171,
+          "end": 181
+        },
+        {
+          "start": 184,
+          "end": 188
+        },
+        {
+          "start": 171,
+          "end": 176
+        },
+        {
+          "start": 171,
+          "end": 180
+        }
+      ]
+    }
+  ]
+}

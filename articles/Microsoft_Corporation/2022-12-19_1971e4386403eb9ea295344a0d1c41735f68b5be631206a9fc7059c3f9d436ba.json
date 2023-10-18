@@ -1,0 +1,44 @@
+{
+  "_id": "1971e4386403eb9ea295344a0d1c41735f68b5be631206a9fc7059c3f9d436ba",
+  "feed": "wall-street-journal",
+  "title": "Company Works to Win AI Race",
+  "text": "<p>Since then, OpenAI has landed deep-pocketed partners such as Microsoft Corp., created products that have captured the attention of millions of internet users, and is looking to raise more money. Mr. Altman said the company's tools could transform technology and tackle broader scientific challenges.</p><p>\"They are incredibly embryonic right now, but as they develop, the creativity boost and new superpowers we get -- none of us will want to go back,\" Mr. Altman said in an interview.</p><p>Shortly after he became CEO, Mr. Altman received $1 billion in funding after flying to Seattle to demonstrate an artificial-intelligence model to Microsoft CEO Satya Nadella. The deal was a marked change from OpenAI's early days, when it said its aim would be to build value for everyone rather than shareholders.</p><p>The deal with Microsoft gave OpenAI the computing resources it needed to train and improve its artificial intelligence algorithms, leading to a series of breakthroughs.</p><p>In October, Microsoft said it would integrate OpenAI's models into the Bing search app and a new design program called Microsoft Design.</p><p>OpenAI is now in advanced talks about a sale of employee-owned stock, people familiar with the matter said. In a previous tender offer, OpenAI's stock was valued at around $14 billion, the people said, and it has discussed a higher price for the current offering. Microsoft also is in advanced talks to increase its investment in the company, The Wall Street Journal reported.</p><p>Despite the recent progress, some investors and researchers have expressed skepticism that Mr. Altman can generate meaningful revenue from OpenAI's technology and reach its stated goal of achieving artificial general intelligence.</p><p>Mr. Altman also has faced broader concerns from members of the AI community for steering the company away from its pledge to make its research transparent and avoid enriching shareholders. Instead, OpenAI has grown more closed over time, researchers said.</p><p>OpenAI began as a nonprofit in 2015 with grants from Mr. Altman, Tesla Inc. CEO Elon Musk, LinkedIn co-founder Reid Hoffman and other backers.</p>",
+  "published": "2022-12-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1365,
+          "end": 1374
+        },
+        {
+          "start": 809,
+          "end": 818
+        },
+        {
+          "start": 976,
+          "end": 985
+        },
+        {
+          "start": 627,
+          "end": 636
+        },
+        {
+          "start": 61,
+          "end": 70
+        },
+        {
+          "start": 1083,
+          "end": 1092
+        },
+        {
+          "start": 61,
+          "end": 76
+        }
+      ]
+    }
+  ]
+}

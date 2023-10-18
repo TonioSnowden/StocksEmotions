@@ -1,0 +1,42 @@
+{
+  "_id": "d76aa19b3465a3fcd0b80299bbfd9ebab4d445ba08b3482ce87a43394004735e",
+  "feed": "wall-street-journal",
+  "title": "Oracle Lays Off Hundreds of Employees; The layoffs primarily hit Oracle's advertising and customer experience group as company emphasizes cloud and healthcare IT services",
+  "text": "<p>Oracle's job cuts come as the company is putting increased emphasis on cloud healthcare services after recently receiving regulatory approval for its $28.3 billion deal for electronic-medical-records company Cerner Corp. They are hitting a unit that has become less central to the company at a time the digital ad market also is in turmoil. The layoffs were earlier reported by The Information.</p><p>The Austin, Texas-based company is the latest in the growing field of tech companies across an array of activities to slow hiring or cut staff. Last month, Microsoft Corp. said it would be cutting less than 1% of its total workforce of about 181,000 employees.</p><p>Robinhood Markets Inc. this week said it was slashing about 23% of its full-time staff as the online brokerage reacts to a sharp slowdown in customer trading activity. In June, Netflix Inc. said it was laying off about 300 employees, following a round of layoffs of 150 people in the previous month.</p><p>Tesla Inc. has moved to cut white collar staff, and Chief Executive Elon Musk on Thursday said he expected a mild recession that could last around 18 months.</p><p>The staffing adjustments come as many tech companies come off a period of supercharged growth that fueled hiring. Sundar Pichai, CEO of Google parent Alphabet Inc. said last week that the economic slowdown provided an opportunity to make necessary business adjustments that are hard to implement when a business is expanding.</p><p>Oracle employees were told that they were being laid off because of fiscal year 2023 restructuring and realignment due to new leadership, said laid-off employees. Some layoffs also landed at Cerner as part of the integration of the business into Oracle, one of the people said.</p><p>\"All of this is retooling the whole company to focus on healthcare,\" said Ray Wang, an analyst with Constellation Research Inc.</p><p>In its fourth quarter earnings reported in June, the company topped expectations, with overall revenue growing 5% annually to $11.84 billion and its cloud sales advancing 19% from a year prior to $2.9 billion. The company also reported 25% growth in total operating expenses from the year-earlier period. At the time, Oracle Chief Executive Safra Catz said the revenue growth rate received a boost from demand in its cloud infrastructure services with sales growing 36%.</p><p>Oracle, like some other tech companies, isn't suspending hiring entirely, but being more selective on where it is adding staff. The company's cloud infrastructure group has around 500 jobs listed on the company's page for job openings. Oracle has been pushing hard to close the gap between the size of its business and market leaders Amazon.com Inc. and Microsoft.</p><p>Other tech companies are similarly moving personnel from lower to higher priority activities. Meta Platforms Inc. CEO Mark Zuckerberg last week said about his company's staffing adjustments that, \"Many teams are going to shrink so that we can shift energy to other areas inside the company.\"</p><p>Layoffs are a somewhat regular occurrence at Oracle. The company had $431 million in restructuring costs last year, and $191 million in its fiscal 2022, according to a company filing. The company employed 143,000 employees, according to its annual report published in June.</p><p>\"We are currently restructuring our workforce and in the past we have restructured or made other adjustments to our workforce in response to management changes, product changes, performance issues, changes in strategies, acquisitions and other internal,\" the company said in its 2022 annual report.</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com</p><p>Oracle Lays Off Hundreds of Employees</p>",
+  "published": "2022-08-05T19:31:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.999424,
+      "offsets": [
+        {
+          "start": 551,
+          "end": 566
+        },
+        {
+          "start": 2671,
+          "end": 2680
+        },
+        {
+          "start": 547,
+          "end": 562
+        },
+        {
+          "start": 2653,
+          "end": 2662
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.4378872,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 0.008387089,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "8697f1690f8a0e5ae1324591ba008f5c83a794334ce0375e60556d1d3cb0a5fd",
+  "feed": "wall-street-journal",
+  "title": "Business News: CVS and Target Relax Rule On Masks",
+  "text": "<p>Target said customers and employees who are fully vaccinated against Covid-19 didn't need face coverings. The company said it would obey local ordinances requiring face coverings, and that it would continue increased safety and cleaning measures, including social distancing, in its stores.</p><p>Walmart Inc. and Costco Wholesale Corp. said last week they would drop mask requirements for vaccinated shoppers.</p><p>The Centers for Disease Control and Prevention said Thursday that fully vaccinated people didn't need to wear a mask or physically distance during outdoor or indoor activities, large or small, in most settings.</p>",
+  "published": "2021-05-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 291,
+          "end": 303
+        }
+      ]
+    }
+  ]
+}

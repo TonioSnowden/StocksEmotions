@@ -1,0 +1,46 @@
+{
+  "_id": "7e16c188dbb626b10ed03a29a0da7c46aa2447690bdef59de9b11ed9993fe962",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Emerging-Market Currencies Face Pain  ---  Some look better placed for the months ahead, creating some interesting opportunities  ----  By Megha Mandavia",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  The U.S. dollar's meteoric rise has clobbered emerging-market currencies this year. Nonetheless, some have fared far better than others, and some look better placed for the months ahead. For those with a strong stomach open to trading emerging-market currencies against each other, that could create opportunities. </p><p>\n  On the surprisingly strong side of the ledger sits the Indonesian rupiah, which has depreciated only about 4.5% against the dollar this year. </p><p>\n  The MSCI Emerging Market Currency Index, which measures the total return of 25 emerging-market currencies relative to the dollar, is down nearly 6% in 2022, according to FactSet. </p><p>\n  That relative strength seems likely to persist as Indonesia benefits from both strong consumer demand and a diversified commodities export base. Goldman Sachs reckons Southeast Asia's largest economy's current account will be balanced this year, in contrast with frequent deficits in years past. </p><p>\n  Indonesia's export earnings from coal and other mined products hit $7.17 billion in June -- among the highest monthly totals in a decade, according to CEIC. It also joined its emerging-market peers by unexpectedly raising interest rates last week. </p><p>\n  The Thai baht -- which was punished earlier in the year, falling 11% against the dollar -- could end up as another surprise winner, at least relative to the rest of the emerging-market universe, in the months to come. Tourism, which before the pandemic drove around 20% of Thailand's economy, is beginning to roar back: Tourist arrivals were 1.12 million in July, still well below prepandemic levels but a 6125% jump from July 2021 and up nearly 50% from just a month before. The country's current-account deficit shrank by nearly half in June to $1.9 billion, according to data from CEIC. </p><p>\n  The Hungarian forint, which has fallen 23% this year, may benefit from its less chilly relations with energy-rich Russia this winter -- and the fact that the European Union has given it a pass on implementing the planned Russian oil boycott penciled in for December. Earlier in the week, it delivered another big interest-rate increase and flagged further increases. Its key interest rate now stands at 11.75% -- the highest in the EU. </p><p>\n  Losers could include those such as the Malaysian ringgit, which Goldman notes has been strangled by a rising interest-rate differential with the Federal Reserve -- despite core inflation levels at their highest since the global financial crisis. Being a commodity exporter helps, but doesn't rescue a currency all on its own in the current environment. The ringgit is down 7.4% against the dollar this year and more depreciation may be ahead -- particularly if lower energy prices start to erode export earnings and rates stay low. </p><p>\n  Emerging-market currencies are doubtless in for another several months of rollercoaster-like volatility, even assuming that the Fed's currently uber-hawkish stance starts to soften a bit. The pain won't be distributed equally. </p><p></p>",
+  "published": "2022-09-06T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99998564,
+      "offsets": [
+        {
+          "start": 2307,
+          "end": 2314
+        },
+        {
+          "start": 818,
+          "end": 825
+        },
+        {
+          "start": 812,
+          "end": 825
+        },
+        {
+          "start": 2292,
+          "end": 2299
+        },
+        {
+          "start": 818,
+          "end": 831
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000595,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00059485435,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

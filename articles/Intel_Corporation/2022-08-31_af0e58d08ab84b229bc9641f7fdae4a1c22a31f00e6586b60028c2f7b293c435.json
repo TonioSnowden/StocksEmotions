@@ -1,0 +1,34 @@
+{
+  "_id": "af0e58d08ab84b229bc9641f7fdae4a1c22a31f00e6586b60028c2f7b293c435",
+  "feed": "wall-street-journal",
+  "title": "Technology:  HP Posts Drop in Sales, Cuts  Guidance as Demand Weakens  ----  By Denny Jacob",
+  "text": "<p>   HP Inc.'s sales declined in the latest quarter, and the PC maker cut its outlook as it joined the growing list of companies to report a slowdown in consumer spending on electronics and cautioned about lagging business sales going forward. </p><p>   The computer-and-printer maker on Tuesday said revenue for its fiscal third quarter shrank 4.1% to $14.66 billion, weighed down by a 20% decline in consumer spending, while its commercial business grew 7%. Analysts polled by FactSet expected revenue of $15.59 billion. </p><p>   Chief Executive Enrique Lores said that worsening consumer demand is expected to continue and that the company is seeing business appetite softening in the current quarter. Corporate buyers continue to agree to deals, he said, but \"they are slowing down the translation between those deals . . . into orders.\" </p><p>   In response, HP trimmed its fiscal 2022 outlook. The company said it expects full year adjusted earnings per share of $4.02 to $4.12, including a 5 cent hit related to debt from its acquisition of Poly, a maker of audio and video products, and other deal-related costs. </p><p>   Shares of HP fell more than 3% in after-hours trading. </p><p>   The company also forecast free cash flow of $3.2 billion to $3.7 billion, which includes a $300 million impact from its Poly acquisition. It previously guided for at least $4.5 billion of free cash flow. </p><p>   The company's results come as the market for personal computers is under pressure after demand for such devices took off during the pandemic as households adapted to remote work and distance learning. PC shipments in the second quarter dropped by 12.6% from the year-ago period, marking their steepest decline in nine years, according to data from research firm Gartner Inc. </p><p>   Dell Technologies Inc. last week posted a lower profit and weaker-than-expected revenue growth in the second quarter and said it had observed more cautious consumer behavior as the quarter progressed. After a prolonged period when demand outstripped supply, Dell co-Chief Operating Officer Jeffrey Clarke last week said, \"PC shipments significantly outpaced demand, and the portfolio is on standard lead time across the board.\" </p><p>   The scale of the slump in computer demand has reverberated across the wider PC landscape. Chip maker Intel Corp. last month posted a surprise quarterly loss and cut its full-year outlook, reflecting a slump in personal-computer purchases and product delays. Retailer Best Buy Co. on Tuesday recorded lower profit and sales in its latest quarter as spending on home electronics faltered compared with earlier in the pandemic. </p><p>   HP's Mr. Lores said the duration of the sales slowdown is hard to predict given the uncertainty over the wider economy, but he expects long-term demand to be above prepandemic levels. </p><p>   The company posted a profit of $1.12 billion, or $1.08 a share, for the quarter ended July 31, up slightly from $1.11 billion, or 92 cents a share, a year earlier. Stripping out one-time items, adjusted per-share earnings in the latest period were $1.04. </p><p>   HP said adjusted earnings per share for the current quarter should come in at between 79 cents and 89 cents. </p><p></p>",
+  "published": "2022-08-31T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2251,
+          "end": 2262
+        },
+        {
+          "start": 2236,
+          "end": 2246
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 19
+    }
+  ]
+}

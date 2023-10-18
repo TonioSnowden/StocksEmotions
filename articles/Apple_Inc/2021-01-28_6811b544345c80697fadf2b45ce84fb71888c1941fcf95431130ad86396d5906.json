@@ -1,0 +1,24 @@
+{
+  "_id": "6811b544345c80697fadf2b45ce84fb71888c1941fcf95431130ad86396d5906",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Major U.S. stock indexes suffered their sharpest one-day losses since October, with the S&amp;P 500 and Nasdaq both retreating 2.6% and the Dow falling 2%.</p><p>---</p><p>The Fed kept its easy-money policies in place, saying that business activity has softened with the resurgence of Covid-19 cases.</p><p>---</p><p>Apple finished 2020 with its most profitable quarter ever and for the first time exceeded $100 billion in quarterly revenue.</p><p>---</p><p>Facebook posted record revenue and profit for the fourth quarter while warning of challenges including growing friction with Apple.</p><p>---</p><p>Boeing reported its biggest-ever annual loss and took a big financial hit on its newest jetliner, signs that the pandemic is compounding the company's problems.</p><p>---</p><p>Ant Group is planning to turn itself into a financial holding company overseen by China's central bank , responding to regulatory pressure.</p><p>---</p><p>Tesla posted its first full- year profit and laid out plans for a sharp increase in production over coming years.</p><p>---</p><p>Exxon is preparing to make changes to its board and adopt other measures as it faces pressure from a pair of activist investors.</p>",
+  "published": "2021-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 289,
+          "end": 294
+        },
+        {
+          "start": 543,
+          "end": 548
+        }
+      ]
+    }
+  ]
+}

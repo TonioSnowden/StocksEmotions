@@ -1,0 +1,34 @@
+{
+  "_id": "010c5816e572e5defd5632a2fccb104f4a209d1926b92624548733491f84b0c8",
+  "feed": "wall-street-journal",
+  "title": "Cox Rolls Out Phone Service at Cut Rate",
+  "text": "<p>Cox Communications, one of the nation's largest broadband internet providers, serves nearly seven million homes and businesses across 18 states.</p><p>The launch comes as other U.S. cable and phone companies attempt to win over customers with similar services. Cable companies are promoting new and cheaper mobile phone plans, while wireless carriers are using excess capacity on next-generation networks to gain customers using traditional broadband internet.</p><p>Cox's pilot service features two plans: $45 for unlimited data; or another at $15 a month for 1 gigabyte of data, and then $15 for each additional gigabyte of data. Cox Mobile customers will have access to 4G LTE and 5G networks, the company said.</p><p>Companies like Cox launching mobile services aren't building out cell towers to serve customers like Verizon Communications Inc., AT&amp;T Inc. and T-Mobile US Inc. Instead, they are paying the wireless providers for access under reseller agreements.</p><p>Cox Communications is the largest division of Cox Enterprises Inc., a closely held Atlanta-based media company.</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 799,
+          "end": 825
+        },
+        {
+          "start": 804,
+          "end": 831
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0006776,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0006774664,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

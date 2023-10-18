@@ -1,0 +1,20 @@
+{
+  "_id": "e40f1411bc127bc3a138e1e768431b4c41aa34f66f8fca2be3ab88a73f4de413",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Wages and prices continued to rise rapidly in the late summer, keeping the Fed on track for more interest-rate increases as it attempts to cool economic growth and bring down high inflation.</p><p>---</p><p>Credit-card debt has returned to where it was before the pandemic, with U.S. balances hitting $916 billion in September, nearly identical to December 2019 levels.</p><p>---</p><p>U.S. stocks rose sharply, with the S&amp;P 500, Nasdaq and Dow advancing 2.5%, 2.9% and 2.6%, respectively.</p><p>---</p><p>Oil giant Exxon reported its most lucrative quarter ever, while rival Chevron posted profit near the record it hit in the prior quarter.</p><p>---</p><p>Germany's economy, Europe's largest, grew modestly in the three months through September, but economists expect a bleak period ahead.</p><p>---</p><p>VW posted a 29% drop in net profit as auto makers face cost headwinds and ongoing supply-chain disruptions.</p>",
+  "published": "2022-10-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "offsets": [
+        {
+          "start": 540,
+          "end": 547
+        }
+      ]
+    }
+  ]
+}

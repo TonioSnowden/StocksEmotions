@@ -1,0 +1,116 @@
+{
+  "_id": "15af7c74fcf5b49c65ced8ec97d1c3d467c2b4342503c5a18a909ef60054f354",
+  "feed": "wall-street-journal",
+  "title": "Intel Sets Plan to Regain Lead Role In Chip Production",
+  "text": "<p>Intel was long the unquestioned leader in computing performance. Co-founder Gordon Moore defined the law underpinning the semiconductor industry, describing how engineers would find ways to shrink circuits at a predictable pace year after year. But the company has fallen behind Asian rivals after a series of missteps and delays.</p><p>Taiwan Semiconductor Manufacturing Co. and South Korea's Samsung Electronics Co. are now both ahead of Intel in chip-manufacturing technology. They manufacture chips on contract for chip-design specialists, allowing those customers to gain an edge on Intel.</p><p>\"We are accelerating our innovation road map to ensure we are on a clear path to process performance leadership by 2025,\" Mr. Gelsinger said in prepared remarks. The CEO rejoined Intel in February with a mandate to revitalize the company after previously serving as its chief technology officer.</p><p>The plan signals that Intel doesn't believe in the near-term demise of Moore's Law even as chip-making becomes more costly and technically difficult.</p><p>The company reiterated its intention to release a new CPU for desktop computers this year and one for servers in the first quarter of 2022. Intel earlier this year delayed introducing the server chip to add features, signaling that the path to recovery isn't without challenges.</p><p>Intel said it plans its next round of personal-computer and server processors in 2023. Those, it said, would fully embrace a new form of circuit-printing called extreme ultraviolet lithography -- the kind of cutting-edge tooling needed to produce the tiniest transistors, each a fraction of the width of an average human hair. Transistors are the building blocks of chips, and billions of them are needed to make calculations inside modern laptops, desktop computers and computer servers.</p><p>Further performance improvements and innovations in transistor design should follow through 2025, Intel said.</p><p>By that year, the company said it hopes to introduce chips with transistor technology it is calling Intel 18A, a loose reference to its minuscule size -- measured in angstroms rather than nanometers, which are currently used to define transistor size. Intel said it is already working on developing the chip.</p><p>Ann Kelleher, Intel's general manager of technology development, said the company is on track to meet its goals, citing its embrace of extreme ultraviolet technology, a more streamlined chip-development process and an openness to innovation coming from outside Intel.</p><p>Intel is racing with competitors that also are working on increasingly sophisticated chips. TSMC already has chips in development with smaller transistors than those featured in its currently leading-edge processors.</p><p>Rebuilding Intel's chip design and production process is only part of Mr. Gelsinger's plan to revitalize the company. While Intel remains America's largest chip company by sales, Nvidia Corp. has surpassed it in valuation. Known for its graphics chips, Nvidia has become an investor darling with its bet on some of the hottest fields in technology, such videogaming and artificial intelligence. The company, along with perennial Intel CPU-rival Advanced Micro Devices Inc., have taken market share from Intel.</p><p>Mr. Gelsinger said in March that Intel would become a leading chip manufacturer, not just for its own needs but also for others. He has committed to investing billions of dollars toward that goal, and Intel is in talks to buy chip-making specialist GlobalFoundries Inc., The Wall Street Journal has reported.</p><p>To help ensure technology hiccups don't delay its recovery plan and return to the technological high-ground, Intel will monitor progress at every step, Ms. Kelleher said. \"In the areas where we have true risk within a process, we absolutely strive to have a Plan B,\" she said. \"So if Plan A doesn't work, we can cut over much more easily.\"</p><p>The company also said it was adjusting the naming of its newest transistor technology to better reflect industry standards. Intel's 10-nanometer chips will now be called Intel 7, and its 7-nanometer chips will be called Intel 4. Years ago, cutting-edge transistor-size numbers referred to actual dimensions, but they lost real-world meaning as the structure of transistors changed.</p><p>Mr. Gelsinger is trying to execute the turnaround during an unprecedented chip shortage, brought on by supercharged demand during the Covid-19 pandemic for videogames, laptops and many other devices. The CEO has projected that outsize demand for semiconductors would continue for years, justifying Intel's manufacturing capacity. The current global shortage of chips, he added, could take until 2023 to be resolved.</p><p>The situation is also providing somewhat of a tailwind for the company. Intel on Thursday reported second-quarter results that benefited from stronger-than-expected sales in its PC-related chips.</p>",
+  "published": "2021-07-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3136,
+          "end": 3141
+        },
+        {
+          "start": 1175,
+          "end": 1180
+        },
+        {
+          "start": 4736,
+          "end": 4741
+        },
+        {
+          "start": 3990,
+          "end": 3995
+        },
+        {
+          "start": 3210,
+          "end": 3215
+        },
+        {
+          "start": 907,
+          "end": 912
+        },
+        {
+          "start": 2718,
+          "end": 2723
+        },
+        {
+          "start": 2831,
+          "end": 2836
+        },
+        {
+          "start": 768,
+          "end": 773
+        },
+        {
+          "start": 2165,
+          "end": 2170
+        },
+        {
+          "start": 4086,
+          "end": 4091
+        },
+        {
+          "start": 3418,
+          "end": 3423
+        },
+        {
+          "start": 4546,
+          "end": 4551
+        },
+        {
+          "start": 434,
+          "end": 439
+        },
+        {
+          "start": 582,
+          "end": 587
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1314,
+          "end": 1319
+        },
+        {
+          "start": 2490,
+          "end": 2495
+        },
+        {
+          "start": 2236,
+          "end": 2241
+        },
+        {
+          "start": 1901,
+          "end": 1906
+        },
+        {
+          "start": 3250,
+          "end": 3255
+        },
+        {
+          "start": 3635,
+          "end": 3640
+        },
+        {
+          "start": 4036,
+          "end": 4041
+        },
+        {
+          "start": 2483,
+          "end": 2488
+        },
+        {
+          "start": 2013,
+          "end": 2018
+        }
+      ]
+    }
+  ]
+}

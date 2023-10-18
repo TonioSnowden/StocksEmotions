@@ -1,0 +1,94 @@
+{
+  "_id": "d33bc66d494fa8bdef960a02042764331342aa64f7bb149c6e0ff44f7673f6ed",
+  "feed": "market-watch",
+  "title": "Apple event: New Apple Watch will track women's periods, sense car crashes; Initial overview from Apple CEO suggests that new virtual-reality headset will not be a focus of annual iPhone unveiling event",
+  "text": "<p>The overview to launch the annual iPhone-unveiling event suggests that Apple AAPLwill not use the event to debut its expected next product category, a virtual-reality headset, though a \"One More Thing\" sneak peek is still a possibility. Apple led off with the debut of Apple Watch Series 8, which features new sensors, including for temperature.</p><p>Apple said that temperature sensing on the new Apple Watch will be helpful for women's health as it can offer a retrospective estimate of when someone ovulated. The watch will also provide updates on whether a user's menstrual cycle deviated. Apple noted that the health data is encrypted end-to-end so that the company isn't able to see the data, a nod to concerns about law enforcement attempting to obtain data about women's menstrual cycles after the Supreme Court ended the constitutional right to an abortion earlier this year.</p><p>For more: Are period-tracking apps safe to use in a post-Roe world?</p><p>The new smartwatch will also add safety features meant for car crashes. The device will aim to detect the forces of a crash with a new accelerometer and other technology. Apple is also adding low-power mode to the watch, which will disable features like the always-on display and the always-on workout detector, enabling users to conserve battery life.</p><p>The Apple Watch Series 8 will be offered in four colors—midnight, starlight, silver and red—as well as three stainless steel finishes. The Series 8 will start at $399 with just GPS and $499 when adding cellular. Consumers can preorder today, with availability beginning Sept. 16.</p><p>Apple also unveiled the Apple Watch Ultra, a new smartwatch model. The company says the device, which features a 49-millimeter case, has a new design relative to existing models and offers functions for scuba divers and other adventure lovers.</p><p>The watch has a new action button that supports \"quick physical control for a range of functions.\" The digital crown has been updated as well, and Apple says that the watch is optimal for those wearing gloves. It will feature a second speaker for users looking to make outdoor calls in windy conditions, and cellular connectivity will be featured in all models. All Ultra devices will cost $799, and users can preorder the device today before it becomes available Sept. 23.</p><p>The company also announced a new Apple Watch SE in midnight, silver, and starlight that is 20% faster than the previous model. It will start at $249 with GPS and $299 with cellular connectivity.</p><p>Updates on AirPods and iPhones are expected to follow the Apple Watch news. The company's iPhone upgrades have been fairly incremental in recent years, and Apple fans shouldn't hold out for any big changes this time around either—except for a possible price hike on high-end models.</p><p>Apple is thought to be reserving its heftiest upgrades for its two iPhone Pro models, and consumers should be prepared to pay perhaps $100 more for those devices than for the current generation of iPhone Pro devices. The company declined to raises prices with last year's updates, but it's currency dealing with supply-chain pressures and a strong U.S. dollar—as it looks to sustain its high margins.</p><p>For more: Apple must do battle with a fierce rival when it unveils the iPhone 14: Inflation</p><p>From a feature perspective, the iPhone 14 Pro and iPhone 14 Pro Max are expected to bring camera enhancements and a faster processor.</p><p>The iPhone 14 line more generally could usher in the end of an era for Apple, which is rumored to be planning to kill off the much-hated \"notch\" that currently houses the company's front-facing camera and facial-recognition scanner. The company is thought to be planning what Bloomberg News calls \"hole-punch and pill-shaped cutouts for the front camera and Face ID sensors.\"</p><p>Read: Apple's stock reverses lower, on cue, ahead of iPhone event</p><p>Apple was reportedly looking into adding satellite capabilities to the iPhone 13 line a year ago, but they never materialized. Rumors are circulating again about satellite features, this time for the coming iPhone 14 family, though it remains to be seen whether Apple can work out a business model for such functions, which would be expected to allow for texting in emergency situations.</p><p>Apple is thought to be designing an augmented-reality headset, though analysts seem doubtful that the company will be ready to debut that at Wednesday's event. Instead, the company is likely to more broadly show off the ways its existing devices support AR functions as the company looks to build consumer interest in the technology.</p><p>Preview: An iPhone price hike is expected, but will there be 'one more thing'?</p><p>Apple event: New Apple Watch will track women's periods, sense car crashes</p>",
+  "published": "2022-09-07T17:41:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 98,
+          "end": 103
+        },
+        {
+          "start": 236,
+          "end": 241
+        },
+        {
+          "start": 237,
+          "end": 242
+        },
+        {
+          "start": 344,
+          "end": 349
+        },
+        {
+          "start": 585,
+          "end": 590
+        },
+        {
+          "start": 1111,
+          "end": 1116
+        },
+        {
+          "start": 1569,
+          "end": 1574
+        },
+        {
+          "start": 1957,
+          "end": 1962
+        },
+        {
+          "start": 2629,
+          "end": 2634
+        },
+        {
+          "start": 2755,
+          "end": 2760
+        },
+        {
+          "start": 3164,
+          "end": 3169
+        },
+        {
+          "start": 3450,
+          "end": 3455
+        },
+        {
+          "start": 3759,
+          "end": 3764
+        },
+        {
+          "start": 3819,
+          "end": 3824
+        },
+        {
+          "start": 4080,
+          "end": 4085
+        },
+        {
+          "start": 4205,
+          "end": 4210
+        }
+      ],
+      "weightsV2": {
+        "weight": 26.0,
+        "baseWeight": 17.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

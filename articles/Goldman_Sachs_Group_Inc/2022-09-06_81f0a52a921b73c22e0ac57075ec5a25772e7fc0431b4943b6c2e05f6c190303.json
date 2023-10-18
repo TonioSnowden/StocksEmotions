@@ -1,0 +1,58 @@
+{
+  "_id": "81f0a52a921b73c22e0ac57075ec5a25772e7fc0431b4943b6c2e05f6c190303",
+  "feed": "market-watch",
+  "title": "Bill Ackman says stocks will soon be a 'buy' now that the Fed is 'doing what it has to do' to fight inflation",
+  "text": "<p>\"I think they said they're going to do what they have to do which is raise rates and keep them there for an extended period,\" Ackman said Tuesday. \"Our biggest fear was inflation, and that's why we wanted the Fed to raise interest rates.\"</p><p>Asked where he sees inflation 12 months from now, Ackman replied that he expects price pressures will come down \"a lot,\" falling to 4%, if not 3.5%, from a peak of 9.1% in June, which was the highest recorded level in 41 years.</p><p>\"I think inflation is coming off\" he said. \"I think people will expect the Fed to ease.'</p><p>And once investors recognize the Fed as winning its battle against inflation, Ackman expects stocks will rebound. \"Once people realize the Fed doesn't have to keep increasing rates and will soon take rates down … that will be a buy signal for markets.\"</p><p>This mirrors the expectation for a \"soft landing\" in the U.S. expressed by Goldman Sachs Group GS economist Jan Hatzius, who has written extensively about it.</p><p>Don't miss: The U.S. is on track for a soft landing, Goldman Sachs chief economist says</p><p>U.S. stocks have stumbled this year, as have bonds, in what has by some measures been one of the worst years for the markets in decades. The S&amp;P 500 SPX is down 17.5% so far this year. Stocks turned lower shortly after the open on Tuesday as the energy crisis in Europe and expectations of further central-bank rate hikes continued to weigh on investors' appetite for riskier assets.</p><p>As far as Pershing Square's portfolio is concerned, Ackman said it hasn't changed much since the beginning of the year — aside from the firm's short-lived position in Netflix Inc. NFLX.</p><p>Pershing Square's latest SEC filings back this up. As of the end of June, the firm's portfolio consisted of concentrated bets on Lowes Inc. LOW, Chipotle Mexican Grill CMG, Hilton Worldwide Holdings HLT, Howard Hughes Corp. HHC and Canadian Pacific Railway CA:CP.</p><p>Bill Ackman says stocks will soon be a 'buy' now that the Fed is 'doing what it has to do' to fight inflation</p>",
+  "published": "2022-09-06T14:33:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99998564,
+      "offsets": [
+        {
+          "start": 877,
+          "end": 896
+        },
+        {
+          "start": 885,
+          "end": 892
+        },
+        {
+          "start": 1021,
+          "end": 1034
+        },
+        {
+          "start": 1022,
+          "end": 1029
+        },
+        {
+          "start": 884,
+          "end": 891
+        },
+        {
+          "start": 1022,
+          "end": 1035
+        },
+        {
+          "start": 885,
+          "end": 898
+        },
+        {
+          "start": 1013,
+          "end": 1026
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.4153104,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.58500004,
+        "tagPositionWeight": 0.0003105402,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

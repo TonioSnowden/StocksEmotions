@@ -1,0 +1,32 @@
+{
+  "_id": "f0704cb5405d04a5a5dc9251364dc0713a53761deca8aa4438597bb32416a600",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: States Demand Apple, Google Raise TikTok's Age Ratings",
+  "text": "<p>The attorneys general said Google and Apple should be responsible for ensuring accurate age ratings and warned they may face legal action from the states if TikTok's rating isn't addressed.</p><p>\"Parents are the first line of defense, but their job is being made more difficult by ratings that misrepresent the true content found on the platform,\" Montana Attorney General Austin Knudsen said. \"It's past time for Apple and Google to do their part in helping parents keep their kids safe online and increase their TikTok ratings.\"</p><p>A TikTok spokesman said, \"One of our most important commitments is supporting the safety and well-being of teens, which we strive to accomplish through robust safety policies and parental controls, age-appropriate account settings and over 40,000 safety professionals dedicated to keeping our community safe and welcoming.\"</p><p>Representatives from Google and Apple didn't respond to requests for comment.</p><p>The state coalition also includes attorneys general from Alabama, Arkansas, Florida, Georgia, Indiana, Kentucky, Louisiana, Mississippi, North Dakota, Oklahoma, South Carolina, Texas, Utah and Virginia. The letter adds to state efforts pushing back against the influence of TikTok. Indiana filed a pair of lawsuits against TikTok last week that alleged the platform deceives consumers about its adult content and data security.</p><p>Governors in states including Texas, South Carolina and Alabama moved to block state agencies from using TikTok because of concerns about data breaches and national security.</p>",
+  "published": "2022-12-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 25,
+          "end": 30
+        },
+        {
+          "start": 38,
+          "end": 43
+        },
+        {
+          "start": 409,
+          "end": 414
+        },
+        {
+          "start": 882,
+          "end": 887
+        }
+      ]
+    }
+  ]
+}

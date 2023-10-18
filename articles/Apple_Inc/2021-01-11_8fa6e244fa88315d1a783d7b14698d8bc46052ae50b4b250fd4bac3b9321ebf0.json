@@ -1,0 +1,40 @@
+{
+  "_id": "8fa6e244fa88315d1a783d7b14698d8bc46052ae50b4b250fd4bac3b9321ebf0",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Apple, Amazon Move to Curb Parler",
+  "text": "<p>\"We have always supported diverse points of view being represented on the App Store, but there is no place on our platform for threats of violence and illegal activity,\" Apple said in a statement. \"Parler has not taken adequate measures to address the proliferation of these threats to people's safety.\"</p><p>The announcements from Amazon and Apple come a day after Alphabet Inc.'s Google suspended Parler from its Play Store app marketplace, citing violations of requirements for sufficient moderation of content for apps it distributes. The move from Google didn't affect Parler's availability on the internet or in other Android app stores, Google said.</p><p>Interest in Parler has risen since November as larger social-network operators such as Facebook Inc. and Twitter Inc. have become more aggressive in policing content. On Friday, Twitter banned President Trump's personal account, citing what it said was the risk of further incitement of violence by the president after last week's mob attack, which left five people dead.</p><p>Parler has positioned itself as an alternative to larger platforms. Its rules don't prohibit hate speech and false information while banning spam, threats of violence and other illegal activity.</p><p>Parler executives told The Wall Street Journal it has been working to bolster its content-moderation efforts and sharing such information with large tech companies concerned about its practices.</p><p>In the past few days, Parler doubled its team of volunteer moderators -- called \"jurors\" -- to more than a thousand and instructed them to search \"hot\" hashtags for incitement, a more proactive approach than what was used previously, said Jeffrey Wernick, Parler's operating chief. The company had also instructed its jurors to hunt down any content suggesting violence within the comment sections of its more highly trafficked sections, and planned to hire employees to bolster these efforts, according to Amy Peikoff, chief policy officer of Parler.</p><p>However, Parler executives said, the tech companies said those efforts haven't gone far enough. Apple told the company it found its response insufficient, according to the latest app notice, saying that Parler had to demonstrate the \"ability to effectively moderate and filter the dangerous and harmful content\" on the service.</p><p>\"This was a coordinated attack by the tech giants to kill competition in the market place,\" Chief Executive John Matze said in a Saturday post on Parler. \"We were too successful too fast. You can expect the war on competition and free speech to continue, but don't count us out.\"</p><p>Amazon's announcement has far greater import, effectively taking Parler's website offline and no longer storing Parler's data. In Apple's case, the App Store is the only means to download mobile apps on Apple devices, and Parler's removal means the app can't be downloaded on devices where it isn't already present or updated on devices where it is.</p><p>---</p><p>Aaron Tilley contributed to this article.</p>",
+  "published": "2021-01-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2777,
+          "end": 2782
+        },
+        {
+          "start": 170,
+          "end": 175
+        },
+        {
+          "start": 2062,
+          "end": 2067
+        },
+        {
+          "start": 338,
+          "end": 343
+        },
+        {
+          "start": 11,
+          "end": 16
+        },
+        {
+          "start": 2704,
+          "end": 2709
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

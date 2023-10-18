@@ -1,0 +1,28 @@
+{
+  "_id": "1a07bc9566f7b6abb6e4686e4ceb5612bc8dec2f007dbf6b437de5df47024e37",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: DOJ Backs Bill to Curb Large Tech Platforms",
+  "text": "<p>The letter, obtained by The Wall Street Journal, expresses support for the American Innovation and Choice Online Act, which the Senate's judiciary panel approved in January in a bipartisan vote, as well as similar legislation moving through the House.</p><p>Amazon.com Inc., Alphabet Inc.'s Google, Apple Inc. and others oppose the proposed legislation, saying it would make it harder to offer popular services. The bills' opponents also say it is fair for e-marketplaces, search engines and app stores to profit off their creations' popularity.</p><p>The department's letter throws its weight behind a different view: that the platforms' dominant position gives them unchecked power to influence the fate of other businesses.</p><p>\"Discriminatory conduct by dominant platforms can sap the rewards from other innovators and entrepreneurs, reducing the incentives for entrepreneurship and innovation,\" the letter says. \"Even more importantly, the legislation may support the growth of new tech businesses adjacent to the platforms.\"</p>",
+  "published": "2022-03-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 293,
+          "end": 302
+        },
+        {
+          "start": 293,
+          "end": 303
+        },
+        {
+          "start": 293,
+          "end": 298
+        }
+      ]
+    }
+  ]
+}

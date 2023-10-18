@@ -1,0 +1,96 @@
+{
+  "_id": "aa642c4c76693390869497fdc0ec1e189557bb22dbc0f4c7534fdd647da7b1fc",
+  "feed": "wall-street-journal",
+  "title": "Apple Ordered To Relax Payment Rules --- In mixed verdict, judge gives developers new ways to get paid but leaves App Store intact",
+  "text": "<p>Instead, she gave the \"Fortnite\" videogame maker a partial victory, saying Apple can't block developers from sending users outside the App Store to make payments related to apps. Apple had already begun to loosen those rules due to a separate class-action suit and an antitrust probe in Japan.</p><p>\"The Court does not find that Apple is an antitrust monopolist in the submarket for mobile gaming transactions,\" the judge wrote. \"However, it does find that Apple's conduct in enforcing anti-steering restrictions is anticompetitive.\"</p><p>Appeals were expected, regardless of the judge's ruling.</p><p>The closely watched case highlights a broader concern about online platforms and digital commerce. Regulators and lawmakers in Washington, Brussels and beyond are seeking to rein in big tech companies. The likes of Alphabet Inc., Amazon.com Inc., Facebook Inc. and Microsoft Corp. watched the trial for signs of how their worlds might change.</p><p>\"Today the court has affirmed what we've known all along: The App Store is not in violation of antitrust law,\" Apple said. \"We remain committed to ensuring the App Store is a safe and trusted marketplace that supports a thriving developer community and more than 2.1 million U.S. jobs, and where the rules apply equally to everyone.\"</p><p>On Twitter, Epic co-founder and Chief Executive Tim Sweeney responded that Epic \"will fight on.\"</p><p>\"Today's ruling isn't a win for developers or for consumers,\" he wrote. \"Fortnite will return to the iOS App Store when and where Epic can offer in-app payment in fair competition with Apple in-app payment, passing along the savings to customers.\"</p><p>The lawsuit moved at a quick pace after its filing in August last year. The battle arose out of an attempt by Epic to put its own in-app payment system into its wildly popular \"Fortnite\" -- a violation of Apple's rules. Apple quickly booted the game and, in response, Epic filed its lawsuit.</p><p>On Friday, the judge said that Apple was within its rights to boot \"Fortnite,\" and ruled that Epic was in breach of its contract and ordered the company to pay damages.</p><p>Even before the judge's ruling, Apple had been making concessions on the so-called anti-steering provision as it worked to settle a lawsuit brought by smaller developers and the Japanese investigation.</p><p>Eliminating anti-steering provisions \"will increase competition, increase transparency, increase consumer choice and information while preserving Apple's iOS ecosystem,\" Judge Gonzalez Rogers wrote. \"Moreover, it does not require the Court to micromanage business operations which courts are not well-suited to do as the Supreme Court has appropriately recognized.\"</p><p>The case pitted the late Steve Jobs's vision of the iPhone as a curated device where programs operate within a walled garden of Apple hardware and software against Mr. Sweeney's desire for a more open ecosystem. Mr. Sweeney has pushed for mobile phones to be like a personal computer where users can download whatever software they like.</p><p>\"Big Tech was watching this case because it addressed whether antitrust law will countenance successful walled gardens,\" said Paul Swanson, a Denver-based antitrust lawyer at Holland &amp; Hart LLP who followed the case. \"While we got a bit of a mixed answer, I think the chief takeaway is that 'success is not illegal' and a walled garden like Apple's, which competes with other facilitators of digital mobile gaming transactions, is not unlawful.\"</p><p>From the start, Epic faced an uphill battle, legal experts said. Courts have come to read antitrust law more narrowly than during the trustbusting era. Key to the fight was defining the market.</p><p>Epic said Apple improperly limited distribution of third-party apps through its App Store and required in-app purchases through its own payment system, which collected a cut as high as 30%.</p><p>Meanwhile, Apple disputed that it held monopoly power. The company said Epic had many other ways to distribute games and that it was motivated by a desire to get around paying the 30% fee, which Apple called an industry standard.</p><p>Ultimately, Judge Gonzalez Rogers disagreed with both sides about the definition of the market. \"The Court finds that the relevant market here is digital mobile gaming transactions, not gaming generally and not Apple's own internal operating systems related to the App Store,\" she wrote. \"The mobile gaming market itself is a $100 billion industry.\"</p><p>Apple also had told the judge that forcing it to let companies bypass its app-review process and allow for software downloads on iPhones outside of the App Store would open users up to cyber threats.</p><p>\"As a major player in the wider videogaming industry, Epic Games brought this lawsuit to challenge Apple's control over access to a considerable portion of this submarket for mobile gaming transactions,\" the judge wrote. \"Ultimately, Epic Games overreached. As a consequence, the trial record was not as fulsome with respect to antitrust conduct in the relevant market as it could have been.\"</p>",
+  "published": "2021-09-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1931,
+          "end": 1936
+        },
+        {
+          "start": 2101,
+          "end": 2106
+        },
+        {
+          "start": 2765,
+          "end": 2770
+        },
+        {
+          "start": 3316,
+          "end": 3321
+        },
+        {
+          "start": 324,
+          "end": 329
+        },
+        {
+          "start": 179,
+          "end": 184
+        },
+        {
+          "start": 3625,
+          "end": 3630
+        },
+        {
+          "start": 4246,
+          "end": 4251
+        },
+        {
+          "start": 4684,
+          "end": 4689
+        },
+        {
+          "start": 1040,
+          "end": 1045
+        },
+        {
+          "start": 4000,
+          "end": 4005
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 452,
+          "end": 457
+        },
+        {
+          "start": 4385,
+          "end": 4390
+        },
+        {
+          "start": 1813,
+          "end": 1818
+        },
+        {
+          "start": 3816,
+          "end": 3821
+        },
+        {
+          "start": 1545,
+          "end": 1550
+        },
+        {
+          "start": 1828,
+          "end": 1833
+        },
+        {
+          "start": 2417,
+          "end": 2422
+        },
+        {
+          "start": 75,
+          "end": 80
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

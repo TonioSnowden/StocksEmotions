@@ -1,0 +1,34 @@
+{
+  "_id": "c9a65880a22ea37303f888c77dfffe1fea2f4ae67849c62348d9a2a8c3417b5e",
+  "feed": "market-watch",
+  "title": "Zoom stock is off 80% from peak, and Citi sees 'new hurdles' ahead; Citi Research downgraded Zoom's shares to sell amid macroeconomic pressures, competition from Microsoft Teams",
+  "text": "<p>\"Zoom's post-COVID growth trajectory has always been more challenging, given pull-forward dynamics, but we see new hurdles to sustaining growth,\" he wrote. Those challenges include heightened competition from Microsoft's Teams product, macroeconomic pressures on smaller businesses, and margin impacts stemming from the company's business evolution as well as its hiring trajectory.</p><p>Zoom shares are down more than 4% in Tuesday trading. They're off more than 80% from their October 2020 closing high of $568.34.</p><p>Radke wrote that it will be \"tough to offset\" the headwinds that are \"beginning to pile up\" for Zoom. Notably, tech budgets are starting to reflect a \"significant de-prioritization\" of collaboration software and other so-called unified communications-as-a-service technology.</p><p>Further, competition from Teams is \"more of a factor this year,\" according to Radke. His conversations at an industry conference earlier this year highlighted \"broad-based momentum\" for Teams when it came to collaboration tools and even replacements for traditional phones.</p><p>Radke also worries about margin impacts related to the shifting nature of Zoom's customer mix. He said the company benefitted earlier in the pandemic by signing on smaller businesses that had lower customer-acquisition costs because they were able to sign themselves up for the service. However, Radke is now concerned that some of these \"online\" businesses could \"churn,\" or leave Zoom, which could increase the company's mix of enterprise business.</p><p>He added that Zoom \"continues to hire aggressively\" across sales and marketing and research and development roles. \"We continue to see strong job posting activity…which to us suggests there could be downside risk to street margin estimates, should slower revenue growth play out,\" Radke wrote.</p><p>Radke lowered his price target on Zoom shares to $91 from $99. The company is due to report fiscal second-quarter results Monday afternoon.</p><p>Morgan Stanley's Meta Marshall wrote Tuesday that Zoom has a \"tricky setup\" headed into the upcoming report, though she maintained an overweight rating on Zoom shares while saying that \"operating margin expectations remain too conservative.\"</p><p>Zoom stock is off 80% from peak, and Citi sees 'new hurdles' ahead</p>",
+  "published": "2022-08-16T16:04:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 208,
+          "end": 217
+        },
+        {
+          "start": 209,
+          "end": 218
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.222112,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.22211194,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

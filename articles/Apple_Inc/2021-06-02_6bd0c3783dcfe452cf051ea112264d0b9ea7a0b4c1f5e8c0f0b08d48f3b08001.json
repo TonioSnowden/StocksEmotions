@@ -1,0 +1,40 @@
+{
+  "_id": "6bd0c3783dcfe452cf051ea112264d0b9ea7a0b4c1f5e8c0f0b08d48f3b08001",
+  "feed": "wall-street-journal",
+  "title": "Some Companies Offer Spare Parts, Fix-It Manuals",
+  "text": "<p>Right-to-repair activists say some consumer electronics brands, along with manufacturers of items like furniture and medical devices, deliberately monopolize the aftercare market of their own products to generate revenue from repairs and service plans, as well as to boost sales of new products.</p><p>Many companies don't make available the spare parts or instructions needed to independently fix products, and can design items in a way that makes them difficult disassemble for repair and incompatible with unauthorized replacement parts.</p><p>With control of repairs, companies can push customers into disposing of electronics that could be fixed or refurbished, said Ugo Vallauri, policy lead and co-founder of the Restart Project, a London-based nonprofit.</p><p>The right-to-repair movement has caught the attention of lawmakers as a result of campaigning from consumer and environmental-protection groups. Right-to-repair laws have been proposed in a number of U.S. states from Arkansas, where a bill would make it easier for farmers to repair their own equipment, to Washington, where legislators hope to promote the \"fair servicing and repair of digital electronic products.\"</p><p>The French government in January began requiring makers of certain electronic devices to score their products' repairability on a scale of zero to 10. The closer a product's score is to 10, the easier it is to repair. Apple Inc., for instance, gave its iPhone 12 Pro Max a \"six.\"</p><p>IKEA of Sweden AB has for years helped customers source what it calls spare assembly parts -- the likes of nuts, bolts and screws -- in-store and over the phone. In 2020 it let customers order them free of charge online.</p><p>The company is now looking into ways to sell replacement parts such as arm rests, cushions and drawer fronts, said Andreas Vogel, the development leader of IKEA's Spare Parts Project. The global service forms part of its wider drive toward becoming a more sustainable retailer, Mr. Vogel said.</p><p>Apple in 2019 started supplying some independent repair businesses in America with Apple parts, tools, training, service guides and diagnostics to perform out-of-warranty repairs on iPhones for the first time, in an initiative designed to complement its Apple Authorized Service Provider program.</p><p>Microsoft Corp. also said it is working to improve the repairability of its devices -- namely, how difficult it is to take them apart.</p>",
+  "published": "2021-06-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2046,
+          "end": 2051
+        },
+        {
+          "start": 1963,
+          "end": 1968
+        },
+        {
+          "start": 1386,
+          "end": 1395
+        },
+        {
+          "start": 1386,
+          "end": 1396
+        },
+        {
+          "start": 2217,
+          "end": 2222
+        },
+        {
+          "start": 1386,
+          "end": 1391
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

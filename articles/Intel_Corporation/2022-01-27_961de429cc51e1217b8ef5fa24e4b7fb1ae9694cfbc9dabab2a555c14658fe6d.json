@@ -1,0 +1,64 @@
+{
+  "_id": "961de429cc51e1217b8ef5fa24e4b7fb1ae9694cfbc9dabab2a555c14658fe6d",
+  "feed": "market-watch",
+  "title": "Intel stock hits lowest price in more than a year, and there is another shoe to drop",
+  "text": "<p>Shares of Intel INTC fell more than 6% Thursday and hit an intraday low of $47.78, their lowest trade since Dec. 22, 2020, when they touched $45.77. The stock was Thursday's worst performer on the Dow Jones Industrial Average&#xa0;DJIA, which was flat.</p><p>The stock was headed for the seventh-straight quarter in which it fell the day after earnings were reported, even though Intel beat earnings expectations each time. The average one-day post-earnings decline after the previous six earnings reports has been 9.7%, according to FactSet data.</p><p>While the chip maker easily topped Wall Street estimates for the quarter in an earnings report late Wednesday, results showed a 7% decline in revenue from client computing, the traditional PC group and Intel's largest business unit, to $10.1 billion, which was higher than Wall Street's estimate of $9.59 billion.</p><p>The company's forecast elicited concern, however, not just because Intel reported that fourth-quarter margins fell to 55.4% from 60% in the year-ago quarter, but because of signs the PC boom that Intel has enjoyed is swiftly coming to an end.</p><p>For the first quarter, Intel forecast adjusted first-quarter earnings of 80 cents a share on revenue of about $18.3 billion, while analysts surveyed by FactSet on average had expected earnings of 86 cents a share on revenue of $17.61 billion. The company is holding off on giving an annual guidance until its Feb. 17 investor day. </p><p>Outside of the falling margins question, which has been on the table since last quarter, analysts seemed to be more concerned this time around with how an expected drop in PC growth will hurt Intel as it's trying to rebuild itself.</p><p>Bernstein analyst Stacy Rasgon, who has an underperform rating and a $40 price target, in a note entitled “Purgatory,” noted that Intel's forecast “could conceivably be weaker than it appeared on the surface” because the first quarter contains an extra week compared with a year ago.</p><p>From there, the analyst focused on a forecast correction in PC growth that appears on the horizon. In 2021, PC shipments hit their highest levels in nearly a decade fueled by the COVID-19 pandemic.</p><p>“PC CPUs [central processing units] (which we have believed were overshipping, particularly in notebooks) are now definitively entering correction which may make unit growth next year challenging even if PCs stay strong, and the datacenter trajectory is being driven by likely unsustainable enterprise strength (+53% [year-over-year]) with 5 quarters in a row of cloud declines (worrisome),” Rasgon said.</p><p>Read:&#xa0;Chips may be sold out for 2022 thanks to shortage, but investors are worried about the end of the party</p><p>Evercore ISI analyst C.J. Muse, who has an in-line rating and a $55 price target, said that while demand for chips remains strong, “market fears around inventory build may be coming to surface for PC CPUs.”</p><p>“Intel guided March Q revenues down 6% [quarter-over-quarter] led by [notebook] declines as customers burn built-up CPU inventory,” Muse said. “Customers ordered CPUs based on robust end-demand trends in CY21, but could not get matched sets given ongoing industry constraints and are now forced to burn the overbuilt components.”</p><p>“The bad news, this clearly flames the bear debate around pockets of inventory builds,” said Muse. “The good news, this dynamic does not speak to end-demand, but rather just a transitory issue (though INTC does expect constraints to last into CY23).”</p><p>Citi Research analyst Christopher Danley, who has a neutral rating and lowered his price target to $55 from $58, said Intel's expected inventory correction in the notebook end market was a “red flag.”</p><p>“Prior to 2020, PC units declined 1% on average, at about 260 million units per year,” Danley said. “Due to work/school from home trends, PC units grew 14% to 299 million units in 2020 and roughly 12% to 335 million in 2021, well above the average historical decline of 1%.”</p><p>“However, we expect this trend to revert to the mean in 2H22 as PC demand matures and with inventory correction after two consecutive years of double-digit growth,” Danley said.</p><p>Cowen analyst Matthew Ramsay, who has an outperform rating and a $60 price target, called Intel's report a “complicated quarter,” in that while revenue benefited from PC growth and business spending, falling margins posed a “tougher reality.”</p><p>“The magnitude and reality is settling in for investors…which may ultimately be a good thing in our view, as it potentially allows sentiment to bottom with a margin bottom soon to follow…though the key will be plotting a credible path to recovery,” Ramsay said.</p><p>Of the 40 analysts who cover Intel, 10 have buy ratings, 21 have hold ratings, and nine have sell ratings, along with an average price target of $54.43, according to FactSet.</p>",
+  "published": "2022-01-27T15:18:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 10,
+          "end": 15
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 739,
+          "end": 744
+        },
+        {
+          "start": 918,
+          "end": 923
+        },
+        {
+          "start": 1047,
+          "end": 1052
+        },
+        {
+          "start": 1117,
+          "end": 1122
+        },
+        {
+          "start": 1617,
+          "end": 1622
+        },
+        {
+          "start": 1787,
+          "end": 1792
+        },
+        {
+          "start": 2862,
+          "end": 2867
+        },
+        {
+          "start": 4186,
+          "end": 4191
+        },
+        {
+          "start": 4630,
+          "end": 4635
+        }
+      ]
+    }
+  ]
+}

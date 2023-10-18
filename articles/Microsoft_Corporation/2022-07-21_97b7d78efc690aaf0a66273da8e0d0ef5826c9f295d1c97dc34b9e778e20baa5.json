@@ -1,0 +1,68 @@
+{
+  "_id": "97b7d78efc690aaf0a66273da8e0d0ef5826c9f295d1c97dc34b9e778e20baa5",
+  "feed": "wall-street-journal",
+  "title": "Microsoft, Oracle Boost Links Between Their Clouds",
+  "text": "<p>The Oracle Database Service for Microsoft Azure was announced today at Microsoft Inspire, an online event for Microsoft partners.</p><p>It builds on an integration introduced in 2019, known as Oracle Interconnect for Microsoft Azure. That earlier step connected Oracle Cloud Infrastructure to Microsoft Azure cloud infrastructure. It required a fair amount of effort and technical expertise on the part of customers to make it work, the companies said.</p><p>\"Over the last couple years we have had a lot of success with that. And we also got a lot of customer feedback. And one of the things that customers [said] was, 'Hey, it's great you are working together, but we really would like a more integrated experience,'\" said Clay Magouyrk, executive vice president, Oracle Cloud Infrastructure.</p><p>\"The ability to benefit from both clouds, and the flexibility, is a real win for customers,\" said Corey Sanders, corporate vice president of Microsoft Cloud for Industry and Global Expansion.</p><p>The new service connects Oracle's database service directly to the Azure cloud, eliminating custom work that previously would have been required.</p><p>In practice, that means an Oracle database user can move data easily to the Microsoft Azure cloud and have access to Microsoft tools such as Azure Synapse, which analyzes the data, the companies said.</p><p>There are no fees associated with data transfer between the two cloud platforms, although customers will pay for other services beyond data transfer, such as Azure Synapse or the self-tuning and patching Oracle Autonomous Database.</p><p>The new service includes a dashboard with a single sign-on process. That means Oracle customers who move workloads to Azure can still work in an Oracle-like environment and vice versa, reducing the need for customers to learn new systems.</p><p>Oracle and Microsoft interconnects are in 11 facilities in the Americas, Europe and Asia. That physical proximity allows a less than 2-millisecond level of latency or delay in communication across the cloud platforms, the companies said.</p><p>Oracle and Microsoft have made the service available on an early basis to a number of companies including Veritas Technologies LLC, a multicloud data management company based in Santa Clara, Calif.</p><p>Amazon.com Inc.'s Amazon Web Services, Microsoft Azure and Alphabet Inc.'s Google Cloud accounted for 65% of the $53 billion in global cloud-service spending in the first quarter of the year, up from 52% four years ago, according to Synergy Research Group.</p>",
+  "published": "2022-07-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 2042,
+          "end": 2051
+        },
+        {
+          "start": 287,
+          "end": 302
+        },
+        {
+          "start": 2268,
+          "end": 2283
+        },
+        {
+          "start": 71,
+          "end": 80
+        },
+        {
+          "start": 924,
+          "end": 933
+        },
+        {
+          "start": 110,
+          "end": 119
+        },
+        {
+          "start": 1238,
+          "end": 1247
+        },
+        {
+          "start": 1804,
+          "end": 1813
+        },
+        {
+          "start": 211,
+          "end": 220
+        },
+        {
+          "start": 1197,
+          "end": 1212
+        },
+        {
+          "start": 211,
+          "end": 226
+        },
+        {
+          "start": 32,
+          "end": 47
+        }
+      ]
+    }
+  ]
+}

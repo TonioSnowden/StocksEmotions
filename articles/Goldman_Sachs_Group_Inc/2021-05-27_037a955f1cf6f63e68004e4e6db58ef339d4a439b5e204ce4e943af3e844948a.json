@@ -1,0 +1,28 @@
+{
+  "_id": "037a955f1cf6f63e68004e4e6db58ef339d4a439b5e204ce4e943af3e844948a",
+  "feed": "ftcomall",
+  "title": "Quantum computing: a way to supercharge finance - or wreck it",
+  "text": "<p>All new technologies have drawbacks. None more so than quantum computing. This could revolutionise finance through superfast risk modelling and deal processing. Banks such as Barclays, BBVA and Goldman Sachs are investing in research alongside venture capitalists.</p> <p>Equally, quantum computers might fatally damage unwary organisations if gangsters and rogue states use them to decrypt communications.</p> <p>The duality is apt. The technology aims to harness the quantum-level capacity of matter to simultaneously express states that would normally be mutually exclusive. Linear increases in qubits — equivalent to conventional bits — could produce exponential rises in processing power.</p> <p>That promise is luring steady investment. This week, Xanadu Quantum Technologies, a Toronto business that uses light particles to represent qubits, secured <a href=\"https://www.prnewswire.com/news-releases/xanadu-closes-100m-usd-series-b-to-build-a-fault-tolerant-photonic-quantum-computer-301298647.html\">$100m</a> from the likes of Bessemer Venture Partners and Tiger Global Management. In March, PsiQuantum, a California start-up whose backers include UK tech guru Hermann Hauser, <a href=\"https://www.ft.com/content/a5af3039-abbf-4b25-92e2-c40e5957c8cd\">raised $215m</a>. Earlier that month, Maryland's IonQ announced a $2bn Spac float.</p> <p>Barclays and IBM researchers recently <a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9369145\">published details</a> of experiments in applying quantum computing methods to securities settlements. These highlighted potential to settle numerous interdependent trades far faster than traditional batch processing permits. Spain's BBVA, working with Accenture, has developed a way to rebalance portfolios multiple times daily rather than once overnight. Goldman has experimented with <a href=\"https://www.ft.com/content/bbff5dfd-caa3-4481-a111-c79f0d38d486\">derivatives pricing</a>.</p> <p>No one is publicly using quantum computing for regular, real world banking yet. Experimental machines are unstable and their calculations are riddled with noise. Developers hope to produce robust successors in 5-15 years. Cynics say they have heard the same estimate every year for more than a decade.</p> <p>Yet the National Institute of Standards and Technology in the US is sufficiently optimistic — or terrified — to be developing new encryption standards. Most encryption uses codes based on the factors of large prime numbers. Quantum computers could crack these. Accenture's David Treat says “there will be disasters” unless new standards are adopted.</p> <p>Crooks and spooks may already be stealing encrypted data they hope to decode years from now. Business should pay more attention to quantum computing as an opportunity — and a threat.</p> <p><em>The Lex team is interested in hearing more from readers. Please tell us what you think of the potential of quantum computing in the comments section below.</em></p><p>Source:  2021 'Quantum computing: a way to supercharge finance - or wreck it' FT.com 27 May. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-05-27T13:05:29.647Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 194,
+          "end": 207
+        },
+        {
+          "start": 1479,
+          "end": 1486
+        },
+        {
+          "start": 194,
+          "end": 201
+        }
+      ]
+    }
+  ]
+}

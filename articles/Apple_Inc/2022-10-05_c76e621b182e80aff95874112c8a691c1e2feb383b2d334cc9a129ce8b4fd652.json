@@ -1,0 +1,36 @@
+{
+  "_id": "c76e621b182e80aff95874112c8a691c1e2feb383b2d334cc9a129ce8b4fd652",
+  "feed": "wall-street-journal",
+  "title": "Technology:  EU Vote Freezes Out  Lightning Charger  ----  By Kim Mackrael",
+  "text": "<p>   BRUSSELS -- Apple Inc. is losing its Lightning in Europe. </p><p>   European Union lawmakers backed legislation to create a common standard for charging smartphones and other portable electronics in a move that will effectively ban the sale of new products in Europe that use the company's proprietary Lightning charger port. </p><p>   The European Parliament on Tuesday voted to approve the new rules, which aim to force companies that sell portable electronic devices in the EU to ensure they are equipped with a USB-C charging port, technology that is commonly used in new laptop computers and Android phones. The aim is to have a common standard that would allow consumers to use the same cable to charge all their portable electronic devices. </p><p>   \"The common charger will finally become a reality in Europe,\" said Alex Agius Saliba, a member of the Parliament from Malta. He said the new rules \"will benefit everyone -- from frustrated consumers to our vulnerable environment.\" </p><p>   The EU legislation is a blow to Apple, which uses its Lightning ports on new iPhones. Replacement chargers for iPhones tend to be more expensive than USB-C cables. </p><p>   Apple has said the law would harm innovation and inconvenience users. </p><p></p>",
+  "published": "2022-10-05T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1123,
+          "end": 1128
+        },
+        {
+          "start": 991,
+          "end": 996
+        },
+        {
+          "start": 12,
+          "end": 22
+        },
+        {
+          "start": 12,
+          "end": 17
+        },
+        {
+          "start": 12,
+          "end": 21
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "08f3ddc0d838b44e0bcb2c7c5452ca1a9cc1784739ec83bb68320a4fbbce71d4",
+  "feed": "ftcomall",
+  "title": "Investment trust Chrysalis forecasts boost in fortunes for start-ups",
+  "text": "<p>UK investment trust Chrysalis has hailed the rebound in tech stocks this summer as a sign that the fortunes of high-growth start-ups will improve over the coming months after a brutal start to the year.</p> <p>Richard Watts and Nick Williamson, managers of the London listed trust that has bet heavily on growth stocks such as fintech groups Klarna and Starling, think the worst is over for the tech companies in their portfolio, hit hard by inflation and interest rate rises.</p> <p>They said the rally in listed tech companies since July, along with earnings growth, will help their fund bounce back after its share price plunged 65 per cent since January.</p> <p>The trust, managed by UK fund house Jupiter, was savaged as the market turned against flashy young tech companies that dominate its portfolio, with fundraising for these start-ups drying up.</p> <p>Swedish buy-now-pay-later company Klarna, one of the trust's biggest bets, had its valuation slashed 78 per cent in the second quarter. It was one of the unicorns, privately owned start-ups valued at more than $1bn, that suffered most in the tech crash.</p> <p>“A re-rating of relevant listed peers, combined with strong revenue and earnings growth across the portfolio, should have positive implications for the value of [our] portfolio in forthcoming quarters,” Chrysalis said in quarterly results posted on Monday. </p> <p>The tech-dominated Nasdaq 100 index has rallied 13 per cent since the beginning of July. A Goldman Sachs index tracking unprofitable tech companies has also risen nearly 10 per cent, but remains down 46 per cent since January. </p> <p>However, top traders have warned clients that much of the July rally in US equities has been driven by hedge funds <a href=\"https://www.ft.com/content/28492ea1-4355-476b-9a31-269f7a945289\">unwinding large bets on markets falling</a> rather than new optimism about the outlook.</p> <p>Chrysalis has stepped up its tech strategy, putting more cash behind its biggest bets — Starling, Klarna and Featurespace — as it participates in further fundraising rounds.</p> <p>The trust's portfolio companies have raised a total of $1.4bn this year, despite tougher conditions as interest rates rise, although about 60 per cent of Chrysalis holdings have yet to turn a profit. </p> <p>Fresh funding for Klarna, once Europe's most valuable private tech company, came with a steep cut to its valuation over the past year — from $46bn in June 2021 to $6.7bn in July 2022. </p> <p>However, Chrysalis managers noted that Klarna's listed peers, such as Affirm and PayPal, which it is valued against, had rebounded in the past month as markets rallied. </p> <p>Chrysalis and other investment trusts, which invest in private companies, provide a rare window into how the value of start-ups such as Klarna change over time. </p> <p>This is because they are required to regularly and publicly revalue their portfolio. Ordinarily, start-ups such as Klarna only disclose new valuations after raising funds. </p> <p>Chrysalis attracted scrutiny after paying <a href=\"https://www.ft.com/content/3c9672b4-97ca-4836-aea4-426d2cdb8127\">£117mn in performance and management fees</a> last autumn as valuations for its portfolio companies soared. </p><p>Source: Joshua Oliver and Adrienne Klasa in London 2022 'Investment trust Chrysalis forecasts boost in fortunes for start-ups' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T11:30:49.241Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1438,
+          "end": 1445
+        },
+        {
+          "start": 1430,
+          "end": 1443
+        },
+        {
+          "start": 1438,
+          "end": 1451
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000012,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

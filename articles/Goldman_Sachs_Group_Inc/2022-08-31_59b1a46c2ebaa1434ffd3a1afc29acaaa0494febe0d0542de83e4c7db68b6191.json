@@ -1,0 +1,42 @@
+{
+  "_id": "59b1a46c2ebaa1434ffd3a1afc29acaaa0494febe0d0542de83e4c7db68b6191",
+  "feed": "wall-street-journal",
+  "title": "New SAP CFO Is Set to Focus on Cloud Transformation; Dominik Asam, the CFO of Airbus, will take over the software firm's finances in March, succeeding Luka Mucic, who has served as CFO since 2014",
+  "text": "<p>Mr. Asam joins SAP from European aircraft maker Airbus, where he has been CFO since 2019. Prior to his time at Airbus, he led the finances of semiconductor firm Infineon Technologies AG and held other finance roles at RWE AG, one of Germany's largest power producers, and industrial conglomerate Siemens AG. Mr. Asam started his career in Goldman Sachs Group Inc.'s investment banking division.</p><p>His appointment comes as SAP is battling lower operating margins and a decline in its share price. The company last month reported operating profit of €1.68 billion on a non-International Financial Reporting Standards basis, equivalent to $1.69 billion, down 13% compared with the prior-year period.</p><p>The company also cut its outlook for the year as it grapples with the economic effects of the war in Ukraine and the wind-down of its Russian operations. SAP last month said that for the year non-IFRS operating profit at constant currencies would come in between €7.6 billion and €7.9 billion, down from its previous outlook of €7.8 billion to €8.25 billion. Its share price, which closed at €84.77 on Wednesday, is down roughly 39% since the beginning of the year.</p><p>The company is in the process of shifting its business away from selling software licenses to a subscription model for cloud-based computing services, with cloud revenue becoming the largest revenue stream for the company in the second quarter.</p><p>The cloud transition will likely be a top priority for Mr. Asam, analysts said. \"SAP is a complex animal,\" said Chandra Sriraman, a research analyst at financial services firm Stifel Financial Corp. \"The focus for the new CFO is to get a sense for the various moving parts of the cloud.\"</p><p>A significant chunk of SAP's customers continue to rely on their legacy license and switching them over to the cloud will dent margins in the coming years due to upfront costs, said Julie Bhusal Sharma, an equity analyst at Morningstar Inc., a financial-services firm.</p><p>Mr. Asam will need to offset some of those costs, according to Ms. Bhusal Sharma. He should also take a \"hard look\" at the set of companies that SAP acquired over the years but didn't fully integrate and look for potential divestitures, she said. \"Because they had such poor integration, the benefits weren't really there for customers,\" she said, referring to SAP's recent mergers and acquisitions.</p><p>SAP in 2019 purchased Qualtrics International Inc., a customer-relationship management software vendor, for around $8 billion, one of its largest acquisitions. Two years later, the company returned Qualtrics to the public markets while remaining a majority shareholder. Morningstar in a July analyst note gave SAP a \"poor\" capital allocation rating, which is mainly because of acquisitions such as Qualtrics, Ms. Bhusal Sharma said.</p><p>SAP's sagging operating margins will be a key priority for the new CFO, said Nicolas David, a senior analyst at financial-services firm Oddo Bhf, pointing to cost drivers such as salary increases and hiring. Front-loading investments in the first half of the year and withdrawing from Russia have impacted the operating margin, Mr. Mucic told analysts in July. The company has said it expects to grow operating profit by at least 10% in 2023.</p><p>Mr. Asam's experience leading Airbus through the pandemic will likely be useful at SAP, said Ms. Bhusal Sharma. The aircraft manufacturer in the past two years said it would cut tens of thousands of jobs and faced various operational issues, including production delays, brought on by supply-chain disruptions. \"Airbus has had many difficulties during Covid, similar to SAP and the severity of the difficulties they are going through with the cloud transition,\" she said.</p><p>Write to Jennifer Williams-Alvarez at jennifer.williams-alvarez@wsj.com</p><p>New SAP CFO Is Set to Focus on Cloud Transformation</p>",
+  "published": "2022-08-31T22:16:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99976,
+      "offsets": [
+        {
+          "start": 339,
+          "end": 363
+        },
+        {
+          "start": 337,
+          "end": 360
+        },
+        {
+          "start": 339,
+          "end": 352
+        },
+        {
+          "start": 339,
+          "end": 346
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6140546,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.06649268,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

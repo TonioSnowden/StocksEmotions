@@ -1,0 +1,34 @@
+{
+  "_id": "c1b6b30977dc5ebecca4b2e29c225819ef9b7274be7ea33bd89d5ee988dc1f3b",
+  "feed": "wall-street-journal",
+  "title": "Deal for Office Space Near Big U.S. Cities Bets on Suburban Lifestyle, Remote Work; GIC, Workspace Property Trust buying majority stake in 53 suburban office buildings",
+  "text": "<p>The suburban office sector has been hit hard by the pandemic. Vacancy rates rose in 2020 and 2021, and some properties have lost so much value that developers are tearing them down to build warehouses or apartments.</p><p>Workspace and GIC are betting that demand will rise for higher-end, modern suburban offices in good locations as more companies seek out areas closer to where their employees live. More Americans are working from home at least part of the week, and some firms are looking to add spaces that would allow their workers to return to the office without having to commute far.</p><p>\"We believe the pandemic really accelerated the shift to suburban offices,\" said Workspace's co-founder and chief executive, Thomas Rizk.</p><p>Suburban office properties recently have suffered less than some central business districts, where vacancies are at record levels. In the second quarter, the U.S. downtown office vacancy rate surpassed the suburban vacancy rate for the first time in decades, according to CBRE Group Inc. Vacancies fell slightly to 16.8% in the suburbs and rose to 17% in city centers, the brokerage firm said.</p><p>While many suburban office buildings are obsolete, big financial firms are still willing to invest in fully occupied, higher-end properties, said Jordan Roeschlaub, co-head of Newmark Group's debt, equity and structured finance group, which brokered the mortgage funding the purchase.</p><p>Mr. Rizk said suburban office vacancies are kept high by older buildings in poor locations. Modern properties that are close to residential areas, shops and restaurants are seeing rising rents, he said.</p><p>When Workspace launched in 2015, it was difficult to raise money for suburban office purchases, Mr. Rizk said. At the time, many corporations were ditching their sprawling, leafy office parks and moving into cities, and investors were more interested in buying office towers in places such as Manhattan or downtown San Francisco.</p><p>But since the start of the pandemic, the sector has attracted some new money. Last year, Workspace landed a $326.5 million investment from Oak Hill Advisors' real-estate unit.</p><p>JPMorgan Chase &amp; Co. and Bank of Montreal are financing the deal, which closed on Friday. The seller, Griffin Realty Trust Inc., is keeping a minority stake in the buildings.</p><p>Write to Konrad Putzier at konrad.putzier@wsj.com</p><p>Deal for Office Space Near Big U.S. Cities Bets on Suburban Lifestyle, Remote Work</p>",
+  "published": "2022-08-29T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2114,
+          "end": 2134
+        },
+        {
+          "start": 2099,
+          "end": 2119
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

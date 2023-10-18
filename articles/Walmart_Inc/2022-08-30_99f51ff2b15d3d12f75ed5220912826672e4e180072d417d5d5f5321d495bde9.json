@@ -1,0 +1,30 @@
+{
+  "_id": "99f51ff2b15d3d12f75ed5220912826672e4e180072d417d5d5f5321d495bde9",
+  "feed": "wall-street-journal",
+  "title": "Best Buy Makes the Best of the Worst; Retailer can't do much about conditions affecting consumer behavior, but the company continues to excel at controlling what it can",
+  "text": "<p>Investors liked what they saw: Best Buy's shares rose 4% after the company's earnings call on Tuesday morning. Its shares are down roughly 24% for the year to date, edging out a broad basket of retailers.</p><p>The consumer-electronics slowdown was largely to be expected given how much demand Best Buy pulled forward in 2020 and 2021 as customers set up their work-from-home spaces for the first time. Revenue grew 8.3% and 9.5%, respectively, in those two years—a massive jump compared with a compound annual growth rate of 1.6% in the five years through 2019. Additionally, Best Buy is clearly starting to see the effects of inflation-pinched wallets: The company said more customers are trading down to private label TVs, for example. Customers are still willing to pay up for mobile phones and videogames, categories in which they tend to be pickier about brands.</p><p>While there isn't much Best Buy can do about the conditions affecting today's consumer behavior, the company continues to excel at controlling what it can. One metric worth pointing out is its inventory level, which was 5.8% lower last quarter compared with a year earlier. That is a feat thatno other major retailer has been able to pull off. Walmart and Target each saw inventories rise 25% and 36%, respectively, in their latest quarters. Lean inventories should leave Best Buy with far less risk of depressed margins in the quarters ahead.</p><p>Furthermore, Best Buy actually has become slightly better at squeezing out profit compared with prepandemic years despite higher online sales. Adjusted operating margins in the latest quarter declined from a year earlier but were actually slightly higher than they were in the comparable 2019 period. That is an impressive feat considering Best Buy now derives 31% of its U.S. revenue online, up from 16.1% in 2019. The operational pivots Best Buy made over the past two years—such as a flexible working model for employees and changed store formats—seem to be bearing fruit.</p><p>Best Buy on Tuesday stuck to its previously downgraded full-year guidance: It still expects comparable-store sales to decline roughly 11% this fiscal year and forecasts adjusted operating margins of 4%. Figures like that certainly are nothing to celebrate, but the last two challenging quarters have proven that Best Buy has the operational chops to weather the retail slowdown better than anyone else.</p><p>Best Buy Makes the Best of the Worst</p>",
+  "published": "2022-08-30T19:12:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1198,
+          "end": 1205
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000125,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.2516975e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

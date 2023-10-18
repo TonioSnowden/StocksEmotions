@@ -1,0 +1,24 @@
+{
+  "_id": "2560aff0b0b9fb8d267bfba7d3c9d61550b024e552f1c7d38542dd8969e5ca52",
+  "feed": "wall-street-journal",
+  "title": "PayPal Shifts Apps to Google Cloud  ----  By John McCormick",
+  "text": "<p>   PayPal Holdings Inc. plans to move several core payment-processing applications to Google Cloud as the company experiences an upswing in activity fueled by changing consumer spending habits. </p><p>   The migration, part of the digital payments company's ongoing move to host all its applications in the public cloud, includes PayPal peer-to-peer payments, merchant checkout and bill-payment apps, as well as user account management, the company said Thursday. </p><p>   PayPal declined to provide a scheduled completion date. Neither PayPal nor the Google LLC unit would detail terms of the latest Google Cloud contract. Google Cloud and Google are part of Alphabet Inc. </p><p>   PayPal in 2017 moved software development and testing to Google Cloud and last year moved some payment processing for the Western U.S. from its own computer infrastructure to the cloud-service provider, although it declined to provide specifics. </p><p>   The company said about 20% of its processing volume last year was handled in the cloud. </p><p>   \"By moving into the cloud, we can actually capitalize on the fact that we can just pay for the capacity that we use in the cloud,\" said Wes Hummel, PayPal's vice president of site reliability and cloud engineering. \"We're not paying for unused capacity that's sitting in our data center.\" </p><p>   Mr. Hummel reports to PayPal's chief technology officer, Sri Shivananda, who is overseeing the cloud migration. </p><p>   Since the Covid-19 outbreak, PayPal has seen a 24% increase in active customer accounts, which numbered 392 million at the end of this year's first quarter. </p><p>   The company last year handled 15 billion payment transactions and nearly $1 trillion in total payment volume. Last week, PayPal said it expects total payment volume to grow by about 30% this year. </p><p>   Demand for public cloud services is rising. Technology research and advisory firm Gartner Inc. last month said it expects spending on public cloud infrastructure services to grow to $106.8 billion in 2022, up from $59.2 billion last year. </p><p>   Amazon.com Inc. is the leader in public cloud infrastructure services, controlling almost half the market, with Microsoft Corp. holding less than a 20% share and Google with around 5%, according to Gartner research released last August. </p><p>   But Google has notched some notable wins. Last month it secured one of its largest-ever cloud-computing contracts with Spanish-language broadcaster Univision Communications Inc. </p><p>   PayPal said having payment-processing information in Google Cloud would allow it to more efficiently aggregate and analyze customer and merchant data to spot shopping trends -- information that PayPal merchants could use to tailor discounts and other deals -- as well as prevent fraud and find other ways to improve the service. Currently, the company pulls customer and merchant data from different sources. </p><p>   Last October, the company said it would allow its U.S. users to sell, buy and hold cryptocurrencies, becoming one of the largest companies in the U.S. to enter the market for digital currencies. </p><p>   Mr. Hummel said the cloud would play a part in all the company's lines of business, but added that the launch of its cryptocurrency market didn't play a role in its latest cloud move and declined to say which of its cloud providers would handle its crypto transactions. </p><p>   While PayPal is moving its core payment-processing applications to Google Cloud, subsidiaries, such as money-transfer services Xoom and Venmo, already have their payment-processing applications in the cloud. Xoom is using Google Cloud, while Venmo is using Amazon's cloud service. </p><p>   PayPal also says it has some payment applications still running on its infrastructure, although it declined to disclose which ones. It said it plans to eventually move those applications and its data stores to one or more of its existing cloud providers. </p><p></p>",
+  "published": "2021-05-14T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2092,
+          "end": 2107
+        },
+        {
+          "start": 2092,
+          "end": 2101
+        }
+      ]
+    }
+  ]
+}

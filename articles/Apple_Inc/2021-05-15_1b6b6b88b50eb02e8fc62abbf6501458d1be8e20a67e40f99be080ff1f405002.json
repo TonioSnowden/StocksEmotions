@@ -1,0 +1,68 @@
+{
+  "_id": "1b6b6b88b50eb02e8fc62abbf6501458d1be8e20a67e40f99be080ff1f405002",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Expert Witnesses Testify in Apple-Epic Trial",
+  "text": "<p>The trial, in which U.S. District Judge Yvonne Gonzalez Rogers will decide the outcome, is slated to run at least three weeks in Oakland, Calif., and could help reshape the multibillion-dollar market for distributing apps on mobile devices.</p><p>Judge Gonzalez Rogers is used to handling tech-industry cases, and neither Apple nor Epic is a newcomer to her courtroom.</p><p>David Evans, a University of Chicago economist, argued on Epic's behalf that game consoles aren't good substitutes for smartphones because they can't be used to access the internet by consumers on the go. If that were the case, \"people wouldn't use smartphones,\" he said, adding that while Nintendo's Switch is portable, it doesn't have a cellular connection.</p><p>Dr. Evans further stated that Apple's rules unfairly prevent developers from letting consumers know if their prices for in-app purchases take into account the iPhone maker's 30% commission or that consumers may be able to get better deals elsewhere.</p><p>Also speaking for Epic was Susan Athey, economics of technology professor at the Stanford Graduate School of Business. She said Apple locks consumers into its mobile operating system, known as iOS, because to switch devices they would in many cases have to repurchase the apps they already bought and deal with other hurdles.</p><p>Epic attorney Yonatan Even referenced a 2013 email from Apple executive Eddy Cue to current Apple Fellow Phil Schiller and Chief Executive Tim Cook: \"Who is going to buy a Samsung phone if they have apps, movies, etc., already purchased? They now need to spend hundreds more to get where they are today.\"</p><p>Lorin Hitt, a professor at University of Pennsylvania's Wharton School, discussed in-app purchase pricing, noting that developers can charge various prices on iOS devices to demonstrate the flexibility of the App Store.</p><p>He also said Apple lowered its developer fees on long-term subscription sales in 2016 and has said it plans to do the same this year for companies that generate less than $1 million in annual revenue through its marketplace.</p><p>Mr. Hitt said anticompetitive measures tend to result in reduced quality, yet that hasn't happened with iPhone and iPad apps, as developers have seen their revenue increase over time. \"They've been able to raise their prices because consumers perceive the value in what they're offering,\" he said.</p><p>Mr. Hitt also rejected the notion that Apple locks iPhone and iPad users into its mobile ecosystem. \"For one thing, consumers actually do switch,\" he said. He added that high customer retention rates aren't evidence of high switching costs. \"I stick with the product I have because I like the product I have.\"</p><p>Another witness for Apple said Epic's conclusion that the App Store is a monopoly is incorrect. Richard Schmalensee, emeritus professor of economics at the Massachusetts Institute of Technology, said Apple's behavior is similar to credit-card companies because they offer transaction platforms and have rules to ensure they collect commissions from sellers.</p><p>Mr. Schmalensee also argued that because Apple has the unique ability to identify the hardware connected to its App Store, it can benefit consumers by making purchases easy to complete, private and secure.</p><p>Apple CEO Tim Cook may be the final witness that Apple calls as part of its defense.</p>",
+  "published": "2021-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2386,
+          "end": 2391
+        },
+        {
+          "start": 3221,
+          "end": 3226
+        },
+        {
+          "start": 56,
+          "end": 61
+        },
+        {
+          "start": 2857,
+          "end": 2862
+        },
+        {
+          "start": 2677,
+          "end": 2682
+        },
+        {
+          "start": 1355,
+          "end": 1360
+        },
+        {
+          "start": 1391,
+          "end": 1396
+        },
+        {
+          "start": 3270,
+          "end": 3275
+        },
+        {
+          "start": 753,
+          "end": 758
+        },
+        {
+          "start": 316,
+          "end": 321
+        },
+        {
+          "start": 3056,
+          "end": 3061
+        },
+        {
+          "start": 1101,
+          "end": 1106
+        },
+        {
+          "start": 1837,
+          "end": 1842
+        }
+      ]
+    }
+  ]
+}

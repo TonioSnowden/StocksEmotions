@@ -1,0 +1,32 @@
+{
+  "_id": "960a989f193d5c6934b2e85a3ecd05faf1942a4f7b4a83bb92474f769396dd36",
+  "feed": "wall-street-journal",
+  "title": "Paperchain Uses DeFi to Speed Streaming Payments to Musicians; The startup gets streaming data from music labels and distributors on their artists, then uses their invoices as collateral for DeFi loans to pay the musicians more quickly",
+  "text": "<p>Delayed payment is a chronic issue in the music industry and can be particularly hard on young artists, who may need immediate access to cash to reinvest in their brands, build their careers and make a living, industry observers say. Alphabet Inc.'s YouTube, which deals with creators directly, is among the quickest payers among streaming platforms; others, like Spotify Technology SA, which channels payments through intermediaries like labels and music distributors, take longer.</p><p>Spotify declined to comment on how long it takes to process invoices.</p><p>\"If you look at what's happened and especially been accelerated over the past couple of years within streaming media is, as a creator, you can create content instantly and you can distribute content instantly, but you can't get paid for it instantly,\" said Paperchain co-founder and Chief Executive Daniel Dewar.</p><p>Founded in 2017, Paperchain just raised $1.6 million in a pre-seed financing led by venture firm Motivate Venture Capital. It partners with music labels and distributors to see both outstanding payments and the streaming data for artists on their rosters.</p><p>The startup works with fintech group Stripe Inc. for the banking services it provides artists, and has established an alliance with music distributor UnitedMasters LLC to expand its customer base.</p><p>Paperchain's financing comes amid rising interest in DeFi startups, which have ridden the coattails of the boom in cryptocurrencies. Venture firms poured almost $1.2 billion into the segment in the U.S. in the first nine months of this year, compared with just $115 million in all of 2020, according to research firm CB Insights. The firm tracks activity on startups that provide DeFi infrastructure, products and protocols.</p><p>Going the DeFi route, as opposed to more traditional lending channels, gives Paperchain more flexibility, Mr. Dewar said. DeFi does business on blockchains, digital ledgers of transactions overseen and validated by the people using them, which operate outside government-regulated channels, like brokerage firms and banks.</p><p>\"Using DeFi, the facility is on demand,\" Mr. Dewar said.</p><p>Paperchain uses the artists' invoices to get financing in DeFi. Real-world assets are increasingly accepted as collateral in DeFi—a sea change from early days when loans were backed only by cryptocurrencies.</p><p>Paperchain posts representations of the invoices on DeFi marketplaces like MakerDAO to back loans worth around 90% of their value. Paperchain receives the loans in stablecoins pegged to the dollar and converts them into actual dollars before sending the money to the artists. When Spotify pays the invoices, Paperchain pays off the loans and rebates what's left over to the artist—the financing terms produce a small balance between what Paperchain can pay in real-time and what artists are effectively owed.</p><p>About 20 of UnitedMasters artists, whose content is on Spotify, joined Paperchain's platform in August as part of a beta program that came with a Visa Inc. card they can use to spend their streaming earnings. Before the Stripe partnership, Paperchain used to distribute the money to the labels and distributors, which would pay the artists.</p><p>Paperchain, which has paid out around $1 million to musicians for their streaming traffic, takes a 2% commission on the total payments it makes to artists, as well as a 0.7% cut on the card spending. It costs $7 to open an account.</p><p>The startup will use the fresh capital to build its platform in anticipation of onboarding thousands of UnitedMasters artists in the coming months, according to a Paperchain presentation. The company is also targeting streaming platforms Apple Inc.'s Apple Store and YouTube for growth, Mr. Dewar said.</p><p>Paperchain looks at the daily reports Spotify shares with musicians on their \"Spotify for Artists\" pages to estimate how much they earn daily on streaming.</p><p>Being accurate on its estimates has been a key focus for Paperchain in the pilot, said Matt Gralen, executive vice president of corporate development at UnitedMasters. Several factors feed into the value of music traffic, including how much revenue Spotify makes overall on music streaming and how big a piece of the pie each musician gets, known as stream share.</p><p>The product is \"working as advertised,\" Mr. Gralen said, and there is an overwhelming willingness to join Paperchain among members.</p><p>\"If you are an artist and you are generating traction and you are seeing some increased activity in your streams, you really need to, especially in today's music industry, strike while the iron is hot,\" he added.</p><p>Write to David Carnevali at david.carnevali@wsj.com</p>",
+  "published": "2021-10-29T22:57:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3652,
+          "end": 3657
+        },
+        {
+          "start": 3652,
+          "end": 3662
+        },
+        {
+          "start": 3665,
+          "end": 3670
+        },
+        {
+          "start": 3652,
+          "end": 3661
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

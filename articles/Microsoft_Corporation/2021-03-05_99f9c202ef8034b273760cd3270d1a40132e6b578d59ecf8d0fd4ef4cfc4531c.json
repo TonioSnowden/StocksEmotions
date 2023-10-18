@@ -1,0 +1,60 @@
+{
+  "_id": "99f9c202ef8034b273760cd3270d1a40132e6b578d59ecf8d0fd4ef4cfc4531c",
+  "feed": "ftcomall",
+  "title": "White House warns of ‘large number' of victims in Microsoft hack",
+  "text": "<p>The White House has warned that hackers may have compromised a “large number of victims” in the US by exploiting recently disclosed vulnerabilities in Microsoft software.&#xa0;</p> <p>Jen Psaki, White House press secretary, on Friday said there was currently an “active threat” from hackers exploiting four flaws in Microsoft's Exchange email application, which the tech group disclosed earlier this week.&#xa0;The company has blamed a Chinese state-backed hacking group for the attacks. </p> <p>“This is a significant vulnerability that could have far-reaching impacts,” Psaki said. “We are concerned that there are a large number of victims and are working with our partners to understand the scope.”&#xa0;</p> <p>Brian Krebs, a cyber security researcher, claimed in a blog post on Friday that at least 30,000 organisations “including a significant number of small businesses, towns, cities and local governments” had been hacked in the past few days following Microsoft's disclosure, citing multiple sources briefed on the matter.&#xa0;</p> <p>On Tuesday, Microsoft published a <a href=\"https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/\">blog post</a> in which it said a group of hackers had launched “limited and targeted attacks” to gain access to emails. It also said the hackers had tried to go deeper into victims' computer systems in order to lurk there unnoticed for a long period of time.</p> <p>Microsoft has attributed the campaign to a group of Chinese state-sponsored hackers called Hafnium. China on Wednesday denied responsibility, according to a Reuters report. The White House did not link the campaign to any particular country. &#xa0;</p> <p>It is unclear who has fallen victim to the attacks. Microsoft said Hafnium has tended to target “infectious disease researchers, law firms, higher education institutions, defence contractors, policy think tanks, and NGOs” in the past.</p> <p>Late on Thursday, Jake Sullivan, National Security Adviser, said in a tweet that the White House was “tracking . . . reports of potential compromises of US think tanks and defence industrial base entities”.&#xa0;</p> <p>He and Psaki urged the government, private sector companies and academic institutions to patch their systems after Microsoft issued fixes for the vulnerabilities.&#xa0;</p> <p>The concerns come after revelations in December that a sprawling cyber espionage campaign, likely backed by Russia, had been targeting US government agencies and businesses unnoticed for at least a year.</p> <p>Authorities are still struggling to understand the scope of the fallout from the <a href=\"https://www.ft.com/content/2bed3013-b21f-4b2c-8572-b2da016d1b4e\">SolarWinds hack</a>, which has prompted calls for President Joe Biden to prioritise US cyber security. The Biden administration is now preparing <a href=\"https://www.ft.com/content/d7d67ea7-8423-4b9c-819d-761fa4a10fa0\">sanctions</a> and other executive orders in response to the hack.&#xa0;</p> <p>James Lewis, a cyber expert at the Center for Strategic and International Studies, said it appeared Microsoft and the US government had uncovered the Chinese attack while “poking about looking for SolarWinds”.</p> <p>“This is the downside of a big hack by somebody else as it increases the chance that you'll be found out,” Lewis said. “The Chinese should send the Russians a bill.”</p><p>Source: Hannah Murphy in San Francisco, James Politi and Demetri Sevastopulo in Washington  2021 'White House warns of ‘large number' of victims in Microsoft hack' FT.com 5 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-05T21:30:55.511Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 151,
+          "end": 160
+        },
+        {
+          "start": 304,
+          "end": 313
+        },
+        {
+          "start": 1010,
+          "end": 1019
+        },
+        {
+          "start": 1583,
+          "end": 1592
+        },
+        {
+          "start": 2089,
+          "end": 2098
+        },
+        {
+          "start": 926,
+          "end": 935
+        },
+        {
+          "start": 1287,
+          "end": 1296
+        },
+        {
+          "start": 50,
+          "end": 59
+        },
+        {
+          "start": 2727,
+          "end": 2736
+        },
+        {
+          "start": 304,
+          "end": 315
+        },
+        {
+          "start": 926,
+          "end": 937
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

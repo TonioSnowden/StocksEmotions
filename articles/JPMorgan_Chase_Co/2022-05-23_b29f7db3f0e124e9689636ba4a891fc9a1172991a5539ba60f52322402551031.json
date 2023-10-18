@@ -1,0 +1,40 @@
+{
+  "_id": "b29f7db3f0e124e9689636ba4a891fc9a1172991a5539ba60f52322402551031",
+  "feed": "ftcomall",
+  "title": "Banks turn to blockchain in search for high-quality trading assets",
+  "text": "<p>BNP Paribas has joined JPMorgan in using digital tokens for short-term trading in fixed-income markets as some of the world's biggest investment banks step up efforts to modernise the $12tn market with blockchain technology.</p> <p>The French bank has joined a blockchain-powered network run by its US rival, which has already attracted more than $300bn of deals since its launch in December.</p> <p>The arrangement represents the first steps in efforts to use digital tokens in one of the crucial links of the global financial system.</p> <p>The repurchase, or repo, market is used by investors to borrow high-quality assets for a couple of days, and by central banks to conduct their monetary policies. </p> <p>Three-quarters of deals are backed by government bonds, according to the Bank for International Settlements, making the market a key source of high-quality collateral for banks to fund their balance sheets or find the funds to support their derivatives positions.</p> <p>JPMorgan's blockchain allows banks to lend out US government bonds for a few hours as collateral, without the bonds leaving their balance sheets. </p> <p>Post-crisis regulatory requirements demand that banks hold large amounts of liquid assets — which can be bought and sold easily even during times of market stress — such as Treasuries as a safety buffer. By tokenising these assets banks can temporarily turn them into collateral for a few hours, but without lowering their safety buffers, which are calculated at the end of each day.</p> <p>The token represents a digital version of a Treasury and borrowers can exchange it for cash. </p> <p>Details such as the length of the loan and settlement time are governed by a smart contract, which ensures that the cash is in the borrower's account and that collateral locked up against loans is released at the end of the deal. More than $300bn worth of such short-term loans have taken place on JPMorgan's blockchain technology platform Onyx Digital Assets since December 2020. </p> <p>Joe Bonnaud, global markets chief operating officer and head of engineering at BNP Paribas, said the two main-use cases for the bank were securities financing and intraday repo.</p> <p>“This is not just proof-of-concept work, we see this as part of our efforts to utilise the technology for the whole trading and operations lifecycle as the market evolves,” he added. </p> <p>Scott Lucas, head of markets DLT at JPMorgan, said that the bank was exploring other fixed-income assets against which traders could borrow.</p> <p>“We are looking at broadening the set of eligibility criteria in addition to US treasuries,” Lucas said. </p> <p>More participants are joining the platform, including banks and their clients from Europe, the UK and Asia.</p> <p>JPMorgan has made a big push into digital assets in recent years despite its chief executive Jamie Dimon often hitting a critical note about digital assets such as bitcoin. </p> <p>The bank's Onyx unit has been experimenting with deploying blockchain technology across traditional markets, with a former senior executive in the division Christine Moy recently <a href=\"https://www.ft.com/content/1a4dcaf5-2b4b-4f0b-8c58-a8fa173f24b3\">noting</a> that JPMorgan was the first bank to provide regulated crypto exchanges with bank accounts. </p> <p>In mid-February, JPMorgan also became the first major bank to set up a presence in the metaverse. Aside from broadening its collateral criteria, the bank is also looking at ways it could provide its professional clients with access to new markets. </p> <p>Tyrone Lobban, head of Onyx Digital Assets at JPMorgan said that the bank was also exploring the possibility of using Onyx as a gateway to decentralised finance markets for institutional investors.</p> <a href=\"http://www.ft.com/cms/2fa20459-d432-4b5f-8cc4-e6ba02413cb0.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a><p>Source: Eva Szalay in London 2022 'Banks turn to blockchain in search for high-quality trading assets' FT.com 23 May. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-05-23T07:23:11.615Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 23,
+          "end": 31
+        },
+        {
+          "start": 3411,
+          "end": 3419
+        },
+        {
+          "start": 948,
+          "end": 956
+        },
+        {
+          "start": 3031,
+          "end": 3039
+        },
+        {
+          "start": 2349,
+          "end": 2357
+        },
+        {
+          "start": 3134,
+          "end": 3142
+        }
+      ]
+    }
+  ]
+}

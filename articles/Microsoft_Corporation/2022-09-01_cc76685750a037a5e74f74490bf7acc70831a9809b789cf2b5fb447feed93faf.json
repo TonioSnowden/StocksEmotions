@@ -1,0 +1,78 @@
+{
+  "_id": "cc76685750a037a5e74f74490bf7acc70831a9809b789cf2b5fb447feed93faf",
+  "feed": "wall-street-journal",
+  "title": "Microsoft's Activision Deal Raises Competition Concerns, Says U.K. Watchdog; Companies have five days to respond before regulator determines whether investigation will go to second phase",
+  "text": "<p>If the CMA isn't satisfied at that stage, the probe would enter a second phase involving a panel of independent reviewers, it said.</p><p>Microsoft makes Xbox videogame consoles and its chief rival, Sony Group Corp., is known for its PlayStation system. Microsoft and Sony also count Nintendo Co., whose Switch console can be played at home or on the go, as a major competitor. All three companies also develop and publish their own games.</p><p>Activision specializes in game development and owns popular franchises such as Call of Duty and World of Warcraft.</p><p>\"CMA is concerned that if Microsoft buys Activision Blizzard it could harm rivals, including recent and future entrants into gaming, by refusing them access to Activision Blizzard games or providing access on much worse terms,\" the watchdog said.</p><p>The regulator added that it is also concerned that Microsoft could use Activision's games to damage competition in the nascent market for cloud gaming, or the Netflix-like streaming of games via internet-connected devices such as consoles, smartphones and laptops.</p><p>Microsoft is one of the world's largest cloud-computing service providers and the company has been a leader inthe cloud-gaming market through its Game Pass subscription service. Sony also offers cloud gaming through its PlayStation Plus subscription.</p><p>Microsoft President Brad Smith said in a statement that the company is ready to work with the CMA on next steps and address any of its concerns.</p><p>\"Sony, as the industry leader, says it is worried about Call of Duty, but we've said we are committed to making the same game available on the same day on both Xbox and PlayStation,\" Mr. Smith said. \"We want people to have more access to games, not less.\"</p><p>Representatives for Sony didn't respond to a request for comment.</p><p>Entering the second phase of the probe could indicate the CMA is concerned the deal could harm game developers and consumers in markets under its jurisdiction, said William Newman, a senior counsel at a New York litigation firm. \"The U.K. in particular has a very large gaming industry,\" he said.</p><p>The U.K. is home to some top game studios, including Electronic Arts Inc.'s Codemasters and Take-Two Interactive Software Inc.'s Rockstar North. It is also the world's sixth-largest videogame software market by revenue, according to industry tracker Newzoo BV. China is the largest, followed by the U.S.</p><p>Less than one-third of the more than 275 mergers the CMA has investigated since 2017 have moved to the second phase. Of those, the CMA blocked eight, more than a dozen were abandoned and others were approved or gained approval subject to certain conditions.</p><p>Microsoft's deal for Activision is also being reviewed in the U.S. by the Federal Trade Commission over antitrust concerns. The current FTC leadership has broadcast that it plans to scrutinize acquisitions by the biggest technology companies. Since assuming office in 2021, FTC Chairwoman Lina Khan has taken steps to investigate more deals and what the commission sees as anticompetitive conduct.</p><p>Although the deal is undergoing scrutiny in several other markets, competition lawyers said regulators in the U.K., the European Union and the U.S. are the most likely to intervene. The EU hasn't yet begun a formal review of the deal.</p><p>The lawyers said regulators' positions may depend partly on how they define the market affected by the Microsoft-Activision deal and how much of that market the two companies control. If regulators define it broadly—for example, to cover videogames of all kinds—they may be less likely to view the merger as a threat to competition. A more narrowly defined market focused on videogames in the same shooter genre as Call of Duty, though, might produce more concerns, they said.</p><p>Microsoft announced the agreement to buy Activision for approximately $95 a share in January. It has said it expects the deal, which would be its largest acquisition by far, to close by June of 2023.</p><p>Buying Activision would significantly increase Microsoft's videogame revenue. Activision's sales totaled $8.8 billion in 2021. Microsoft reported $16.23 billion in videogame revenue for the fiscal year through June, accounting for about 8% of its total revenue.</p><p>Dieter Paemen, a partner with law firm Clifford Chance LLP who is based in Brussels, said the CMA has shown itself to be more assertive after the U.K.'s split from the EU.</p><p>In recent years, the CMA has been exerting its powers in a series of high-profile cases, targeting tech giants such as Alphabet Inc.'s Google, Apple Inc. and Facebook parent Meta Platforms Inc. Last year, it directed Meta to sell animated-images company Giphy, saying its acquisition could limit competition among platforms and British advertisers. Meta, which acquired the company for $315 million in 2020, is appealing the decision.</p><p>If the CMA's investigation moves forward, it would represent a speed bump for Microsoft, said Eric Talley, a corporate law professor at Columbia Law School.</p><p>\"When you enter Phase 2, you're basically saying regulatory authorities want to dig deeper into your paperwork,\" he said. \"Someone has already determined there are some yellow flags here.\"</p><p>Write to Sarah E. Needleman at sarah.needleman@wsj.com and Kim Mackrael at kim.mackrael@wsj.com</p><p>Microsoft's Activision Deal Raises Competition Concerns, Says U.K. Watchdog</p>",
+  "published": "2022-09-01T17:58:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 131,
+          "end": 140
+        },
+        {
+          "start": 132,
+          "end": 141
+        },
+        {
+          "start": 246,
+          "end": 255
+        },
+        {
+          "start": 841,
+          "end": 850
+        },
+        {
+          "start": 1054,
+          "end": 1063
+        },
+        {
+          "start": 1303,
+          "end": 1312
+        },
+        {
+          "start": 2619,
+          "end": 2628
+        },
+        {
+          "start": 3721,
+          "end": 3730
+        },
+        {
+          "start": 3966,
+          "end": 3975
+        },
+        {
+          "start": 4044,
+          "end": 4053
+        },
+        {
+          "start": 4860,
+          "end": 4869
+        },
+        {
+          "start": 4895,
+          "end": 4904
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.0,
+        "baseWeight": 13.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "6e0b370a306fc53400723141ec9a691779526db2eaf1881a48e58cf0f7ac35ce",
+  "feed": "wall-street-journal",
+  "title": "FDA Official Says New Rule Could Boost Blockchain-Based Food Tracking; The proposed rule could spur adoption of a farm-to-fork food traceability program used by companies including Walmart and Nestlé",
+  "text": "<p>Frank Yiannas, FDA deputy commissioner for food policy and response PHOTO: Gabe Palacio for The Wall Street Journal</p><p>The Food Safety Modernization Act Proposed Rule for Food Traceability wouldn't require companies to maintain electronic records, but it's believed many would employ digital systems including blockchain to comply, Mr. Yiannas said. Blockchain is the distributed ledger technology supporting bitcoin and other cryptocurrencies. It also can be used to track and govern transactions.</p><p>The concept is sometimes associated with the idea of Web3, which is based on the goal of a more distributed and democratic internet.</p><p>Efforts using blockchain for food tracking have been under way at Walmart Inc., Nestlé SA and other food-industry players under a joint effort called Food Trust launched in 2018 using technology from International Business Machines Corp. About 500 organizations are now part of Food Trust, according to IBM.</p><p>\"I think you're going to see scaling happen at a much higher pace,\" said Mr. Yiannas, a former vice president of food safety at Walmart who helped lead the Food Trust effort. \"The pandemic and the lessons learned and the final proposed food traceability rule are going to be a lot of wind in the sails\" for distributed ledger technology, he said.</p><p>Food Trust was an early testing ground of that vision, with members seeing in blockchain a way to preserve one consistent history of a food item's path to the aisle of a grocery store.</p><p>Blockchain employs a single set of data that's shared among participants without each member needing to keep their own records and then share them, said Kareem Yusuf, general manager of artificial intelligence applications at IBM. That's an advantage, because maintaining multiple versions of a data set can increase the risk of mistakes and disputes, which then need to be resolved, Dr. Yusuf said.</p><p>Walmart, which first tested the concept in 2017, started using Food Trust in 2018 to track leafy greens, including romaine lettuce and spinach. It has since added green bell peppers and other categories and expanded the list of suppliers it tracks from 12 to about 100. Walmart declined to share the percentage of food products tracked through blockchain.</p><p>The system poses challenges. Suppliers have multiple ways of submitting data, including uploading spreadsheets and direct connections to supplier IT systems. \"We have all kinds of suppliers and they're at different levels of sophistication of their IT backbone within their own organizations,\" said Archana Sristy, senior director of blockchain at Walmart Global Tech.</p><p>Based on its experience with Food Trust, Walmart said it's learning how to simplify onboarding for suppliers, improve data accuracy on the blockchain and make better decisions based on that data.</p><p>Walmart said a regulatory push may strengthen the case to scale blockchain-based food tracing.</p><p>\"It seems obvious that that would be the direction we would go in terms of expanding the scope of the blockchain, but we have to see the final rule before we decide that,\" said Tejas Bhatt, Walmart's senior director of U.S. and global food safety innovation.</p><p>Nestlé, an inaugural Food Trust partner, has used the toolset to track 10 food suppliers. The idea is to give customers greater transparency into the food pipeline. Nestlé doesn't currently track any products through Food Trust, but the company said it's exploring a pipeline of products to track on Food Trust in 2022 and beyond.</p><p>Without an industry-wide push, widespread blockchain adoption will be a challenge, said Benjamin Dubois, sustainability performance acceleration manager at Nestlé.</p><p>\"We are trying to change and lead the way in that because we see the opportunity and the possibilities, but it has to be across the whole supply chain,\" he said, adding that regulation could be the tipping point for Food Trust.</p><p>Write to Suman Bhattacharyya at Suman.Bhattacharyya@wsj.com</p><p>FDA Official Says New Rule Could Boost Blockchain-Based Food Tracking</p>",
+  "published": "2022-02-01T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 181,
+          "end": 188
+        },
+        {
+          "start": 2790,
+          "end": 2797
+        },
+        {
+          "start": 1869,
+          "end": 1876
+        },
+        {
+          "start": 695,
+          "end": 707
+        },
+        {
+          "start": 2635,
+          "end": 2642
+        },
+        {
+          "start": 1065,
+          "end": 1072
+        },
+        {
+          "start": 2139,
+          "end": 2146
+        },
+        {
+          "start": 2573,
+          "end": 2580
+        },
+        {
+          "start": 695,
+          "end": 702
+        },
+        {
+          "start": 3075,
+          "end": 3082
+        }
+      ]
+    }
+  ]
+}

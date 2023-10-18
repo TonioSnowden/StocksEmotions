@@ -1,0 +1,38 @@
+{
+  "_id": "5c3522de96db47c534f773279e4f8af1a4cff70105bc7ca2342cba68dcbc6040",
+  "feed": "wall-street-journal",
+  "title": "Nancy Pelosi's Taiwan Gambit Reshapes Political Risk in Asia",
+  "text": "<p>Markets reacted strongly. U.S. 10-year Treasury yields fell to a four-month low ahead of Mrs. Pelosi's arrival as investors fled for safety -- and jumped back after her plane landed. Taiwan's main stock index, after a drop Tuesday, has clawed back all that ground. Shares of Semiconductor Manufacturing International Corp., China's chip manufacturing national champion, which dropped ahead of the visit, gained 15% since her plane landed and China announced military drills. The S&amp;P Defense and Aerospace Select Index is up 9% since July 18, when news of Mrs. Pelosi's trip first broke, outpacing the S&amp;P 500's 8% gain.</p><p>The visit marks a significant turning point in Sino-U.S. relations. Beneficiaries could include Taiwan's rivals -- especially Samsung and Intel, if Taiwan's ability to supply chips in a crisis comes under further question. Losers probably include multinational manufacturers of nearly everything outside of defense, who rely on a stable security environment in Asia. This includes those with an outsize presence in China like Apple, or U.S. firms that depend on Chinese business like Boeing.</p><p>China's drills surrounding the island probably won't result in a direct military clash. The problem is that the exercises -- surrounding the island and blocking routes to key ports -- are far more ambitious than anything China tried before, and look like a trial run for a blockade.</p><p>All of this comes as China's economic problems -- a dysfunctional housing market, high youth unemployment, rising skepticism among Western multinationals and a capricious regulatory environment -- increasingly look structural rather than cyclical. More regular exercises of this sort would have several advantages from Beijing's perspective: They distract from problems at home, they make the U.S. and its allies look toothless, and they serve as practice for an invasion or blockade. A real blockade remains very risky -- especially since China still needs lots of things, especially advanced microchips, from Taiwan and the West.</p><p>The spat unfolding makes any kind of serious rapprochement between China and the U.S. harder. Initiatives like removing bilateral tariffs may become too heavy a political lift. And multinationals like Apple may be forced to further accelerate their diversification plans -- creating more resilient supply chains but significantly raising costs for years.</p><p>It is possible to construct a case for a more positive outcome. Beijing's intimidation could focus minds in Taiwan and in the U.S. on the need for much more, and better-targeted spending to bolster Taiwan's defenses, and for already sold arms to arrive sooner. Quiet pressure from foreign multinationals in China and domestic economic interests could convince Beijing that aggressive maneuvers toward Taiwan are self-defeating because they drive away critically needed investment.</p><p>But the cycle of escalation -- and ideological conflict -- has its own logic that can be difficult to derail and lead to unpredictable outcomes. And Mrs. Pelosi is far from the only important, politician that will be eyeing their legacy in the months and years ahead: Chinese President Xi Jinping himself will decide what course China takes. Investors, and everyone else, must hope leaders on both sides find wisdom and good counsel to match their ambition.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1046,
+          "end": 1051
+        },
+        {
+          "start": 1038,
+          "end": 1043
+        },
+        {
+          "start": 2212,
+          "end": 2217
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.000062,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 6.210804e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

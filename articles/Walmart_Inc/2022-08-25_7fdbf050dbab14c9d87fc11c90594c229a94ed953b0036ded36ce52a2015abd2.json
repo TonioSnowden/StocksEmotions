@@ -1,0 +1,34 @@
+{
+  "_id": "7fdbf050dbab14c9d87fc11c90594c229a94ed953b0036ded36ce52a2015abd2",
+  "feed": "wall-street-journal",
+  "title": "Dollar General Posts Higher Sales, Boosted by Groceries; Discounter says shoppers spent more on food, less on apparel and home goods",
+  "text": "<p>SHARE YOUR THOUGHTS</p><p>How has inflation changed the way you shop? Join the conversation below.</p><p>Dollar General said comparable sales, those from stores operating at least 12 months, rose 4.6% in the quarter ended July 29 compared with the same period last year. More shoppers visited its stores and spent more on consumables such as food, but less on apparel, seasonal goods and home products.</p><p>In recent weeks, major retailers including Walmart Inc. and Target Corp. have noted that consumers are pulling back on discretionary spending, giving priority to food and fuel amid rising prices.</p><p>Dollar General raised its sales expectations for the year and maintained its profit outlook. It now expects comparable sales to rise 4% to 4.5%, up from a previous estimate of 3% to 3.5%.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Dollar General Posts Higher Sales, Boosted by Groceries</p>",
+  "published": "2022-08-25T11:32:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 430,
+          "end": 442
+        },
+        {
+          "start": 434,
+          "end": 446
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.026774,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.02677381,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

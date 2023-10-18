@@ -1,0 +1,34 @@
+{
+  "_id": "0c04ab88feb9776c05810838c63d19a9a7e7a6c7e2ab51ef9e7afc47008567dc",
+  "feed": "wall-street-journal",
+  "title": "Deutsche Telekom Nearing Majority Ownership of T-Mobile; German telecom giant owns about 48.4% of U.S. wireless carrier; executives are considering stock buybacks when a majority is reached",
+  "text": "<p>The telecom giant's stake in T-Mobile is at about 48.4%, Chief Executive Tim Höttges told analysts in an earnings call Thursday. Once majority ownership is reached, it is possible the German company could further increase its stake in T-Mobile or participate in a share buyback, Mr. Höttges added.</p><p>The disclosure came as Deutsche Telekom raised its guidance for the second time this year, citing in part the performance of T-Mobile.</p><p>The U.S. company reported gains in wireless postpaid phone customers, considered a reliable measure of a wireless company's performance because it tracks monthly bill payers. Its growth in customer base fell slightly short of rival AT&amp;T Inc., but both outperformed Verizon Communications Inc., which has the largest wireless subscriber base in the country.</p><p>T-Mobile's business in the U.S. accounted for about two-thirds of Deutsche Telekom's net revenue in the second quarter.</p><p>Deutsche Telekom shares gained about 0.4% in Thursday trading in Germany, while T-Mobile slipped 0.9% in New York.</p><p>Write to Alex Harring at Alex.Harring@wsj.com</p><p>Deutsche Telekom Nearing Majority Ownership of T-Mobile</p>",
+  "published": "2022-08-11T20:14:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 694,
+          "end": 720
+        },
+        {
+          "start": 698,
+          "end": 725
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0019345,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0019346476,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

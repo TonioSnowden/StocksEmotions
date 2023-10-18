@@ -1,0 +1,34 @@
+{
+  "_id": "4c4565c48ce02c4a565fd5d5020713952cb6ba7ed71c943261efe50167de6d88",
+  "feed": "wall-street-journal",
+  "title": "Firm Retention Summary: Enjoy Technology Inc.",
+  "text": "<p>FIRM TO BE HIRED: Cooley LLP</p><p>PRINCIPAL ASSIGNED TO THE CASE: Cullen D. Speckhart</p><p>DUTIES: The firm will provide the following services:</p><p>•advise the Debtors of their rights, powers, and duties as a debtor-inpossession under chapter 11 of the Bankruptcy Code;</p><p>•prepare, on behalf of the Debtors, all necessary and appropriate applications, motions, proposed orders, other pleadings, notices, schedules, and other documents, and review all financial and other reports to be filed in these Cases;</p><p>•advise the Debtors concerning, and prepare responses to, applications, motions, other pleadings, notices, and other papers that may be filed and served in these Cases;</p><p>•advise the Debtors with respect to, and assist in the negotiation and documentation of, financing agreements and related transactions;</p><p>•review the nature and validity of any liens asserted against the Debtors' property and advise the Debtors concerning the enforceability of such liens;</p><p>•advise the Debtors regarding its ability to initiate actions to collect and recover property for the benefit of their estates;</p><p>•counsel the Debtors in connection with any sale of assets and related documents;</p><p>•counsel the Debtors in connection with any chapter 11 plan and related documents;</p><p>•advise and assist the Debtors in connection with any potential property dispositions;</p><p>•advise the Debtors concerning executory contract and unexpired lease assumptions, assignments, and rejections;</p><p>•assist the Debtors in reviewing, estimating, and resolving claims asserted against the Debtors' estates;</p><p>•commence and conduct litigation necessary or appropriate to assert rights held by the Debtors, protect assets of the Debtors' estates, or otherwise further the goal of completing the Debtors' chapter 11 plan;</p><p>•provide corporate, employee benefit, litigation, tax, and other general non-bankruptcy services to the Debtors to the extent requested by the Debtors; and</p><p>•perform all other necessary or appropriate legal services in connection with these Cases for or on behalf of the Debtors.</p><p>HOURLY COMPENSATION:</p><p>Members of the firm will be compensated at the following hourly rates:</p><p>Partners $1,175 - $1,925</p><p>Counsel $1,160 - $1,440</p><p>Associates $620 - $1,155</p><p>Paralegals $185 - $560</p><p>Professional Staff $150 - $385</p><p>CASE BACKGROUND: Enjoy Technology Inc., a retail technology company started by former Apple Inc. retail strategist and chief executive of J.C. Penney Ron Johnson, filed for chapter 11 bankruptcy protection on June 30.</p><p>HEARING DATE: A hearing on the matter has been scheduled for Aug. 12. Objections are due Aug. 5.</p>",
+  "published": "2022-08-05T16:17:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2342,
+          "end": 2352
+        },
+        {
+          "start": 2341,
+          "end": 2351
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

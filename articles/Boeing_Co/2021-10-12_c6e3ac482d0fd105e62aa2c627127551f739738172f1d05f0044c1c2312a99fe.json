@@ -1,0 +1,29 @@
+{
+  "_id": "c6e3ac482d0fd105e62aa2c627127551f739738172f1d05f0044c1c2312a99fe",
+  "feed": "reuters",
+  "title": "Boeing mandates COVID-19 vaccination for U.S. employees",
+  "text": "<p>President Biden last week said more U.S. businesses should obligate workers to receive COVID-19 vaccinations, calling the move vital to ending the pandemic and sustaining the economy.</p>",
+  "published": "2021-10-12T22:30:42.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999762,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

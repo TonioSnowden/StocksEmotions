@@ -1,0 +1,112 @@
+{
+  "_id": "ed197fa11b606549a6a44f1df637e6fd7e5e8fbadd495a4e3bb0556c70f03fc8",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Facebook WhatsApp  Won't Adopt Apple's  Photo-Scan System  ----  By Robert McMillan",
+  "text": "<p>   Facebook Inc.'s WhatsApp messaging unit blasted Apple Inc.'s plan to monitor sexually exploitative images of children on iPhones as bad for privacy, opening a new front in the battle between two of the world's biggest tech companies. </p><p>   \"This approach introduces something very concerning into the world,\"Will Cathcart, the head of WhatsApp, said Friday. \"We will not adopt it at WhatsApp.\" </p><p>   A day earlier, Apple said it planned to release an update for U.S. users later this year designed to identify and report collections of sexually exploitative images of children, as part of a series of changes it is preparing for the iPhone to protect children from sexual predators. </p><p>   WhatsApp's position deepens the battle between Facebook and Apple about data. Facebook Chief Executive Mark Zuckerberg has long bemoaned what he sees as too much power Apple has over the social-media giant's business. </p><p>   Apple has made the protection of user information on the iPhones and some other devices a key part of its pitch to consumers and taken shots at Facebook for its data-collection practices. </p><p>   Tensions have intensified in recent months as Apple rolled out a new privacy feature for the iPhone that restricts Facebook's ability to collect data. Mr. Zuckerberg said Apple was using its platform to interfere with how Facebook apps work. </p><p>   At the heart of the latest dispute is the question of whether tech companies can insert software that identifies inappropriate or illegal content without compromising privacy. Apple claims to have found a way to do this. WhatsApp, and Apple's critics, liken this software to a surveillance system. </p><p>   WhatsApp operates an end-to-end encrypted communications app that competes against Apple's Messages app for iPhones. WhatsApp is used by many users designed to safeguard content such as messages and pictures. </p><p>   Apple's announcement on Thursday introduced coming features to its software that will allow the company's software to scan photos within its Messages app and on the phone itself, but the company says that they are designed in a way to preserve user privacy. </p><p>   Images scanned within Messages, for example, can be reported to the parents of children, but are never reported to Apple itself, the company said. However, the iPhone will produce cryptographic hashes -- digital fingerprints, effectively -- of images that are uploaded to iCloud Photos, and if they are found to match known images of child sexually exploitative material, those images can be reported to the National Center for Missing and Exploited Children, which can forward them to law enforcement. </p><p>   Users of WhatsApp on the iPhone could be affected by Apple's changes if they have configured their phones to save WhatsApp images to Apple's cloud. </p><p>   Apple's decision may set the stage for governments to push technology companies for access to more private information -- something, Mr. Cathcart said in an interview Friday, that is troubling. \"Governments around the world, they're going to push Apple and they're going to say, 'Look, Apple has done this, we want to do something similar on every other phone, on every other computer and every other app.' \" </p><p>   On Friday, an Apple spokesman disputed this idea, saying that the systems were in no way built for government surveillance. </p><p>   Apple's move has drawn mixed reactions. John Clark, president and CEO of the National Center for Missing and Exploited Children, applauded the company, calling the move a game changer. Privacy proponents have taken a dim view. </p><p>   \"Apple is creating a platform for surveillance,\" said Bruce Schneier, a noted cryptographer, a sentiment echoed by others, including the Electronic Frontier Foundation, a digital-rights watchdog group. </p><p>   The encrypted messaging protections WhatsApp and Apple offer users have drawn criticism from law enforcement in the U.S. and abroad, who have urged the companies to provide a way to access data on those devices. </p><p></p>",
+  "published": "2021-08-07T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1123,
+          "end": 1128
+        },
+        {
+          "start": 3496,
+          "end": 3501
+        },
+        {
+          "start": 1700,
+          "end": 1705
+        },
+        {
+          "start": 2640,
+          "end": 2645
+        },
+        {
+          "start": 3158,
+          "end": 3163
+        },
+        {
+          "start": 889,
+          "end": 894
+        },
+        {
+          "start": 839,
+          "end": 844
+        },
+        {
+          "start": 731,
+          "end": 736
+        },
+        {
+          "start": 48,
+          "end": 58
+        },
+        {
+          "start": 2720,
+          "end": 2725
+        },
+        {
+          "start": 1248,
+          "end": 1253
+        },
+        {
+          "start": 2199,
+          "end": 2204
+        },
+        {
+          "start": 1554,
+          "end": 1559
+        },
+        {
+          "start": 1826,
+          "end": 1831
+        },
+        {
+          "start": 2982,
+          "end": 2987
+        },
+        {
+          "start": 403,
+          "end": 408
+        },
+        {
+          "start": 48,
+          "end": 53
+        },
+        {
+          "start": 2735,
+          "end": 2740
+        },
+        {
+          "start": 3268,
+          "end": 3273
+        },
+        {
+          "start": 3021,
+          "end": 3026
+        },
+        {
+          "start": 48,
+          "end": 57
+        },
+        {
+          "start": 3746,
+          "end": 3751
+        },
+        {
+          "start": 1495,
+          "end": 1500
+        },
+        {
+          "start": 43,
+          "end": 48
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

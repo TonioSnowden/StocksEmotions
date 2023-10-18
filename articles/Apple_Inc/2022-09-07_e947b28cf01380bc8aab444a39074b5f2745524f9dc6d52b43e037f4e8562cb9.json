@@ -1,0 +1,70 @@
+{
+  "_id": "e947b28cf01380bc8aab444a39074b5f2745524f9dc6d52b43e037f4e8562cb9",
+  "feed": "ftcomall",
+  "title": "Apple: iPhone event is style over substance but sales will increase regardless",
+  "text": "<p>The annual<a href=\"https://www.ft.com/content/fa4f093d-f4a9-4795-9684-d1c6c2479446?desktop=true&amp;segmentId=d8d3e364-5197-20eb-17cf-2437841d178a#myft:notification:instant-email:content\"> iPhone launch</a> should not be an event. Smartphones are ubiquitous and&#xa0;Apple's version is 15 years old. Slightly bigger screens with a longer battery life are nice but not groundbreaking. The company's most interesting products — driverless cars and mixed reality headsets — remain under wraps.</p> <p>Yet Apple's knack for showmanship remains as impressive as ever. On YouTube, more than 2.5mn people tuned in to watch. Rival hardware marketing events do not attract this level of interest. Apple's products are still outrageously popular. Around the world, over 1.8bn of its products are in use.</p> <p>Its share of the US smartphone market (including second-hand handsets) has climbed above 50 per cent, <a href=\"https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5\">overtaking</a> Android. This year the US market will contain almost 125mn iPhones, up 3 per cent on last year, according to estimates from market research company Insider Intelligence. New releases will lift that total.</p> <p>The latest line-up of iPhones feature larger display screens that are on even when locked (a feature Android smartphones already have). There is emergency satellite connectivity and a $799 Watch aimed at fitness fanatics. These are not radical upgrades. But improved performance will keep users replacing old Apple products with new ones.</p> <p>Without a supply chain crunch, the performance might be even better. Like the rest of the tech sector, Apple has had difficulty obtaining the chips it wants. The more expensive version of the new iPhone contains the latest A16 chip but the standard version does not. Apple is expanding production in India amid China's zero-Covid policy.</p> <p>Costs elsewhere are being crimped. But Apple is very good at extracting more revenue from existing customers. It no longer provides free chargers for iPhones — though Brazil has ordered it to change this. Revenue from services such as Apple TV and Apple Pay rose 12 per cent in the last quarter. As well as accounting for over a fifth of the group total these encourage users to stick with Apple hardware. Adding more <a href=\"https://www.ft.com/content/b0ae756a-89b7-486e-857d-d06401ef173d\">advertising</a> will expand operating margins.</p> <p>There is a reason Apple is the biggest holding in Warren Buffett's Berkshire Hathaway and the most valuable tech company by market cap. Low spending, big buybacks and contented customers equal a safe bet in the midst of a downgrade in tech market valuations. Revolutionary new ideas are not necessary if users are content with what they have.</p><p>Source:  2022 'Apple: iPhone event is style over substance but sales will increase regardless' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T20:41:18.929Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 80,
+          "end": 85
+        },
+        {
+          "start": 304,
+          "end": 309
+        },
+        {
+          "start": 487,
+          "end": 492
+        },
+        {
+          "start": 1212,
+          "end": 1217
+        },
+        {
+          "start": 1343,
+          "end": 1348
+        },
+        {
+          "start": 1505,
+          "end": 1510
+        },
+        {
+          "start": 1613,
+          "end": 1618
+        },
+        {
+          "start": 1961,
+          "end": 1966
+        },
+        {
+          "start": 2048,
+          "end": 2053
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.0,
+        "baseWeight": 11.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "055052860a11a03a34c7e1dc1fe40f66a0796be9bff2729584994d190131786d",
+  "feed": "market-watch",
+  "title": "Apple schedules Sept. 7 event expected to mark iPhone 14 debut; New lineup of iPhone Pro models could come with a price increase, analyst says",
+  "text": "<p>Apple's AAPL September events typically mark the introduction of the company's new iPhone family, and while the upcoming lineup isn't expected to feature major changes, Apple fans should expect some improvements.</p><p>The Verge reports that Apple is planning to upgrade its iPhone Pro and Pro Max devices with an always-on display, a notch-less front-facing camera area, and an upgraded chip for processing.</p><p>The new Pro lineup could also come at a higher price relative to the current generation of Pro phones.</p><p>\"While the base iPhone will stay at the same price we believe a $100 price increase on the iPhone 14 Pro/Pro Max is likely in store given component price increases as well as added functionality on this new release,\" Wedbush analyst Daniel Ives wrote in a note to clients earlier this month.</p><p>The Verge noted that the regular iPhone 14 lineup might see more minor upgrades, as the phones could feature the same A15 processor that's in current-generation models but get a larger screen-size option as well as better camera features for selfies.</p><p>Another question is whether Apple will reveal its long-rumored augmented-reality headset at the upcoming event. Bloomberg News reported in May that the company was expected to show off the headset later this year or early next year, before releasing it to consumers at some point in 2023.</p><p>Apple schedules Sept. 7 event expected to mark iPhone 14 debut</p>",
+  "published": "2022-08-25T12:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 169,
+          "end": 174
+        },
+        {
+          "start": 235,
+          "end": 240
+        },
+        {
+          "start": 1072,
+          "end": 1077
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

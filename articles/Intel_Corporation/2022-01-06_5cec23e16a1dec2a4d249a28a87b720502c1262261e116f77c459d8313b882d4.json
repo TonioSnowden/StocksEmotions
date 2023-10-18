@@ -1,0 +1,28 @@
+{
+  "_id": "5cec23e16a1dec2a4d249a28a87b720502c1262261e116f77c459d8313b882d4",
+  "feed": "wall-street-journal",
+  "title": "Tesla Is No Longer Alone With 'Full Self Driving' Promises; Announcements at this week's CES from General Motors and Intel's Mobileye suggest driverless cars for consumers could come around 2025",
+  "text": "<p>Chinese car maker Geely hopes to offer one even before that. Ahead of a planned minority initial public offering this year, Intel subsidiary Mobileye said Tuesday it was working with Geely's new EV brand Zeekr to launch a car in 2024 with \"Level Four\" autonomous capabilities, meaning it won't need input from a human driver within certain parameters, such as good weather or specific geographic boundaries. The companies expect this to be a global first for consumer vehicles. Level Four vehicles built for taxi fleets—so-called robotaxis—are already on streets in the U.S. and China, albeit in very small numbers.</p><p>Most of today's advanced driver-assistance packages qualify as Level Two autonomy under the definitions laid out by SAE International, a standard-setting organization: Drivers need to keep their eyes on the road at all times. That goes for Mobileye-based systems, Tesla's aggressively-pitched \"Full Self Driving\" software in its current state, and GM's next-generation \"hands-free\" Ultra Cruise technology, which will launch next year.</p><p>SHARE YOUR THOUGHTS</p><p>What sort of car or other vehicle do you expect to be driving in five years? Join the conversation below.</p><p>Mercedes-Benz and Honda are pushing boundaries by allowing drivers of their most sophisticated products to disengage on motorways at low speeds in their respective home countries, Germany and Japan. This technically qualifies as Level Three automation because the driver is no longer always in control. The use case isn't broad—it essentially covers freeway traffic jams—but is a demonstration of both technological and, crucially, regulatory leadership.</p><p>Level Four autonomous driving in consumer vehicles will require another leap. The difference between putting the technology in taxis and showrooms is that consumers need fewer geographic restrictions at a lower cost. The self-driving systems based on rooftop laser-based radars, or lidars, that control today's robotaxis cost tens of thousands of dollars. Mobileye CEO Amnon Shashua argued in a speech at CES on Wednesday that the package of sensors and computing power required to automate driving needs to cost the manufacturer \"way below\" $5,000 to work in the consumer market.</p><p>Israel-based Mobileye dominates the computer-vision technology that underpins today's driver-assistance features. It has a 60% to 70% market share, depending whom you ask, and tech-hungry clients such as BMW and Audi. Mobileye is the most direct competitor to Tesla in terms of driverless-car ambitions. In his CES speech, Mr. Shashua even used Elon Musk's loaded phrase \"full self driving\" to describe the Level Four autonomy he is now targeting.</p><p>Like Tesla, Mobileye collects reams of data through the hardware it already has on roads, using data-sharing agreements with clients such as BMW, Volkswagen and Nissan. This has allowed it to build up high-definition maps in a way no single company could. The difference between Tesla and Mobileye has always been the latter's insistence on safety backup systems. Whereas Mr. Musk rejects lidar and is now moving away from radar in favor of using cameras alone as sensors, Mr. Shashua intends to deliver AVs with all three imaging technologies.</p><p>However this battle plays out, one thing seems fairly clear: When they finally arrive, driverless cars won't be the preserve of one brand—at least not for long. Even if Tesla succeeds in persuading regulators to back its more aggressive approach, which doesn't seem likely, Mobileye's technology will soon follow in other brands. And then there are GM and Mercedes, which are working on proprietary systems with Intel rivals Qualcomm and Nvidia respectively.</p><p>Tesla bulls often point to the company's Full Self Driving package, for which it charges $10,000, as a way to justify its $1.15 trillion valuation. But this doesn't sit easily with the reality of automated-driving technology, in which the market leader by any conventional measure is an industry supplier, Mobileye. Investors need to look elsewhere for valid reasons why Tesla can be worth multiples of its rivals.</p><p>Write to Stephen Wilmot at stephen.wilmot@wsj.com</p><p>Tesla Is No Longer Alone With 'Full Self Driving' Promises</p>",
+  "published": "2022-01-06T15:36:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3619,
+          "end": 3624
+        },
+        {
+          "start": 117,
+          "end": 122
+        },
+        {
+          "start": 124,
+          "end": 129
+        }
+      ]
+    }
+  ]
+}

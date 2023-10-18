@@ -1,0 +1,20 @@
+{
+  "_id": "53117a4cd1ca3dd68e851b8d2e5f2ddba3a14279c83b654fa823b7df2b17434c",
+  "feed": "wall-street-journal",
+  "title": "PC Slowdown Sets a New Battleground for Chip Makers; AMD needs to keep taking market share, while Intel can't afford to lose it",
+  "text": "<p>Investors mostly have been focused on the two companies' rivalry in the faster-growing market for data center chips. PCs still account for a majority of revenue for both, though. And that could be a problem this year as the mature industry takes a breather following a strong, pandemic-fueled run. IDC estimates that PC shipments jumped nearly 12% in 2021 to 337.6 million units following a 13% gain the previous year. But the market research firm projects that sales will remain flat this year and rise only 1% in 2023. Even that assumes the pandemic bump sticks; the industry averaged 265 million units annually for the five-year period before 2020.</p><p>Intel and AMD touted their forthcoming PC chips at the much-diminished CES trade show last week. The newest offerings are geared mostly toward laptops, which account for about three-quarters of the PC market. Intel's will be the first laptop processors rolling off its new production process called \"Intel 7,\" while AMD's new Ryzen chips will be built on TSMC's 6-nanometer process. Analysts are mixed on which has the better prospects. Mark Lipacis of Jefferies expects AMD to keep taking market share from Intel, while Pierre Ferragu of New Street Research expects Intel's new offerings to help the chip maker \"restore competitiveness.\"</p><p>Neither can afford to fall short on those counts. Investors have sent AMD's share price up 39% during the past 12 months—outperforming many other chip peers—and analysts expect the much smaller chip maker to keep delivering double-digit revenue growth over the next two years following an estimated 65% surge in 2021. Intel, on the other hand, is desperate to stem its loss of share given its need to maintain business and cash flows during a multiyear—and expensive—turnaround plan to close the gap with TSMC on manufacturing.</p><p>Another potential wrinkle is the possibility of competing ARM-based processors getting more traction following the success of Apple's new Macs using the company's in-house designed chips. Qualcomm used its own CES presentation to announce that more than 200 enterprise customers are testing or deploying Microsoft Windows-based devices using the company's ARM-based Snapdragon chips. Chris Caso of Raymond James wrote that \"PC makers need to have a competitive response to the M1-powered Macs,\" but more share for ARM processors like Snapdragon would come at the expense of the x86 chips made by both Intel and AMD.</p><p>One thing is certain: Even with growth flatlining, the PC market will offer plenty of excitement this year.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>PC Slowdown Sets a New Battleground for Chip Makers</p>",
+  "published": "2022-01-09T15:03:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2123,
+          "end": 2132
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

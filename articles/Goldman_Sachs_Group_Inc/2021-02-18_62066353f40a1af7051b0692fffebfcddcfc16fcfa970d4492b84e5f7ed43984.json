@@ -1,0 +1,48 @@
+{
+  "_id": "62066353f40a1af7051b0692fffebfcddcfc16fcfa970d4492b84e5f7ed43984",
+  "feed": "wall-street-journal",
+  "title": "A New Kind of Hedge: Yes/No Bets on Events  ----  By Alexander Osipovich",
+  "text": "<p>   An online-trading startup that aims to let people to wager on questions about future events ranging from economics to the weather to public health has raised $30 million from an array of prominent investors including venture firm Sequoia Capital and discount-brokerage pioneer Charles R. \"Chuck\" Schwab. </p><p>   Kalshi Inc. expects to launch in March. It plans to let users bet on \"yes\" or \"no\" answers to questions about future events. For instance, had the platform existed last year, it might have asked users whether a Covid-19 vaccine would be approved by the end of 2020. </p><p>   The San Francisco-based startup hopes to benefit from surging interest in trading by individual investors. Individuals have jumped into stocks and options during the past year, using apps like those offered by Robinhood Markets Inc. Kalshi also hopes its marketplace will be used by people and businesses looking to hedge against risks that they face from future events. </p><p>   Kalshi's fundraising round comes after it won approval from the Commodity Futures Trading Commission in November to run a derivatives exchange. Sequoia led the Series A round, which brings the total money raised by Kalshi since its 2018 founding to about $36 million. </p><p>   Other investors in the round include Henry R. Kravis, the billionaire co-founder of private-equity giant KKR &amp; Co. Inc., and SV Angel, a seed-stage venture firm whose investments have included Airbnb Inc. and DoorDash Inc. Earlier investors in Kalshi include Y Combinator, a Silicon Valley startup accelerator, and Justin Mateen, a co-founder of dating app Tinder. </p><p>   Despite Kalshi's high-profile backers, there is no guarantee it will succeed. Many startup exchanges fail to gain traction because it is tough to attract participants to a fledgling market. And event contracts -- the type of product that Kalshi hopes to popularize -- have had limited success in the U.S. to date. </p><p>   Kalshi was founded by Tarek Mansour and Luana Lopes Lara, a pair of former researchers at the Massachusetts Institute of Technology. Both are 24 years old. Mr. Mansour has interned at Goldman Sachs Group Inc., while Ms. Lopes Lara has interned at electronic-trading firm Citadel Securities and hedge fund Bridgewater Associates. Kalshi's name is derived from the Arabic word for \"everything,\" which refers to the breadth of topics that its questions could potentially cover. </p><p>   Mr. Mansour said Kalshi was partly inspired by his experiences at Goldman in 2016, when some clients asked the bank to help them hedge against the risk that the U.K. would vote to leave the European Union. Goldman devised derivatives products that were based on complex models of how various markets would react if Brexit passed. Wouldn't it be simpler, Mr. Mansour said he thought, if the contracts simply paid out in the event of a \"leave\" vote? </p><p>   \"A lot of trading activity today stems from an opinion about a future event,\" he said. \"You form an opinion about a certain future event, and then you figure out, 'OK, how can I trade on that opinion?'. . .What Kalshi allows you to do is get the exact hedge, or exposure, that an individual or a business or an institution is looking to get, because they can trade in yes-or-no contracts.\" </p><p>   Kalshi will run an exchange where users determine the price for such yes-or-no contracts. Each contract will pay out $1 if the user is right, and nothing if the user is wrong. </p><p>   Before the event happens -- determining the final, correct answer to the question -- the price of a contract could range from 0 to $1, depending on what users are willing to pay for a \"yes\" or a \"no\" outcome. </p><p>   Users don't have to wait for the final outcome to exit their trades. A user, for example, could initially buy a cheap \"yes\" contract for, say, 20 cents. Then if there is a shift in the collective wisdom and people begin to expect a \"yes\" outcome, the user could sell it at, say, 60 cents. Or the opposite could happen, and the user could exit the trade at a loss. </p><p>   Such contracts could be risky, because users may potentially lose all their money if they bet on the wrong outcome. The CFTC has warned investors about binary options, a similar type of contract, in part because of fraud cases involving unregulated online binary-options platforms. </p><p>   Kalshi says it worked closely with the CFTC to create a regulated market and has safeguards to prevent users from taking on too much risk. Unlike in futures or stock trading, Kalshi users can't use leverage. In markets that allow leverage, investors can make outsize gains with a small upfront payment, but with the danger that a wrong-way bet will result in steep losses. </p><p>   Federal law prohibits Kalshi from listing contracts in a number of areas, including war, terrorism, assassinations or gaming. It is up to the CFTC to determine what counts as \"gaming\" -- an area where the law leaves some ambiguity. </p><p>   It is unlikely that Kalshi would list contracts on election outcomes, because in 2012 the CFTC blocked an effort to list political-event contracts, saying they involved gaming and weren't in the public interest. Mr. Mansour says Kalshi isn't planning to offer sports contracts. </p><p></p>",
+  "published": "2021-02-18T07:09:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2569,
+          "end": 2576
+        },
+        {
+          "start": 2072,
+          "end": 2096
+        },
+        {
+          "start": 2429,
+          "end": 2436
+        },
+        {
+          "start": 2551,
+          "end": 2558
+        },
+        {
+          "start": 2072,
+          "end": 2079
+        },
+        {
+          "start": 2072,
+          "end": 2085
+        },
+        {
+          "start": 2057,
+          "end": 2081
+        },
+        {
+          "start": 2412,
+          "end": 2419
+        }
+      ]
+    }
+  ]
+}

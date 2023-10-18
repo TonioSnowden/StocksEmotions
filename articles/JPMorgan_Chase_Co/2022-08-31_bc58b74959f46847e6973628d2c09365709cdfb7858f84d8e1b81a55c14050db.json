@@ -1,0 +1,30 @@
+{
+  "_id": "bc58b74959f46847e6973628d2c09365709cdfb7858f84d8e1b81a55c14050db",
+  "feed": "market-watch",
+  "title": "U.S. stocks threaten to extend losing streak to 4 days as August draws to close; Bed Bath & Beyond shares plunge after strategic update",
+  "text": "<p>* The Dow Jones Industrial Average DJIA fell 91 points, or 0.3%, to 31,700.</p><p>* The S&amp;P 500 SPX was off 6 points, or 0.2%, at 3,980.</p><p>* The Nasdaq Composite COMP shed 22 points, or 0.2%, to trade at 11,860.</p><p>On Tuesday, the Dow fell 308 points, or 1%, while the S&amp;P 500 and Nasdaq Composite each dropped 1.1%. Through Tuesday's close, the Dow was on track for a 1.5% August fall, while the S&amp;P 500 was down 1.8% and the Nasdaq was off 2.1%.</p><p>Deep Dive: Here are the worst (and best) performing stocks of August and for 2022</p><p>What's driving markets</p><p>Stocks got off to a wobbly start but turned modestly higher in early trade. Ahead of the opening bell, ADP estimated that U.S. private-sector employment rose by 132,000 in August, while annual pay rose 7.6%. Stocks were rattled on Tuesday after data showed a larger-than-expected number of job openings, underlining fears the Federal Reserve would be more aggressive in tightening monetary policy.</p><p>The ADP figure came in below forecasts, but economists and analysts said they were still attempting to figure out how to assess the revamped data series after the previous version proved to be an unreliable guide to official monthly jobs data from the U.S. Labor Department. ADP has said the new series is meant to be a complement to the official figures rather than a guide.</p><p>\"With only limited details as to how they arrived at that number, we have little confidence that this new survey will prove to be any more accurate a guide to the official payrolls tally than the previous incarnation,\" said Michael Pearce, senior U.S. economist at Capital Economics, in a note.</p><p>The August jobs report is expected to show the economy added 318,000 jobs, according to a survey of economists by The Wall Street Journal. The unemployment rate is seen steady at 3.5%.</p><p>The S&amp;P 500 index fell 5.1% in the previous three sessions, after Fed Chairman Jerome Powell last Friday raised fears that the central bank would persevere with higher interest rates to combat inflation even if it meant damaging the economy and hurting the stock market.</p><p>The choppy trading on Wednesday came after better-than-forecast U.S. jobs and consumer confidence reports on Tuesday were seen allowing the Fed to fully prosecute its aggressive monetary tightening policy, a move that appeared to reinforce the market mantra that good economic news would be bad for stocks, and vice versa.</p><p>\"We held a view over the past 2-3 months that 'bad dataflow will start to be seen as good', and believe this will likely continue to hold,\" said Mislav Matejka, equity strategist at JP Morgan.</p><p>\"For example, last week in the U.S. the very weak PMIs [purchasing managers indices] and weak housing dataflow were met by favorable equity trading on the day, lending support to this call,\" he added.</p><p>A fresh batch of worldwide PMIs, due for release on Thursday, are just one feature within a busy few days of labor data that may thus provide meaningful market momentum.</p><p>U.S. crude futures CL.1 fell 1.2% to $90.55 a barrel, adding to the previous session's sharp losses which came amid fears slowing global growth would crimp demand. The S&amp;P 500 energy sector was holding its own, however, trading near unchanged.</p><p>Companies in focus</p><p>* Shares of meme-stock favorite Bed Bath &amp; Beyond Inc. BBBY plunged 22.3% after the struggling home-goods retailer's strategic update, in which the company said it would cut its workforce and close stores, and provided a downbeat sales outlook.</p><p>* Seagate Technology Holdings PLC STX on Wednesday issued a profit warning for its fiscal first quarter, citing a worsening macroeconomic backdrop. Shares fell 3%.</p><p>U.S. stocks threaten to extend losing streak to 4 days as August draws to close</p>",
+  "published": "2022-08-31T15:39:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 2572,
+          "end": 2581
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

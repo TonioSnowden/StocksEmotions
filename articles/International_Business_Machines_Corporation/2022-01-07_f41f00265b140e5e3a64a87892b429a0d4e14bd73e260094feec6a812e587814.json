@@ -1,0 +1,36 @@
+{
+  "_id": "f41f00265b140e5e3a64a87892b429a0d4e14bd73e260094feec6a812e587814",
+  "feed": "wall-street-journal",
+  "title": "The AI-Powered Enterprise Tools Presented at CES 2022; Highlights from Las Vegas include AI-powered chips, robots and tractors",
+  "text": "<p>Qualcomm's new vision for self-driving cars. Qualcomm Technologies Inc. unveiled new computer-vision software for autonomous driving. Using the company's most advanced chips, the software gives autonomous autos a clearer perception of their surroundings, the company said. Computer vision is a form of AI trained to analyze images. Qualcomm, which has been supplying autonomous technology to General Motors Co., Bayerische Motoren Werke AG and other manufacturers, said it expects the new computer vision system to be in production in 2024.</p><p>IBM weather analytics coming to AWS. International Business Machines Corp. said it's making weather-data analytics from its Weather Company and IBM Watson Advertising units available on Amazon Web Services' AWS Data Exchange, a cloud service that offers data from news organizations, financial-data companies and other third-party sources. The Weather Company collects weather data, while IBM Watson Advertising uses machine-learning and other technologies to provide data sets on historical and projected sales for retailers, pharmaceutical companies and others. The two IBM businesses work together to build predictive 15-day forecasts to see how weather might affect those businesses.</p><p>Intel chips for AI apps. Intel Corp. talked about a 12th-generation Intel Core processor—code-named Alder Lake H-series—that it said is designed to make core computer and graphics processing 1.18 to over 2 times faster than its 11th-generation chips, and which the company anticipates will also improve the performance of AI applications. The chips are designed for use both in internet-connected devices and personal computers. The version of the new chip for computers is in production and the version for internet-connected devices will go into production later this quarter.</p><p>Deere's driverless tractor. Deere &amp; Co. showed off a fully autonomous tractor designed for large-scale farming and said it would be available later this year. The driverless tractor is a version of Deere's existing 8R series machine. The autonomous-driving system is equipped with six pairs of cameras, three in the front and three in the back, for a 360-degree view of the tractor's surroundings. The images are fed to the onboard computer, where a convolutional neural network—an advanced form of AI that analyzes images—classifies pixels in milliseconds, identifies objects in the tractor's path and determines whether the tractor should remain on course, steer around an obstacle or stop.</p><p>Write to John McCormick at john.mccormick@wsj.com</p>",
+  "published": "2022-01-07T23:31:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 1113,
+          "end": 1116
+        },
+        {
+          "start": 578,
+          "end": 609
+        },
+        {
+          "start": 930,
+          "end": 940
+        },
+        {
+          "start": 541,
+          "end": 544
+        },
+        {
+          "start": 685,
+          "end": 695
+        }
+      ]
+    }
+  ]
+}

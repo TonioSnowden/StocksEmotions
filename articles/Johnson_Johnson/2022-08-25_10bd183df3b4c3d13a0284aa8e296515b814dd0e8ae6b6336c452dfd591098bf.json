@@ -1,0 +1,38 @@
+{
+  "_id": "10bd183df3b4c3d13a0284aa8e296515b814dd0e8ae6b6336c452dfd591098bf",
+  "feed": "ftcomall",
+  "title": "Pfizer races to beat rivals for slice of $10bn respiratory jab market",
+  "text": "<p>Pfizer has said it will seek approval for a vaccine targeting respiratory syncytial virus in older adults after reporting positive trial data as rival groups race to develop a jab for a market that analysts estimate will generate up to $10bn of annual sales. </p> <p>The US company on Thursday said a late-stage trial in adults aged 60 years and older demonstrated that its vaccine was safe and effective at preventing serious disease from the virus. </p> <p>An application for regulatory approval will be submitted in the autumn, said Pfizer, which is hunting for new ways to boost revenues as sales of Covid-19 vaccines begin to moderate.</p> <p>RSV is a contagious disease that can cause severe respiratory illness, particularly in older people and infants. Each year about 336,000 older people are hospitalised worldwide because of RSV and there are 14,000 deaths a year in the US.</p> <p>The virus is one of the few major infectious diseases without a vaccine, although recent scientific advances have encouraged four large pharmaceutical companies — Pfizer, GSK, Johnson &amp; Johnson and Moderna — to undertake late-stage trials of potential jabs.</p> <p>GSK in June said it would <a href=\"https://www.ft.com/content/1c2ede66-dce3-4076-9ede-95d7c8f97f78\">apply for regulatory approval</a> of its RSV vaccine for older adults following trial results that it said showed “statistically significant and clinically meaningful efficacy”. </p> <p>J&amp;J expects to publish late-stage clinical data for its vaccine in the coming months as does Moderna, which is aiming to develop a single “multivalent” jab that would protect against RSV, influenza and Covid-19. </p> <p>Analysts say the revenues for a successful RSV jab would be significant, with SVB Leerink last year forecasting the market could eventually be worth up to $10bn a year. </p> <p>Pfizer said its trial of 37,000 older adults demonstrated its vaccine was 85.7 per cent effective at preventing severe disease from lower respiratory tract RSV infection. The jab was well tolerated, with no safety concerns, it added.</p> <p>Pfizer is also studying whether its shot can prevent RSV infection in infants from birth up to six months of age by vaccinating pregnant women.</p> <p>Annaliesa Anderson, Pfizer's chief scientific officer of vaccine research, said the company would work with the US Food and Drug Administration and other global regulators to secure approvals. </p> <p>“Scientists and researchers have worked to develop RSV vaccines with little success for over half a century. These findings are an important step in our effort to help protect against RSV disease,” she said. </p> <p>A previous attempt to develop an RSV vaccine ended in tragedy in the 1960s when two infants who took part in trials died from lung inflammatory response that developed during their first natural infection after vaccination.</p> <p>Scientists say the current crop of candidates are very different from the 1960s vaccines and would not provoke a similar inflammatory response because all older adults would have already been exposed to RSV.</p> <p>“We know that once you are infected with RSV you can no longer prime for that exacerbated response with a vaccine,” said Jason McLellan, professor of molecular biosciences at the University of Texas.</p> <p>He said companies were progressing cautiously when it came to developing RSV vaccine for infants who might not have been exposed to the virus.</p> <p>McLellan's research on identifying and stabilising the structure of a protein that the RSV virus uses to infect human cells, published almost a decade ago, was instrumental in reviving Big Pharma's interest in developing the jabs. </p> <p>He said the new generation of RSV vaccines would probably become annual boosters and could in the future be combined with flu and Covid jabs to create a pan-respiratory vaccine.</p><p>Source: Jamie Smyth in New York  2022 'Pfizer races to beat rivals for slice of $10bn respiratory jab market' FT.com 25 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-25T10:45:50.392Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1039,
+          "end": 1056
+        },
+        {
+          "start": 1314,
+          "end": 1317
+        },
+        {
+          "start": 1034,
+          "end": 1051
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000646,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 6.4611435e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

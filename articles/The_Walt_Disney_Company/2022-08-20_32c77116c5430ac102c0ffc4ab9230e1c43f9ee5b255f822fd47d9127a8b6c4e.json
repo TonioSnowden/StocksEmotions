@@ -1,0 +1,34 @@
+{
+  "_id": "32c77116c5430ac102c0ffc4ab9230e1c43f9ee5b255f822fd47d9127a8b6c4e",
+  "feed": "wall-street-journal",
+  "title": "Movie Theaters Brace for a Rough Intermission; An expected chapter 11 bankruptcy filing from Cineworld is a reminder that movie theaters face a gap in big releases following a strong summer",
+  "text": "<p>November actually comes two weeks after the release of \"Black Adam,\" the next entry in Warner Bros. Discovery's DC Comics franchise that stars the actor otherwise known as Dwayne Johnson. He is no slouch on the screen: Movies featuring the former wrestler in a leading role have generated more than $5 billion in global box-office revenue, according to the movie-industry tracking site The Numbers. According to Wedbush analyst Alicia Reese, \"Black Adam\" is the next theatrical release expected to do significant business, defined as surpassing $100 million domestically. The movie is currently set for release on Oct. 21, two months from now.</p><p>That pause is a problem for all movie-theater operators, and an insurmountable one for Cineworld. The company entered the pandemic deep in debt following a string of acquisitions, and an attempt to buy the Cineplex chain for about $1.7 billion in late 2019 turned out to be very poorly timed.</p><p>It also didn't benefit from the meme-stock phenomenon that saved similarly indebted rival AMC Entertainment. A surge of interest from individual investors has helped AMC raise more than $2 billion from stock sales and reduce its borrowings, thus avoiding its own trip to bankruptcy court.</p><p>Still, news of Cineworld's filing took down shares of AMC nearly 7% on Friday, while smaller chains Cinemark and IMAX saw their shares fall by 4.5% and 3% respectively. None of those three face similar financial stress, but Cineworld's move was a stark reminder that the theatrical exhibition industry is still working its way out of the hole created by the pandemic.</p><p>The smashing success of \"Top Gun: Maverick,\" which has now grossed nearly $1.4 billion worldwide, has helped the industry close some of the gap with its prepandemic performance. The domestic box-office for this year's summer season has totaled about 72% of the average for the same period during the years 2015-2019, according to Box Office Mojo. The gap was 52% for the combined spring-summer seasons.</p><p>SHARE YOUR THOUGHTS</p><p>Will movie theaters manage to keep their business strong? Why or why not? Join the conversation below.</p><p>But the fall season is looking a bit dry at this point, at least until the release of \"Black Adam.\" Cinemark Chief Executive Officer Sean Gamble warned in his company's earnings call earlier this month that \"the next two months will be challenged by another temporary dip in new release volume\" due to a mix of production delays and release date shifts. Other major releases late in the season include sequels to Disney's \"Black Panther\" and \"Avatar\" films. Both are promising: \"Black Panther\" is the third-highest domestic grossing title in the Marvel Cinematic Universe, according to Box Office Mojo. And the first \"Avatar\" film from 2009 is still the reigning global box-office champ, with $2.8 billion under its belt, according to The Numbers.</p><p>That will give The Rock some heavy competition. But movie-theater chains will need all of them to do some pretty heroic work.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Movie Theaters Brace for a Rough Intermission</p>",
+  "published": "2022-08-20T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2514,
+          "end": 2520
+        },
+        {
+          "start": 2533,
+          "end": 2539
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

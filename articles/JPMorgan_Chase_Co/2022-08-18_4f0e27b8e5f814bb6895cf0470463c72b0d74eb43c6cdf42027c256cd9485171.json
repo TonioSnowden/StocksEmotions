@@ -1,0 +1,34 @@
+{
+  "_id": "4f0e27b8e5f814bb6895cf0470463c72b0d74eb43c6cdf42027c256cd9485171",
+  "feed": "ftcomall",
+  "title": "US stocks edge higher after burst of mixed economic data",
+  "text": "<p>Wall Street stocks edged higher on Thursday after disappointing US home sales data followed better than expected labour market and manufacturing reports, adding to the sense of global economic uncertainty.</p> <p>The broad S&amp;P 500 gauge ended the day up 0.2 per cent, as did the tech-heavy Nasdaq Composite. In Europe, the regional Stoxx 600 gained 0.4 per cent. Hong Kong's Hang Seng fell 0.8 per cent.</p> <p>Those moves came after unemployment data for the week ending August 13 painted an optimistic picture, with US weekly jobless claims coming in at 250,000, 15,000 lower than expected. Later on Thursday afternoon, data showed that sales of previously owned homes in the world's largest economy clocked in at an annualised rate of 4.81mn units in July, down almost 6 per cent from the previous month and lower than consensus estimates of 4.89mn.</p> <p>Separately, a Philadelphia Federal Reserve survey of manufacturing activity in the US gave a reading of 6.2 for August, far surpassing the previous month's figure of minus 12.3 and topping expectations for a reading of minus 5. </p> <p>Details of the survey “were mixed and not particularly amazing on net”, wrote analysts at JPMorgan, but “this report sent a much more upbeat signal about manufacturing conditions than the very downbeat August Empire State manufacturing survey [from the New York Fed] that was released earlier in the week”.</p> <p>Investors have scrutinised economic data releases in recent weeks for clues about how aggressively the Fed will raise borrowing costs to tackle rapid price growth.</p> <p>In government bond markets, the yield on the policy-sensitive two-year US Treasury note slipped 0.08 percentage points to 3.21 per cent, reflecting a rise in the price of the debt instrument. The benchmark 10-year US yield fell 0.02 percentage points to 2.88 per cent.</p> <p>A day earlier, minutes from the latest Fed meeting <a href=\"https://www.ft.com/content/8881b6d4-76e6-46cd-9ebe-efaeffeddb98\">signalled</a> that restrictive interest rates would be in place “for some time”. Details of the discussion indicated that the central bank's officials supported raising rates to a point at which they acted as a drag on economic growth, but did not “notch up the hawkishness” as much as expected by some traders, said Salman Ahmed, global head of macro and strategic asset allocation at Fidelity. </p> <p>“There's a significant amount of discrepancy between markets and the Fed: the hard data [on inflation and jobs] are not giving any evidence of an irrefutable situation so you can argue, question and push back,” Ahmed said. </p> <p>Despite some investors talking about “peak inflation” after the US consumer price index showed signs of steadying in July, “the reality is things are often more complicated”, said Kasper Elmgreen, head of equities at Amundi. “We get very mixed data points but the reality is inflation continues to be way above levels that central banks are comfortable with.” </p> <p>The US dollar — typically perceived as a haven asset, which rises in line with expectations of higher interest rates — added 0.8 per cent against a basket of six other currencies to trade around its highest level since July.</p> <p>Beyond the Fed, central banks around the world have taken action in recent months to tackle inflationary pressures. Norway on Thursday raised rates by 0.5 percentage points for a second time this year, to 1.75 per cent. Norges Bank signalled it would raise rates further in September.</p><p>Source: Ian Johnston in London and Kate Duguid in New York 2022 'US stocks edge higher after burst of mixed economic data' FT.com 18 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-18T20:08:55.117Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1157,
+          "end": 1165
+        },
+        {
+          "start": 1150,
+          "end": 1158
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000203,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.026558e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

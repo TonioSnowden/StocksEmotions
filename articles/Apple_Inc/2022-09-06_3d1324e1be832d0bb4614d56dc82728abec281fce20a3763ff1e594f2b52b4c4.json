@@ -1,0 +1,30 @@
+{
+  "_id": "3d1324e1be832d0bb4614d56dc82728abec281fce20a3763ff1e594f2b52b4c4",
+  "feed": "market-watch",
+  "title": "Nasdaq on track for longest losing streak since 2016 as rising yields, strong dollar bite; Bed Bath & Beyond shares slump after death of CFO",
+  "text": "<p>* The Dow Jones Industrial Average DJIA retreated 204 points, or 0.7%, to 31,115.</p><p>* The S&amp;P 500 SPX fell 22 points, or 0.6%, to 3,902.</p><p>* The Nasdaq COMP was off 103 points, or 0.9%, at 11,527.</p><p>Major stock indexes fell for a third straight week on Friday, with the Dow posting a 3% weekly decline, the S&amp;P 500 declining more than 3% and the Nasdaq Composite shedding 4.2%.</p><p>What's driving markets</p><p>Lingering concerns about the economic fallout from a European energy crisis were again in focus on Tuesday, as was the Federal Reserve's determination to dampen inflation by aggressively hiking interest rates.</p><p>Meanwhile, rising Treasury yields and a stronger dollar were seen weighing particularly on the Nasdaq, which was on track for its ninth consecutive day in the red. If it does finish lower, this would mark the longest losing streak for the tech-heavy index since Nov. 4, 2016.</p><p>\"There's not a lot of demand for stocks right now, people are nervous. As for the causes, I think part of it is psychology, partly the strong dollar and partly higher bond yields — they're all part of the recipe here,\" said Steve Sosnick, chief strategist at Interactive Brokers.</p><p>The higher yields and stronger dollar were both particularly negative for megacap tech stocks like Apple Inc., AAPL Meta Platforms Inc. META and Amazon.com Inc. AMZN.</p><p>\"We've seen an inverse relationship between tech stocks and long-term bond yields based on the notion that tech stocks are the ultimate long-duration asset. As yields spike, it creates big headwinds for stocks in general, and the leading tech stocks in particular,\" Sosnick added.</p><p>Yields climbed across the Treasury curve BX:TMUBMUSD10Y, but long-dated bonds saw the biggest moves, with the 10-year yield up 13.5 basis points at 3.332%. Meanwhile, the ICE U.S. Dollar Index DXYwas back above 110, right around its strongest level in two decades.</p><p>Investors received some good news on the economic-data front, as the Institute for Supply Management said its services index rose to 56.9% in August from 56.7% in the prior month — the highest level since April. Economists polled by The Wall Street Journal had expected the index to drop to 55.5%. But it did little to help bail out stocks.</p><p>See: U.S. ISM services-sector index hits highest level in four months</p><p>As stocks head lower on Tuesday, market strategists wondered whether the market was headed for a re-test of the June lows — especially considering September's status as historically the worst month of the year for markets.</p><p>\"Bulls hoping for a rebound will be doing so during a shortened Labor Day week that historically has paralleled September and its track record of underperformance: Losses have been slightly less frequent over the past three decades, but volatility has been higher,\" said Chris Larkin, managing director for trading at E-Trade from Morgan Stanley.</p><p>See: 'The psychology has changed so quickly': Why stock-market lows may be retested as S&amp;P 500 enters its weakest stretch of year</p><p>U.S. equities had initially bounced on Friday after the August nonfarm payrolls report was deemed not so strong that it would encourage the Fed to become even more aggressive in hiking interest rates.</p><p>But news later in the day that Russia would indefinitely shutdown the main gas pipeline to Europe, thereby adding to the chances of a sharp economic slowdown on the continent, pushed the S&amp;P 500 back towards its lowest level since late July. And those concerns continued to reverberate across markets on Tuesday, even as the new Prime Minister Liz Truss promised immediate relief for high energy bills in the U.K.</p><p>In other news, Goldman Sachs chief economist Jan Hatzius offered a cautiously optimistic note on the ability of the Federal Reserve to deliver a so-called soft landing of the U.S. economy, averting recession as it continues to raise interest rates and otherwise tighten monetary policy.</p><p>Companies in focus</p><p>* Shares of retailer Bed Bath &amp; Beyond Inc. BBBY lost 16% after the death of Chief Financial Officer Gustavo Arnal was ruled a suicide.</p><p>* ADT Inc. ADT shares jumped 14% after the home-security company confirmed that it had secured about $1.65 billion in new investments from insurer State Farm and Alphabet Inc.'s GOOG GOOGL Google to boost product innovation, marketing and customers.</p><p>* FedEx Corp. FDX shares fell 2.4% after Citi analyst Christian Wetherbee downgraded the package delivery company citing concerns over the pace of freight activity with upcoming data expected to \"skew negatively\" in the peak season. Wetherbee cut this rating to neutral from buy, and slashed his stock price target to $225 from $270.</p><p>* Signify Health Inc. SGFY shares rose 0.9% after the home-health provider announced over the long weekend an agreement to be acquired by CVS Health Corp. CVS in a deal valued at about $8 billion. CVS shares were off 1.4%.</p><p>Nasdaq on track for longest losing streak since 2016 as rising yields, strong dollar bite</p>",
+  "published": "2022-09-06T17:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999833,
+      "offsets": [
+        {
+          "start": 1260,
+          "end": 1270
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.6302562,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.36975062,
+        "tagPositionWeight": 6.7949295e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

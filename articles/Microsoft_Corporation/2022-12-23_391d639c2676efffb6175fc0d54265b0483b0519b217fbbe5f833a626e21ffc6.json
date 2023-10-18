@@ -1,0 +1,36 @@
+{
+  "_id": "391d639c2676efffb6175fc0d54265b0483b0519b217fbbe5f833a626e21ffc6",
+  "feed": "wall-street-journal",
+  "title": "Microsoft Fined in France",
+  "text": "<p>The company hadn't -- until earlier this year -- offered users the option to reject so-called cookies alongside the button to accept them, the regulator said. Cookies are a type of digital identifier that websites can leave in web browsers, and which are often used to help target advertising.</p><p>The regulator also ordered Microsoft to seek consent for another type of cookie that it places in web browsers for the purposes of detecting fraudulent views of ads -- something the CNIL said wasn't necessary to make the search engine function.</p><p>If Microsoft doesn't comply within three months, it could face additional fines of 60,000 euros a day, the watchdog said.</p><p>A Microsoft spokesman said the company had made changes to its cookie practices to add a reject button for advertising cookies, but that it remains \"concerned with the CNIL's position on advertising fraud.\"</p><p>The company argues that such cookies \"shouldn't require consent by those intending to defraud others,\" he said. Microsoft hasn't decided whether to appeal the part of the decision that ordered it to seek consent for the cookie used to detect ad fraud, the spokesman said.</p><p>The CNIL's fine on Thursday is part of a broader effort by the French regulator to pursue large tech companies and online publishers to compel them to make reject buttons as prominent as those to accept online cookies when they relate to targeted advertising.</p><p>Many regulators in the European Union don't regard targeted ads as necessary for the functionality of a website.</p><p>Earlier this year, the CNIL fined Alphabet Inc.'s Google 150 million euros and Meta Platforms Inc.'s Facebook 60 million euros over the same issue. Both Google and Facebook now have a button to reject nonessential cookies next to the one to accept them when visitors first land on their home pages.</p><p>Regulators across Europe have taken a hard-line approach against large tech companies and their treatment of user data in recent years. In particular, EU regulators have moved to rein in targeted advertising based on users' online activity.</p>",
+  "published": "2022-12-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 321,
+          "end": 330
+        },
+        {
+          "start": 980,
+          "end": 989
+        },
+        {
+          "start": 542,
+          "end": 551
+        },
+        {
+          "start": 663,
+          "end": 672
+        }
+      ]
+    }
+  ]
+}

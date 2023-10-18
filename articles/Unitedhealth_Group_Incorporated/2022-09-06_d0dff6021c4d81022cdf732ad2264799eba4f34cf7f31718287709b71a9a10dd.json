@@ -1,0 +1,38 @@
+{
+  "_id": "d0dff6021c4d81022cdf732ad2264799eba4f34cf7f31718287709b71a9a10dd",
+  "feed": "market-watch",
+  "title": "CVS to buy Signify Health for $8 billion",
+  "text": "<p>CVS CVS, the nation's biggest healthcare company by revenue, said that it agreed to acquire Signify SGFY for $30.50 per share in an all-cash deal, confirming earlier Wall Street Journal reports. CVS said it expects the deal, finalized over the weekend after a sales process that drew interest from companies from Amazon.com Inc. to UnitedHealth Group Inc., to close in the first half of 2023.</p><p>CVS for years has worked to transform itself from a pharmacy chain to an integrated provider of medical services, with the biggest step being its 2018 acquisition of insurer Aetna. Initially, CVS envisioned a model centered on pharmacists, in-store clinics and a giant insurance business.</p><p>An expanded version of this story is available at WSJ.com</p><p>CVS to buy Signify Health for $8 billion</p>",
+  "published": "2022-09-06T08:43:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 332,
+          "end": 354
+        },
+        {
+          "start": 331,
+          "end": 353
+        },
+        {
+          "start": 332,
+          "end": 355
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9704595,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.070459485,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

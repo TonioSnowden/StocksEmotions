@@ -1,0 +1,48 @@
+{
+  "_id": "a6cd1f2e09e674f8fcefeb02994a1d7d5475bd4957b408b077c0bf02627a5aad",
+  "feed": "economist-newspaper",
+  "title": "The corporate metaverse: Virtual world, Inc",
+  "text": "<p>One new virtual world deserves real attention: the \"enterprise metaverse\". Forget rock stars and fancy frocks, this is essentially a digital carbon copy of the physical economy. Building living, interactive blueprints that replicate the physical world might, in time, come to shape it. The vision of what this might mean has become clearer in recent days. Microsoft, the world's largest software firm, earlier this month put it at the centre of its annual customer shindig, as did Nvidia, a big maker of graphics processors, on November 9th.</p><p>Corporate virtual worlds are already more of a reality than Meta's consumer version, where people will get to hang out with their friends at imaginary coastal mansions. Unlike that metaverse, which is populated mostly by human avatars, the corporate version is largely a collection of objects. These are \"digital twins\", virtual 3D replicas of all sorts of physical assets, from single screws to entire factories.</p><p>Crucially, they are connected to their real selves--a change on the shop floor, for instance, will trigger the equivalent change in its digital twin--and collect data about them. This set-up enables productivity-enhancing operations that are hard today, for example optimising how groups of machines work together. Simulating changes virtually can then be replicated in the real world. And, its boosters hope, a path would be laid to automate even more of a firm's inner workings.</p><p>Whether the enterprise metaverse becomes a reality is not simply of interest to aficionados of corporate information technology (IT). Innovations unlocked through insights gleaned from digital mirror-worlds can help firms become more adaptable and efficient--helping them reduce carbon emissions, for example. Promoters of the concept even argue that it will put to rest the old adage, coined by Robert Solow, a Nobel-prizewinning economist, that you can \"see the computer age everywhere but in the productivity statistics\".</p><p>The concept of this \"twinworld\", as the enterprise metaverse might be called (a spiffy moniker will surely be found), is not new. Some of the necessary technologies have been around for years, including devices with sensors to capture data, known as the \"internet of things\" (IoT)--another field still waiting for a moniker upgrade. Software to design detailed virtual replicas originated in computer games, the current benchmark for immersive worlds.</p><p>But other bits have only recently become good enough, including superfast wireless links to connect sensors, cloud computing, and artificial intelligence, which can predict how a system is likely to behave. \"Digital twins aggregate all of these things,\" explains Sam George, who runs the enterprise-metaverse effort at Microsoft.</p><p>As is its wont as a maker of corporate software, Microsoft has developed an entire platform on top of which other firms can develop applications. This includes tools to build digital twins and analyse the data they collect. But this \"stack\", as such collections of code are known, also provides technology which allows people to collaborate, including Mesh, a service that hosts shared virtual spaces, and HoloLens, a mixed-reality headset, with which users can jointly inspect a digital twin.</p><p>Nvidia's roots in computer graphics mean it focuses more on collaboration and creating demand for its chips. Its Omniverse is also a platform for shared virtual spaces, but one that allows groups of users to bring along elements they have built elsewhere and combine these into a digital twin they can then work on as a team. The common technical format needed for such collaboration will come to underpin digital twins in the same way HTML, a standard formatting language, already underpins web pages, predicts Richard Kerris, who is in charge of Omniverse.</p><p>Both platforms have already attracted a slew of startups and other firms that base some of their business on this technology. Cosmo Tech, for instance, takes Microsoft's tools to do complex simulations of digital twins to predict how they might evolve. And Bentley Systems, which sells engineering software, uses Omniverse to optimise energy infrastructure. Both Microsoft and Nvidia have also teamed up with big firms to show off their wares. AB InBev, a beer giant, collaborates with Microsoft to create digital twins of some of its more than 200 breweries to better control the fermentation process. In the case of Nvidia, the top partner is BMW, which uses Omniverse to make it easier to reconfigure its 30 factories for new cars.</p><p>Despite all this activity, it is not a given that the enterprise metaverse will take off as fast as its champions expect, if ever. Similar efforts have failed or disappointed, including many IoT projects. \"Smart cities\", essentially attempts to build urban metaverses, turned out to use technology that was just not up to snuff and relied too much on proprietary standards.</p><p>If the enterprise metaverse does indeed take shape, though, it will be an intriguing process. Will it be based on proprietary technology or on open standards (there is already a Digital Twin Consortium)? And, asks George Gilbert, a veteran observer of the IT industry, how will software-makers such as Microsoft be paid for their wares? Since their code will be more embedded than ever in firms' products and services, some may ask for a slice of revenue instead of licensing or subscription fees.</p><p>And then there is the question of how the overall metaverse economy will function. Since most business activity will be digitally replicated, economists may have unprecedented insight into what is going on. Digital twins could exchange services between themselves and perhaps replace firms as the main unit of analysis. If digital twins live on a blockchain, the sort of platform that underpins most cryptocurrencies, they could even become independent and own themselves. Expect at least as many possibilities as metaverses to unfold.</p>",
+  "published": "2021-11-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3955,
+          "end": 3964
+        },
+        {
+          "start": 356,
+          "end": 365
+        },
+        {
+          "start": 4160,
+          "end": 4169
+        },
+        {
+          "start": 4283,
+          "end": 4292
+        },
+        {
+          "start": 5208,
+          "end": 5217
+        },
+        {
+          "start": 2793,
+          "end": 2802
+        },
+        {
+          "start": 2733,
+          "end": 2742
+        },
+        {
+          "start": 3955,
+          "end": 3966
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

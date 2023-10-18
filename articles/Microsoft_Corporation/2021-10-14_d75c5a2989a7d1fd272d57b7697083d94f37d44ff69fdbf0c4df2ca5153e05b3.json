@@ -1,0 +1,44 @@
+{
+  "_id": "d75c5a2989a7d1fd272d57b7697083d94f37d44ff69fdbf0c4df2ca5153e05b3",
+  "feed": "market-watch",
+  "title": "Why Amazon and Microsoft won't have a stranglehold on cloud computing forever",
+  "text": "<p>Cloud computing, once the exclusive turf of the duopoly of Amazon.com Inc. AMZN and Microsoft Corp. MSFT, is becoming a more egalitarian field with stable competition thanks to companies' move toward leveraging multiple cloud-computing systems at once — opening potential riches for Alphabet Inc. parent Google GOOGLGOOG, Oracle Corp. ORCL, and International Business Machines Corp. IBM.</p><p>The move to what is known as a multi-cloud approach handling the cloud-computing needs of enterprises and government agencies has turned the multibillion-dollar industry on its proverbial ear, giving every major cloud provider a shot at landing contracts with enterprise customers and government agencies. And it is happening without threats of lawsuits or antitrust legislation.</p><p>“Financial services. Health care. Retail. Government agencies. Nearly every industry is embracing multi-cloud,” Tom Keane, corporate vice president of Azure Global at Microsoft, told MarketWatch.</p><p>“It is a logical continuation of moving more stuff to the cloud,” Clay Magouyrk, executive vice president of Oracle Cloud, told MarketWatch. “The reality is that 75% to 85% of server-side computing is stored in on-premises computing” that will eventually move to cloud computing.</p><p>Gartner's 2020 cloud end-user buying behavior study found 76% of respondents reported using more than one cloud provider, a figure that has increased and continues to rise.</p><p>“Customers have choice now. Four to five years ago, they had one or two options,” Will Grannis, managing director of Google Cloud's office of the CTO. A major consideration, he said, is agility in technology.</p><p>From 2016: Tech is king of Wall Street, thanks to the cloud</p><p>“If you stick with one vendor, you are beholden to their technology,” Grannis told MarketWatch. “As a former CTO, what you want is what's best for customers and they want cloud vendors to provide apps and services that are flexible. And what happens when the market shifts and user demands change?”</p><p>Gartner analyst Sid Nag acknowledged multi-cloud is impacting Amazon and Microsoft to some degree, but is unlikely to radically shift market share numbers or revenue in a total global market expected to reach $482 billion in 2022, up from $396 billion this year.</p><p>Amazon's AWS will maintain its status as primary vendor among most businesses because of onerous costs to remove and replace already existing systems. “The others will get more crumbs” as enterprises expand operations to include specialized technology from other vendors, Nag told MarketWatch</p><p>Still, the playing field has become much more crowded as evidenced by competition over the Joint Warfighting Cloud Capability (JWCC), a multibillion-dollar Defense Department contract expected to be parceled toAmazon, Microsoft, Google, Oracle, and IBM. Its predecessor, the now-canceled&#xa0;Joint Enterprise Defense Infrastructure (JEDI), went to just one vendor (Microsoft), JWCC could be parceled to all five major players.</p><p>Read more: The return of JEDI: Why the sequel to military's cloud contract could cost much more than the $10 billion original</p><p>“We're just coming to the end of Chapter 1 of the cloud. As JEDI showed, there is a shift to multi-cloud to address risk and cybersecurity,” Howard Boville, head of IBM Cloud Platform, told MarketWatch.</p><p>The egalitarian nature of multi-cloud deals is a byproduct of blur-fast innovation in the field and IT self preservation. Executives at all five major cloud providers used a variation of the word “risk” to explain a key motivation for customers moving to multiple vendors: They want to protect and safeguard data with the best technology available, and at any time.</p><p>According to Keane, cloud customers are increasingly spending on existing infrastructure to shore up cybersecurity, as well as enhancing collaboration among employees in flexible data systems. The specter of COVID — and its emphasis on working from home — has only accelerated cloud adoption.</p><p>“It is all about optimization and design of business processes and models such as procure to pay, record to report, issue to resolution, opportunity to order. This forces you down a path to work with multiple vendors,” Xerox Chief Technology Officer Naresh Shanker told MarketWatch.</p>",
+  "published": "2021-10-14T10:45:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 15,
+          "end": 24
+        },
+        {
+          "start": 2759,
+          "end": 2768
+        },
+        {
+          "start": 2058,
+          "end": 2067
+        },
+        {
+          "start": 84,
+          "end": 93
+        },
+        {
+          "start": 84,
+          "end": 99
+        },
+        {
+          "start": 935,
+          "end": 944
+        },
+        {
+          "start": 2902,
+          "end": 2911
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

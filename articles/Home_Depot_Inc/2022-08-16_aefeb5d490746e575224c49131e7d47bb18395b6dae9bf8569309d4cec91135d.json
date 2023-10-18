@@ -1,0 +1,46 @@
+{
+  "_id": "aefeb5d490746e575224c49131e7d47bb18395b6dae9bf8569309d4cec91135d",
+  "feed": "wall-street-journal",
+  "title": "Home Depot Posts Higher Sales as Transactions Continue to Drop; Customers spent 9.1% more on average, while tally of total transactions fell for fifth quarter in a row",
+  "text": "<p>Meanwhile, average transaction value has increased each quarter, often by more than 10% year-over-year as the company continues to raise prices across its stores.</p><p>SHARE YOUR THOUGHTS</p><p>What is most noteworthy to you in the Home Depot earnings report? Join the conversation below.</p><p>Second-quarter sales came in at $43.79 billion, ahead of Wall Street expectations of $43.36 billion, according to FactSet. Same-store sales, which adjusts for store openings and closings, were up 5.8%, including 5.4% in the U.S.</p><p>For the three months ended July 31, Home Depot posted earnings of $5.17 billion, or $5.05 a share, compared with $4.81 billion, or $4.53 a share, in the same quarter last year. Wall Street analysts had expected earnings of $4.95 a share.</p><p>Home Depot shares fell 2.6% to $306.51 in premarket trading. They are down more than 24% this year.</p><p>Write to Dean Seal at dean.seal@wsj.com</p><p>Home Depot Posts Higher Sales as Transactions Continue to Drop</p>",
+  "published": "2022-08-16T11:02:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 220,
+          "end": 230
+        },
+        {
+          "start": 221,
+          "end": 231
+        },
+        {
+          "start": 539,
+          "end": 549
+        },
+        {
+          "start": 739,
+          "end": 749
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

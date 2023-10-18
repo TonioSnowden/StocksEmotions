@@ -1,0 +1,24 @@
+{
+  "_id": "6e4d261c967d8847d5db3cc36a7015cfbea2c8a29e7c4bc31fca44a41c7bfc8e",
+  "feed": "economist-newspaper",
+  "title": "Chipmaking: A golden-ish age",
+  "text": "<p>In this context the initial public offering (IPO) of GlobalFoundries, a contract manufacturer which makes chips for other firms, seems a safe bet. The firm, which unveiled its prospectus on October 4th and is expected to list soon, is the world's fourth-biggest chip foundry by revenues. The typical characteristics of an IPO--a lowish offering price and a small proportion of shares available to public investors, both of which have yet to be decided--should ensure a healthy \"pop\" in the share price in the early days of trading. But GloFo, as semiconductor aficionados endearingly call the firm, is also an example of how tough the chip business has become, notwithstanding the favourable climate.</p><p>GloFo is a product of consolidation, caused by the industry's unforgiving economics that demand ever-tinier silicon furrows and hence ever-costlier fabrication plants (or \"fabs\"). The most advanced of these now cost more than $20bn apiece. After a spin-off in 2009 from AMD, which designs processors for personal computers and servers in data centres, GloFo later acquired Chartered Semiconductor, another foundry, and the chip-manufacturing business of IBM, a purveyor of assorted information-technology wares.</p><p>With billions from Mubadala Investment Company, a sovereign-wealth fund from the United Arab Emirates, which currently owns all of GloFo, the firm tried to keep up with rivals in the race to forge cutting-edge electronic circuitry. In 2018 it gave up and started catering to the lower end of the market. These are semiconductors which go into products such as cars and machine tools, and therefore do not need the highest-performing processors, rather than data centres or smartphones. This niche is still a $54bn market, according to Gartner, another market-researcher.</p><p>Today GloFo operates a handful of fabs across the world, employs around 15,000 people and has a market share of 7% in the chip-manufacturing business. Most of its customers, which include AMD, Broadcom, another American chip designer, and NXP, a Dutch one, are \"single sourced\". That means their chips cannot be made by other foundries, such as Samsung of South Korea and in particular Taiwan Semiconductor Manufacturing Company (TSMC), the world's mightiest chip manufacturer, which controls more than half the market.</p><p>The difference in size goes a long way to explaining why TSMC is hugely profitable whereas GloFo struggles to generate cash. In the first six months of this year the Taiwanese giant boasted sales of $26bn and profits of $9.8bn. Although GloFo's revenues rose to $3bn in the same period, up by nearly 13% on a year ago, and its accounting losses have been narrowing, it still lost $300m between January and June.</p><p>Investing in GloFo will therefore be a wager that the company can ride the current tailwinds in its industry and start making serious money. But it may also be a bet that another firm snaps up GloFo for itself. In July it emerged that Intel, the world's largest chipmaker by revenues, was in takeover talks with the firm. These did not go anywhere because the parties could not agree on a price. Once GloFo is listed it should be clearer how much it is worth. Negotiations could restart. Then again, with GloFo's numbers now public, Intel may have a hard time convincing its shareholders that it needs to pay the $25bn that GloFo is expected to fetch.</p>",
+  "published": "2021-10-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3249,
+          "end": 3254
+        },
+        {
+          "start": 2951,
+          "end": 2956
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "ed7fe3f7b26358316c6d91f38545014fa23c39de2b14c7168e135da950eedf0a",
+  "feed": "market-watch",
+  "title": "Two crypto miners charged with hacking a Missouri tech firm's cloud-computing account — and racking up $760K in server charges",
+  "text": "<p>Prosecutors say the two men, who live and operate in Iran, managed to access the company's Microsoft Azure cloud-computing account and install several new servers and programs to mine a cryptocurrency called Monero — a process known as cryptojacking.</p><p>Mining crypto requires large amounts of computing power to drive the complicated algorithms used to generate the currency. As the programs ran, it resulted in large costs being added to the account of the St. Charles, Mo. company, prosecutors said. The company was only identified in court papers by its initials, T.T.</p><p>The company was unaware of the intrusion until it received a bill from Microsoft for $760,00 for the use of the additional server capacity, prosecutors said.</p><p>The defendants, Danial Jeloudar and Saeeid Safaei, were indicted this week on charges of conspiracy to commit wire fraud. They are believed to be living abroad and haven't been taken into custody. They couldn't immediately be reached for comment, and it didn't appear that they had retained lawyers.</p><p>Jeloudar had previously been indicted in the United States in 2016 for allegedly trafficking in stolen credit-card numbers and purchasing goods using hijacked credit-card accounts. He was never detained in that case.</p><p>Cryptocurrency has provided new avenues for hackers to make money, and cyrptojacking has been on the rise in recent years. In many cases, hackers will infiltrate many people's devices and harness their computing power jointly to drive the crypto programs. Users often get hit when they download something corrupted with malware.</p><p>A hack such as this often causes minimal disruption for users, so it's easy for hackers to take over a machine for months. If your smart TV isn't running well, for instance, a cryptojacker could be to blame. Some people don't know they're targeted until they see they have unusually high electricity bills.</p><p>Experts say tip-offs for home computer users that their machines may have been hacked can be if the batteries on their devices frequently overheat or if their devices shut down due to a lack of available processing power.&#xa0;</p>",
+  "published": "2021-12-06T08:57:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 91,
+          "end": 106
+        },
+        {
+          "start": 641,
+          "end": 650
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

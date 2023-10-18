@@ -1,0 +1,84 @@
+{
+  "_id": "52e1c2106e98d01de66be2896ffe70f5565a786308039800a81086042b232d83",
+  "feed": "ftcomall",
+  "title": "Inside Intel: Wall St bets on the decline of one-time chip champion",
+  "text": "<p>Wall Street has been sending a powerful signal of late about an accelerating shift of leadership in the US chip industry. If it's right, Intel's four decades at the top have come to a resounding end.</p> <p>Qualcomm, riding the 5G wave, has seen its stock market value jump by half since early October, eclipsing Intel last week. AMD, a perennial also-ran against Intel in PC and server processors, has seen a similar bounce and is within spitting distance of overtaking its longtime nemesis.</p> <p>This comes little more than a year after Nvidia, whose chips provide the accelerated computing for tasks such as machine learning, video gaming and supercomputing, itself leapt past Intel. Nvidia's stock has experienced a rally of nearly 60 per cent since the start of October, leaving its market value a startling four times that of Intel.</p> <p>Intel's performance in this period? Its shares have lost further ground, after an attempt by new chief <a href=\"https://www.ft.com/content/51f63b07-aeb8-4961-9ce9-c1f7a4e326f0\">Pat Gelsinger</a> to reassure battered investors fell flat. At the early stage of a difficult turnround, Wall Street did not want to hear the hopeful projections — unsupported by a detailed plan — that Intel would bounce back to show the kind of consistent double-digit growth it has not seen in a decade and a half.</p> <p>Intel's troubles have been well-documented: it missed the smartphone market, lost its long-running lead in chip manufacturing technology to TSMC and has seen its dominance in PC and server processors start to erode.</p> <p>But the most recent shift in market sentiment points to a much deeper loss of confidence in the company's ability to recover its footing. In short, Wall Street no longer believes that the things that accounted for Intel's long hegemony — an unrivalled breadth of technology, a long history of operational excellence (until the recent slip) and a financial engine that dwarfs others — are enough to right the ship.</p> <p>The long capital cycles and new technology road maps of the chip industry make it hard to regain an edge once you've fallen behind. Gelsinger has assembled a management team with plenty of experience, but in the present circumstances Wall Street is not willing to give them the benefit of the doubt.</p> <p>In some ways, it has been the rise of AMD that has been most startling. After fading to $2bn in the middle of the last decade, its market value has rebounded to $190bn after a radical technology overhaul made it newly competitive in the market for x86 processors created by Intel. Mercury Research puts its market share at nearly 25 per cent.</p> <p>In the data centre market, Intel should soon have a new product that could start to turn the tide. Known as Sapphire Rapids, this is its first processor designed around “chiplets”, or tiles. This involves assembling a chip from a series of components rather than fashioning it from a single piece of silicon and is the design that has put AMD back in contention since 2017.</p> <p>The benchmarks showing its raw performance have yet to be published, but the chip — promised for early next year — could give Intel an edge.</p> <p>It's unlikely to last long. AMD has promised the next generation of chips based on its Zen microarchitecture by the end of the year. Produced in TSMC's more advanced fabrication plants, they will pack more features into much less space, resulting in twice the density of their predecessors. That translates into more computing power for less energy. Unless Intel can make up the ground it has lost to TSMC in manufacturing process technology, that will be hard to rival.</p> <p>Meanwhile, Nvidia has also been racing to outflank Intel in the data centre market. Whether or not its <a href=\"https://www.ft.com/content/0e61707c-63b0-4075-9d47-65139b882727\">controversial acquisition</a> of British chip design company Arm is cleared by regulators, Nvidia is bringing Arm-based processors into its data centre products. And then there are AMD's inroads into the PC market and the impressive performance of Apple's new Macs since it started replacing Intel's processors with its own chip designs.</p> <p>It's no wonder investors are sitting on the sidelines. All they have to look forward to is weaker gross profit margins and a period of heavy investment for at least the next two or three years, with no indication of when growth will recover.</p> <p>In a stock market inflated by a wave of cheap capital, a former (and possibly future) industry champion priced at only 13 times next year's depleted earnings and a dividend yield of nearly 3 per cent might look a steal. But until Gelsinger can show Intel has got its mojo back, there may not be many people lining up to buy.</p> <p><a href=\"mailto:richard.waters@ft.com\"><em>richard.waters@ft.com</em></a><br></p><p>Source: Richard Waters 2021 'Inside Intel: Wall St bets on the decline of one-time chip champion' FT.com 25 November. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-11-25T17:38:44.936Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 2543,
+          "end": 2548
+        },
+        {
+          "start": 306,
+          "end": 311
+        },
+        {
+          "start": 3388,
+          "end": 3393
+        },
+        {
+          "start": 668,
+          "end": 673
+        },
+        {
+          "start": 827,
+          "end": 832
+        },
+        {
+          "start": 357,
+          "end": 362
+        },
+        {
+          "start": 7,
+          "end": 12
+        },
+        {
+          "start": 1128,
+          "end": 1133
+        },
+        {
+          "start": 137,
+          "end": 142
+        },
+        {
+          "start": 3553,
+          "end": 3558
+        },
+        {
+          "start": 3893,
+          "end": 3898
+        },
+        {
+          "start": 820,
+          "end": 825
+        },
+        {
+          "start": 4430,
+          "end": 4435
+        },
+        {
+          "start": 3016,
+          "end": 3021
+        },
+        {
+          "start": 1673,
+          "end": 1678
+        },
+        {
+          "start": 1243,
+          "end": 1248
+        },
+        {
+          "start": 2447,
+          "end": 2452
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

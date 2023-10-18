@@ -1,0 +1,46 @@
+{
+  "_id": "1b5cf1f9d800adffbaa82bd351b5c5fde123bc2450fd5da5f90dba29baa973c4",
+  "feed": "market-watch",
+  "title": "A higher dividend yield isn't always better; Long-term investors should focus on companies whose dividends are most likely to grow",
+  "text": "<p>They should resist that instinct, however. On average over the long term, the dividend-paying stocks that performed the best were those whose yields were significantly lower than those with the absolute highest yields.</p><p>Consider five portfolios that are constructed based on stocks' dividend yields. The first contains the 20% of exchange-listed stocks with the highest yields, while the fifth contains the 20% with the lowest yields. The other three portfolios contain the quintiles of stocks in between these extremes. These portfolios are rebalanced once a year to reflect changes in relative dividend yields.</p><p>The accompanying chart reports these portfolios' annualized returns since 1927, courtesy of data from Dartmouth professor Ken French. Notice that the best return was produced by the second-highest yielding quintile of stocks—not the highest-yielding quintile.</p><p>To understand this counterintuitive result, you have to focus on dividends' growth rate over the long term. A stock with a sky-high yield might look good now, but if its dividend doesn't grow in coming years its contribution to your long-term return will be modest—or worse. Far better to pick a stock whose dividend is modest by current standards but which will grow faster over time.</p><p>Citigroup versus Procter &amp; Gamble</p><p>There are many examples I could use to illustrate this point. Consider first Citigroup C, which was one of the highest-yielding stocks in the S&amp;P 500 SPX before the global financial crisis. During calendar 2007, the company's quarterly dividend was 54 cents a share, which translated to a 7.3% yield using the stock's year-end-2007 price.</p><p>During the financial crisis, however, Citigroup cut its quarterly dividend to a penny and then, in 2009, eliminated it altogether. The company restored paying a penny dividend in 2011, after undergoing a 1-for-10 reverse split. Since then it has gradually increased its dividend, which it now stands at 51 cents a share. On a pre-split basis, however, Citigroup's current dividend is less than 10% what it was in 2007; given where the company's stock is trading, however, this translates to a 3.9% yield.</p><p>Contrast that sordid tale with that of Procter &amp; Gamble PG, which has increased its dividend every year for over 50 years. Based on its quarterly dividend of 35 cents a share at the end of 2007, the stock's yield was 1.9%–far lower than Citigroup's at that time. PG's quarterly dividend has steadily increased since 2007, and now stands at 91.33 cents a share. Its current yield is 2.5%.</p><p>There are three aspects of the contrast between Citigroup and Procter &amp; Gamble that are relevant to this discussion:</p><p>* At the beginning and end of my comparison period, Citigroup's yield was higher than that of Procter &amp; Gamble's.</p><p>* Nevertheless, Procter &amp; Gamble's dividend grew at a 6.8% annualized clip from the end of 2007 to today. Citigroup's, in contrast, fell at a 14.9% annualized rate.</p><p>* On a total return basis, Procter &amp; Gamble's stock hugely outperformed Citigroup's. Since the end of 2007, according to FactSet, PG has produced a 7.9% annualized return, versus minus 9.9% for Citigroup.</p><p>The bottom line? Dividend yield alone is an unreliable guide to constructing a dividend stock portfolio with the best expected return over the long term. You must also focus on dividend-paying stocks with the greatest likelihood of not only maintaining its dividend but increasing it over time.</p><p>With apologies to Mae West, too much of a good thing is not wonderful!</p><p>Note: Due to an editing error, an earlier version of this column misstated Procter &amp; Gamble's dividend. It has been corrected.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com</p><p>A higher dividend yield isn't always better</p>",
+  "published": "2022-08-08T15:23:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "nexusId": "10044575",
+      "name": "The Procter & Gamble Company",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 2564,
+          "end": 2580
+        },
+        {
+          "start": 1264,
+          "end": 1280
+        },
+        {
+          "start": 1275,
+          "end": 1291
+        },
+        {
+          "start": 3535,
+          "end": 3551
+        },
+        {
+          "start": 2713,
+          "end": 2729
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0000067,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 6.4373016e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

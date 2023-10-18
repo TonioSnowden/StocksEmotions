@@ -1,0 +1,30 @@
+{
+  "_id": "183af3571789adf16cbd14a182a0426dd41553a35b7696a01a051cc35b03f88c",
+  "feed": "wall-street-journal",
+  "title": "Corning CEO Shifted Focus From Cookware to Photonics; Roger Ackerman, who has died at age 83, doubled sales in late 1990s but some major acquisitions didn't pan out",
+  "text": "<p>Mr. Ackerman sold Corning's housewares division, featuring cookware and such brands as Pyrex, to focus on making optical fibers, liquid-crystal-display glass and other high-tech marvels. Optical fibers were in hot demand as telecom companies rushed to lace the globe with voice and data networks.</p><p>Not content with just making optical fibers, the pipes for voice and data, Corning wanted to produce photonic components to guide light signals through that fiber. It spent billions on acquisitions to expand its photonics business. Sales in 2000 were more than double the 1996 level.</p><p>By the time Mr. Ackerman retired in 2001, spending on telecom equipment was plunging, and the photonics business was in the red. Corning wrote down the value of the acquired photonics assets and later sold that business. It recorded a loss of about $5.5 billion for 2001.</p><p>Mr. Ackerman also headed a foundation supporting the Malcolm Baldrige quality awards for business. He \"collected every new golf gadget or club brought to market,\" according to an obituary published by his family.</p><p>Mr. Ackerman died July 30 after a long illness. He was 83.</p><p>Roger G. Ackerman was born Nov. 25, 1938, in Wyckoff, N.J. His father was a school principal and superintendent.</p><p>Other Obituaries</p><p>* Tom Alberg, Early Amazon Investor, Cultivated Tech Startups (Aug. 12)</p><p>* CSX Railroad Chief Hays T. Watkins Promoted One-Stop Shipping (Aug. 5)</p><p>* Ex-Microsoft Executive Richard Tait Created Cranium Board Game (Aug. 3)</p><p>He studied ceramic engineering at Rutgers University, where he earned bachelor's and master's degrees, before joining a Corning research lab in 1962. He later headed Corning's specialty-materials businesses, including industrial glassware and ceramics. In 1990, he was named president and chief operating officer of the company.</p><p>When he was promoted to chairman and CEO, the Journal reported that he preferred \"a 42-foot powerboat to quiet sailing,\" the hobby of his predecessor, James Houghton, a member of Corning's founding family. Mr. Ackerman later said the Journal had made him sound like \"some kind of Neanderthal.\"</p><p>He is survived by his wife of more than 65 years, Maureen Egan Ackerman, four children, eight grandchildren and two great-grandchildren.</p><p>Write to James R. Hagerty at bob.hagerty@wsj.com</p><p>Corning CEO Shifted Focus From Cookware to Photonics</p>",
+  "published": "2022-08-18T14:01:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1392,
+          "end": 1401
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000018,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.7881393e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

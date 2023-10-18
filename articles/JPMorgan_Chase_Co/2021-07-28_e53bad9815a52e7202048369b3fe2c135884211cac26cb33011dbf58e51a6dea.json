@@ -1,0 +1,24 @@
+{
+  "_id": "e53bad9815a52e7202048369b3fe2c135884211cac26cb33011dbf58e51a6dea",
+  "feed": "wall-street-journal",
+  "title": "Report on Archegos Losses Due Soon",
+  "text": "<p>It is expected to detail the bank's failures, similar to lengthy reviews around other major bank losses, such as JPMorgan Chase &amp; Co.'s $6 billion trading loss, known as the \"London Whale,\" and Wells Fargo &amp; Co.'s sales-practices scandal.</p><p>The collapse of Archegos, piled on top of the insolvency of another Credit Suisse client, Greensill Capital, plunged the Swiss lender into crisis earlier this year. Credit Suisse took the biggest hit on Wall Street from Archegos -- more than $5.5 billion.</p><p>Credit Suisse ousted its chief risk officer, investment- bank head and others and turned to investors for $2 billion in capital to shore up the bank's balance sheet. The Swiss regulator, Finma, opened civil enforcement proceedings against Credit Suisse. Regulators in the U.S. and U.K. are probing the losses from Archegos at multiple banks.</p>",
+  "published": "2021-07-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 113,
+          "end": 133
+        },
+        {
+          "start": 113,
+          "end": 127
+        }
+      ]
+    }
+  ]
+}

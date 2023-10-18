@@ -1,0 +1,34 @@
+{
+  "_id": "7abd743c2ba13bd51a3a87adaa4474b3101353fb699045012e811c07e572c1ca",
+  "feed": "ftcomall",
+  "title": "The tech slowdown starts to bite",
+  "text": "<p>The dog days of August were a tough time for Wall Street's tech optimists. Signs of a tech slowdown seemed to spread inexorably into many more corners of the tech world. Now, with the all-important fourth quarter looming — a period when IT spending is typically at its strongest — a nail-biting end to the year is in store.</p> <p>As the summer began, there was still reason to hope that the effects of high inflation and economic uncertainty would be limited. PC sales had slumped as consumer confidence fell back. A slowdown has eaten into some corners of the digital advertising market, made worse by privacy changes at Apple that have hit companies that depend on collecting personal data from iPhone users. They include Snap, which responded last week by <a href=\"https://www.ft.com/content/59134aaa-6ae2-4940-86ab-bf6e2fdc41bd\">cutting</a> 20 per cent of its staff.</p> <p>As the month of August wore on, however, cracks started to appear far more widely in the demand picture. This has not been lost on the investors. A strong tech rebound on Wall Street ran out of steam halfway through the month, with companies in the IT world taking some of the biggest hits.</p> <p>Take the software sector. After the battering they took since last November, software stocks staged a brief recovery in early August, rising 25 per cent from their lows. But they have since given up most of those gains and the Bessemer emerging cloud index of software companies is off 56 per cent from last year's high.</p> <p>With a spate of IT companies ending their fiscal quarters in July and reporting results over the past two weeks, signs of weakening demand have spread, though the picture has been far from uniform. </p> <p>On the positive side, networking company Cisco Systems and data storage company NetApp both reported no signs that customers were pulling back. Some software companies, riding strong secular demand as businesses digitise more of their operations and manage the flood of data, continued to pull in big new contracts. Data warehousing company Snowflake maintained its red-hot growth, while human-resources software concern Workday shrugged off worries that had been gathering since the quarter before.</p> <p>But other companies have noted clear evidence of demand weakening, and in some cases have cut their financial forecasts for the rest of the year. In the chip sector, a sharp inventory correction that bit surprisingly quickly ricocheted through some of the leading chip companies, including Nvidia and Micron. While the inventory reset was the main factor, a number of companies said that the erosion in end-demand for products that rely on chips had extended well beyond the consumer PC and smartphone markets</p> <p>Over the past two weeks, a number of software and hardware companies have provided further evidence that big IT buyers have been getting more cautious. Software company Salesforce issued a surprising cut to its revenue guidance after noticing that customers had started to become “more measured” about their purchases in July. Meanwhile, hardware maker Dell said customers were taking longer to sign off on new purchases of servers and that the size of its deals had been falling, both common early signs of a retrenchment in IT spending.</p> <p>As usual at such times, lengthening sales cycles have been blamed for much of the slowdown. Facing greater business uncertainty, customers take longer to decide and require reviews by senior managers before signing off on new tech purchases.</p> <p>An optimistic view is that this causes spending to be deferred rather than put off entirely. But while tech companies like to believe all purchase of their products are essential ones, some proportion of deals subjected to deeper scrutiny is likely to end up being scrapped as customers become more risk-averse.</p> <p>For now, there are still reasons to hope the effects will be limited, at least for the rest of this year. Surging capital spending by the biggest cloud companies is still acting as a powerful engine in the IT world.</p> <p>Also, after the supply constraints of the past two years, there is still plenty of pent-up demand that will take time to meet. Hewlett Packard Enterprise said last week that its backlog of orders had nearly doubled over the past year, and that orders for servers are five times the normal level. Tight supplies have also kept prices high. While HPE reported a sharp reduction in unit sales, increases in average selling prices more than made up for the shortfall.</p> <p>But with demand across a wide range of the tech industry's end markets starting to decelerate, sales cushions like these may provide only brief relief.</p> <p><a href=\"mailto:richard.waters@ft.com\"><em>richard.waters@ft.com</em></a></p><p>Source: Richard Waters 2022 'The tech slowdown starts to bite' FT.com 8 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-08T12:10:02.596Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2776,
+          "end": 2786
+        },
+        {
+          "start": 2756,
+          "end": 2766
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.4701837,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.52981627,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

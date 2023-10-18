@@ -1,0 +1,24 @@
+{
+  "_id": "37efe75cc183c3a0cf2abe233c6786545d42f5fde0b1c677b449c2ee1e6da6d0",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Consumer Goods Companies  Aim to Develop Smart Gadgets  ----  By John McCormick",
+  "text": "<p>   Consumer-packaged goods companies, in a push to develop more connected devices, are deploying their information technology talent, experts in machine learning and app-building, to work alongside research and development groups to design and build new products. </p><p>   \"In this world of the Internet of Things. . .where we've got software embedded, it is somewhat of a no-brainer that we need to combine those skills all together,\" said Mike Crowe, chief information officer at Colgate-Palmolive Co. </p><p>   Recent products include a smart toothbrush introduced last year that is designed to make recommendations on how a person could brush better. Colgate R&amp;D staffers worked on the brush head, sensors and other aspects of the physical product, while members of the IT team developed the underlying application, including the machine learning that analyzes the data to make recommendations. \"It is really about maximizing the use of the combined skills,\" said Mr. Crowe. </p><p>   \"The IT function as a separate entity, operating as a service or a central center of competence alone, doesn't work,\" said Procter &amp; Gamble Co. CIO Vittorio Cretella. </p><p>   Like Colgate, the consumer-packaged goods company also has its IT and R&amp;D teams working together, creating its own smart toothbrush as well as the Olay Skin Advisor personalized skin-care analyzer, and the Gillette Style Advisor facial-hair style assistant. </p><p></p>",
+  "published": "2021-03-16T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "name": "The Procter & Gamble Company",
+      "offsets": [
+        {
+          "start": 1080,
+          "end": 1096
+        },
+        {
+          "start": 1080,
+          "end": 1100
+        }
+      ],
+      "nexusId": "10044575"
+    }
+  ]
+}

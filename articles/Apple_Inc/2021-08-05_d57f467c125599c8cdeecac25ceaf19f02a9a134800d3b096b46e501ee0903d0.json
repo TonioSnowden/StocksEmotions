@@ -1,0 +1,36 @@
+{
+  "_id": "d57f467c125599c8cdeecac25ceaf19f02a9a134800d3b096b46e501ee0903d0",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Location-Data  Broker X-Mode Sets  Deal to Be Acquired  ----  By Byron Tau in Washington and Patience Haggin in New York",
+  "text": "<p>   The location-data broker X-Mode Social Inc., which was kicked off the Apple Inc. and Google platforms last year over its national security work with the U.S. government, is being acquired, the company told The Wall Street Journal. </p><p>   X-Mode will become part of the Atlanta-based IP intelligence company Digital Envoy Inc., both companies are set to announce this week. As part of the merger, X-Mode will be rebranded as Outlogic and its chief executive, Joshua Anton, will join Digital Envoy as chief strategy officer. The purchase price and other terms of the deal aren't being disclosed. X-Mode was based in the suburbs of Washington but abandoned its office space during the pandemic and went fully remote. </p><p>   Acquiring X-Mode \"allows us to further enhance our offerings related to cybersecurity, AI, fraud and rights management,\" said Digital Envoy CEO Jerrod Stoller. </p><p>   Digital Envoy specializes in collecting and providing to its customers data on internet users based on the IP address assigned to them by their internet-service provider or cellphone carrier. Such data, which can include approximate geolocation, is useful in fraud detection, cybersecurity, advertising and other commercial applications. </p><p>   X-Mode had its genesis on the University of Virginia campus in 2013, when as an undergraduate Mr. Anton created an app to prevent users from drunk dialing. Mr. Anton realized the location data being gathered by that app was a valuable product and pivoted toward becoming a location-data company -- joining with other app publishers to collect the precise location of smartphones and provide them to commercial customers in advertising, real estate and other industries. </p><p>   X-Mode is one of a number of companies that provide location information for national security purposes, mostly to U.S. government contractors working on intelligence and defense programs. Digital Envoy does some work with the federal government, mostly in cybersecurity, the company said. Both companies are focused on the commercial market but expect government work to remain a small part of their overall portfolios, Mr. Stoller said. </p><p>   Last year, X-Mode found itself under fire after a Vice News article highlighted its defense work alongside its partnerships with apps that had predominantly Muslim user bases, including a dating app called Muslim Mingle and a prayer app called Muslim Pro. While X-Mode also teamed up with many other apps to collect user location, the presence of those two apps coupled with its defense work caused a controversy that resulted in X-Mode's collection code being banned from apps in the Google and Apple stores. </p><p>   X-Mode survived as a company following the ban by changing the method of location-data collection. It gives app makers the tools to collect geolocation data and pass it to X-Mode and other third parties rather than collecting it by embedding X-Mode software code into the app, according to a person familiar with the matter. Apple and Google have little ability to monitor this kind of collection from apps. </p><p>   After it acquires X-Mode, Digital Envoy will no longer provide location information on U.S. devices to any defense contractors, it said. </p><p></p>",
+  "published": "2021-08-05T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2610,
+          "end": 2615
+        },
+        {
+          "start": 2949,
+          "end": 2954
+        },
+        {
+          "start": 70,
+          "end": 80
+        },
+        {
+          "start": 70,
+          "end": 75
+        },
+        {
+          "start": 70,
+          "end": 79
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

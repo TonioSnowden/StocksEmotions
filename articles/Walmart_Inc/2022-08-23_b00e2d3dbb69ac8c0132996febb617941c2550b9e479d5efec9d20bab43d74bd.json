@@ -1,0 +1,34 @@
+{
+  "_id": "b00e2d3dbb69ac8c0132996febb617941c2550b9e479d5efec9d20bab43d74bd",
+  "feed": "market-watch",
+  "title": "Nordstrom stock tanks after retailer lowers outlook for the year; Nordstrom Rack foot traffic fell in June",
+  "text": "<p>Adjusted for one-time items, including costs with winding down its Trunk Club personal-shopper service, the retailer earned 81 cents a share.</p><p>Sales rose 12% to $3.99 billion, from $3.57 billion a year ago.</p><p>Analysts polled by FactSet expected the retailer to report earnings of 80 cents a share on sales of $3.96 billion.</p><p>\"While our quarterly results were consistent with our previous outlook, customer traffic and demand decelerated significantly beginning in late June, predominantly at Nordstrom Rack,\" Chief Executive Erik Nordstrom said in a statement.</p><p>\"We are adjusting our plans and taking action to navigate this dynamic in the short term, including aligning inventory and expenses to recent trends.\"</p><p>Last week, Walmart Inc. WMT beat its recently lowered expectations for the second quarter, sending the stock higher, but the results came three weeks after the retail behemoth issued its second profit warning in two months, blaming those in part on offering markdowns to clear inventory.</p><p>Target Corp. TGT also reported a profit miss last week, blaming it in part on the need to offer more markdowns.</p><p>Nordstrom guided for 2022 revenue growth of between 5% and 7%, compared with a previous expectation of growth between 6% and 8%. It also called for adjusted EPS between $2.30 and $2.60 for the year, from an earlier forecast of adjusted EPS between $3.20 and $3.50.</p><p>Nordstrom will be \"aggressively right-sizing our inventory\" in the second half of the year and also investing in supply-chain and merchandising improvements for 2023 and beyond, President Pete Nordstrom said.</p><p>Nordstrom stock has outperformed the broader market this year, up about 2.3%. That contrasts with losses of about 13% for the S&amp;P 500 index SPX in 2022.</p><p>Nordstrom stock tanks after retailer lowers outlook for the year</p>",
+  "published": "2022-08-23T21:44:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 719,
+          "end": 731
+        },
+        {
+          "start": 714,
+          "end": 726
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0015843,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0015842915,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

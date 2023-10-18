@@ -1,0 +1,40 @@
+{
+  "_id": "0a666e9e123031e28b61a0ecfaed0a2c06d92528c5b605da5a13f3ae3f6aee67",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Robinhood Stock Sale Soured by Investor Confusion",
+  "text": "<p>It now appears Robinhood's commitment to \"democratizing\" the IPO process played a role in the offering's big initial stumble Thursday. An innovative auction system sowed some confusion among investors, many already suspicious of the valuation of a business that has drawn scrutiny from regulators and criticism from customers, people involved in the process said.</p><p>The stock, initially priced at $38, the bottom of the target range, sits below that. It is a disappointing result at a time when IPOs are booming and investor appetite for new issues is robust.</p><p>Robinhood proudly tore up the traditional IPO playbook. It insisted a large chunk of its stock -- in the end up to 25% -- go to its individual-investor customers compared with the normal retail allocation of well under 10%. It said employees could sell a portion of their stock right away instead of being locked up for six months. And when it came to determining the price of its IPO, Robinhood decided to use a hybrid-auction process, which attempts to assign shares to investors based on what they are willing to pay, regardless of who they are.</p><p>The hybrid auction has worked in other IPOs in the past year. In typical listings, underwriters give their investor clients updates throughout the roadshow -- the seven- to 10-day period in which a company pitches its stock. These updates typically include guidance on how much demand bankers are seeing for the shares and the rough price they ultimately expect to set.</p><p>In this case the company and lead underwriters Goldman Sachs Group Inc. and JPMorgan Chase &amp; Co. gave few such updates, people familiar with the matter said. When some large investors called the other underwriters on the deal, some of those bankers pleaded ignorance.</p><p>The opaqueness of the process sowed suspicion among some investors who assumed the deal was going poorly and adjusted their orders accordingly, investors and bankers said.</p><p>Many had already expressed concern about how much of Robinhood's revenue comes from a controversial practice called payment-for-order-flow, which the Securities and Exchange Commission is reviewing, people who attended the roadshow said. Others questioned what they saw as the high valuation the eight-year-old company was seeking -- in excess of $30 billion.</p><p>Another concern: whether Robinhood's controversial decision earlier this year to stop users from buying meme stocks like GameStop Corp. would prompt some to eschew the offering.</p><p>Wednesday night, as bankers met with Robinhood Chief Executive Vlad Tenev to set the price, some investors said they were only told it would be within the $38 to $42 target range. This surprised many large institutions, who are used to more guidance heading into a pricing meeting.</p><p>An unusually large percentage of shares were set to be allocated to hedge funds, which are more likely to \"flip\" IPO stock on the first day of trading, according to people close to the deal. To bring in more of the biggest institutional funds who are viewed as \"buy-and-hold\" investors, Robinhood chose $38 a share instead of the higher price some funds were willing to pay.</p><p>The company and Goldman felt comfortable that the lower price was conservative enough that the shares would rise on their first day of trading, especially given the buzz around Robinhood in the lead-up to the listing, according to people close to the deal. Instead, the stock opened at $38, unusual at a time when big initial pops for hot IPOs are more the norm. It rose higher briefly, touching $40 before dropping through the IPO price. It closed down 8.4% Thursday.</p><p>The shares fell further Friday morning before regaining some ground in the afternoon to close up less than 1% at $35.15.</p>",
+  "published": "2021-07-31T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1524,
+          "end": 1531
+        },
+        {
+          "start": 1513,
+          "end": 1537
+        },
+        {
+          "start": 1524,
+          "end": 1548
+        },
+        {
+          "start": 3107,
+          "end": 3114
+        },
+        {
+          "start": 3128,
+          "end": 3135
+        },
+        {
+          "start": 1524,
+          "end": 1537
+        }
+      ]
+    }
+  ]
+}

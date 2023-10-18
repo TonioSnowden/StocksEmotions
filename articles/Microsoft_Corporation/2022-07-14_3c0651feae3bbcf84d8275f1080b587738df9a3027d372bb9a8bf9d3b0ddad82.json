@@ -1,0 +1,20 @@
+{
+  "_id": "3c0651feae3bbcf84d8275f1080b587738df9a3027d372bb9a8bf9d3b0ddad82",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Celsius Network filed for bankruptcy protection, a month after the crypto lender halted withdrawals in the wake of a collapse in digital currency prices.</p><p>Netflix said it chose Microsoft to help launch a low-cost, advertising-supported streaming plan.</p><p>Berkshire has lifted its stake in Occidental to about 19%, nearing a threshold that would allow it to include the oil company in its results.</p><p>Delta Air Lines said strong demand for travel that offset higher costs helped it to turn a profit in the second quarter.</p><p>Spirit Airlines agreed to push back its shareholder vote on its merger with Frontier as the two sides try to win more support from skeptical investors.</p><p>Unity Software agreed to buy Israeli mobile-app and ad-tech firm ironSource in a $4.4 billion all-stock deal.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-07-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 176,
+          "end": 185
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

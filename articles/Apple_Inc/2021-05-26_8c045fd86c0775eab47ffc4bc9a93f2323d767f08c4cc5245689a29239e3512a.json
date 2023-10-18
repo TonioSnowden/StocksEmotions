@@ -1,0 +1,28 @@
+{
+  "_id": "8c045fd86c0775eab47ffc4bc9a93f2323d767f08c4cc5245689a29239e3512a",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>---</p><p>In some editions Tuesday, the surname of attorney Gary Bornstein was misspelled as Bornstien in the caption of a courtroom sketch with a Business &amp; Finance article about the legal fight between Apple Inc. and Epic Games Inc.</p><p>---</p><p>Morgan Stanley merged with Dean Witter in 1997. In some editions Tuesday, a Business &amp; Finance article about brokers' cold calls incorrectly said Morgan Stanley bought Dean Witter.</p><p>---</p><p>Vanderbilt University this spring made a donation to Climate Vault to offset its carbon emissions for the year ended June 30, 2020. A Business &amp; Finance article on Monday about Climate Vault incorrectly said Vanderbilt offset its emissions for 2021.</p><p>(See: \"Group Aims to Redirect Carbon Capital to Startups\" -- WSJ May 24, 2021)</p><p>---</p><p>Golfer Phil Mickelson will turn 51 on June 16. A Sports column on Tuesday about Mr. Mickelson incorrectly said June 11.</p><p>(See: \"Sports: Phil Mickelson at 50 Is Still a Thrill </p><p>---</p><p> A veteran pro's dramatic victory at the PGA Championship makes golf history\" -- WSJ May 25, 2021)</p><p>---</p><p>Notice to readers</p><p>Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail.</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p>",
+  "published": "2021-05-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 198,
+          "end": 203
+        },
+        {
+          "start": 198,
+          "end": 208
+        },
+        {
+          "start": 198,
+          "end": 207
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

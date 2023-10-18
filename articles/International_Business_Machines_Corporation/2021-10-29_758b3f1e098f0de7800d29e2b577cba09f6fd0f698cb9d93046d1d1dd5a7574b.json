@@ -1,0 +1,30 @@
+{
+  "_id": "758b3f1e098f0de7800d29e2b577cba09f6fd0f698cb9d93046d1d1dd5a7574b",
+  "feed": "wall-street-journal",
+  "title": "Why Facebook Chose Meta as Its Name: What to Know; Tech giant to rebrand as CEO Mark Zuckerberg looks to reposition the company around the metaverse",
+  "text": "<p>His promotion of the metaverse comes as Facebook faces intense criticism from lawmakers, researchers and users over revelations in The Wall Street Journal's Facebook Files series.</p><p>What does metaverse mean?</p><p>The metaverse is an online virtual realm where people would work, play and shop. Facebook describes it as \"the next evolution of social connection. It's a collective project that will be created by people all over the world, and open to everyone. You'll be able to socialize, learn, collaborate and play in ways that go beyond what's possible today.\"</p><p>Why is Facebook rebranding?</p><p>The corporate rebrand gives Facebook an opportunity to shift the focus as it is facing sharp scrutiny from lawmakers, researchers and users. Mr. Zuckerberg has said the criticism surrounding the company over revelations in the Facebook Files series, which showed Facebook knows its platforms are riddled with flaws that cause harm, paints a false picture of the organization.</p><p>Patagonia, for instance, doubled down on its decisionto stop paid advertising on Facebookand has urged other companies to join in boycotting the social network.</p><p>What does this mean for Facebook's properties?</p><p>Facebook says the names of its apps—Facebook, Instagram, Messenger and WhatsApp—will remain the same. But the company is adapting its corporate structure. Mr. Zuckerberg said on a recent earnings call that Facebook Reality Labs, which encompasses augmented-reality and virtual-reality products and services, is becoming a separate reporting unit. He said spending for that unit would reduce this year's total operating profit by $10 billion.</p><p>Have other major companies changed their names?</p><p>Yes. Rebranding is a relatively common corporate tactic. A name change can be a signal to the market, competitors and advertisers of a broader shift in a company's focus and portfolio, even when its namesake product keeps the same title.</p><p>Philip Morris changed its name in 2003 to Altria Group Inc. amid widespread condemnation of Big Tobacco over cigarettes' harmful health effects. Apple Inc. shortened its name from Apple Computer in 2007 to reflect the growth of other products such as iPods and iPhones. Google restructured in 2015 to create a parent company named Alphabet Inc. that housed its array of side businesses.</p><p>To broaden its appeal, Weight Watchers changed its name to WW in 2018, around the same time Dunkin' Brands Group Inc. dropped the word \"Donuts\" from its flagship brand as it increasingly emphasized coffee.</p><p>What about Facebook's stock ticker symbol?</p><p>This is changing. Starting Dec. 1, the company's shares are slated to trade under the stock symbol MVRS, giving up the two-letter format it had with FB.</p><p>Researchers have found over the years some correlations between a stock's value and the \"likability\" or even the pronounceability of a ticker symbol. One study in 2016 found that tickers such as AAPL (Apple Inc.) and IBM (International Business Machines Corp.) scored high with investors, while more-tangential symbols fell flat, such as JWN (Nordstrom Inc.).</p><p>On Oct. 28, the day Facebook's name was announced, Facebook closed with a market cap of nearly $900 billion, putting it in the top 10 biggest U.S. companies by market value.</p><p>This article may be updated.</p><p>Write to Steven Russolillo at Steven.Russolillo@wsj.com</p>",
+  "published": "2021-10-29T17:49:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 2903,
+          "end": 2906
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.77378094,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.22621906,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "96182844939fceee01e71c3c2a7505db8df4c73df10b08efd58995f3368da4b0",
+  "feed": "wall-street-journal",
+  "title": "British Pensions Add Equity Derivatives",
+  "text": "<p>The move carries risks, since investing via derivatives makes investors more exposed to changes in the value of an underlying asset. That makes it effectively a form of leverage, similar to using borrowed money, since it amplifies an investment's potential gains or losses.</p><p>There are also benefits. By doing this, pensions can keep hold of their LDI positions, while also generating returns linked to the stock market. LDI is meant to hedge against big moves in bond yields, which in turn help determine pension liabilities.</p><p>Derivatives positions can also be closed more quickly than traditional shares can be sold, if an investor needs cash fast. By shifting some leverage from U.K. government bonds, or gilts, to stocks, the move can spread risk more evenly throughout a portfolio.</p><p>Some clients of Cardano Investment have recently reconfigured their portfolios this way, said Chief Executive Officer Kerrin Rosenberg. Cardano advises on and manages LDI portfolios.</p><p>Goldman Sachs Group Inc., Bank of New York Mellon Corp.'s Insight Investment and a unit of Britain's Legal &amp; General Group PLC in recent weeks have been discussing with clients shifting from physical holdings to synthetic positions, industry participants said.</p><p>A July note from BlackRock Inc., one of the largest LDI managers, urged pension plans to consider synthetic investments in equity and credit, or corporate debt, to help free up collateral.</p><p>Market participants caution that employing equity derivatives could create challenges. Stocks are typically more volatile than bonds. That makes the use of leverage, also known as gearing, potentially more risky. Any sudden selloff could spill over into other asset classes.</p><p>\"The thought of gearing gilts is something pension-fund trustees have become accustomed to over the past decade,\" said Bob Campion, head of fiduciary management at Charles Stanley, a division of Raymond James Financial Inc.</p><p>\"To gear your equities is a much riskier strategy,\" he said.</p><p>The S&amp;P 500 has fallen at least 2% on 22 trading days this year, according to Dow Jones Market Data.</p><p>Investors holding a derivative tied to an index like the S&amp;P 500 would typically make a paper gain when the benchmark rises. When it falls, however, they would suffer a paper loss and might be required to post extra collateral, potentially forcing them to sell other assets in a hurry.</p>",
+  "published": "2022-11-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 967,
+          "end": 991
+        },
+        {
+          "start": 967,
+          "end": 974
+        },
+        {
+          "start": 967,
+          "end": 980
+        },
+        {
+          "start": 958,
+          "end": 981
+        }
+      ]
+    }
+  ]
+}

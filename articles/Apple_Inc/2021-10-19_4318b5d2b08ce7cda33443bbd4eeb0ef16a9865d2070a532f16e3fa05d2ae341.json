@@ -1,0 +1,88 @@
+{
+  "_id": "4318b5d2b08ce7cda33443bbd4eeb0ef16a9865d2070a532f16e3fa05d2ae341",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Apple Unveils New Laptops, Chips  ---  MacBook Pros feature  pumped-up processors  as tech giant promises  more power efficiency  ----  By Wilson Rothman",
+  "text": "<p>   A pair of MacBook Pro laptops -- and a pair of chips -- shared center stage at Apple Inc.'s streamed Monday event, which also included the debut of new AirPods. </p><p>   The new designs with 16-inch and 14-inch displays have curves reminiscent of classic MacBooks. Apple also brought back HDMI and SD card slots, along with the MagSafe magnetic power plug. (The laptops still have Thunderbolt 4/USB-C ports which you can use to power them and connect monitors and other peripherals.) </p><p>   Powering the new laptops are new, supersize versions of the Apple-designed M1 chip that launched last year: the M1 Pro and the M1 Max. Because these chips have architecture that resembles the processor found in iPhones, Apple says their advantage is high-performance while maintaining power efficiency over chips made by Intel Corp. Last year's MacBook Air and 13-inch MacBook Pro do run cooler and longer, and carry out a battery of basic computing tasks with ease. </p><p>   That's why the other big news Monday was battery life: Apple said the 14-inch MacBook Pro is capable of 17 hours of video playback, while the 16-inch version can go 21 hours. Apple says these are the first MacBooks with fast-charge capability: You can replenish the battery up to 50% in 30 minutes. </p><p>   The Pros are also priced at pro levels: The 14-inch model will start at $1,999 while the 16-inch one starts at $2,499. Both ship next week, Apple said. </p><p>   Apple took time during its presentation to share many stats about its new processors, though chief among them is core count: The original M1 has an eight-core CPU and up to eight cores for graphics processing. The new M1 Pro has a 10-core CPU and a GPU of up to 16 cores, while the M1 Max has a GPU of up to 32 cores. Translation: more processing bandwidth, especially with visually intensive software. Notably, the new MacBook Pro models don't come with discrete graphics processing like their high-end Intel-powered predecessors. </p><p>   Although one of the taglines used in the presentation was \"supercharged for pros,\" the pumped-up chips will still need to prove themselves in the real world. </p><p>   Winning the customers of machines like the previous 16-inch MacBook Pro will require Apple to demonstrate that the M1 Pro and M1 Max chips are up to processor-and-graphics-intensive tasks such as video encoding, data analysis, 3-D modeling and more. That means convincing developers of this demanding software to write code optimized for Apple chips, said Patrick Moorhead, founder of the tech analysis and consulting firm Moor Insights &amp; Strategy. Until that happens, the new MacBook Pro models likely won't be for extreme power users. </p><p>   \"The true professionals making their money off intense video and intense audio, I think it'll be a challenge for Apple to move them over,\" he said. He thinks Apple might continue to sell Intel-powered Macs through enterprise channels, even after pulling them from its own retail pages. </p><p>   A major test will likely come later, when Apple eventually replaces the silicon inside the Intel Xeon-powered Mac Pro, said Mr. Moorhead. </p><p>   Apple also introduced the third generation of its wildly popular AirPods wire-free earbuds. The new ones still have that contoured earpiece, rather than the sealing gaskets found on the noise-canceling AirPods Pro, but they share other things with their high-end siblings: shorter stalks, a squat, wireless-capable charging case, and resistance to sweat and water. </p><p>   Apple says it increased the listening time from five to six hours. It also increased the price: The new AirPods cost $179, and will be available next week, according to the company. The second-generation AirPods, once $159, will remain on sale at a discounted $129. </p><p></p>",
+  "published": "2021-10-19T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1381,
+          "end": 1386
+        },
+        {
+          "start": 695,
+          "end": 700
+        },
+        {
+          "start": 2948,
+          "end": 2953
+        },
+        {
+          "start": 3044,
+          "end": 3049
+        },
+        {
+          "start": 3409,
+          "end": 3414
+        },
+        {
+          "start": 535,
+          "end": 540
+        },
+        {
+          "start": 2733,
+          "end": 2738
+        },
+        {
+          "start": 79,
+          "end": 84
+        },
+        {
+          "start": 256,
+          "end": 261
+        },
+        {
+          "start": 2168,
+          "end": 2173
+        },
+        {
+          "start": 2778,
+          "end": 2783
+        },
+        {
+          "start": 79,
+          "end": 88
+        },
+        {
+          "start": 2421,
+          "end": 2426
+        },
+        {
+          "start": 79,
+          "end": 89
+        },
+        {
+          "start": 1117,
+          "end": 1122
+        },
+        {
+          "start": 997,
+          "end": 1002
+        },
+        {
+          "start": 1393,
+          "end": 1398
+        },
+        {
+          "start": 12,
+          "end": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "212a15d5128295122d76bdc6e1d6afba580c23a9420bf80ad217573ff39ff9c5",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: DoorDash Delivers Facebook Purchases",
+  "text": "<p>Facebook and DoorDash confirmed they tested the service in several U.S. cities in recent months. They said the partnership is in the early stages and declined to share terms of the agreement.</p><p>The service lets Facebook users purchase and receive items from Marketplace without leaving their homes. It can deliver items that fit in a car trunk and are up to 15 miles away, people familiar with the plan said. Deliveries would be made within 48 hours.</p><p>Marketplace is a feature within Facebook that lets people sell new and used goods to one another.</p><p>Facebook has struggled to add younger users, who now prefer rival TikTok. Marketplace has been one of the few Facebook features popular among young people, said a person familiar with the plans. Facebook takes a small cut of sales processed through Marketplace to cover the cost of payment processing and to cover purchase protection for buyers.</p><p>Over the past two years, Meta has increased its efforts to expand e-commerce on its social-media apps because it would help it sell ads. The company lost ad revenue over the past year after Apple Inc. changed its privacy policy for iPhones and iPads. The changes, made in April 2021, made it easier for people to stop apps from tracking their devices. That tracking data helped Meta measure the effectiveness of advertisements.</p><p>Increased use of Facebook Marketplace would help Meta better measure the effectiveness of ads, and reclaim some of the data it lost after Apple changed its policy, as commerce channels provide more-detailed data for advertising.</p><p>Meta added DoorDash's chief executive, Tony Xu, to its board of directors in January.</p><p>The pandemic served as an unexpected boon for DoorDash, the nation's largest food-delivery service. The app expanded to delivering items including toothpaste to Tylenol, as spending on delivery surged. It also doubled down on logistics partnerships with retailers including Sephora and JCPenney.</p><p>Now DoorDash and rival Uber Eats are trying to build logistics businesses that sell speed and convenience, rather than just food. The delivery companies say powering next-hour delivery for consumers and businesses -- which includes delivering everything from drugstore staples and alcohol to clothes and cosmetics on demand -- is the prize that could sustain their growth.</p><p>DoorDash's deal with Meta marks its first foray into ferrying goods between consumers. The companies had been discussing a partnership since at least 2021, according to one of the people familiar with Meta's plans.</p><p>DoorDash approached Facebook about a partnership in part to create more work for its drivers, especially when drivers aren't busy delivering lunch and dinner, this person said.</p><p>In a statement, DoorDash said it continuously explores and tests new innovations that focus on providing convenience.</p>",
+  "published": "2022-08-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1073,
+          "end": 1082
+        },
+        {
+          "start": 1083,
+          "end": 1093
+        },
+        {
+          "start": 1446,
+          "end": 1451
+        },
+        {
+          "start": 1459,
+          "end": 1464
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.000044,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.374981e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

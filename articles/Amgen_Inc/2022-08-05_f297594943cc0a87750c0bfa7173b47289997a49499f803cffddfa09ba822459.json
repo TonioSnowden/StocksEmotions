@@ -1,0 +1,34 @@
+{
+  "_id": "f297594943cc0a87750c0bfa7173b47289997a49499f803cffddfa09ba822459",
+  "feed": "wall-street-journal",
+  "title": "Pfizer in Advanced Talks to Buy Global Blood Therapeutics for About $5 Billion; A deal would be the latest move by the drug giant to bolster its portfolio and pipeline",
+  "text": "<p>Pfizer Inc. is in advanced talks to buy Global Blood Therapeutics Inc., the maker of a recently approved drug for sickle-cell disease, for about $5 billion, in the latest move by the drug giant to bolster its portfolio and pipeline.</p><p>Pfizer is aiming to seal a deal for GBT in the coming days, according to people familiar with the matter. The situation is still fluid, and other suitors are still in the mix, some of the people said. GBT announces its second-quarter results Monday.</p><p>Bloomberg reported earlier this week that potential buyers were circling GBT, without naming them. The shares shot up on the news, adding to earlier gains since the spring. They closed Friday up 33% at $63.84 after The Wall Street Journal reported on the talks with Pfizer, giving GBT a market value of more than $4 billion.</p><p>GBT, of South San Francisco, was founded in 2011. Buying the company would add to Pfizer's presence in rare diseases, furnishing a drug already on sale for the treatment of sickle-cell disease as well as two in development that have produced positive results in preliminary studies.</p><p>The commercial treatment, called Oxbryta and approved in December for children 4 to 11 years old after being cleared in 2019 for people 12 and older, had just over $55 million in first-quarter sales.</p><p>Sickle-cell disease is an inherited blood disorder affecting about 100,000 people in the U.S., including 1 in 13 who are Black. Pfizer has been interested in sickle cell, but a drug it had been developing failed in 2019. It has another one in early-stage development.</p><p>There had been few drugs treating the disease, but it has drawn the interest of researchers in recent years due to scientific advances in understanding its molecular roots. Treatments like Oxbryta could face competition from gene therapies in development.</p><p>Pfizer has been looking to add products to its lineup and pipeline, as the company seeks to find long-running sales growth that doesn't depend on pandemic products.</p><p>Pfizer's Covid-19 vaccine and pill have driven huge revenue. The company projects $54 billion in sales from the two products this year alone. Yet analysts expect demand to drop in coming years, putting pressure on the company's non-pandemic portfolio.</p><p>The New York-based drugmaker plans to add $25 billion in revenue from business-development moves like M&amp;A by 2030.</p><p>Flush with the cash its pandemic products have generated, Pfizer has been inking deals to bolster its portfolio and pipeline. In May, it agreed to buy the rest of migraine drugmaker Biohaven Pharmaceutical Holding Co. for $11.6 billion.</p><p>Earlier, Pfizer had bought Arena Pharmaceuticals for $6.7 billion and said it would acquire privately held respiratory virus drugmaker Reviral Ltd.</p><p>If the deal for GBT comes together, it would add to a flurry of recent healthcare tie-ups. This week, Gilead Sciences Inc. agreed to buy the privately held U.K. biotech MiroBio for around $400 million and Amgen Inc. agreed to buy California-based ChemoCentryx Inc. for roughly $4 billion. Meanwhile, Merck &amp; Co. has been eyeing a deal for Seagen Inc. that would be valued at around $40 billion and broaden its lineup of cancer drugs. Still, healthcare deal volumes are down by nearly 50% compared with this time last year, according to Dealogic data.</p><p>Write to Jonathan D. Rockoff at Jonathan.Rockoff@wsj.com, Dana Cimilluca at dana.cimilluca@wsj.com and Cara Lombardo at cara.lombardo@wsj.com</p><p>Pfizer in Advanced Talks to Buy Global Blood Therapeutics for About $5 Billion</p>",
+  "published": "2022-08-05T21:22:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2937,
+          "end": 2947
+        },
+        {
+          "start": 2913,
+          "end": 2923
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

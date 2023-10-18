@@ -1,0 +1,64 @@
+{
+  "_id": "6f13ac742368fb0314c0116e3bcbc2195794d2f091f0eff16074e43504cac3e0",
+  "feed": "wall-street-journal",
+  "title": "The End of Car Keys, Passwords and Fumbling With Your Phone at Checkout; The ultra-wideband, or UWB, technology that powers Apple's AirTags could reshape how we interact with devices—if companies can overcome privacy concerns and other hurdles",
+  "text": "<p>The technology is called ultra-wideband, or UWB. It enables a centimeter-accurate sense of \"where\" on top of the \"when\" of computers' clocks and the \"what\" provided by cameras and other sensors, and it could lead to all sorts of interesting things that might not be immediately obvious.</p><p>It has already become part of a standard backed by Apple, Google, BMW, Volkswagen and others designed to let anyone with a late-model smartphone or Apple Watch unlock and start their cars simply by walking up to them. It could make it easy for us to control any connected light, lock, speaker or other smart-home gadget simply by pointing at it with our phone or watch. It could even, claim its architects, end passwords.</p><p>But first, UWB has to overcome the chicken-and-egg problem that always faces new technologies that require many different companies, in many different industries, to spend time and money making their devices wirelessly communicate with one another.</p><p>Companies that use it also will have to overcome major privacy issues. Once our gadgets are broadcasting their location at all times, how do we assure that information doesn't fall into the hands of those who would use it to harm us?</p><p>Still, while UWB is in its early days, some applications are already here. The microchips and antennae that make it possible have been in every model of iPhone since the iPhone 11, launched in 2019, as well as newer phones from Google, Samsung, Xiaomi, Oppo and others. It's also been in the Apple Watch since 2020's Series 6 model.</p><p>Its applications so far include iPhone owners finding their AirTags, sharing files via AirDrop, or amusing their friends with a party trick you can only do with Apple's HomePod Mini. Owners of newer Samsung phones are using UWB when they find their Galaxy SmartTag+, that company's answer to AirTags.</p><p>In the not-too-distant future, things could get a great deal more interesting. And while many technologies promising transformation of some critical part of our world's digital plumbing are destined to fall short, there are reasons to believe this one could live up to its potential.</p><p>For one: Membership of the FiRa Consortium, a nonprofit developing the UWB standard, is a who's-who of major tech companies.</p><p>UWB is not, in other words, some proprietary part of one tech giant's walled garden. It's more like a basic piece of consumer (and industrial) communications infrastructure, like Wi-Fi, Bluetooth or 5G cellular standards.</p><p>UWB was developed over the past decade as a way to very precisely locate any object in three-dimensional space, says Dr. Ardavan Tehrani, who is part of a working group at FiRa and also works for Meta Platforms, the company formerly known as Facebook, in a division called Reality Labs.</p><p>Previous attempts to track location indoors with existing wireless technologies, like Wi-Fi and Bluetooth, fell short because they were never intended for anything but transferring data, he adds.</p><p>UWB, by contrast, triangulates the position of an object by measuring how long it takes radio waves to travel between devices and beacons. It's a bit like the Global Positioning System technology we use for things like Google Maps, except that GPS involves one-way transmissions from satellites to receivers listening on earth. UWB entails two-way conversations between, say, the chip inside a smartphone and another UWB device.</p><p>These beacons can be small—the AirTag is roughly the size of four U.S. half-dollar coins, stacked—and last for years on a single battery. But the technology requires at least a few such beacons nearby for a device to locate itself inside a room.</p><p>UWB-compatible chips have the acuity to determine the location of an object to within a centimeter, says Daniel Knobloch, a wireless engineer at BMW and president of the Car Connectivity Consortium. That group has incorporated UWB into its standard, finalized in May of 2021, for opening and starting a car with any smartphone.</p><p>Many newer cars have keyless entry systems. This consortium's new standard enables a vehicle to unlock when a person with a UWB smartphone walks within a certain number of feet of a car. Because access to the car is entirely through a smartphone, it can also be transferred, which could make picking up a rental car at the airport as simple as tapping on a link in a text or email to transform their phone into a \"key.\"</p><p>Similarly, UWB could allow paying at a store checkout without having to figure out exactly where on a payment terminal to mash one's phone or watch, and entering a building without ever having to swipe a keycard.</p><p>A laptop equipped with UWB could recognize that its owner is sitting in front of it, by listening for the signal from her smartphone or smartwatch. It could then automatically log in to any service that person is authorized to use, putting yet another nail in the coffin of passwords, says Dr. Tehrani.</p><p>Another potential application: making smart homes easier and more intuitive to use. Bastian Andelefski, an iOS developer in Germany, has demonstrated its potential. In a video posted online, he showed his ability to point his iPhone at any of the smart bulb-equipped lamps in his home, and turn them on or off with a single tap, rather than opening an app and scrolling to the appropriate light, as happens today.</p><p>Making this work was expensive and complicated, says Mr. Andelefski, and his hacked-together system is hardly ready for nontechnical users. But with more and more companies rolling out affordable beacons, it's the sort of thing that could be available to consumers sooner rather than later.</p><p>If UWB sounds like some nascent technology long on promise but short on commercially available applications, that also seemed to be the trajectory of, for example, Wi-Fi. It had its origins in the early 1990s and didn't begin to go mainstream until after Apple incorporated it into its iBook laptop in 1999.</p><p>Like Wi-Fi, UWB has a lot of room to improve, and many more applications could arise as a result, says Dinesh Bharadia, an assistant professor at University of California, San Diego, whose lab works on wireless communications and sensing. In research announced in September, his team demonstrated that, using a new kind of beacon, the speed of UWB could be increased by about a factor of 10, while the amount of power it consumes could be decreased by the same amount.</p><p>The resulting improvements, which would require only a software update to existing smartphones that use UWB, could allow an object to be located in space every millisecond. This would allow real-time tracking of VR and AR headsets, robots and other automation, pets and livestock, boxes in a warehouse, and anything else to which an AirTag-type UWB device could be attached.</p><p>That UWB could be used for so many different applications doesn't mean that it will be, cautions Dr. Bharadia. One application for which previous indoor-localization technologies have been touted—maps that help us navigate inside buildings, or direct us to the right item on a grocery shelf—have failed for years. There are two reasons for this, says Dr. Bharadia, neither really technological: No one has figured out how to make money from indoor mapping, and users don't seem to really care about a technology that can be replaced by something as simple as adequate signage.</p><p>A third reason indoor localization technologies might have failed until now is privacy. Mr. Andelefski found, when using Apple's own UWB technology, that there are many ways the iPhone's software and hardware limit a developer's access. Part of this he attributes to the need to maintain user privacy, and to protect data as sensitive as the precise location of their devices.</p><p>Indeed, recent reports of people using Apple AirTags to track cars before stealing them, and to stalk others, show just how sensitive this data can be.</p><p>Privacy is a \"key consideration\" of how the company's UWB-based technology works, and how developers are allowed to use it, says an Apple spokesman. For example, apps can only use the phone's UWB-powered location tech when they're open, and after a user grants permission, so it isn't possible for apps to track a user's location in the background, he adds.</p><p>\"UWB is enabling more accurate location data, and how it's protected is up to Apple, Google and others,\" says Mickael Viot, a member of the marketing working group at the FiRa consortium and also a director of business development at U.S. semiconductor company Qorvo.</p><p>The ability to know precisely where they are might seem minor in the pantheon of our gadgets' superpowers, which include near-instantaneous communication with any point on the globe, sophisticated digital photography, real-time health monitoring, high-performance gaming and the like.</p><p>SHARE YOUR THOUGHTS</p><p>What benefits and risks do you expect from new location-tracking technology? Join the conversation below.</p><p>But the potential of UWB is the way it links up with those other technologies. Just as it was impossible to predict that 3G and front-facing cameras would give rise to Snapchat, or that the smartphone itself would transform seemingly every aspect of how we socialize, it's tough to say just how far this sense of where our things are might take us. Today, it's a replacement for car keys and passwords, but in the future it could well be part of making important objects in the physical world announce their position and identity to our smart glasses and other augmented-reality interfaces, says Dr. Tehrani.</p><p>That is, of course, if companies can first get a handle on the privacy implications of all those objects and devices constantly broadcasting their location.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Christopher Mims at christopher.mims@wsj.com</p><p>The End of Car Keys, Passwords and Fumbling With Your Phone at Checkout</p>",
+  "published": "2022-01-08T05:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 7434,
+          "end": 7439
+        },
+        {
+          "start": 7729,
+          "end": 7734
+        },
+        {
+          "start": 338,
+          "end": 343
+        },
+        {
+          "start": 1686,
+          "end": 1691
+        },
+        {
+          "start": 7974,
+          "end": 7979
+        },
+        {
+          "start": 124,
+          "end": 129
+        },
+        {
+          "start": 5839,
+          "end": 5844
+        },
+        {
+          "start": 8278,
+          "end": 8283
+        },
+        {
+          "start": 1484,
+          "end": 1489
+        },
+        {
+          "start": 435,
+          "end": 446
+        },
+        {
+          "start": 1484,
+          "end": 1495
+        },
+        {
+          "start": 435,
+          "end": 440
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "5063a6cc27261f14327366ab0bc4053d9d1992d4e02faff687cd1f89a654fa46",
+  "feed": "wall-street-journal",
+  "title": "Apple's New iPhones Create Buzz in China, but Local Rivals Loom; Consumers like company's move not to raise prices on some models",
+  "text": "<p>By Thursday afternoon, the topic \"iPhone 14\" garnered more than 730 million views on the Chinese social-media platform Weibo, while a related topic about prices not going up earned more than 120 million views.</p><p>Even amid heightened U.S.-China tensions over trade and Taiwan, winning the favor of Chinese consumers remains a priority for Apple. Greater China accounted for more than a sixth of Apple's sales in the April-to-June quarter, trailing only the Americas at 45% and Europe at 23%.</p><p>Apple Chief Executive Tim Cook took an opportunity Wednesday for a friendly gesture toward China, posting on his local social-media account that Apple would donate to help earthquake victims in Sichuan province.</p><p>Apple is also targeting India, which was until recently no more than an asterisk in its global sales, as a growth market.</p><p>The iPhone 12 and iPhone 13 performed well in China, partly because the country's homegrown smartphone giant, Huawei, was hit by U.S. sanctions.</p><p>Apple shipped 9.9 million iPhones in China in the April-to-June quarter, up 25% from a year earlier, despite a 10% decline in the country's overall smartphone market, market research firm Canalys said. A resurgence of Covid-19 and lockdowns in major Chinese cities hurt consumer spending in the quarter.</p><p>Chen Jing, a 40-year-old photography enthusiast in Shanghai, said she has had her iPhone 11 for about three years and was looking at the iPhone 14 Pro Max, which in China is set to cost the equivalent of $1,665.</p><p>\"What attracts me is the new iPhone's better camera,\" she said. She called the phone a bit pricey but not unacceptable.</p><p>Apple faces plenty of Chinese competition. During Huawei's troubles, local brands like Oppo and Vivo stepped in with models offering features such as high-quality cameras and longer-lasting batteries, said Amber Liu, an analyst at Canalys.</p><p>\"They find moving to the high end the only route to profitability and sustainable growth,\" she said.</p><p>Honor Device Co., a phone maker that was previously part of Huawei but is now independent, was the top smartphone seller in China in the second quarter of this year, closely followed by other local brands like Oppo and Vivo, according to Counterpoint Research. Apple was in fifth place with a 13% market share.</p><p>Huawei is regrouping for a comeback, although it still can't offer phones with fifth-generation, or 5G, high-speed data service because of U.S. sanctions.</p><p>The company introduced its latest flagship smartphones two days ahead of Apple's announcement and beat the U.S. company in showing off phones with satellite communications. The phones can communicate directly with satellites above the earth to send emergency messages even in areas not covered by cellular towers.</p><p>Huawei's phones work with China's domestically developed navigation satellite system, while Apple said its satellite service would initially be available in the U.S. and Canada.</p><p>\"We are determined to build a high-end brand,\" said Richard Yu, head of Huawei's consumer business.</p><p>Apple is hoping that India, which has friendlier ties with the U.S., could eventually approach China's status as a key global market and production hub, although that goal is still a long way away.</p><p>With more than 1.3 billion people, second only to China, India is the world's second-largest smartphone market, but low-price brands have dominated there.</p><p>In 2017, Apple started manufacturing some iPhone models in India, allowing the company to avoid tariffs added to its devices imported from China and reduce prices for customers. Its share of India's smartphone market should hit 4% this year, up from about 1% in 2018, according to Tarun Pathak of Counterpoint Research in India.</p><p>Apple trails the likes of South Korea's Samsung Electronics Co., China's Xiaomi Corp. and Vivo, each of which command more than a 15% market share, according to Counterpoint.</p><p>Share Your Thoughts</p><p>What does Apple need to do to make headway with its new iPhones in China? Join the conversation below.</p><p>One bright spot for Apple in India, analysts say, is that consumers are increasingly willing to spend more for expensive devices aided by new financing options.</p><p>Apple is preparing to manufacture its new iPhone in India months earlier than it did previous models, The Wall Street Journal reported last month. Analysts said the increased local production would help Apple expand market share among Indian consumers, although it has remained unable to open company-owned retail stores in the country.</p><p>Write to Yang Jie at jie.yang@wsj.com and Newley Purnell at newley.purnell@wsj.com</p><p>Apple's New iPhones Create Buzz in China, but Local Rivals Loom</p>",
+  "published": "2022-09-08T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 335,
+          "end": 340
+        },
+        {
+          "start": 336,
+          "end": 341
+        },
+        {
+          "start": 390,
+          "end": 395
+        },
+        {
+          "start": 486,
+          "end": 491
+        },
+        {
+          "start": 631,
+          "end": 636
+        },
+        {
+          "start": 697,
+          "end": 702
+        },
+        {
+          "start": 962,
+          "end": 967
+        },
+        {
+          "start": 1593,
+          "end": 1598
+        },
+        {
+          "start": 2191,
+          "end": 2196
+        },
+        {
+          "start": 2467,
+          "end": 2472
+        },
+        {
+          "start": 2798,
+          "end": 2803
+        },
+        {
+          "start": 2982,
+          "end": 2987
+        },
+        {
+          "start": 3342,
+          "end": 3347
+        },
+        {
+          "start": 3660,
+          "end": 3665
+        },
+        {
+          "start": 3864,
+          "end": 3869
+        },
+        {
+          "start": 3975,
+          "end": 3980
+        },
+        {
+          "start": 4115,
+          "end": 4120
+        },
+        {
+          "start": 4317,
+          "end": 4322
+        }
+      ],
+      "weightsV2": {
+        "weight": 27.0,
+        "baseWeight": 19.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

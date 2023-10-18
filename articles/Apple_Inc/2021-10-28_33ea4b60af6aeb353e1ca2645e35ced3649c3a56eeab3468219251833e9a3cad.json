@@ -1,0 +1,28 @@
+{
+  "_id": "33ea4b60af6aeb353e1ca2645e35ced3649c3a56eeab3468219251833e9a3cad",
+  "feed": "wall-street-journal",
+  "title": "Demand For Chips Bolsters Samsung",
+  "text": "<p>Samsung, the world's largest memory-chip and smartphone maker, reported revenue of 73.98 trillion won for the quarter ended Sept. 30, a 10.5% rise from the prior year. The performance topped analysts' estimates and highlighted the strength of demand for digital products and services that also recently have lifted the earnings of tech players as diverse as Microsoft Corp. and Advanced Micro Devices Inc.</p><p>The company is considered an industry bellwether as it is both a major electronics maker and components supplier to big tech firms including Apple Inc. and Sony Group Corp.</p><p>Samsung's results were driven by the strength of memory chips that go inside mobile devices, personal computers and data servers. Operating profit for Samsung's chip division in the July-to-September quarter rose 82% from the prior year to 10.06 trillion won, while revenue rose 40% to 26.41 trillion won.</p><p>But memory prices may fall in the coming months due to slowing demand as buyers struggle to source other kinds of parts.</p><p>Component shortages are constraining the assembly of tech products such as personal computers and smartphones, in turn lowering the need for memory chips, according to Taiwan-based research firm TrendForce.</p><p>Contract prices for DRAM chips, which enable multitasking on devices, are expected to fall between 3% to 8% from the prior quarter, according to TrendForce. Similar prices for NAND flash memory, which provides storage on tech devices, are projected to be flat or fall by as much as 5% on a quarter-to-quarter basis, the firm said.</p><p>Samsung is the No. 1 producer of DRAM and NAND memory chips.</p><p>But the success selling chips and other parts amid shortages hindered the company's mobile division, where third-quarter operating profit declined 25% from the prior year. Revenue slid 7%.</p><p>In Seoul trading early Thursday, Samsung shares were up 0.2%.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-10-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 547,
+          "end": 557
+        },
+        {
+          "start": 547,
+          "end": 556
+        },
+        {
+          "start": 547,
+          "end": 552
+        }
+      ]
+    }
+  ]
+}

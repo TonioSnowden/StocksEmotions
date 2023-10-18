@@ -1,0 +1,32 @@
+{
+  "_id": "058dda102d0ac0f995a921fc87127ceb2265a58f13c047e56e86c61ec2073b43",
+  "feed": "wall-street-journal",
+  "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector; U.S. financial institutions' machine-learning models are a potential avenue for attacks, experts said",
+  "text": "<p>\"It's a huge unaccounted-for risk,\" said Andrew Burt, a former policy adviser to the head of the cyber division at the Federal Bureau of Investigation who now runs AI-focused law firm BNH. \"The vulnerabilities of AI and complex analytic systems are significant and very widely overlooked by many of the organizations employing them.\"</p><p>Banks for decades have sought to employ fewer expensive bankers by deploying automated solutions, from mainframe computers brought in to automate back-office functions in the 1950s, to systems that could electronically read checks put in place in the 1980s. AI has provided tools that enable core business activities, such as trading, to be at least partially placed in the hands of machine-learning models.</p><p>Goldman Sachs Group Inc., in one prominent example, has appointed a global machine-learning chief, and, like many Wall Street firms, has made an aggressive foray into software engineering. The investment bank currently has hundreds of open job postings touting work on its team as an opportunity for applicants to \"leverage machine learning alongside financial engineering.\"</p><p>Foreign actors have targeted U.S. banks in the past, causing widely publicized disruptions. Iranian hackers attacked U.S. banks in 2012 in what U.S. officials described as retaliation against sanctions the U.S. imposed in an attempt to thwart the country's nuclear ambitions.</p><p>Machine-learning models used by banks pose more risk than the systems operators might have targeted earlier. Unlike the efforts to gird systems against ransomware attacks, the protection of machine learning remains in its infancy, putting the institutions that use them at considerable risk</p><p>\"Machine-learning security is not just a combination of security and machine learning; it's a novel field.…When you introduce machine learning into any kind of software infrastructure, it opens up new attack surfaces, new modalities for how a system's behavior might be corrupted,\" said Abhishek Gupta, an engineer who founded and heads the international nonprofit group Montreal AI Ethics Institute.</p><p>\"There's a sense of brittleness in that entire architecture, like a house of cards. You don't know which of the cards that you pull out will lead to the whole thing collapsing entirely,\" he added.</p><p>Machine-learning models vary in their levels of sophistication, from those that use relatively simple algorithms to complex black-box AI systems, so named because, like human brains, they can't be simply opened up to see exactly how decisions are being made. And like human brains, AI platforms can be susceptible to being fed faulty information, including by attackers seeking to manipulate them.</p><p>Russian expertise in using the Internet and social media to disseminate disinformation could easily be turned against machine-learning models that, like other investors, turn to the Internet to try to gauge market sentiment.</p><p>Misinformation about a takeover being imminent, or a public-relations debacle unfolding, could easily fool a financial institution's trading systems, Mr. Gupta said.</p><p>Robust techniques to counter that kind of disinformation campaign have yet to be found, he said.</p><p>\"I haven't seen any real abilities in terms of being able to defend against the flood of disinformation,\" Mr. Gupta said. \"The techniques for defense aren't all that great at the moment.\"</p><p>Even though many large organizations employ machine-learning models, those of financial institutions are unique in their systemic importance to the U.S. economy and so pose unique risks.</p><p>\"They're very much susceptible to manipulation,\" said David Van Bruwaene, an AI expert who heads compliance company Fairly AI Inc. \"Figuring out a way to trick models at overleveraged banks, then have them take massive losses, that would be a kind of large-scale nuclear bomb on our economy.\"</p><p>Banks' machine-learning models remain susceptible to different kinds of attacks. They can be tricked with misleading trading data akin to so-called spoofing. Lending computers, for example, could be flooded with phony loan applications that warp their view of financial reality. But disinformation campaigns remain perhaps the easiest, lowest-cost avenue for an attacker to compromise a bank.</p><p>Such attacks already have occurred, but publicly available data on their prevalence remains scarce, Mr. Burt, the former FBI adviser, said.</p><p>An attack on machine-learning models remains largely the province of nation-state-backed hackers, Mr. Burt said. But it is difficult for outsiders to quantify how many attacks have occurred because banks don't have incentives to publicize weaknesses in their systems. It is also possible for attacks to go undetected entirely, he said.</p><p>\"It's a little bit like cybersecurity 15, maybe 20 years ago, where there was a huge amount of malicious activity,\" he said. \"This is an area that's only going to grow.\"</p><p>With research on detecting and preventing attacks on machine-learning models still in a relatively early stage, advising possible targets on how to defend themselves against an attack remains difficult, Mr. Gupta said.</p><p>\"That's the billion-dollar question,\" he said. \"There's been ample work that's been done in this space, and most of it not that successful. And so unfortunately, at the moment, there aren't really all that many effective ways to counter that.\"</p><p>Write to Richard Vanderford at richard.vanderford@wsj.com</p><p>AI Experts Warn of Potential Cyberwar Facing Banking Sector</p>",
+  "published": "2022-03-22T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 742,
+          "end": 749
+        },
+        {
+          "start": 743,
+          "end": 750
+        },
+        {
+          "start": 742,
+          "end": 766
+        },
+        {
+          "start": 743,
+          "end": 756
+        }
+      ]
+    }
+  ]
+}

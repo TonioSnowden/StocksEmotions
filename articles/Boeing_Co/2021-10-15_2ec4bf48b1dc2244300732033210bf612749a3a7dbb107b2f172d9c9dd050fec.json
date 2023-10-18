@@ -1,0 +1,72 @@
+{
+  "_id": "2ec4bf48b1dc2244300732033210bf612749a3a7dbb107b2f172d9c9dd050fec",
+  "feed": "wall-street-journal",
+  "title": "Boeing Ex-Pilot Indicted In Probe Of Crashes --- Federal prosecutors allege he lied about automated system blamed in disasters",
+  "text": "<p>David Gerger, an attorney for Mr. Forkner, didn't respond to requests for comment. Mr. Gerger has previously said that Mr. Forkner, a pilot and Air Force veteran, wouldn't endanger pilots or passengers and that his communications with regulators were honest.</p><p>Prosecutors alleged that Mr. Forkner, in his role as Boeing's 737 MAX chief technical pilot, withheld crucial information from the FAA about the flight-control system known as MCAS. As a result of his alleged deception, a key FAA report, pilot manuals and training materials lacked references to the system, defrauding Boeing's airline customers, prosecutors said.</p><p>Mr. Forkner \"abused his position of trust by intentionally withholding critical information about MCAS,\" Assistant Attorney General Kenneth Polite Jr. said in a statement.</p><p>Mr. Forkner is expected to make an initial court appearance on Friday in Fort Worth, prosecutors said. He faces a maximum penalty of 20 years in prison for each of four counts of wire fraud, and 10 years in prison for each of two counts of fraud involving aircraft parts in interstate commerce.</p><p>Boeing and the FAA declined to comment. The case against Mr. Forkner is the first time an individual has faced charges related to the dual MAX crashes, the first of which occurred three years ago this month. Boeing reached a $2.5 billion settlement with the Justice Department earlier this year.</p><p>In addition to the MCAS system, accident investigators also cited airline and crew missteps as factors in the crashes. The second accident prompted a nearly two-year global grounding of the fleet and plunged Boeing into the deepest corporate crisis in its more than 100-year history. The FAA approved the aircraft to fly again in the U.S. late last year.</p><p>The MCAS system was initially designed to activate during certain high-speed flying conditions that airline pilots wouldn't normally encounter. During the aircraft's development, Boeing engineers later expanded the system's authority to include certain low-speed conditions that would trigger it.</p><p>In chat messages released by congressional investigators, Mr. Forkner suggested that he hadn't told regulators that Boeing engineers made the MCAS system more potent and that pilots would be more likely to encounter it during flight. Mr. Forkner suggested in the messages that he hadn't known about changes to the flight-control system. \"So I basically lied to the regulators (unknowingly),\" he said in one 2016 message.</p><p>Around the same time, according to the indictment, Mr. Forkner contacted a senior Boeing engineer assigned to the 737 MAX program to ask about the flight conditions that would trigger MCAS. The engineer confirmed to Mr. Forkner the system had been expanded to work in low-speed conditions, not just during certain high-speed situations, the indictment said.</p><p>The indictment alleged that Mr. Forkner at that point could have told the FAA about the change in the system, but instead \"withheld this material fact.\" A few months later, Mr. Forkner again recommended that the FAA not include a reference to the system in a report that determined how much training pilots would need to fly the new jet, the indictment alleged.</p><p>Prosecutors alleged Mr. Forkner's efforts to mislead the FAA had the effect of defrauding Boeing's airline customers. The carriers were deprived of information about the jet that may have influenced their decisions to buy the 737 MAX, the indictment said.</p><p>Mr. Forkner's lawyer, Mr. Gerger, has said that his client's chat messages referred to problems with a simulator, not the aircraft.</p><p>Following the first crash, on Oct. 29, 2018, which killed 189 people aboard a Lion Air jet in Indonesia, the FAA group that dealt with Mr. Forkner learned that MCAS might have played a role in the disaster. Another 737 MAX airliner crashed in Ethiopia on March 10, 2019, killing 157 people.</p><p>Mr. Forkner knew one of Boeing's key objectives was to secure FAA approval for a training package that wouldn't require MAX pilots to undergo simulator training, which would be costly to the manufacturer's airline customers, according to the indictment.</p><p>Mr. Forkner believed he would be blamed if Boeing suffered financially were regulators to require a greater amount of training, according to the indictment. Prosecutors cited a December 2014 email he allegedly wrote: \"It was Mark, yes Mark! Who cost Boeing tens of millions of dollars!\"</p><p>The Wall Street Journal has previously reported that Boeing had agreed to rebate Southwest Airlines Co. $1 million per MAX plane that required simulator training.</p>",
+  "published": "2021-10-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 1595,
+          "end": 1601
+        },
+        {
+          "start": 2155,
+          "end": 2161
+        },
+        {
+          "start": 4363,
+          "end": 4369
+        },
+        {
+          "start": 1299,
+          "end": 1305
+        },
+        {
+          "start": 3883,
+          "end": 3889
+        },
+        {
+          "start": 1921,
+          "end": 1927
+        },
+        {
+          "start": 3270,
+          "end": 3276
+        },
+        {
+          "start": 1091,
+          "end": 1097
+        },
+        {
+          "start": 4453,
+          "end": 4459
+        },
+        {
+          "start": 4156,
+          "end": 4162
+        },
+        {
+          "start": 312,
+          "end": 318
+        },
+        {
+          "start": 578,
+          "end": 584
+        },
+        {
+          "start": 2542,
+          "end": 2548
+        },
+        {
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

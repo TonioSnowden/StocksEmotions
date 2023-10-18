@@ -1,0 +1,28 @@
+{
+  "_id": "0ffe02fd5d08484c9ae63c65760d1ffa7e50a7151baba24d5cc1df17ed2342f3",
+  "feed": "ftcomall",
+  "title": "US and UK agencies say Iran is behind ‘ongoing' ransomware campaign",
+  "text": "<p>US and UK authorities have said Iran is conducting an “ongoing” campaign of ransomware and other cyber attacks on US critical infrastructure and Australian organisations that began in March. </p> <p>In a <a href=\"https://us-cert.cisa.gov/ncas/alerts/aa21-321a\">joint statement</a>, the FBI and the Cybersecurity and Infrastructure Security Agency together with the UK and Australian cyber security centres said that Iranian government-sponsored hackers had been “actively targeting a broad range of victims across multiple US critical infrastructure sectors, including the transportation sector and the healthcare and public health sector”.&#xa0;</p> <p>The hackers have been exploiting a bug in software from security group Fortinet and a flaw in Microsoft email software that was first discovered by Chinese hackers to deploy ransomware, steal data, or extort victims, the agencies said.</p> <p>The Iranian activity included successfully breaching a US municipal government and US hospital specialising in healthcare for children in May and June respectively, according to the joint statement. </p> <p>The use of <a href=\"https://www.ft.com/content/c8c7630f-86f8-453f-a664-3fb5401bcb2a\">ransomware</a> by <a href=\"https://www.ft.com/content/6a923d10-f16f-43f5-9ab2-907b5d5f87eb\">Iran</a> — in which hackers lock up an organisation's computer systems or data, agreeing to release it only if a ransom is paid — marks a notable shift. Much of the proliferation of ransomware activity to date has been blamed on Russian criminal groups, prompting a <a href=\"https://www.ft.com/content/0d8a0047-6ecf-410c-98e2-f9bc89e9382e\">recent crackdown</a> by US president Joe Biden's administration. </p> <p>Microsoft said in a separate <a href=\"https://www.microsoft.com/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021/?ranMID=24542&amp;ranEAID=TnL5HPStwNw&amp;ranSiteID=TnL5HPStwNw-6LxKDlwD5aswmeHzV6aeNw&amp;epi=TnL5HPStwNw-6LxKDlwD5aswmeHzV6aeNw&amp;irgwc=1&amp;OCID=AID2200057_aff_7593_1243925&amp;tduid=%28ir__kvljpip60okf6ygeyqg2uahdav2xo36rtazxqiex00%29%287593%29%281243925%29%28TnL5HPStwNw-6LxKDlwD5aswmeHzV6aeNw%29%28%29&amp;irclickid=_kvljpip60okf6ygeyqg2uahdav2xo36rtazxqiex00\">blog post</a> on Tuesday that Iranian nation-state actors were “increasingly utilising ransomware to either collect funds or disrupt their targets” and that they had become “more patient and persistent while engaging with their targets”. </p> <p>The company said it had identified six Iranian threat groups deploying ransomware in waves every six to eight weeks on average since September last year.</p> <p>The groups typically used social engineering to trick victims into clicking on malicious links, Microsoft added, with one using fake Google Meet video conference invites and “continuously pestering” victims to click on them. Another group would masquerade as attractive women on social media to build up trust with a target, before sending them malicious files, the company said. </p> <p>The report comes as the US seeks to re-enter a 2015 multilateral pact that had constrained Iran's nuclear programme in exchange for sanctions relief. Since Donald Trump withdrew the US from the pact in 2018, Tehran has accelerated its nuclear programme and a UN watchdog said it could have enough nuclear material for a bomb within a few months.</p> <p>Rob Malley, US special envoy for Iran who is leading the US delegation, is in the Middle East this week to discuss approaches to Iran with US regional allies, including the UAE, Israel, Saudi Arabia and Bahrain. A seventh round of indirect talks with the US is due to take place in <a href=\"https://www.ft.com/content/5b47fbd4-3eb9-4076-9ef1-f1252da24e3c\">Vienna</a> later this month, the first since a hardline government was elected in Iran.</p> <p>“Iran is quickly ratcheting up its leverage through nuclear advancements, upping the ante in the cyber realm and flexing its muscles in the region ahead of the nuclear talks' resumption to extract more concessions from the United States,” said Ali Vaez, Iran director at the International Crisis Group. “It's a multidimensional game of brinkmanship.” </p> <p>A state department spokesperson said: “We have a range of concerns with Iran, including their cyber attacks. We believe that the best way to address our nuclear concerns is diplomacy and a rapid mutual return to full compliance with the [Joint Comprehensive Plan of Action].&#xa0;We have other tools to deal with other issues, as today's action demonstrates.”</p><p>Source: Hannah Murphy in San Francisco and Katrina Manson in Washington  2021 'US and UK agencies say Iran is behind ‘ongoing' ransomware campaign' FT.com 18 November. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-11-18T03:29:29.044Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 667,
+          "end": 676
+        },
+        {
+          "start": 1869,
+          "end": 1878
+        },
+        {
+          "start": 1356,
+          "end": 1365
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

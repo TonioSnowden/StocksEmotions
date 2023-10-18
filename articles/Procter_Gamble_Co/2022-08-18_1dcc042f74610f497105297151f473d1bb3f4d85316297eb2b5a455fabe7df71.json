@@ -1,0 +1,30 @@
+{
+  "_id": "1dcc042f74610f497105297151f473d1bb3f4d85316297eb2b5a455fabe7df71",
+  "feed": "wall-street-journal",
+  "title": "Business News:  'Widely Recyclable'  Packaging Drives  Debate on Access  ----  By Saabira Chaudhuri",
+  "text": "<p>   Companies are set to start labeling plastic packaging commonly used for yogurt, cottage cheese and butter as \"widely recyclable,\" sparking opposition from some environmental groups that say the change risks misleading consumers. </p><p>   A labeling program founded by plastics makers such as Exxon Mobil Corp. and consumer products companies including Procter &amp; Gamble Co. and Nestle SA said in July that packaging made from polypropylene was now eligible to be marketed as \"widely recyclable.\" </p><p>   The program, How2Recycle, said it made the change after data showed that more than 60% of consumers in the U.S. -- the threshold required under federal rules to make the claim -- are now allowed to put polypropylene tubs, bottles, jugs and jars in their recycling bins. </p><p>   Environmental groups say access figures are less than half what the industry is claiming. They also say figures on access to recycling facilities are a poor representation of recycling rates in practice, since they simply measure what is eligible to be collected. </p><p>   Polypropylene packaging -- one of the most widely used for consumer products -- had a U.S. recycling rate of 2.7% in 2018, according to most recently available data from the Environmental Protection Agency. </p><p>   The clash is emblematic of wider inconsistencies across the U.S. over how recycling is measured and communicated to consumers. One nonprofit found at least 18 ways in which recycling is defined by states, while America's roughly 9,800 municipal curbside recycling programs make their own decisions about what materials to accept, often confusing consumers. </p><p>   There are no federal requirements on recycling rates. A spokeswoman for the EPA said some states measure recycling by counting what is diverted from landfills, while some don't calculate a recycling rate at all. </p><p>   The EPA last year said it plans to develop national recycling definitions and measures to help raise recycling rates. A May report from the Energy Department showed a recycling rate of just 5% for plastics, which environmentalists say is driven by the complexity of materials, making them difficult to recycle, and a lack of ready buyers. </p><p>   Currently, recycling labels on packaging must comply with Federal Trade Commission requirements outlined in the agency's Green Guides, which explain how marketers can avoid misleading consumers when making environmental claims. How2Recycle says its labels, voluntarily adopted by 400 member companies from Gap Inc. to Wendy's Co. to Anheuser-Busch InBev SA, follow those guides. </p><p>   Waste-reduction nonprofits say the guides leave too much open to interpretation. The FTC's rules on claims like widely recyclable includes \"a very generous definition that allows companies to make such claims, even when the actual recycling rate of their material is very low,\" said Susan Collins, president of the Container Recycling Institute, a nonprofit. The FTC also doesn't routinely verify claims about collection, sorting and recycling, she added. </p><p>   The FTC brings court actions against marketers that it believes make deceptive claims, but doesn't preapprove claims or routinely seek to substantiate them outside of investigations and enforcement actions, a spokesman said. The agency is reviewing its Green Guides this year and plans to solicit opinions on how consumer understanding of environmental benefit claims may have changed, he added. </p><p>   Even if polypropylene packaging's recycling rate has increased since the EPA last published this data, most still isn't being made into new items, said Jan Dell, founder of the Last Beach Cleanup, a nonprofit. As such, polypropylene shouldn't be labeled as widely recyclable, and doing so without ascertaining whether the material would actually be recycled violates FTC rules on deceptive marketing, she added. </p><p>   Ms. Dell said Last Beach Cleanup's calculations show that only 28% of Americans have access to recycling systems that accept polypropylene tubs. </p><p>   How2Recycle said data provided by the Recycling Partnership, a plastics and consumer-goods industry-backed group, showed the U.S. polypropylene access rate at 65%. </p><p></p>",
+  "published": "2022-08-18T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "nexusId": "10044575",
+      "name": "The Procter & Gamble Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 343,
+          "end": 363
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0627419,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.062741876,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

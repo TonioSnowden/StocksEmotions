@@ -1,0 +1,40 @@
+{
+  "_id": "3789d24e20203b1de5c6b81a9d32cffa3aed1eb459b449e2348f397f2b695933",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Drugmaker Sees  No Causal Link  ----  By Peter Loftus",
+  "text": "<p>    Johnson &amp; Johnson said there wasn't enough evidence to establish that the company's Covid-19 vaccine causes the rare blood-clotting condition that prompted U.S. health officials this week to recommend a pause in its use. </p><p>   The New England Journal of Medicine published online a letter from three J&amp;J employees involved in vaccine development and epidemiology saying, \"At this time, evidence is insufficient to establish a causal relationship between these events\" and J&amp;J's vaccine. </p><p>   U.S. health authorities this week recommended a pause in vaccinations using J&amp;J's single-dose vaccine while they investigated six cases of a rare blood clot, combined with low blood-platelet counts, in women who had received the J&amp;J vaccine. One of the women died. </p><p>   The pause is expected to remain in place at least until a federal vaccine-advisory committee meets April 23 to review the matter. </p><p>   Authorities in several countries have restricted use of J&amp;J's vaccine, and a shot from AstraZeneca PLC and the University of Oxford that uses a similar technology, after receiving reports of people getting blood clots following vaccinations. </p><p></p>",
+  "published": "2021-04-17T06:14:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 17
+        },
+        {
+          "start": 294,
+          "end": 297
+        },
+        {
+          "start": 557,
+          "end": 560
+        },
+        {
+          "start": 932,
+          "end": 935
+        },
+        {
+          "start": 466,
+          "end": 469
+        },
+        {
+          "start": 710,
+          "end": 713
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "19c894b79abc9a4e1f9d702149f2be57999869be74f7219c19f20a17b827ca6e",
+  "feed": "wall-street-journal",
+  "title": "European Cloud Restrictions Could Limit U.S. Providers' Reach; Certain high-risk data should only be stored in the EU and be accessed by employees in an EU country, a recent draft for a new certification system said",
+  "text": "<p>A recent draft circulated among European officials specified that security restrictions should \"prevent and limit possible interference from states outside the EU,\" according to a document viewed by WSJ Pro Cybersecurity. Certain high-risk data should only be stored in the EU, accessed by employees who have gone through screening and are located in an EU country, and be subject to contracts governed by European law, the document says.</p><p>The EU system would be voluntary, but corporate technology experts worry that a separate coming law governing cybersecurity for critical infrastructure providers could be used to require some sectors to use only cloud providers that meet the high-level EU certification. Under that law, individual EU countries could decide to require the certification for critical data within their jurisdiction, potentially leading to a complex \"regulatory hodgepodge\" where multinational firms follow the rules in some parts of Europe and not in others, said Steven Heckler, deputy head of digitalization and innovation policy at the Federation of German Industries, a trade group representing a range of industrial sectors.</p><p>The draft document doesn't specify which tech companies or services would be considered high-risk.</p><p>The draft \"sounds very protectionist in its approach and not conducive to addressing the actual cybersecurity issue,\" said Thomas Boué, director general for European policy at BSA, a lobby group that represents Microsoft, Salesforce and other tech firms.</p><p>The proposed requirements still must be approved by EU countries and could change before enacted. A spokesman for Enisa, the EU cybersecurity agency that drafted the document, said the blueprint is in its final stages. He declined to comment on specific measures.</p><p>\"There might be reasons why some companies or end users might want to have specific cloud offerings in a specific domicile, but we don't think that should be something the government is deciding for them,\" said Rob Strayer, executive vice president of policy at the Information Technology Industry Council, a technology trade group whose members include Google, Amazon and Microsoft.</p><p>Google and Microsoft declined to comment on the draft certification requirements. Amazon didn't immediately respond to a request for comment.</p><p>Domestic cloud security rules in France were updated this year to include new restrictions for essential data, such as requiring cloud providers to store and process data in the EU, be headquartered in the union and have no more than 39% of voting shareholders located outside the 27-country bloc. Microsoft, Amazon and Google aren't qualified for the certification to host essential data in France. If enacted, the proposed EU system would replace the French requirements.</p><p>Spurred by recent European policy changes requiring personal data to be stored in the EU, and a push for increased independence from non-European companies, major American cloud providers have launched partnerships with European firms. Google said last October that it would start a cloud service with French tech and aerospace firm Thales SA that would be a new company established under French law. The company isn't operational yet. Microsoft said last May that it is starting a company called Bleu, with French consulting firm Capgemini SE and telecoms carrier Orange.</p><p>French drugmaker Laboratoires Servier uses Google and Microsoft cloud services to host some of its data, as well as European providers that are certified under the French security rules to store more sensitive information, said Chief Information Security Officer Stéphane Tournadre.</p><p>Microsoft and Google offer additional services that help the pharmaceutical company with tech productivity and analysis using artificial intelligence, but sensitive data is stored with other providers, Mr. Tournadre said.</p><p>The French security certification helps Servier prove to healthcare professionals and consumers that it handles sensitive pharmaceutical and health data securely, he said. \"It's a business enabler,\" he said. \"It's good to bring confidence and it's good for the business.\"</p><p>Write to Catherine Stupp at Catherine.Stupp@wsj.com</p>",
+  "published": "2022-06-28T15:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3396,
+          "end": 3405
+        },
+        {
+          "start": 2142,
+          "end": 2151
+        },
+        {
+          "start": 2164,
+          "end": 2173
+        },
+        {
+          "start": 1461,
+          "end": 1470
+        },
+        {
+          "start": 2593,
+          "end": 2602
+        },
+        {
+          "start": 3205,
+          "end": 3214
+        },
+        {
+          "start": 3625,
+          "end": 3634
+        }
+      ]
+    }
+  ]
+}

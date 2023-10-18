@@ -1,0 +1,32 @@
+{
+  "_id": "1b3cdb51845d0f7d99c52d540f4fc832f1751f84606862bfd253312ef09b62b2",
+  "feed": "market-watch",
+  "title": "TSMC U.S. shares close just short of record after fab doubles down on capacity",
+  "text": "<p>Early Thursday, TSMC said it had budgeted $40 billion to $44 billion to increase its fab capacity amid a global chip shortage that has lasted for more than a year. That's double what the company pledged this time last year when it unveiled a $22 billion capital expenditure budget.</p><p>TSMC reported fourth-quarter revenue of $15.74 billion, a 24% jump from a year ago, as the company fills high demand for the silicon wafers that go into making semiconductors. The company forecast first-quarter revenue of $16.6 billion to $17.2 billion.</p><p>“Our fourth-quarter business was supported by strong demand for our industry leading 5-nanometer technology,” said Wendell Huang, TSMC chief financial officer, in a statement.</p><p>“Moving into first quarter 2022, we expect our business to be supported by HPC-related demand, continued recovery in the automotive segment, and a milder smartphone seasonality than in recent years,” Huang said.</p><p>TSMC supplies chip makers who do not have their own fabs like Nvidia Corp. NVDA, Advanced Micro Devices Inc. AMD, and Apple Inc. AAPL</p>",
+  "published": "2022-01-13T16:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1053,
+          "end": 1057
+        },
+        {
+          "start": 1042,
+          "end": 1047
+        },
+        {
+          "start": 1042,
+          "end": 1052
+        },
+        {
+          "start": 1042,
+          "end": 1051
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

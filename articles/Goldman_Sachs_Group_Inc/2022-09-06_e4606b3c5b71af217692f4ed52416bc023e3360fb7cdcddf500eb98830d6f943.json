@@ -1,0 +1,38 @@
+{
+  "_id": "e4606b3c5b71af217692f4ed52416bc023e3360fb7cdcddf500eb98830d6f943",
+  "feed": "market-watch",
+  "title": "Stocks close lower, Dow swings 400 points as Nasdaq sees longest losing streak in 6 years; Russell 2000 records longest losing streak since December 2018",
+  "text": "<p>What happened</p><p>* The Dow Jones Industrial Average DJIA retreated 173.14 points, or 0.6%, to close at 31,145.30.</p><p>* The S&amp;P 500 SPX fell 16.07 points, or 0.4%, ending at 3,908.19.</p><p>* The Nasdaq COMP finished at 11,544.90, down 85.96 points, or 0.7%.</p><p>Major stock indexes fell for a third straight week on Friday, with the Dow posting a 3% weekly decline, the S&amp;P 500 declining more than 3% and the Nasdaq Composite shedding 4.2%.</p><p>What drove markets</p><p>Lingering concerns about the economic fallout from a European energy crisis were again in focus on Tuesday, as was the Federal Reserve's determination to dampen inflation by aggressively hiking interest rates.</p><p>Meanwhile, rising Treasury yields and a stronger dollar were seen weighing particularly on the Nasdaq, which recorded its seventh consecutive day in the red —the longest losing streak for the tech-heavy index since Nov. 4, 2016, according to Dow Jones Market Data.</p><p>In One Chart: Bad news for stocks: Fed will be surprised how hard interest-rate hikes hit economy, says BlackRock</p><p>Market strategists pointed to myriad factors weighing on stocks, which have been sliding for more than three weeks now.</p><p>\"There's not a lot of demand for stocks right now, people are nervous. As for the causes, I think part of it is psychology, partly the strong dollar and partly higher bond yields — they're all part of the recipe here,\" said Steve Sosnick, chief strategist at Interactive Brokers.</p><p>The higher yields and stronger dollar were both particularly negative for megacap tech stocks like Apple Inc., AAPL Meta Platforms Inc. META and Amazon.com Inc. AMZN.</p><p>\"We've seen an inverse relationship between tech stocks and long-term bond yields based on the notion that tech stocks are the ultimate long-duration asset. As yields spike, it creates big headwinds for stocks in general, and the leading tech stocks in particular,\" Sosnick added.</p><p>Yields climbed across the Treasury curve BX:TMUBMUSD10Y, but long-dated bonds saw the biggest moves, with the 10-year yield up nearly 14 basis points at 3.337%. Meanwhile, the ICE U.S. Dollar Index DXYwas back above 110, right around its strongest level in two decades.</p><p>The Russell 2000 RUT, a closely watched index of small-cap stocks, dropped more than 17 points, or 0.9%, to 1,793.12, falling for a seventh-consecutive session — its longest losing streak since Dec. 24, 2018, according to Dow Jones Market Data.</p><p>Investors received some good news on the economic-data front, as the Institute for Supply Management said its services index rose to 56.9% in August from 56.7% in the prior month — the highest level since April. Economists polled by The Wall Street Journal had expected the index to drop to 55.5%. But it did little to help bail out stocks.</p><p>See: U.S. ISM services-sector index hits highest level in four months</p><p>As stocks fell, market strategists wondered whether the market was headed for a re-test of the June lows — especially considering September's status as historically the worst month of the year for markets.</p><p>\"Bulls hoping for a rebound will be doing so during a shortened Labor Day week that historically has paralleled September and its track record of underperformance: Losses have been slightly less frequent over the past three decades, but volatility has been higher,\" said Chris Larkin, managing director for trading at E-Trade from Morgan Stanley.</p><p>See: 'The psychology has changed so quickly': Why stock-market lows may be retested as S&amp;P 500 enters its weakest stretch of year</p><p>U.S. equities had initially bounced on Friday after the August nonfarm payrolls report was deemed not so strong that it would encourage the Fed to become even more aggressive in hiking interest rates.</p><p>But news later in the day that Russia would indefinitely shutdown the main gas pipeline to Europe, thereby adding to the chances of a sharp economic slowdown on the continent, pushed the S&amp;P 500 back toward its lowest level since late July. And those concerns continued to reverberate across markets on Tuesday, even as the new Prime Minister Liz Truss promised immediate relief for high energy bills in the U.K.</p><p>In other news, Goldman Sachs chief economist Jan Hatzius offered a cautiously optimistic note on the ability of the Federal Reserve to deliver a so-called soft landing of the U.S. economy, averting recession as it continues to raise interest rates and otherwise tighten monetary policy.</p><p>Companies in focus</p><p>* Shares of retailer Bed Bath &amp; Beyond Inc. BBBY lost more than 18% after the death of Chief Financial Officer Gustavo Arnal was ruled a suicide.</p><p>* ADT Inc. ADT shares jumped 16.4% after the home-security company confirmed that it had secured about $1.65 billion in new investments from insurer State Farm and Alphabet Inc.'s GOOG GOOGL Google to boost product innovation, marketing and customers.</p><p>* FedEx Corp. FDX shares fell 2.2% after Citi analyst Christian Wetherbee downgraded the package delivery company citing concerns over the pace of freight activity with upcoming data expected to \"skew negatively\" in the peak season. Wetherbee cut this rating to neutral from buy, and slashed his stock price target to $225 from $270.</p><p>* Signify Health Inc. SGFY shares rose 1.2% after the home-health provider announced over the long weekend an agreement to be acquired by CVS Health Corp. CVS in a deal valued at about $8 billion. CVS shares were off 0.7%.</p><p>Stocks close lower, Dow swings 400 points as Nasdaq sees longest losing streak in 6 years</p>",
+  "published": "2022-09-06T20:20:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 4119,
+          "end": 4132
+        },
+        {
+          "start": 4119,
+          "end": 4126
+        },
+        {
+          "start": 4096,
+          "end": 4109
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.1974739,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.8025261,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

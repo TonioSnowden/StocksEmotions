@@ -1,0 +1,20 @@
+{
+  "_id": "9bbd63c60e550169f89a7dd738cfb8532a910df6fd77ebdc96314c5d2a68964b",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>Silicon Valley's moves to eject Trump from social media represent a display of power the companies have avoided making for nearly four years. Now they must reckon with what comes next.</p><p>Apple and Amazon halted support for Parler, dealing a major blow to a social-media service that has soared in popularity among conservatives.</p><p>---</p><p>JPMorgan is pausing all corporate political-action-committee donations to Republicans and Democrats for six months after last week's riot at the Capitol.</p><p>---</p><p>White House officials pushed Atlanta's top federal prosecutor to resign before the Georgia runoffs because Trump was upset he wasn't doing enough to probe unproven claims of election fraud.</p><p>---</p><p>Authorities believe they have identified the location of the two black boxes of the Sriwijaya Air jet that crashed into the Java Sea, carrying 62 people.</p>",
+  "published": "2021-01-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 331,
+          "end": 339
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

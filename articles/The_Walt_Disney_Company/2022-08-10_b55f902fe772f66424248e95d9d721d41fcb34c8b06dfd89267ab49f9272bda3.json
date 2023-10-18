@@ -1,0 +1,86 @@
+{
+  "_id": "b55f902fe772f66424248e95d9d721d41fcb34c8b06dfd89267ab49f9272bda3",
+  "feed": "wall-street-journal",
+  "title": "Disney Earnings Seen Jumping on Rebound at Theme Parks; Flagship streaming business is projected to log increase of 10 million subscribers",
+  "text": "<p>Disney's theme parks business has experienced a dramatic turnaround since a year ago, when the parks had just reopened after a year of Covid-19 closures, although analysts expect profits to cool in the third quarter to just over $1 billion, down about one-third from the holiday quarter, when the division logged record profits.</p><p>Disney+, the company's flagship streaming service, is expected to report that it added 10 million net new subscribers in the quarter ending in June, according to the FactSet estimates.</p><p>Subscriber growth at Disney+ is a closely watched metric for the company, especially because Disney said in late 2020 that it would sign up a total of 230 million to 260 million users and achieve profitability for its streaming business by September 2024. Disney needs to add an average of more than 10 million subscribers a quarter in order to hit its target.</p><p>The direct-to-consumer streaming segment—which includes Disney+ as well as ESPN+ and Hulu—is expected to post revenue of $5.2 billion, a 21% increase from the same period a year ago. Losses at the streaming business, which so far have totaled more than $6 billion, are expected to widen to $765 million in the third quarter, compared with a $293 million loss in the year-earlier quarter.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook for Disney? Join the conversation below.</p><p>Wednesday's results will mark the first time Disney Chief Executive Bob Chapek will publicly address the investment community since having his contract renewed in late June. Disney's share price has risen 14% since the announcement—which keeps Mr. Chapek in the top role at the company through the end of 2024, or about two years beyond the expiration of his last deal—but the company's shares are down nearly 30% so far this year.</p><p>Some investors will be listening to see if Mr. Chapek resets expectations for the streaming business, which currently spends about $32 billion a year on original content and sports rights. Other top concerns include how he will steer the parks business through a potential economic downturn; the CEO's relationship with fans, employees and elected officials; and what is next for Disney's movie slate, especially from its Lucasfilm Ltd. division, which hasn't released a \"Star Wars\" movie since 2019.</p><p>Write to Robbie Whelan at robbie.whelan@wsj.com</p><p>Disney Earnings Seen Jumping on Rebound at Theme Parks</p>",
+  "published": "2022-08-10T16:02:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 328,
+          "end": 335
+        },
+        {
+          "start": 329,
+          "end": 336
+        },
+        {
+          "start": 533,
+          "end": 540
+        },
+        {
+          "start": 535,
+          "end": 542
+        },
+        {
+          "start": 605,
+          "end": 611
+        },
+        {
+          "start": 767,
+          "end": 773
+        },
+        {
+          "start": 927,
+          "end": 934
+        },
+        {
+          "start": 1302,
+          "end": 1308
+        },
+        {
+          "start": 1308,
+          "end": 1314
+        },
+        {
+          "start": 1382,
+          "end": 1388
+        },
+        {
+          "start": 1510,
+          "end": 1516
+        },
+        {
+          "start": 2146,
+          "end": 2152
+        },
+        {
+          "start": 2157,
+          "end": 2163
+        },
+        {
+          "start": 2326,
+          "end": 2332
+        }
+      ],
+      "weightsV2": {
+        "weight": 24.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

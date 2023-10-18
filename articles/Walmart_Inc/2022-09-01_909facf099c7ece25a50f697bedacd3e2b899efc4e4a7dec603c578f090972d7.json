@@ -1,0 +1,58 @@
+{
+  "_id": "909facf099c7ece25a50f697bedacd3e2b899efc4e4a7dec603c578f090972d7",
+  "feed": "wall-street-journal",
+  "title": "Business News: Walmart, Ranchers Team Up on Beef",
+  "text": "<p>Financial terms of Walmart's investment weren't disclosed. Walmart said it would have a seat on Sustainable Beef's board.</p><p>The partnership between Walmart and the North Platte, Neb., beef venture comes as some food retailers move to take greater control of the commodity-processing portion of their supply chains. Costco Wholesale Corp., for example, built its own poultry-processing plant in recent years to help provide the chain's signature $4.99 rotisserie chickens.</p><p>Walmart in 2018 opened its own milk-processing plant in Indiana, supplying more than 600 stores, and in 2020 the company opened a beef-processing plant in Georgia operated by FPL Food, supplying stores in the Southeastern U.S.</p><p>Prices for food and consumer products have been rising across grocery aisles. Since the onset of the Covid-19 pandemic, meatpacking companies said they couldn't process as many head of cattle as usual because their plants were short-staffed. That limited meat supplies and pushed prices higher while consumer demand grew, they said.</p><p>\"One of the things that we saw in the course of the last two years is, quite frankly, capacity is tight,\" said Tyler Lehr, a Walmart senior vice president. He said many U.S. grocers struggled to secure meat in 2020 after Covid-19 cases among plant workers cut into production and raised fears of shortages. Walmart will buy most of the beef produced by Sustainable Beef's facility, which will go to stores in the central U.S., said Mr. Lehr.</p><p>Sustainable Beef was founded by a group of cattle ranchers who have said their processing plant will boost competition -- and livestock prices -- in one of the country's top beef-producing regions by giving local producers another place to sell their cattle.</p><p>Ranchers, upset by years of low cattle prices despite the rise of wholesale beef prices over the course of the pandemic, have pushed along with the Biden administration to increase antitrust scrutiny on the beef industry. Four meatpackers process around 85% of U.S. cattle, according to the White House, which has promised funding for smaller, regional meat-processing plants, such as Sustainable Beef.</p><p>The plant is expected to employ about 800 people and could slaughter 1,500 head of cattle a day, according to its founders. Walmart said that with the help of its investment, Sustainable Beef plans to break ground in September and begin operations by late 2024.</p><p>Meatpacking industry executives and analysts have said building and staffing more large-scale processing plants will be difficult given the shortage of labor and rising building costs. Executives of meat companies have said that a heavy reliance on a network of small processors would increase meat prices and further complicate supply chains.</p><p>Walmart's investment in the beef venture gives the project the benefit of a reliable customer, said Sustainable Beef Chief Executive David Briggs. \"It's a huge plus,\" he said.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 19,
+          "end": 26
+        },
+        {
+          "start": 58,
+          "end": 65
+        },
+        {
+          "start": 144,
+          "end": 151
+        },
+        {
+          "start": 466,
+          "end": 473
+        },
+        {
+          "start": 1328,
+          "end": 1335
+        },
+        {
+          "start": 2244,
+          "end": 2251
+        },
+        {
+          "start": 2723,
+          "end": 2730
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.92514,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.92514026,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

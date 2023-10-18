@@ -1,0 +1,38 @@
+{
+  "_id": "56ccc30fa7bb2f2342ec0d77c4e7a3cf5c91a25c13bf7074fb4a9860ac3fdf9e",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance:  3M Unit Defends Bid  To Shield Its Parent  ----  By Akiko Matsuda",
+  "text": "<p>   Lawyers representing 3M Co.'s bankrupt Aearo Technologies LLC subsidiary defended its request to a bankruptcy judge to extend a litigation stay to the parent company to resolve mass earplug lawsuits, saying such a move would be in line with other court rulings. </p><p>   Aearo Technologies lawyer Chad Husnick on Wednesday said before Judge Jeffrey Graham of the U.S. Bankruptcy Court in Indianapolis that even though 3M itself didn't file for bankruptcy, it also should be shielded from the 230,000 pending lawsuits that alleged 3M's military earplugs were defective. Without the protection, Mr. Husnick said, mass lawsuits would continue against 3M in the U.S. District Court in Pensacola, Fla., and would complicate Aearo's restructuring. </p><p>   \"Without this requested relief, we will have continued chaos with no focus,\" Mr. Husnick said, referring to multiple motions filed with the district court by personal-injury lawyers suing 3M since Aearo's bankruptcy filing last month. Those lawyers wanted the district judge to stop 3M's plan to shift the pending earplug lawsuits to the bankruptcy court, but the judge rejected their requests and instead will allow a bankruptcy court to decide whether to shield 3M from ongoing litigation. </p><p>   Mr. Husnick said Aearo's request to extend a litigation stay to its parent company was in line with recent rulings, including the one by Judge Michael Kaplan of the U.S. Bankruptcy Court in Trenton, N.J., that has allowed an automatic-stay extension to Johnson &amp; Johnson in its subsidiary LTL Management LLC's chapter 11 to resolve talc-related mass lawsuits against J&amp;J. </p><p>   Mr. Husnick said Aearo's request was even more legitimate because the 3M subsidiary is an \"organic structure\" that has been in existence for many years, while in some earlier cases, companies used a merger strategy known as the Texas Two-Step. \"We're not a Texas Two-Step,\" Mr. Husnick said. \"This is not a sham transaction.\" </p><p>   Under agreements signed between Aearo and 3M, the parent company has committed to pay $240 million to fund Aearo's reorganization process and an unlimited amount toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug lawsuits. </p><p>   Judge Graham concluded the three-day hearing and said he would issue his ruling in writing in the coming weeks. </p><p></p>",
+  "published": "2022-08-19T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1587,
+          "end": 1590
+        },
+        {
+          "start": 1478,
+          "end": 1495
+        },
+        {
+          "start": 1473,
+          "end": 1490
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.000001,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 8.34465e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

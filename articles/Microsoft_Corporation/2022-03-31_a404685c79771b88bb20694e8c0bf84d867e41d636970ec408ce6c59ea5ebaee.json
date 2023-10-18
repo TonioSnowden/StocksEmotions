@@ -1,0 +1,34 @@
+{
+  "_id": "a404685c79771b88bb20694e8c0bf84d867e41d636970ec408ce6c59ea5ebaee",
+  "feed": "reuters",
+  "title": "Exclusive-U.S. warned firms about Russia's Kaspersky software day after invasion -sources",
+  "text": "<p>President Joe Biden said last week that sanctions imposed on Russia for its Feb. 24 attack on Ukraine could result in a backlash, including cyber disruptions, but the White House did not offer specifics.</p><p>\"The risk calculation has changed with the Ukraine conflict,\" said the senior U.S. official about Kaspersky 's software. \"It has increased.\"</p><p>Kaspersky , one of the cybersecurity industry's most popular anti-virus software makers, is headquartered in Moscow and was founded by Eugene Kaspersky , who U.S. officials describe as a former Russian intelligence officer.</p><p>A Kaspersky spokeswoman said in a statement that the briefings about purported risks of Kaspersky software would be \"further damaging\" to Kaspersky 's reputation \"without giving the company the opportunity to respond directly to such concerns\" and that it \"is not appropriate or just.\"</p><p>The senior U.S. official said Kaspersky 's Russia-based staff could be coerced into providing or helping establish remote access into their customers' computers by Russian law enforcement or intelligence agencies.</p><p>Eugene Kaspersky , according to his company website, graduated from the Institute of Cryptography, Telecommunications and Computer Science, which the Soviet KGB previously administered. The company spokeswoman said that Kaspersky worked as a \"software engineer\" during military service.</p><p>The Russian cybersecurity firm, which has an office in the United States, lists partnerships with Microsoft , Intel and IBM on its website. Microsoft declined to comment. Intel and IBM did not respond to requests for comment.</p><p>On March 25, the Federal Communications Commission added Kaspersky to its list of communications equipment and service providers deemed threats to U.S. national security.</p><p>It is not the first time Washington has said Kaspersky could be influenced by the Kremlin.</p><p>The Trump administration spent months banning Kaspersky from government systems and warning numerous companies to not use the software in 2017 and 2018.</p><p>U.S. security agencies conducted a series of similar cybersecurity briefings surrounding the Trump ban. The content of those meetings four years ago was comparable to the new briefings, said one of the people familiar with the matter.</p><p>Over the years, Kaspersky has consistently denied wrongdoing or any secret partnership with Russian intelligence.</p><p>It is unclear whether a specific incident or piece of new intelligence led to the security briefings. The senior official declined to comment on classified information.</p><p>Until now no U.S. or allied intelligence agency has ever offered direct, public proof of a backdoor in Kaspersky software.</p><p>Following the Trump decision, Kaspersky opened a series of transparency centers, where it says partners can review its code to check for malicious activity. A company blog post at the time explained the goal was to build trust with customers after the U.S. accusations.</p><p>But the U.S. official said the transparency centers are not \"even a fig leaf\" because they do not address the U.S. government 's concern.</p><p>\"Moscow software engineers handle the [software] updates, that's where the risk comes,\" they said. \"They can send malicious commands through the updaters and that comes from Russia.\"</p><p>Cybersecurity experts say that because of how anti-virus software normally functions on computers where it is installed, it requires a deep level of control to discovery malware. This makes anti-virus software an inherently advantageous channel to conduct espionage.</p><p>In addition, Kaspersky 's products are also sometimes sold under white label sales agreements. This means the software can be packaged and renamed in commercial deals by information technology contractors, making their origin difficult to immediately determine.</p><p>While not referring to Kaspersky by name, Britain's cybersecurity center on Tuesday said organizations providing services related to Ukraine or critical infrastructure should reconsider the risk associated with using Russian computer technology in their supply chains.</p><p>\"We have no evidence that the Russian state intends to suborn Russian commercial products and services to cause damage to UK interests, but the absence of evidence is not evidence of absence,\" the National Cyber Security Centre said in a blog post.</p>",
+  "published": "2022-03-31T22:05:10.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 1496,
+          "end": 1505
+        },
+        {
+          "start": 1454,
+          "end": 1463
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.000001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 9.536743e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

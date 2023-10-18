@@ -1,0 +1,34 @@
+{
+  "_id": "e153f7216106410e11258b2a91551080fda3243073c16d994e9637a93d369f5d",
+  "feed": "wall-street-journal",
+  "title": "Apple AirPods Pro Second-Generation: Same Look, Smart Improvements; The new AirPods Pro have better active noise cancellation and longer battery life, among other updates",
+  "text": "<p>What features do you want to see in Apple's AirPods? Join the conversation below.</p><p>Apple Event Live Updates</p><p>Phone 14 Plus, New AirPods Pro, Apple Watch Ultra: Everything Revealed at the Sept. 7 Apple Event</p><p>It's right on time: My pair isn't staying powered as long as it used to, because like all gadgets powered by lithium ion, battery life decays over time. And AirPod batteries can't be replaced.</p><p>The just-announced second-generation AirPods Pro—available Sept. 23 for $249—don't look different. They have the same bud-and-stem shape and silicone ear tips as the previous ones, but they do improve on the 2019 original in a few ways.</p><p>Apple says the active noise cancellation is twice as good, and there's better sound quality. Sliding your finger along the stem controls volume—no more pulling out your phone or calling on Siri. There are now extra-small tips for people with more compact ear canals. The sound-passthrough Transparency feature (aka \"Don't get hit by a bus\" mode) can now reduce environmental noise, such as a siren or construction site, as you pass by.</p><p>The most significant update is the increased battery time: six hours of listening, up from 4.5 hours. It won't last a full workday, but at least you'll be covered for a cross-country flight. And with the charging case, users now get up to 30 hours total listening time, up from 24 hours.</p><p>As someone who's constantly losing track of their AirPods, I'm most excited about the case. It comes with AirTag-like Precision Finding, which means you can use a recent-model iPhone to get directions to the case when it is stuck between couch cushions. It also has a built-in speaker to alert you to its location. An included lanyard loop lets you hang your case off a backpack or other stuff. And you can charge the case using an Apple Watch charger or MagSafe.</p><p>For now, we're still stuck with the same AirPods Pro stems—no sleeker design appeared today. The new Pro buds can block more noise and are more findable than before, but they still might go flying when you take off your sweater.</p><p>Maybe the next version will be sweater-proof, and come with a bevy of health sensors, as reported by my colleague Rolfe Winkler.</p><p>AirPods Pro aren't the only wireless noise-canceling option. I also like Jabra's Elite 7 Pro ($200), Sony's WF-1000XM4 ($279), the Apple-made Beats Studio Buds, which are lighter on the wallet at $150, and the Beats Fit Pro ($200), which have a wingtip for a more secure, sporty fit. I'm looking forward to comparing the new AirPods Pro with these in a coming review.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p><p>Apple AirPods Pro Second-Generation: Same Look, Smart Improvements</p>",
+  "published": "2022-09-07T23:01:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 36,
+          "end": 41
+        },
+        {
+          "start": 629,
+          "end": 634
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.821919,
+        "baseWeight": 2.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8219191,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

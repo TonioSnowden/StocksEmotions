@@ -1,0 +1,28 @@
+{
+  "_id": "24c68aaa8061123aeb3e0f48fc6d846afbd07cf70e4d963643c6e6e2ea6270e1",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: France Fines Google, Facebook for Privacy Violations",
+  "text": "<p>We've been reporting on the growing tension among regulators over how to enforce GDPR, and complaints that cases against Big Tech take too long to investigate under that law, leaving consumers with privacy beefs without resolution.</p><p>More on what France did to move quickly, below.</p><p>Your Firewall May Be Your Downfall</p><p>The pandemic may have weakened global supply chains, but there's no shortage of DDoS attacks. In fact, without taking these countermeasures, your connectivity supply chain may be at risk.</p><p>Read More</p><p>Facebook and Google required several steps to opt out of cookies, leading users to accept the technology because doing so required just one click, said France's data-protection regulator, the CNIL. The regulator gave the companies three months to create a solution for rejecting cookies that is as simple as the button to accept them.</p><p>Facebook's parent, Meta, is reviewing CNIL's decision and remains committed to working with regulators, a representative said, adding, \"Our cookie consent controls provide people with greater control over their data, including a new settings menu on Facebook and Instagram where people can revisit and manage their decisions at any time, and we continue to develop and improve these controls.\"</p><p>France's application of a 2002 law, called the ePrivacy directive, in this case allowed the regulator to avoid negotiating with its counterparts in other countries.</p><p>Under the ePrivacy rules, a regulator in one of the 27 EU countries can fine any company that does business in its jurisdiction. Under the GDPR, a regulator can fine only companies that have their European headquarters in that country.</p><p>If a GDPR case affects people in more than one EU nation, the regulator overseeing it must submit a draft decision to their counterparts in other countries. If other regulators raise objections to the penalty, they can trigger a dispute-resolution process, giving them more time to deliberate.</p><p>By choosing to fine Google and Facebook under the ePrivacy law, the French regulator avoided the frustrations of the GDPR's power-sharing system, said Rafi Azim-Khan, partner and head of the data-privacy practice in the London office of law firm Pillsbury Winthrop Shaw Pittman LLP.</p><p>A representative for Google didn't immediately respond to a request for comment.</p><p>Read the full story.</p><p>More Cyber News</p><p>China took action against Walmart. A media outlet backed by China's market regulator reported that the police in the southern Chinese city of Shenzhen cited Walmart for allegedly violating the country's cybersecurity law. Police had found 19 vulnerabilities in the retailer's network systems in November, and the company was slow to fix the loopholes, China Quality News reported, citing people familiar with the matter. Walmart had no immediate comment. (WSJ)</p><p>Transportation sector risk: Sens. Jacky Rosen (D., Nev.), pictured, and Roger Wicker (R., Miss.) in a letter to the departments of Homeland Security and Transportation asked for details on their processes to detect, prevent and respond to cyber threats related to the transportation sector. The lawmakers also want clarity in how the departments divide duties and avoid gaps and overlap as they jointly oversee transportation as critical infrastructure.</p><p>Crypto crime hit a record in 2021. About $14 billion in cryptocurrency went to accounts associated with criminal activity last year, said blockchain analysis company Chainalysis. That is a record amount and up from $7.8 billion in 2020. Still, it represents a small share of the trillions of dollars in crypto transactions last year, Chainalysis said. (WSJ)</p><p>Privacy</p><p>Email attack on medical-data company affects more than 30 healthcare groups. Alpharetta, Ga.-based Ciox Health disclosed an email compromise that potentially exposed patient data at 32 hospitals and care providers. An employee's email account was penetrated between June 24 and July 2, Ciox said, adding that it learned in September that the employee's messages and attachments contained patient information. The company notified the 32 customers in November and December and started to work with them on Dec. 30 to notify individual patients of the incident. Healthcare systems in Florida, Tennessee, New York and 17 other states are affected. (Becker's Hospital Review)</p><p>Online pharmacy Ravkoo breached. An Amazon AWS cloud server that hosts Ravkoo's prescription portal was hit by hackers in September, the Tampa, Fla.-based company said in a notice on its website dated Jan. 3 and signed by Chief Executive Alpesh Patel. The intrusion could have exposed \"certain prescription and health information,\" the notice said. Identification details as well as medication and health information are at risk for 105,000 customers, according to a notice filed with Maine's attorney general.</p><p>Weekend Reading</p><p>Come the Metaverse, Can Privacy Exist?</p><p>European Privacy and Antitrust Regulators Join Forces on Corporate Data</p><p>Companies Face Stricter Cyber Rules in 2022</p>",
+  "published": "2022-01-07T18:20:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 2495,
+          "end": 2502
+        },
+        {
+          "start": 2759,
+          "end": 2766
+        },
+        {
+          "start": 2364,
+          "end": 2371
+        }
+      ],
+      "nexusId": "10042309"
+    }
+  ]
+}

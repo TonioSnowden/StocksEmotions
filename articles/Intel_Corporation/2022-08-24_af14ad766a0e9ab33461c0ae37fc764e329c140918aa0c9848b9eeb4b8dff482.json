@@ -1,0 +1,30 @@
+{
+  "_id": "af14ad766a0e9ab33461c0ae37fc764e329c140918aa0c9848b9eeb4b8dff482",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>---</p><p>A whistleblower complaint by Twitter 's former head of security alleging widespread mismanagement spurred new scrutiny of the social-media company, adding to its challenges as it prepares for its legal battle with Musk.</p><p>---</p><p>Intel struck an unusual $30 billion funding partnership with Brookfield to help the chip maker finance its factory-expansion ambitions.</p><p>---</p><p>Business activity in the U.S., Europe and Japan fell in August, according to new surveys, pointing to a sharp slowdown in global economic growth.</p><p>---</p><p>U.S. stocks edged lower, with the S&amp;P 500 and Dow retreating 0.2% and 0.5%, respectively. The Nasdaq slipped less than 0.1%.</p><p>---</p><p>Macy's and Nordstrom became the latest retailers to lower their financial guidance for the year, citing risks of a steeper economic downturn.</p><p>---</p><p>Bed Bath &amp; Beyond has found a financing source to shore up its liquidity, according to people familiar with the matter.</p>",
+  "published": "2022-08-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 228,
+          "end": 233
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.1855859,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.18558586,
+        "titleWeight": 0.0
+      },
+      "typeRank": 19
+    }
+  ]
+}

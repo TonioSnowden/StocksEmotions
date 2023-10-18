@@ -1,0 +1,30 @@
+{
+  "_id": "07a97103ef17aaab47cbdc364f58873535a36279cc4b4d6f3a831aa8af254acc",
+  "feed": "wall-street-journal",
+  "title": "What's News --  Business & Finance",
+  "text": "<p>    Walmart and Home Depot reported stronger revenue, signs that Americans are spending even as they pay more for fewer products and are shifting their purchases to mitigate the effects of inflation. </p><p>   --- </p><p>   Southwestern cotton growers are abandoning millions of parched acres they planted in spring, prompting forecasts for the weakest U.S. harvest in more than a decade and sending prices sharply higher. </p><p>   --- </p><p>    Amazon is accusing the FTC of making excessive and unreasonable demands on founder Bezos and company executives as the agency probes Amazon's Prime membership program. </p><p>   --- </p><p>    A Commerce Department-led process that reviews U.S. tech exports to China approves almost all requests and has overseen an increase in sales of some particularly important technologies, according to an analysis of trade data. </p><p>   --- </p><p>    American Airlines agreed to buy 20 planes from aerospace startup Boom Supersonic, betting on the future of an ultrafast aircraft that is still years away. </p><p>   --- </p><p>    The S&amp;P 500 and Dow posted gains of 0.2% and 0.7%, respectively, while the Nasdaq fell 0.2%. </p><p>   --- </p><p>    China's Tencent  is looking to sell most or all of its stake in food-delivery company Meituan, people familiar with the matter said. </p><p>   --- </p><p>    Natural-gas prices in Europe closed at a record, with hot summer weather boosting fuel demand and Russia throttling back supplies. </p><p></p>",
+  "published": "2022-08-17T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9024999,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

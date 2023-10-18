@@ -1,0 +1,24 @@
+{
+  "_id": "8d69bbbda112031a6d530e04aae84da73de5e3911accbd023a0688e2cdf8665f",
+  "feed": "wall-street-journal",
+  "title": "EU Vote Freezes Out Lightning Charger",
+  "text": "<p>The European Parliament on Tuesday voted to approve the new rules, which aim to force companies that sell portable electronic devices in the EU to ensure they are equipped with a USB-C charging port, technology that is commonly used in new laptop computers and Android phones. The aim is to have a common standard that would allow consumers to use the same cable to charge all their portable electronic devices.</p><p>\"The common charger will finally become a reality in Europe,\" said Alex Agius Saliba, a member of the Parliament from Malta. He said the new rules \"will benefit everyone -- from frustrated consumers to our vulnerable environment.\"</p><p>The EU legislation is a blow to Apple, which uses its Lightning ports on new iPhones. Replacement chargers for iPhones tend to be more expensive than USB-C cables.</p><p>Apple has said the law would harm innovation and inconvenience users.</p>",
+  "published": "2022-10-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 675,
+          "end": 680
+        },
+        {
+          "start": 807,
+          "end": 812
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

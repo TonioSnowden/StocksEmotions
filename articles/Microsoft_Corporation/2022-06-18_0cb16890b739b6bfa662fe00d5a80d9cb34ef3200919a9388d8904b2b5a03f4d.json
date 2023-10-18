@@ -1,0 +1,24 @@
+{
+  "_id": "0cb16890b739b6bfa662fe00d5a80d9cb34ef3200919a9388d8904b2b5a03f4d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: TikTok User Data Is Routed to Oracle",
+  "text": "<p>\"We know we are among the most scrutinized platforms from a security standpoint, and we aim to remove any doubt about the security of U.S. user data,\" Albert Calamug, who is responsible for TikTok's U.S. policy, said in a blog post Friday.</p><p>TikTok also said it would be working with Oracle to develop protocols for how data is accessed and managed. Oracle will audit compliance with those protocols.</p><p>TikTok has been trying to calm concerns that its Chinese parent or even the Chinese government could gain access to the huge amounts of data it has on Americans and other users.</p><p>Placing more of that data on servers in the U.S. with a U.S. company won't be enough for many critics, as the physical location of data doesn't mean it is protected as long as others can have access, said Ray Wang, founder of Silicon Valley-based Constellation Research Inc., which advises organizations on cloud usage and other technology.</p><p>\"Even if the data is held only in U.S. servers, it doesn't mean that outsiders don't have access,\" he said. \"If these systems are intercommunicating with each other, and it happens to be a Chinese connection, how do you keep that separate? What are they doing to keep them separate?\"</p><p>In 2020, the issue of Chinese access to U.S. user data came to the forefront of the discussion surrounding TikTok. Then-President Donald Trump threatened to ban the app on national-security grounds. A host of U.S. companies swooped in with offers to buy the platform, promising to protect the data of U.S. users.</p><p>Microsoft Corp. was an early suitor to acquire the app, but the deal soon hit snags when it became apparent that ByteDance wouldn't share the app's core algorithm, the powerful program which helps match content to consumers.</p><p>Soon afterward, Oracle, along with Walmart Inc., won a bid to acquire TikTok's U.S. operations. Acquisition plans, however, were shelved last year as the pressing need to find a new owner receded after President Biden reassessed his predecessor's efforts to deal with security threats from Chinese tech companies.</p><p>Oracle declined to comment on Friday.</p>",
+  "published": "2022-06-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1515,
+          "end": 1530
+        },
+        {
+          "start": 1515,
+          "end": 1524
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

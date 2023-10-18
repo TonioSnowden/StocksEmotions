@@ -1,0 +1,42 @@
+{
+  "_id": "6d240ec8906052acdb20c8addbe512595c54fdaba02cb3f5f83d087935f68715",
+  "feed": "wall-street-journal",
+  "title": "J&J to Stop Selling Talc-Based Baby Powder Globally Next Year; Company had already switched product in U.S., Canada, citing decline in customer demand amid safety concerns",
+  "text": "<p>J&amp;J is facing thousands of lawsuits alleging the talc powder has harmed women who had used it for years. Some of the lawsuits have led to costly jury verdictsagainst the company.</p><p>J&amp;J has been fighting the lawsuits and verdicts, and says its talc-containing powder is safe. The company said Thursday its position on the safety of its cosmetic talc remains unchanged.</p><p>\"As part of a worldwide portfolio assessment, we have made the commercial decision to transition to an all cornstarch-based baby powder portfolio,\" the company said in a statement.</p><p>Write to Talal Ansari at talal.ansari@wsj.com</p><p>J&amp;J to Stop Selling Talc-Based Baby Powder Globally Next Year</p>",
+  "published": "2022-08-11T22:47:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 177,
+          "end": 180
+        },
+        {
+          "start": 179,
+          "end": 182
+        },
+        {
+          "start": 593,
+          "end": 596
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

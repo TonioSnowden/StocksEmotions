@@ -1,0 +1,62 @@
+{
+  "_id": "cacd74a80f36de7ad56f972a8b212d007505e6a2d853fcee401319e8fd830be2",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Apple Puts a Spotlight  On Its Priciest iPhones  ----  By Tim Higgins",
+  "text": "<p>   Apple Inc.'s most expensive smartphones will take focus on Wednesday as the company unveils the iPhone 14 lineup amid a global slowdown for all but the priciest of gadgets. </p><p>   The company's Pro models -- the 6.1- and 6.7-inch display versions -- have helped fuel record sales and profits for the past two years as the technology giant unveiled its first 5G-capable iPhones in late 2020. </p><p>   Those versions, which have been priced starting at $200 more than the base-level offering, are poised to get some of the most notable upgrades in a cycle that is expected to be more evolutionary than revolutionary for the iPhone. </p><p>   Apple's first in-person product event since Covid-19 upended modern life will include reporters at company headquarters in Cupertino, Calif., and be broadcast simultaneously via its website beginning at 1 p.m. in New York. </p><p>   The question among many investors is how long can demand -- which has been at record heights -- last for the iPhone during uncertainty around the economy. </p><p>   Apple has remained confident that there is still interest in converting to the latest technology. \"Around the world, 5G penetration is still low,\" Tim Cook, Apple chief executive, told analysts in July. \"And so I think there's reason to be optimistic.\" </p><p>   So far, Apple has bucked an industrywide decline in smartphone shipments, which slipped almost 9% in the past quarter from a year earlier, according to researcher International Data Corp. In the first half, the bright spot in the market was smartphones priced above $900, according to Counterpoint Research. </p><p>   Since the arrival of the 5G phones in late 2020, U.S. buyers have been shelling out more for their iPhones. Average selling prices of the iPhone rose to $954 in the June quarter compared with $783 in the September quarter in 2019, when the iPhone 11 was introduced, according to estimates by Consumer Intelligence Research Partners' survey of consumers. That is because more buyers have been opting for the more expensive Pro models and spending more to add more storage on the device. </p><p>   The iPhone 13 Pro comes with 128 gigabytes, while an extra $100 bumps that to 250 gigabytes. For an extra $500, buyers can get 1 terabyte. More than 50% of iPhone buyers were upgrading their storage in the 12 months ended in June, according to Consumer Intelligence Research Partners, compared with less than 40% in 2019. </p><p>   Continuing to sell pricier phones could help Apple boost revenue even if the rate of unit sales slows or becomes stagnant in the coming fiscal year. The 5G phones fueled estimated unit growth of 27% in fiscal 2021, according to FactSet data. Apple doesn't release unit sales. </p><p>   On Wednesday, the biggest changes are planned for the most-expensive Pro versions. Those models are expected to have more-powerful cameras and better video performance and to receive Apple's new A16 chip, according to people familiar with the plans. The base models will get an enhanced version of the current A15 processor. The base lineup is also expected to get the larger 6.7-inch display along with the cheaper 6.1-inch version, people familiar with the plans said. </p><p></p>",
+  "published": "2022-09-06T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 12,
+          "end": 17
+        },
+        {
+          "start": 611,
+          "end": 616
+        },
+        {
+          "start": 614,
+          "end": 619
+        },
+        {
+          "start": 987,
+          "end": 992
+        },
+        {
+          "start": 1245,
+          "end": 1250
+        },
+        {
+          "start": 2390,
+          "end": 2395
+        },
+        {
+          "start": 2585,
+          "end": 2590
+        },
+        {
+          "start": 2800,
+          "end": 2805
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

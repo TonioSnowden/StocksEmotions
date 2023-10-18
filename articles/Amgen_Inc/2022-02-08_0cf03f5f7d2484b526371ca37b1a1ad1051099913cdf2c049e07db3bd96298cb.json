@@ -1,0 +1,20 @@
+{
+  "_id": "0cf03f5f7d2484b526371ca37b1a1ad1051099913cdf2c049e07db3bd96298cb",
+  "feed": "market-watch",
+  "title": "Dow climbs 110 points, but broader stock market wavers Tuesday as 10-year yield nears 2%",
+  "text": "<p>The Dow Jones Industrial AverageDJIA was trading 82 points, or 0.2%, higher at around 35,182.</p><p>The S&amp;P 500 index was trading 0.1% lower, weighed by declines in consumer discretionaryXX:SP500.25, energyXX:SP500.10 and health careXX:SP500.35, despite the rise in Amgen.</p><p>The Nasdaq Composite IndexCOMP was trading less than 0.1% lower at 14,004.</p><p>In other corporate news, investors were focused on shares of exercise equipment maker Peloton InteractivePTON, which was after it said it would&#xa0;replace its chief executive, overhaul its board and cut costs, including lay off 2,800 employees.</p>",
+  "published": "2022-02-08T09:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "name": "Amgen Inc.",
+      "offsets": [
+        {
+          "start": 260,
+          "end": 265
+        }
+      ],
+      "nexusId": "10036019"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "_id": "05a93b3722d4750cfb5af6b1a394f5b9106c654b4c20c0e2ed85fa537908d60a",
+  "feed": "wall-street-journal",
+  "title": "New Apple Update Targets AirTag Tracking Concerns; Apple acknowledged that its smart little tracking discs are turning up in nefarious situations. Here's how to look for them, and what to do if you find one.",
+  "text": "<p>Apple Inc.'s AirTags help you find your lost keys or bag. They can also be used in ways that spark privacy and safety concerns—such as stalking or other surveillance. Those concerns prompted Apple to add more AirTag setup warnings and to be clearer about when an AirTag is following someone.</p><p>The company, in a newsroom post on Thursday, acknowledged reports of \"bad actors attempting to misuse AirTag for malicious or criminal purposes.\" A coming software update will add that privacy warning and make the alerts more explicit.</p><p>Apple also said it is \"investigating a series of updates\" for later this year to help guard against nefarious behavior. That includes tuning the sound made by lost AirTags so that they are easier to hear, allowing you to precisely hunt down AirTags that might be following you, and letting you know sooner whether someone's AirTag is moving with you.</p><p>You can already detect unwanted AirTag tracking. It is easier if you use Apple devices, but in a rare move, the company in December also released a detection app for Android.</p><p>When AirTags went on sale in April 2021, the bottle-cap-size Bluetooth devices promised to give iPhone users a way to locate their personal items, much like the Tile trackers that have been on the market for years. You can attach AirTags to your purse or keys. Later, if you need to, you can fire up your iPhone and track the items to their precise location within seconds.</p><p>Our colleague Joanna Stern reviewed AirTags when they came out. She said they worked better than competing devices at finding everything from a misplaced work ID to a lost pet—but she warned they could easily be used to pinpoint humans.</p><p>In December, the West Seneca, N.Y., police department said it received two reports that AirTags were \"believed to have been placed\" on the vehicles of unsuspecting owners. Police in Iowa confirmed reports of similar incidents. In January, a person in Pennsylvania reported a suspicious AirTag notification to police after possibly being followed home from a movie theater.</p><p>Unwanted tracking isn't unique to AirTags; other trackers could be used in a similar way. But AirTags' pinpoint accuracy—and their high-profile maker—have put them in the spotlight.</p><p>iPhone alerts have been crucial to revealing covert tracking. Apple's devices automatically pop up notifications if unknown AirTags have been in their vicinity over time. For Android users, Apple introduced a Tracker Detect app in December to sniff out nearby AirTags.</p><p>With iPhones, rogue AirTag detection is turned on by default in the Find My app.</p><p>\"That's a big benefit,\" said Asymco analyst Horace Dediu, who follows Apple. \"On Android, those are not defaults. If users are not proactive, they might be under more of a threat.\"</p><p>An AirTag emits a chime eight to 24 hours after being separated from its owner. People who have neither a compatible Apple product nor an Android device with the Tracker Detect app might be made aware of the presence of an AirTag this way.</p><p>Apple said Thursday that it has been working with law enforcement on AirTag-related requests. \"Based on our knowledge and on discussions with law enforcement,\" Apple said, \"incidents of AirTag misuse are rare; however, each instance is one too many.\" The company's AirTag safety guide (which also covers other Find My accessories) answers some questions about the issue. Here's what else you should know:</p><p>How do AirTags work?</p><p>AirTags are lightweight, with a glossy white surface and a silver underside. They use low-power Bluetooth to report their whereabouts. They don't have built-in GPS, but communicate with nearby iPhone, iPad, iPod Touch and Mac devices in the Find My network, which do have GPS and other ways to identify location.</p><p>SHARE YOUR THOUGHTS</p><p>How do you use AirTags? Join the conversation below.</p><p>If you have an AirTag connected to a newer iPhone, you can take advantage of more accurate tracking provided by the U1 ultra-wideband chip in both devices.</p><p>AirTags also have a built-in speaker. Not only do they ring when separated from their owner, but the owner can trigger the ring through the Find My app.</p><p>How accurate is AirTag tracking?</p><p>It can be very precise. If you have an AirTag and an iPhone 11 or newer model, you can tap into Precision Finding to pinpoint an AirTag's exact location. Ultra-wideband lets you track your AirTag down to the centimeter, and on-screen arrows point the way. Precision Finding can even tell you if something is on a different floor. (You can't use the feature with unknown AirTags, but bad actors could use it to track you with theirs.)</p><p>For direct tracking, your AirTag must be within Bluetooth range of your device (a few hundred feet). If the tag is far away from you, it reports its location through the Find My network, and is typically accurate to the street address, Apple said.</p><p>Do AirTags work for pets?</p><p>Apple doesn't market AirTags as pet trackers, but they are water-resistant, and nothing is stopping you from attaching one to your dog's collar. To mark an AirTag as lost, go to the Find My app and look for the item. Tap the item's name and under Lost Mode, tap Enable. You can then add a message to be displayed for the person who finds it.</p><p>How do I know if an AirTag is following me?</p><p>For iPhone, iPad and iPod Touch users, Apple built in antistalking features to discourage tracking people without their knowledge. Apple's Find My network could notify your smartphone if an AirTag not registered to you is moving with you over time. The notification would say, \"Item Detected Near You.\"</p><p>The time it takes to trigger one of those alerts depends on where you are, where you have been and how long an AirTag has been following you. If the network detects an unknown AirTag traveling with you and arriving at your home, you could get an immediate notification saying \"AirTag Found Moving With You.\" If the AirTag belongs to someone in your Family Sharing group, the owner's name would appear in the alert.</p><p>The automatic notifications only work on smartphones and iPods running iOS 14.5 or later and iPads running iPadOS 14.5 or later. If you don't want to get pinged, you can turn those Item Safety Alerts off in the Find My app.</p><p>Apple is investigating ways to notify you sooner if an unknown AirTag is traveling with you. And it is working on an update that would allow you to use Precision Finding to track down the AirTag that is following you. Currently, you have to look around for it without any sort of guide.</p><p>What if I don't have an Apple device?</p><p>The Tracker Detect app for Android lets you scan for nearby AirTags. If one is in your vicinity for more than 10 minutes, and the app picks it up, you can make it play a chime for easier locating. The hitch—and it is a big one—is you have to look for AirTags manually. The app doesn't run in the background to automatically search and notify you, as iPhones do.</p><p>AirTags also play a chime somewhere between eight and 24 hours after being separated from their registered owner. Apple said it is looking at displaying an alert on your device when an AirTag makes a sound, so you can take action to find it.</p><p>The company says that it will tweak the alert tone so that it is louder and easier to hear.</p><p>I found a lost AirTag. Now what?</p><p>If you hear an AirTag chime or find a lost item with an AirTag attached, you can use any Apple or Android device with NFC technology—found in most recent smartphones—to help return it.</p><p>Hold your smartphone near the white side of the AirTag until a notification appears on your phone. It should provide information about the AirTag. If its owner marked it as lost, you will be able to view the contact information.</p><p>If you found the AirTag in your possessions, and it doesn't show as lost, you should disable it and contact law enforcement.</p><p>How do I disable an AirTag?</p><p>If you get an AirTag alert on your iPhone, you can disable it to stop sharing its location. On the notification, tap Instructions and follow the on-screen prompt: You press the silver side of the AirTag and twist it counterclockwise, then take off the cover to remove the battery. The AirTag can no longer be tracked.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Dalvin Brown at dalvin.brown@wsj.com</p><p>New Apple Update Targets AirTag Tracking Concerns</p>",
+  "published": "2022-02-10T21:31:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5278,
+          "end": 5283
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 2868,
+          "end": 2873
+        },
+        {
+          "start": 5370,
+          "end": 5375
+        },
+        {
+          "start": 4853,
+          "end": 4858
+        },
+        {
+          "start": 952,
+          "end": 957
+        },
+        {
+          "start": 6181,
+          "end": 6186
+        },
+        {
+          "start": 6492,
+          "end": 6497
+        },
+        {
+          "start": 6982,
+          "end": 6987
+        },
+        {
+          "start": 2991,
+          "end": 2996
+        },
+        {
+          "start": 8272,
+          "end": 8277
+        },
+        {
+          "start": 528,
+          "end": 533
+        },
+        {
+          "start": 4,
+          "end": 9
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 2410,
+          "end": 2415
+        },
+        {
+          "start": 4815,
+          "end": 4820
+        },
+        {
+          "start": 3151,
+          "end": 3156
+        },
+        {
+          "start": 2640,
+          "end": 2645
+        },
+        {
+          "start": 2282,
+          "end": 2287
+        },
+        {
+          "start": 191,
+          "end": 196
+        },
+        {
+          "start": 7324,
+          "end": 7329
+        },
+        {
+          "start": 51,
+          "end": 56
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

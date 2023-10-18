@@ -1,0 +1,66 @@
+{
+  "_id": "8ed23138e4620b9422cf3ff799b4c6734cf08b22a153d3d3553662177746ac20",
+  "feed": "market-watch",
+  "title": "Why Apple is among this analyst's 'top picks'; Hardware stocks 'historically outperform during recessionary periods,' and Apple has an especially strong balance sheet",
+  "text": "<p>On Apple in particular, Credit Suisse raised their rating on the stock to outperform from neutral, and Cross' $201 price target assumes the shares can rise 16% from recent levels. They were changing hands north of $173 in Wednesday morning trading.</p><p>Cross finds plenty of things to like in Apple's story, including an installed base of 1.8 billion devices and a software strategy that helps give the company \"significant competitive advantages.\"</p><p>\"Management focuses on high customer satisfaction by improving ease of use, product quality, and continuity between devices – resulting in high product value and repeat customer engagement,\" Cross wrote. \"By designing and building Apple software and services for Apple's custom hardware, the company produces a differentiated product portfolio with leading feature functionality.\"</p><p>She also cheered the nearly $200 billion in cash that Apple has on its balance sheet. That stash gives Apple \"ample dry powder for organic investments, shareholder return,' and continued M&amp;A,\" Cross wrote. Even though she doubts that Apple will conduct a major acquisition, she thinks that the company has been putting \"significant cash\" toward bolstering its Apple TV+ content base.</p><p>Additionally, Cross sees strong margin potential at Apple, noting that the company's higher-margin services business should continue to grow its relative size within the overall company, especially as Apple dives deeper into areas like advertising and payments.</p><p>Shares of Apple are near flat in Wednesday morning trading, though they've gained 16% over the past three months as the Dow Jones Industrial Average DJIA has risen about 4%.</p><p>Why Apple is among this analyst's 'top picks'</p>",
+  "published": "2022-08-17T15:21:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999845,
+      "offsets": [
+        {
+          "start": 3,
+          "end": 8
+        },
+        {
+          "start": 4,
+          "end": 9
+        },
+        {
+          "start": 122,
+          "end": 127
+        },
+        {
+          "start": 875,
+          "end": 880
+        },
+        {
+          "start": 923,
+          "end": 928
+        },
+        {
+          "start": 1053,
+          "end": 1058
+        },
+        {
+          "start": 1254,
+          "end": 1259
+        },
+        {
+          "start": 1262,
+          "end": 1267
+        },
+        {
+          "start": 1403,
+          "end": 1408
+        },
+        {
+          "start": 1473,
+          "end": 1478
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.985001,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9850011,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

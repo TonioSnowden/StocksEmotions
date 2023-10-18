@@ -1,0 +1,20 @@
+{
+  "_id": "716f8c6a7d95d1e43af73539bcfa73f4ef17a13166f244ca8294e758f6f661bd",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Google Plans Quantum Computer  ----  By Sara Castellanos",
+  "text": "<p>   Alphabet Inc.'s Google plans to spend several billion dollars to build a quantum computer by 2029 that can perform large-scale business and scientific calculations without errors, said Hartmut Neven, a distinguished scientist at Google who oversees the company's Quantum AI program. The company recently opened an expanded California-based campus focused on the effort, he said. </p><p>   \"We are at this inflection point,\" said Dr. Neven, who has been researching quantum computing at Google since 2006. \"We now have the important components in hand that make us confident. We know how to execute the road map.\" </p><p>   Chief Executive Sundar Pichai announced the timeline and introduced the new Google Quantum AI campus in Santa Barbara County on Tuesday at Google's annual developer conference. </p><p>   \"Quantum computing represents a fundamental shift, because it harnesses the properties of quantum mechanics and gives us the best chance of understanding the natural world,\" Mr. Pichai said at the virtual event. </p><p>   Google, which has been investing in the nascent technology for several years, is one of many companies including International Business Machines Corp., D-Wave Systems Inc. and Honeywell International Inc. working to commercialize it. IBM and others have recently announced technological developments and planned milestones related to quantum computing within the next few years. Dario Gil, director of IBM Research, recently said 2023 would be an inflection point in that the errors of quantum computers would continue to decrease exponentially through software, as opposed to just hardware. </p><p>   A commercial-grade quantum computer doesn't yet exist, but eventually it could solve some problems many millions of times faster than a conventional computer. Companies such as Visa Inc., JPMorgan Chase &amp; Co. and Volkswagen AG are experimenting with early-stage quantum technology. </p><p>   By harnessing quantum physics, this type of computing has the potential to sort through vast numbers of possibilities in nearly real time and come up with a probable solution. Traditional computers store information as either zeros or ones. Quantum computers use quantum bits, or qubits, which represent and store information in a quantum state that is a complex mix of zero and one. </p><p>   Google, like many other companies investing in quantum computing, plans to offer its commercial-grade quantum-computing services over the cloud. Google is interested in many potential uses for the technology, such as building more energy-efficient batteries and creating a new process of making fertilizer that emits less carbon dioxide. </p><p></p>",
+  "published": "2021-05-19T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US4385161066",
+      "name": "Honeywell International Inc.",
+      "offsets": [
+        {
+          "start": 1168,
+          "end": 1196
+        }
+      ],
+      "nexusId": "10040831"
+    }
+  ]
+}

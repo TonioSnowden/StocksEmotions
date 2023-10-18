@@ -1,0 +1,44 @@
+{
+  "_id": "4b0b378e24caf504a657e72fae67b68d9f8766b34f8a7e83a3c87fb4675318c7",
+  "feed": "wall-street-journal",
+  "title": "Focus Mode: How to Mute Annoying iPhone Notifications; Apple's Focus feature, new with iOS 15, lets only allowed contacts and apps ping you. It's a pain to set up—but you'll be more productive and less distracted",
+  "text": "<p>To help tame the mess, Apple in September released several new features in its most recent iOS, iPadOS and MacOS software updates. The most powerful one, Focus, is a customizable expansion of Do Not Disturb. You let specific people and apps through based on profiles you create for given activities. The goal is to minimize interruptions without missing important messages.</p><p>Whether you're rushing to meet year-end deadlines at work or want to devote your full attention to family during the holidays, you should consider Focus mode.</p><p>It's a pain to set up, and it isn't necessarily clear at first which people and apps you want to prioritize. It'll take trial and error to figure out who gets your golden tickets. Still, when you do, you will feel more productive and less distracted, whether you're on an iPhone, an iPad or a Mac.</p><p>This guide is for those in the Apple ecosystem, in part because the ability to manage notifications has long been superior on Android devices. However, if you're a curious Pixel, Galaxy or OnePlus user, you'll find the Android version in the Digital Wellbeing settings.</p><p>Setting Up Focus</p><p>This week, I set up a Focus profile on my iPhone for Deadline Day, and added these VIPs and VIAs (very important apps) to my allow list: my Favorites contacts, my editor Wilson, and the Slack app. I made a few more profiles, for Fitness, Driving and Reading.</p><p>Curate and create your modes. On your iPhone or iPad—running iOS 15 and iPadOS 15, respectively—go to the Settings app and tap on Focus. You'll find some default profiles, including Do Not Disturb, Driving, Sleep and Work. Tap into each to customize or delete them. Press the + button to make your own. </p><p>When a Focus mode is enabled, notifications will be hidden in a 'While in Focus' bundle in Notification Center. PHOTO: WSJ</p><p>If you choose Share Across Devices, the new or adjusted Focus profile will automatically appear on your other Apple devices. (If you want it on your Mac, you have to update it to MacOS Monterey.) This can be useful, but there are plenty of scenarios where you'd only want to mute one device, not all, so use it with care.</p><p>Some profiles can automatically activate. Tap on the profile and select an option under \"Turn on Automatically.\" For example, the iPhone can detect when you're in the car and enable the Driving focus.</p><p>Choose your contacts and apps. You'll need to anticipate what your future self needs when each mode is enabled, and for me it took a couple of tries. In Settings &gt; Focus, tap a profile to specify the people and apps you want alerts from.</p><p>When you put people on the allowed-contacts list, you'll be notified if they message or call you. If anyone else tries to reach you, your phone screen won't light up. You can see the alerts, however, if you pull down the Notification Center. </p><p>To set an away message, enable Focus Status. People not on your allow list will have the option to notify you anyway. PHOTO: WSJ</p><p>The allowed-contacts list applies to phone calls and messages in Apple's Messages app, as well as ones coming through participating non-Apple apps, such as Signal.</p><p>If you enable \"Share Focus Status,\" under Options, people who reach out via the Messages app will see that your notifications are silenced. When they send a text, it will show as \"delivered quietly,\" though there's an option to \"notify anyway.\" This will send you a notification, overriding Focus mode. </p><p>Turn on a Focus mode in Control Center by swiping from the top right, then long-pressing Focus. Tap the ellipses to set a duration. PHOTO: WSJ</p><p>On the allowed-apps list, you can enable \"time sensitive\" notifications (calendar events, reminders, breaking news, etc.) from any app. I left this off, because I'd rather name which apps can distract me.</p><p>As for who and what to allow, it's up to you. I left Do Not Disturb as my nuclear option—no people or apps allowed—which I intend to use for short periods (meetings, meditations, etc.). I do, however, allow alerts from repeated calls, a setting that's on by default. I've told close friends and family that if they need to reach me urgently, call twice. </p><p>Disable or quickly re-enable Focus from the lock screen by long-pressing the icon underneath the date. PHOTO: WSJ</p><p>Using Focus</p><p>Quickly enable Focus modes. The fastest way is with your voice: \"Hey Siri, turn on Work Focus.\" Or, on iPhone and iPad, swipe down from top right to expand the Control Center, then long-press Focus to turn on one of your customized profiles. Tap the ellipses to set a duration, such as one hour or until this evening. If you have a home- or office-specific profile, the GPS-related \"Until I leave this location\" option is useful. If you don't set a duration, the Focus will remain on until you disable it manually.</p><p>To disable Focus from the lockscreen, long-press the lit-up icon underneath the date and tap on the active profile.</p><p>On a Mac, click on Control Center from the menu bar (next to the date and time), hover over Focus, click the &gt; arrow, and select your desired profile.</p><p>It's important to know what Focus isn't. The feature can mute nonessential notifications, but it won't save you from falling down a Reddit or Instagram well. For that, you need Downtime, which shuts off all apps except those specified under Screen Time's Always Allowed setting. For maximum effectiveness, Apple should really pair Downtime and Focus together, but that's a discussion for another time.</p><p>SHARE YOUR THOUGHTS</p><p>How do you resist distractions from your phone? Join the conversation below.</p><p>Finally, another quick way to improve notification madness is Notification Summary, also new in iOS 15. It gives you a daily digest of nonessential notifications. In Settings, go to Notifications, then tap Scheduled Summary to enable it. You can schedule one or multiple digests a day, and it doesn't sync across iPhone and iPad. This is another feature I wish worked in sync with Focus. It'd be great to get a summary of what you missed while you were focusing.</p><p>For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter.</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p><p>Focus Mode: How to Mute Annoying iPhone Notifications</p>",
+  "published": "2021-12-12T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 23,
+          "end": 28
+        },
+        {
+          "start": 1913,
+          "end": 1918
+        },
+        {
+          "start": 862,
+          "end": 867
+        },
+        {
+          "start": 55,
+          "end": 60
+        },
+        {
+          "start": 5318,
+          "end": 5323
+        },
+        {
+          "start": 3000,
+          "end": 3005
+        },
+        {
+          "start": 3071,
+          "end": 3076
+        }
+      ]
+    }
+  ]
+}

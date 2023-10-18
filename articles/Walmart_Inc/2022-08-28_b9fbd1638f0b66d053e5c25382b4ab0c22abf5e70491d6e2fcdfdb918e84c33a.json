@@ -1,0 +1,34 @@
+{
+  "_id": "b9fbd1638f0b66d053e5c25382b4ab0c22abf5e70491d6e2fcdfdb918e84c33a",
+  "feed": "wall-street-journal",
+  "title": "Your Call to Bonobos Might Not Be Answered by the Next Available Agent; Seeking to provide better customer service, menswear chain asks staff in its retail stores to also engage with customers in online chats",
+  "text": "<p>When Bonobos was struggling with widespread shipping problems this past spring, the people dealing with the barrage of angry customer inquiries weren't typical agents in a call center. They were Bonobos workers inside the company's retail stores.</p><p>The menswear company—a subsidiary of Walmart Inc. that started out as an online brand and has since opened dozens of retail shops—has been using its store workers, which it calls \"guides,\" to answer many online customer chats.</p><p>It is an unusual hybrid approach to managing customer service, as companies from airlines to retailers have confronted a basic challenge: having enough staff toanswer inquiries and assist customers, especially during the pandemic.</p><p>Even before the pandemic disrupted workplaces, many companies had digitized basic customer-service functions, such as rebooking flights and processing online returns. Others outsourced the tasks to overseas call centers. Some experts say they see merit in Bonobos's hybrid approach, which seeks to spread inquiries among the people most familiar with its products.</p><p>Bonobos tells employees that the in-store experience \"always comes first,\" and that managing online chats shouldn't come at the expense of helping an in-shop customer, according to a document reviewed by The Wall Street Journal. It also says employees should only be using the chat in stores during \"down time and when there is at least one other guide present.\"</p><p>David Meir Sasson, Bonobos operations and finance chief, said the policy started in 2019 with a pilot—an idea suggested by an employee—and that all of its retail shops now have it in place. Mr. Sasson said since 2021, about a fifth of customer chats involve questions about style, such as clothing fit, and the company felt its in-store guides were best equipped to respond. Bonobos's nonstore teams typically answer questions focused on shipping and payment.</p><p>\"It has been a positive shift,\" Mr. Sasson said. Guides get to broaden their skill set and have more \"opportunity to interact with their customer,\" he said. Bonobos, which has about 330 guides in its stores and 150 corporate staff, has the same number of nonretail employees manning customer inquiries as it did before the pandemic, Mr. Sasson said.</p><p>Some Bonobos employees said the policy works better in theory than reality. Several said they feel inclined to continue an online chat when customers enter the store, and juggling the two can be stressful. They also said it can be difficult to manage all the angry online messages.</p><p>\"One time I had 15 emails and it was all people that were like, pretty much, 'I hate you,'\" said a former Bonobos assistant manager, who asked to stop handling online chats. It was difficult to stay positive and do the best work \"when I'm delivering bad news all day, every day,\" this person said.</p><p>Some customers say they still found it hard to reach a Bonobos employee. Eric Fenner, of Boise, Idaho, said that when he had troubles with orders earlier this year, the only way to get a Bonobos customer-service employee on the phone was to call a local store.</p><p>He said the staff he spoke with on the phone appeared overwhelmed. \"It's just like this brick wall that you run up against,\" said Mr. Fenner, who said he doesn't plan to order from Bonobos again.</p><p>Mr. Sasson said shipping backlogs and higher volumes of customer inquiries were most apparent in May and June, when the company was dealing with delays at a New Jersey fulfillment center. The company sent corporate and retail workers to help move packages through the facility. Both wait times and chat volumes have returned to typical levels as the staffing challenges at the fulfillment center were resolved, he said.</p><p>Mr. Sasson said store employees should always put in-person customers first, and use functions within the chat to transfer an online customer when needed. He said he is aware of Bonobos employees who said the policy negatively affected their mental health. Those workers won't be penalized if they decide not to handle online chats, he said.</p><p>The hybrid customer-service concept has promise, said Peter Fader, an associate professor of marketing at the University of Pennsylvania's Wharton School. For companies like Bonobos that have both digital and physical encounters with customers, he said it makes sense for the same people with the same training to handle both, to ensure both experiences are consistent.</p><p>\"Once we get to version 2.0 or 3.0, we'll look back and say, 'Why didn't we do this sooner?'\" said Mr. Fader, who wasn't involved in the Bonobos policy. He said hybrid customer-service could better appeal to workers if employers gave them more structured days, for example, online-only days and in-store days, rather than having the duties integrated on the same shifts.</p><p>Write to Alex Harring at Alex.Harring@wsj.com</p><p>Your Call to Bonobos Might Not Be Answered by the Next Available Agent</p>",
+  "published": "2022-08-28T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 284,
+          "end": 296
+        },
+        {
+          "start": 282,
+          "end": 294
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.112506,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.11250591,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

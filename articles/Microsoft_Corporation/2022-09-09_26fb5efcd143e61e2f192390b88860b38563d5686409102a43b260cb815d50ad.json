@@ -1,0 +1,34 @@
+{
+  "_id": "26fb5efcd143e61e2f192390b88860b38563d5686409102a43b260cb815d50ad",
+  "feed": "wall-street-journal",
+  "title": "New Tax on Stock Buybacks Would Have Raised Over $8 Billion in 2021, Study Says; Tech and communications firms might be hit hardest, but analysts and executives say buyback practices won't likely change much",
+  "text": "<p>The buyback tax, which goes into effect Jan. 1, is expected to raise $74 billion in federal revenue over a decade, the nonpartisan congressional Joint Committee on Taxation has projected. Congressional estimates consider the possibility that companies may change behavior in response to a tax.</p><p>Share repurchases by S&amp;P 500 companies reached a new record in the first quarter, at $281 billion, surpassing the previous peaks of $223 billion in late 2018 and $270 billion in the fourth quarter of last year.</p><p>Preliminary data show S&amp;P 500 buybacks in the second quarter declined about 19% from the first quarter as worries grew that the economy could slow significantly, but remained above second-quarter 2021 levels, said Howard Silverblatt, senior index analyst with S&amp;P Dow Jones Indices. While financial firms cut second-quarter buybacks by just over half compared with 2021, energy companies ramped up repurchases significantly.</p><p>\"The additional tax will not have a material impact on buybacks,\" Mr. Silverblatt predicted. \"The concern is that, like any other tax, it has the tendency to go higher, given that both sides of the aisle seem to want the tax.\"</p><p>The new excise tax—a last-minute addition to Democratic legislation intended to help pay for spending on climate, healthcare and other initiatives—is levied on net buybacks, or repurchases offset by new share issuance. Companies often buy back stock to avoid dilution from newly issued shares, in some cases leaving net issuance at or near zero.</p><p>The impact of the new tax is likely to vary across companies and industries. Based on their 2021 buybacks, the cost to real-estate companies would have been less than 0.1% of income, while the tax bill for tech and communications-services companies would have reached about 0.7% of income for the year.</p><p>Apple Inc. would have paid nearly $900 million in taxes on its net buybacks of $87.7 billion if the tax had been in effect last year, while Alphabet Inc. and Meta Platforms Inc. would have paid about $500 million apiece, the analysis found.</p><p>SHARE YOUR THOUGHTS</p><p>How will the buyback tax affect big business? Join the conversation below.</p><p>Apple reported net income of $94.7 billion in its most recently completed fiscal year, ended Sept. 25. Google parent Alphabet reported net income of $76 billion in 2021, and Meta, formerly Facebook Inc., reported net income of $39.4 billion.</p><p>Four other companies would have seen a tax bill of between $250 million and $275 million on last year's buybacks, including Microsoft Corp., Berkshire Hathaway Inc. and Bank of America Corp., the data suggest.</p><p>Analysts and company finance chiefs say the tax isn't likely to prompt major changes in buyback strategies.</p><p>\"I don't say I'm not concerned about it, because it's another tax, but I think it's manageable,\" said Tom Sweet, chief financial officer of Dell Technologies Inc.</p><p>But some companies said it could affect their activity in the market.</p><p>\"We're watching carefully the impact of the share-repurchase tax because that might change our plans,\" said Aaron Alt, CFO of food-services giant Sysco Corp. \"It's causing us to reflect further on our share-repurchase plans, but we have not made a decision yet.\"</p><p>Nina Trentmann contributed to this article.</p><p>Write to Theo Francis at theo.francis@wsj.com and Mark Maurer at Mark.Maurer@wsj.com</p><p>New Tax on Stock Buybacks Would Have Raised Over $8 Billion in 2021, Study Says</p>",
+  "published": "2022-09-09T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2492,
+          "end": 2506
+        },
+        {
+          "start": 2508,
+          "end": 2523
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

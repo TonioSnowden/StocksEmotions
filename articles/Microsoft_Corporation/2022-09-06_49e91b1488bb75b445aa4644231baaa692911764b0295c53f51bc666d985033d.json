@@ -1,0 +1,34 @@
+{
+  "_id": "49e91b1488bb75b445aa4644231baaa692911764b0295c53f51bc666d985033d",
+  "feed": "wall-street-journal",
+  "title": "World News: World Watch",
+  "text": "<p>Shot Reporter in Error</p><p>An Israeli soldier likely shot Palestinian-American Al Jazeera reporter Shireen Abu Akleh by mistake in May, Israel's military said after facing pressure from the U.S. to release the results of its investigation into her killing.</p><p>Ms. Abu Akleh's death sparked a storm of criticism of the Israeli military and calls for accountability. Israeli officials had initially said they couldn't conclude who killed Ms. Abu Akleh after a routine arrest operation turned into a hectic urban battle with Palestinians in a crowded area of the West Bank city of Jenin.</p><p>A senior Israeli military official on Monday said the evidence indicated the lethal shots likely came from an Israeli military jeep with a clear line of vision to Ms. Abu Akleh's location.</p><p>\"The most likely possibility is that she was mistakenly shot by an Israeli soldier, who of course did not identify her as a journalist,\" the official said.</p><p>Nabil Abu Rudeineh, the spokesman for Palestinian Authority President Mahmoud Abbas, called the Israeli investigation \"a new Israeli attempt to evade responsibility,\" and said that the Palestinians would continue to seek accountability for her death, including through the International Criminal Court.</p><p>-- Dov Lieber</p><p>---</p><p>KENYA</p><p>High Court Upholds</p><p>Presidential Vote</p><p>The Supreme Court upheld William Ruto's victory in August's presidential election, rejecting claims by his main opponent that the vote was rigged.</p><p>In a unanimous ruling, the court turned away arguments by former Prime Minister Raila Odinga, 77 years old, and his supporters that Mr. Ruto, the 55-year-old current vice president, and his allies had manipulated the tallies and tinkered with voter-identification devices to fix the results.</p><p>The decision reinforced Kenya's standing as an island of stability in a region beset by despots, drought, militants and poverty.</p><p>Mr. Odinga, who had the backing of departing President Uhuru Kenyatta, chose to seek redress in the court and not the street, and the court resisted political pressure to find in his favor.</p><p>Hundreds of Mr. Ruto's supporters danced and cheered outside his Nairobi residence after the court announced its decision.</p><p>The East African country is a major American ally in the fight against al-Shabaab, al Qaeda's franchise in neighboring Somalia.</p><p>Major U.S. companies, such as Alphabet Inc., and Microsoft Corp., use Kenya as a base.</p><p>-- Michael M. Phillips</p><p>---</p><p>AFGHANISTAN</p><p>Bomb Kills Two Staff</p><p>Of Russian Embassy</p><p>Two employees of the Russian Embassy in Kabul were killed on Monday in an explosion near the mission, the Russian Foreign Ministry said.</p><p>According to the ministry, an unknown assailant set off an explosive device at around 10:50 a.m. local time at the entrance to the consular section of the embassy. Kabul police said four Afghan citizens were killed and 10 others injured.</p><p>Detectives from Russia's Investigative Committee, the country's main investigative agency, said preliminary information confirmed that the two Russians killed were the embassy's second secretary and an embassy security guard.</p><p>The attacker was killed by Taliban security personnel guarding the embassy before he could reach the embassy's main gate, Kabul police said.</p><p>Late Monday, the Taliban's jihadist rival, Islamic State, claimed responsibility for the attack, according to SITE Intelligence Group, which tracks online extremist activity.</p><p>\"Of course, we are talking about a terrorist act,\" Kremlin spokesman Dmitry Peskov told reporters on Monday. \"We strongly condemn such terrorist acts.\"</p><p>-- Ann M. Simmons and Esmatullah Kohsar</p>",
+  "published": "2022-09-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2345,
+          "end": 2360
+        },
+        {
+          "start": 2333,
+          "end": 2348
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

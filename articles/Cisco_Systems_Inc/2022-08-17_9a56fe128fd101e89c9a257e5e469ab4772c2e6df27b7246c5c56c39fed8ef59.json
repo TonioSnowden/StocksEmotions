@@ -1,0 +1,66 @@
+{
+  "_id": "9a56fe128fd101e89c9a257e5e469ab4772c2e6df27b7246c5c56c39fed8ef59",
+  "feed": "market-watch",
+  "title": "Cisco earnings and revenue forecast quell fears of slowdown, stock rises; After flat growth to wrap fiscal year, Cisco executives guide for revenue growth of 4% to 6%, topping Wall Street estimates",
+  "text": "<p>Analysts surveyed by FactSet on average had expected adjusted earnings of 82 cents a share on revenue of $12.73 billion. Shares gained more than 3% in after-hours trading immediately following the results, after closing with down slightly in regular trading at $46.66.</p><p>\"We had a strong end to our fiscal year thanks to our Q4 performance,\" Cisco Chief Executive Chuck Robbins said in a statement. \"Our teams executed well in the midst of an incredibly dynamic environment, resulting in the highest full-year non-GAAP earnings per share in the history of the company.\"</p><p>Cisco's Product ($9.69 billion) and Service ($3.41 billion) businesses were flat year-over-year. The company's top business segment, Secure, Agile Networks, which includes data-center networking switches, dipped 1% to $6.09 billion during the fourth quarter.</p><p>Gradual easing of supply constraints should lead to stronger revenue growth than expected in the current quarter and beyond, Robbins said in a conference call with analysts.</p><p>Still, improved availability of components such as semiconductors and power supplies and sub-components in China isn't likely to make a dent in record backlog of more than $15 billion, Cisco Chief Financial Officer Scott Herren told MarketWatch. He added supply constraint will remain an issue throughout fiscal 2023.</p><p>\"We are not demand constrained but supply constrained,\" Herren said.</p><p>Cisco'sprevious earnings report sparked concerns about business spending on technology, as the company's forecast missed expectations. At the time, executives focused more on supply-chain issues and effects from the Russian invasion of Ukraine as reasons for the miss, and fears of a widespread slowdown for purchases of networking gear have dissipated amid solid results from competitors like Arista Networks Inc. ANET and Juniper Networks Inc. JNPR.</p><p>Wednesday's forecast was even more important, as it provided executives' expectations for the full new fiscal year, which began Aug. 1. Cisco's forecast calls for adjusted earnings of $3.49 to $3.56 a share on revenue growth of 4% to 6%, after the previous fiscal year wrapped with adjusted earnings of $3.36 a share and sales of $51.56 billion. Analysts on average were projecting fiscal-year adjusted earnings of $3.53 a share on sales of $52.72 billion, which would reflect revenue growth of 2.2%.</p><p>For the fiscal first quarter, Cisco executives guided for 82 cents to 84 cents a share in adjusted profit and revenue growth of 2% to 4% in the fiscal first quarter. Analysts were forecasting adjusted earnings of 84 cents and a year-over-year revenue decline of roughly 3%, according to FactSet.</p><p>Cisco's stock is down 26% so far in 2022, while the Dow Jones Industrial Average DJIA, which counts Cisco as a component, has declined 6%. The broader S&amp;P 500 index SPX is off 10% this year.</p><p>Cisco earnings and revenue forecast quell fears of slowdown, stock rises</p>",
+  "published": "2022-08-17T20:27:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 113,
+          "end": 118
+        },
+        {
+          "start": 340,
+          "end": 345
+        },
+        {
+          "start": 564,
+          "end": 569
+        },
+        {
+          "start": 1179,
+          "end": 1184
+        },
+        {
+          "start": 1378,
+          "end": 1383
+        },
+        {
+          "start": 1963,
+          "end": 1968
+        },
+        {
+          "start": 2356,
+          "end": 2361
+        },
+        {
+          "start": 2620,
+          "end": 2625
+        },
+        {
+          "start": 2720,
+          "end": 2725
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

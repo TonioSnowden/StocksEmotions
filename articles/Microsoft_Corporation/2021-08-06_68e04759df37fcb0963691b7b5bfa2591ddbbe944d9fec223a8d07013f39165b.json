@@ -1,0 +1,36 @@
+{
+  "_id": "68e04759df37fcb0963691b7b5bfa2591ddbbe944d9fec223a8d07013f39165b",
+  "feed": "wall-street-journal",
+  "title": "Technology & Media:  U.S. Taps Tech Giants to Fight Hacking  ---  Microsoft, Amazon,  Google are among  partners in effort for  ransomware defense  ----  By Robert McMillan",
+  "text": "<p>   The U.S. government is enlisting the help of tech companies, including Amazon.com Inc., Microsoft Corp. and Google, to bolster the country's critical infrastructure defenses against cyber threats after a string of high-profile attacks. </p><p>   The Cybersecurity and Infrastructure Security Agency unveiled the initiative Thursday, called the Joint Cyber Defense Collaborative. The effort will initially focus on combating ransomware and cyberattacks on cloud-computing providers, said Jen Easterly, director of the agency, which is part of the Department of Homeland Security. Ultimately, she said, it aims to improve defense planning and information sharing between government and the private sector. </p><p>   \"This will uniquely bring people together in peacetime, so that we can plan for how we're going to respond in wartime,\" she said in an interview. Ms. Easterly was sworn in as CISA's director last month. She was previously a counterterrorism official in the Obama White House, and the commander of the Army's first cyber operations unit at the National Security Agency, America's cyberspy agency. </p><p>   During the past year, ransomware attacks have disrupted large parts of daily life in the U.S. They have diverted ambulances, caused long lines at gas stations in the Southeast, and temporarily halted the production of hot dogs and other meat products. </p><p>   Following a ransomware attack last month on cloud-services provider Kaseya Ltd., President Biden warned Russian President Vladimir Putin that the U.S. would take \"any necessary action\" to protect its infrastructure from these incidents.Just days later, the administration blamed hackers affiliated with China's Ministry of State Security for a separate set of attacks on users of Microsoft Exchange Server software. </p><p>   Tackling cybersecurity problems such as ransomware \"has to be a whole-of-nation effort,\" Ms. Easterly said. The Department of Homeland Security is rolling out the effort at the annual Black Hat computer security convention taking place this week. </p><p>   The disruptions have made cybersecurity a major area of concern beyond the White House. The Senate has included additional funding for CISA in its $1 trillion infrastructure bill that could be passed by the chamber this week. The proposed legislation includes a raft of other cybersecurity measures, such as $1 billion in funding over the next few years for a cybersecurity grant program for states and local authorities and additional money to boost energy-sector cyber defenses. The House would take up the bill next. </p><p>   The partnership with industry, Ms. Easterly said, would improve the country's response to widespread attacks such as last year's sophisticated hack of software maker SolarWinds Corp. The U.S. and cybersecurity researchers have said Russian hackers were able to parlay their attack into access to more than 100 company networks and some government systems, too. Russia and China have denied that they engage in hacking. </p><p>   Improving information sharing between government and companies will make it easier to spot and combat threats such as what happened with SolarWinds, Ms. Easterly said. </p><p>   With more sensitive company and personal information stored in the cloud, the providers of those vast data centers are often on the front line of cyberattacks, giving them insight into the latest hacks and the resources available to mitigate the attacks, said Phil Venables, the chief information security officer with the cloud computing group at Google, a unit of Alphabet Inc. \"There's a recognition, and has been for a while, among the cloud providers that security, and, increasingly, high levels of security, is a core part of the offering,\" he said. </p><p>   Microsoft Chief Executive Satya Nadella, on an earnings call last month, said demand for cloud-security products has been growing strongly. The software giant that has itself been victimized by attacks has made several acquisitions in recent months to beef up its security offering. </p><p></p>",
+  "published": "2021-08-06T06:14:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 88,
+          "end": 103
+        },
+        {
+          "start": 63,
+          "end": 72
+        },
+        {
+          "start": 3669,
+          "end": 3678
+        },
+        {
+          "start": 1722,
+          "end": 1731
+        },
+        {
+          "start": 88,
+          "end": 97
+        }
+      ]
+    }
+  ]
+}

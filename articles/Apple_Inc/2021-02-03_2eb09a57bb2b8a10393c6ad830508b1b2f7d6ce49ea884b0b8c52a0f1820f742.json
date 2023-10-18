@@ -1,0 +1,60 @@
+{
+  "_id": "2eb09a57bb2b8a10393c6ad830508b1b2f7d6ce49ea884b0b8c52a0f1820f742",
+  "feed": "wall-street-journal",
+  "title": "Chip Makers Face a Mixed Blessing --- Skyworks, Cirrus Logic show benefits and risks of depending on Apple's iPhone boom",
+  "text": "<p>Last week, Apple reported its best quarter in years. It enjoyed strength across its business segments, but the driver was the iPhone -- which accounts for more than half the company's total revenue. Apple's iPhone revenue jumped 17% year over year to a record $65.6 billion for the December quarter, thanks mainly to the launch of the new iPhone 12 models in the fall. Apple no longer discloses unit sales, but market research firms IDC, Canalys and Counterpoint estimate it shipped between 82 million and 90 million iPhones during the quarter, which would break the record 78.3 million units the company reported for the same quarter of 2016.</p><p>That is great news for the companies who supply key iPhone components. Skyworks, which specializes in radio-frequency chips, last week reported a 69% jump in December-quarter revenue to $1.5 billion -- 42% above Wall Street's expectations. The stock climbed 15% since that report. Cirrus Logic, whose chips are used for audio encoding, reported Monday that its December-quarter revenue rose 30% from a year earlier to about $486 million.</p><p>More are on the way. Qorvo, a Skyworks rival, is expected to post a 23% increase in revenue for the December quarter on Wednesday, according to consensus analyst forecasts. Also coming Wednesday is December-quarter results from Qualcomm, which recently won back its place in the iPhone's modem chip socket. Analysts expect Qualcomm to post an 80% year-over-year quarterly rise in chipset revenue, according to FactSet.</p><p>But dependency on Apple can backfire. Over the long term, suppliers face the risk that Apple could design them out with its own in-house chips. Over the short term, seasonal fluctuations can also hurt. Cirrus projected March-quarter revenue in a range of $280 million to $320 million -- the midpoint of which was only in line with Wall Street's estimates. That would represent 7% growth year over year, a significant slowdown from the previous quarter. The company warned in its letter to shareholders that \"our customers can, and frequently do, change individual orders on short notice.\" Apple accounted for 84% of Cirrus's revenue for the past three quarters, according to the company's quarterly filing Monday. Cirrus shares fell 8% to $89.91 on Tuesday.</p><p>Skyworks generates a little more than half its revenue from Apple, while Qorvo's exposure is around 33%. Both are well positioned now given the demands of the 5G wireless standard, which requires top-of-the-line radio frequency chips. But the iPhone is a seasonal business; Apple typically generates about 38% of its annual iPhone revenue in the December quarter.</p><p>Strong iPhone cycles also are coming more sporadically, as smartphone users hold on to their devices for longer periods. Apple's iPhone revenue fell in three of the company's past five fiscal years, and the company declined to give its own forecast for the March quarter last week, citing continued uncertainty from the coronavirus pandemic. For chip companies highly levered to Apple, that creates even more uncertainty.</p>",
+  "published": "2021-02-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2533,
+          "end": 2538
+        },
+        {
+          "start": 2090,
+          "end": 2095
+        },
+        {
+          "start": 2319,
+          "end": 2324
+        },
+        {
+          "start": 3002,
+          "end": 3007
+        },
+        {
+          "start": 369,
+          "end": 374
+        },
+        {
+          "start": 11,
+          "end": 16
+        },
+        {
+          "start": 2744,
+          "end": 2749
+        },
+        {
+          "start": 1588,
+          "end": 1593
+        },
+        {
+          "start": 1519,
+          "end": 1524
+        },
+        {
+          "start": 199,
+          "end": 204
+        },
+        {
+          "start": 101,
+          "end": 106
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

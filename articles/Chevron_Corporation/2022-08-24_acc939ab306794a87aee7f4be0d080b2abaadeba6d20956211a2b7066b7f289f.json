@@ -1,0 +1,66 @@
+{
+  "_id": "acc939ab306794a87aee7f4be0d080b2abaadeba6d20956211a2b7066b7f289f",
+  "feed": "wall-street-journal",
+  "title": "Should Agencies Interpret the Law?",
+  "text": "<p>(Harvard, 355 pages, $35)</p><p>Judges are the primary interpreters of law. At least, that's the conventional view -- that the Constitution entrusts federal judges with interpreting the laws passed by Congress. But since the 1980s, the Supreme Court, aided byexpansive lower court rulings, has flipped this conventional wisdom on its head. Under the so-called Chevron doctrine, federal courts must defer to administrative agencies' legal interpretations of the statutes the agencies administer.</p><p>The doctrine originated, ironically enough, in a 1984 Supreme Court opinion, Chevron v. Natural Resources Defense Council, which upheld lenient Reagan-era environmental standards: The case was decided by six justices and drafted by liberal Justice John Paul Stevens. Over time, the perception of Chevron shifted, from textualist Justice Antonin Scalia's according it prominence and legitimacy to Justice Clarence Thomas's questioning its constitutionality in 2015, and many developments in between.</p><p>In \"The Chevron Doctrine: Its Rise and Fall, and the Future of the Administrative State,\" Columbia Law School professor Thomas W. Merrill offers an insightful, creative contribution to this critical debate, addressing in depth the relative institutional competencies and proper roles of Congress, agencies and the courts in policymaking and legal interpretation. It's a timely examination of the pressing theme of the Supreme Court's momentous 2021 term: Which institution within the constitutional framework has decision-making authority on issues of import for the American people?</p><p>Mr. Merrill's work hinges on a rethinking of Chevron deference as it has been commonly understood. First, he calls into question the idea that unclear statutory terms innately delegate lawmaking power to agencies. Second, he proposes a three-step reformulation that would avoid the pitfalls of handing legal or jurisdictional determinations over to the agencies themselves.</p><p>The result of the current two-step deference framework has been that agencies' authority has expanded incrementally in the absence of judicial boundary-watching. Mr. Merrill's three-step approach would do much to return judicial review of agency authority to the framework embedded in the 1946 Administrative Procedure Act (APA), because it incorporates a threshold judicial determination of whether an agency has operated within statutory bounds. This more limited policy discretion is consistent with the APA, under which procedurally proper actions within the range of statutory authority are unlawful only if they are \"arbitrary\" or \"capricious.\"</p><p>Under the classic understanding of Chevron, courts first ask whether a statute is clear before evaluating a challenged agency interpretation. If the statute is ambiguous, the court affirms the agency so long as its interpretation is \"reasonable,\" under the theory that the broad statute implicitly delegates power to the agency to discern its meaning. But that idea is a radical one -- and, as Mr. Merrill notes, \"wholly made up\" in Chevron, which he has called an \"accidental landmark\": Though Chevron has become one of the most cited cases in administrative law, Justice Stevens did not believe he was fundamentally reshaping the relationship between courts and agencies when he wrote it.</p><p>Chevron is already evolving in the courts. Take a recent example: a challenge to President Obama's Clean Power Plan, reviewed by the Court this year in West Virginia v. EPA. In 2015 the Environmental Protection Agency determined that emissions standards shuttering numerous coal-powered plants in favor of renewable energy sources would constitute the \"best system of emission reduction.\" The plaintiffs argued that in ruling on energy-generation methods rather than emissions reductions, the EPA had exceeded its authority. If the Supreme Court had applied Chevron, the EPA might have been empowered to assess what constitutes a \"system,\" what makes a system \"best,\" and what kinds of systems are \"reasonable.\" But the decision, 6-3 in favor of West Virginia, implied a potentially important change. Under the emerging doctrine, the deference principle does not apply when a court is evaluating a \"major question\" with significant political and economic impact.</p><p>The delegation misconception is not the only problem with Chevron. Or perhaps even the worst. The doctrine consolidates power in the executive branch, creating a conflict of interest. When an agency responsible for administering a statute also decides what it means, agencies are less restrained and liberty suffers. Mr. Merrill contests the familiar criticism of Chevron that federal courts must have exclusive power to interpret law. But he agrees that the doctrine has thrown up destructive hurdles to judicial policing of \"the boundaries of agency authority as established by Congress.\"</p><p>His three-step approach would instead require a reviewing court first to assess whether an agency's action falls within its authority. Second, the court should ask whether the agency's interpretation violates any specific provision of the law. Judicial evaluation of these questions essentially constitutes the kind of de novo evaluation of legal standards (as opposed to policy judgments) that members of Congress have proposed in legislation like the Separation of Powers Restoration Act. Mr. Merrill's third step would replicate the APA's procedural check on agencies, mandating a notice-and-comment process (in which agencies must permit public commentary before a proposed substantive rule takes effect) before according deference to an agency's interpretation.</p><p>Mr. Merrill's reworking of Chevron would retain it, at least in theory. But it is unclear that the reformulated doctrine would have any more bite than the disfavored Lemon test had for religious freedom over the decades that the Court ignored it until explicitly abandoning it this year. Under Mr. Merrill's approach, the modern Chevron framework similarly would survive in name but not in practice.</p><p>Any student of the exponential growth of administrative power over the last half century should study this book. Mr. Merrill masterfully charts a path to paring back administrative incursions on lawmaking power, with an eye toward integrity of process and the rule of law.</p><p>---</p><p>Ms. Mascott is an assistant professor at Antonin Scalia Law School and the co-executive director of the Gray Center for the Study of the Administrative State. Mr. Nachmany is a senior research fellow at the Gray Center.</p><p>(See related letter: \"Letters to the Editor: How to Keep the Political Appointees Honest\" -- WSJ Aug. 31, 2022)</p>",
+  "published": "2022-08-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 562,
+          "end": 569
+        },
+        {
+          "start": 1609,
+          "end": 1616
+        },
+        {
+          "start": 5902,
+          "end": 5909
+        },
+        {
+          "start": 4285,
+          "end": 4292
+        },
+        {
+          "start": 4587,
+          "end": 4594
+        },
+        {
+          "start": 3271,
+          "end": 3278
+        },
+        {
+          "start": 354,
+          "end": 361
+        },
+        {
+          "start": 780,
+          "end": 787
+        },
+        {
+          "start": 2618,
+          "end": 2625
+        },
+        {
+          "start": 5602,
+          "end": 5609
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.056391,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.056390524,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

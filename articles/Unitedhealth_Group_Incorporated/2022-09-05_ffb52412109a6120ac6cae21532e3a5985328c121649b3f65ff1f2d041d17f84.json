@@ -1,0 +1,42 @@
+{
+  "_id": "ffb52412109a6120ac6cae21532e3a5985328c121649b3f65ff1f2d041d17f84",
+  "feed": "wall-street-journal",
+  "title": "CVS Announces Deal to Acquire Home-Healthcare Company Signify; Purchase would be an $8 billion move to expand drugstore chain's reach in medical care",
+  "text": "<p>CVS Health Corp. is betting $8 billion that the house call is the future of healthcare.</p><p>The drugstore giant's deal to acquire home-healthcare company Signify Health Inc., announced Monday, will add 10,000 contracted doctors and clinicians and give CVS a hand in coordinating medical care for millions of Americans.</p><p>CVS, the nation's biggest healthcare company by revenue, said that it agreed to acquire Signify for $30.50 per share in an all-cash deal, confirming earlier Wall Street Journal reports. CVS said it expects the deal, finalized over the weekend after a sales process that drew interest from companies from Amazon.com Inc. to UnitedHealth Group Inc., to close in the first half of 2023.</p><p>CVS for years has worked to transform itself from a pharmacy chain to an integrated provider of medical services, with the biggest step being its 2018 acquisition of insurer Aetna. Initially, CVS envisioned a model centered on pharmacists, in-store clinics and a giant insurance business.</p><p>But Karen Lynch, who took over as CVS CEO last year, determined that the company needs doctors on its payroll to fulfill those ambitions. She also set out to expand CVS's presence in home healthcare, demand for which has been rising as the U.S. population has aged.</p><p>\"The house call is having what I'd characterize as a renaissance,\" she said in an interview. \"This deal enhances the connection to consumers in the home.\"</p><p>Signify's model is based on an analytics-and-technology platform, used by doctors that go into homes equipped with connected iPads, that allows the clinicians to assess patient needs and connect them with follow-up services.</p><p>The clinicians \"operate much like Uber drivers,\" said Kyle Armbrester, Signify Health chief executive. \"We're in a gig economy and this is a flexible model.\"</p><p>Ms. Lynch said CVS, by being the care coordinator, can direct more patients to other CVS services and generate savings for patents. She said CVS remains focused on expanding into primary care in addition to in-home health. Ms. Lynch has previously said the company is looking to acquire primary-care practices.</p><p>The deal is the latest for a home-health company. Rival Walgreens Boots Alliance Inc. last week finalized a deal to purchase a majority stake in CareCentrix, Inc., another home-healthcare platform.</p><p>This spring, UnitedHealth agreed to buy LHC Group Inc., one of the country's largest home-health firms, for about $5.4 billion. Last year, Humana Inc. agreed to take full control of home-health provider Kindred at Home. Both LHC and Kindred provide continuous home-healthcare services.</p><p>Signify has grown to serving more than 2.5 million homes from around 300,000 five years ago, said Mr. Armbrester, who is set to remain CEO of Signify Health after the acquisition.</p><p>With Signify, CVS also is acquiring Caravan Health, which manages accountable-care organizations. In an ACO, providers typically take responsibility for groups of patients while insurers offer financial rewards for ACOs that save money and hit quality goals. Caravan works with 170 providers that participate in ACOs serving Medicare beneficiaries. Signify acquired Caravan in March.</p><p>New York-based private-equity firm New Mountain Capital formed Signify in 2017 by merging two companies. At the time it had an enterprise value of about $600 million. Since then, it has grown steadily organically and through acquisitions.</p><p>\"CVS should be able to amplify the scale of the Signify network, reach more patients, then integrate pharmacy and broader care management into the company's service lines,\" said Matt Holt, Signify chairman and New Mountain president of private equity.</p><p>Laura Cooper contributed to this article.</p><p>Write to Sharon Terlep at sharon.terlep@wsj.com</p><p>CVS Announces Deal to Acquire Home-Healthcare Company Signify</p>",
+  "published": "2022-09-05T21:04:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.999424,
+      "offsets": [
+        {
+          "start": 635,
+          "end": 657
+        },
+        {
+          "start": 2314,
+          "end": 2326
+        },
+        {
+          "start": 2296,
+          "end": 2308
+        },
+        {
+          "start": 638,
+          "end": 661
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7968366,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.2066507,
+        "tagPositionWeight": 0.0034873486,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

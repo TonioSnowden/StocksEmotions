@@ -1,0 +1,54 @@
+{
+  "_id": "7ae652c2ceee6de9807e1e2de5ac67bba9ac07f96c72209d3943baa154bbe6c9",
+  "feed": "ftcomall",
+  "title": "Apple warns users to install software updates to prevent hackers accessing devices",
+  "text": "<p>Apple has released software updates this week after disclosing vulnerabilities&#xa0;that could have enabled hackers to access devices, as the company faces pressure to tackle spyware and defend its reputation for strong cyber security.</p> <p>In “<a href=\"https://www.ft.com/cyber-security\">security </a>update” posts on Wednesday and Thursday, Apple said customers should update to the latest software to avoid risks affecting its Safari browser and Mac computers, as well as its iPhone and iPad devices.</p> <p>“These software vulnerabilities could give attackers full access to a vulnerable device,” said&#xa0;Rachel Tobac, a hacker and chief executive of SocialProof Security, which teaches companies about cyber attacks.</p> <p>“Everyone should update their Apple devices, especially those who are most at risk for nation-state attacks, such as journalists, activists and those in the public eye.”</p> <p><a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple</a> has credited an anonymous researcher for alerting the firm to the issue, without providing further details. The US Cybersecurity and Infrastructure Security Agency also advised users to apply necessary updates as soon as possible.</p> <p>Before a software update was released, the bugs would have been considered “zero day” vulnerabilities because a fix for them had not previously been available. Such issues, if serious, can be hugely valuable among hackers, fetching thousands of dollars on the open market.</p> <p>The update comes after the&#xa0;release&#xa0;of an emergency software patch <a href=\"https://www.ft.com/content/2ae631af-edc6-4ce3-b848-323e9c8de3d7\">last year</a>, when researchers discovered a vulnerability that allowed hackers to deploy controversial Israeli company NSO Group's spyware tool through Apple's iMessage app.</p> <p>Apple has <a href=\"https://www.ft.com/content/ace7c109-7404-4986-ae11-4074a497c934\">sued NSO Group</a> over the affair and the Israeli company has been blacklisted by the US commerce department. NSO's spyware is known to have been used to target journalists, dissidents and human rights activists around the world.</p> <p>Apple has long marketed the greater security and privacy it offers users, including allowing them to opt out of being tracked by marketers, in moves that have led to losses of billions of dollars in online advertising for companies such as Facebook's parent Meta.</p> <p>Apple said it was aware of reports that the latest vulnerabilities&#xa0;“may have been actively exploited” but declined to comment further.</p> <p>Last month, the company introduced a security function called “Lockdown Mode” for users who feel they are vulnerable to sophisticated cyber attacks. </p> <p>Apple said this “extreme, optional protection” was to protect against “the rarest” of attacks and it would strictly limit the capabilities of an iPhone.</p><p>Source: Patrick McGee in San Francisco and Rafe Uddin in London 2022 'Apple warns users to install software updates to prevent hackers accessing devices' FT.com 19 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-19T16:20:21.505Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999624,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 284,
+          "end": 289
+        },
+        {
+          "start": 1542,
+          "end": 1547
+        },
+        {
+          "start": 1563,
+          "end": 1568
+        },
+        {
+          "start": 1798,
+          "end": 1803
+        },
+        {
+          "start": 2061,
+          "end": 2066
+        },
+        {
+          "start": 2343,
+          "end": 2348
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

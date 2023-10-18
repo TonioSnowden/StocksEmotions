@@ -1,0 +1,50 @@
+{
+  "_id": "ce2421c874a15a2f339bc0e51262c5765964a142afed970f267319a389497f8b",
+  "feed": "economist-newspaper",
+  "title": "European utilities: Generating controversies",
+  "text": "<p>Mr Habeck argues that the levy is necessary to save utilities such as Uniper or the SEFE Group (formerly Gazprom Germania). They are facing billions in losses as a result of Russia's decision to curtail supplies of gas in response to Western sanctions over its invasion of Ukraine in February. In order to meet their obligations to customers, the power companies must cover the shortfall by buying the fuel at exorbitant cost in the spot market.</p><p>The trouble is that as designed, proceeds from the levy could go to some energy companies that appear to be doing rather well out of the current ruckus. They include firms such as Gunvor, an energy trader based in Switzerland whose net profit nearly quadrupled in the first half of the year, and RWE, a German one which reported an adjusted gross operating profit of EUR2.9bn for the first six months of 2022, up from EUR1.8bn for the same period last year.</p><p>A humbled Mr Habeck has vowed to look for ways to adjust the levy to avoid benefiting undeserving firms. RWE has pledged not to take advantage of the scheme. Still, the episode illustrates the topsy-turvy state of Europe's energy markets, where some companies are asking for bail-outs while others stand accused of price gouging and threatened with windfall taxes on excess profits. The winners are getting \"revenues they never calculated with; revenues they never dreamt of; and revenues they cannot reinvest to that extent,\" fulminated Ursula von der Leyen, the president of the European Commission, the EU's executive arm, on September 7th.</p><p>The most troubled utilities are, predictably, those that depend directly on gas from Russia. Germany's Uniper, Europe's largest importer of the stuff, worked smoothly with Gazprom for more than 40 years until June. Since then Russia's state-owned behemoth has cut deliveries by 80%. In July Uniper reported an EUR12.3bn loss for the first half of 2022. The government agreed to take a 30% stake and provided EUR15bn in emergency aid. Even so, Uniper continues to lose EUR130m a day, calculates Wanda Serwinowska of Credit Suisse, a bank. As the supplier of more than 25% of Germany's gas, it is too big to fail. On August 29th it asked Kf W, a state-owned bank, to increase its EUR9bn credit line by EUR4bn.</p><p>On August 31st Wien Energie, Austria's largest regional utility, which is also heavily reliant on Russia, received a EUR2bn credit line from the government to meet margin calls. The company is in talks with officials about a EUR6bn bail-out. And on September 4th Sweden and Finland announced that they have made $33bn available for Nordic utilities that struggle to trade on extremely volatile power markets, where sky-high prices mean that companies must post much higher collateral to secure trades. The collateral needs of Fortum, a Finnish utility, jumped by EUR1bn, to EUR5bn, in a week.</p><p>Utilities that do not depend on gas to generate power are doing considerably better. But their latest results have little to do with the current turmoil. Because most companies hedge and sell forward contracts for electricity and gas, profits today often reflect the price of commodities a few years ago, says Alberto Gandolfi of Goldman Sachs, another bank. All told, Mr Gandolfi forecasts, European utilities will generate combined net profits of EUR17bn this year, down from EUR30bn in 2021 (see chart). If governments do not intervene, those combined profits could bounce back roughly to last year's levels in the next few years, the bank reckons.</p><p>Even if all of this--some EUR150bn between 2020 and 2024, according to Goldman Sachs--were confiscated by the state, it would be a drop in the bucket next to the EUR2trn that Europeans will need to fork over in extra energy bills between 2021 and 2023 if prices do not come down. Sam Arie of UBS, one more bank, warns against raiding utilities for cash. A windfall tax would discourage them from making much-needed investments. It could, for example, prompt RWE to rethink its plan, announced in July, to invest EUR5bn in renewables this fiscal year, 30% more than it had originally planned. It would also leave the firms with less money to build infrastructure to bring liquefied natural gas from terminals in the west of the European continent to its gas-starved centre.</p><p>Investors in Europe's listed utilities have remained remarkably placid. The combined value of the biggest firms looks as boring as ever. The market may have concluded that excess profits will be taxed away--or simply won't materialise.</p>",
+  "published": "2022-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 3572,
+          "end": 3585
+        },
+        {
+          "start": 3572,
+          "end": 3579
+        },
+        {
+          "start": 3179,
+          "end": 3192
+        },
+        {
+          "start": 3156,
+          "end": 3169
+        },
+        {
+          "start": 3546,
+          "end": 3559
+        },
+        {
+          "start": 3179,
+          "end": 3186
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0951238,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.90487623,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

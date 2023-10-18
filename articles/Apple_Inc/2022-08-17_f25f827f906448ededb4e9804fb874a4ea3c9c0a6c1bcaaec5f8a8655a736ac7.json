@@ -1,0 +1,38 @@
+{
+  "_id": "f25f827f906448ededb4e9804fb874a4ea3c9c0a6c1bcaaec5f8a8655a736ac7",
+  "feed": "wall-street-journal",
+  "title": "Still Time to Chip In on Synopsys --- Semiconductor-design software should float above coming crunch in sales and capital spending",
+  "text": "<p>Synopsys is the largest company specializing in so-called electronic design automation, or EDA, software. This is the software that allows semiconductor engineers to efficiently design and test complex chips that often contain more than a billion transistors each -- with circuitry measuring thinner than a human hair. Those designs grow even more complex as chip-production processes advance to ever smaller circuitry. Five years ago, the most advanced chips were using circuitry 14 nanometers wide; 7 nanometers is now the standard for most top-of-the-line chips, though Taiwan Semiconductor Manufacturing is mass-producing chips with 5-nanometer features.</p><p>Booming chip demand over the past couple of years has been great for Synopsys. Revenue averaged 18% year-over-year growth over the past eight quarters, compared with an average of 8% for the eight quarters prior. And trailing 12-month operating margins are at 23% -- the highest in at least two decades, according to S&amp;P Global Market Intelligence data.</p><p>But good times never last in the highly cyclical chip market. The global macroeconomic slowdown is making its mark. Chip buyers are cutting down on orders as inventories grow. That forced major chip makers like Nvidia, Intel and Micron to cut outlooks, with the latter two scaling back capital-expenditure plans. World Semiconductor Trade Statistics -- the industry's official data source -- projects growth in global semiconductor sales to slow this year to 16.3% compared with 26.2% last year, with next year's growth expected to slow to 5.1%. Some think those numbers are optimistic; analysts for BofA Securities expect chip sales to grow less than 10% this year and to fall in 2023.</p><p>Some analysts expect a downturn in spending for chip-manufacturing equipment next year, after a strong three-year run of gains. This, too, is a highly cyclical market that tends to experience sales downturns every two to three years. But Harlan Sur of JPMorgan notes EDA software tends to be tied to R&amp;D budgets, as opposed to capital expenditures. Synopsys hasn't experienced a decline in annual revenue since 2005; the market for semiconductor capital equipment saw six annual revenue declines in that time, according to data from TechInsights.</p><p>The reason for that durability is that chip makers are less apt to cut R&amp;D budgets during sales downturns, since doing so can put future products and sales at risk. And EDA software companies like Synopsys are no longer solely dependent on the big chip makers. Tech titans such as Apple, Amazon and Google have taken to designing their own chips for products like smartphones and the servers in their data centers. Apple, which recently replaced Intel chips in its Mac lineup and is reportedly looking to do the same with Qualcomm's modem chips in its iPhones, has grown its R&amp;D spending by an average of 17% annually over the past five years, outpacing 12% average annual revenue growth in that time.</p><p>Synopsys' strength should be evident in its fiscal third-quarter results coming Wednesday. The midpoint of the company's forecast -- which Synopsys exceeded every quarter but one over the past four years -- calls for revenue to grow 16% on-year compared with 10% growth a year earlier. For the fiscal year ending in October, the midpoint of company guidance is for 19% revenue growth -- its highest since 2003. Wall Street expects Synopsys' top-line growth to stay in the double-digit range over the next two years, when industry revenue is expected to flatten and possibly decline. With tech titans and governments fully awakened to the indispensability of semiconductors, chip designers won't get any downtime.</p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2509,
+          "end": 2514
+        },
+        {
+          "start": 2528,
+          "end": 2533
+        },
+        {
+          "start": 2642,
+          "end": 2647
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.9403675,
+        "baseWeight": 3.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -1.0596325,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

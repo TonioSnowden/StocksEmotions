@@ -1,0 +1,40 @@
+{
+  "_id": "c690e01ed2ac51623d458fed08bf7c4c05832ae1c622b706b2615391285219b7",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Google Faces Investigation in the U.K. Over Chrome",
+  "text": "<p>The investigation will examine whether Google's plan -- which hasn't yet been finalized -- could cause advertisers to shift spending to Google's set of online-ad tools at the expense of its competitors, the CMA said. The regulator said it has an open mind and hasn't determined whether or not any laws have been broken.</p><p>Third-party cookies offer data that can be valuable to advertisers for the purpose of targeting ads, but have long raised privacy concerns, leading Google to announce last year that it would stop using them in 2022.</p><p>\"We welcome the CMA's involvement as we work to develop new proposals to underpin a healthy, ad-supported web without third-party cookies,\" a Google spokeswoman said Friday.</p><p>The probe is one of several in the U.S. and Europe stemming from complaints that online-privacy measures from big tech companies like Apple Inc., Facebook Inc. and Google, owned by Alphabet Inc., are designed, at least in part, to squeeze out smaller competitors.</p><p>The complaints highlight a potential dilemma in the growing backlash against big tech: protecting user privacy and promoting online competition can sometimes be at odds, particularly because one of tech's most popular business models is targeting advertising at individuals based on their online behavior.</p><p>In an antitrust lawsuit against Google last month, Texas and nine other U.S. states said that Google's plans to remove third-party cookies from Chrome, while justified on privacy grounds, would end up increasing Google's advantage over other companies by giving it more data than competitors.</p><p>Chrome is the most widely used web browser, with more than 60% market share globally, according to Statcounter.</p><p>\"Google's entire business model is to collect comprehensive data about every user in the service of brokering targeted ad sales. It then uses privacy concerns as an excuse to advantage itself over its competitors,\" the lawsuit says.</p><p>In separate lawsuits against Facebook last month, the U.S. Federal Trade Commission and 46 states argued, among other things, that Facebook had harmed competitors that wanted to offer competing services by cutting off their access to Facebook's platform for third-party app developers.</p><p>Facebook said at the time that the lawsuits \"misunderstand the advertising landscape and offer instead a distorted view of how advertisers spend to reach their target audiences.\"</p><p>In France, meanwhile, advertising and publishing companies in October filed a complaint against Apple with France's competition authority, arguing that Apple's plan to require apps to get opt-in permission from users to collect a widely used advertising identifier for iPhones is anticompetitive because it would deprive many companies of needed data.</p><p>Apple responded to the complaint by saying \"privacy is a fundamental right\" and that users \"should get to decide whether to share their data and with whom.\"</p><p>In the months since it said it would phase out third-party cookies, Google has started work with the industry on a new \"privacy sandbox\" to allow for new ways to target advertising without compromising privacy. One such proposal would analyze browsing on individual devices to model groups of people without creating individual profiles, Google says.</p><p>The U.K.'s CMA said Friday that it had already been informally looking into Google plans to phase out third-party cookies, in collaboration with the U.K.'s privacy regulator. It decided to open a formal probe in part because of a complaint last fall from Marketers for an Open Web, a group that says it represents companies in the marketing and advertising business.</p><p>The group -- which declines to name its members, citing a fear of reprisals from Google -- argues Google's plans could cement the company's heft in the online advertising space.</p><p>James Rosewell, the group's director, said Friday that the investigation shows the CMA recognizes the seriousness of the issue. \"This is about the future of the Open Web and the threat that Google poses to its development,\" Mr. Rosewell said.</p>",
+  "published": "2021-01-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2535,
+          "end": 2540
+        },
+        {
+          "start": 844,
+          "end": 849
+        },
+        {
+          "start": 844,
+          "end": 854
+        },
+        {
+          "start": 2479,
+          "end": 2484
+        },
+        {
+          "start": 844,
+          "end": 853
+        },
+        {
+          "start": 2735,
+          "end": 2740
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

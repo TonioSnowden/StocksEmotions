@@ -1,0 +1,52 @@
+{
+  "_id": "ff7702b4cbdac0cb30b9917d400dbc6db2ce24339839b4fe8753ec7265a82e0c",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Microsoft Secures $22 Billion Army Contract",
+  "text": "<p>The military has long relied on vision-enhancing tools like night-vision goggles to improve combat effectiveness. But that advantage has been reduced as such equipment has become more widely available, adding to a push to find a new technology edge.</p><p>The U.S. Army called Microsoft an \"industry leader in developing innovative technology.\"</p><p>CNBC earlier reported the deal's value.</p><p>Augmented reality, known as AR, overlays digital content onto a person's view of the real world. AR headsets have been gaining popularity as a resource for workers in industries such as retail, healthcare and automotive manufacturing.</p><p>The Army sees AR headsets as a potential way to make sure troops are more aware of dangers around them, keeping them safer.</p><p>Microsoft has a long history supplying tools to the U.S. military. In 2019, the company won a landmark cloud-computing contract with the Pentagon worth up to $10 billion over the next decade, beating out Amazon.com Inc., which had been widely seen as the front-runner.</p><p>Also that year the U.S. government awarded a 10-year $7.6 billion Pentagon contract to General Dynamics Corp. that included replacing existing IT systems with Microsoft's Office 365. The Marine Corps also has experimented with Microsoft's HoloLens technology.</p><p>The new deal with the U.S. Army comes after Microsoft in 2018 won a $480 million contract to supply it with 100,000 modified HoloLens headsets. The custom-designed devices will help soldiers make informed decisions as they confront current and future adversaries, the Army said. For example, the headsets will feature night vision capabilities and allow soldiers to measure the distance between their current location and their team members in the dark, according to Microsoft.</p>",
+  "published": "2021-04-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 11,
+          "end": 20
+        },
+        {
+          "start": 1166,
+          "end": 1175
+        },
+        {
+          "start": 1234,
+          "end": 1243
+        },
+        {
+          "start": 1734,
+          "end": 1743
+        },
+        {
+          "start": 1311,
+          "end": 1320
+        },
+        {
+          "start": 271,
+          "end": 280
+        },
+        {
+          "start": 738,
+          "end": 747
+        },
+        {
+          "start": 1234,
+          "end": 1245
+        },
+        {
+          "start": 1166,
+          "end": 1177
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

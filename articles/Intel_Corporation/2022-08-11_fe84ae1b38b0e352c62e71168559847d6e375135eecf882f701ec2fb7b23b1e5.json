@@ -1,0 +1,70 @@
+{
+  "_id": "fe84ae1b38b0e352c62e71168559847d6e375135eecf882f701ec2fb7b23b1e5",
+  "feed": "market-watch",
+  "title": "Semiconductor companies have split into two groups — the resilient and the risky; Even outperformers including AMD and Nvidia face a slowdown in some segments after years of surging demand",
+  "text": "<p>The bill may have been a victorious moment for semiconductor companies, but as earnings season progresses, there's a broader story playing out. With earnings warnings from heavyweights Nvidia NVDA and Micron Technology MU, and a recent outsized miss from the once-mighty Intel INTC, it is a good moment to reflect on what last quarter's results are telling us about the semiconductor industry and the downstream impact the results may have.</p><p>In short, the semiconductor space is migrating into two distinct groups. Part of the market is likely to remain robust through any downturn and a second part appears to be at a much higher risk. In some cases, some of the big semiconductor names fall into both.</p><p>Big risks</p><p>After Intel noted a rapid deterioration in demand for PCs in its recent earnings report, it became evident that the boom for PCs has likely entered a bust cycle. Companies enjoyed multiple years of demand being pulled forward, and there's now a period of normalization — which to most onlookers will feel like a steep decline.</p><p>As I've noted in earlier pieces, the post-Covid and post-QE era will disproportionately impact consumer and discretionary spending. While a better-than-expected July CPI print (released Wednesday) has sent the market into a rally, the bottom line is that personal balance sheets will struggle to keep up. We also see a credit bubble pop up along with declining housing values. All of which points to less discretionary income.</p><p>For semiconductor companies with significant exposure to consumer and discretionary spending, there will likely be short- to mid-term headwinds and slowing consumption. In the most recent quarter, Mac numbers fell, Intel's PC numbers dropped, AMD's AMD PC numbers decelerated, and that will likely hit some lower-end mobile devices.</p><p>PC sales for the enterprise are also due to slow after a torrent multi-year buying cycle to help companies put people to work from home. Recent IDC data has PC numbers dropping 8.4% this year, and I wouldn't be surprised if that number is higher. This slowdown will likely significantly impact HP HPQ, which could be bolstered near term by its backlog. Still, unlike its counterparts at Dell DELL, Lenovo LNVGY and Microsoft MSFT, it doesn't have as broad of diversity in its portfolio.</p><p>It's hard not to think this will also creep into automotive in the coming quarters. As supply improves, higher interest rates are certainly going to crimp demand. And while the Inflation Reduction Act may breathe a bit of life into the electric vehicle market, those numbers are still relatively small. The silver lining for semiconductor names with exposure to automotive is the rapidly increasing volume of chips in each vehicle, which is on pace to hit 20% of the vehicle bill of materials by 2030.</p><p>Finally, the Nvidia shout heard worldwide can't go without mention. The company missed big and pre-announced its results, with gaming being the big reason for the drop. While a multi-year run of record revenues should bring some relief to investors, slower demand for gaming is the first part of the story. The second part is the rapid slowing of demand for GPUs for crypto mining as cryptocurrency prices crashed.</p><p>Big rewards … maybe</p><p>A bright spot in the current earnings season has been cloud and enterprise tech. While there was deceleration in growth rates, the big cloud providers showed resilience as Alphabet's GOOG Google Cloud, Microsoft Azure and Amazon's AMZN Amazon Web Services grew north of 30% and largely put concern about cloud demand to bed.</p><p>Deflationary technology will be more in vogue as companies sort out the slowing of the economy, continued high wages for skilled workers and a more hawkish Fed, which is steadfast in creating a supply-and-demand parity that slows out-of-control inflation. This trend will mean more spending on SaaS, cloud, AI, automation and any technology that can streamline productivity while offsetting large cost centers such as headcount.</p><p>Beyond the hyperscalers, early reads saw some solid results from the enterprise software and services space. Microsoft had continued strong growth for its Dynamics 365 software. ServiceNow NOW saw strength and a propensity toward customers aggressively continuing their cloud migration journeys, growing 24%, with CEO Bill McDermott saying in an interview that digital transformation initiatives are stronger than macroeconomic headwinds.</p><p>Semiconductor company numbers told the same story, with few exceptions. Nvidia's preliminary numbers showed significantly slower growth in its data-center business, but that is on the heels of massive record growth each of the past several quarters. Intel has delayed its Sapphire Rapids offering, which has hampered its data-center numbers.</p><p>Recent results from Qualcomm QCOM, AMD, Lattice LSCC and Taiwan Semiconductor TSM were impressive. Each is buoyed by a different strategic positioning that bodes well in a more challenging economic climate.</p><p>Qualcomm has a strong relationship with Samsung and market leadership at the premium-device tier. Taiwan Semi's Apple relationship is a significant tailwind. AMD is bolstered by more robust data-center demand and delays from Intel. And Lattice, a smaller semiconductor manufacturer, has its business heavily weighted to seculars like 5G, data center, cloud and auto, which helped it deliver record results.</p><p>Uncertainty looms everywhere</p><p>Nvidia's sobering early results, coupled with Micron's regulatory filing this week alluding to the slowing demand being more than just PCs, certainly warrants some attention. That's especially after having an excellent showing this past quarter with its data-center business.</p><p>However, the positive to come from comments in its filing is that there are broadening indicators of the supply-chain woes starting to turn over as inventories of semiconductors have increased.</p><p>Suffice it to say, there may be a short period of a slowdown across all semiconductors. Still, demand for technology in the enterprise and high-end devices, and automobile-chip-consumption trend lines all point to strength. That makes companies with minimal exposure to low- and mid-tier consumer tech particularly interesting.</p><p>Daniel Newman is the principal analyst at Futurum Research, which provides or has provided research, analysis, advising or consulting to Nvidia, Intel, Qualcomm and dozens of other companies. Neither he nor his firm holds any equity positions in companies cited. Follow him on Twitter @danielnewmanUV.</p><p>Semiconductor companies have split into two groups — the resilient and the risky</p>",
+  "published": "2022-08-11T19:52:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.999999,
+      "offsets": [
+        {
+          "start": 271,
+          "end": 276
+        },
+        {
+          "start": 4633,
+          "end": 4638
+        },
+        {
+          "start": 6298,
+          "end": 6303
+        },
+        {
+          "start": 5191,
+          "end": 5196
+        },
+        {
+          "start": 1670,
+          "end": 1675
+        },
+        {
+          "start": 1682,
+          "end": 1687
+        },
+        {
+          "start": 6345,
+          "end": 6350
+        },
+        {
+          "start": 5152,
+          "end": 5157
+        },
+        {
+          "start": 719,
+          "end": 724
+        },
+        {
+          "start": 714,
+          "end": 719
+        },
+        {
+          "start": 4667,
+          "end": 4672
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.124772,
+        "baseWeight": 11.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.124771714,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "c9e5fafb033610903a42e63cea600730f025719a5f5489954eb295bf524e57b0",
+  "feed": "reuters",
+  "title": "Deals of the day-Mergers and acquisitions",
+  "text": "<p>** Investment management firm Holocene Advisors said that Merck &amp; Co 's proposed offer of $180 per share for Acceleron Pharma Inc significantly undervalues the company.</p><p>** Suriname state oil company Staatsolie said it had signed a 30-year production sharing contract with U.S. producer Chevron Corp for the South American country's offshore Block 5.</p><p>** Brazilian retailer Lojas Americanas SA , has ended talks about a potential acquisition of Marisa Lojas , two sources with direct knowledge of the matter said.</p><p>** SeatGeek agreed to go public in a merger with a special-purpose acquisition company, backed by baseball executive Billy Beane of \"Moneyball\" fame, giving the online ticketing firm an enterprise value of $1.35 billion.</p><p>** Standard Chartered Plc announced a 10-year fintech partnership with Singapore-based Atome Financial on Wednesday to help it grab a piece of the booming buy now, pay later market in Asia that has thrived during the pandemic.</p><p>** Invesco said it facilitated talks between India's Reliance Industries and Zee Entertainment earlier this year on a possible merger, revealing for the first time that India's richest man, Mukesh Ambani , was interested in the television giant.</p><p>** Private equity firm Francisco Partners has agreed to invest in legal software platform Paradigm in a deal that valued the firm at $400 million, people familiar with the matter told Reuters.</p><p>** UK insurance firm Howden Group has bought UK insurance broker Aston Lark from Goldman Sachs Asset Management and Bowmark Capital, the firms said.</p><p>** Prony Resources said Tesla Inc had agreed to purchase around 42,000 tonnes of nickel in a multi-year deal - a pact that is set to make the New Caledonian miner a key supplier of the metal to the U.S. electric car maker.</p><p>** Advertising group WPP said its public relations unit Finsbury Glover Hering would merge with peer SVC to form a new company worth about $917 million, and Roland Rudd would remain a co-chairman of the combined entity.</p><p>** A consortium led by private equity giant KKR &amp; Co is nearing a deal to buy rights to music by pop icons Lorde and The Weeknd for $1.1 billon, the Financial Times reported on Tuesday, citing people familiar with the talks.</p><p>** Global commodities giant Glencore Plc said on Tuesday that it had reached an agreement to sell its zinc business in Bolivia to Canada's Santa Cruz Silver Mining for some $110 million.</p>",
+  "published": "2021-10-13T20:15:42.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99964,
+      "offsets": [
+        {
+          "start": 1480,
+          "end": 1510
+        },
+        {
+          "start": 1480,
+          "end": 1487
+        },
+        {
+          "start": 1480,
+          "end": 1493
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.77378166,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.22621906,
+        "tagPositionWeight": 7.1525574e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

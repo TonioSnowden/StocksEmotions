@@ -1,0 +1,30 @@
+{
+  "_id": "925e8d0bc6c3b986833fcd6f3998be5514ac1f7f044542ffaa49d21d6c990269",
+  "feed": "market-watch",
+  "title": "Seagate sends ominous warning about cloud spending while cutting forecast again; Data-storage products company sees earnings coming in 'meaningfully below' previous guidance as it deals with 'more cautious buying behavior among global Enterprise / OEM and certain U.S. cloud customers'",
+  "text": "<p>Seagate STX shares fell as much as 6% to an intraday low of $65.10, and were last down about 3%. Year-to-date, shares are down 40%, compared with a 16% decline in the S&amp;P 500 index SPX and a 24% fall in the tech-heavy Nasdaq Composite Index COMP.</p><p>Demand for consumer-facing products such as PCs and smartphones has dropped in recent months because of inflation and recessionary fears, with one analyst predicting that chip stocks may have another 25% to fall this year in what could be the worst downturn for the semiconductor market in a decade. But cloud growth and spending have mostly held up in recent earnings reports, even as fears of a slowdown persist.</p><p>Opinion: 'People will freak out' — The cloud boom is coming back to Earth, and that could be scary for tech stocks</p><p>Evercore ISI analyst C.J. Muse contends that the cloud slowdown is because so-called hyperscalers — large cloud-computing companies and other Big Tech firms constantly building and upgrading data centers, such as Amazon.com Inc. AMZN, Microsoft Corp. MSFT, Alphabet Inc. GOOGL GOOG and Meta Platforms Inc. META— have already bought the storage and memory they need for now, not because they're pulling back on projects. He admitted that is up for debate, however.</p><p>\"Seagate's commentary now more closely aligns with that of Micron MU and Western Digital WDC, and we believe the cloud demand weakness all three are seeing in storage and memory relates primarily to inventory issues rather than a broad-based hyperscale slowdown — though this will obviously be a key debate,\" Muse wrote.</p><p>Muse expects all companies that issued an outlook in July to issue some sort of revision as trends weakened in the first few weeks of August, he wrote in a Wednesday note.</p><p>\"From here, all eyes for Seagate will now be on the length and magnitude of the inventory correction and corresponding underutilization-driven gross margin headwinds,\" Muse, who has a hold rating and $85 price target on Seagate, wrote.</p><p>In-depth: Chip stocks tanked as pandemic demand for electronics slumped, but there are still some winners</p><p>Seagate executives expect adjusted earnings \"meaningfully below our prior guidance of at least $1.20\" a share for the September-ending quarter on revenue of $2 billion to $2.2 billion, down from its previous forecast of $1.20 to $1.60 a share on revenue of $2.35 billion to $2.65 billion, which had already been below Wall Street estimates at the time, citing a slowdown in consumer demand. Analysts surveyed by FactSet were forecasting earnings of $1.38 a share on revenue of $2.48 billion.</p><p>\"As we operate under these dynamic market conditions, we continue to take proactive steps to minimize the impacts to the business,\" Mosely said. \"We are further reducing our production output, lowering expenses, and moderating fiscal 2023 capital investments. The combination of lower revenue, increased underutilization charges and less favorable product mix in the September quarter will result in a sequential decline in margins.\"</p><p>Of the 27 analysts who cover Seagate, 10 have buy-grade ratings, 16 have hold ratings, and one has a sell rating with an average price target of $86.55.</p><p>Seagate sends ominous warning about cloud spending while cutting forecast again</p>",
+  "published": "2022-08-31T16:57:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1007,
+          "end": 1021
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9025846,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 8.4638596e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

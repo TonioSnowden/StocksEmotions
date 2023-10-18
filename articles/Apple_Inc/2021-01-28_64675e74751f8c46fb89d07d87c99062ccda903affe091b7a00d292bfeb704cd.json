@@ -1,0 +1,28 @@
+{
+  "_id": "64675e74751f8c46fb89d07d87c99062ccda903affe091b7a00d292bfeb704cd",
+  "feed": "wall-street-journal",
+  "title": "CME to Launch Futures for Trading of Carbon Offsets",
+  "text": "<p>Companies, investment firms, governments and other entities that have set carbon-reduction goals apply voluntary offset credits to their internal ledgers in order to balance out emissions that they can't otherwise eliminate.</p><p>Companies including Apple Inc. and BP PLC have pledged carbon neutrality in the coming decades, under pressure from investors who have shoveled billions of dollars into so-called ESG funds that promise to invest with environmental, social and governance responsibility in mind. That will require them to produce or purchase large numbers of offset credits, each of which represents a metric ton of carbon.</p><p>There are already futures contracts tied to carbon-offset credits that are used in so-called cap-and-trade systems around the world. California regulators, for instance, oversee a market that seeks to reduce greenhouse gasses by making it more expensive over time for companies operating there to pollute. Companies must buy allowances for certain volumes of emissions and may use cheaper offset credits to cover a portion of their tab.</p><p>Prices for California offset credits are fairly transparent, averaging $13.79 during the third quarter of last year, according to the California Air Resources Board. CME rival Intercontinental Exchange Inc. facilitates trading in futures tied to those prices.</p><p>The market is opaque when it comes to offset credits meant to appease investors instead of comply with regulators. Voluntary credits usually change hands for significantly less than compliance credits, though they vary greatly in price depending on how they were created and who is buying. A company may be willing to pay more for credits tied to the preservation of forests near its headquarters, for example, or affiliated with projects that deliver public-relations value.</p><p>With its Global Emissions Offset futures contract -- ticker: GEO -- CME aims to illuminate a fast-growing market that has thus far operated in a black box via privately negotiated transactions, said Peter Keavey, CME's global head of energy.</p><p>\"A lot of emissions trading and carbon-reduction projects are unique and regional in nature,\" Mr. Keavey said. \"Ultimately you need to develop a more global benchmark and viewpoint to harmonize the valuation and trading of offsets.\"</p><p>CME envisions its offset futures being a price gauge for the wide variety of credits, similar to how lumber futures are a barometer for the wide array of regional and species-specific wood prices. Offset futures will also allow companies to lock in prices for carbon credits created down the road and to hedge against declines in the value of those they already own.</p><p>Prices will be derived from transactions on a voluntary-offset exchange operated by Xpansiv, a firm that makes markets in data-based assets linked to energy, agriculture and ESG investing. The credits sold must have been verified by one of three carbon registries, organizations that uphold project standards and certify offsets.</p><p>Offset buyers on Xpansiv's platform presently browse credits by price and project, said Andy Bose, the firm's head of ecosystems and partnerships. Xpansiv, which won't disclose prices until the monthly futures contracts begin trading on March 1, is creating a spot contract in conjunction. Both are intended to satisfy bulk buyers who care more about price per ton than provenance, Mr. Bose said.</p><p>Each futures contract represents 1,000 offset credits. They will be settled physically, which means the holder of an expiring contract will receive certificates for 1,000 metric tons of carbon that has been offset.</p><p>Researchers with Forest Trends, a nonprofit focused on conservation finance, estimate that there were $320 million of voluntary-offset transactions in 2019 and a similar volume in 2020. Transaction and trading volume is expected to surge as deadlines approach for companies to meet emissions targets.</p><p>Government policies could stoke demand even more. Some of the world's largest companies have invested in offset producers and market makers, wagering that the nascent market will boom.</p><p>In December, BP bought a controlling stake in Finite Resources, a Pennsylvania forestry firm that has been the most prolific U.S. producer of carbon offsets, and earlier invested in Xpansiv. Amazon.com Inc. last year staked Pachama, a company that uses satellite imagery and computer programs to measure how much carbon is stored in forests.</p>",
+  "published": "2021-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 245,
+          "end": 255
+        },
+        {
+          "start": 245,
+          "end": 250
+        },
+        {
+          "start": 245,
+          "end": 254
+        }
+      ]
+    }
+  ]
+}

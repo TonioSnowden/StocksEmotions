@@ -1,0 +1,28 @@
+{
+  "_id": "0ca6924b957ada4807497e40dc2542d7bdc255b32c2f511ef5db34696c4ef166",
+  "feed": "wall-street-journal",
+  "title": "Apple Notified State Department Employees of Phone Hacking Linked to NSO Group Software; Foreign service officers in Uganda among those informed their iPhones were compromised in attack",
+  "text": "<p>The alerts appear to be the first confirmed cases of NSO Group's mobile hacking tool, known as Pegasus, being used to successfully target American officials.</p><p>The Biden administration last month placed NSO Group on an export prohibition list that restricts the firm from obtaining some types of technology from the U.S. That came after a recent series of articles published by a global consortium of journalism organizations alleged that Pegasus, one of NSO Group's main software intrusion tools, has been used by dozens of law-enforcement and intelligence customers around the world to target and break into cellphones belonging to politicians, human-rights activists and journalists.</p><p>\"Once the inquiry was received, and before any investigation under our compliance policy, we have decided to immediately terminate relevant customers' access to the system, due to the severity of the allegations,\" NSO Group said in a statement. \"To this point, we haven't received any information nor the phone numbers, nor any indication that NSO's tools were used in this case.\"</p><p>NSO didn't identify the customer or customers whose access to its tools were terminated and said it would cooperate with any relevant government authorities investigating the matter. Apple has a policy of notifying users it suspects have been targeted by state-sponsored attackers. Those notifications don't include who was behind the effort. Reuters first reported that at least nine State Department employees had been hacked by an unknown NSO Group customer.</p><p>The State Department declined to confirm the specific allegations, but said it closely monitors the cybersecurity conditions of its workers.</p><p>Write to Dustin Volz at dustin.volz@wsj.com and Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple Notified State Department Employees of Phone Hacking Linked to NSO Group Software</p>",
+  "published": "2021-12-03T21:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1752,
+          "end": 1757
+        },
+        {
+          "start": 1249,
+          "end": 1254
+        }
+      ]
+    }
+  ]
+}

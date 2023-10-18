@@ -1,0 +1,56 @@
+{
+  "_id": "bf4080b70df6e9ae95b0b9adb2613e54a404b93d6ea70b7532f5df3885a36eac",
+  "feed": "wall-street-journal",
+  "title": "Why Apple, Amazon and Google Are Uniting on Smart-Home Tech: Matter Explained; The new standard, arriving this year, provides a common language so all your devices can communicate with each other",
+  "text": "<p>SHARE YOUR THOUGHTS</p><p>What questions do you have about the new smart-home protocol? Join the conversation below.</p><p>Compatibility issues and setup complexity have made people slow to go all-in with smart-home technology. A new standard, called Matter, aims to change that.</p><p>When it rolls out this year, Matter will act as a common language spoken by most new—and many older—smart-home products. You could buy any gadget you wanted and connect it to whichever app you prefer. You'll be able to control it with the voice assistant of your choice, or even use multiple assistants and apps inside your home.</p><p>Even though Matter would work behind the scenes, it could mean more affordable devices that are easier to set up and even play nicely together.</p><p>What's perhaps most surprising: All the biggest names in smart-home tech are on board, so going forward, you won't be trapped in one walled garden. If you get tired of Alexa and want to switch to Apple's HomePod Mini, you could do it without having to also buy new automated blinds. (It's a little like the film industry going all-in on VHS back in the day.)</p><p>\"We all really recognized that unless we solved some foundational problems that were hitting all of us across the industry, this industry just wasn't going to grow,\" said Michele Turner, senior director of Google smart-home ecosystem.</p><p>Along with the tech giants, over 220 other companies support Matter. Between now and the end of the decade, vendors will ship more than 5.5 billion Matter-compliant smart-home devices, according to ABI Research.</p><p>Matter is designed to be more secure and private than other smart-home systems, in part because it can perform some basic functions without sending messages to the cloud. And you probably won't have to throw out all your old smart devices.</p><p>That's not to say the companies supporting Matter won't try to lock you in somehow. Matter defines basic functionality, but advanced features will still be linked to companies—like how AirPods work better with Apple devices.</p><p>'So Dead Simple'</p><p>Initially, Matter will run in door locks; sensors for motion, air quality and more; thermostats; lighting; garage-door openers; blinds and shades; smart plugs; and smart TVs. More complex smart-home products, such as security cameras, robot vacuums and appliances, won't be supported at launch.</p><p>When a developer wants to add a feature to its smart-home product, it has to expend resources to update the software for every platform. With Matter, most changes would only need to be made once, so developers could lower their prices.</p><p>Once you get your Matter-compatible product home, setup will be easy—you would just scan a QR code to add it to your network. \"The goal is for the vast majority of devices out there—lights, plugs, switches, sensors—to make that initial setup so dead simple that it just takes a couple of seconds,\" said Ms. Turner.</p><p>You can give your housemates smart-home access, letting them turn on the lights with Alexa while you use Siri. And if you have a mishmash of gear in your home, you might even get it all to work together. Right now, most people buy smart-home devices to address a \"singular need,\" said Adam Wright, an analyst with technology research firm International Data Corp., but that could change as more are compatible with Matter.</p><p>Quitting the Cloud</p><p>Google and Amazon's home devices regularly communicate with the cloud, while Apple's HomeKit is designed to work without as much internet dependence. Smart-home commands stay inside your home, which can make responses faster and more private. Matter takes a similar approach to HomeKit. If there's an internet outage, your Matter-enabled products could still work, much like how your Wi-Fi printer still operates when your broadband is down.</p><p>\"All smart-home accessories will have the same level of security, privacy and ease of use that Apple customers enjoy today with HomeKit accessories,\" Apple spokeswoman Jacqueline Roy said.</p><p>In the past, Eve Systems GmbH didn't link its smart plugs and sensors with Google and Amazon because they depend on the cloud, said Tim Both, Eve's senior brand and product manager. Eve didn't want to be responsible for user data. With Matter, the system's data can stay inside your home, even if you use Google or Amazon's platforms.</p><p>Amazon and others will still use the cloud for some things. Older Alexa-enabled smart speakers can't process commands without it, said Chris DeCenzo, a principal engineer at Amazon working on smart home and Alexa devices, adding that the cloud is \"a critical component of infrastructure for many, many smart-home devices and services today.\"</p><p>All New Stuff?</p><p>If you already bought into the smart-home life, you won't have to start over. Not completely, anyway.</p><p>All Philips Hue lights will work with Matter when the Hue bridges that control them get updated software, said George Yianni, co-founder of the Philips Hue lighting business, who now runs its R&amp;D for parent company Signify NV. \"Even ones we sold 10 years ago will become Matter-compatible.\"</p><p>Most newer products from the giants will work with the new standard. Google's Nest Wifi and its recent Hub displays will become connection points for Matter, while all Nest displays and speakers will get updates to control Matter devices. The newest Nest Thermostat will be compatible as well.</p><p>Nearly all Amazon Echo devices will let you set up and control Matter, too. Apple's HomePod Mini and second-generation Apple TV 4K will be able to act as Matter hubs, as will Samsung's SmartThings Hub v3.</p><p>Products that can't be updated will continue to work as before, just without the increased compatibility. Assa Abloy Group will upgrade some of its Yale locks, but it can't update its August line. Matter wasn't designed \"in a way that we can reliably run it on a Wi-Fi lock that runs on batteries,\" said Jason Williams, president of the company's August and Yale smart-lock businesses. The batteries would drain quickly, creating a poor user experience.</p><p>Some Yale locks can be upgradable with a hardware module—so you don't have to buy a new lock but you still might have to spend a bit extra. The company aims to make all future consumer locks work with Matter, Mr. Williams said.</p><p>Despite any initial shortcomings, Matter may be the key to smarter homes, even the homes of people without Ph.D.s in electrical engineering.</p><p>\"We know we're competing with a light switch,\" said Samantha Fein, vice president of business development and marketing at Samsung's SmartThings. \"So if it's not as easy as that, we're not going to get anywhere.\"</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Shara Tibken at shara.tibken@wsj.com</p><p>Why Apple, Amazon and Google Are Uniting on Smart-Home Tech: Matter Explained</p>",
+  "published": "2022-02-19T16:03:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3910,
+          "end": 3915
+        },
+        {
+          "start": 5447,
+          "end": 5455
+        },
+        {
+          "start": 3855,
+          "end": 3860
+        },
+        {
+          "start": 5404,
+          "end": 5409
+        },
+        {
+          "start": 1998,
+          "end": 2003
+        },
+        {
+          "start": 938,
+          "end": 943
+        },
+        {
+          "start": 6721,
+          "end": 6726
+        },
+        {
+          "start": 3395,
+          "end": 3400
+        },
+        {
+          "start": 5447,
+          "end": 5452
+        },
+        {
+          "start": 4,
+          "end": 9
+        }
+      ]
+    }
+  ]
+}

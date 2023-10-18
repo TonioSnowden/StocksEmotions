@@ -1,0 +1,38 @@
+{
+  "_id": "38225512412bfee62d7ec7eb8f6a040e60fa8d3e5e7eb0c1722354ed92699a5a",
+  "feed": "ftcomall",
+  "title": "BlackRock labels Texas ‘anti-competitive' over ESG blacklisting",
+  "text": "<p>BlackRock has come out fighting against Texas's decision to single it out as hostile to fossil fuels, calling the state's targeting of it “opportunistic”, “anti-competitive” and “bad for business”.</p> <p>The world's biggest asset manager was the only US company included by Glenn Hegar, Texas comptroller, on a list of 10 financial institutions <a href=\"https://www.ft.com/content/1fc2cc54-d364-48ad-aace-30625e5c61f6\">that “boycott” fossil fuels</a>. The groups face possible divestment by state pension funds.</p> <p>“Trying to stop a US company from doing business in its own backyard is bad for business,” said Mark McCombe, the head of <a href=\"https://www.ft.com/stream/2b9e833d-3b34-428d-8d2e-0da75ff037df\">BlackRock</a>'s US business, who made multiple trips to Texas to lobby state officials while the list was being drawn up. “It looks opportunistic in this climate.”</p> <p>“We have never turned our back on Texas oil and gas companies,” said McCombe, noting that BlackRock is the single largest investor in the state's <a href=\"https://www.ft.com/companies/oil-gas\">oil and gas industry</a> and has $290bn in Texas-based assets. “This is anti-competitive.”</p> <p>None of BlackRock's main rivals in fund management were included on Texas's list, although most of them were included as sponsors of nearly 350 specific investment funds that the state also considers hostile to oil and gas. </p> <p>The list stems from a 2021 Texas law that criticised environmental, social and governance based investing for potentially hurting the fossil fuel industry. The provisions require state pension and school funds to divest shares they hold in financial groups which, in the government's view, “boycott energy companies”.</p> <p>As a result, Hegar focused on publicly traded companies, which knocked out Vanguard and Fidelity. His office then relied on corporate ESG ratings from MSCI to come up with a list of 19 target companies. That list included US banks JPMorgan Chase, Goldman Sachs and Wells Fargo as well as investment manager Invesco, but none were included in the final list of 10.</p> <p>Hegar denied in an interview that the list was politically motivated. Companies on the initial list of 19 as well as the 150 behind the specific investment funds were invited to explain their position on fossil fuels, he said. He added that some were able to provide information that allayed the state's concerns.</p> <p>Those who did not, and those who failed to respond, were put on the final list of 10, which included Credit Suisse, UBS and BNP Paribas, among others. </p> <p>“The process was open and transparent,” Hegar told the Financial Times. “No matter what you do you run the risk of criticism.”</p> <p>BlackRock has been a target of top conservative politicians in Texas because founder <a href=\"https://www.ft.com/content/d7e83ba0-c90b-46c0-9233-ad06187606c1\">Larry Fink has been outspoken</a> about the need for companies to address climate change. Dan Patrick, the Republican Texas lieutenant-governor, wrote to Hegar in January asking him to “include BlackRock and any company like them”.</p> <p>The financial groups on the list have 90 days to convince Texas to change its mind. State pension funds will then have to notify the comptroller of their holdings, but the law gives them some flexibility on selling out if it affects their fiduciary duty to retirees.</p> <p>McCombe said BlackRock planned to work with Hegar's office to convince it to reconsider, and he said the group would continue to invest in the state and work with Texas-based clients.</p> <p>But he warned that the whole process was “not good for retirees and business confidence . . . Texas prides itself as being free market and open for business”.</p> <p>“Do other companies want to be doing business in a state where the rules can change around you?” he asked. “Is this the thin edge of the wedge?”</p><p>Source: Brooke Masters and Patrick Temple-West in New York 2022 'BlackRock labels Texas ‘anti-competitive' over ESG blacklisting' FT.com 25 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-25T21:37:45.652Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1732,
+          "end": 1739
+        },
+        {
+          "start": 1722,
+          "end": 1735
+        },
+        {
+          "start": 1732,
+          "end": 1745
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.547562,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

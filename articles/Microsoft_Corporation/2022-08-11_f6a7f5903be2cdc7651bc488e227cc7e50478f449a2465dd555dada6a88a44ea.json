@@ -1,0 +1,42 @@
+{
+  "_id": "f6a7f5903be2cdc7651bc488e227cc7e50478f449a2465dd555dada6a88a44ea",
+  "feed": "wall-street-journal",
+  "title": "Billionaire Robert Brockman, Accused of Biggest Tax Fraud in U.S. History, Dies at 81; The penny-pinching software executive was awaiting trial on charges of concealing more than $2 billion from the IRS; he denied the allegations",
+  "text": "<p>Though he had a net worth measured in the billions, few could have guessed it by the relatively modest way in which he lived. He didn't appear on Forbes' list of wealthiest Americans until he was indicted in 2020 on federal charges that he had committed the biggest individual tax fraud in U.S. history. (His wealth was pegged then at $4.7 billion, but his wife said in a December 2020 affidavit that a Brockman Bermuda trust had assets of at least $7.7 billion.)</p><p>Prosecutors claimed that Mr. Brockman used a web of offshore structures to conceal more than $2 billion in income from the Internal Revenue Service. He allegedly used encrypted servers and fishing-related code names to communicate with those said to be running this secret offshore empire, calling himself \"Permit,\" and the IRS \"The House.\"</p><p>Mr. Brockman died at age 81 on Aug. 5, his lawyer confirmed, while waiting to stand trial on the allegations, which he has denied.</p><p>OTHER OBITUARIES</p><p>* Fashion Designer Issey Miyake Dies at 84</p><p>* Former Microsoft Executive Richard Tait Created Cranium Board Game</p><p>* Donald Jonas, Dead at 92, Funded Nursing Education</p><p>His death won't end civil litigation in which the IRS is seeking more than $1.4 billion in back taxes, penalties and interest that it claimed he owed, but leaves open the possibility that prosecutors could end up without convicting any of those accused after a yearslong criminal investigation.</p><p>A second billionaire who was originally a target of the probe, Vista Equity Partners founder Robert Smith, signed a nonprosecution agreement in which he paid $139 million in back taxes and penalties and agreed to cooperate against Mr. Brockman, who was the private-equity firm's initial investor. A Houston tax lawyer who allegedly advised them both is set for trial late this year on charges he denies, but he is 83 years old and has a heart condition.</p><p>Robert Theron Brockman was born in May 1941, in St. Petersburg, Fla., where his father for a time owned a gas station. Mr. Brockman's \"face got rubbed in a lot of stuff when we were young,\" his younger brother Dave recently recalled. \"He didn't love that and went out to make something of himself.\"</p><p>After graduating from the University of Florida, Mr. Brockman worked in sales and began teaching himself computer programming. He founded a predecessor of Reynolds &amp; Reynolds in 1970.</p><p>He and his wife, Dorothy, lived in Houston and had one son, Robert T. Brockman II, both of whom survive him. The elder Mr. Brockman was passionate about fly fishing, which he did in Alaska and at a ranch in Colorado, and organized dove-hunting trips for his employees across the border in Mexico.</p><p>A pioneer in the software industry, Mr. Brockman was early to recognize the value of recurring revenue, locking his automotive-dealer customers into long-term contracts for a product that was essential to conducting business. His company had a rigorous sales-training program whose alumni went on to high-level roles at companies such as Microsoft Corp. and Oracle Corp.</p><p>Mr. Brockman never spent a dime more than he had to, though. He bought used furniture for company offices, rarely gave raises and forbade employees from smoking to save money on health insurance, former staffers said.</p><p>He had an antigovernment streak and didn't approve of the IRS, telling former associates it was a corrupt organization that unfairly targeted taxpayers. In 1981, he founded a Bermuda trust that came to own Reynolds &amp; Reynolds and most of the rest of his offshore structure.</p><p>Mr. Brockman used money from the offshore structure to invest in Vista's software-focused private-equity funds. Prosecutors alleged the bulk of his tax evasion stemmed from profits he made on those investments.</p><p>After Mr. Brockman's indictment, his lawyers argued that he wasn't competent to stand trial due to advancing dementia, delaying the case for months while a federal judge weighed conflicting claims. By the time the judge in May ruled that Mr. Brockman was competent, his health appeared to be failing. In recent weeks his attorneys said in legal filings he was bedridden and in hospice care.</p><p>Write to Miriam Gottfried at Miriam.Gottfried@wsj.com and Mark Maremont at Mark.Maremont@wsj.com</p><p>Billionaire Robert Brockman, Accused of Biggest Tax Fraud in U.S. History, Dies at 81</p>",
+  "published": "2022-08-11T14:01:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.99856,
+      "offsets": [
+        {
+          "start": 999,
+          "end": 1008
+        },
+        {
+          "start": 2985,
+          "end": 3000
+        },
+        {
+          "start": 2968,
+          "end": 2983
+        },
+        {
+          "start": 1005,
+          "end": 1014
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0000916,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 9.1671944e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

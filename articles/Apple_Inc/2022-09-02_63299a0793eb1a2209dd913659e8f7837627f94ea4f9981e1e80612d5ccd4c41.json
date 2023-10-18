@@ -1,0 +1,62 @@
+{
+  "_id": "63299a0793eb1a2209dd913659e8f7837627f94ea4f9981e1e80612d5ccd4c41",
+  "feed": "ftcomall",
+  "title": "Apple overtakes Android to pass 50% share of US smartphones",
+  "text": "<p>Apple has overtaken&#xa0;Android devices&#xa0;to account for more than half of smartphones used in the US, giving the iPhone maker an edge over its rival as it pushes into sectors including finance and healthcare.</p> <p>The 50 per cent landmark — the <a href=\"https://www.ft.com/stream/76fa5fa7-581c-4308-9704-1b056ef99e7b\">iPhone</a>'s highest share since it launched in 2007 — was first passed in the quarter ending in June, according to data from Counterpoint Research. Some 150 devices using Google's Android operating system, led by Samsung and Lenovo, accounted for the rest.</p> <p>“Operating systems are like religions — never significant changes. But over the past four years the flow has consistently been Android to iOS,” said Counterpoint's research director, Jeff Fieldhack. “This is a big milestone that we could see replicated in other affluent countries across the globe.”</p> <p>The numbers are based on smartphones in use, known as the “active installed base”, what Apple finance chief Luca Maestri dubbed “the engine for our company” in a <a href=\"https://www.ft.com/content/3892fd43-d03c-4c5b-9012-d2a64f94c103\">July earnings call</a>.</p> <p>This is a wider and more meaningful category than new phone shipments, which fluctuate from quarter to quarter and have already demonstrated Apple's newfound strength. </p> <p>The active installed base takes into account the millions of people brought into <a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple</a>'s ecosystem through the used phone market, as well as those who use iPhones purchased years ago.</p> <p>Ben Wood, analyst at CCS Insight, said: “It's not that we are seeing a big year where Apple grows its market share 10 or 15 per cent, but there's this slow burn where they quietly just grab more share every year.”</p> <p>Android-powered smartphones first went on sale in 2008, a year after the iPhone debuted, and overtook the iOS-installed base in 2010, according to NPD Group. In the three previous years, Apple never had anything near 50 per cent market share, as sales were dominated by Nokia, Motorola, Windows and BlackBerry.</p> <p>As Apple chief executive Tim Cook prepares to unveil the iPhone 14 on Wednesday, the milestone suggests the company has never been in a more competitive position despite persistent criticism that it has lost its innovative edge. </p> <p>The group's keynote autumn event <a href=\"https://www.ft.com/content/27435aeb-ed0c-4536-ab55-37b6358591e3\">in recent years</a> has been much more about developments to existing gadgets rather than company founder Steve Jobs's famous “one more thing” product launches.</p> <p>Apple is expected to unveil the new iPhones at its first in-person event since the onset of Covid-19, in Cupertino, California. Analysts expect better cameras and a smaller “notch” in the display where sensors are held, plus a more rugged version of the Apple Watch.</p> <p>Under Cook, the iPhone, a disruptive product that spawned entire industries, has made Apple the largest company in the world, with a market capitalisation of $2.5tn.</p> <p>“Cook has taken what Jobs gave him and has built an empire out of this,” Wood said. “Because anyone who buys an iPhone — whether it's second-hand, third-hand, or fourth-hand — will probably give Apple some money buying apps, paying for iCloud, using Apple Music, or transacting on Apple Pay. And that's a model that no one else, really, has been able to replicate.”</p> <p>With iPhone penetration reaching saturation, Cook has pushed into movies and TV, advertising and <a href=\"https://www.ft.com/content/fc4eeb5c-479a-4daf-9f8b-808ee937530f\">payments</a> and fitness and health, leveraging an installed global base for iPhones that surpassed 1bn in 2020.</p> <p>The result is a diverse set of “services” revenue that consistently grows in double-digits and delivers profit margins north of 70 per cent — two times the profitability of its hardware business.</p> <p>The number of people paying fees to this array of services reached 860mn in the June quarter — roughly double the number of Netflix and Disney-Plus subscribers combined. </p> <p>Analysts saw plenty of room for Apple to increase its market share given how the rest of the world remains Android-dominant, largely because of its variety and lower cost. Cook recently said the group had “set a June quarter record for switchers” — consumers leaving Android for iOS.</p><p>Source: Patrick McGee in San Francisco 2022 'Apple overtakes Android to pass 50% share of US smartphones' FT.com 2 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-02T04:00:55.382Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1106,
+          "end": 1111
+        },
+        {
+          "start": 1213,
+          "end": 1218
+        },
+        {
+          "start": 1401,
+          "end": 1406
+        },
+        {
+          "start": 1715,
+          "end": 1720
+        },
+        {
+          "start": 1841,
+          "end": 1846
+        },
+        {
+          "start": 2255,
+          "end": 2260
+        },
+        {
+          "start": 2606,
+          "end": 2611
+        },
+        {
+          "start": 3650,
+          "end": 3655
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 5.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

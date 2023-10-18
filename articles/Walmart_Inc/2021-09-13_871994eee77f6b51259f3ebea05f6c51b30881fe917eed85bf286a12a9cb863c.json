@@ -1,0 +1,40 @@
+{
+  "_id": "871994eee77f6b51259f3ebea05f6c51b30881fe917eed85bf286a12a9cb863c",
+  "feed": "wall-street-journal",
+  "title": "Fake Walmart News Release Spurs Spike in Little-Used Cryptocurrency Litecoin; Litecoin's price briefly surged before the giant retailer made clear the release was phony",
+  "text": "<p>The news release, purportedly from Walmart, claimed the retail giant would allow customers to make payments with the cryptocurrency. Walmart shares were down 44 cents at $145.29.</p><p>\"The press release is not authentic,\" said a Walmart spokeswoman. Walmart doesn't currently accept cryptocurrency as payment in the U.S., she said.</p><p>Litecoin creator Charlie Lee said the release wasn't connected to the cryptocurrency or the Litecoin Foundation, a nonprofit that manages it as a software project. \"Yeah, it's fake,\" he said. \"Don't know who created it.\"</p><p>The Litecoin Foundation's social-media manager was fooled by the fake release, Mr. Lee said, and retweeted it from the foundation's Twitter account. \"He thought it was real, too,\" he said. \"It was wrong to retweet it. We deleted it quickly afterwards. But the damage is done.\"</p><p>Mr. Lee said the group would formally apologize for the mistake through its Twitter account.</p><p>Mr. Lee created litecoin in 2011 as an alternative to bitcoin, taking the latter's code and tweaking it to create a digital currency with lower fees and faster confirmation times. It has been one of the more well-known cryptocurrencies but never grew into much more than a curiosity.</p><p>Litecoin trading had been flat in recent months. Since the beginning of July, average daily trading volume totaled about $2 billion, according to data from CoinMarketCap. After the news release went out, though, trading surged. Its volume for the past 24 hours is up about 200% at $7.4 billion, according to the website.</p><p>Write to Paul Vigna at paul.vigna@wsj.com and Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Fake Walmart News Release Spurs Spike in Little-Used Cryptocurrency Litecoin</p>",
+  "published": "2021-09-13T16:25:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 245,
+          "end": 252
+        },
+        {
+          "start": 133,
+          "end": 140
+        },
+        {
+          "start": 5,
+          "end": 12
+        },
+        {
+          "start": 1615,
+          "end": 1622
+        },
+        {
+          "start": 35,
+          "end": 42
+        },
+        {
+          "start": 224,
+          "end": 231
+        }
+      ],
+      "nexusId": "10042309"
+    }
+  ]
+}

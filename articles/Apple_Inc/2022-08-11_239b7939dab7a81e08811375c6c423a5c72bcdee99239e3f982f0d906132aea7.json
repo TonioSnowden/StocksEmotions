@@ -1,0 +1,34 @@
+{
+  "_id": "239b7939dab7a81e08811375c6c423a5c72bcdee99239e3f982f0d906132aea7",
+  "feed": "wall-street-journal",
+  "title": "Foxconn Warns That Demand For Smartphones Is Slowing",
+  "text": "<p>Foxconn's warning comes as inflation and economic uncertainty cause consumers around the world to curtail discretionary spending, denting demand for electronics including smartphones.</p><p>Last month, smartphone chip maker Qualcomm Inc. cut its smartphone shipment forecast for this year and issued a muted sales outlook. Memory chip makers SK Hynix Inc. and Micron Technology Inc. have said that their customers -- which includes PC and smartphone manufacturers -- are starting to tighten costs and adjust inventories.</p><p>For the quarter ended in June, Foxconn posted a 12% rise in net profit from a year earlier, driven by solid demand for smartphones and cloud devices. That beat the 1.9% rise among analysts polled by S&amp;P Global Market Intelligence.</p><p>Revenue rose 12% to the equivalent of $50.3 billion. Foxconn, formally known as Hon Hai Precision Industry Co., said consumer electronics including smartphones, laptops and smart wearable devices accounted for half of its revenue in the last quarter.</p><p>For the April-to-June quarter, Foxconn's biggest customer, Apple Inc., reported an almost 11% decline in profit after weathering supply constraints and shutdowns in China, although iPhone sales continued to grow, rising 2.8%.</p><p>Foxconn has managed to avoid some of the broader pain as smartphone demand slows. Sales of some higher-end products, including iPhones manufactured by the company, remain resilient. The company also said that inflation concerns would have a modest impact on demand for mid- and high-end products.</p><p>Foxconn nudged up its full-year revenue forecast after its robust second quarter, saying it expected growth this year rather than the roughly flat performance it had predicted earlier, citing better-than-expected consumer-electronics sales. The company didn't offer further details.</p><p>The electronics industry has suffered from a semiconductor shortage in recent quarters, and Mr. Liu said Wednesday that while overall conditions are improving, makers of servers and telecommunications products still face a shortage of chips.</p><p>He said Foxconn has built on its expertise in supply-chain management to minimize the impact of the chip shortage and other disruptions. \"Even during the lockdowns in mainland China, we were affected less by the supply shortages compared to our peers in the industry,\" Mr. Liu said.</p><p>In July, Foxconn said it invested around $800 million in Tsinghua Unigroup, the heavily indebted Chinese chip conglomerate that is undergoing a restructuring. The deal has come under scrutiny in Taiwan, the world's biggest chip-production hub and one that is wary of China's technological advancement in the sector.</p><p>Foxconn's investment won't go to memory-chip maker Yangtze Memory Technologies Co. and contract chip maker Wuhan Xinxin Semiconductor Manufacturing Co., both units of Unigroup, Mr. Liu said.</p><p>YMTC is China's leading memory-chip maker, helping boost the country's competitiveness in the sector.</p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1049,
+          "end": 1059
+        },
+        {
+          "start": 1056,
+          "end": 1066
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7075558,
+        "baseWeight": 2.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.29250002,
+        "tagPositionWeight": 5.567074e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

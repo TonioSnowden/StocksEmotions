@@ -1,0 +1,50 @@
+{
+  "_id": "26202ee920a6bdb0dab01df2057f3629c276d4eec9982e7216923bfb56308f68",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Drugmakers Strike Alzheimer's Deal  ----  By Brian Gormley",
+  "text": "<p>   Biotechnology startup Cerevance Inc. could earn more than $1 billion through a collaboration with drugmaker Merck &amp; Co. to research potential treatments for Alzheimer's disease. </p><p>   Boston-based Cerevance agreed to use its technology platform to identify new drug targets Merck can use to develop Alzheimer's medications. Cerevance said it also has agreed to license a new Alzheimer's drug program it had been studying to Merck. </p><p>   Under the deal, Merck agreed to pay Cerevance $25 million up front and could pay up to $1.1 billion more in success-based payments. Cerevance also could earn royalties on sales of drugs emerging from the collaboration. </p><p>   Complex neurological diseases have long frustrated pharmaceutical companies, but the field received good news this week when biotech company Karuna Therapeutics Inc. said a schizophrenia drug it is developing met its primary goal in a late-stage clinical trial. </p><p>   Cerevance in March also said it had seen positive results from a mid-stage clinical trial of a drug it is developing for Parkinson's disease patients. </p><p>   \"Hopefully the tide is turning,\" said Cerevance Chief Executive Craig Thompson. </p><p>   Cerevance gathers brain tissue from brain banks, or centers that obtain brains from organ donors. It then examines the tissue to identify lines of attack on brain diseases, studying metrics such as which genes are over- or underactive in a given disease, according to Mr. Thompson. </p><p>   That technology underpins this new collaboration with Merck and Cerevance's own drug-discovery process. Cerevance also has a partnership with Takeda Pharmaceutical Co. to research treatments for gastrointestinal disorders. </p><p>   Cerevance's treatment for Parkinson's disease patients, which shows potential to help patients better control their symptoms, will enter later-stage clinical trials in early 2023, Mr. Thompson said. </p><p>   In a trial starting early next year, Cerevance will study the drug as an adjunct to existing Parkinson's medications. </p><p></p>",
+  "published": "2022-08-11T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.99997115,
+      "offsets": [
+        {
+          "start": 438,
+          "end": 443
+        },
+        {
+          "start": 1463,
+          "end": 1468
+        },
+        {
+          "start": 416,
+          "end": 421
+        },
+        {
+          "start": 108,
+          "end": 119
+        },
+        {
+          "start": 267,
+          "end": 272
+        },
+        {
+          "start": 268,
+          "end": 273
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.507012,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.507012,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

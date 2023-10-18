@@ -1,0 +1,30 @@
+{
+  "_id": "ff92aa4802427d96c2c0d4bc863bc45cba91e44fe057875d43a3078e3d0d33c7",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>U.S. suppliers raised prices in July at the slowest annual pace since last fall as energy costs dropped, adding to signs that price pressures have eased slightly.</p><p>The S&amp;P 500 and Nasdaq ended lower, losing 0.1% and 0.6%, respectively, while the Dow industrials eked out a gain of 0.1%.</p><p>Faced with slowing subscriber growth in their core domestic markets, some streaming services are shifting their focus from adding users to growing their bottom line.</p><p>Rivian said its net loss in the second quarter nearly tripled to $1.7 billion, adding to pressure on the firm to conserve cash and move quickly to fill customer orders.</p><p>Activist investor ValueAct has taken a 6.7% stake in New York Times Co. and intends to push the media company to more aggressively market subscriber-only content.</p><p>J&amp;J said it would stop selling baby powder made with talc globally in 2023. The company discontinued sales of the product in the U.S. and Canada in 2020.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 779,
+          "end": 782
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0008273,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00082731247,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

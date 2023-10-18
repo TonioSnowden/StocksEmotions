@@ -1,0 +1,44 @@
+{
+  "_id": "4bce2d47954df322cc98117d85d5f98f9275d892a585f251449e8c2c12bba063",
+  "feed": "wall-street-journal",
+  "title": "Apple Sues Israeli Firm NSO Over Spyware, Claiming iPhone Hacks; Lawsuit seeks to bar the surveillance-software company from using the iPhone maker's products",
+  "text": "<p>According to security researchers, the Israeli company has developed hacking techniques to install its software on Apple's mobile phones without the user's knowledge or consent.</p><p>NSO \"did not breach data contained on Apple's servers, but did abuse Apple's services and servers to perpetrate attacks,\" Apple's complaint states.</p><p>An NSO representative didn't immediately respond to messages seeking comment on the Apple lawsuit.</p><p>The lawsuit marks a new salvo against the maker of surveillance software. In 2019, the WhatsApp messaging service sued NSO, alleging that the company sent malware to 1,400 of its users. WhatsApp is owned by Meta Platforms Inc., formerly known as Facebook Inc.</p><p>NSO has disputed these allegations, saying that its products are used by government-intelligence and law-enforcement agencies to fight terrorism and crime.</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Apple Sues Israeli Firm NSO Over Spyware, Claiming iPhone Hacks</p>",
+  "published": "2021-11-23T19:17:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 115,
+          "end": 120
+        },
+        {
+          "start": 893,
+          "end": 898
+        },
+        {
+          "start": 216,
+          "end": 221
+        },
+        {
+          "start": 247,
+          "end": 252
+        },
+        {
+          "start": 410,
+          "end": 415
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 300,
+          "end": 305
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

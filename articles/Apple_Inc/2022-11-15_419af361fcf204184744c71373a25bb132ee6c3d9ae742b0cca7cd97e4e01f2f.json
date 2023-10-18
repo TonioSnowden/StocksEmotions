@@ -1,0 +1,112 @@
+{
+  "_id": "419af361fcf204184744c71373a25bb132ee6c3d9ae742b0cca7cd97e4e01f2f",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Apple, 'Fortnite' Battle Takes New Step ---  Appeals court begins  hearing of case pitting  Epic Games against  Apple over App Store  ----  By Tim Higgins and Aaron Tilley",
+  "text": "<p>   A two-year legal battle between Apple Inc. and \"Fortnite\" maker Epic Games Inc. over how apps are distributed on the iPhone took its next steps before the Ninth U.S. Circuit Court of Appeals on Monday. </p><p>   The two sides have engaged in a very public and acrimonious fight with billions of dollars at stake on each side. At the heart of the dispute is how Apple operates its app store and Epic's contention that the company collects an unfair cut of revenue generated through the software platform. </p><p>   U.S. District Judge Yvonne Gonzalez Rogers last year mostly sided with Apple, rejecting all but one of Epic's claims and declaring the iPhone maker wasn't a monopolist in what she described as \"the submarket for mobile gaming transactions.\" </p><p>   Back then, the judge rejected Epic's request to force Apple to let programs be downloaded onto the iPhone outside of the rules and reach of the App Store. She did rule that Apple was violating California's Unfair Competition Law, which is a broader statute than other antitrust laws, by prohibiting app makers from steering customers to use payment methods outside of their apps and Apple's reach. She ordered Apple to stop that, but her orders are on hold while the appeals process plays out. </p><p>   On Monday, the higher court heard both sides' appeals in person. A new wrinkle for Apple since the May 2021 trial is the emergence of the Justice Department in the proceedings. </p><p>   Tom Goldstein, a partner at Goldstein &amp; Russell P.C. arguing on Epic's behalf, said that the \"beating heart\" of the case is whether Apple's walled-garden approach to its iPhone App Store hurts competition. </p><p>   \"The only thing that is kept out by Apple's walled garden is competitors,\" he said at the hearing. \"I haven't been able to conceive of a theory of the case in which Apple should legitimately be immune from antitrust scrutiny,\" he said. </p><p>   Apple representative Mark Perry, a lawyer at Weil Gotshal &amp; Manges LLP, focused on how Apple's system is important for keeping the iPhone secure. </p><p>   \"Any anti-competitive harm is offset by the pro-competitive benefits,\" said Mr. Perry, quoting from the district-court judgment. </p><p>   One of the three judges, Milan Smith Jr., asked Apple's lawyer about the differences between Apple's more closed approach with its mobile operating system and the more open ecosystem of the Mac operating system. </p><p>   \"The real difference between the Mac and the iOS system is human review,\" said Mr. Perry. \"Mac uses purely technical review. The iOS uses a very robust and expensive level of human review.\" </p><p>   Apple's walled-garden approach makes the iPhone more secure than the Mac, PC and Android platforms, argued Mr. Perry, and gives Apple a competitive differentiation. </p><p>   \"What's kept out by walled gardens is fraudsters and pornsters and hackers and malware and spyware and foreign governments who wish to hijack the phone and GPS and microphone feature of the device,\" he said. </p><p>   In a filing earlier this year, Justice Department lawyers cautioned that the district court's ruling offered a narrow and incorrect interpretation of the Sherman Act, which prohibits activities that restrain market competition. The department warned the ruling potentially sets a precedent for anticompetitive agreements and practices that fall outside of the law's protection. </p><p>   \"The district court committed several legal errors that could imperil effective antitrust enforcement, especially in the digital economy,\" the Justice Department warned in a filing. </p><p>   Among the government's concerns was the district court's conclusion that Apple's agreement with developers isn't a contract subject to the Sherman Act because it was something app companies had to accept to be in the App Store. </p><p>   The Justice Department also took issue with the district court's evaluation of pricing evidence and its definition of the market. </p><p>   Apple has said the Justice Department's stance advocated a \"new legal position that, if accepted, would make it easier for them to win antitrust lawsuits.\" </p><p>   The department has been looking into the power of big tech companies, including Apple. </p><p></p>",
+  "published": "2022-11-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 15,
+          "end": 20
+        },
+        {
+          "start": 32,
+          "end": 37
+        },
+        {
+          "start": 32,
+          "end": 41
+        },
+        {
+          "start": 32,
+          "end": 42
+        },
+        {
+          "start": 123,
+          "end": 128
+        },
+        {
+          "start": 351,
+          "end": 356
+        },
+        {
+          "start": 565,
+          "end": 570
+        },
+        {
+          "start": 789,
+          "end": 794
+        },
+        {
+          "start": 908,
+          "end": 913
+        },
+        {
+          "start": 1118,
+          "end": 1123
+        },
+        {
+          "start": 1145,
+          "end": 1150
+        },
+        {
+          "start": 1312,
+          "end": 1317
+        },
+        {
+          "start": 1538,
+          "end": 1543
+        },
+        {
+          "start": 1648,
+          "end": 1653
+        },
+        {
+          "start": 1777,
+          "end": 1782
+        },
+        {
+          "start": 1848,
+          "end": 1853
+        },
+        {
+          "start": 1935,
+          "end": 1940
+        },
+        {
+          "start": 2171,
+          "end": 2176
+        },
+        {
+          "start": 2216,
+          "end": 2221
+        },
+        {
+          "start": 2525,
+          "end": 2530
+        },
+        {
+          "start": 2653,
+          "end": 2658
+        },
+        {
+          "start": 3531,
+          "end": 3536
+        },
+        {
+          "start": 3816,
+          "end": 3821
+        },
+        {
+          "start": 4052,
+          "end": 4057
+        }
+      ]
+    }
+  ]
+}

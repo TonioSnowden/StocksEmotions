@@ -1,0 +1,40 @@
+{
+  "_id": "887533181bee36de983c982277ea5f3553dcd732c66af85b29ef3ca7434096b1",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: SolarWinds Hackers Blamed for Phishing",
+  "text": "<p>Although the attack appears to have been largely unsuccessful -- most of the emails were marked as spam, Microsoft said -- investigators say it shows that the hackers behind SolarWinds aren't going away.</p><p>A Microsoft spokesman declined to say how his company had linked the attack to the SolarWinds incident. U.S. government officials have said that the SolarWinds hack was conducted by Russia's Foreign Intelligence Service, known as the SVR. Russia has denied that the agency was behind the SolarWinds attack.</p><p>The Kremlin dismissed the Microsoft report, saying that the company's allegations were unfounded.</p><p>\"It's an abstract statement [by Microsoft],\" Kremlin spokesman Dmitry Peskov told reporters Friday. \"It's like if we said we believe a large threat is coming from Microsoft and the software. It would be the same unfounded accusation.\"</p><p>The phishing campaign began in late January and involved several waves, but it escalated significantly on Tuesday when the hackers took over an email marketing account used by the U.S. agency, Microsoft said. USAID, as it is known, dispenses billions in U.S. assistance to foreign countries.</p><p>The phishing campaign was reported earlier on Thursday by the cybersecurity investigations company Volexity Inc.</p>",
+  "published": "2021-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 537,
+          "end": 546
+        },
+        {
+          "start": 206,
+          "end": 215
+        },
+        {
+          "start": 1037,
+          "end": 1046
+        },
+        {
+          "start": 772,
+          "end": 781
+        },
+        {
+          "start": 641,
+          "end": 651
+        },
+        {
+          "start": 105,
+          "end": 114
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

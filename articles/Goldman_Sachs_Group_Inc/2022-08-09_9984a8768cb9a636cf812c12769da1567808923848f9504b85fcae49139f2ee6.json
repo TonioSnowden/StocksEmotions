@@ -1,0 +1,50 @@
+{
+  "_id": "9984a8768cb9a636cf812c12769da1567808923848f9504b85fcae49139f2ee6",
+  "feed": "market-watch",
+  "title": "Goldman Sachs says it's too soon for markets to be trading `a full Fed pivot'",
+  "text": "<p>Financial Conditions Index, which has eased by 70 basis points from its peak, they said.Meanwhile, however, measures of inflation's \"breadth\" have generally been rising and Goldman Sachs GS expects price gains to stay elevated in the next few months and likely through the end of the year. Indeed, some of the financial market's brightest minds on inflation have been expecting a string ofroughly 8.8%annual headline CPI readings, starting on Wednesday, for the next three months — even after factoring in recent declines in gas and commodity prices. \"Our central view has been that it is too early for the market to be trading a fullFed pivot,\" Wilson and Chang wrote. In addition, \"the market has worried too much about imminent recession,\" and \"the more the growth outlook improves, the more the Fed will need to make sure financial conditions stay tight.\"\"The near-term inflation picture is likely to remain uncomfortably high,\" they said. While there should be relative relief in headline inflation and in core goods prices in the next few months, \"core services prices are likely to rise further on a year-over-year basis and stay firmer on a sequential basis too, in part because of ongoing firmness in shelter inflation.\"Wilson and Chang aren't alone in their views. Lindsey Piegza, chief economist at Stifel Nicolaus &amp; Co., said that while Wednesday's annual headline CPI rate may reflect a \"welcome reprieve\" from a 9.1% rate in June, the data \"may prove underwhelming\" and one month's minimal decline \"should not have a material impact on the (Federal Open Market) Committee's latest hawkish rhetoric, or plans to move forward with a potential third-round 75bp hike in September.\" The Fed has raised the target on its main policy rate to a range of between 2.25% and 2.5% since March, up from between zero and 0.25% earlier this year. Now, fed funds futures traders see a 65.5% chance of a 75 basis point hike in September, and 34.5% likelihood of a smaller 50-basis-point move. They see a 70.9% chance the fed funds rate target gets to at least between 3.5% and 3.75% by next March, before the Fed cuts rates later in 2023, according to the CME FedWatch Tool. On Tuesday, as traders settled into wait-and-see mode ahead of the July CPI report, all three major stock indexes DJIA SPX COMP were lower in morning trading. Meanwhile, Treasury yields popped higher across the board on government-bond selling, sending the 2-year rate BX:TMUBMUSD02Yup to 3.26% and the 10-year rate BX:TMUBMUSD10Y up to almost 2.8%.</p><p>Goldman Sachs says it's too soon for markets to be trading `a full Fed pivot'</p>",
+  "published": "2022-08-09T15:23:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 173,
+          "end": 180
+        },
+        {
+          "start": 173,
+          "end": 186
+        },
+        {
+          "start": 2522,
+          "end": 2529
+        },
+        {
+          "start": 2522,
+          "end": 2535
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

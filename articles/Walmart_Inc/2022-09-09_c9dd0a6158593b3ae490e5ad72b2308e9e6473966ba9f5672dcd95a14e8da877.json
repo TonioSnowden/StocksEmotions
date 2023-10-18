@@ -1,0 +1,34 @@
+{
+  "_id": "c9dd0a6158593b3ae490e5ad72b2308e9e6473966ba9f5672dcd95a14e8da877",
+  "feed": "wall-street-journal",
+  "title": "Kroger's Sales, Profits Grow as U.S. Shoppers Prioritize Essentials; The grocer said it gained shoppers in the most recent quarter, and existing customers are spending more",
+  "text": "<p>\"Different customers are under different levels of stress. There are customers that are doing everything they can to stretch their budget,\" Mr. McMullen said in an interview.</p><p>The company said Friday that identical sales, a metric that accounts for store openings and closings, grew 5.8% in the latest quarter, excluding fuel sales. Lower-cost store brands were among factors driving that growth, Kroger said, and shoppers downloaded and used a record-high number of digital coupons during the quarter.</p><p>U.S. consumers, dealing with inflation that earlier this year hit a four-decade high, are giving priority to food and other essentials over discretionary-type items, benefiting grocers' sales. Over the first eight months of 2022, total grocery sales in terms of dollars remain higher due to inflation, though volume is lower from a year ago, according to NielsenIQ. Walmart Inc., Target Corp. and other retailers are dealing with excess inventory of goods like clothes and patio furniture, which they are discounting.</p><p>Earnings Analysis</p><p>* Lean times are good times for Kroger and its investors</p><p>In supermarkets, shoppers have largely traded down, buying cheaper products, store brands and items on sale. Prices across the supermarket aisles have been increasing for more than a year, though some meat items recently have come down as supplies improve and demand softens for expensive cuts.</p><p>Cost increases for commodities and fuel generally are moderating, Mr. McMullen said, along with other factors that have been driving inflation. Kroger doesn't expect inflation to continue at the same level for the remainder of the year, and it appears to be nearing a peak, he said.</p><p>Shares of Kroger rose about 6% Friday. The stock is up almost 13% this year, while major U.S. stock indexes have declined.</p><p>For the three months ended Aug. 13, Kroger's profit came in at $731 million, or $1.00 a share, up from $467 million, or 61 cents a share, a year earlier.</p><p>Stripping out one-time items such as gains on investments, Kroger said adjusted earnings were 90 cents a share. Wall Street analysts had been expecting adjusted earnings of 82 cents a share, according to FactSet.</p><p>Customers are increasingly buying groceries both online and in stores, Kroger executives said on a call with analysts, and the company's online sales grew 8% during the quarter. Kroger's new membership program, which offers free delivery for some online orders, is showing promising results, executives said, and the grocer is focusing on adding members.</p><p>Food supplies for U.S. supermarkets have rebounded from earlier in the year when the Covid-19 Omicron variant disrupted grocery production and delivery. Retailers have said they continue to deal with sporadic shortages of various products, and promotions aren't back to prepandemic levels.</p><p>Kroger executives said the company is becoming more efficient with procuring and delivering groceries, taking steps like maximizing trucking capacity. The company's in-stock levels are rebounding and executives said they are optimistic that the supply chain will continue to improve.</p><p>The company raised its full-year same-store sales guidance to a range of 4% to 4.5%, excluding fuel, from a previous range of 2.5% to 3.5%. Kroger now expects adjusted earnings for the year to be between $3.95 a share and $4.05 a share, up by 10 cents on either side of the range from prior guidance.</p><p>Write to Jaewon Kang at jaewon.kang@wsj.com and Will Feuer at will.feuer@wsj.com</p><p>Kroger's Sales, Profits Grow as U.S. Shoppers Prioritize Essentials</p>",
+  "published": "2022-09-09T18:08:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 862,
+          "end": 873
+        },
+        {
+          "start": 868,
+          "end": 880
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.000361,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00036084652,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

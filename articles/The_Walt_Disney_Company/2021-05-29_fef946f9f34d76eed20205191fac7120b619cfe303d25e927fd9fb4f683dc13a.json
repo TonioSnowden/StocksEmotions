@@ -1,0 +1,20 @@
+{
+  "_id": "fef946f9f34d76eed20205191fac7120b619cfe303d25e927fd9fb4f683dc13a",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>---</p><p>Amazon.com Inc. has added U.S. Prime Video subscribers over the past year. A graphic with a Business &amp; Finance article on Thursday about Amazon's acquisition of MGM Holdings incorrectly mischaracterized Amazon Prime Video's subscriber growth as stagnant.</p><p>(See: \"Amazon Bulks Up to Take On Disney, Netflix\" -- WSJ May 27, 2021)</p><p>---</p><p>Notice to readers</p><p>Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail.</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p>",
+  "published": "2021-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 293,
+          "end": 299
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

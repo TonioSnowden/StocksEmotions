@@ -1,0 +1,42 @@
+{
+  "_id": "f0dd292fdd00aa75f93639dd8cadc5c901135fe93d54d76ca3676e282dffdd0d",
+  "feed": "market-watch",
+  "title": "Why the 10-year yield topping 3% can hurt stocks",
+  "text": "<p>The 3% level has served as an important line in the sand for stocks dating all the way back to the selloff in equities that took place during the fourth quarter of 2018.</p><p>\"It's like clockwork,\" Colas said in a phone interview with MarketWatch. \"As yields approach 3%, markets get skittish. As they go over 3%, stocks go down.\"</p><p>This pattern has played out already once this year, as both Colas and BTIG market technician Jonathan Krinsky pointed out. The S&amp;P 500 index SPX reached its lowest closing level of the year on June 16, just two days after the 10-year Treasury yield touched 3.48% — its highest level in more than a decade.</p><p>Years ago, stocks' sensitivity to bond yields was rooted in the dividend yield that investors earned simply for holding stocks, Colas explained. But over the last two decades, large companies cut their dividends, or did away with them altogether, as investors began favoring stocks with the strongest outlook for revenue growth.</p><p>The dividend yield for the S&amp;P 500 now stands at roughly 1.5%, according to FactSet. But this doesn't matter so much as the massive debt loads on companies' balance sheets.</p><p>Companies binged on debt in the aftermath of the Great Financial Crisis as the Federal Reserve and other central banks, including the European Central Bank, kept interest rates anchored at zero, or below, driving corporate leverage to new highs.</p><p>That resulted in the amount of corporate debt outstanding for U.S. companies rising to more than 50% of gross domestic product, Colas said. To put that in context, the initial estimate of second-quarter GDP, released last month by the Bureau of Economic Analysis, put the size of the U.S. economy at $24.85 trillion.</p><p>\"When you have that much debt loaded onto a balance sheet, higher yields become problematic much more quickly,\" he said.</p><p>Rising yields also are why many market strategists expect value stocks, a group that includes companies like JPMorgan Chase &amp; Co. JPMand International Business Machines Corp. IBM, will continue to outperform growth stocks, or a group that includes Netflix Inc. NFLX and Amazon.com Inc. AMZN</p><p>Simply put: stocks with less debt on their balance sheets are better positioned to outperform in an environment of rising interest rates.</p><p>See: Value stocks post best stretch in 20 years relative to growth stocks — but that's starting to change. Why?</p><p>\"This is precisely why you will have a shift to value from growth. Companies with strong margins will probably behave much better,\" said Tavi Costa, a portfolio manager at Crescat Capital.</p><p>U.S. stocks continued to slide on Monday after the S&amp;P 500 snapped a four-week winning streak on Friday. The S&amp;P 500 SPX was off 91 points, or 2.2%, in afternoon trade.</p><p>The Dow Jones Industrial Average DJIA was down 650 points, or 1.9%, at 33,055, while the Nasdaq Composite COMP was off 313 points, or 2.5%, at 12,391.</p><p>All three indexes were on track for their biggest daily drop since June. By comparison, the 10-year Treasury yield BX:TMUBMUSD10Y was up 4.6 basis points at 3.028%.</p><p>Why the 10-year yield topping 3% can hurt stocks</p>",
+  "published": "2022-08-22T19:33:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.99279994,
+      "offsets": [
+        {
+          "start": 1979,
+          "end": 1982
+        },
+        {
+          "start": 1987,
+          "end": 1996
+        },
+        {
+          "start": 1955,
+          "end": 1992
+        },
+        {
+          "start": 1993,
+          "end": 1996
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

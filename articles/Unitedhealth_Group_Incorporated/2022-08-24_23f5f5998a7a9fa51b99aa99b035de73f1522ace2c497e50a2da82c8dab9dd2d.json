@@ -1,0 +1,42 @@
+{
+  "_id": "23f5f5998a7a9fa51b99aa99b035de73f1522ace2c497e50a2da82c8dab9dd2d",
+  "feed": "wall-street-journal",
+  "title": "Amazon to Shut Down Amazon Care Health Unit; Online retailer recently bought primary care company One Medical",
+  "text": "<p>\"This decision wasn't made lightly and only became clear after many months of careful consideration,\" Neil Lindsay, senior vice president of Amazon Health Services, said in a memo to employees shared with The Wall Street Journal. The Washington Post earlier reported on Amazon's plans to shutter Amazon Care.</p><p>Amazon's decision comes as the company has otherwise shown great ambition in the healthcare industry, which Chief Executive Andy Jassy has earmarked as a priority. The company last month announced plans to buy 1Life Healthcare Inc. for $3.9 billion. 1Life operates a line of primary-care clinics under the name One Medical. Amazon is also among bidders for healthcare company Signify Health Inc., The Wall Street Journal has reported.</p><p>Amazon Care launched in 2019 and expanded from a service offered to employees in Washington state to a telehealth service offered throughout the U.S. Amazon signed several agreements with companies to offer the service to their employees, including Hilton Worldwide Holdings Inc. and semiconductor maker Silicon Laboratories Inc.</p><p>In some cities, employees who have used Amazon Care could begin in an app with a chat, continue with a virtual visit with a healthcare professional and include a home visit within an hour. The service also has offered delivery of prescription medicine to a patient's home. In Seattle, roughly 30% to 40% of employees used the service in a meaningful way, the Journal previously reported.</p><p>Despite that promise, Amazon has had difficulty expanding the service beyond its own employee network. Amazon is looking to disrupt a healthcare industry governed by state and federal regulations, as well as numerous companies and providers with established relationships. An earlier attempt by Amazon to expand into healthcare through a joint venture with Berkshire Hathaway Inc. and JPMorgan Chase fizzled after three years.</p><p>Amazon Care has employed dozens of people including economists, engineers and business-development managers. Mr. Lindsay in his note said employees affected could have an opportunity to join other areas of Amazon's Health Services organization, and that the company would look to support employees seeking roles elsewhere.</p><p>One Medical will provide Amazon with more than 180 clinics with employed physicians across roughly two dozen U.S. markets. One Medical Chief Executive Amir Dan Rubin is expected to remain as CEO once the deal closes.</p><p>The company is likely to face added challenges. By purchasing One Medical, Amazon is up against established companies that include UnitedHealth Group Inc.'s Optum health-services arm and CVS Health Corp., in addition to hospital systems.</p><p>Those rivals have a head start on Amazon. UnitedHealth owns the largest U.S. health insurer and has built-in relationships with employers and a trove of healthcare data. CVS has upgraded stores to provide more healthcare services and aims to create a physician-staffed primary-care practice.</p><p>Write to Sebastian Herrera at Sebastian.Herrera@wsj.com</p><p>Amazon to Shut Down Amazon Care Health Unit</p>",
+  "published": "2022-08-24T22:51:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 2560,
+          "end": 2583
+        },
+        {
+          "start": 2542,
+          "end": 2565
+        },
+        {
+          "start": 2709,
+          "end": 2721
+        },
+        {
+          "start": 2689,
+          "end": 2701
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.9403675,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -1.0596325,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_id": "b032d340369ff107b363500522178718a172ee6b15a34dbfd0262942ab6d6c39",
+  "feed": "wall-street-journal",
+  "title": "Salesforce Sees Clouds Ahead; Software giant's margin focus and first buyback can't overcome worries about slowing growth",
+  "text": "<p>The bad news wasn't limited to the most recent quarter either. Salesforce trimmed its full-year outlook for the second time, while also issuing a revenue projection for the third quarter that was below Wall Street's targets. That projection calls for revenue to grow 14% year over year to $7.8 billion for the quarter ending in October, which would be the company's lowest quarterly growth rate on record, according to data from S&amp;P Global Market Intelligence. Salesforce shares fell 7% Thursday morning.</p><p>Salesforce executives were characteristically upbeat on the call to discuss the results, noting that some of the reduced outlook can be chalked up to changes in currency rates. But even they conceded that the company is seeing \"stretched sales cycles, additional deal approval layers and deal compression,\" in the words of Chief Financial Officer Amy Weaver. So Salesforce is watching expenditures even more closely, in keeping with its newfound focuson maintaining operating margins around 20%. Ms. Weaver noted actions that include a \"measured and very deliberate approach\" on hiring, as well as a close eye on corporate travel.</p><p>Less clear is whether Salesforce will revert to its tendency for making big acquisitions—especially with the approach of the two-year anniversary of the announcement of its record buyout of Slack. The company continues to insist that major deals are never off the table, though founder and co-Chief Executive Marc Benioff seemed to suggest on Wednesday's conference call that the company would be more selective. \"We want to be able to use our cash constructively. This is important for us,\" he said of the company's first-ever stock buyback worth $10 billion. \"It doesn't mean that we're not going to have different kind of guardrails for M&amp;A.\"</p><p>Smaller software companies hoping to cash out with Salesforce seem to have some new competition.</p><p>Salesforce Sees Clouds Ahead</p>",
+  "published": "2022-08-25T15:42:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.9999846,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 62,
+          "end": 72
+        },
+        {
+          "start": 458,
+          "end": 468
+        },
+        {
+          "start": 461,
+          "end": 471
+        },
+        {
+          "start": 501,
+          "end": 511
+        },
+        {
+          "start": 861,
+          "end": 871
+        },
+        {
+          "start": 1150,
+          "end": 1160
+        },
+        {
+          "start": 1158,
+          "end": 1168
+        },
+        {
+          "start": 1833,
+          "end": 1843
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

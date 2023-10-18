@@ -1,0 +1,52 @@
+{
+  "_id": "56cb5a29c298c7e3a24e08160810cc33bf3e1274a44fda535689f366ef441445",
+  "feed": "market-watch",
+  "title": "Unity Software loses $5 billion in market cap after Apple's changes lead to 'self-inflicted wound'; Wall Street slashes Unity price targets by 43% as last year's highly applauded Apple IDFA workaround appears to have sabotaged ad accuracy",
+  "text": "<p>Shares shed more than a third of their value, worth roughly $5 billion in market capitalization, and were headed for their worst day ever after the gaming-engine company revealed what multiple analysts termed a \"self-inflicted wound\" in its ad-targeting tools. The drop started in the after-hours session Tuesday, when Unity executives forecast a quarterly and annual revenue lower than Wall Street estimates along with in-line first-quarter results.</p><p>Shares fell as much as 37% to an intraday low of $30.16 in Wednesday's session, setting up the stock for its worst day since its September 2020 IPO, when shares sold for $52 apiece. The stock is currently 84% off its all-time high close of $201.12, set on Nov. 18.</p><p>Don't miss: As pandemic videogame boom wanes, merger madness takes over</p><p>The big problem revealed by Unity was that the company's Pinpointer ad product in its Operate Solutions business, which helps developers make money on their games and content through ads, was found to be flawed and customers were spending less because of inaccuracies. Back in August, Unity's Operate business was a big driver as it appeared the company had been able to work around Apple Inc.'s AAPL opt-out of using Identifier for Advertisers, or IDFA, in its privacy update, a change that has roiled online-ads companies like Meta Platforms Inc.'s FB Facebook.</p><p>Unity was reportedly using ad models that didn't rely on data from Apple, instead using data from an end user's engagement and platform performance data. Customers flocked to the tool, but soon found out that it was not up to the challenge, analysts said Wednesday while chopping price targets.</p><p>Morgan Stanley analyst Matthew Cost, who has an overweight rating and cut his price target to $50 from $110, was quick to note that the Pinpointer tool rose to prominence because of the Apple IDFA changes and \"grew to account for the majority of ad spend through Unity's ad network over the past year.\"</p><p>\"We believe that the most significant driver of the guidance cut was a pullback in advertising spend, as customers reacted to the weaker performance of the ad network in 1Q/early 2Q,\" Cost said. \"While the core issues are now resolved, it will take time to retrain the machine learning algorithms and win back ad spend that migrated away early this year.\"</p><p>\"We also believe the guidance includes a secondary impact, as engineers have been redeployed to fix these issues were forced to delay their other projects (many of which would have contributed incremental revenue) until later in '22/'23,\" Cost said.</p><p>In-depth: Videogames are a bigger industry than movies and North American sports combined, thanks to the pandemic</p><p>In a note entitled \"Self-Inflicted Wound,\" Jefferies analyst Andrew Uerkwitz, who has a hold rating and slashed his price target to $40 from $100, said that \"bad proprietary customer data\" was resulting in bad targeting.</p><p>\"Over the course of February and March, Unity lost share to competitors due to underperformance vs. competitors,\" Uerkwitz said. \"To add insult to injury, a lack of system redundancies meant, instead of a hard reset, Unity needs to relearn using the correct data and this will take time.\"</p><p>Wedbush analyst Michael Pachter, who has an outperform rating and cut his price target to $70 from $125, said the \"self-inflicted wound should be resolved by the beginning of the fourth quarter, and should allow the company to regain its trajectory of 30% or higher annual revenue growth.\"</p><p>\"While we think it is entirely possible, and even likely, that Unity grows far faster than we have modeled, we think it is prudent to set the bar relatively low given the magnitude of the company's self-inflicted wound last quarter,\" Pachter said.</p><p>Read: For the videogame industry to grow, it needs to first grow up</p><p>Stifel analyst J. Parker Lane, who has a buy rating and lowered the target price to $100 from $150, expects \"Unity's strong positioning in the mobile gaming space and growing set of monetization tools will help the company get back on track in a timely fashion, with revenue growth recovering as the year progresses.\"</p><p>\"Overall, we believe nongaming verticals will continue to provide a long runway of growth opportunities, and the stabilization of the Operate business will help the company drive towards its 30%-plus long-term growth outlook,\" Lane said.</p><p>Of the 18 analysts who cover Unity, 14 have buy-grade ratings, three have hold ratings, and one has a sell rating, according to FactSet data. Of those analysts, 11 slashed their target prices Wednesday resulting in an average target of $79.63, compared with a previous $139.31.</p><p>Unity Software loses $5 billion in market cap after Apple's changes lead to 'self-inflicted wound'</p>",
+  "published": "2022-05-11T17:57:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1184,
+          "end": 1188
+        },
+        {
+          "start": 1833,
+          "end": 1838
+        },
+        {
+          "start": 52,
+          "end": 57
+        },
+        {
+          "start": 1171,
+          "end": 1176
+        },
+        {
+          "start": 1171,
+          "end": 1181
+        },
+        {
+          "start": 1419,
+          "end": 1424
+        },
+        {
+          "start": 179,
+          "end": 184
+        },
+        {
+          "start": 4672,
+          "end": 4677
+        },
+        {
+          "start": 1171,
+          "end": 1180
+        }
+      ]
+    }
+  ]
+}

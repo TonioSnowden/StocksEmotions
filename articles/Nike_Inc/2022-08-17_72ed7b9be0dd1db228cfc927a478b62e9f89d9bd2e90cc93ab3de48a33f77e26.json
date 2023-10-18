@@ -1,0 +1,34 @@
+{
+  "_id": "72ed7b9be0dd1db228cfc927a478b62e9f89d9bd2e90cc93ab3de48a33f77e26",
+  "feed": "wall-street-journal",
+  "title": "Business News:  H&M's Digital Sales Platform  Resumes Operations in China  ----  By Clarence Leong and Liza Lin",
+  "text": "<p>   H&amp;M resumed sales on a popular e-commerce platform in China, more than a year after the Swedish fashion brand was virtually erased from the Chinese internet after it expressed concerns about reports of forced labor in the country's Xinjiang region. </p><p>   Chinese social-media users noticed this month that H&amp;M Hennes &amp; Mauritz AB reopened its official store on Tmall, one of the flagship e-commerce platforms run by Alibaba Group Holding Ltd. </p><p>   A check by The Wall Street Journal found the store to be operational. Fall and summer fashion lines for men and women were listed for sale, and so was a collection of Lego building-block-themed children's apparel. </p><p>   No reason was given for the reopening, and the companies couldn't be reached for comment. </p><p>   In March 2021, H&amp;M became the poster child for the falling-out between Western businesses and China over sourcing from the northwestern Xinjiang region. The fast-fashion retailer was wiped off the country's leading e-commerce, ride-hailing, daily-deals and map apps and sites. In 2020, H&amp;M issued a statement expressing concern about reports of forced labor and discrimination against ethnic minorities in Xinjiang. It also said it didn't source products from the region and that it strictly prohibits forced labor in its supply chain. The Swedish company's stance drew ire from Chinese social-media users, who promised to boycott the brand. </p><p>   Meanwhile, a search for \"H&amp;M\" still doesn't return results on many Chinese apps, including mapping apps owned by Baidu Inc. and Alibaba, a consumer-review platform run by Meituan and Didi Global Inc.'s ride-hailing app. </p><p>   The Chinese government has targeted the Xinjiang region's mostly Muslim ethnic minorities with mass-detention internment camps and omnipresent surveillance as part of a yearslong campaign of forcible assimilation. Rights groups have alleged that some former camp detainees have been forced to work in factories. </p><p>   China has called allegations of forced labor \"malicious lies\" and described its actions in Xinjiang as necessary measures to fight terrorism and protect national security. </p><p>   Since then, other apparel companies such as Nike Inc. and Adidas AG as well as semiconductor manufacturer Intel Corp. have been singled out by Chinese social-media users for sourcing practices in Xinjiang. A new U.S. law bans virtually all imports from Xinjiang under the presumption that items produced there, or by entities linked to the government there, are made with forced labor. </p><p>    The Swedish fast-fashion retailer was hit hard by the consumer boycott and subsequent internet blackout. Before the Xinjiang flare-up, China was H&amp;M's third-largest market after the U.S. and Germany. Shortly after the online erasure, China had dropped to sixth place. By its fourth fiscal quarter that ended in November, China was H&amp;M's eighth-largest market, while sales in the country had plunged about 40% from the same quarter in the previous year. This fiscal year, the retailer stopped reporting its list of top 10 largest markets. </p><p>   The retailer said it was still struggling in the market as Covid-19 outbreaks swept the country. </p><p>   H&amp;M Chief Executive Helena Helmersson, who has previously called China an important market, said in June that the company was still in a complex situation there. Ms. Helmersson added that the retailer was in talks with different stakeholders in China. </p><p>   H&amp;M's official account on China's Twitter-like Weibo platform hasn't posted any updates since the end of March. </p><p></p>",
+  "published": "2022-08-17T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2118,
+          "end": 2126
+        },
+        {
+          "start": 2131,
+          "end": 2140
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475619,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "_id": "05172cba55cff2fc9fa54916cac0f992f9aacf2b2c8dc9404f99472b85ee887b",
+  "feed": "wall-street-journal",
+  "title": "DOJ  Probes  Visa's  Ties to  Fintechs  ----  By AnnaMaria Andriotis, Brent Kendall and Peter Rudegeair",
+  "text": "<p>   The Justice Department is scrutinizing Visa Inc.'s relationships with large financial-technology companies as part of its antitrust investigation of the card company, according to people familiar with the matter. </p><p>   Antitrust investigators are looking into the financial incentives that Visa gave Square Inc., Stripe Inc. and PayPal Holdings Inc., the people said. Investigators want to know if those deals kept the payments firms from using other card networks or money-movement technologies, the people said. </p><p>   The probe is part of an existing antitrust investigation that The Wall Street Journal previously reported. There is no indication that the department has reached any conclusions or is nearing the end of its probe. </p><p>   Visa is by far the biggest card network in the U.S., and for decades it has provided rails that debit- and credit-card payments run on. But Visa and other major networks, including Mastercard Inc., have long been concerned about competition from newer payments firms. Square, Stripe and PayPal have all grown rapidly, enabling millions of businesses to sell their goods quickly and easily to people around the world. </p><p>   To send transactions over Visa's rails, fintech firms pay fees that Visa sets. (That model is similar to that of other major networks.) Some fintech companies enable payments that bypass Visa and other major card networks. For example, some allow payments to travel from one bank account to another, without using card rails. </p><p>   Visa has at times offered to lower fees or give other rewards in exchange for fintech firms sending more transactions over Visa rails rather than other networks or technologies. </p><p>   Pricing arrangements of interest to the Justice Department include one where Visa offered financial incentives to PayPal, according to people familiar with the matter. Investigators are looking into whether those incentives convinced PayPal to encourage people to make payments via Visa-branded cards, some of those people said. </p><p>   Separately, investigators are looking into a deal Visa struck roughly six years ago related to Square's Cash App, according to people familiar with the matter. Cash App lets people send money digitally to each other. Square was working with networks including Visa and lesser-known companies to route these transactions, the people said. (Visa bought a stake in Square about a decade ago when it was a small startup.) </p><p>   Visa offered to lower fees for Square and to send performance payments to the company that would get bigger when Square sent more transactions over Visa, people familiar with the matter said. That resulted in Square using Visa for many of its Cash App transactions, some of the people said. </p><p>   The DOJ's antitrust investigation is also examining whether Visa unfairly limited merchants from routing debit-card transactions over other rails, the Journal previously reported. \"We believe Visa's U.S. debit practices are in compliance with applicable laws,\" the company said at the time. </p><p></p>",
+  "published": "2021-10-28T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 11,
+          "end": 15
+        },
+        {
+          "start": 2741,
+          "end": 2745
+        },
+        {
+          "start": 2311,
+          "end": 2315
+        },
+        {
+          "start": 1326,
+          "end": 1330
+        },
+        {
+          "start": 2022,
+          "end": 2026
+        },
+        {
+          "start": 2612,
+          "end": 2616
+        },
+        {
+          "start": 2232,
+          "end": 2236
+        },
+        {
+          "start": 722,
+          "end": 726
+        },
+        {
+          "start": 1165,
+          "end": 1169
+        },
+        {
+          "start": 1720,
+          "end": 1724
+        },
+        {
+          "start": 1465,
+          "end": 1469
+        },
+        {
+          "start": 1207,
+          "end": 1211
+        },
+        {
+          "start": 2538,
+          "end": 2542
+        },
+        {
+          "start": 284,
+          "end": 288
+        },
+        {
+          "start": 1588,
+          "end": 1592
+        },
+        {
+          "start": 2390,
+          "end": 2394
+        },
+        {
+          "start": 862,
+          "end": 866
+        },
+        {
+          "start": 39,
+          "end": 43
+        },
+        {
+          "start": 2873,
+          "end": 2877
+        },
+        {
+          "start": 39,
+          "end": 48
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

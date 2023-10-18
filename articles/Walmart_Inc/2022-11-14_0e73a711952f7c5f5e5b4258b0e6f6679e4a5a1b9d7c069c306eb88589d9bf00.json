@@ -1,0 +1,24 @@
+{
+  "_id": "0e73a711952f7c5f5e5b4258b0e6f6679e4a5a1b9d7c069c306eb88589d9bf00",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>    The first name of Jim Hagedorn, chief executive of Scotts Miracle-Gro Co., was incorrectly given as Scott in an Exchange article on Saturday about Walmart Inc. and other retailers putting pressure on suppliers. </p><p>   (See: \"EXCHANGE --- Walmart's New Muscle --- The largest U.S. retailer and other industry giants are taking an increasingly aggressive stance with suppliers as the economy slows. 'The world has turned.'\" -- WSJ Nov. 12, 2022) </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-11-14T07:08:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 147,
+          "end": 159
+        },
+        {
+          "start": 231,
+          "end": 238
+        }
+      ]
+    }
+  ]
+}

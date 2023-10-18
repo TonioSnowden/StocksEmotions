@@ -1,0 +1,36 @@
+{
+  "_id": "60d8ce8b4d226ee82bfc6c1aa86981c3f4189703fc6081556b61a66a0603b6d8",
+  "feed": "wall-street-journal",
+  "title": "Uber Says It Is Victim of Lapsus$, a Hacking Group Motivated by Fame Not Money; Group has been targeting top tech companies and came from 'online communities that groom children to do cybercrime'",
+  "text": "<p>It was the latest in a noteworthy string of hacks. Last month, Cisco Systems Inc. said it had been hacked, most likely by a hacker affiliated with Lapsus$. And during a month-long rampage around March, the group broke into the networks of chip maker Nvidia Corp., Microsoft Corp., online access management vendor Okta Inc., Samsung Electronics Co. and others, the companies said.</p><p>Some hacking groups install ransomware or quietly steal data, such as credit-card information or social-security numbers, that they then sell. Others are government-backed and try to steal corporate secrets or conduct espionage.</p><p>Lapsus$ is different, security researchers say.</p><p>Sometimes the group demands extortion money. But often the motivation seems to be publicity: a kind of notoriety used as street cred with other hackers so they can possibly team up on future criminal endeavors, said Allison Nixon, chief research officer at the cybersecurity firm Unit 221B.</p><p>\"They're basically children who grew up in online communities that groom children to do cybercrime,\" said Ms. Nixon, who has tracked the group since last year.</p><p>It is an amorphous team that hides behind anonymous online aliases, but members of the group have left enough digital breadcrumbs that some of them have been identified by law enforcement and private researchers. The group likely includes members from Brazil and the U.K.—several of them teenagers—according to security researchers and law-enforcement officials. In its short life, it has developed a set of techniques that, while not technically sophisticated, have proven to be devastatingly effective at breaking into some of the world's largest technology companies.</p><p>Many of these attacks prey on the very systems that companies have set up to operate efficiently during an era of remote work, targeting company help desks and the systems companies use to reset passwords and remotely access corporate networks.</p><p>\"These kids have developed a very successful methodology,\" said Marc Rogers, a former Okta security executive who is now the chief security officer with Q-Net Security Inc. \"Even the mightiest company can be brought low, so long as they're clever about who they target and how they target.\"</p><p>In Uber's case, the attacker likely purchased a username and password belonging to an Uber contractor on the dark web after it had been stolen from the contractor's computer via malicious software, Uber said in a Monday blog post on the incident. Then the hacker tried to use these credentials to log into Uber's networks. Because Uber requires a \"two-factor\" login, these attempts sent messages to the contractor's phone asking if they were really trying to log in. Initially, this stopped the attack, but the hacker didn't give up and kept repeating the requests. Eventually, \"the contractor accepted one, and the attacker successfully logged in,\" Uber said.</p><p>In some cases, after breaking in, the hackers have jumped onto their victim's crisis communications calls and internal messaging systems to gain \"insight into a victim's state of mind, their knowledge of the intrusion, and a venue to initiate extortion demands,\" according to a March blog post from Microsoft. Samsung, Nvidia and Microsoft all said the group stole source code or proprietary information from them, according to statements released by the companies in March.</p><p>In the Nvidia hack, the group demanded that the company change the licensing terms of some of its software, releasing it instead under a freely shareable open-source license. After the Okta hack, the group gave a running critique of Okta's public statements about the incident in an apparent effort to taunt its victim. The group suggested Okta needed to publish an investigation report from an outside firm like Mandiant Inc., a cybersecurity firm, if it wanted the public to have confidence about its efforts.</p><p>\"If you are committed to transparency how about you hire a firm such as Mandiant and PUBLISH their report?\" the group wrote in its Telegram channel on March 22. \"I'm sure it would be very different to your report.\"</p><p>Public statements like this add to the group's notoriety, Ms. Nixon said.</p><p>But eventually, that notoriety resulted in action from law enforcement.</p><p>In April, the City of London Police charged two teenagers in connection with the hacks, according to investigators and the London Police. In a statement, the Federal Bureau of Investigation, which is investigating the Uber hack, declined to comment on Lapsus$.</p><p>Reached on Thursday evening, the hacker claiming credit for Uber's breach didn't respond to questions about the incident but noted that they had had \"24 journalists contact me.\"</p><p>While much of the discussion about cybersecurity focuses on advanced techniques such as \"zero-day\" attacks, which exploit previously unknown software bugs, Lapsus$ has broken into many companies simply by identifying the right targets within a corporation and then being persistent and clever.</p><p>\"The bitter pill here is that while we've been worrying about zero days, the bad guys have crept up behind us and they're using pretty low-sophistication attacks,\" said Mr. Rogers, the former Okta executive. \"And they're bringing everyone down with them.\"</p><p>Dustin Volz contributed to this article.</p><p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Uber Says It Is Victim of Lapsus$, a Hacking Group Motivated by Fame Not Money</p>",
+  "published": "2022-09-20T11:46:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 264,
+          "end": 279
+        },
+        {
+          "start": 3206,
+          "end": 3215
+        },
+        {
+          "start": 264,
+          "end": 273
+        },
+        {
+          "start": 3175,
+          "end": 3184
+        },
+        {
+          "start": 257,
+          "end": 273
+        }
+      ]
+    }
+  ]
+}

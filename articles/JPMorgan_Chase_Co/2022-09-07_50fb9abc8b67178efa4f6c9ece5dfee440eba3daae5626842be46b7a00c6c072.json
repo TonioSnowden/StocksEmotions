@@ -1,0 +1,42 @@
+{
+  "_id": "50fb9abc8b67178efa4f6c9ece5dfee440eba3daae5626842be46b7a00c6c072",
+  "feed": "ftcomall",
+  "title": "New UK chancellor Kwasi Kwarteng promises ‘Big Bang 2.0' for City of London",
+  "text": "<p>Kwasi Kwarteng, the UK's new chancellor, has told financial services bosses he wants a “Big Bang 2.0” in the City, driven by a post-Brexit overhaul of regulation to boost the sector's competitiveness.</p> <p>He told 14 senior executives on a call on Wednesday that he and new prime minister <a href=\"https://www.ft.com/liz-truss\">Liz Truss</a> wanted London to become the world's leading financial centre.</p> <p>Talk of a post-Brexit drive to eliminate red tape is a familiar theme; former chancellor <a href=\"https://www.ft.com/content/cdaf23c7-3223-4a68-8ab8-9f1622b560e1\">Rishi Sunak talked about </a>a “Big Bang 2.0” in January 2021, but progress has been painfully slow.</p> <p>City executives have raised concerns over a planned sweeping deregulation drive by the new administration with new business secretary Jacob Rees-Mogg expected to make cutting EU red tape a key objective.</p> <p><a href=\"https://www.ft.com/stream/308c31fd-615b-4904-96cb-e8d9a3dcc8c3\">Rees-Mogg</a> promised a “revolution” to reform EU law retained by the UK after Brexit in his previous role in the Cabinet Office, but financial executives urged him to seek “smarter” rulemaking rather than change for its own sake. </p> <p>Executives are concerned about the prospect of deregulation being taken too far, arguing that too much cutting will increase costs and cause confusion.</p> <p>Miles Celic, chief executive of TheCityUK, the financial services lobby group, said that any radical regulatory changes “must be taken in close discussion with industry and recognising that in many areas such regulation is international in nature”.</p> <p>One City executive added: “Where rules have been made should not take priority over whether rules work.”</p> <p>Truss has spoken extensively about reforming the EU's Solvency II rules that govern the insurance sector, intended to release billions of pounds of capital for investment in the economy.</p> <p>But Solvency II reforms are still being discussed; regulators are nervous that the City's competitiveness could be undermined if rules are loosened too much and it loses its reputation as a safe place to do business.</p> <p>Kwarteng urged the City leaders to come up with ideas for regulatory reform, a sign of frustration among Brexiters that the benefits that were supposed to flow from EU exit have been slow to materialise.</p> <p>“The prime minister and chancellor are determined to regain the City's status as the world's leading international financial centre,” said an ally of Kwarteng.</p> <p>A financial services bill, drawn up by Sunak, is progressing through parliament and would give ministers the power to challenge decisions by City regulators if they feel their decisions are holding back competitiveness.</p> <p>Bank of England governor Andrew Bailey has expressed concerns that the bill, which received its second reading in the House of Commons on Wednesday, would undermine regulatory independence.</p> <p>Many business leaders have welcomed the appointment of Kwarteng as chancellor after establishing relationships with him while he was business secretary in the administration of former prime minister Boris Johnson. </p> <p>Executives have pointed out that in his new role Kwarteng would no longer be able to avoid reforms that he professed to support, such as changes to business rates, but had blamed the Treasury for blocking. &#xa0;</p> <p>Among those invited were Barclays chief C.S. Venkatakrishnan, Charlie Nunn from Lloyds, HSBC's Noel Quinn, Aviva's Amanda Blanc and the regional leaders of international investment banks Goldman Sachs, JPMorgan and UBS.</p> <p>One person who attended the meeting said the aim to boost competitiveness and openness for the City was welcomed. They added that the fact Kwarteng had held the meeting on his first day in office was encouraging in contrast to the way the financial services were excluded from post-Brexit planning by the previous administration, epitomised by Johnson's infamous <a href=\"https://www.ft.com/content/f4679d1c-77a1-11e8-bc55-50daf11b720d\">“f*** business”</a> in 2018 before he became prime minister.</p> <p>Another person briefed on proceedings said Kwarteng gave “short shrift” to long-term proposals from attendees and instead emphasised areas where the government could have an immediate impact, such as on Solvency II reforms.</p> <p>Separately, JPMorgan chief executive Jamie Dimon will be meeting Kwarteng on Thursday during a pre-planned trip to London, according to a person familiar with Dimon's schedule.</p> <p><em>Additional reporting by Ian Smith</em> </p><p>Source: George Parker, Daniel Thomas and Stephen Morris in London 2022 'New UK chancellor Kwasi Kwarteng promises ‘Big Bang 2.0' for City of London' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T16:40:51.925Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 3264,
+          "end": 3272
+        },
+        {
+          "start": 3280,
+          "end": 3288
+        },
+        {
+          "start": 3934,
+          "end": 3942
+        },
+        {
+          "start": 3954,
+          "end": 3962
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.5125,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

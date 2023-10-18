@@ -1,0 +1,30 @@
+{
+  "_id": "c7c6e99e8971ab879dbc6f852d5bf10965261a69bef7136b2c74183e5402241d",
+  "feed": "ftcomall",
+  "title": "Toyota and Foxconn hit as drought leads to record low Yangtze River level",
+  "text": "<p>Toyota and Apple supplier Foxconn are among the companies that have suspended plant operations in south-west China as the region is buffeted by hydropower shortages caused by droughts and heatwaves.</p> <p>Sichuan, a province of 84mn people that generates the bulk of its electricity from hydropower, announced it would suspend energy supplies to factories in a number of cities as it braced for a week of temperatures that were forecast to hit highs of more than 40C, according to a government statement.</p> <p><a href=\"https://www.ft.com/stream/412d012b-bb66-4138-a3b7-869005258051\">Toyota</a> said it had suspended operations in the province from Monday until Saturday, in line with the provincial restrictions. Foxconn, the world's largest contract electronics manufacturer, also confirmed it had closed its Chengdu plant, which manufactures Apple Watches, iPads and MacBooks. The impact on production was “not significant so far”, the company added. </p> <p>Chinese media reported that electric vehicle battery maker and Tesla supplier CATL closed its Sichuan plant for the same period. CATL did not immediately respond to a request for comment.</p> <p>“Laptop and iPad or tablet makers, there [are] a lot in Sichuan and what we heard was [the eastern province of] Jiangsu was also facing some restrictions,” said Dan Nystedt, vice-president at TriOrient Investments, an Asia-based private investment company. </p> <p>Sichuan is also an important hub for lithium mining as well as production of solar panels. </p> <p>The power rationing has led to production halts at about 20 steel mills, while energy-intensive aluminium and zinc <a href=\"https://www.ft.com/content/39910878-7789-40e2-b77d-b6cc52a9aea0\">smelters have curtailed output</a>, according to data provider Shanghai Metals Market.</p> <p>The Yangtze River, China's largest and most important waterway, last week hit its lowest level on record for this time of year, according to the water resources ministry.</p> <p>The ministry said rainfall in the Yangtze basin had been 40 per cent lower than normal since July and that in some areas there had been more than 20 days without significant rainfall. </p> <p>China Three Gorges Corporation, the operator of the world's largest power station, declined to comment on how water shortages were affecting its dam. It said on its website that it would seek policy support to mitigate the adverse impact of “the fluctuation of water inflow” on its operations.</p> <p>The outages come as growth is slowing in the world's second-largest economy. China's gross domestic product <a href=\"https://www.ft.com/content/bb302ef4-001a-478f-ac61-31cdc972cc8e\">expanded just 0.4 per cent</a> in the second quarter as its strict zero-Covid policy — which institutes lockdowns as soon as outbreaks are discovered — hammered demand and closed businesses.</p> <p>Chinese premier Li Keqiang on Wednesday chaired a meeting with some provincial leaders, calling on them to shoulder responsibility for the country's economic recovery at a “critical juncture for economic rebound”.</p> <p>Zhang Lilei, a tea farmer on an island in Lake Tai, one of China's largest freshwater lakes in the eastern commercial hub of Suzhou, said villagers had resorted to buying pumps or carrying water in buckets from rivers and puddles to water their crops.</p> <p>“But we cannot pump water up to the hill of over 100 metres,” Zhang said. “If it isn't raining anytime soon, all the tea trees on the hill will die. It will be all gone.” </p> <p><em>Additional reporting by Harry Dempsey</em> <em>in London</em></p><p>Source: William Langley, Gloria Li and Primrose Riordan in Hong Kong 2022 'Toyota and Foxconn hit as drought leads to record low Yangtze River level' FT.com 17 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-17T10:39:41.906Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 16
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.9450555,
+        "baseWeight": 1.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.94505537,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_id": "24f15b1452d3d12e331684064671e28bc616303f3467cbb00be7e27d1ac285ac",
+  "feed": "wall-street-journal",
+  "title": "Boeing Employees Working on FAA's Behalf Report Less Interference; Survey found 14% of employees working on regulators' behalf perceived interference; a 2019 survey found 40% reported 'undue pressure'",
+  "text": "<p>In 2019, Boeing said, a similar survey found about 40% of the company's employees who represent the FAA reported encountering \"undue pressure\" in performing their jobs.</p><p>\"We consider this to show some progress,\" said Tom Galantowicz, a Boeing vice president for product and services safety. \"But we also know that there's work ahead of us and more improvement to go.\"</p><p>The FAA allows employees of U.S. aerospace companies to perform various tasks on the agency's behalf. Federal lawmakers flagged threats to such Boeing employees' independence as a problem in the wake of two 737 MAX crashes in 2018 and 2019 that took 346 lives.</p><p>The Boeing survey was conducted anonymously. Among its 26 questions, it asked employees to provide written descriptions of what they perceive as interference and whether they experienced pressure to meet business goals at the expense of quality or safety. The company declined to release many of the survey's results.</p><p>A Boeing spokesman said responses described perceived interference by management and other sources.</p><p>Mr. Galantowicz said company executives, through different employee-reporting channels, have heard of perceived interference and that Boeing is using surveys to address emerging problems.</p><p>\"We're looking for people to just highlight to us where they start to see risks, so that we can go address something before it crosses the line to an issue that actually needs corrective action,\" he said.</p><p>The FAA said it was encouraged that Boeing is taking steps to \"identify and further protect the ability of key team members to raise safety and quality concerns without fear of interference or pressure.\"</p><p>Last year, the FAA sampled a small group of Boeing employees who represent regulators and found that 35% reported problems, including pressure and hurdles to communicating openly with the air-safety agency.</p><p>Boeing said its most recent survey found that about half of respondents reported seeing improvements related to perceived interference over the past 12 months. Three years ago, about 19% reported improvements related to undue pressure.</p><p>Concerns about retaliation also fell, according to Boeing. The company said this year's survey showed about 24% of respondents expressed some concern around retaliation for reporting interference. In 2019, about 37% reported concerns about retaliation.</p><p>The Boeing-sponsored survey was conducted by Integrity Lab, a consulting firm founded by Harvard Business School professor Eugene Soltes. It was conducted in May, covered employees' experiences over the prior 12 months and drew responses from 71% of the approximately 1,000 employees in Boeing's Organization Designation Authorization group, or ODA.</p><p>After the 737 MAX crashes, federal lawmakers strengthened protections for ODA members to bolster their independence from Boeing management. These Boeing employees often perform routine safety approvals for the FAA, but can also play major roles in decisions related to aircraft safety and development.</p><p>Recently, the FAA relied on them to act as an additional layer of scrutiny for various manufacturing defects with Boeing's 787 Dreamliner. Boeing recently resumed deliveries of the jets after spending much of two years trying to resolve the problems.</p><p>Mr. Galantowicz said the company plans to conduct similar surveys every two years, or possibly more frequently.</p><p>Boeing has also made various internal changes since the 737 MAX crashes. It reorganized its engineering department and created new positions, including a liaison for employees who work on behalf of the FAA. The position's creation was the result of a legal settlement with shareholders.</p><p>Write to Andrew Tangel at Andrew.Tangel@wsj.com</p><p>Boeing Employees Working on FAA's Behalf Report Less Interference</p>",
+  "published": "2022-08-25T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 9,
+          "end": 15
+        },
+        {
+          "start": 507,
+          "end": 513
+        },
+        {
+          "start": 627,
+          "end": 633
+        },
+        {
+          "start": 632,
+          "end": 638
+        },
+        {
+          "start": 940,
+          "end": 946
+        },
+        {
+          "start": 1171,
+          "end": 1177
+        },
+        {
+          "start": 1675,
+          "end": 1681
+        },
+        {
+          "start": 1837,
+          "end": 1843
+        },
+        {
+          "start": 2122,
+          "end": 2128
+        },
+        {
+          "start": 2607,
+          "end": 2613
+        },
+        {
+          "start": 2790,
+          "end": 2796
+        },
+        {
+          "start": 2814,
+          "end": 2820
+        },
+        {
+          "start": 3083,
+          "end": 3089
+        },
+        {
+          "start": 3107,
+          "end": 3113
+        },
+        {
+          "start": 3329,
+          "end": 3335
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.0,
+        "baseWeight": 16.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

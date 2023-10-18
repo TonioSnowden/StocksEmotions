@@ -1,0 +1,66 @@
+{
+  "_id": "93a9949e5f78d9ab0d9a01aa0b7ef402ad74cb4b18b4d2053236423d65e4a2d3",
+  "feed": "market-watch",
+  "title": "Goldman Sachs has run the numbers on student-loan relief. Here's their assessment.",
+  "text": "<p>Goldman Sachs economists Joseph Briggs and Alec Phillips ran through the numbers and gave a conclusion perhaps jarring to the plan's supporters and detractors alike — that it won't amount to much, saying the headlines are bigger than the macroeconomic impact.</p><p>If all borrowers eligible for the program enroll, it will reduce student loan balances by around $400 billion, or 1.6% of GDP. That's not a given — the economists point out that previous programs to reduce loan payments didn't have full enrollment.</p><p>The economists then drew on both Education Department data, as well as the Federal Reserve's survey of consumer finances, to estimate the boost to income and consumption. Though lower-income households will see the largest proportional cut in debt payments, most of them don't have student debt. The wealthy, on the other hand, are limited by the income thresholds attached to the relief. Middle-income households will benefit the most.</p><p>What's the impact? Payments will fall from 0.4% of personal income to 0.3%. \"This modest reduction in debt payments as a share of income implies only a modest boost to GDP. Relative to a counterfactual where debt forbearance ends and normal debt payments resume, our estimates imply a 0.1 percent point boost to the level of GDP in 2023 with smaller effects in subsequent years due to the natural maturation of student loans, as well as continued growth in nominal GDP,\" they say.</p><p>There's also an offset — the end of the student loan payment pause at the end of the year. \"So while the new debt forgiveness program will boost consumption slightly, the combined effect of debt forgiveness and a payment resumption will be slightly negative,\" the Goldman team write.</p><p>On the hot issue of the day, inflation, the Goldman team isn't expecting much of a difference either. \"Debt forgiveness that lowers monthly payments is slightly inflationary in isolation, but the resumption of payments is likely to more than offset this,\" they say.</p><p>There's one other element — a proposal to cut monthly payments to 5% of income, from the current 10%. \"All other things equal it should reduce the size of many borrowers' monthly payments when they resume in January, thereby increasing household disposable income while further increasing the federal deficit,\" the economists say.</p><p>When payments resume in January, they are likely to increase by around $35 billion annualized, or some $20 billion less than would've done.</p><p>It will boost the deficit by roughly $400 billion over the next two years. But it won't have much of an impact on Treasury issuance, since the government has already funded those loans. Even with the possibility that lawmakers would want a bigger program in the future, the Goldman analysts point out there wasn't much of a reaction in fixed-income markets. \"This suggests that market participants might be treating this as one-time event that does not imply greater debt relief (and higher debt levels) in the future,\" they said.</p><p>Read: What student-loan relief that means for your credit score, financial plans and tax bill</p><p>Goldman Sachs has run the numbers on student-loan relief. Here's their assessment.</p>",
+  "published": "2022-08-25T08:58:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 1691,
+          "end": 1698
+        },
+        {
+          "start": 1742,
+          "end": 1749
+        },
+        {
+          "start": 1755,
+          "end": 1762
+        },
+        {
+          "start": 2702,
+          "end": 2709
+        },
+        {
+          "start": 2722,
+          "end": 2729
+        },
+        {
+          "start": 3051,
+          "end": 3064
+        },
+        {
+          "start": 3073,
+          "end": 3080
+        },
+        {
+          "start": 3073,
+          "end": 3086
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

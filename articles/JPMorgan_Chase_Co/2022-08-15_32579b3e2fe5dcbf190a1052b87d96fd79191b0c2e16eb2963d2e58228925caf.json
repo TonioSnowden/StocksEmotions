@@ -1,0 +1,42 @@
+{
+  "_id": "32579b3e2fe5dcbf190a1052b87d96fd79191b0c2e16eb2963d2e58228925caf",
+  "feed": "market-watch",
+  "title": "Bear market for stocks 'incomplete,' warns Morgan Stanley's Mike Wilson; Risk/reward ratio unattractive, says strategist who called 2022 selloff",
+  "text": "<p>Wilson attributed the recent rally to a combination of better-than-feared second quarter earnings, light positioning and continued hope for a less hawkish Fed path. Inflation reports last week encouraged investors to pile back into equities based on the view that slowing inflationary pressure could allow the Fed to hike interest rates less aggressively. However, \"the macro, policy and earnings set-up is much less favorable for equities today,\" according to Wilson.</p><p>\"We think the catalyst will end up centering around earnings disappointment,\" wrote Morgan Stanley's strategists led by Wilson, the bank's chief investment officer, in a client note on Monday. \"While 2Q earnings may seem like a win for some, the reason we saw relief was that expectations fell significantly into the quarter, a dynamic that the equity market discounted ahead of reporting season.\"</p><p>According to Wilson, the earnings revisions are deeply in negative territory and begin their latest leg lower well ahead of earnings season. He believed a similar dynamic is likely to play out ahead of the third quarter earnings season starting in September. The chart below shows that seasonals for earnings revisions worsen materially over the next two months, and this year's revisions have also closely followed the historical pattern.</p><p>\"While many focused on the impact of the recent jobs and CPI prints from a Fed policy standpoint, we came away with some fundamental takeaways as well,\" Wilson said. \"The combination of sustained, higher wage costs and slowing end market/consumer pricing loudly signals margin pressure, which is at odds with optimistic consensus estimates.\"</p><p>Morgan Stanley's predictions are in accordance with some other Wall Street strategists. The BlackRock Investment Institute said in a note on Monday they expect U.S. company earnings to deteriorate and the Federal Reserve to hike interest rates to a level that will \"stall the economic restart.\"They also called the stock market's summer rally unsustainable.</p><p>However, JPMorgan strategists led by Mislav Matejka, the head of European and global equity strategy, wrote that the rebound may have some further to go until year-end, driven by a steepening yield curve instead of the size of the next Fed rate hike. The JPMorgan strategists have remained among the very few bullish voices on Wall Street despite the extreme turbulence on financial markets this year.</p><p>See: Ready to cash out some gains on this stock market run? This strategist says an exit path is about to emerge.</p><p>Stock futures edged higher on Monday afternoon, reversing course from the open after investors digested disappointing data on New York manufacturing activityand the Chinese economy. The S&amp;P 500 was up 17 points, or 0.4%, to trade near the 4,300 level on Monday afternoon, while the Dow Jones Industrial Average advanced 170 points, or 0.5%, to 33,930. The Nasdaq Composite gained 71 points, or 0.5%. to 13,118.</p><p>Bear market for stocks 'incomplete,' warns Morgan Stanley's Mike Wilson</p>",
+  "published": "2022-08-15T19:35:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 2262,
+          "end": 2270
+        },
+        {
+          "start": 2249,
+          "end": 2257
+        },
+        {
+          "start": 2016,
+          "end": 2024
+        },
+        {
+          "start": 2004,
+          "end": 2012
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

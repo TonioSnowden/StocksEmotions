@@ -1,0 +1,30 @@
+{
+  "_id": "966857ecf2b3aefd5b2e26526a661fee9b44983fa6bbfd860ddfcdd5a6fd82a2",
+  "feed": "reuters",
+  "title": "BRIEF-Cocrystal Announces Further Development Of Influenza Antiviral Compounds By Merck Under Exclusive Pact",
+  "text": "<p>* COCRYSTAL PHARMA INC - HAS COMPLETED ALL RESEARCH OBLIGATIONS UNDER MERCK EXCLUSIVE WORLDWIDE LICENSE AND COLLABORATION AGREEMENT Source text for Eikon: Further company coverage:</p>",
+  "published": "2021-01-19T14:19:09.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.99997914,
+      "offsets": [
+        {
+          "start": 82,
+          "end": 87
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "97f4173547d8b5667b6c39f8bd93aa3071a553fee667431aaa7d2712f711297b",
+  "feed": "wall-street-journal",
+  "title": "China's Industrial Profit Falls on Covid-19 Measures, Bad Weather; A record heat wave and drought has prompted Beijing to offer massive economic support for power generation, agriculture",
+  "text": "<p>A record heat wave and drought cut into China's industrial production, and Beijing recently unveiled tens of billions in economic support for power generation and agriculture.</p><p>The government has forced many factories to curtail operations, including large manufacturers such as Foxconn Technology Group, a major supplier to Apple Inc., in response to the heat wave.</p><p>Input costs are high and enterprise profits declined slightly, said Zhu Hong, a senior statistician at the National Bureau of Statistics, adding, \"We still need to make painstaking efforts\" to have \"a sustained and stable recovery of the industrial economy.</p><p>The drought has added to other challenges for Chinese economy. Covid-19 measures, which have confined tens of millions of people temporarily to their homes, led to broad economic consequences. The Chinese yuan also dropped to its weakest level against the U.S. dollar in two years recently.</p><p>A downturn in the country's real-estate market, weak demand and cost pressures reduced profits in the iron and steel industry by 80.8% in the first seven months of 2022 from the same period last year, the statistics bureau said.</p><p>Profits earned by China's auto makers reported the steepest increase among all the surveyed industries due to factors including supply-chain recovery and a tax cut on vehicle purchases, the bureau said. Profit increased 77.8% on year in July, up 30.1 percentage points from June, it said.</p><p>Industrial profit of state-owned enterprises rose 8% for the January-to-July period from the same period last year, according to the bureau. Private and foreign companies reported declines of 7.1% and 14.5% for the period, respectively, it said.</p><p>\"The divergence in profits across various sectors and firms remained significant,\" Goldman Sachs Group Inc. analysts wrote in a note to clients.</p><p>China is trying to shore up its economy ahead of a twice-a-decade party congress later this year, at which President Xi Jinping is expected to secure a third term in office.</p><p>On Monday, China's central bankcut its benchmark interest rates on loans to households and businesses, though economists expressed skepticism that the measures would do much to stimulate growth.</p><p>Bingyan Wang contributed to this article.</p><p>Write to Dave Sebastian at dave.sebastian@wsj.com</p><p>China's Industrial Profit Falls on Covid-19 Measures, Bad Weather</p>",
+  "published": "2022-08-27T13:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 323,
+          "end": 333
+        },
+        {
+          "start": 324,
+          "end": 334
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0761046,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.07610452,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

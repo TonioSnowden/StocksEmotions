@@ -1,0 +1,38 @@
+{
+  "_id": "0fa740fbf73061bfc4f80e128e9f9120779b6c850a140d51cb88f71b38137791",
+  "feed": "wall-street-journal",
+  "title": "World News:  British Pound Falls to Lowest Level Since 1985  ----  By Chelsey Dulaney",
+  "text": "<p>   The British pound slid to its lowest level against the U.S. dollar since 1985, a reflection of the U.K. economy's dire situation. Investors are braced for sterling to weaken even further to a level not seen in more than two centuries of trading across the Atlantic. </p><p>   The pound was lower in early Monday trading in Asia to $1.1475, according to FactSet. That is the lowest since 1985. On Monday afternoon, the pound was trading at $1.1516. </p><p>   Sterling's descent is in part a side effect of the relentless U.S. dollar rally, which has driven the euro and Japanese yen to multidecade lows in recent days. </p><p>   But the problems are also homegrown. The U.K. faces an energy crunch that threatens to leave many households unable to pay their bills this winter. Uncertainty over the economic policies the U.K.'s next prime minister will enact and the Bank of England's ability to control sky-high inflation are compounding the pound's weakness. </p><p>   \"The economic challenges facing the U.K. economy are probably of a magnitude as great as anything we've seen in living memory,\" said Mark Dowding, chief investment officer of BlueBay Asset Management. </p><p>   Goldman Sachs warned U.K. inflation could top 22% next year amid spiraling energy costs, one of the starkest projections. The bank estimates the U.K. economy would contract 3.4% in that scenario. </p><p>   Mr. Dowding thinks the pound could fall to parity, or a 1-to-1 exchange rate, with the U.S. dollar in the next year. The pound has never been worth less than $1 in the more-than-200-year history of the currency pair -- though it got close in 1985 when sterling fell to $1.05, before the world's largest economies joined forces to weaken the U.S. dollar under the so-called Plaza Accord. </p><p>   \"There's a really bleak path in which you end up with the U.K. almost needing to go back to the [International Monetary Fund] for a bailout as a quasi-emerging market crisis,\" Mr. Dowding said. In 1976, a pound crisis forced the U.K. to seek a $3.9 billion loan from the IMF. \"That's the very worst of scenarios,\" he said. </p><p>   The British pound was once the world's pre-eminent currency. But the pound's worth has been on a steady decline over the past century, coinciding with the erosion of its status as the main currency in global trade and central bank reserves. The 2016 Brexit vote dealt another heavy blow, which led to headline-grabbing comparisons between the pound and risky emerging-market currencies. </p><p>   More-staid investors and analysts dismissed the comparison as hyperbolic, but some are beginning to acknowledge a growing list of similarities. </p><p>    Adam Cole, chief currency strategist at RBC Capital Markets, is worried that the typical positive relationship between U.K. interest-rate expectations and the pound appears to have unraveled. </p><p>   In normal times, higher interest rates make holding a currency more attractive since investors get paid a higher return. But lately, yields and the pound have gone in the opposite direction. </p><p>   The pound fell 4.6% against the dollar in August, its worst month since October 2016. </p><p>   Meanwhile, the yield on the U.K. 10-year government bond rose to 2.88% from1.808%, the biggest monthly rise since 1990. </p><p>   \"Periods where rate expectations rise and the currency falls is something we expect to see in emerging markets, not developed markets,\" Mr. Cole said. </p><p>   He said the breakdown in correlation reflects doubts over whether the Bank of England's plans to raise rates will ultimately succeed in controlling inflation. </p><p>   The pound is also vulnerable because of widening deficits that have left the country reliant on what former Bank of England Gov. Mark Carney described as \"the kindness of strangers,\" or foreign investors, to fill funding gaps. </p><p>   The U.K.'s current-account deficit, a broad measure of trade and income flows, ballooned to a record 8.3% of gross domestic product in the first quarter, in part due to the rising cost of fuel imports. </p><p>   For the most part, foreign investors have been happy to play that role, buying up U.K. companies, government debt, property and shares. </p><p></p>",
+  "published": "2022-09-06T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1130,
+          "end": 1143
+        },
+        {
+          "start": 1130,
+          "end": 1137
+        },
+        {
+          "start": 1120,
+          "end": 1133
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000272,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.7298927e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "758327e96c39eb2ce9a3c92e12db88a8a3dd03c7f3f0d0199839a481eb350d79",
+  "feed": "wall-street-journal",
+  "title": "Israel's NSO Weighs Fate of Spyware Unit",
+  "text": "<p>NSO is in talks with two U.S.-based investment funds about a potential sale or refinancing plan, the person said. Options being discussed include NSO sharply limiting the countries to which it sells spyware or using the technology and human talent in its Pegasus unit to create a cyber defensive product instead. NSO has hired Moelis &amp; Co ., the New York-based advisory firm, to lead the talks, the person added.</p><p>Bloomberg earlier reported the discussions.</p><p>In addition to spyware, NSO says it sells products that provide data analysis, defense against drones and search and rescue services.</p><p>Critics and privacy advocates for years have alleged that NSO and similar companies sell tools that allow governments and other customers to target and break into cellphones belonging to politicians, human-rights activists and journalists.</p><p>NSO's Pegasus software can be installed on mobile phones without a user's knowledge or consent, according to security researchers. Pegasus, they say, can turn a smartphone into a silent spying device by gaining access to its files, messages, microphone and camera.</p><p>NSO has said its products are used by government-intelligence and law-enforcement agencies to fight terrorism and crime. The company has also said it has terminated contracts with governments that have abused its software and has taken steps to prevent abuse.</p><p>This month, the Biden administration placed NSO on an export prohibition list, saying the company had been acting \"contrary to the foreign policy and national security interests of the United States.\" The U.S. move will restrict NSO from obtaining some American technology and could make it harder for the company to seek contracts with international customers.</p><p>The U.S.-based funds in talks with NSO had approached the company to discuss a potential deal before it was placed on the entity list, the person familiar with the matter said.</p><p>NSO has also faced scrutiny from businesses. Apple Inc . said it sued NSO in November, alleging the company had misused its products and services. The Israeli company is also fighting a 2019 lawsuit from the WhatsApp messaging service owned by Meta Platforms Inc ., formerly known as Facebook Inc .</p><p>In response to the lawsuits, NSO has said its spyware has saved lives by allowing law enforcement to gain access to criminals' and terrorists' encrypted communications.</p><p>Last week, Israel's defense ministry , which must approve NSO's and all other Israeli sales of cyber weapons, revised its export policy, requiring customers to certify that they will use the technology only to prevent terrorism and crime. The move followed recent talks among Israel and other countries whose representatives had allegedly been targeted by the spyware.</p><p>Cyber experts said it wasn't clear how the change in Israel's export policy would prevent the misuse of Pegasus, as NSO has always maintained it doesn't have insight into the entities its clients target with its spyware tools.</p>",
+  "published": "2021-12-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1940,
+          "end": 1949
+        },
+        {
+          "start": 1940,
+          "end": 1945
+        },
+        {
+          "start": 1940,
+          "end": 1950
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

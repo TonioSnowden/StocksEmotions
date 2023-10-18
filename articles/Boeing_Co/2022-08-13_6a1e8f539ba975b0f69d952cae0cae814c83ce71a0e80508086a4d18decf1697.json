@@ -1,0 +1,42 @@
+{
+  "_id": "6a1e8f539ba975b0f69d952cae0cae814c83ce71a0e80508086a4d18decf1697",
+  "feed": "wall-street-journal",
+  "title": "Obituaries:  Early Amazon Investor  Cultivated Tech Startups  ----  By James R. Hagerty",
+  "text": "<p>\n  TOM ALBERG </p><p>\n  1940-2022 </p><pre> </pre><p>\n  At the age of 27, Tom Alberg gave up his job at the prestigious New York law firm of Cravath, Swaine &amp; Moore to return home to Seattle. It might have seemed that he was trading a highflying legal career for a quieter life. </p><p>\n  Instead, he was setting himself up for an extraordinarily varied career in which he provided legal counsel to Boeing Co., became one of the first investors in Amazon.com Inc. and a director of that company for 23 years, helped run McCaw Cellular Communications Inc., co-founded a venture-capital firm, and established a vineyard and a winery. </p><p>\n  Friends attributed his success partly to optimism, an unassuming style of leadership, a knack for consensus-building and a curiosity about almost everything. A former colleague, Greg Gottesman, recalled walking into his office and expressing surprise that he was reading a quantum-physics textbook. \"Oh,\" Mr. Alberg said, \"I want to understand this.\" </p><p>\n  Mr. Alberg died Aug. 5. He was 82 and had suffered a stroke 14 months earlier. </p><p>\n  Because of his experience in advising high-tech firms, a friend suggested in 1995 that he meet Jeff Bezos, who was seeking early investors for an online bookstore that would become Amazon. </p><p>\n  Mr. Alberg recalled in a 2021 book, \"Flywheels,\" that he was impressed with the entrepreneur and his business plan but wondered what would happen when the Barnes &amp; Noble chain offered books online. Mr. Bezos said he could move faster and that Barnes &amp; Noble might be wary of competing with its own physical stores. </p><p>\n  Mr. Alberg was willing to consider investing $50,000 -- more than he had ever put into a single company at that point -- but waited to see whether other investors would put their money down. </p><p>\n  Finally, about eight months after meeting Mr. Bezos, Mr. Alberg became one of the initial investors. </p><p>\n  In 1996, he joined Amazon's board. When Amazon went public in 1997, his initial $50,000 investment was valued at around $2.7 million. In mid-1999, Forbes reported that Mr. Alberg had \"made a $21 million killing\" on Amazon. </p><p>\n  Tom Austin Alberg, the grandson of a Swedish immigrant, was born Feb. 12, 1940, and grew up in Seattle. His father invested in agricultural land. Young Tom was good at math and served as class president in high school. At Harvard, he studied international affairs and was a leader in the Young Republicans group. </p><p>\n  He earned a law degree from Columbia University in 1965. After joining the Seattle law firm Perkins Coie, he rose to chairman of the executive committee and advised companies including Boeing and numerous high-tech startups. Craig McCaw, chairman of McCaw Cellular, recruited Mr. Alberg, who joined as an executive vice president in 1990. </p><p>\n  When AT&amp;T Corp. took over McCaw in the mid-1990s, Mr. Alberg was in the thick of the negotiations and advised McCaw's board. </p><p>\n  He then teamed up with William Ruckelshaus, former head of the Environmental Protection Agency, and other partners to form Madrona Venture Group. Madrona's investment hits have included Isilon Systems Inc., a digital storage firm, and collaboration-software provider Smartsheet Inc. </p><p>\n  When company founders gushed about the potential size of a market, Mr. Alberg sometimes cut in with a suggestion: \"Why don't you describe your service and talk about why someone will pay money for it?\" </p><p>\n  He converted some of the land acquired by his father to create the Oxbow Farm and Conservation Center on 240 acres along the Snoqualmie River in Carnation, Wash. Oxbow provides educational programs and grows vegetables and native plants. He transformed another family plot into a vineyard near Royal City, Wash., and founded the Novelty Hill Winery in Woodinville, Wash. He treated colleagues to bone-shaking hayrides on a wagon pulled by his tractor. </p><p>\n  Mr. Alberg is survived by his wife, Judi Beck, five children and four grandchildren. An earlier marriage, to Mary Alberg, a professor emerita of physics at Seattle University, ended in divorce. </p><p>\n  In recent years, one of his priorities was to find solutions for Seattle's problem of homelessness, aggravated by high housing costs associated with an influx of highly paidtechnology workers. The problem, he wrote, was \"not in attracting too many creative people to tech hotspots\" but rather \"in failing to find ways to apply their creativity and wealth to solving our social problems.\" </p><p></p>",
+  "published": "2022-08-13T06:14:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.999424,
+      "offsets": [
+        {
+          "start": 355,
+          "end": 365
+        },
+        {
+          "start": 353,
+          "end": 363
+        },
+        {
+          "start": 2535,
+          "end": 2541
+        },
+        {
+          "start": 2514,
+          "end": 2520
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.4864411,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 0.05694115,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

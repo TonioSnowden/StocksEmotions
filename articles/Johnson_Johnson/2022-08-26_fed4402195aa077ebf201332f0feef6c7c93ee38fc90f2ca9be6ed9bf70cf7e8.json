@@ -1,0 +1,34 @@
+{
+  "_id": "fed4402195aa077ebf201332f0feef6c7c93ee38fc90f2ca9be6ed9bf70cf7e8",
+  "feed": "wall-street-journal",
+  "title": "Raymond Damadian Pioneered MRI Scanners; Medical doctor, who has died at age 86, was furious when he wasn't included in a Nobel Prize for early work on the technology",
+  "text": "<p>The next step was to cobble together a human-scale magnetic resonance imaging, or MRI, scanner, involving large magnets and radio signals to explore the body's interior. At one point, Dr. Damadian had to bring in jackhammers to blast through a granite floor to provide more vertical space in his lab. An early test fried a mouse to death. After the defect was fixed, a second mouse survived, as did a turkey and Dr. Damadian's first human subject, who nervously endured a scan in 1977.</p><p>It was a moment of triumph for Dr. Damadian, who died of a heart attack Aug. 3 at the age of 86. Yet struggles and anguish lay ahead.</p><p>Dr. Damadian obtained patents and in 1978 formed a company, Fonar Corp. (short for Field Focused Nuclear Magnetic Resonance), to make commercial MRI scanners. These powerful new tools began showing up in clinics and providing far more detail than X-rays could.</p><p>Giant competitors including Johnson &amp; Johnson and General Electric Co. made their own scanners. Dr. Damadian filed lawsuits, alleging they had copied his patented technology. After years of litigation, a court judgment required GE to pay $128.7 million to Fonar. Other rivals also made payments to Fonar to settle disputes.</p><p>The biggest blow to Dr. Damadian came in 2003, when two other scientists, Paul Lauterbur and Peter Mansfield, shared a Nobel Prize in medicine for their contributions to the technology behind MRI scanning. Dr. Damadian was furious that the Nobel committee had snubbed him.</p><p>He and his supporters bought full-page newspaper advertisements denouncing a \"shameful wrong that must be righted.\" Dr. Damadian continued to press the case. \"If anybody deserved to get the Nobel Prize first, I did,\" he told The Wall Street Journal. \"If defending yourself when you're mutilated is egocentricity, then I'm guilty.\"</p><p>In \"Gifted Mind,\" a 2015 memoir written with Jeff Kinley, Dr. Damadian suggested that the Nobel committee may have shunned him because of his rejection of Charles Darwin's theory of evolution. \"I hold to a literal six-day creation scenario as described in Genesis,\" he wrote. In any case, he credited his MRI discoveries to divine inspiration.</p><p>Other Obituaries</p><p>* Robert Finnigan Found Opportunity in Monitoring Pollution (Aug. 25)</p><p>* Furniture Rental Baron Found a Way to Get Rich Slowly(Aug. 19)</p><p>* Corning CEO Shifted Focus From Cookware to Photonics (Aug. 18)</p><p>* Tom Alberg, Early Amazon Investor, Cultivated Tech Startups (Aug. 12)</p><p>Raymond Vahan Damadian was born into a family of Armenian descent in New York on March 16, 1936. He grew up mainly in the Forest Hills section of Queens. His father, an immigrant, was a photo engraver at a newspaper. His mother was an accountant.</p><p>As a teenager, he studied the violin at the Juilliard School in New York. He attended the University of Wisconsin on a scholarship and majored in mathematics. During summer breaks, he worked as a tennis pro. He earned his medical degree at the Albert Einstein College of Medicine.</p><p>Dr. Damadian is survived by three children, nine grandchildren and three great grandchildren. His wife, Donna Terry Damadian, died in 2020.</p><p>Though he didn't win the Nobel, recognition for his discoveries came in the form of a National Medal of Technology, awarded by President Reagan in 1988, and induction into the National Inventors Hall of Fame in 1989.</p><p>Write to James R. Hagerty at bob.hagerty@wsj.com</p><p>Raymond Damadian Pioneered MRI Scanners</p>",
+  "published": "2022-08-26T14:27:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 909,
+          "end": 926
+        },
+        {
+          "start": 901,
+          "end": 918
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0002444,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00024437904,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

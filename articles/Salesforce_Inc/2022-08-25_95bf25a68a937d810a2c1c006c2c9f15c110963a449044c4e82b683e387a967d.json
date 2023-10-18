@@ -1,0 +1,58 @@
+{
+  "_id": "95bf25a68a937d810a2c1c006c2c9f15c110963a449044c4e82b683e387a967d",
+  "feed": "wall-street-journal",
+  "title": "Cloud Companies' Outlook Cools as Customers Tighten Spending; After pandemic-fueled gains, the firms contend with a more conservative business environment",
+  "text": "<p>On Wednesday, Salesforce Inc., one of the largest vendors of cloud business software, reduced its full-year outlook. The sales software vendor said it expected annual sales of between $30.9 billion to $31 billion, from previously projected revenue of between $31.7 billion and $31.8 billion.</p><p>Customers are taking longer to sign deals as they become more careful with their spending, said Bret Taylor, co-chief executive of Salesforce.</p><p>\"Conversations have meaningfully shifted not just to growth, which was the main priority in 2021, but also to cost savings and efficiency,\" he said. \"Every single company right now is focused on bottom-line performance and cost savings.\"</p><p>Salesforce's shares were down about 5% on Thursday following the earnings report.</p><p>After accelerated growth in cloud business during the Covid-19 pandemic as workplaces were pushed to adopt more digital tools, a more conservative business environment is putting a damper on the industry.</p><p>Global spending on technology, which includes cloud services, is expected to rise about 3% this year, well below the 10% annual growth in 2021 and the nearly 7% gain the year before, according to Gartner Inc.</p><p>\"People will renew their existing software contracts, but they're going to buy less new software,\" in this environment, said John DiFucci, software analyst at Guggenheim Securities LLC.</p><p>While cloud companies haven't been hit as hard as some tech companies that depend on advertising and consumer demand, the growing concerns about a possible recession have affected how they see the future.</p><p>Overall global cloud sales are expected to reach $830.5 billion this year, up 17.5% from the prior year, but slowing from last year's growth of 18.3%, according to International Data Corp. Growth is projected to slow further next year, with 16.3% growth, IDC said.</p><p>Zoom Video Communications Inc., whose business boomed during the pandemic as people shifted to the videoconferencing application to stay connected, on Monday reported second-quarter sales of $1.1 billion, missing analysts' estimates of $1.16 billion. The company lowered its outlook for the year, with company executives pointing to the effects of the strong U.S. dollar and slowing demand for Zoom's online subscription business.</p><p>Zoom expects this online business to decline by a range of 7% to 8% this fiscal year, which ends in January. Last quarter, the company had projected that revenue would remain stable for the fiscal year.</p><p>The company's attempts to attract more subscriptions \"were not enough to overcome the macro dynamics in the quarter,\" Zoom Chief Financial Officer Kelly Steckelberg said on a call with analysts.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook on the tech sector for the rest of the year? Join the conversation below.</p><p>Last month, ServiceNow Inc., which sells cloud software to help information-technology departments keep track of their work, lowered its annual subscription-revenue outlook to about $6.92 billion from a previous projection of $7.03 billion. The company said it would take a sales hit of $220 million because of a strong dollar. ServiceNow said economic worries are leading to order delays and customers are paring down the number of cloud services they use.</p><p>\"It's all about reprioritization,\" said ServiceNow Chief Executive Bill McDermott, in a call with analysts. \"Customers are making significant investments with fewer platforms.\"</p><p>Salesforce and ServiceNow shares have each fallen close to 30% so far this year, and Zoom shares are down roughly 50%. The tech-heavy Nasdaq Composite Index is down less than 20% over the same period.</p><p>Not all cloud companies reported disappointing results. On Wednesday, data-analytics platform Snowflake Inc. beat revenue expectations with $497 million in sales for its second fiscal quarter, versus the $467 million analysts were expecting, according to FactSet. The company's shares were up 23% on Thursday.</p><p>Even the giants of the industry, which have been taking an increasingly large share of the cloud business in recent years, have experienced slowdowns in revenue growth.</p><p>The largest cloud companies—Amazon.com Inc., Microsoft Corp. and Alphabet Inc.'s Google—have a 65% share of global cloud-service spending, which doesn't account for some of the high-level applications offered by companies such as Salesforce and Zoom.</p><p>Amazon Web Services sales rose 33% last quarter, compared with a 37% increase a year earlier, the company said in July. Amazon said its cloud business grew during the 2008 recession because it saved businesses from having to invest in the costly activity of building their own data centers.</p><p>\"We are prepared to help customers optimize their costs,\" Amazon Chief Financial Officer Brian Olsavsky told investors.</p><p>Sales at Microsoft's Azure cloud service rose 40% for the quarter, compared with a roughly 50% gain a year earlier, the company reported in July.</p><p>Microsoft Chief Executive Satya Nadella said on the July earnings call that the company wasn't immune to the current economic turmoil, but said those conditions could trigger more spending by any business \"trying to fortify itself with digital tech to in some sense navigate this macro environment.\"</p><p>Write to Aaron Tilley at aaron.tilley@wsj.com</p><p>Cloud Companies' Outlook Cools as Customers Tighten Spending</p>",
+  "published": "2022-08-25T19:54:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.99999815,
+      "offsets": [
+        {
+          "start": 14,
+          "end": 29
+        },
+        {
+          "start": 3382,
+          "end": 3392
+        },
+        {
+          "start": 4286,
+          "end": 4296
+        },
+        {
+          "start": 4314,
+          "end": 4324
+        },
+        {
+          "start": 668,
+          "end": 678
+        },
+        {
+          "start": 423,
+          "end": 433
+        },
+        {
+          "start": 421,
+          "end": 431
+        },
+        {
+          "start": 3404,
+          "end": 3414
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.516813,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -2.4133015,
+        "tagPositionWeight": 0.93011415,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "7762656528486e9f883201cf5cb7337c56a6812e6567232ba6c1bd9f08b20083",
+  "feed": "market-watch",
+  "title": "Dow climbs 110 points, but broader stock market wavers Tuesday as 10-year yield nears 2%",
+  "text": "<p>The Dow Jones Industrial AverageDJIA was trading 82 points, or 0.2%, higher at around 35,182.</p><p>The S&amp;P 500 indexSPX was trading 0.1% lower, weighed by declines in consumer discretionaryXX:SP500.25, energyXX:SP500.10 and health careXX:SP500.35, despite the rise in Amgen.</p><p>The Nasdaq Composite IndexCOMP was trading less than 0.1% lower at 14,004.</p><p>In other corporate news, investors were focused on shares of exercise equipment maker Peloton InteractivePTON, which was after it said it would&#xa0;replace its chief executive, overhaul its board and cut costs, including lay off 2,800 employees.</p><p>In economic data, the U.S. trade deficit jumped 27% in 2021 to a record $859 billion largely because a recovering economy gave Americans the means to buy more imports. They also paid higher prices due to rising inflation.</p><p>The deficit widened in December by 1.8% to $80.7 billion, marking it the second largest monthly increase ever. Economists polled by The Wall Street Journal had forecast a $82.9 billion shortfall.</p>",
+  "published": "2022-02-08T09:41:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "name": "Amgen Inc.",
+      "offsets": [
+        {
+          "start": 263,
+          "end": 268
+        }
+      ],
+      "nexusId": "10036019"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "85b58c4339e407ebd2124518ccb733de4ff7e19bf1403d4df78f4112b768b0e1",
+  "feed": "wall-street-journal",
+  "title": "Business News: Boeing Rocket Clears Key NASA Hurdle",
+  "text": "<p>The four engines previously used in the space shuttle program ran for the planned eight minutes during the latest test, twice as long as NASA said it needed to secure enough data for a live rocket launch. During January's run, they stayed on for little over a minute.</p><p>The test provides a boost for Boeing's space program, which suffered setbacks in recent years. It is also a fillip for the program as the Biden administration reviews NASA priorities and its targets for missions to the moon and into deep space.</p><p>NASA aims to use the SLS rocket for its first planned moon mission, known as Artemis 1, in November.</p>",
+  "published": "2021-03-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 298,
+          "end": 304
+        },
+        {
+          "start": 15,
+          "end": 21
+        }
+      ]
+    }
+  ]
+}

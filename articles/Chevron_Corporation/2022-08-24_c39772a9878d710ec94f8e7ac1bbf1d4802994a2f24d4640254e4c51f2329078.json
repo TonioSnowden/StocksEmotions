@@ -1,0 +1,30 @@
+{
+  "_id": "c39772a9878d710ec94f8e7ac1bbf1d4802994a2f24d4640254e4c51f2329078",
+  "feed": "market-watch",
+  "title": "These 10 stocks matter the most to hedge funds right now",
+  "text": "<p>A team of analysts looked at 795 hedge funds' long positions at the start of the third quarter based on filings as of Aug. 15 and published its 50-strong VIP list of \"stocks that matter most\" that appear most frequently among the top 10 long holdings within hedge fund portfolios. </p><p> Company               Ticker   Sub-sector                                  Number of funds with stock as top 10 holding   Total return year-to-date, %  Amazon.com Inc        AMZN     Internet &amp; Direct Marketing Retail          92                                             -15  Microsoft Corp.       MSFT     Software                                    84                                             -13  Alphabet Inc.         GOOGL    Interactive Media &amp; Services                55                                             -17  Meta Platforms Inc.   META     Interactive Media &amp; Services                51                                             -48  Visa Inc.             V        Data Processing &amp; Outsourced Services       37                                             0  Apple Inc.            AAPL     Technology Hardware Storage &amp; Peripherals   36                                             -2  Uber Technologies     UBER     Trucking                                    34                                             -28  Mastercard Inc.       MA       Data Processing &amp; Outsourced Services       25                                             0  Berkshire Hathaway    BRK.B    Multi-Sector Holdings                       22                                             +2  ServiceNow Inc.       NOW      Systems Software                            19                                             -25  Source: Solactive, FactSet, data compiled by Goldman Sachs Global Investment Research</p><p>Hedge fund of late have cut leverage and shifted back toward growth stocks, buying the likes of Apple and Amazon. The switch came from hedge funds slashing their positions in the energy and materials sector.</p><p>NVIDIA topped Goldman's list of the largest short positions as of the end of July, a prescient call given the company's profit warning in early August.</p><p>Related: Cathie Wood's ARK Invest cuts its stake in the graphics chipmaker ahead of its results.</p><p>Here are the top 10 stocks with the largest short positions: </p><p> Company                           Ticker   Sub-sector                   Total return year-to-date, %   Value of short interest as of Jul. 29, $ billion  NVIDIA Corp.                      NVDA     Semiconductors               -36                            6.1  Amgen Inc.                        AMGN     Biotechnology                14                             4.3  Occidental Petroleum              OXY      Integrated Oil &amp; Gas         125                            4  Exxon Mobil Corp.                 XOM      Integrated Oil &amp; Gas         59                             3.5  Chevron Corp.                     CVX      Integrated Oil &amp; Gas         39                             3.1  Pfizer Inc.                       PFE      Pharmaceuticals              -16                            3  International Business Machines   IBM      IT Consulting                8                              3  Texas Instruments                 TXN      Semiconductors               -3                             2.9  S&amp;P Global Inc.                   SPGI     Financial Exchanges &amp; Data   -18                            2.9  KLA Corp                          KLAC     Semiconductor equipment      -10                            2.9  Source: FactSet, data compiled by Goldman Sachs Global Investment Research</p><p>Companies that see large increase in hedge fund holdings, Goldman Sachs says, can be strong signals for future stock performance.</p><p>Rising Stars, they call them, have typically ended up outperforming its peers during the quarters following their rise in popularity.</p><p>Rising Stars in the report include tech infrastructure company Switch Inc, SWCH which saw 23 hedge funds pour in during the second quarter, and energy firm Chevron Corporation CVX, which had 20 more hedge funds own the stock.</p><p>These 10 stocks matter the most to hedge funds right now</p>",
+  "published": "2022-08-24T13:45:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1802,
+          "end": 1815
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.6302494,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.36975062,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

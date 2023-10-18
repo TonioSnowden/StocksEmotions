@@ -1,0 +1,24 @@
+{
+  "_id": "0b9afcb5e16ab10ba5fa1c2975d1931a125a53dcdcb59888bb80cd46bd5930d5",
+  "feed": "market-watch",
+  "title": "Goldman economists cut U.S. growth forecasts for 2021, 2022: reports",
+  "text": "<p>In a note Sunday, a Goldman GS team led by Jan Hatzius forecast 2021 growth of 5.6%, down from a previous outlook of 5.7%, and 4% growth in 2022, down from prior expectations of 4.4%, Reuters and Bloomberg News reported.</p><p>The researchers reportedly cited “a longer-lasting virus drag on virus-sensitive consumer services spending” and expectations that the global supply of semiconductors will not improve until next year, along with a likely decrease in fiscal stimulus.</p><p>They also expect some spending on services and non-durable goods to remain below pre-pandemic levels into next year, especially if the shift to remote work reduces overall spending.</p>",
+  "published": "2021-10-10T19:11:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 20,
+          "end": 27
+        }
+      ]
+    }
+  ]
+}

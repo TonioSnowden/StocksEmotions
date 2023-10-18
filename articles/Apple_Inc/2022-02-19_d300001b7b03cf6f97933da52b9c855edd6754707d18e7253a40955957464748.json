@@ -1,0 +1,36 @@
+{
+  "_id": "d300001b7b03cf6f97933da52b9c855edd6754707d18e7253a40955957464748",
+  "feed": "market-watch",
+  "title": "Apple stock will change an index fund's performance, depending on this one crucial investment decision",
+  "text": "<p>That question goes to the heart of a debate between the two dominant schemes for assigning weights to the stocks in an index: Cap-weighting and equal-weighting.</p><p>The former, which is the most widely employed and is used by indices such as the S&amp;P 500 SPX, weights each stock according to its market value. The larger the stock, the greater its portfolio weight. Equal-weighting, in contrast, assigns the same portfolio weight to all component stocks, regardless of market capitalization.</p><p>Earlier this month I devoted a column to an exchange-traded fund that is benchmarked to the equal-weight version of the S&amp;P 500 — Invesco S&amp;P 500 Equal Weight ETF RSP. Because this ETF gives equal weight to each of the stocks in the S&amp;P 500 index, Apple's weight is one-500, or 0.2%. Meanwhile, in the cap-weighted SPDR S&amp;P 500 Trust SPY, Apple stock accounts for 7.1% of the entire portfolio.</p><p>In that earlier column, I pointed out that, over the last five decades, both versions of this S&amp;P 500 strategy have produced nearly identical risk-adjusted returns. The equal-weight version has performed better in raw terms, but with greater volatility, or risk.</p><p>That column led to a question about yet another type of index-weighting strategy, one in which each of 11 major market sectors receives equal weight. This is the basis for ALPS Equal Sector Weight ETF EQL. Because a stock's weight in a given sector is a function of its market cap, this approach in effect is a hybrid of both cap-weighting and equal-weighting. So in the ALPS ETF, Apple's weight most recently represents 2.2% of its portfolio.</p><p>How does this hybrid approach perform? Look at the chart above, which plots the relative strength over the past 20 years of the NYSE Equal Sector Weight Index (the index to which the EQL ETF is benchmarked) versus the S&amp;P 500. Notice that the NYSE index significantly outperformed the S&amp;P 500 over the first half of this 20-year period, and just as significantly lagged it over the second half. For cumulative 20-year performance, the two are almost precisely neck-and-neck.</p><p>What caused this 20-year round trip? The answer, according to Lawrence Tint, is simply the relative performances of the market's various sectors. Tint is the former U.S. CEO of BGI, the organization that created iShares (now part of Blackrock). Tint devoted much of his career to perfecting index funds. In an interview, he contended that in the early years of this century the sectors that performed the best had greater weight in the equal-sector-weight index than in the cap-weighted index. Just the opposite was the case in the most recent decade.</p><p>These long periods of market-beating and market-lagging performance were just the luck of the draw, Tint argued. It could have just as easily been the other way around. Unfortunately, he added, there's no way of knowing in advance whether the next several years will be like the past decade or the 10 years before it.</p><p>Tint says there's one reason to expect traditional, cap-weighted portfolios to come out on top over the very long term: lower transaction costs. That's because there is no rebalancing required when maintaining an index fund's cap weighting. With equal weighting — whether it's each stock that is equal weighted or each sector — frequent rebalancing transactions must be undertaken to ensure that no stock or sector takes on too much or too little portfolio weight. Though the transaction costs involved in rebalancing are not huge, they can add up over many years.</p><p>The bottom line? Apple and other large-cap stocks may or may not outperform the market in coming years. If they do beat the market, you'll be glad you invested in a cap-weighted index fund. If they instead lag the market, you will wish that you had one of the equal-weighted versions.</p><p>Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com</p><p>More:This never-before-seen evidence shows value stocks have beaten growth stocks for a lot longer than we knew</p><p>Also read: Facebook parent Meta's stock plunge exposes a weakness for the S&amp;P 500 and index-fund investors</p>",
+  "published": "2022-02-19T07:32:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 735,
+          "end": 740
+        },
+        {
+          "start": 1525,
+          "end": 1530
+        },
+        {
+          "start": 3515,
+          "end": 3520
+        },
+        {
+          "start": 826,
+          "end": 831
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "4e47363d0df83ffc23aecdae2c29aebff37dd0e6a21213f1a51547622616f193",
+  "feed": "economist-blog",
+  "title": "What is fun about the Winter Olympics?",
+  "text": "<p>Part of the problem with the winter games is a lack of familiarity with the events concerned. Most viewers will not have attempted any of the sports on show (with the possible exception of skiing). They might have tottered around an ice rink in skates but they will never have attempted a back flip or an interpretative dance set to a disco classic. They will never have hurtled down an icy slope while balanced on a sled in the shape of a tea tray; nor will they have jumped off a ramp 120 metres above the ground with only a pair of skis to cushion their landing.</p><p>Some of these sports are seriously obscure. Curling is a version of lawn bowls, but transported to an ice rink. Contestants slide stones towards a target further up the ice rink; the closest stones win. Other team members sweep the ice in an attempt to make the stone move faster or straighter. There are a lot of tactics involved; the sport has been dubbed “chess on ice”.</p><p>Still, part of the enjoyment of watching sports is the ability to criticise athletes who are vastly more talented or more dedicated than oneself. After five minutes, armchair viewers become instant experts, bellowing “they are brushing too fast!” at the curling teams, or “hold your skis straight!” at daredevil ski-jumpers.</p><p>The specialist nature of winter sports means that the games are dominated by rich countries to an even greater extent than the summer Olympics. In 2018 no competitor from Africa, central or South America won a medal. Norway, one of the world's wealthiest countries but with just 5m inhabitants, topped the medals table. Austrian athletes achieved five gold medals; China just one. It is not just a matter of resources; it is hard to develop a talent for skiing if you grow up in a tropical country where it never snows.</p><p>As a result, many neutrals this time will be cheering on Benjamin Alexander who is the first Jamaican ever to qualify for the men's giant slalom skiing event. He was inspired by the 1988 Jamaican bobsleigh team whose story was the (very loose) basis for the Disney film “Cool Runnings” in 1993. This started something of a tradition in the Caribbean country and three separate Jamaican bobsleigh teams have qualified this year. To date, neither male nor female Jamaican teams have won a medal. Mr Alexander is not the only skier to qualify from a non-traditional winter-sports country; both Haiti and Saudi Arabia have their first-ever entrants this year.</p><p>As a sporting spectacle, the Winter Olympics has its magical moments. Even those who have never put on salopettes can thrill at the bravery of the ski-jumpers, the acrobatics of the snowboarders or the grace of the ice dancers. For those who like team sports, there is ice hockey where Canada plays the role that Brazil does in football; Team Canada has won nine out of 24 gold medals in the men's competition and four out of six in the women's.</p><p>But it will be understandable if some people decide not to watch. Even for those willing to put aside their political objections to the choice of host nation, there is the environmental cost. Yanqing, where the skiing events will be held, got less snowfall than London last winter. So all the snow will be artificial, a process that requires an estimated 49m gallons (223m litres) of water as well as electricity to power the snow cannons and does ecological damage to the local flora. Nowadays even turning on the remote control feels like a political decision.</p>",
+  "published": "2022-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99997765,
+      "offsets": [
+        {
+          "start": 2043,
+          "end": 2049
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

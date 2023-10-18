@@ -1,0 +1,48 @@
+{
+  "_id": "298d8daf2c77483f667c386340ca9fe0b0bc66e15be89ffe3acd9647aa585215",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Apple Delays Updates Due to Privacy Concerns | GCHQ Using Social Media in Recruitment",
+  "text": "<p>Also today: State Street is hiring 400 cyber professionals in Ireland; GCHQ turns to social media for recruitment; Autodesk is another victim of the SolarWinds attack.</p><p>Cybercriminals have upped their game.</p><p>If you don't know these four tactics to protect yourself from ransomware-as-a-service (RaaS), you'll end up at their service.</p><p>Get Protected</p><p>Privacy Delays</p><p>Apple Inc. is delaying the rollout of tools aimed at combating child pornography on iPhones after sparking concern among privacy advocates that the software could create broader risks for users.</p><p>The Cupertino, Calif., tech giant said Friday it would take additional time to make improvements on the plan announced last month—the second time in a year that it has delayed a new privacy feature after an outcry from critics over the potential ramifications.</p><p>As part of the latest initiative, the company planned to roll out a system through an iPhone software update later this year that could identify known child-pornography images, then alert Apple if a certain number of those images were uploaded to the company's cloud storage service known as iCloud.</p><p>Apple had vigorously defended its new program as being privacy friendly, arguing that other cloud providers trying to combat exploitative images rely on technology that scans an entirety of a user's data while Apple had hatched a way to look at only items that were flagged as in violation. Apple's system wouldn't flag offending content if it wasn't uploaded to the cloud.</p><p>Privacy experts and critics worried the feature was a signal that the tech giant was softening its posture toward how it protects data via encryption. The company has battled with law enforcement and government officials for years over the ability to harvest encoded data from its devices.</p><p>Read the full story.</p><p>More Cyber News</p><p>State Street hiring 400 cybersecurity professionals in Ireland. Financial firm State Street Corp. is starting a specialist cybersecurity team in Ireland and hiring for 400 new positions. The company said it needed cybersecurity support outside of U.S. timezones. It is hiring cyber operations analysts, forensics experts, pen testers, risk and compliance experts and other positions.</p><p>(RTE)</p><p>Britain's digital spy agency turns to social media. British cyber spies have been hosting question-and-answer sessions on Reddit and Instagram in recent weeks, discussing their roles at Government Communications Headquarters, the U.K.'s digital intelligence agency. The move is part of GCHQ's recruitment push among mathematicians, cyber specialists and cryptographers. (London Evening Standard)</p><p>Autodesk was victim of SolarWinds attack. Software company Autodesk Inc. said in a regulatory filing that it was hacked with malicious Sunburst software, which was used in the attack on software provider SolarWinds Corp. The software firm said it believed none of its products or customer operations were disrupted but similar attacks could have a negative impact. Microsoft Corp. and FireEye Inc. are among the other companies that were compromised by the supply chain attack on SolarWinds.</p><p>(CyberScoop)</p><p>$39.5 Billion</p><p>The deal value of mergers and acquisitions in cybersecurity during the first half of 2021, according to investment bank Momentum Cyber.</p><p>Privacy News‎</p><p>Class action lawsuit filed over cyberattack on medical group. Two patients filed a class-action lawsuit against Illinois-based DuPage Medical Group after it said that it is notifying 600,000 patients that their data was exposed in a July cyberattack. The lawsuit alleges that the medical group didn't do enough to protect patients' data. Investigators determined that a computer and phone outage in mid-July was caused by a cyberattack and said in August that patients' data was exposed, including names, dates of birth, codes for diagnoses and medical treatments and some Social Security numbers. (Chicago Tribune)</p>",
+  "published": "2021-09-07T13:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1005,
+          "end": 1010
+        },
+        {
+          "start": 361,
+          "end": 371
+        },
+        {
+          "start": 1117,
+          "end": 1122
+        },
+        {
+          "start": 1408,
+          "end": 1413
+        },
+        {
+          "start": 13,
+          "end": 18
+        },
+        {
+          "start": 1327,
+          "end": 1332
+        },
+        {
+          "start": 361,
+          "end": 370
+        },
+        {
+          "start": 361,
+          "end": 366
+        }
+      ]
+    }
+  ]
+}

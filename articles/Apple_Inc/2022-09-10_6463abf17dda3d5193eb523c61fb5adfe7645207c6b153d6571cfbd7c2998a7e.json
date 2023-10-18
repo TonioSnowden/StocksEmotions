@@ -1,0 +1,34 @@
+{
+  "_id": "6463abf17dda3d5193eb523c61fb5adfe7645207c6b153d6571cfbd7c2998a7e",
+  "feed": "wall-street-journal",
+  "title": "Robinhood推出追蹤用戶最喜歡股票的指數; Robinhood Markets Inc.將讓外界一窺其數百萬主要是年輕、精通社交媒體的顧客最喜歡的股票。",
+  "text": "<p>Robinhood稱其有2,200多萬存有資金的帳戶，其用戶的平均年齡為32歲。 PHOTO: 圖片來源：AMIR HAMJA FOR THE WALL STREET JOURNAL</p><p>Robinhood Markets Inc. (HOOD)將讓外界一窺其數百萬主要是年輕、精通社交媒體的顧客最喜歡的股票。</p><p>這家券商周五推出了新的\"Robinhood投資者指數\"(Robinhood Investor Index)，該指數將追蹤其用戶群中最受歡迎的100檔投資。</p><p>金融專業人士可能會對這種指數感興趣，因為他們關注散戶的交易活動，並認為這是影響股市波動背後的因素之一。</p><p>Robinhood稱其有2,200多萬存有資金的帳戶，其用戶的平均年齡為32歲。該公司受到歡迎的交易應用程序在新冠疫情期間為市場引入大量新投資者發揮了關鍵作用。</p><p>Robinhood的新指數顯示，其用戶最喜歡的投資包括模因股(meme stock)和較傳統的投資。目前，該指數中五大股票是特斯拉(Tesla Inc., TSLA)、蘋果公司(Apple Inc., AAPL)、亞馬遜公司(Amazon.com Inc., AMZN)、福特汽車公司(Ford Motor Co., F)和AMC娛樂控股公司(AMC Entertainment Holdings Inc., AMC)。</p><p>該指數中的股票是按Robinhood所謂的\"信念\"(conviction)加權，即該股票在顧客投資組合中的佔比。</p><p>Robinhood推出追蹤用戶最喜歡股票的指數</p>",
+  "published": "2022-09-10T00:50:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.96800005,
+      "offsets": [
+        {
+          "start": 466,
+          "end": 470
+        },
+        {
+          "start": 454,
+          "end": 464
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7358714,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.021121383,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

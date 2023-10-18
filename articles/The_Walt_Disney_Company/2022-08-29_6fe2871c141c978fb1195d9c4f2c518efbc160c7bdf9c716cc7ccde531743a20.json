@@ -1,0 +1,70 @@
+{
+  "_id": "6fe2871c141c978fb1195d9c4f2c518efbc160c7bdf9c716cc7ccde531743a20",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Netflix Won't Lose Its Place on the Dial  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  The reset button on Netflix has been painful. It also provides an opportunity. </p><p>\n  The Silicon Valley company that dragged Hollywood kicking and screaming into the streaming age has been getting its own comeuppance this year. </p><p>\n  Netflix's last two quarterly reports showed declines in net new subscribers that total nearly 1.2 million for the first half of 2022 -- a contrast to the nearly 26 million net new subs added in the first half of 2020, when the onset of the pandemic sent the masses running home to their TV sets. That was growth that even Netflix said at the time was unsustainable, though the company didn't seem to have envisioned the reverse possibility. </p><p>\n  Neither did investors. The first disclosure of subscriber losses in April sparked a selloff that took more than a third off the stock's value in just a day. </p><p>\n  The shares rebounded somewhat following Netflix's second-quarter results last month, which were better than feared. But Netflix is still in a deep hole. The stock's loss of 61% so far this year is worse than any other tech or media company with a market value above $100 billion. Most notably: Netflix is now worth 27% less than its prepandemic market value, even though its subscriber base has grown by 32% and trailing 12-month revenue has jumped by 54% since then. </p><p>\n  Hence the opportunity. The sharp reversal of fortune has led Netflix to pivot quickly on issues like advertising and limits on account sharing. Both are coming to the platform next year, in the form of new tiers of service. Little has been officially announced about either, though Netflix has been testing the latter in some small markets. The company said on its July earnings call that those tests have asked subscribers to \"pay a little bit more\" for the ability to share their accounts with people not in their household. </p><p>\n  \"A little bit more\" could add up to some serious numbers given that Netflix estimates that more than 100 million households are currently viewing the service without paying for it. That includes more than 30 million in the U.S. and Canada. </p><p>\n  A recent survey by Cowen of U.S. consumers found that 31% of respondents using a Netflix account paid by someone outside their household would pay an extra $3 a month to keep viewing. The survey found that more than half of respondents would ultimately stick with Netflix rather than stop using the service, leaving analyst John Blackledge to project a 6% upside to the company's U.S./Canada segment revenue for 2023 from new account-sharing measures. </p><p>\n   The advertising opportunity is more nebulous: Netflix hasn't given any indication about what it is considering for pricing and other key details, such as ad-load. Rival Disney is going after the market aggressively. Per its plan announced earlier this month, U.S. subscribers wishing to keep Disney+ at its current $7.99-a-month rate will have to select the advertising-supported tier come Dec. 8, while the cost of ad-free Disney+ goes to $10.99 a month at that time. The sticker shock of such an increase -- 38% compared with an 11% increase Netflix put through across all its plans earlier this year -- could push a high number of Disney+ viewers to the ad-supported offering. Disney+ had 44.5 million domestic subscribers at the end of June. </p><p>\n  Netflix's subscriber base in the U.S. and Canada is 68% larger, though it lacks the legacy cable-TV business that gives Disney and other media rivals long-established relationships with advertisers. And, unlike Disney, Netflix doesn't fully own all of the content on its platform. Michael Nathanson of MoffettNathanson estimates that Netflix could generate $1.2 billion in ad revenue by 2025 -- 33% less than what he expects for Disney+ by that time. </p><p>\n  But Disney is a much larger company overall, with a highly profitable theme park business and other segments contributing to its bottom line. Thus, Mr. Nathanson estimates that advertising \"should be much more incrementally accretive\" to Netflix's per-share earnings relative to Disney's. </p><p>\n  It also should be noted that the streaming businesses of media giants Disney, Warner Bros. Discovery and Paramount will all still be losing money and burning cash next year, while Netflix is expected to generate operating margins of 19% and a record $2 billion in free cash flow in 2023, according to consensus forecasts compiled by FactSet. </p><p>\n  With advertising and account-sharing limitations also starting to add to results then, Netflix's current trough might be worth feeding at. </p><p></p>",
+  "published": "2022-08-29T06:01:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 2692,
+          "end": 2698
+        },
+        {
+          "start": 2713,
+          "end": 2719
+        },
+        {
+          "start": 3200,
+          "end": 3207
+        },
+        {
+          "start": 3385,
+          "end": 3391
+        },
+        {
+          "start": 3410,
+          "end": 3416
+        },
+        {
+          "start": 3475,
+          "end": 3481
+        },
+        {
+          "start": 3692,
+          "end": 3699
+        },
+        {
+          "start": 3717,
+          "end": 3723
+        },
+        {
+          "start": 3745,
+          "end": 3751
+        },
+        {
+          "start": 3991,
+          "end": 3997
+        },
+        {
+          "start": 4070,
+          "end": 4076
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.774075,
+        "baseWeight": 11.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -2.2259254,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

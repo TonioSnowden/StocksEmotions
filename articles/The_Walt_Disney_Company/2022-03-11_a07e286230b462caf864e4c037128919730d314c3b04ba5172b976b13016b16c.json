@@ -1,0 +1,30 @@
+{
+  "_id": "a07e286230b462caf864e4c037128919730d314c3b04ba5172b976b13016b16c",
+  "feed": "reuters",
+  "title": "BREAKINGVIEWS-China stock tumble is a reminder of deepening rift",
+  "text": "<p>Laws introduced last year allow regulators to remove companies whose audits cannot be inspected. Unless Beijing freely allows inspections after years of caginess, defenestration begins in 2024. Roughly 270 listed outfits are at risk, analysts estimate.</p><p>The five named firms, including $22 billion biotechnology company BeiGene and KFC operator Yum China , are not so much singled out, rather it seems the first to have filed audited accounts. Those two are among those to have already prepared their escape by means of another listing in Hong Kong. BeiGene has another in Shanghai, too. Geopolitical tensions may be focused elsewhere, but the rift between the U.S. and China is fast becoming market reality. (By Jennifer Hughes)</p><p>Follow @Breakingviews https://twitter.com/Breakingviews  on Twitter on</p><p>Capital Calls - More concise insights on global finance:</p><p>Americans' inflation tolerance may be fleeting</p><p>Dutch dredger makes virtue of living the low life</p><p>Abramovich sanctions put Chelsea in financial hole</p><p>Disney investors make ESG activist must-watch TV</p><p>Fortescue's new green CFO faces tough transition</p>",
+  "published": "2022-03-11T04:48:43.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.87999994,
+      "offsets": [
+        {
+          "start": 1004,
+          "end": 1010
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000873,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 8.72612e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

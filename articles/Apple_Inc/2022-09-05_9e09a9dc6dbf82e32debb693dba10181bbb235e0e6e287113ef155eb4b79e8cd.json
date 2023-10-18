@@ -1,0 +1,38 @@
+{
+  "_id": "9e09a9dc6dbf82e32debb693dba10181bbb235e0e6e287113ef155eb4b79e8cd",
+  "feed": "ftcomall",
+  "title": "Tech regulation: change is coming, but it'll take a while",
+  "text": "<p>Since winning the 2021 Nobel Peace Prize, Maria Ressa and Dmitry Muratov have used every opportunity to chastise US Big Tech and the threat they believe it poses to society. Across Washington, Brussels and London, lawmakers voice similar concerns. So far, however, global regulation has yet to diminish the market share of companies such as Amazon, Apple and Meta. </p> <p>One of the difficulties in shaping comprehensive regulation is the <a href=\"https://www.ft.com/content/a840e4df-6a24-4ff0-8cd4-0931a135fe02\">breadth of concerns</a>. In addition to competition, politicians worry about online privacy, safety and bias. </p> <p>Some countries have made moves. In Korea, app store operators such as Apple can no longer force developers to use their own in-app purchase systems and pay out a chunk of revenue. Europe's Digital Services Act demands that companies improve content moderation. </p> <p>The US has yet to impose <a href=\"https://www.ft.com/content/380a9a87-4a91-4e86-93a7-430fd81ee64f\">limitations</a> on a similar scale, though work is under way to broaden the scope of regulation. See the antitrust bill from senator Amy Klobuchar, which seeks to ban Big Tech companies from prioritising their own products and services. </p> <p>Competition policy in the US remains focused on keeping consumer prices low. But the Federal Trade Commission, led by Lina Khan, is seeking to expand antitrust definitions. In July it sued Facebook's parent company <a href=\"https://www.ft.com/content/2e7a2700-2122-42b0-93c5-f2f2973ee45c\">Meta</a> to block its acquisition of LA-based virtual reality company Within. VR remains a nascent sector — and a loss-making business for Meta. But the FTC points out that Meta already dominates VR via devices and apps. If successful, the case could slow down vertical integration M&amp;A across the sector. </p> <p>Still, it is unclear how far the US will go to hobble its most successful home-grown sector. Consumers are more concerned about inflation than tech power. Ostensibly free services such as search and social networks remain popular. </p> <p>That helps tech lobbyists. Note that one of the biggest changes made by Congress in recent years — the $50bn Chips Act — did not curb the tech sector but supported it. &#xa0;</p>&#xa0;<p>Source:  2022 'Tech regulation: change is coming, but it'll take a while' FT.com 5 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-05T10:27:53.935Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 602,
+          "end": 607
+        },
+        {
+          "start": 349,
+          "end": 354
+        },
+        {
+          "start": 347,
+          "end": 352
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0603561,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.06035602,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

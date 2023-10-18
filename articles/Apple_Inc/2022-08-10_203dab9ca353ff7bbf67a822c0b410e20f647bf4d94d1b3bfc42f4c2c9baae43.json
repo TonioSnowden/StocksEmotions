@@ -1,0 +1,24 @@
+{
+  "_id": "203dab9ca353ff7bbf67a822c0b410e20f647bf4d94d1b3bfc42f4c2c9baae43",
+  "feed": "wall-street-journal",
+  "title": "World News -- Obituary: Fashion Designer Crafted Pleats",
+  "text": "<p>TOKYO -- Designer Issey Miyake, who entranced the fashion world with his flowing pleat designs and branched out into bags and perfume, has died at age 84.</p><p>Mr. Miyake died Aug. 5 of liver cancer at a hospital in Tokyo, a representative of his fashion company said Tuesday.</p><p>Mr. Miyake's work embraced both traditional design and cutting-edge technologies.</p><p>He started experimenting with his pleating technique in 1988 and introduced his Pleats Please line in 1993, according to Miyake Design Studio. The clothes are made from a single piece of fabric with a heat treatment system to maintain their accordion-like structure.</p><p>Born in Hiroshima in 1938, Mr. Miyake was 7 years old during the atomic bombing of his hometown. He survived the attack, but his mother died of radiation exposure three years later. In a 2009 New York Times opinion piece, Mr. Miyake recalled the explosion. \"When I close my eyes, I still see things no one should ever experience: a bright red light, the black cloud soon after, people running in every direction trying desperately to escape.\"</p><p>Mr. Miyake's designs were airy. His swinging skirts, roomy jackets with kimono sleeves and springy trousers were meant to move with the customer. He won over a diverse array of fans, from musician Miles Davis to comedian Robin Williams. His most visible client was Steve Jobs, who in the early '80s cast aside preppy blazers and ties in favor of Mr. Miyake's futuristic turtlenecks. Eventually, Mr. Jobs would own roughly 100 of the brand's spongy turtlenecks, according to Walter Isaacson's biography.</p>",
+  "published": "2022-08-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

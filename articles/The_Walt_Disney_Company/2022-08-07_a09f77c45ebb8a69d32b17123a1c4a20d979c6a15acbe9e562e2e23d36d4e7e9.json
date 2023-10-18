@@ -1,0 +1,42 @@
+{
+  "_id": "a09f77c45ebb8a69d32b17123a1c4a20d979c6a15acbe9e562e2e23d36d4e7e9",
+  "feed": "wall-street-journal",
+  "title": "Advertising Slowdown Spreads Beyond Tech Giants to Hit TV Networks, Publishers; Warner Bros. Discovery, New York Times and Paramount Global warn of pressure on ad revenue",
+  "text": "<p>\"Given the less-favorable macro environment, we are seeing softer demand in the scatter market,\" said Gunnar Wiedenfels, chief financial officer of Warner Bros. Discovery, referring to the period when TV ads are sold closer to air date.</p><p>The ad outlook has become increasingly dim in recent weeks in the midst of signs that rising inflation is beginning to affect consumer spending. Walmart Inc., the country's largest retailer, recently warned that escalated prices for food and gasoline were causing people to pull back on spending.</p><p>Irwin Gotlieb, the former chief executive officer of GroupM, the ad-buying company owned by WPP PLC, said he expects more marketers to cut back on ad spending in the wake of Walmart's announcement. \"When they hear a decline across the board at Walmart, it confirms their worst fears,\" he said.</p><p>Despite the slowdown, some still expect overall ad spending this year to be strong. GroupM said in June that it expects global ad sending to grow 8.4% to $837.5 billion, excluding U.S. political spending. In December, it forecast a 9.7% increase for the year.</p><p>\"It's a relatively healthy ad market considering the very weak sentiment,\" Brian Wieser, GroupM's president of global intelligence, said in an interview. In the first half of the year, digital advertising remained up by double digits in percentage terms compared with the same period a year ago, he said, while TV was about flat. \"Although it's possible [the] third quarter will be a little softer,\" he said.</p><p>Advertising generated $7.1 trillion in sales activity in the U.S. in 2020, according to a 2021 study conducted by IHS Markit for the Advertising Coalition, a group composed of media companies and national trade associations. The study, which takes into account the direct and indirect effects of advertising, found that every dollar spent on advertising in the U.S. in 2020 drove nearly $21 in sales activity. </p><p>Walmart recently warned that higher prices for items including food were causing people to rein in spending. PHOTO: Alisha Jucevic for The Wall Street Journal</p><p>Advertising is often among the first expenses cut by companies looking to trim spending in times of economic uncertainty. When that happens, digital companies are often the first to be hit since marketers can turn off spending in real time.</p><p>Late last month, large players in digital advertising such as Facebook parent Meta Platforms Inc., Snap Inc. and Twitter Inc.—many of which experienced outsize growth last year—partly blamed the ad slowdown for their recent poor quarterly results. Google parent Alphabet Inc., the digital-advertising juggernaut, reported the slowest quarterly sales growth in two years as pullback by some advertisers affected its YouTube video business.</p><p>\"We seem to have entered an economic downturn that will have a broad impact on the digital advertising business,\" Chief Executive Mark Zuckerberg said during Meta's recent earnings call with analysts.</p><p>Last week, Gannett Inc., the publisher of USA Today and a raft of local newspapers, posted a 8.7% drop in revenue from advertising and marketing services and cut its profit outlook for the year in part because of industrywide headwinds in digital advertising, as well as rising costs.</p><p>New York Times Co. on Wednesday posted its first decline in digital advertising revenuesince 2020, due in part to the macroeconomic environment.</p><p>\"Headwinds from advertising are playing out broadly as we'd expect them to,\" Chief Executive Meredith Kopit Levien said during the company's earnings call with analysts.</p><p>Paramount Global on Thursday said revenue at its TV operations—its biggest business, which includes such units as CBS, MTV, Nickelodeon and Comedy Central—was essentially flat in the latest quarter, partly because advertising slid 6%.</p><p>\"We see both headwinds and tailwinds in advertising,\" Paramount Chief Executive Bob Bakish said during a call with analysts after the results. He said the digital-advertising market and the scatter market are facing challenges, primarily because of supply-chain constraints affecting advertisers including car makers. \"But these aren't long-term issues,\" he said.</p><p>Mr. Bakish said he saw some areas of strength in terms of ad spending in the latest quarter, including technology and travel. He said he expects ad spending to grow in specific categories later in the year, including from drug companies and on political ads ahead of the midterm elections.</p><p>Warner Bros. Discovery on Thursday warned investors that the company was adjusting its financial outlook for both 2022 and 2023 in part because of the macroeconomic environment that is affecting advertising. The company now expects third-quarter global advertising sales to decline by a percentage in the high-single to low-double digits.</p><p>The ad slowdown comes as the streaming industry's two biggest players—Netflix Inc. and Walt Disney Co.'s Disney+—are working on launching ad-supported versions of their platforms. Disney expects that new tier to be introduced in the U.S. later this year, while Netflix's won't be launched until next year.</p><p>SHARE YOUR THOUGHTS</p><p>What is the state of ad spending in your industry? Join the conversation below.</p><p>Roku Inc., a manufacturer of streaming devices and software that derives most of its revenue from digital advertising, partly benefited from recent shifts in ad spending, executives said late last month. During the second quarter, advertisers such as car makers and consumer-goods companies reduced their spending on traditional TV, but increased their spending on Roku by a double-digit percentage, executives said.</p><p>Roku said it expects its advertising business to come under further pressure during the second half of the year.</p><p>\"We're in an economic cycle where advertising is trending down,\" Roku Chief Executive Anthony Wood said during a call with analysts last month. \"It'll turn around.\"</p><p>Write to Suzanne Vranica at Suzanne.Vranica@wsj.com and Alexandra Bruell at alexandra.bruell@wsj.com</p><p>Advertising Slowdown Spreads Beyond Tech Giants to Hit TV Networks, Publishers</p>",
+  "published": "2022-08-07T17:17:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 4830,
+          "end": 4845
+        },
+        {
+          "start": 4848,
+          "end": 4855
+        },
+        {
+          "start": 4922,
+          "end": 4928
+        },
+        {
+          "start": 4955,
+          "end": 4961
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.8440006,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -2.1559994,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

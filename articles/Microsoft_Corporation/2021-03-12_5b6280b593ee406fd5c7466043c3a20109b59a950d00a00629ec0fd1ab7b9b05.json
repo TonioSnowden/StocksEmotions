@@ -1,0 +1,52 @@
+{
+  "_id": "5b6280b593ee406fd5c7466043c3a20109b59a950d00a00629ec0fd1ab7b9b05",
+  "feed": "ftcomall",
+  "title": "SolarWinds and Microsoft hacks spark debate over western retaliation",
+  "text": "<p>Revelations that the US has been the target of two significant hacking campaigns by Russia and China just weeks apart have ignited a debate about how states should respond to cyber aggression that falls short of formal conflict.</p> <p>US president Joe Biden used his first phone call with Russian president Vladimir Putin earlier this year to protest against an espionage operation discovered in December, in which Russian hackers hijacked American-made <a href=\"https://www.ft.com/content/c13dbb51-907b-4db7-8347-30921ef931c2\">SolarWinds software</a> to gain access to organisations including the US commerce and Treasury departments. </p> <p>This month a second spying campaign was discovered that targeted key individuals at nongovernment organisations and think-tanks through <a href=\"https://www.ft.com/content/74fa3de6-dd16-4dc5-9b69-38bde634adc3\">flaws in Microsoft email software</a>. The company has linked the campaign to a Chinese state-sponsored hacking group called Hafnium.</p> <p>While the US administration is still assessing the fallout from the Microsoft campaign — and has not yet attributed it to China — Biden has raised expectations that he is considering reprisals against Moscow by repeatedly denouncing the SolarWinds hack. </p> <p>In a recent speech at the Munich Security Conference, he criticised “Russian recklessness” in hacking into computer networks. Last month Jake Sullivan, the US national security adviser, said the response to SolarWinds “will include a mix of tools seen and unseen, and it will not simply be sanctions”.</p> <p>According to the <a href=\"https://www.nytimes.com/2021/03/07/us/politics/microsoft-solarwinds-hack-russia-china.html\">New York Times</a>, the first move is expected in the next three weeks, and will involve “clandestine actions across Russian networks”, although this has not been confirmed by the administration.</p> <p>However, cyber experts caution that retaliation may not be justified. The SolarWinds hack is thought to have been pure espionage, rather than a cyber attack on critical infrastructure, such as previous strikes by Russian hackers against Ukrainian power supplies and banks and businesses in Georgia.&#xa0;</p> <p>“[The SolarWinds and Microsoft hacks] are not incidences of conflict in any sort of conventional sense, they're espionage, so they're part of a continual interaction between these states,” said Trey Herr, director of the Cyber Statecraft Initiative at the Washington-based Atlantic Council. “It's incumbent on the US to be probing for weaknesses and trying to take advantage of those, and it's incumbent on the Russians and on the Chinese to do the same.”</p> <p>Others noted that the US should also be careful of criticising cyber spying campaigns given its own extensive espionage operations against adversaries — as exposed by the whistleblower Edward Snowden in 2013. “If you want to get upset about SolarWinds as an outrage, then close down the National Security Agency, close down GCHQ [the UK signals intelligence agency],” said one security veteran. “No one is about to start having that conversation.”</p> <p>Biden's tough language on the Russian-backed hack has prompted further questions about the likelihood of future US action against Beijing for the Microsoft campaign, which already looks like it will cause wider collateral damage — though similarly does not constitute formal cyber warfare.</p> <p>Since Hafium hackers did not close the “backdoor” they created in the Microsoft software, criminal hackers are now rushing to exploit this access before users secure their systems. So far, the European Banking Authority has admitted to being compromised, and Brian Krebs, an experienced cyber security researcher, has suggested that <a href=\"https://krebsonsecurity.com/2021/03/a-basic-timeline-of-the-exchange-mass-hack/\">at least 30,000</a> US organisations, including small businesses and local government authorities, may be affected.</p> <p>However western security officials note that the menu of retaliatory cyber options available to their governments is limited. There are also legal restrictions: international law allows “injured” states to respond to hostile aggressors, but there are strict conditions, including that the retaliation must be proportionate. The focus is meant to be less on punishment than on stopping the offending state from continuing its actions.</p> <p>Conrad Prince, former deputy director of GCHQ and now a senior adviser at London's Royal United Services Institute think-tank, criticised the “automatic assumption” that a response to a cyber incident should involve striking back with cyber — the “eye for an eye” mentality. </p> <p>He pointed out that a cyber response is most valuable when it is actively disrupting a current threat, such as when US Cyber Command took Russia's Internet Research Agency offline during the 2018 midterm elections, to prevent IRA trolls from spreading disinformation while Americans went to the polls.</p> <p>Prince also warned that it was difficult to deliver a cyber response “that achieves sufficient bang for the buck”. </p> <p>“Sometimes it may just not be worth spending more time putting together an operation that will affect a hostile actor's infrastructure than it will take for them to recover from that operation,” he said. “In many ways, conventional diplomatic measures like sanctions, indictments and so on, may be a more impactful and visible strategic response than cyber operations in the background.”</p> <p>Prince emphasised that implementing better cyber defences — rather than retaliation — is the only serious strategy for deterring further espionage attacks. </p> <p>The US administration is reported to be working on new measures to <a href=\"https://www.washingtonpost.com/national-security/biden-russia-sanctions-solarwinds-hacks/2021/02/23/b77039d6-71fa-11eb-85fa-e0ccb3660358_story.html\">boost the resilience</a> of government networks in response to the SolarWinds hack. But both the SolarWinds and Microsoft incidents have demonstrated the threat posed by security flaws in commercial software. </p> <p>In the case of SolarWinds, the hack was not discovered for more than a year. Microsoft did not release updates to patch the hackers' access routes for nearly two months after they were first discovered, according to Krebs.</p> <p>Herr, of the Atlantic Council, said it was clear that US cyber security policy at the moment “is not working”. He accused the government of failing to adequately secure the technology it uses, and of trying to fight sophisticated cyber adversaries with tools that are “hopelessly out of date”.</p> <p>In theory, government has the purchasing power to set and enforce cyber security standards. Security agencies can help by making sure the private sector is aware of the extent and nature of the threat, experts suggest.</p> <p>But Herr also insisted that industry itself must take more responsibility for defending its systems. Weaknesses in Microsoft software, for example, were exploited by both the Russian and Chinese espionage campaigns.</p> <p>He said: “Some of the largest vendors that have been impacted by these events need to be asked: are they building their technology to defend against these kinds of attacks that are becoming increasingly frequent?”</p><p>Source: Helen Warrell, Defence and Security Editor 2021 'SolarWinds and Microsoft hacks spark debate over western retaliation' FT.com 12 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-12T14:47:37.243Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 15,
+          "end": 24
+        },
+        {
+          "start": 3147,
+          "end": 3156
+        },
+        {
+          "start": 5367,
+          "end": 5376
+        },
+        {
+          "start": 5541,
+          "end": 5550
+        },
+        {
+          "start": 1904,
+          "end": 1913
+        },
+        {
+          "start": 6315,
+          "end": 6324
+        },
+        {
+          "start": 2933,
+          "end": 2942
+        },
+        {
+          "start": 886,
+          "end": 895
+        },
+        {
+          "start": 697,
+          "end": 706
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "78ad9050a7df45a05717a4b88452b0e4d7fc4db89984fb29836898439283c949",
+  "feed": "ftcomall",
+  "title": "Norway's oil fund warns cyber security is top concern",
+  "text": "<p>Cyber security has eclipsed tumultuous financial markets as the biggest concern for the world's largest sovereign wealth fund, as it faces an average of three “serious” cyber attacks each day.</p> <p>The number of significant hacking attempts against Norway's $1.2tn oil fund, <a href=\"https://www.ft.com/stream/2dc31520-7acc-4973-a7ba-161df15dddab\">Norges Bank Investment Management</a>, has doubled in the past two to three years, according to its chief executive Nicolai Tangen. </p> <p>The fund, which reported its <a href=\"https://www.ft.com/content/10725417-9896-4cbf-830a-24ce65382226\">biggest half-year dollar loss</a> last week after inflation and recession fears shook markets, suffers about 100,000 cyber attacks a year, of which it classifies more than 1,000 as serious, according to its top executives. </p> <p>“I'm worried about cyber more than I am about markets,” Tangen told the Financial Times. “We're seeing many more attempts, more attacks [that are] increasingly sophisticated.” </p> <p>The fund's top executives are even concerned that concerted <a href=\"https://www.ft.com/stream/14e2aafc-b4fc-431f-847b-be2742e5c6f9\">cyber attacks</a> are becoming a systemic financial risk as markets become increasingly digitised. </p> <p>Trond Grande, its deputy chief executive, pointed to the 2020 attack on SolarWinds, a software provider, by Russian state-backed hackers that allowed them to breach several US government agencies, including the Treasury and Pentagon, and a number of Fortune 500 companies including Microsoft, Intel and Deloitte.</p> <p>“They estimate there were 1,000 Russians [involved] in that one attack, working in a co-ordinated fashion. I mean, Jesus, that's our whole building on one attack, so you're up against some formidable forces there,” he said.</p> <p>Cyber attacks targeting the financial industry have risen sharply in recent months. Malware attacks globally rose 11 per cent in the first half of 2022, but they doubled at banks and financial institutions, according to cyber security specialist SonicWall. Ransomware attacks dropped 23 per cent worldwide, but increased 243 per cent against financial targets in the same period. </p> <p>Perpetrators can range from private criminal groups to state-backed hackers. Russia, China, Iran and North Korea are the most active state backers of cyber aggression, according to Bill Conner, executive chairman at SonicWall. “As sanctions go up, the need for money goes up as well,” he said. </p> <p>A cyber security expert who advises a different sovereign wealth fund said the “threat landscape” for such groups was “massive”.</p> <p>“When it comes to ransomware, about half of network intrusions are phishing attempts and the other half are remote access attacks using stolen credentials. You've also got insider threats [involving] someone with a USB drive, and sometimes people with access are just bribed,” he added.</p> <p>In the financial industry the vulnerabilities of banks, stock exchanges and essential financial infrastructure such as clearing houses have been the main focus of national security agencies, such as the US's twice-yearly cyber war gaming exercise, Quantum Dawn. </p> <p>However, investment company executives have also grown increasingly worried about cyber security in recent years, with some warning that the dangers are under-appreciated, and bemoaning the rising costs of guarding against attacks. </p> <p>In the Nordic region the rising tensions with Russia following its invasion of Ukraine have heightened the risks in the digital sphere. “With the financial situation that Russia finds itself in and as sanctions go up, the Nordics are part of that” bloc imposing penalties on Moscow, Conner said.</p> <p>JPMorgan analysts highlighted a surge of cyber attacks following Russia's invasion of Ukraine in a recent report, and warned that “critical industries in the US are on high alert, particularly the energy and financial sectors, for the possibility of retaliatory attacks as western sanctions weigh on the Russian economy”.</p> <p>The report stressed the dangers were broad and long-term in nature, and were only going to increase in the coming years. </p> <p>NBIM was set up in the mid-1990s to invest the revenues from Norway's oil and gas industries. It has grown to hold the equivalent of about 1.5 per cent of every listed company worldwide. The quasi-index fund is housed within Norway's central bank and has its overarching investment mandate set by the Ministry of Finance. </p> <p><em>Additional reporting by George Steer in London</em></p> <a href=\"http://www.ft.com/cms/db61d9b1-5244-4ba0-accc-7a85378313c0.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a><p>Source: Adrienne Klasa in London and Robin Wigglesworth in Oslo 2022 'Norway's oil fund warns cyber security is top concern' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T04:00:03.206Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1265,
+          "end": 1270
+        },
+        {
+          "start": 1270,
+          "end": 1275
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000064,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 6.4373016e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 29
+    }
+  ]
+}

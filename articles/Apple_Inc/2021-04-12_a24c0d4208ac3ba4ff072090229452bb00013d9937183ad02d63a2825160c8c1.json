@@ -1,0 +1,44 @@
+{
+  "_id": "a24c0d4208ac3ba4ff072090229452bb00013d9937183ad02d63a2825160c8c1",
+  "feed": "ftcomall",
+  "title": "Apple and Google block update of Covid-19 app in England and Wales",
+  "text": "<p>An update for the Covid-19 app used in England and Wales has been blocked by Apple and Google, after they found that it breached privacy rules set out in the agreement with the government.</p> <p>The update would have meant that users who tested positive for Covid-19 would be asked to upload details of venues they had checked into recently.</p> <p>But according to people briefed on the decision, the companies did not make the update available for download from app stores at the allotted time last week — which was designed to coincide with the <a href=\"https://www.ft.com/content/6a2f6702-3365-412d-9bc4-459f6b7c84b9\">relaxation</a> of coronavirus lockdown restrictions in England this week. </p> <p>The UK's Covid-19 contact tracing app has had a tumultuous ride over the past year. The original app, designed by NHSX, the health service's innovation arm at a cost of £12m and <a href=\"https://www.ft.com/content/819ff491-0ae9-4359-b3db-ed8de48330d7\">scrapped last June</a>, was built to store information on people's symptoms and location on a centralised database — a feature that alarmed privacy campaigners. </p> <p>Instead, ministers adopted technology designed by Google and Apple, which would only allow “decentralised” storage of information about user contacts on individual phone handsets. </p> <p>The function of scanning a QR code to “check in” to venues has been used from the start, but at no point has this data been accessible to others. The new update would have meant that users who tested positive for the virus would be given the option to upload a log of recent locations they had visited.</p> <p>Both Apple and Google had banned health authorities from storing or sharing patient or location data in their original agreements with governments.</p> <p>“The government should not be able to update software to make it more intrusive without regulatory and legislative safeguards kicking in,” said Jim Killock, executive director of the Open Rights Group, a digital campaigning organisation. “The Government has given no reason to be trusted on privacy during the pandemic, which continues to risk public trust in their health efforts.”</p> <p>Apple and Google's Exposure Notifications System FAQ states that apps involved must “not share location data from the user's device with the public health authority, Apple, or Google”.</p> <p>A separate document, highlighted by the BBC <a href=\"https://www.bbc.co.uk/news/technology-56713017\">which first reported</a> the story on Monday, stated that “a contact tracing app may not use location-based API's . . . and may not collect any device information to identify the precise location of users”.</p> <p>The department for health said: “The deployment of the functionality of the NHS Covid-19 App to enable users to upload their venue history has been delayed”.&#xa0;</p> <p>It stressed that the delay would not impact the functionality of the app and added: “We remain in discussions with our partners to provide beneficial updates to the app which protects the public.”</p> <p>The health department also stated the app does not track individuals and does not hold personal information about individuals such as name, addresses or dates of birth.</p> <p>One person with knowledge of the situation said Apple was seeking a solution to the current impasse with the government. Google declined to comment on the move.</p> <p>It will still be a requirement for all members of a party to either check in using the app, or leave their contact details, when visiting outdoor hospitality from April 12.</p> <p>The app will notify someone and recommend they take a test if an app user has scanned a venue QR poster on the same day that multiple individuals have attended and subsequently tested positive.</p> <p>According to recent <a href=\"https://www.turing.ac.uk/blog/demonstrating-impact-nhs-covid-19-app\">research</a> produced by the Alan Turing Institute and Oxford university, the NHS contact-tracing app has prevented the transmission of hundreds of thousands of Covid-19 cases in England and Wales.</p> <p>The researchers estimated that every 1 per cent increase in app users can reduce coronavirus cases by as much as 2.3 per cent.</p> <p>The app has received more than 104m venue check-ins from its nearly 22.3m users. </p><p>Source: Anna Gross in London 2021 'Apple and Google block update of Covid-19 app in England and Wales' FT.com 12 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-12T17:39:45.906Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2959,
+          "end": 2964
+        },
+        {
+          "start": 2120,
+          "end": 2125
+        },
+        {
+          "start": 77,
+          "end": 82
+        },
+        {
+          "start": 1954,
+          "end": 1959
+        },
+        {
+          "start": 1428,
+          "end": 1433
+        },
+        {
+          "start": 1001,
+          "end": 1006
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

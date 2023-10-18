@@ -1,0 +1,34 @@
+{
+  "_id": "322aaf4e63b30bc99f0309a975fd5ee6941eda6d50037b307f0f3fe3ab580d01",
+  "feed": "wall-street-journal",
+  "title": "Dow Falls More Than 600 Points on Fed Worries; Investors turn jittery ahead of Fed Chairman Powell's planned speech in Jackson Hole",
+  "text": "<p>Monday's selloff came after U.S. stocks snapped a four-week stretch of gains for the S&amp;P 500 on Friday. The market climbed from July to mid-August on hopes that inflation has started to peak, which would allow the Fed to soften its stance, as well as on generally strong corporate earnings.</p><p>But Fed officials have remained publicly hawkish, leading some investors to conclude that the rebound was premature. The market's outlook also remains highly uncertain as investors weigh positive news—such as strong job growth—against worries that Fed tightening could tip the economy into recession.</p><p>\"The market wants the Fed to sound off on the dovish standpoint, but the Fed's not there yet,\" said Philip Blancato, chief executive of Ladenburg Thalmann Asset Management. \"The market got a little ahead of itself.\"</p><p>The Dow fell 643.13 points, or 1.9%, to close at 33063.61 Monday. The S&amp;P 500 dropped 90.49, or 2.1%, to 4137.99. The technology-focused Nasdaq Composite slid 323.64, or 2.5%, to 12381.57. Even with the recent pullback, all three major indexes are up at least 5.8% over the past three months.</p><p>Futures markets show traders are split as to whether the central bank will raise interest rates by half a percentage point or three-quarters of a point at its next meeting in September. Aggressive increases could cause businesses and consumers to cut back on spending, potentially hurting corporate earnings and economic growth.</p><p>\"Jackson Hole is something the market is starting to get nervous about,\" said Hani Redha, a portfolio manager at PineBridge Investments.</p><p>After the most recent Fed meeting, some investors expected the central bank to ease up on rate increases, Mr. Redha said. \"There is chatter that perhaps Powell will try to reverse that perception,\" he added.</p><p>Investors are also concerned about a key number set to be released Friday: the Commerce Department's personal-consumption-expenditures index, a measure of core inflation that excludes volatile food and energy costs. The index is seen as the Fed's preferred measure of inflation and could impact Mr. Powell's calculations.</p><p>Bond yields rose Monday in a sign that traders may be anticipating Fed rate increases. The yield on the benchmark 10-year Treasury note rose to 3.035%, from 2.987% on Friday. Yields and prices move in opposite directions.</p><p>The prospect of higher rates boosted the dollar, which benefits from global money flows when it delivers higher yields than other currencies. The WSJ Dollar Index, which measures the greenback against a basket of 16 currencies, rose 0.5% on Monday, its seventh consecutive day of gains.</p><p>The euro weakened, again touching parity with the dollar.</p><p>All 11 sectors of the S&amp;P 500 fell on Monday. Tech stocks that were flying high earlier this summer were among the worst performers.</p><p>Apple, Tesla and Microsoft all retreated more than 2%. Netflix, a big beneficiary of the market's midsummer rally, slid $14.62, or 6.1%, to $226.54 after analysts at CFRA Research recommended that investors sell the stock.</p><p>Bed Bath &amp; Beyond, an individual-investor favorite whose shares have been on a wild ride in recent days, tumbled $1.79, or 16%, to $9.24 after S&amp;P downgraded the retailer's credit rating.</p><p>Shares of Ford Motor fell 80 cents, or 5%, to $15.08 after a $1.7 billion jury verdictfrom Friday that calls into question the roof strength of some trucks. The auto maker has said it plans to appeal.</p><p>Bitcoin, the world's largest cryptocurrency by market value, shed 1.9% from Sunday to trade at $21,107.25. The digital currency briefly broke below $21,000 earlier Monday. Crypto prices are heavily influenced by sentiment, causing selling in times of broad market selloffs.</p><p>In commodities, European natural-gas prices shot higher on worries that an upcoming closure of the Nord Stream pipeline by Russia will prevent the continent from amassing sufficient fuel supplies before winter.</p><p>Benchmark European gas prices jumped 13%. U.S. natural-gas prices rose on the prospect of increased demand from across the Atlantic, with the main front-month futures contract climbing 3.7%.</p><p>Major stock indexes in Europe fell. The pan-continental Stoxx Europe 600 dropped 1%, led by losses in German, Italian and French stocks.</p><p>Stocks in Asia closed mostly lower, with the exception of China's Shanghai Composite. The index gained 0.6% after banks in China cut benchmark interest rates on loans to households and businesses.</p><p>Write to Alexander Osipovich at alexander.osipovich@wsj.com and Caitlin Ostroff at caitlin.ostroff@wsj.com</p><p>Dow Falls More Than 600 Points on Fed Worries</p>",
+  "published": "2022-08-22T22:05:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2814,
+          "end": 2823
+        },
+        {
+          "start": 2789,
+          "end": 2798
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

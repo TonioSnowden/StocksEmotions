@@ -1,0 +1,24 @@
+{
+  "_id": "904f21ebf9bf7f2de6f7ad6d28dcdb2154409030fb41003c0679fd5028ebb7c6",
+  "feed": "wall-street-journal",
+  "title": "E-Security Firm Taps Funds  ----  By James Rundle",
+  "text": "<p>   Email security company Abnormal Security Corp. has raised $210 million in a Series C funding round led by Insight Partners. </p><p>   Based in San Francisco, Abnormal uses machine learning and other forms of artificial intelligence to detect potential cyberattacks launched through cloud-based email systems such as Microsoft Corp.'s Office 365 or Alphabet Inc.'s Gmail. These include targeted and social-engineering attacks and business email compromise attempts. They also include supply-chain infiltrations, where hacker emails might not include typical nefarious elements, such as malware attachments or malicious links. </p><p>   The company's funding round also saw participation from venture capital investors Greylock Partners and Menlo Ventures. </p><p></p>",
+  "published": "2022-05-16T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 306,
+          "end": 315
+        },
+        {
+          "start": 306,
+          "end": 321
+        }
+      ]
+    }
+  ]
+}

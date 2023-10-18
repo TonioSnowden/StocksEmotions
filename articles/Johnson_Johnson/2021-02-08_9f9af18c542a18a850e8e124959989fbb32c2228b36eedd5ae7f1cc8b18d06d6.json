@@ -1,0 +1,28 @@
+{
+  "_id": "9f9af18c542a18a850e8e124959989fbb32c2228b36eedd5ae7f1cc8b18d06d6",
+  "feed": "wall-street-journal",
+  "title": "World News: South Africa Pauses AstraZeneca Shots, Citing Concerns",
+  "text": "<p>Of the 39 volunteers in the AstraZeneca trial that were found to be infected with the new South African variant, 19 had received the vaccine, while 20 had received a placebo, said Shabir Madhi, the trial's principal investigator and dean of the medical school at the University of the Witwatersrand in Johannesburg. Those numbers would imply an efficacy rate of around 10% at protecting against mild and moderate Covid-19 from the new variant, said Dr. Madhi, although he added that the data were too limited to be statistically significant.</p><p>After the results were announced, South Africa's health minister, Zweli Mkhize, said the country would temporarily halt a planned rollout of the vaccine until there was more information on the vaccine's efficacy. The country had planned to administer a first shipment of one million doses of the vaccine to health-care workers later this month.</p><p>Johnson &amp; Johnson and Novavax Inc., whose vaccines have yet to be authorized in any country, have also found that their shots were less effective in recent human clinical trials in South Africa, compared with trials in the U.S. or the U.K. But their vaccines were still found to be 50% or more effective at preventing mild or moderate cases of Covid-19 and even more potent at shielding recipients from severe illness and hospitalization from the new strain.</p><p>The Johnson &amp; Johnson trial in South Africa included about 6,500 people while the Novavax one had 4,400.</p><p>Still, Dr. Madhi and University of Oxford scientists who developed the vaccine with AstraZeneca said that, based on the results from other vaccine trials, they were optimistic that their shot would provide protection from severe Covid-19. AstraZeneca and its partners have committed to producing some three billion doses this year, enough to immunize 1.5 billion people and far more than any other manufacturer. More than one billion doses are due to go to low- and middle-income countries.</p><p>Dr. Mkhize, the South African health minister, said that while the rollout of the AstraZeneca vaccine was on hold, the country would accelerate the deployment of the J&amp;J shot, of which it has ordered 9 million doses. That vaccine, which requires only one dose, was found to be 57% effective at preventing mild and moderate cases of Covid-19 in a recent clinical trial in South Africa and offered 85% protection against severe illness.</p>",
+  "published": "2021-02-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 887,
+          "end": 904
+        },
+        {
+          "start": 2108,
+          "end": 2111
+        },
+        {
+          "start": 1350,
+          "end": 1367
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

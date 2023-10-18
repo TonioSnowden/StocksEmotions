@@ -1,0 +1,50 @@
+{
+  "_id": "8181b65f943653f2e1c1a66dc460e1c38143395cc2c9b244cdd13225fc4fad24",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Apple Sets  Sept. 7 for  Product  Unveilings  ----  By Talal Ansari",
+  "text": "<p>   Apple Inc. on Wednesday sent invites for a Sept. 7 launch event, where the tech giant is expected to unveil new iPhones. </p><p>   The in-person event is set to take place at the Steve Jobs Theater at the company's headquarters in Cupertino, Calif. Previous events had been held virtually in recent years due to the Covid-19 pandemic. </p><p>   \"Far out,\" the company wrote in the invitation. As usual, details were sparse. </p><p>   Since 2013, Apple has typically rolled out new iPhone models in September, although it was delayed until October in 2020 due to pandemic-related production challenges. Last year, the company unveiled the iPhone 13 and iPhone 13 Pro, as well as the Apple Watch Series 7, a new iPad Mini and iPad. </p><p>   This year's event is scheduled at an earlier date than previous iPhone presentations in September, and some analysts have said this would allow the company to capture more sales in the July-to-September quarter. Apple reported an 11% decline in profit from April to June compared with a year earlier, although iPhone sales remained resilient despite economic challenges. </p><p>   Other hardware and smartphone companies have seen sales slip this year as consumers reduce spending in the face of high inflation and other economic challenges. </p><p>   Apple Chief Executive Tim Cook said in July that the company isn't seeing evidence in its data of a macroeconomic effect on iPhone sales. </p><p>   For the iPhone 14 line, analysts are expecting upgrades related to battery life and processing capabilities, and the company may also upgrade the Apple Watch. </p><p></p>",
+  "published": "2022-08-25T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999856,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 12,
+          "end": 17
+        },
+        {
+          "start": 411,
+          "end": 416
+        },
+        {
+          "start": 416,
+          "end": 421
+        },
+        {
+          "start": 904,
+          "end": 909
+        },
+        {
+          "start": 1222,
+          "end": 1227
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

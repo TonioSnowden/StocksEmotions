@@ -1,0 +1,72 @@
+{
+  "_id": "248abbaf3cc6675384cc967e9c854ed8b5d4c9b389263239b19c5b35a766cbe6",
+  "feed": "wall-street-journal",
+  "title": "Autocorrect Explained: Why Your iPhone Adds Annoying Typos While Fixing Others; Tpying truble? During the iPhone's first 15 years, its keyboard software has evolved, but it still sometimes flubs your lines. Here's how it works and what you can do about it.",
+  "text": "<p>But before I git into thast, allow me to make a pont. Go itnto hour iPhone settings and turn off autocrrct. Yeaaasah. Good lyuck typig without it!</p><p>If you didn't catch that, I turned off autocorrect for a day and barely lived to tell the tale. Within minutes, it was clear how much the software is saving us from ourselves. </p><p>Turn off autocorrect at your own risk. You'll quickly learn how much it is really doing. PHOTO: Kenny Wassus / The Wall Street Journal</p><p>\"But therein lies the rub,\" Ken Kocienda, who created the iPhone's autocorrect software, told me. \"The more you ask it to do, the more potential there is for bugs and unexpected behaviors.\" (You don't want to miss my video interview where he formally apologizes to a real duck for inadvertently associating it with a certain profanity.)</p><p>I tracked down Mr. Kocienda, who left Apple in 2017, as well as other former and current Apple employees to explain autocorrect errors I continue to experience, and if recent system updates have made the software worse. I also sought out tricks to help autocorrect behave better, so read on.</p><p>Word Swaps</p><p>For months one autocorrect error has stuck like a poppy seed in my teeth. Apple insists on correcting the word \"newsgrid,\" my fast-typed rendition of a tool we use at work, to \"newsgirl,\" as if Teddy Roosevelt were still president. Sure, you likely don't see that exact error, but you've probably experienced your own annoying word swaps. </p><p>Ken Kocienda created the iPhone's autocorrect software. PHOTO: Karl Mollohan for The Wall Street Journal</p><p>Perhaps you've seen your phone fill in your intended word as someone's last name, or the name of an app on your phone.</p><p>Here's what's going on. When you type, the autocorrect algorithms are trying to figure out what you mean by looking at various things, including where your fingers landed on the keyboard and the other words in the sentences, while comparing your word fragment to the words in two unseen dictionaries:</p><p>• Static Dictionary: Built into iOS, this contains dictionary words and common proper nouns, such as product names or sports teams. There were over 70,000 words in this when the first iPhone launched and it's gotten bigger since then.</p><p>• Dynamic Dictionary: Built over time as you use your phone, this consists of words that are unique to you. The system looks at your contacts, emails, messages, Safari pages—even the names of installed apps.</p><p>It's also where new words unique to your vocabulary get logged: By the third time you type an unknown word, the software will typically add it to the dynamic dictionary and stop trying to turn it into something different, said Mr. Kocienda and others.</p><p>\"The static dictionary and the dynamic dictionary would be in a little bit of a battle with each other,\" Mr. Kocienda said. The software is designed to break the tie, he added, but it doesn't always pick what you would pick.</p><p>In my case, the static dictionary is saying \"Hey, she's trying to say 'newsgirl'!\" but the dynamic dictionary, having learned from me, now says, \"No, you idiot, obviously she means 'NewsGrid'!\"</p><p>An Apple spokeswoman confirmed the learning rule and explained that with \"NewsGrid,\" the learning may have been delayed because of its unique capitalization. I would need to type the word the exact same way twice, and I often forget to capitalize.</p><p>What you can do: The surefire way to make sure your phone knows your personal vocabulary? On your iPhone, go to Settings → General → Keyboard → Text Replacement. Now add your words or phrases to both the Phrase and Shortcut fields, which will add them to the dynamic dictionary. Since adding NewsGrid here, there have been no newsgirls in sight.</p><p>Foul Language</p><p>I know what you're thinking: I've typed some curse words way more than two times and the software has never learned those! </p><p>PHOTO: Chaya Howell/The Wall Street Journal</p><p>When working on the original iPhone, Mr. Kocienda had a peculiar job. He made a list of bad words—profanity, curses, slurs—and put them into the static dictionary. But he programmed these with a special rule: \"Never ever help anybody type these words,\" he said. Apple didn't want to mistakenly nudge someone to say something awful, for instance, when your finger slips while you're thanking Grandma for the lovely duck boots.</p><p>(Somehow the team initially missed the \"sec\"/\"sex\" autofix, which stuck around for years. Mr. Kocienda said it's an example of how complicated our language can be.)</p><p>What you can do: Type your ducking curse words correctly. You can also add them to that Text Replacement database. My trick? I entered my favorite profanities as contacts in my address book.</p><p>Grammatical Errors</p><p>Another pet peeve? All the grammatical errors autocorrect introduces. I frequently see \"in\" instead of \"on,\" \"it's\" instead of \"its\" and \"we'll\" instead of \"well.\" A few times I've gotten \"and's\"—not something I've ever aimed to type.</p><p>Over time, Apple's autocorrect has become more sophisticated and aggressive, correcting words based on the previous words in a sentence and even retro-correcting words after you've typed a few more words. </p><p>Machine learning has evolved Apple's autocorrect keyboard software. Now, we just need a bit more control. PHOTO: Kenny Wassus / The Wall Street Journal</p><p>It does that by using machine-learning algorithms that absorb what people have written on the internet. With iOS 15, Apple started using a privacy-focused method for training its algorithms using iPhones in the wild, without collecting typing data from them. The improvements from this can then be shared in iOS updates, the Apple spokeswoman said.</p><p>The good? The autocorrect system can be updated frequently with our more casual English—the \"ur gonna love this\" type of stuff. The bad? Some argue it can pick up our typos and our no-good-very-bad writing habits.</p><p>SHARE YOUR THOUGHTS</p><p>What are your funniest autocorrect goof-ups? Join the conversation below.</p><p>Apple says some of those grammatical errors I mentioned are likely because of my typing. For instance, I might get \"on\" instead of \"in\" because \"I\" and \"O\" neighbor each other.</p><p>As for \"well\" to \"we'll,\" Apple said the software is looking at previous words for context. Mr. Kocienda said if you typed words like \"well\" or \"hell,\" his software wouldn't add the apostrophe because it couldn't tell what you meant. Obviously, this is one of the changes made to autocorrect since his departure.</p><p>What you can do: Sadly, Apple doesn't offer a way to disable auto-apostrophes—the Smart Punctuation setting only adjusts the look of punctuation, not the placement of it—though you can disable auto-capitalization. </p><p>If you've just had it with Apple's keyboard, you can download a third-party option. This one from Typewise has a quick autocorrect-undo feature. PHOTO: Joanna Stern / The Wall Street Journal</p><p>There's also another option. You can download a third-party keyboard from the app store, like Google's Gboard or Microsoft's SwiftKey (though I suggest looking into what data they might collect and share). One option called Typewise has a feature I wish Apple would steal: an autocorrect undo button.</p><p>So has autocorrect gotten worse? Part of me—the part that just had to retype \"part\" because it was corrected to \"pet\"—says \"100% yes.\" The other part of me thinks the software has just gotten more aggressive.</p><p>As the machines learned more and helped us type better and faster, we became lazier typers. We're blissfully oblivious to autocorrect's many fixes, but we do notice the errors. Are some errors dumb? Do they seem avoidable, especially if the system just did nothing instead? Sure, which is why I think we need more control over the machines.</p><p>I'd like to see an autocorrect aggressiveness dial where I could adjust the level of correction. At the very least I'd like to disable some of those auto-apostrophe's.</p><p>Duck!</p><p>— Sign up here for Tech Things With Joanna Stern, a new weekly newsletter. Everything is now a tech thing. Columnist Joanna Stern is your guide, giving analysis and answering your questions about our always-connected world.</p><p>Autocorrect Explained: Why Your iPhone Adds Annoying Typos While Fixing Others</p>",
+  "published": "2022-04-27T09:31:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 7050,
+          "end": 7055
+        },
+        {
+          "start": 5121,
+          "end": 5126
+        },
+        {
+          "start": 833,
+          "end": 838
+        },
+        {
+          "start": 6104,
+          "end": 6109
+        },
+        {
+          "start": 6415,
+          "end": 6420
+        },
+        {
+          "start": 3079,
+          "end": 3084
+        },
+        {
+          "start": 5361,
+          "end": 5366
+        },
+        {
+          "start": 1172,
+          "end": 1177
+        },
+        {
+          "start": 4898,
+          "end": 4903
+        },
+        {
+          "start": 4113,
+          "end": 4118
+        },
+        {
+          "start": 884,
+          "end": 889
+        },
+        {
+          "start": 5569,
+          "end": 5574
+        },
+        {
+          "start": 5901,
+          "end": 5906
+        },
+        {
+          "start": 6632,
+          "end": 6637
+        }
+      ]
+    }
+  ]
+}

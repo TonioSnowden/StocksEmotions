@@ -1,0 +1,34 @@
+{
+  "_id": "be395e2ad2649e904dfef345b798e751279bb452c297c9b3f4aab97fc926dee6",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   Third Point LLC's new stake in Walt Disney Co. consists of less than 1% of Disney's shares outstanding and is valued at around $1 billion, according to a person familiar with the matter. In some editions Tuesday, a Page One article about the companies incorrectly said Third Point's stake is approximately 18 million shares valued at $2.25 billion. </p><p>   --- </p><p>   In some editions Tuesday, the rank of Senior Col. Shi Yi, a spokesman for the Chinese military's Eastern Theater Command, was given incorrectly as major in a World News article about U.S. lawmakers' visit to Taiwan. </p><p>   --- </p><p>   New episodes of \"Yellowstone\" will appear on the Paramount TV network in the fall. A photo caption with a Business &amp; Finance article on Tuesday about streaming-video companies incorrectly said the new episodes will be on the Paramount streaming network. Also, the article referred to Paramount Network as Paramount, making it unclear where the new episodes of \"Yellowstone\" would air. </p><p>   (See: \"Streamers See More Switching By Subscribers\" -- WSJ August 16, 2022) </p><p>   --- </p><p>   The \"Late Trading\" table, which contains U.S. stock-market data from 4 p.m. to 6 p.m. ET, appeared with the garbled headline of \"1w\" rather than \"Late Trading\" on Tuesday's Markets Digest page. </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-08-17T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 75,
+          "end": 81
+        },
+        {
+          "start": 31,
+          "end": 46
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.8462296,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.84622943,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

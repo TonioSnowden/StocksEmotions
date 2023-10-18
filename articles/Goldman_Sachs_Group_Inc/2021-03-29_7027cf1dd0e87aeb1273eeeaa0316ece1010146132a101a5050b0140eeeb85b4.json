@@ -1,0 +1,36 @@
+{
+  "_id": "7027cf1dd0e87aeb1273eeeaa0316ece1010146132a101a5050b0140eeeb85b4",
+  "feed": "ftcomall",
+  "title": "Concerns grow over ETFs' illiquid holdings",
+  "text": "<p>The surge in ETF investment is beginning to spark concerns that retail investors will not be able to differentiate between exchange traded funds that own securities which are easy to trade and those that have illiquid holdings.</p> <p>The fear is that some funds, particularly those that have narrow investment objectives, can amass very large holdings in companies that are barely traded.</p> <p>“If you hold an ETF that has illiquid securities then your selling price might be far lower than expected if you're part of a wave of selling,” said Elisabeth Kashner, director of ETF research and analytics at FactSet, which has developed a methodology that can flag ETFs that are a cause for concern.</p> <p>The underlying illiquidity is not easy for an ordinary investor to spot because of the way that ETFs operate. When ETF shareholders place a sell order, it is down to <a href=\"https://www.ft.com/content/b464f041-4025-4f68-8d5d-b1e865367372\">authorised participants</a>, the specialised trading companies or investment banks that create and redeem ETF shares, to sell the underlying holdings. In other words, ETF investors might never know if there had been problems being able to perform the trades.</p> <p>FactSet measures&#xa0;how much trading in an ETF's underlying stocks would be required if investors were to sell enough shares to prompt the redemption of 5 per cent of assets under management. For example, if investors sold shares in&#xa0;iShares Global Clean Energy ETF that drove redemptions to&#xa0;5 per cent of AUM, the necessary portfolio trades would equal 36.44 per cent of their recent median trading volumes. A high underlying volume per unit figure indicates&#xa0;an adverse price impact is more likely, particularly with funds that hold outsized positions in less liquid markets.</p> <p>The data provider has identified potential problems with some ETFs tracking silver miners, rare earths, cannabis and renewable energy, as well as pockets of problems in other sectors.</p> <p><em>“</em>Narrower funds, especially those with relatively few constituents — such as the ones flagged in the metals and mining, silver, and nuclear and renewable energy sectors — may present larger challenges in finding willing buyers for their portfolio securities. Likewise, APs may have fewer options for hedging these specialised portfolios,” said Kashner.</p> <p>The issue has also been picked up in a report published earlier this month by Goldman Sachs.</p> <p>“Non-market cap weighted ETFs now comprise over 10 per cent of total equity ETFs,” said Goldman in its report. “In our view, this increases the need for investors to understand underlying exposures as there may be larger mismatches with underlying size and liquidity which can then lead to flow-driven distortions.”</p> <p>Jessica Binder Graham, co-head of European equity research at Goldman Sachs, said the analysis was intended to highlight when ETFs had overweight positions in particular companies. </p> <p>One example, she said, was Leggett &amp; Platt, which is one of the smallest 10 companies in the S&amp;P 500 but the 20th&#xa0;largest holding of the SPDR S&amp;P Dividend ETF (<a href=\"https://etf.ft.com/funds/4948/\">SDY</a>), an $18bn fund which is weighted by yield.</p> <p>While institutional investors can rely on research such as FactSet's to flag potential problems, retail investors can be at a disadvantage in terms of information and might not understand potential risks.</p> <p>The scarcity of buyers for the underlying constituents of some ETFs has already caused some problems in the market, according to one industry executive who asked to remain anonymous. “It could put pressure on some APs — it's definitely a lot more than you think,” she said.</p> <p>Experts agree that during a broad sell-off it is normal that investors should expect the value of their holdings to fall. The problem for some ETFs with concentrated positions in thinly traded markets is that a large redemption magnifies downward price pressure on its underlying stocks. </p> <p>The solution is to do more homework, said Anita Rausch, head of capital markets at WisdomTree, an ETF provider.</p> <p>“What I think retail investors, or any investor for that matter, needs to understand is the price/value of what they are buying relative to the fundamental value of the underlying constituents,” she said, advising investors to do their homework on fundamentals such as price earnings valuations and price-to-book ratios.</p> <p>That would be a start, but would not compete with the level of scrutiny carried out by industry participants. </p> <p>Dina Ting, head of global index portfolio management at Franklin Templeton, said the asset manager monitored the proportion of average daily volume of each underlying security an ETF would account for at different levels of assets under management, as well as the percentage of free-float stock it would account for.</p> <p>“Generally, we would look for less than 15 per cent of the portfolio to have more than 5 per cent of average trading volume as a starting floor for capacity analysis,” she added.</p> <p>She said average daily volume data was available on retail brokerage order entry systems, but she conceded that individual investors would not readily be able to access the additional data that companies such as Franklin Templeton rely on.</p> <p>Given that some information is hard to come by, it could be wise to simply take a step back and, as Rausch said, “learn how to spot bubbles”. Then it might be possible to avoid the crush at the exits should a wave of selling hit the market.</p> <p>“Retail investors might think they're going after a hot new area of the market, but [with thematic ETFs] they are also taking a narrow view, and with all due respect if there's an ETF for it they are not the first ones there,” said Peter Sleep, senior portfolio manager at 7 Investment Management.</p>&#xa0;&#xa0;<p>Source: Emma Boyde 2021 'Concerns grow over ETFs' illiquid holdings' FT.com 29 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-29T04:00:19.799Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 2397,
+          "end": 2404
+        },
+        {
+          "start": 2294,
+          "end": 2307
+        },
+        {
+          "start": 2687,
+          "end": 2700
+        },
+        {
+          "start": 2294,
+          "end": 2301
+        },
+        {
+          "start": 2687,
+          "end": 2694
+        }
+      ]
+    }
+  ]
+}

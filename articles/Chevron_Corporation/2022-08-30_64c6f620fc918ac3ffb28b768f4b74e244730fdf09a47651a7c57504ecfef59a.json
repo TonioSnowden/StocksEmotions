@@ -1,0 +1,38 @@
+{
+  "_id": "64c6f620fc918ac3ffb28b768f4b74e244730fdf09a47651a7c57504ecfef59a",
+  "feed": "wall-street-journal",
+  "title": "How to Keep Political Appointees Honest; Overturn Chevron to restore the threat of court oversight.",
+  "text": "<p>Without any deference for the department's interpretation of statutes, it was nonetheless rare for a court to overturn our regulations. Political appointees hate to lose in court, so when told that a draft regulation would likely be overturned, they would have the regulation revised to nix outlandish interpretations of statutes. Chevron, which compels courts to defer to agency interpretations, removed that check on executive power.</p><p>Em. Prof. Theodore A. Feitshans</p><p>North Carolina State University</p><p>Raleigh, N.C.</p><p>How to Keep Political Appointees Honest</p>",
+  "published": "2022-08-30T17:12:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 50,
+          "end": 57
+        },
+        {
+          "start": 329,
+          "end": 336
+        },
+        {
+          "start": 331,
+          "end": 338
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.755081,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7550813,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

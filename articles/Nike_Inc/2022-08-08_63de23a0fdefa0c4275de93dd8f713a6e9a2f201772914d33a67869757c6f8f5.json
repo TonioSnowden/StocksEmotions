@@ -1,0 +1,38 @@
+{
+  "_id": "63de23a0fdefa0c4275de93dd8f713a6e9a2f201772914d33a67869757c6f8f5",
+  "feed": "wall-street-journal",
+  "title": "Direct-to-Consumer Sales Fuel Growth in Supply-Chain Technology",
+  "text": "<p>Manhattan Associates Inc., an Atlanta provider of supply-chain management software to the retail and manufacturing sectors, said its revenue has grown at a double-digit pace this year, in part because of new corporate customers seeking to build the technology to handle individual consumer orders. Blue Yonder, a subsidiary of Japan-based Panasonic Corp., said it added nearly 100 new clients this year for its supply-chain management technology.</p><p>\"We are starting to attract . . . customers that we've never done business with before, because years ago, they weren't in need of our solutions, but today they are,\" said Manhattan Associates' Chief Executive Eddie Capel. \"Almost every company is, in some way, shape or form, getting closer to the consumer.\"</p><p>The direct-to-consumer strategy gained traction some years before the pandemic as startup brands sought to sell their products directly to customers without wholesalers or third-party retailers. The growth of online marketplaces helped many direct-to-consumer startups get their names out.</p><p>Direct-selling startup brands, such as footwear and apparel brand Allbirds Inc. and home-fitness program provider Peloton Interactive Inc., thrived early in the pandemic when most people stayed home and ordered everything from groceries to furniture online. To capture online shoppers, major brand manufacturers pushed forward with direct-selling strategies.</p><p>The logistics of direct-to-consumer sales for manufacturers can be very different from the operations to supply retail stores, however.</p><p>Suppliers of products, from potato chips to appliances, often ship big consignments of goods through industrial supply chains, often on shrink-wrapped pallets hauled by tractor-trailers to distribution centers or stores. Companies selling to consumers must manage the flow of individual shipments, such as a box of athletic shoes, rather than hundreds of boxes moving from the factory to a corporate customer's loading dock.</p><p>The strategy fostered a growing ecosystem of providers like Shopify Inc., which creates online tools for sellers and is expanding its ability to handle logistics for its customers. Supply-chain software suppliers such as Manhattan Associates, Blue Yonder and Infor Inc. help companies manage inventory and the flow of goods within their supply chains.</p><p>Athletic-apparel giant Nike Inc. said its direct-to-consumer sales helped offset the decline in its wholesale business early in the pandemic.</p><p>In its fiscal year ended in May, about 24% of its total revenue originated from the company's digital channels, including its websites and phone apps, said Chief Financial Officer Matthew Friend during an earnings call in June. \"A more digitally connected Nike is a more valuable Nike,\" he said.</p><p>Food and beverage companies have also jumped on the direct-selling bandwagon. In May 2020, PepsiCo Inc. launched two direct-to-consumer websites -- Snacks.com and PantryShop.com -- where shoppers can order an assortment of PepsiCo products. Gibu Thomas, then head of e-commerce, said at the time that PepsiCo's new websites were to serve shoppers who were increasingly turning to online shopping for food and beverage purchases.</p>",
+  "published": "2022-08-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.99279994,
+      "offsets": [
+        {
+          "start": 2342,
+          "end": 2351
+        },
+        {
+          "start": 2328,
+          "end": 2336
+        },
+        {
+          "start": 2717,
+          "end": 2721
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7075,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.29250002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

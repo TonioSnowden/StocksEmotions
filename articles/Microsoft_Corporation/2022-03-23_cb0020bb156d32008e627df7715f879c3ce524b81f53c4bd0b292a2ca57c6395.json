@@ -1,0 +1,32 @@
+{
+  "_id": "cb0020bb156d32008e627df7715f879c3ce524b81f53c4bd0b292a2ca57c6395",
+  "feed": "market-watch",
+  "title": "Microsoft says hacking group that struck Okta got ‘limited' access to software giant",
+  "text": "<p>Microsoft MSFTsays the hacking group started targeting organizations in the United Kingdom and South America but expanded to global targets, including organizations in government, technology, telecom, media, retail, and healthcare sectors. Microsoft said the group also is targeting individual user accounts at cryptocurrency exchanges to drain cryptocurrency holdings.</p><p>The hacking group that Microsoft also calls DEV-0537 uses social engineering efforts to gather knowledge about their target's business operations, the software giant said, and is motivated by “theft and destruction.”</p><p>Also read: Okta says it's investigating possible digital breach — here's everything we know so far</p><p>Okta OKTA shares fell as much as 9% on Tuesday but ended the day down just 2%.</p><p>Microsoft shares have dropped 10% this year, in line with the broader Nasdaq Composite COMP.</p>",
+  "published": "2022-03-23T04:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 240,
+          "end": 249
+        },
+        {
+          "start": 393,
+          "end": 402
+        },
+        {
+          "start": 765,
+          "end": 774
+        }
+      ]
+    }
+  ]
+}

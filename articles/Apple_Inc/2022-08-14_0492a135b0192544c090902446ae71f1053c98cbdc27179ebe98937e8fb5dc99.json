@@ -1,0 +1,38 @@
+{
+  "_id": "0492a135b0192544c090902446ae71f1053c98cbdc27179ebe98937e8fb5dc99",
+  "feed": "wall-street-journal",
+  "title": "Alex Jones's Sandy Hook Reckoning; The provocateur is paying a price for harming the families of murdered children.",
+  "text": "<p>This is worth about as much as his other pronouncements. The U.S. has strong constitutional protections for speech and press, with no exclusion for ill-considered opinions by internet talking heads. Facts that are true aren't defamation, which is one reason that careful journalists check their work. But the First Amendment is not a license to spew malicious lies and falsehoods.</p><p>\"I can't even describe the last nine and a half years,\" Mr. Heslin testified, \"the living hell that I and others have had to endure because of the recklessness and negligence of Alex Jones.\" Sandy Hook families have been threatened and harassed by conspiracy theorists. \"I don't think you understand the fear that you perpetuate,\" Ms. Lewis told Mr. Jones from the witness stand. \"The ripple effect is enormous because of the platform that you have, and the fear that comes from that, the fear stops the healing and the mourning process.\"</p><p>Mr. Jones finally conceded in court that the massacre was \"100% real,\" while insisting that he believed otherwise at the time. The jury's accountability nonetheless included damages for reputation injuries and emotional distress. With any luck, the verdict will convince mainstream political figures that it's wrong to play footsie with Mr. Jones's audience by going on his show, as some Republicans have done.</p><p>The verdict also seems to vindicate internet platforms that gave Mr. Jones the boot. Apple removed his podcasts in 2018. Many conservatives are fed up with Big Tech, but should Apple have been compelled to keep disseminating Mr. Jones's Sandy Hook bile? If Congress hacks apart the Section 230 liability shield, won't platforms get even more cautious? If a podcast today can turn into a massive payout in 2026, content reviewers will turn the sensitivity dial up to 11.</p><p>As journalists and citizens, we say thank goodness for the First Amendment. Political debate is at the core of free speech, and the government needs to give it a wide berth. Yet courts also provide a way for someone who's damaged by publicized falsehoods to seek compensation. The law applies regardless of politics, and the pro-life Covington Catholic graduate Nick Sandmann has won undisclosed settlements from big news outlets.</p><p>Maybe Mr. Jones will be back at it tomorrow, but at least there's finally a cost for his Sandy Hook garbage. As the lawyer for the parents told the jury: \"Speech is free. Lies, you pay for.\"</p><p>Alex Jones's Sandy Hook Reckoning</p>",
+  "published": "2022-08-14T19:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1416,
+          "end": 1421
+        },
+        {
+          "start": 1495,
+          "end": 1500
+        },
+        {
+          "start": 1404,
+          "end": 1409
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000014,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.5497208e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

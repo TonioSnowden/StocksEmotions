@@ -1,0 +1,28 @@
+{
+  "_id": "b136d0b09079f28804800943e07aad59a17d567baa7bd567e3fc3302b6412d27",
+  "feed": "wall-street-journal",
+  "title": "Technology:  AMD Deal  For Xilinx  Wins Key  Approval  ----  By Yang Jie",
+  "text": "<p>   TOKYO -- Chinese authorities approved U.S. chip maker Advanced Micro Devices Inc.'s planned $35 billion purchase of Xilinx Inc., clearing the last major regulatory hurdle for one of the biggest deals in recent years in the semiconductor industry. </p><p>   China's State Administration for Market Regulation said in a statement released online Thursday that it has conditionally approved the deal, which AMD and Xilinx had reached in October 2020. The two companies had received approvals from competition authorities in major markets except China, an AMD executive told analysts in December. </p><p>   AMD and Xilinx, in regulatory filings Thursday, acknowledged China's approval and said they expected the deal to close this quarter. The companies said they are waiting for the U.S. government to clear the transaction. </p><p>   AMD's addition of San Jose, Calif.-based Xilinx, which specializes in a type of chip called field-programmable gate arrays, would put AMD, based in Santa Clara, Calif., on a more even footing with rival Intel Corp., which also has a FPGA business, acquired from Altera in 2015. </p><p>   Xilinx and Intel are the dominant makers of FPGA, which can be reprogrammed after they are made. FPGA are often used in 5G telecommunications infrastructure, military communications and radar systems. AMD specializes in central-processing units and graphics chips used in computers. </p><p>   The approval comes weeks after AMD and Xilinx said they would push back the close date of the deal to the first quarter of this year from the end of 2021, as they couldn't secure necessary approvals. </p><p>   The Chinese antitrust regulator said in a statement that it is requiring the merged entity to maintain or expand investments into R&amp;D activities in China for core technologies. The merged entity must sell to Chinese customers on fair, reasonable and nondiscriminatory terms, it also said. These conditions would apply for at least six years, and the merged entity must report to authorities every six months on these commitments, the regulator said. </p><p>   China's antitrust authority, which has broad reach to claim say over deals in which at least one party has a significant presence in the Chinese market, has played a key role in some semiconductor deals in recent years. </p><p>   Last month, Intel received the green light from the Chinese regulator for the $9 billion sale of its flash-memory chip business to South Korea's SK Hynix Inc., clearing the last hurdle for that deal. </p><p>   In 2018, Qualcomm Inc. scrapped its $44 billion planned acquisition of NXP Semiconductors NV after waiting for an approval from Chinese authorities, which didn't come in time. </p><p>   In Thursday trading, AMD shares fell 7.3% while Xilinx declined 1.1%. </p><p></p>",
+  "published": "2022-01-28T07:06:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1091,
+          "end": 1096
+        },
+        {
+          "start": 1005,
+          "end": 1010
+        },
+        {
+          "start": 2245,
+          "end": 2250
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

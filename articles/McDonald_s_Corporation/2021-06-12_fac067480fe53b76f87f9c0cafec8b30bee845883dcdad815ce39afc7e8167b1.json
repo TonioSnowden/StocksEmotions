@@ -1,0 +1,52 @@
+{
+  "_id": "fac067480fe53b76f87f9c0cafec8b30bee845883dcdad815ce39afc7e8167b1",
+  "feed": "wall-street-journal",
+  "title": "Hackers Steal Data From McDonald's",
+  "text": "<p>In a message to U.S. employees, McDonald's said the breach disclosed some business contact information for U.S. employees and franchisees, along with some information about restaurants such as seating capacity and the square footage of play areas.</p><p>The company said no customer data was breached in the U.S., and that the employee data exposed wasn't sensitive or personal. The company advised employees and franchisees to watch for phishing emails and to use discretion when asked for information.</p><p>McDonald's said attackers stole customer emails, phone numbers and addresses for delivery customers in South Korea and Taiwan. In Taiwan, hackers also stole employee information including names and contact information, McDonald's said. The company said the number of files exposed was small without disclosing the number of people affected. The breach didn't include customer payment information, McDonald's said.</p><p>McDonald's said its divisions in South Korea and Taiwan notified regulators in Asia of the breach Friday, and that they would contact customers and employees. The company said its divisions would also notify some employees in South Africa and Russia of possible unauthorized access to their information. The investigation had flagged those countries as well.</p><p>McDonald's said that business at its restaurants wasn't disrupted by the breach and that it didn't involve a ransomware attack, in which hackers demand payment to return control of data and operations to companies. McDonald's said it wasn't asked for ransom, nor did it make any payment to the hackers.</p><p>Prominent ransomware attacks in recent months have disrupted operations at institutions and companies deeply embedded in U.S. civic and commercial life, including hospitals, transport systems, pipelines and meat companies. Some companies including Colonial Pipeline Co. and the U.S. operations of meat company JBS SA have said they paid hackers to regain full control of their data and operations.</p><p>Elsewhere Friday, Volkswagen AG's U.S. unit said an unauthorized third party obtained limited personal information about customers and interested buyers from a vendor used by its Audi and Volkswagen brands as well as some U.S. and Canadian dealers for digital sales and marketing. Around three million customers were affected.</p><p>McDonald's said that it has increased investment in cybersecurity defenses in recent years, and that those tools helped it respond to the recent attack. The company said it cut off hackers' access to data soon after the breach was identified.</p><p>\"McDonald's will leverage the findings from the investigation as well as input from security resources to identify ways to further enhance our existing security measures,\" the company said.</p><p>---</p><p>William Boston contributed to this article.</p>",
+  "published": "2021-06-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "name": "McDonald's Corporation",
+      "offsets": [
+        {
+          "start": 498,
+          "end": 508
+        },
+        {
+          "start": 895,
+          "end": 905
+        },
+        {
+          "start": 717,
+          "end": 727
+        },
+        {
+          "start": 912,
+          "end": 922
+        },
+        {
+          "start": 1271,
+          "end": 1281
+        },
+        {
+          "start": 24,
+          "end": 34
+        },
+        {
+          "start": 2299,
+          "end": 2309
+        },
+        {
+          "start": 32,
+          "end": 42
+        },
+        {
+          "start": 1486,
+          "end": 1496
+        }
+      ],
+      "nexusId": "10050164"
+    }
+  ]
+}

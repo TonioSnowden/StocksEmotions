@@ -1,0 +1,30 @@
+{
+  "_id": "36167e700b87e5793d8b35c74a716d5ad92fe4cf4ad0865a36e95477ce9c5abb",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>---</p><p>The U.S. government said it will launch a broad review of the Federal Home Loan Banks, a network of government-chartered cooperatives that provide cheap funding to thousands of banks.</p><p>---</p><p>Bed Bath &amp; Beyond said it would close roughly 20% of its namesake stores, cut its workforce and bring in fresh cash to stabilize the business through the holiday season.</p><p>---</p><p>Eurozone inflation rose to a record in August, with consumer prices 9.1% higher than a year earlier, increasing pressure on the ECB to respond aggressively.</p><p>---</p><p>Walt Disney is exploring a membership program that could offer discounts or special perks, according to people familiar with the discussions.</p><p>---</p><p>Snap announced plans to slash a fifth of its workforce as part of a strategic reorientation that underlines how sharply the company's fortunes have turned.</p><p>---</p><p>Netflix is looking to charge brands premium prices to advertise on its coming ad-supported platform, according to some ad buyers.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 527,
+          "end": 538
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0102346,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.010234594,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

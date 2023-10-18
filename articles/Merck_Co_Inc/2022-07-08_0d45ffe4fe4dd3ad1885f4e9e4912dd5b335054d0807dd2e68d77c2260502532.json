@@ -1,0 +1,36 @@
+{
+  "_id": "0d45ffe4fe4dd3ad1885f4e9e4912dd5b335054d0807dd2e68d77c2260502532",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   The drug Adcetris accounted for $706 million of Seagen Inc.'s $1.4 billion in sales last year. A Page One article on Thursday about Merck &amp; Co.'s talks to acquire Seagen incorrectly said Adcetris alone had $1.4 billion of sales last year. The error also appeared in a June 18 Page One article and a June 24 Business &amp; Finance article about the companies. </p><p>   (See: \"Merck Nears $40 Billion Deal For Cancer Biotech Seagen\" -- WSJ July 7, 2022\"; \"Merck Pursues Biotech Seagen To Bolster Its Cancer Portfolio\" -- WSJ June 18, 2022\"; \"Merck Presses Ahead With Seagen\" -- WSJ June 24, 2022) </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2022-07-08T06:02:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "offsets": [
+        {
+          "start": 362,
+          "end": 367
+        },
+        {
+          "start": 132,
+          "end": 143
+        },
+        {
+          "start": 441,
+          "end": 446
+        },
+        {
+          "start": 527,
+          "end": 532
+        },
+        {
+          "start": 132,
+          "end": 137
+        }
+      ]
+    }
+  ]
+}

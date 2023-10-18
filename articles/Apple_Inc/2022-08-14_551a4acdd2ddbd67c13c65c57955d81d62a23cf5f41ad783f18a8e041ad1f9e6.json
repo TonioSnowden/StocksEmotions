@@ -1,0 +1,34 @@
+{
+  "_id": "551a4acdd2ddbd67c13c65c57955d81d62a23cf5f41ad783f18a8e041ad1f9e6",
+  "feed": "ftcomall",
+  "title": "The Chips Act debate shows how far the Republicans have moved",
+  "text": "<p><em>The writer is executive director of American Compass</em></p> <p>At first glance, Republican opposition to the Chips and Science Act, through which Congress approved more than $70bn in support for the American semiconductor industry and roughly $200bn for scientific research, appears a straightforward story — of course the GOP resisted “big government” and “picking winners and losers”. </p> <p>But the criticism actually came from the opposite direction. Republicans showed an appetite for intervening in markets, confronting corporations, and unwinding globalisation. </p> <p>To appreciate how sharply America's economic debate has swerved, one must dive into the <a href=\"https://www.ft.com/world/us/politics\">legislative</a> details — where platitudes about “strengthening America” and “helping working families” give way to trade-offs that force the application of abstract principles to decisions. </p> <p>With Chips, the main argument was over “guardrails”. The bill would offer semiconductor manufacturers billions of dollars in grants to build new fabrication plants in the US. But those grants came with strings attached. Any company accepting federal money for an American project had to agree not to make any new high-tech capacity investments in China. </p> <p>Despite sounding simple, such guardrails have various parameters. What counts as “high-tech”, and who decides? Should the definition be fixed, or should it evolve? Intel and others, determined to both take federal money and invest aggressively in China, lobbied to weaken the guardrails — and here the swerve comes into view. </p> <p>Historically, Intel might have expected a sympathetic hearing from <a href=\"https://www.ft.com/stream/18579e91-20a8-4654-baff-5d8c7dd01eac\">Republicans</a>. It is a large corporation seeking to maximise profits and make investments to further that goal. Isn't that the GOP formula for a rising tide that will lift all ships? No longer. When the Democratic majority in the Senate was swayed by chipmakers' advocacy and modified the bill accordingly, the Republicans were incensed. </p> <p>Their frustration is expressed in <a href=\"https://www.documentcloud.org/documents/22111271-chips_for_china_rsc_memo?responsive=1&amp;title=1\">the memo</a> quickly released by the Republican Study Committee, the largest caucus of conservatives in the House of Representatives. Entitled “Chips for China”, it warned that “it is especially critical to understand how [the bill] fails to protect US taxpayer dollars intended to boost semiconductor production from flowing to China”. </p> <p>Kevin Roberts, president of the Heritage Foundation, <a href=\"https://twitter.com/Heritage/status/1550939624067006471\">appeared on Fox Business</a> to decry subsidising “the construction of semiconductor factories in China”. But keep the money in America, he told an audience at the Intercollegiate Studies Institute's American Economic Forum later that week, and he would be “all in”. </p> <p>The question here is not whether federal spending should go towards construction in China. The Chips Act unambiguously specifies that a company can only receive a grant for a project in the US. The Republican claim is that a company benefiting from a federal programme should not be able to invest in China at all. But if supporting an entity that does business there constitutes “helping China,” then everything helps China. By this metric, a tax cut to encourage investment by multinationals is an impermissible pro-China subsidy. </p> <p>What Republicans are saying is not really specific to Chips — rather, it evinces a crossing of the Rubicon towards full decoupling from China. After all, it hardly makes sense that an American semiconductor company making new, publicly-supported investments in the US should be barred from investing in China, while one refusing to invest domestically is free to partner with the Chinese government. The underlying logic of the GOP criticism is that investment in China is not in the American interest and the implication is that federal policy should respond, paeans to “free trade” be damned.</p> <p>Legislation already under consideration would restrict investment flows both to and from China — for instance, implementing more stringent reviews, limiting Chinese access to US capital markets, and prohibiting the transfer of sensitive technology. But if Republicans don't want Intel investing in China, they presumably feel the same way about Apple, Tesla, Goldman Sachs and Pfizer — and Harvard. Recent GOP rhetoric suggests they are less interested in subjective standards and reviews than outright bans. If they do well in November's midterms, expect rapid advances in this direction. </p> <p>A more aggressive industrial policy could also follow. The rationale behind the Chips Act will hold for other critical industries like communications equipment, rare-earth minerals, and biopharmaceuticals. Conservative interest in rebuilding America's industrial base may finally be overtaking the free-market fundamentalism that once dominated the centre-right.</p><p>Source: Oren Cass 2022 'The Chips Act debate shows how far the Republicans have moved' FT.com 14 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-14T10:00:44.223Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 4066,
+          "end": 4071
+        },
+        {
+          "start": 4036,
+          "end": 4041
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

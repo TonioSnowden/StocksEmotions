@@ -1,0 +1,24 @@
+{
+  "_id": "58fd974253e4deb8d1956fe40bbeeb9bcd9570d2b35e0e0d9d3b759fef83d2b2",
+  "feed": "wall-street-journal",
+  "title": "Wall Street May Profit From Frenzy --- While some hedge funds were hit hard, the GameStop saga may not be so bad for other firms",
+  "text": "<p>Certainly last week was challenging for many in places like Greenwich, Conn., or Midtown Manhattan, where many hedge funds are set up. Funds betting against shares of GameStop and other heavily shorted companies logged big losses. But many others employed in finance and trading may not have had such a bad week.</p><p>For example, JPMorgan Chase analysts said in a note last week that a daily index they track measuring performance of hedge funds that go long and short equities had a decline of about 2% over Tuesday and Wednesday, which the analysts noted wasn't unusually large and suggested \"any heavy losses in this space would most likely be confined to a few hedge funds.\"</p><p>Individual investors aren't alone in the ability to trade beyond fundamentals: Many quantitative funds trade on data signals and price movements. Justin Zhen, co-founder of Thinknum Alternative Data, said he started getting calls from quant firms last week seeking to generate sentiment measures from Reddit's WallStreetBets forum, where much of the discussion among individual investors surrounding shares like GameStop originated. His firm began monitoring the forum and providing hourly updates. \"I've never seen so much inbound for one data set in my life,\" he said.</p><p>What kind of week will it prove to have been in Chicago's Loop, New Jersey or lower Manhattan, where electronic market-making trading firms have traditionally clustered? The wider spreads, higher volatility and big volume sparked by the Reddit-fueled trades are typically ripe conditions for market makers, which aim to facilitate trading by rapidly buying and selling. At some point trading can become too wild, and technology has strained to keep up with the volume. The attention on Robinhood Markets' relationships with wholesale market makers that pay for its order flow, such as Citadel Securities, also has been intense. But by at least one measure, it wasn't a bad week for market makers: Shares of publicly listed electronic market maker Virtu Financial rose 12%, its best weekly gain since last March.</p><p>As for the geographic vicinity of Wall Street itself, there is the New York Stock Exchange, owned by Intercontinental Exchange. U.S. equity markets have logged huge volume, with a record 24.5 billion shares trading hands on Wednesday, according to figures tracked by Piper Sandler analysts. That is roughly 10 billion more than the daily average in 2021.</p><p>If Wall Street means investment banks, they, too, can do well when volumes and volatility are high. A rush of new stock or convertible issuance also would further boost banks' capital markets units. But sometimes the kind of volatility that sees a lot of clients -- like short-selling funds -- closing up shop or pulling in bets can depress trading revenue. By some measures, hedge funds have broadly cut their overall borrowing to trade, which could hurt some brokers. However, stock loans across the market appear to remain in demand: The percentage of available share value that was on loan in the Americas was higher week over week on Thursday, according to DataLend.</p><p>Investors in financial companies erred on the side of caution, perhaps because of the intense anger and political attention now focused on the sector, which might herald regulatory or behavioral changes. Shares of investment banks, exchanges and online brokers widely tumbled last week.</p><p>Clearly something big and uncertain is happening, and investors are right to be wary. But it would be premature to conclude that \"Wall Street\" writ large has been beaten at its own game.</p>",
+  "published": "2021-02-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 326,
+          "end": 340
+        },
+        {
+          "start": 326,
+          "end": 334
+        }
+      ]
+    }
+  ]
+}

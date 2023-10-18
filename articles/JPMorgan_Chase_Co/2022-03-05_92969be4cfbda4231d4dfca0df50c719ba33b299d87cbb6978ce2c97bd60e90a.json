@@ -1,0 +1,28 @@
+{
+  "_id": "92969be4cfbda4231d4dfca0df50c719ba33b299d87cbb6978ce2c97bd60e90a",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Russia Tests Limits  Of Debt Derivatives  ----  By Alexander Saeedy",
+  "text": "<p>   The Russian government stands on the edge of defaulting on its sovereign debts for the first time since 1998, and international sanctions may complicate how creditors are compensated by nearly $6 billion of credit derivatives contracts if Russia fails to pay what they are owed. </p><p>   Those derivative contracts, called credit default swaps, are meant to help investors insure they will receive near full compensation in case one of their underlying bonds defaults. There is approximately $4.5 billion of credit default swaps tied specifically to the Russian government, and an additional $1.5 billion located inside derivative indexes, according to JPMorgan Chase &amp; Co. </p><p>   The cost of buying a five-year contract for protection against a Russian government default has skyrocketed since the beginning of February from around 5% of the total value of the debt to be insured to 46% as of March 4, according to data from ICE Data Services. </p><p>   Typically, when a country or corporation defaults on a bond with a credit default swap, investment banks and brokerages that facilitate the swaps will participate in an auction to determine the value of the debt, usually at a discount to face value. However, Russian sanctions precluding the secondary-market trading of Russian bonds may render the entire auction process moot. </p><p>   \"If that is not able to happen due to sanctions on secondary market trading, then an auction in the standard way will not be possible,\" wrote JPMorgan analysts in a March 2 note. </p><p>   Moscow's response to Western sanctions, including the imposition of capital controls, has already created a disruption in how Russia's public debt trades internationally. </p><p>   Euroclear, a major debt clearinghouse based in Belgium, said on Wednesday that Russia's state depository had blocked its accounts, preventing trades of some of Russia's dollar- and euro-denominated debts from settling. The central bank of Russia on Feb. 28 also barred local brokers from handling sales of securities on behalf of foreign investors. </p><p>   Current U.S. sanctions only forbid the trading of Russian sovereign debt issued after March 1. But if the Treasury Department widens the scope of its sanctions, it could also outright prohibit any trading in the securities. An alternative may be to settle all credit default swaps trades purely in cash between counterparties, rather than attempting an auction process, although that could result in different recovery rates for the same underlying insurance contract, the JPMorgan analysts said. </p><p></p>",
+  "published": "2022-03-05T07:14:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 644,
+          "end": 664
+        },
+        {
+          "start": 1449,
+          "end": 1457
+        },
+        {
+          "start": 2479,
+          "end": 2487
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

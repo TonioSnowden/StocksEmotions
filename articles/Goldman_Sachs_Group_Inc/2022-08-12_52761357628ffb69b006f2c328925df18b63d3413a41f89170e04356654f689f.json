@@ -1,0 +1,42 @@
+{
+  "_id": "52761357628ffb69b006f2c328925df18b63d3413a41f89170e04356654f689f",
+  "feed": "wall-street-journal",
+  "title": "Meditation App Calm Lays Off 20% of Staff; Cuts hit marketing department at tech 'unicorn'",
+  "text": "<p>Calm.com Inc., maker of popular meditation and wellness app Calm, has laid off 20% of its staff, according to a memo sent by Chief Executive David Ko to employees on Thursday.</p><p>People familiar with the matter said San Francisco-based Calm employed roughly 400 people, and that approximately 90 were laid off.</p><p>\"Regrettably, today we are reducing our overall workforce by 20%,\" Mr. Ko's memo said. \"While some of you will be impacted, all of you will be affected. I can assure you that this was not an easy decision, but it is especially difficult for a company like ours whose mission is focused on workplace mental health and wellness.\"</p><p>In the memo, Mr. Ko wrote that Calm leadership had \"revisited the investment thesis behind every project\" before deciding to make changes that would help stabilize the business.</p><p>\"We did not come to this decision lightly, but are confident that these changes will help us prioritize the future, focus on growth and become a more efficient organization,\" he wrote.</p><p>Mr. Ko's memo didn't elaborate on the reasons for the layoffs but promised employees \"a more in-depth discussion on the future of the business\" at an all-hands meeting scheduled for Friday. A Calm spokeswoman declined to make Mr. Ko available for an interview.</p><p>One employee who was laid off said company leadership cited macroeconomic trends in explaining the layoffs and told employees that they had tried to reduce expenses in recent months to avoid cutting staff.</p><p>The employee and another person familiar with the situation said approximately a dozen roles in Calm's consumer marketing department were eliminated as part of the cuts.</p><p>Mr. Ko was named co-CEO of Calm earlier this year alongside co-founder Michael Acton Smith, and became sole CEO this summer when Mr. Smith and co-founder Alex Tew said they were moving into co-chairman roles.</p><p>Mr. Ko had previously been CEO at Ripple Health Group, a healthcare technology firm acquired by Calm in February. Other former Ripple executives have also assumed leadership roles at Calm. Bennett Porter, a former marketing executive at Ripple, now leads Calm's consumer marketing division and reports to Vice President of Content Greg Justice, who was formerly with TikTok.</p><p>Venture-capital firms several years ago began pouring money into Calm as well as competitors such as Headspace Health Inc., Happier Inc. and Modern Health Inc.</p><p>Calm was founded in 2012 and became the first so-called unicorn in the meditation app industry in 2019.</p><p>It achieved a $2 billion dollar valuation the following year after a $75 million fundraising round. Investors have included Lightspeed Venture Partners, TPG, Goldman Sachs Group Inc. and Salesforce Inc. Co-Chief Executive Marc Benioff.</p><p>In recent years, the company invested heavily in marketing by hiring Mr. Justice and a former Netflix marketing executive, running ads on broadcast television, and sponsoring CNN's coverage of the 2020 election as well as a 2021 HBO Max miniseries featuring Kate Winslet, Idris Elba and other stars.</p><p>The employee and the other person familiar with the situation said Calm's recent cost-control measures included cuts to its marketing budget.</p><p>Write to Patrick Coffee at patrick.coffee@wsj.com</p><p>Meditation App Calm Lays Off 20% of Staff</p>",
+  "published": "2022-08-12T00:34:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 2642,
+          "end": 2666
+        },
+        {
+          "start": 2642,
+          "end": 2649
+        },
+        {
+          "start": 2624,
+          "end": 2648
+        },
+        {
+          "start": 2642,
+          "end": 2655
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

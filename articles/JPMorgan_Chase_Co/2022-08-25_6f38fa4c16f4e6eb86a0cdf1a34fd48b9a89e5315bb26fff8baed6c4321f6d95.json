@@ -1,0 +1,34 @@
+{
+  "_id": "6f38fa4c16f4e6eb86a0cdf1a34fd48b9a89e5315bb26fff8baed6c4321f6d95",
+  "feed": "wall-street-journal",
+  "title": "Emerging Markets  Face Dollar Crunch  ----  By Chelsey Dulaney",
+  "text": "<p>   Emerging markets are burning through stockpiles of U.S. dollars and other foreign currency at the fastest rate since 2008, raising the risk of a wave of defaults across the world's most fragile economies. </p><p>   Emerging and developing nations' foreign reserves have shrunk by $379 billion this year through June, according to data from the International Monetary Fund. Excluding the effects of exchange-rate fluctuations and the large foreign-exchange holdings of China and Gulf oil exporters, emerging markets are seeing the biggest drawdowns since 2008, according to JPMorgan Chase &amp; Co. </p><p>   Central banks around the world are using reserves to defend their currencies against the rallying U.S. dollar and to cover higher import bills for food and fuel. While larger emerging markets such as China, India and Brazil are well-positioned to ride out the storm with huge stockpiles of foreign currency, others countries are on the cusp of running out. </p><p>   Sri Lanka, which defaulted on its overseas bonds in May, is essentially out of U.S. dollars that it needs to pay for fuel and other basic imports. An acute foreign-currency shortage is also on display in Nigeria, where the central bank has blocked foreign airlines from repatriating $464 million in an effort to conserve U.S. dollars, according to the International Air Transport Association. </p><p>   Pakistan, Egypt, Turkey and Ghana are similarly at risk of a currency crisis, economists warn. </p><p>   \"There's an immediate risk in a couple of fairly significant countries,\" said Brad Setser, a senior fellow at the Council on Foreign Relations and former adviser to the U.S. Trade Representative in the Biden administration. \"These are countries which didn't have enough reserves to begin with. They are drawing on their reserves because they've lost access to financing and they have to pay for food and energy imports, and are fairly obviously at risk of currency or debt crisis if this continues much longer.\" </p><p>   Investors have stressed throughout this year's historic rout in emerging-market assets that they saw little risk of a widespread crisis, with stress contained in a few countries with long-running political and economic problems. But pressure appears to be spreading outside of those well-known weak links. </p><p>   Among them: the Czech Republic, which has burned through 15% of its reserves this year, and Hungary, where reserves have declined by 19%, according to CEIC, a data provider. Both have been hard hit by Russia's invasion of Ukraine and Moscow's throttling back of gas supplies to Europe. Hungary's currency has dropped by nearly 30% against the dollar this year. </p><p>   Central banks keep stashes of U.S. dollars, euros, Japanese yen and other currencies as a financial safety net. They can sell those reserves when they want to boost the value of their own currencies, or use them to help local companies pay for imports or make bond payments to overseas investors. </p><p>   This year has brought a \"perfect storm\" for many emerging-market nations, said Alejandro Arevalo, head of emerging-markets debt at Jupiter Asset Management. </p><p>   The U.S. dollar has soared to a 20-year high, forcing central banks to drain reserves in an attempt to stem depreciation of their currencies. Emerging-market central banks have also been raising rates aggressively over the past year, but that hasn't stopped the exodus of foreign cash and pressure on their currencies. Meanwhile, many developing nations have been effectively frozen out of global bond markets. </p><p>   \"Sub-Saharan African countries are the biggest risk, because many of these countries did rely on low rates,\" said Mr. Arevalo, who added that once-strong demand from foreign investors for riskier emerging-market debt has dried up. </p><p>   High commodity prices have exacerbated pain in poorer nations and left central banks facing difficult choices about how to use their remaining reserves. </p><p>   \"Countries like Egypt and Pakistan aren't in as dire of a position as Sri Lanka, but both . . . have been using their limited remaining reserves to pay for food and fuel imports,\" said Mr. Setser. </p><p>   Egypt's foreign reserves have fallen 26% this year to $24 billion at the end of July, according to CEIC data. That is enough to cover just over three months of import bills. </p><p>   The country is under pressure to devalue its currency for a second time this year. Economists say Egypt's central bank is managing the value of the pound instead of letting it float freely, an arrangement that has become increasingly costly as the U.S. dollar rises. The government is in negotiations with the International Monetary Fund for a loan. </p><p>   The Egyptian Ministry of Finance didn't respond to a request for comment. </p><p>   Pakistan and Ghana are negotiating rescue packages with the IMF, having seen reserves decline 33% and 29% this year, respectively, according to CEIC. </p><p></p>",
+  "published": "2022-08-25T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 563,
+          "end": 583
+        },
+        {
+          "start": 561,
+          "end": 580
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0072954,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00729537,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

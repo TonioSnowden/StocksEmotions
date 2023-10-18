@@ -1,0 +1,50 @@
+{
+  "_id": "97ba67267668edc416bd989c4dc13c0cbf528a6d8c4562d366b094479a41fdaa",
+  "feed": "wall-street-journal",
+  "title": "Business News: Caterpillar Settles Tax Dispute With No Penalties",
+  "text": "<p>\"We have been cooperating with the government in its review of the issues and are pleased to have reached this resolution with the IRS,\" a Caterpillar spokeswoman.</p><p>Caterpillar said in the filing the settlement amount is within the total amount of unrecognized tax benefits for uncertain tax positions and enables the company to avoid costs and burdens of further disputes with the IRS. The company declined to comment further on the settlement.</p><p>Analysts had estimated that Caterpillar faced potential tax increases and penalties from the IRS that could total more than $2 billion.</p><p>A Senate subcommittee report in 2014 said that the company deferred or avoided paying $2.4 billion of U.S. taxes under a corporate restructuring that shifted most of its profits from overseas replacement-part sales to its Swiss unit. An anonymous employee had accused the company in the early 2000s of violating U.S. tax law and threatened to tip off the IRS.</p><p>Caterpillar officials had previously said that the company believed its tax strategy was right, and that it was cooperating with the government's investigation.</p><p>Caterpillar filled orders for replacement parts from outside the U.S. often using a giant warehouse in Morton, Ill., but starting in the late 1990s, sales and profits flowed through the Switzerland subsidiary, where the company paid an effective tax rate as low as 4%, according to investigators.</p>",
+  "published": "2022-09-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1491231015",
+      "nexusId": "10011563",
+      "name": "Caterpillar Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 15,
+          "end": 26
+        },
+        {
+          "start": 139,
+          "end": 150
+        },
+        {
+          "start": 163,
+          "end": 174
+        },
+        {
+          "start": 470,
+          "end": 481
+        },
+        {
+          "start": 935,
+          "end": 946
+        },
+        {
+          "start": 1095,
+          "end": 1106
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.92514,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.92514026,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

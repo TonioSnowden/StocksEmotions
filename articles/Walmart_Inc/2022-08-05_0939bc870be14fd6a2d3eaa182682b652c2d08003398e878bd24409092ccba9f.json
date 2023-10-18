@@ -1,0 +1,30 @@
+{
+  "_id": "0939bc870be14fd6a2d3eaa182682b652c2d08003398e878bd24409092ccba9f",
+  "feed": "wall-street-journal",
+  "title": "Stock Futures Waver Ahead of Jobs Data Seen as Key for Fed; Employment data could affect the size and pace of Federal Reserve interest-rate increases ahead",
+  "text": "<p>Economists estimate that U.S. employers added jobs at a robust pace in July, but fewer than in June, adding to signs of slowing U.S. economic growth. Figures are due at 8:30 a.m. ET.</p><p>The labor market has been a key source of economic strength. Even if growth is slowing, a strong labor market could keep the economy out of recession territory. Employment typically falls during recessions as companies lay off workers and stop hiring until the outlook improves.</p><p>Some large companies have announced layoffs recently, including Walmart, Robinhood Markets and Shopify. The jobs report will shed light on how the pace of job growth compares to some companies that are scaling back.</p><p>The jobs report could also impact the size and pace of Federal Reserve interest-rate increases going forward. Officials last month lifted rates by three-quarters of a percentage point. While the central bank has signaled it is primarily concerned with combating inflation, a weaker labor market could cause it to dial back the speed of rate rises.</p><p>\"There have been some signs employment has started to weaken slightly, but compared with all the other indicators, employment's been really strong, and that's given the Fed comfort to push ahead with interest-rate increases,\" said Altaf Kassam, head of investment strategy for Europe, the Middle East and Africa at State Street Global Advisors.</p><p>A weaker labor market \"will get them off the aggressive schedule they've set themselves,\" he said.</p><p>Quarterly earnings are due from DraftKings ahead of the market open. In premarket trading, shares of AMC Entertainment slid 8.6% after the cinema chain said revenue quintupled in the recent quarter and that it would issue a special dividend in the form of preferred shares.</p><p>Virgin Galactic shares fell 9.8% premarket after the company delayed its initial launch of tourists into space. Block shares fell 6.6% after the financial services company swung to a loss as expenses climbed during the second quarter.</p><p>Warner Bros. Discovery shares declined almost 10% premarket after the new company swung to a $3.42 billion loss in the second quarter, which it said was partly due to charges related to the recent merger that created the media giant.</p><p>Zillow Group's shares fell 6.8% after the online real-estate company issued a third-quarter outlook reflecting the slowing demand in the housing market from higher home prices, mortgage rates and inflation.</p><p>Carvana shares added 7.5% premarket after the online used-car dealer said it is aggressively cutting costs as demand from consumers remains under pressure amid the prospect of an economic downturn. Shares of DoorDash climbed 11% premarket after the food-delivery company said revenue rose in the latest quarter.</p><p>In bond markets, the yield on the benchmark 10-year Treasury note ticked up to 2.695% from 2.674% Thursday. Yields and prices move inversely.</p><p>In energy markets, Brent crude, the international benchmark for oil prices, added 0.4% to $94.48 a barrel.</p><p>Overseas, the pan-continental Stoxx Europe 600 fell 0.3%. Shares of Deutsche Post added 5.4% in German trading after the freight-and-logistics group said earnings increased in the second quarter, beating expectations, and confirmed its earnings target for the year.</p><p>In Asia, major indexes closed with gains. Japan's Nikkei 225 added 0.9%, South Korea's Kospi rose 0.7% and China's Shanghai Composite gained 1.2%.</p><p>Write to Caitlin Ostroff at caitlin.ostroff@wsj.com</p><p>Stock Futures Waver Ahead of Jobs Data Seen as Key for Fed</p>",
+  "published": "2022-08-05T10:22:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 520,
+          "end": 527
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.5797727,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.4311999,
+        "tagPositionWeight": 0.010972619,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "41baac700fb412b45919968a7507894d2b79f99f37c366d781d9a2ca07ad9d98",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Business News:  TikTok User Data  Is Routed to Oracle  ----  By Aaron Tilley",
+  "text": "<p>   TikTok said it has hit a milestone in its latest attempt to respond to concerns about the security of data for its U.S. users. </p><p>   The popular short-form video app said on Friday traffic for all U.S. user data is now being routed through the cloud infrastructure of its partner Oracle Corp. TikTok, whose parent company is China-based ByteDance Ltd., said it still uses its own U.S. and Singapore data centers as backup but expects to delete U.S. user data from its own data centers and migrate fully to Oracle servers. </p><p>   \"We know we are among the most scrutinized platforms from a security standpoint, and we aim to remove any doubt about the security of U.S. user data,\" Albert Calamug, who is responsible for TikTok's U.S. policy, said in a blog post Friday. </p><p>   TikTok also said it would be working with Oracle to develop protocols for how data is accessed and managed. Oracle will audit compliance with those protocols. </p><p>   TikTok has been trying to calm concerns that its Chinese parent or even the Chinese government could gain access to the huge amounts of data it has on Americans and other users. </p><p>   Placing more of that data on servers in the U.S. with a U.S. company won't be enough for many critics, as the physical location of data doesn't mean it is protected as long as others can have access, said Ray Wang, founder of Silicon Valley-based Constellation Research Inc., which advises organizations on cloud usage and other technology. </p><p>   \"Even if the data is held only in U.S. servers, it doesn't mean that outsiders don't have access,\" he said. \"If these systems are intercommunicating with each other, and it happens to be a Chinese connection, how do you keep that separate? What are they doing to keep them separate?\" </p><p>   In 2020, the issue of Chinese access to U.S. user data came to the forefront of the discussion surrounding TikTok. Then-President Donald Trump threatened to ban the app on national-security grounds. A host of U.S. companies swooped in with offers to buy the platform, promising to protect the data of U.S. users. </p><p>   Microsoft Corp. was an early suitor to acquire the app, but the deal soon hit snags when it became apparent that ByteDance wouldn't share the app's core algorithm, the powerful program which helps match content to consumers. </p><p>   Soon afterward, Oracle, along with Walmart Inc., won a bid to acquire TikTok's U.S. operations. Acquisition plans, however, were shelved last year as the pressing need to find a new owner receded after President Biden reassessed his predecessor's efforts to deal with security threats from Chinese tech companies. </p><p>   Oracle declined to comment on Friday. </p><p></p>",
+  "published": "2022-06-18T06:16:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 2291,
+          "end": 2298
+        },
+        {
+          "start": 2291,
+          "end": 2303
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "c654dce766d7172aa600eb668fa059bb1afff0ae57f1ade0e9576b1e2a7f5590",
+  "feed": "wall-street-journal",
+  "title": "Business News: J&J Considers Talc Subsidiary Bankruptcy",
+  "text": "<p>As of April, there were roughly 28,900 pending lawsuits in U.S. courts against the company and its Johnson &amp; Johnson Consumer Inc. subsidiary, blaming ovarian cancer and other injuries on talc-containing powders, which it stopped selling in the U.S. and Canada last year. J&amp;J said in its most recent quarterly report in April that the number of talc cases continues to grow.</p><p>A spokesperson said Sunday that \"Johnson &amp; Johnson Consumer Inc. has not decided on any particular course of action in this litigation other than to continue to defend the safety of talc and litigate these cases in the tort system, as the pending trials demonstrate.\"</p><p>Bankruptcy can be a powerful tool for companies facing vast numbers of lawsuits over allegedly defective products or other mass-tort claims. A chapter 11 filing can pressure claimants into accepting lower settlements, by halting ongoing litigation and discovery proceedings and creating a centralized forum to value claims.</p><p>Placing a subsidiary in bankruptcy would also open a path for a parent company to receive protection against further litigation that kicks in after a chapter 11 filing.</p><p>Other public companies have placed units with asbestos-related liabilities into bankruptcy to corral vast numbers of injury lawsuits, without the parent company entering chapter 11.</p><p>Jury verdicts in J&amp;J's baby-powder cases that have gone to trial have been mixed, with some siding with J&amp;J. Others have awarded large sums to cancer victims.</p><p>J&amp;J has denied that its talc products were unsafe and said in court papers that epidemiological studies established no significant link between talc use and ovarian cancer.</p>",
+  "published": "2021-07-20T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 408,
+          "end": 425
+        },
+        {
+          "start": 15,
+          "end": 18
+        },
+        {
+          "start": 99,
+          "end": 116
+        },
+        {
+          "start": 1335,
+          "end": 1338
+        },
+        {
+          "start": 272,
+          "end": 275
+        },
+        {
+          "start": 1422,
+          "end": 1425
+        },
+        {
+          "start": 1477,
+          "end": 1480
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

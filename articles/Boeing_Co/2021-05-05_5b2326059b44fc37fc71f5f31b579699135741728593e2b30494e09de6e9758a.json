@@ -1,0 +1,23 @@
+{
+  "_id": "5b2326059b44fc37fc71f5f31b579699135741728593e2b30494e09de6e9758a",
+  "feed": "reuters",
+  "title": "Spirit AeroSystems to increase 737 MAX parts delivery in 2021",
+  "text": "<p>The aero parts maker also reported a bigger-than-expected loss in the first quarter, citing a slow recovery in international air travel due to the coronavirus crisis.</p>",
+  "published": "2021-05-05T11:51:24.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

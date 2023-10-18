@@ -1,0 +1,38 @@
+{
+  "_id": "f4bc4d5a190c82efcc34d68c472e8a1f66f16fff3d1359ef271e79f368157a8a",
+  "feed": "market-watch",
+  "title": "JP Morgan quant who called summer rally says there's plenty of ammunition to drive stocks higher — and here's why",
+  "text": "<p>\"Given our core view that there will be no global recession and that inflation will ease, the variable that matters the most is positioning,\" Kolanovic said. \"And positioning is still very low — for both systematic and discretionary funds it is now in the ~10th percentile.\"</p><p>Kolanovic has emerged as one of the few bulls left among Wall Street's top strategists calling for U.S. stocks to continue rallying into year end. After nailing his call that stocks would rally this summer, he also reiterated an earlier recommendation to buy the dip.</p><p>What's more, encouraging data on inflation has help create room for the Federal Reserve to be \"market friendly.\" And with the midterm election looming in the U.S., \"it would be a mistake for the Fed to increase risk of a hawkish policy error and endanger market stability.\"</p><p>Kolanovic's views often contrast with those of Morgan Stanley's Michael Wilson, who correctly anticipated that quantitative tightening by the Federal Reserve would spark a punishing selloff in stocks this year — a view that turned out to be correct. But now that the market has recovered to trade just shy of 4,300 as of Thursday, Kolanovic has been insisting that his decision to remain bullish on stocks earlier this year was merited.</p><p>His reasoning is relatively straightforward: the market is much closer to JPM's year-end target of 4,800 than it is to 3,500, which Kolanovic described as the most common \"bearish\" price target (it also happens to be Morgan Stanley's price target).</p><p>Plus, it wouldn't make sense for him to have updated his year-end target earlier this year, since updates like this would defeat the purpose of making the projection in the first place, he wrote.</p><p>After standing by his bullish take on markets in the first half of the year, Kolanovic advised clients that stocks could rally 7% or more this summer. That call proved to be an understatement: the S&amp;P 500 is up more than 17% off its intraday low from June 17, which at the time marked the lowest level for stocks since late 2020.</p><p>Now, Wilson and Kolanovic are finding themselves in opposite camps once again, with Kolanovic standing by his year-end price target, while Wilson is betting that the summer rally will fizzle.</p><p>Stocks appeared to offer some fodder for both sides on Thursday, as the Dow Jones Industrial Average DJIA was roughly flat in the last hour of trading, while the S&amp;P 500 SPX and Nasdaq Composite COMP were up 0.2% and 0.1%, respectively.</p><p>JP Morgan quant who called summer rally says there's plenty of ammunition to drive stocks higher — and here's why</p>",
+  "published": "2022-08-18T19:54:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 1320,
+          "end": 1323
+        },
+        {
+          "start": 1328,
+          "end": 1331
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

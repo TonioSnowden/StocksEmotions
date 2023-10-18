@@ -1,0 +1,38 @@
+{
+  "_id": "f65aef2fb6c3ad74d488079bf4942becba16879335b0348a507672b7a8b8eaec",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Heard on the Street:  The Go-Go Days Are  Over for Gadget Makers  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  Pent-up summer travel and rising inflation have proved a deadly mix for companies selling expensive tech products meant for staying home. </p><p>\n  Sonos was just the latest in this category to flash a big warning sign. The maker of premium speakers reported Wednesday afternoon that revenue in the June quarter fell 2% from a year earlier to about $372 million. That turned out to be 11% short of Wall Street's estimates, and the company's implied guidance for its fiscal fourth quarter ending in September of $306 million was far worse -- about 34% below analysts' projections. Sonos's shares slid 25% on Thursday for the stock's worst day on record since its listing in 2018. </p><p>\n  At least Sonos has company. Turtle Beach, which makes headphones for videogaming, saw its shares crash 32% on Tuesday following its own disappointing results, which included a 16% revenue miss for the quarter and a 28% cut to its full-year forecast at the midpoint. The company used the occasion to announce that a strategic review, spurred by an activist, came up empty despite having shopped itself to 109 prospective buyers. </p><p>\n  Other recent reports were just as telling. Corsair Gaming, which sells high-end PC rigs and related gear, saw second-quarter revenue fall 40% year over year to about $284 million. The company also cut its full-year revenue forecast by 18% -- following a 15% cut three months prior. GoPro, which often benefits from summer travel as people like to capture their vacation exploits on camera, saw revenue stay roughly flat in the second quarter but projected a 5% decline for the current period, disappointing analysts expecting a 6% gain. </p><p>\n  Even Apple, by far the mightiest of the bunch, wasn't immune. The company's wearables segment, which includes its line of watches, AirPods and the HomePod smart speaker, saw revenue fall 8% year over year for the June quarter in its first decline in nearly six years. Speaking of the wearables segment in the company's earnings call last month, Chief Executive Tim Cook said, \"We did see some impact there that we would attribute to the macroeconomic environment.\" </p><p>\n  All of the aforementioned companies tend to occupy premium positions in their respective markets. Hence, their recent results would seem to indicate that well-heeled consumers are now zipping their Italian leather wallets shut. But the weakness is actually being felt in the lower ends of their segments. In its conference call Wednesday, Sonos called out its Roam speaker and new Ray TV soundbar as the most notable contributors to the recent sales weakness. Both are among the least expensive products in the company's lineup, fetching $179 and $279, respectively. The company also said that demand is still outstripping supply for its system amplifier, called simply the Amp, which sells for $699. And many of Apple's wearable products cost much less than its iPhones, which now generally fetch upward of $1,000. IPhone revenue rose 3% year over year in the June quarter. </p><p>\n  This is consistent with other recent signals. Demand for luxury goods remains strong; companies behind brands such as Christian Dior, Gucci and Hermes all reporting strong sales gains for the first half of the year. Asked about the health of high-end consumer spending in his own earnings call last month, American Express CEO Steve Squeri said, \"You would have to see a huge credit crunch driven by unemployment, I think, for this cohort to be hit.\" </p><p>\n  Hence, the near-term fates of premium tech suppliers may depend on getting even more premium. Product launches coming this fall will be key. </p><p>\n  GoPro says it plans to introduce two new action cameras instead of its typical fall season launch of just one. Sonos says it has a new product coming in the December quarter, delayed from the September period. Corsair is planning a major new entry into the high-end gaming laptop segment with a machine starting at $2,700 that is expected to go on sale in the current quarter. That is still a far cry from a $10,000 handbag, but even some videogame addicts have a taste for status symbols. The company only hopes there are enough of them. </p><p></p>",
+  "published": "2022-08-13T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1664,
+          "end": 1669
+        },
+        {
+          "start": 1676,
+          "end": 1681
+        },
+        {
+          "start": 2828,
+          "end": 2833
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.072531,
+        "baseWeight": 3.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.9274688,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

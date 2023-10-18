@@ -1,0 +1,20 @@
+{
+  "_id": "7de52bcae625fcfed0b60acd39b3e9d6ce88488a4c051bed7965ff1ea1d45b4c",
+  "feed": "wall-street-journal",
+  "title": "Banks Oppose Strict Basel Rules Targeting Cryptocurrencies; Forum for lenders including JPMorgan and Deutsche Bank argues rules would push crypto trading into unregulated corners of the financial system",
+  "text": "<p>Bank regulators have said they are concerned about consumer protection, money laundering and terrorist financing threats from the use of cryptocurrencies. But the trade associations said that the proposed new rules are counterproductive because they would prevent banks from holding cryptocurrencies, which would be forced into unregulated corners of the financial system.</p><p>\"We find the proposals in the consultation to be so overly conservative and simplistic that they, in effect, would preclude bank involvement in crypto asset markets,\" the associations wrote in the letter to the Basel Committee.</p><p>A spokesperson for the Basel Committee didn't immediately respond to a request for comment.</p><p>The committee said in June that banks should apply a 1,250% risk weight to bitcoin, which it said is \"similar in effect to the deduction of the asset from capital.\" If a bank holds $100 of bitcoin exposure, it would give rise to risk-weighted assets of $1,250, which when multiplied by the minimum capital requirement of 8% results in setting aside at least $100, the committee said.</p><p>The committee, which includes the Federal Reserve, the European Central Bank and other major central banks, doesn't enforce rules itself but sets minimum standards that regulators around the world agree upon and implement locally.</p><p>The trade associations said that such a high risk weight wasn't necessary for bitcoin and other heavily traded cryptocurrencies, such as ether.</p><p>The associations also said the Basel Committee's definition of stablecoins, whose value is pegged to the U.S. dollar or other currencies, stipulated such narrow price fluctuations that it risked them falling under the same capital requirements applied to bitcoin.</p><p>The associations said allowing a 0.25-percentage-point difference in price between stablecoins and their underlying asset, rather than the proposed 0.1 percentage point, would encompass more assets. The world's largest stablecoin by market value, tether, moved 0.1 percentage point above or below the U.S. dollar's value 124 times last year, according to the associations' analysis. Rival stablecoin USD Coin broke from that range on 15 occasions.</p><p>The letter was signed by the Financial Services Forum, the Futures Industry Association, the Institute of International Finance, the International Swaps and Derivatives Association and the Chamber of Digital Commerce, as well as the Global Financial Markets Association.</p><p>Write to Simon Clark at simon.clark@wsj.com and Caitlin Ostroff at caitlin.ostroff@wsj.com</p><p>Banks Oppose Strict Basel Rules Targeting Cryptocurrencies</p>",
+  "published": "2021-09-21T12:56:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 88,
+          "end": 96
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

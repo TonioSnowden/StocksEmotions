@@ -1,0 +1,30 @@
+{
+  "_id": "f9a810ad8921d802165a322d8e906dafab3194a9302c8845062dd30ac5b58eaa",
+  "feed": "wall-street-journal",
+  "title": "HBO Max Crashes for Thousands in the Minutes After 'House of the Dragon' Premieres; The wait for the 'Game of Thrones' prequel lasted a little longer for some; HBO Max says the show had millions of viewers",
+  "text": "<p>SHARE YOUR THOUGHTS</p><p>What did you think of the 'House of the Dragon' premiere? Join the conversation below.</p><p>An HBO Max spokesman said that the show had been watched by millions of viewers on Sunday night.</p><p>\"We're aware of a small portion of users attempting to connect via Fire TV devices that are having issues,\" he said, \"and are in the process of resolving for those impacted users.\" Fire TV is a line of video-streaming devices owned by Amazon.com Inc.</p><p>A flood of HBO Max subscribers took to Twitter to vent about the outage. Some users said they were close to a breakdown. Other users joked that they weren't surprised about the timing of the crash.</p><p>\"Game of Thrones\" was a critical and cultural phenomenon over the eight seasons it aired, captivating viewers with its fantastical story lines and opulent production. More than 19 million viewers watched the 2019 series finale, an HBO record.</p><p>HBO had considered five potential series for spinoffs before choosing \"House of the Dragon,\" which is set two centuries before its predecessor and covers the looming civil war within the House Targaryen dynasty.</p><p>George R.R. Martin, the author who crafted the \"Game of Thrones\" universe, was said to have signed an eight-figure deal with HBO last year to work on the new series.</p><p>HBO is betting big time on \"House of the Dragon,\" which premiered during a tumultuous time for its owner. Discovery Inc. took over HBO, CNN and other media assets from AT&amp;T Inc., forming a new company called Warner Bros. Discovery Inc.</p><p>The company has been cost-cutting and reorganizing in recent months, canceling the CNN+ streaming service and laying off about 14% of HBO employees.</p><p>Streaming services including HBO Max, Netflix Inc., Hulu and Apple TV+ have had a hard time holding onto subscribers in recent years as the streaming market has become increasingly saturated with options. Almost a fifth of subscribers to premium services like HBO Max and Netflix canceled at least three subscriptions between June 2020 and June this year, according to Antenna, a subscriber-management firm.</p><p>—Gareth Vipers contributed to this article.</p><p>Write to Alyssa Lukpat at alyssa.lukpat@wsj.com</p><p>HBO Max Crashes for Thousands in the Minutes After 'House of the Dragon' Premieres</p>",
+  "published": "2022-08-22T19:11:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1720,
+          "end": 1725
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290126,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

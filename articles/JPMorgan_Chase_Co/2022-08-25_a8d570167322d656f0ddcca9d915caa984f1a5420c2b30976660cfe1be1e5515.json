@@ -1,0 +1,50 @@
+{
+  "_id": "a8d570167322d656f0ddcca9d915caa984f1a5420c2b30976660cfe1be1e5515",
+  "feed": "ftcomall",
+  "title": "Fund managers oppose changes to SEC's ‘names rule'",
+  "text": "<p>Asset management companies are opposing proposed changes to the US Securities and Exchange Commission's “names rule”, with active managers arguing that it could water down their processes.</p> <p>Index managers have also raised concerns, saying that the proposed changes could make their funds too much like actively managed strategies.</p> <p>The proposal applies the <a href=\"https://www.ft.com/sec\">SEC</a>'s existing “names rule” to investments suggested in a strategy's name, requiring that 80 per cent of a fund's assets adhere to the approaches specified in the fund's moniker. The proposed change would apply to strategies such as growth, value, geography, industry or one or more environmental, social and governance factors.</p> <p>In its current form, the 80 per cent rule applies “under normal circumstances” and “at the time of investment”. But this approach has some “interpretive issues”, according to the SEC's proposal. The commission sought to remedy this by specifying the circumstances under which a fund may drift from its 80 per cent policy in the proposal, including exact timeframes to get back into compliance — up to 30 consecutive days for funds other than new launches.</p> <p>The comment period for the proposal ended on August 16 and nearly 70 responses were received.</p> <p>Wellington Management and JPMorgan Asset Management said that some investment styles, such as growth and value, were more subjective than others, like geographic strategies for example, according to the comment letters. One active portfolio manager may consider a certain stock to have growth attributes, but another may characterise it as value, according to Wellington. </p> <p>Additionally, the Boston-based firm uses terms such as growth to describe investment approaches or to refer to portfolios as a whole, so not all of the underlying investments would have growth characteristics, according to the company's letter. “Our goal in implementing a ‘growth' strategy is to intelligently construct a diversified portfolio where investments have different but complementary characteristics that when aggregated enable the portfolio to achieve specific client outcomes [such as] a growth tilt,” Wellington wrote.</p> <p>The proposed rule would force managers to run daily tests to ensure compliance and impose significant operational hurdles, the JPMorgan unit wrote. “Testing could become a highly manual process of confirming and recording the judgment of investment professionals with respect to each holding in a fund on an ongoing basis, particularly where subjective and/or forward-looking criteria are part of the decision-making process,” it added.</p> <p>ESG factors are also subjective and JPMorgan's asset management unit is worried that SEC staff may not be equipped to evaluate its methods, the firm wrote. “Particularly in the case of ESG-oriented funds, these determinations may utilise complex processes that incorporate multiple and varying data points, proprietary research, quantitative information, and qualitative judgments on the part of research analysts and other investment professionals,” it added.</p> <p>If SEC examiners are unable to properly assess these processes, they may recommend “long, detailed and technical disclosures, or potentially request changes to a fund's investment process to rely on simpler, more ‘objective' measures for investment selection, such as revenue tests, which may not be the most appropriate measure to implement the fund's ESG strategy”, JPMorgan wrote. Additionally, the disclosure review process for such funds may become “unduly long by virtue of the comment and response process, which can both delay a timely fund launch and monopolise valuable SEC staff resources”, the firm added.</p> <p>To remain in compliance, some managers might limit their investable universe to holdings that were clearly conforming to the approaches in their names, as defined by an index or other third-party standard, Wellington stated. But data providers and rating agencies “may, and often do” arrive at different conclusions about the same issuer, according to the firm's letter, which cited a review of the Russell 2000 Growth and Value indices in which nearly half of the stocks in the growth index were found in the value index on the same day.</p> <p>Managers may also try to change their investment process by attempting to reduce subjective criteria, Wellington wrote. “This would pressure actively managed funds to become more like passive funds, diluting the value of active management for fund shareholders and eliminating a critical element of investor choice,” its letter stated. “Indeed, if a shareholder is only seeking exposure to a particular index, that shareholder would presumably invest in an index fund.”</p> <p>While Wellington said the proposal would make active strategies too passive, State Street Global Advisors said it was afraid that it could make index funds too active.</p> <p>Index funds generally invest more than 80 per cent of their assets in the securities an index tracks and the fund's name often reflects the approach the index takes, the SEC proposal states. But an index may invest in securities that are “contradictory” to its name, therefore the fund's name would be considered “materially misleading or deceptive”, according to the proposal.</p> <p>SSGA said the objective of an index fund was to track the performance of its underlying index. If the SEC's guidance would have index <a href=\"https://www.ft.com/fund-management\">fund managers</a> scrutinising each security in an index on a daily basis and deciding whether or not the fund should invest in that constituent, it would be “counterintuitive to the expectations of investors and has the potential to erode the benefits of index fund investing”, the firm wrote.</p> <p>“This could further alter the character of index fund management into a form of active management and put investment managers in an unnatural position of acting as an enforcement mechanism upon index providers,” SSGA added.</p> <p><strong>*</strong><em>FundFire is a news service published by FT Specialist aimed at asset management professionals working in separately managed accounts. It helps investors, managers and consultants stay abreast of the changes in their industry. Trials and subscriptions are available at </em><a href=\"https://www.fundfire.com/\"><em>fundfire.com</em></a><em>.</em></p><p>Source: Dervedia Thomas, FundFire 2022 'Fund managers oppose changes to SEC's ‘names rule'' FT.com 25 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-25T04:00:17.104Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9998464,
+      "offsets": [
+        {
+          "start": 3406,
+          "end": 3414
+        },
+        {
+          "start": 2255,
+          "end": 2263
+        },
+        {
+          "start": 2599,
+          "end": 2607
+        },
+        {
+          "start": 3390,
+          "end": 3398
+        },
+        {
+          "start": 2267,
+          "end": 2275
+        },
+        {
+          "start": 2613,
+          "end": 2621
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

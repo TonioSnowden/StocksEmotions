@@ -1,0 +1,34 @@
+{
+  "_id": "1584bc1a8ea07a72e4a8a3e6410c09fab289f4d047bb04009d4eb4e83aef44bd",
+  "feed": "wall-street-journal",
+  "title": "What Ethereum's Big 'Merge' Means in Crypto Land; The crypto platform is prepping for a major systems overhaul that could, among other things, make it more energy efficient",
+  "text": "<p>As of 5 p.m. ET on Friday, the price of ether was up 87% from a low on June 18. Bitcoin, the only cryptocurrency bigger than ether, was up about 20% in the same time frame, according to Dow Jones Market Data. The aggregate open interest of ether futures across exchanges—a measure of investors' enthusiasm for the cryptocurrency—has surged since the start of July, according to data from The Block.</p><p>To be sure, the ether rally could fade at any time. This month, Ethereum co-founder Vitalik Buterin said via Twitter that the upgrade should take place on or around Sept. 15, though he said the exact date isn't guaranteed. The merge has been in the works for years and has been delayed several times for technical reasons.</p><p>The upgrade is a difficult technological undertaking in part because there are already thousands of decentralized applications with billions of dollars deposited in them running on the Ethereum blockchain, according to Katie Talati, director of research at crypto asset manager Arca.</p><p>\"Because there's so much potential for value to be lost, they had to be very careful with each step of the road map to make sure that there weren't any issues or any flaws,\" Ms. Talati said.</p><p>Some investors think that is a recipe for problems.</p><p>\"The Ethereum team is trying to fix an airplane in midflight,\" said Cory Klippsten, founder and chief executive of Swan Bitcoin, a bitcoin financial-services company. \"You are trying to make massive changes to it while it's actually operational.\"</p><p>Danny Ryan, a researcher at the Ethereum Foundation, expressed confidence in the September launch. The Ethereum Foundation is a nonprofit that supports Ethereum and related technologies.</p><p>\"It's probably the most complicated blockchain upgrade that's ever happened but the amount of preparation work, testing and security analysis that has gone into this is pretty astounding,\" Mr. Ryan said.</p><p>Ethereum is a platform for developers to build and operate crypto applications, much like IOS or Android. But instead of being controlled by Apple or Google, these applications are decentralized.</p><p>The crypto market has, for the most part, been in the doldrums since peaking in November. Some analysts and investors view the Ethereum upgrade as one of the few coming catalysts that could reinvigorate the market.</p><p>The upgrade is called the Merge because it is the merging of the current proof-of-work Ethereum blockchain and the proof-of-stake \"Beacon Chain\" created by Ethereum developers.</p><p>Both proof of work and proof of stake are mechanisms that cryptocurrency networks use to verify transactions and add them to the blockchain.</p><p>Bitcoin pioneered the proof-of-work model where a global, decentralized network of computers solves complex mathematical puzzles to process transactions and earn rewards in the form of newly created bitcoins. The people and companies who set up these computers are called miners. The process is energy-intensive because the network requires miners to run powerful machines 24/7.</p><p>SHARE YOUR THOUGHTS</p><p>Are you buying cryptocurrencies, or do you plan to? Why or why not? Join the conversation below.</p><p>Proof of stake, in contrast, allows users to participate in securing a network by putting their own crypto holdings on the line. The idea is that, by locking up their coins, investors have a financial incentive to make sure transactions are valid.</p><p>Last year, the NFT craze clogged up the Ethereum network and drove up transaction fees. Switching to the proof-of-stake model would likely make Ethereum faster, more secure and more energy-efficient. The Ethereum Foundation said the change is expected to reduce Ethereum's electricity usage by about 99.95%.</p><p>The two largest stablecoin issuers, Tether and Circle, have both said they would support the proof-of-stake Ethereum blockchain.</p><p>For users and investors, the newly upgraded Ethereum would function mostly the same. But for miners who have invested in hardware to mine ether, the upgrade could hurt.</p><p>\"There are tons of miners and mining pools. They will immediately lose millions and millions of dollars of revenue when the merge happens,\" said Kosala Hemachandra, CEO and founder of MyEtherWallet, an open-source cryptocurrency wallet software company.</p><p>Many proof-of-work miners are preparing to migrate to the new Ethereum blockchain and become so-called validators. But some miners said they would continue to support the current Ethereum blockchain.</p><p>Write to Vicky Ge Huang at vicky.huang@wsj.com</p><p>What Ethereum's Big 'Merge' Means in Crypto Land</p>",
+  "published": "2022-08-20T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2012,
+          "end": 2017
+        },
+        {
+          "start": 2028,
+          "end": 2033
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

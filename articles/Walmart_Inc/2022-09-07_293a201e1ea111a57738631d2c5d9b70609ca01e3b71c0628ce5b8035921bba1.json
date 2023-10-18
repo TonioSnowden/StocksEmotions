@@ -1,0 +1,34 @@
+{
+  "_id": "293a201e1ea111a57738631d2c5d9b70609ca01e3b71c0628ce5b8035921bba1",
+  "feed": "wall-street-journal",
+  "title": "Target CEO Brian Cornell to Stay Three More Years; Retailer's board eliminates mandatory retirement age of 65 for its CEO, who turns 64 next year",
+  "text": "<p>Mr. Cornell has led Target since 2014 and would have reached retirement age in early 2024 under the old company policy. He also serves as Target's board chairman.</p><p>The retailer joins other companies, including 3M Co. and Merck &amp; Co., that in recent years have relaxed or removed mandatory retirement ages for chief executives. Last year, Boeing Co. said it was raising the retirement age for CEO David Calhoun to 70 from 65 so he could stay in the role.</p><p>\"It was important to us as a board to assure our stakeholders that Brian intends to stay in his role beyond the traditional retirement age of 65,\" said Monica Lozano, lead independent director of Target's board.</p><p>Target didn't undertake an executive search to identify other CEO candidates as part of the decision to eliminate the mandatory retirement policy, a Target spokeswoman said. Mr. Cornell doesn't have an employment contract with the Minneapolis, Minn, company.</p><p>Mr. Cornell has received compensation valued at about $19 million, including a salary of $1.4 million, for each of the past three years, according to regulatory filings. The spokeswoman said any changes to his compensation would be disclosed in the company's next annual proxy filing.</p><p>On Wednesday, Target said Arthur Valdez, its 52-year-old chief supply-chain and logistics officer, would retire, with the position immediately filled by Gretchen McCarthy, an 18-year Target veteran. Mr. Valdez will stay in a consulting role until April 2023.</p><p>The announcements come weeks after Target reported disappointing earnings, driven by an inventory glut that ate into the company's profit. Target had previously cut its operating-margin forecast to roughly 2%, but operating margins shrank more than predicted and earnings fell 90% for the quarter.</p><p>Target was one of many retailers caught flat-footed as high inflation and waning concerns about Covid-19 drove shoppers to change their spending habits—devoting more of their dollars to travel and experiences, and cutting back on patio furniture, small electronics and other items that were in high demand for much of the pandemic.</p><p>Mr. Cornell took an aggressive approach to the inventory problem, slashing prices and canceling orders with suppliers where possible, although inventory levels were $6 billion higher at the end of the second quarter than at the same point in 2019.</p><p>A former PepsiCo Inc. and Walmart Inc. executive, Mr. Cornell joined Target when the company was reeling from a customer-data breach. He exited its business in Canada, sold the pharmacy operations and poured billions into improving stores, store brands and adding e-commerce services. The strategy revived sales, which also got a boost during the pandemic and pushed its annual revenue above $100 billion, until the troubles emerged this year.</p><p>Despite the stock-price declines this year, Target shares have outperformed the broader market during his tenure. Target shares have gained about 170% since Mr. Cornell took over, compared with about a 95% gain for the S&amp;P 500 index, according to FactSet.</p><p>Bob Ulrich was the last Target CEO to retire under the company's mandatory-retirement policy, in 2008.</p><p>Chip Cutter contributed to this article.</p><p>Write to Charity L. Scott at Charity.Scott@wsj.com</p><p>Target CEO Brian Cornell to Stay Three More Years</p>",
+  "published": "2022-09-07T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2357,
+          "end": 2368
+        },
+        {
+          "start": 2372,
+          "end": 2384
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.71475,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

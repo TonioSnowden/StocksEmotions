@@ -1,0 +1,34 @@
+{
+  "_id": "d5a28e912de0a5bc7672ed3f2851ba33265f7cd80c706b44a35616daf0770f4e",
+  "feed": "ftcomall",
+  "title": "BeReal/social media: photo sharing app is not the next Facebook",
+  "text": "<p>Instagram is for influencers and Facebook is for boomers. Young social media users who want to connect with friends have to look elsewhere. The app of the moment is French start-up BeReal. But BeReal will struggle to exceed its novelty status. </p> <p>If you have seen a group of teenagers freeze, pull out their phones and take a selfie you may have witnessed <a href=\"https://www.ft.com/content/3570bb3b-5c79-4b20-bd11-c292cbe870b6\">BeReal </a>in action. The app sends a push notification once a day at random times instructing users to take a simultaneous selfie and main camera photo. Because there are no filters and a two-minute time limit, it claims more authenticity than larger social media networks. </p> <p>Launched in 2020, the app has reached the top slot in <a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple's </a>free US app charts this year, according to SensorTower. Its popularity was boosted by “ambassadors” paid to encourage university students to sign up. </p> <p>Investors include Silicon Valley venture capital firm <a href=\"https://www.ft.com/stream/6892b077-39ac-45d0-a7d9-8d4e0850c987\">Andreessen Horowitz</a>. This July, BeReal's reported valuation rose from $150mn to $660mn. Facebook-owned Instagram is so impressed that it is reported to be working on its own version of a daily photo-sharing feature. </p> <p>So far, BeReal is revenue-less. In social media this is not uncommon. Both Facebook and Snap made no revenue while building their user base and later introduced <a href=\"https://www.ft.com/content/d9fc5580-81a8-37e6-8997-1d9b3b5f6548\">advertising</a>. But BeReal's decision to trade on authenticity limits its advertising opportunities. If users only post photos once a day they will not spend much time on the app. And while snaps of a friend's daily dog walk might be amusing, not many users will want to pay a subscription to see it. </p> <p>BeReal has less in common with Snap and Facebook than shortlived phenomenon Yo. Launched in 2014, Yo's only function was to send the user's friends the message “yo”. At the height of its popularity it was the most downloaded US social media app. Two years later it shut down. The app's founder said he wished he had charged users from day one. It is a lesson BeReal's creators should have heeded. </p><p>Source:  2022 'BeReal/social media: photo sharing app is not the next Facebook' FT.com 23 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-23T22:20:39.977Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 678,
+          "end": 683
+        },
+        {
+          "start": 671,
+          "end": 676
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0024343,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.002434373,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

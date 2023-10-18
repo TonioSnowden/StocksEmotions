@@ -1,0 +1,20 @@
+{
+  "_id": "c1bc3c819cce68eb0b3cbce0f393eb2fe32da5ad93c3a6201658f23e83ca6c6f",
+  "feed": "economist-newspaper",
+  "title": "Carmaking: Motor Sin City",
+  "text": "<p>Ms Barra talked about GM's transformation from \"automaker to platform innovator\", extolled its advances in commercial electric vehicles (EVs) and autonomous driving, and unveiled a battery-powered version of the Chevrolet Silverado pickup. Rival firms raced to appear even more innovative. BMW demonstrated a system that changes a car's paint colour at the press of a button. Mercedes-Benz went so far as to claim that its Vision EQXX concept, with interior materials fashioned from bamboo, cactus and mushroom, and a battery-powered range of 1,000km, was \"reinventing the car\". Not to be outdone, consumer-electronics giants strutted their automotive stuff. Sony, a Japanese one, surprised many attendees when it announced a possible foray into carmaking (though it may merely use the experience to develop EV and self-driving tech to sell to others).</p><p>Other announcements were less flashy but more telling when it comes to the digitisation of carmaking. Mobileye, the self-driving arm of Intel, which supplies chips to many big car firms, announced expanded deals with Ford, Geely and Volkswagen. Qualcomm, another chipmaker, inked new ones with Volvo, Honda and Renault.</p><p>The courtship between carmakers and chip firms will only intensify. The worldwide chip shortage that knocked nearly 8m units off global car output is thankfully easing and annualised global car production could return to pre-pandemic levels by the second half of 2022, according to Evercore ISI, an investment bank. Still, car bosses are desperate to avoid a repeat. Many look enviously at Tesla, whose own intimate rapport with semiconductor suppliers buoyed its full-year output for 2021 to a total of 930,000 vehicles.</p>",
+  "published": "2022-01-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 989,
+          "end": 994
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "e3a4d0d574d737fe0a55541c5d89dc64b63b0f78de52a1c46ce113153b779773",
+  "feed": "wall-street-journal",
+  "title": "United Airlines Puts Down Deposit on Flying Taxis; United made $10 million in predelivery payments for 100 of the aircraft being developed by Archer Aviation",
+  "text": "<p>The aircraft being developed by Archer and its rivals take off and land vertically like helicopters. Airlines hope that they will be able to zip customers around cities, whisking them over congested highways to and from hub airports while reducing carbon emissions for such journeys.</p><p>SHARE YOUR THOUGHTS</p><p>Would you be willing to be a passenger in a flying taxi? Why or why not? Join the conversation below.</p><p>United and Archer said United will be the launch customer for the four-passenger aircraft Archer is working on—the latest indication that traditional airlines see a place for the new technology in their businesses as they face pressure to find ways to reduce their carbon footprint.</p><p>Electric-flying-taxi companies have been developing and testing vehicles, but need to secure approval from regulators before they or customers that purchase the aircraft launch commercial service. In the U.S., the Federal Aviation Administration has been examining aircraft, working on pilot requirements and looking into how to integrate planned vehicles into the airspace.</p><p>Leaders at the agency have said the FAA is committed to meeting timelines that would allow at least some companies to gain certification for their vehicles as early as 2024. Archer expects to gain certification by the end of that year and start commercial operations afterward, Chief Executive Adam Goldstein said.</p><p>The company's technology, funding, and the regulatory framework for the industry have matured to the point that customers like United are ready to lock in orders, according to Mr. Goldstein.</p><p>\"There's a lot of talk about orders in the industry, a lot of talk about paper commitments, but this is the first real cash commitment,\" he said.</p><p>American Airlines Group Inc., which last year invested $25 million in Vertical Aerospace Ltd., another electric-aircraft startup, last month committed to making predelivery payments for 50 electric vertical-takeoff-and-landing aircraft and confirmed reservations for delivery slots, though that money hasn't yet changed hands.</p><p>Archer, Vertical and a number of other startups pursued stock-market listings over the past two years as investors poured billions of dollars into the sector. Many listed through blank-check companies known as SPACs, but most are trading well below their offer price. Archer's shares are down by over 50% since its listing in September.</p><p>Archer is also embroiled in a legal dispute with Wisk Aero LLC, a rival electric-air-taxi company that counts Boeing Co. as an investor. Wisk sued Archer last year, claiming the company copied its design—misappropriating its trade secrets and infringing on its patents.</p><p>Archer has denied the claims and filed certain counterclaims, accusing Wisk of making false statements to damage its reputation and interfere in its business. Archer has also brought a lawsuit against Boeing.</p><p>A trial in federal court about Wisk's suit and Archer's counterclaims is scheduled for next August.</p><p>A spokeswoman for Archer said it is pleased with how the case is progressing so far. Spokesmen for Wisk and Boeing declined to comment. United declined to comment on the suit.</p><p>Electric-air-taxi companies also face challenges ensuring they have areas on the ground for takeoffs and landings, and related to battery packs that power the vehicles.</p><p>Michael Leskinen, president of United's venture-capital fund for early-stage technologies, said United has grown more assured in the past year-and-a-half since its initial investment, both that Archer has been able to raise enough money, and in the direction the technology is heading for things like batteries for the aircraft.</p><p>United is starting to make more concrete plans about where it will deploy its new flying taxis and will likely announce routes in the coming months, Mr. Leskinen said. United initially plans to use the aircraft in one or two of the congested cities where it has airport hubs, though it hasn't yet determined which ones.</p><p>Prices will be comparable to Uber Black service, Mr. Leskinen said, where a trip from Manhattan to a New York airport might cost in the range of $110 to $120, though Mr. Leskinen said that could come down over time. Trips on the electric flying taxis will compete with airport trips in cars and ride-share services, he said.</p><p>Write to Alison Sider at alison.sider@wsj.com and Micah Maidenberg at micah.maidenberg@wsj.com</p><p>United Airlines Puts Down Deposit on Flying Taxis</p>",
+  "published": "2022-08-10T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9998847,
+      "offsets": [
+        {
+          "start": 2851,
+          "end": 2857
+        },
+        {
+          "start": 2474,
+          "end": 2484
+        },
+        {
+          "start": 3045,
+          "end": 3051
+        },
+        {
+          "start": 2832,
+          "end": 2838
+        },
+        {
+          "start": 2490,
+          "end": 2500
+        },
+        {
+          "start": 3067,
+          "end": 3073
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.7,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.3000002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

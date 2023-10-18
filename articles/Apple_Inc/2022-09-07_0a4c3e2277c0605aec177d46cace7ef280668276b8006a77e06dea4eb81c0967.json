@@ -1,0 +1,74 @@
+{
+  "_id": "0a4c3e2277c0605aec177d46cace7ef280668276b8006a77e06dea4eb81c0967",
+  "feed": "market-watch",
+  "title": "Apple event: iPhone, AirPods, Apple Watch will be focus, Tim Cook says; Initial overview from Apple CEO suggests that new virtual-reality headset will not be a focus of annual iPhone unveiling event",
+  "text": "<p>The overview to launch the annual iPhone-unveiling event suggests that Apple will not use the event to debut its expected next product category, a virtual-reality headset. The company's iPhone upgrades have been fairly incremental in recent years, and Apple AAPL fans shouldn't hold out for any big changes this time around either—except for a possible price hike on high-end models.</p><p>Apple is thought to be reserving its heftiest upgrades for its two iPhone Pro models, and consumers should be prepared to pay perhaps $100 more for those devices than for the current generation of iPhone Pro devices. The company declined to raises prices with last year's updates, but it's currency dealing with supply-chain pressures and a strong U.S. dollar—as it looks to sustain its high margins.</p><p>For more: Apple must do battle with a fierce rival when it unveils the iPhone 14: Inflation</p><p>From a feature perspective, the iPhone 14 Pro and iPhone 14 Pro Max are expected to bring camera enhancements and a faster processor.</p><p>The iPhone 14 line more generally could usher in the end of an era for Apple, which is rumored to be planning to kill off the much-hated \"notch\" that currently houses the company's front-facing camera and facial-recognition scanner. The company is thought to be planning what Bloomberg News calls \"hole-punch and pill-shaped cutouts for the front camera and Face ID sensors.\"</p><p>Read: Apple's stock reverses lower, on cue, ahead of iPhone event</p><p>Apple was reportedly looking into adding satellite capabilities to the iPhone 13 line a year ago, but they never materialized. Rumors are circulating again about satellite features, this time for the coming iPhone 14 family, though it remains to be seen whether Apple can work out a business model for such functions, which would be expected to allow for texting in emergency situations.</p><p>Elsewhere, look for Apple to refresh its Apple Watch lineup with three devices, including a Pro model that could feature better battery life and a bigger screen.</p><p>Apple is thought to be designing an augmented-reality headset, though analysts seem doubtful that the company will be ready to debut that at Wednesday's event. Instead, the company is likely to more broadly show off the ways its existing devices support AR functions as the company looks to build consumer interest in the technology.</p><p>Preview: An iPhone price hike is expected, but will there be 'one more thing'?</p><p>Apple event: iPhone, AirPods, Apple Watch will be focus, Tim Cook says</p>",
+  "published": "2022-09-07T17:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 71,
+          "end": 76
+        },
+        {
+          "start": 94,
+          "end": 99
+        },
+        {
+          "start": 251,
+          "end": 256
+        },
+        {
+          "start": 382,
+          "end": 387
+        },
+        {
+          "start": 791,
+          "end": 796
+        },
+        {
+          "start": 1077,
+          "end": 1082
+        },
+        {
+          "start": 1386,
+          "end": 1391
+        },
+        {
+          "start": 1446,
+          "end": 1451
+        },
+        {
+          "start": 1707,
+          "end": 1712
+        },
+        {
+          "start": 1852,
+          "end": 1857
+        },
+        {
+          "start": 1993,
+          "end": 1998
+        }
+      ],
+      "weightsV2": {
+        "weight": 23.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 6.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

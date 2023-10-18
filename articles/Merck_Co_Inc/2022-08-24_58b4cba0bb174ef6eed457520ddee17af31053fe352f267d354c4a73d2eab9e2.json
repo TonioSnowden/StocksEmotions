@@ -1,0 +1,78 @@
+{
+  "_id": "58b4cba0bb174ef6eed457520ddee17af31053fe352f267d354c4a73d2eab9e2",
+  "feed": "wall-street-journal",
+  "title": "Merck Looks Attractive, With or Without Seagen; While investors are eagerly awaiting news on a Seagen tie-up, Merck offers upside even if the deal doesn't materialize",
+  "text": "<p>If it falls through, Seagen shares, which are up 30% over the past six months on deal talk, will tank. Merck, on the other hand, still looks relatively undervalued despite a 23% gain during that period.</p><p>Merck &amp; Co. (MRK)</p><p>* Recommendation: Buy</p><p>* Price: $90.20</p><p>No doubt, there is an urgent hole to fill at Merck. Its top drug, Keytruda, is going off patent in 2028, at which point it is expected to have been generating north of $30 billion in sales, amounting to about 50% of the company's forecast revenue. The loss of the drug's exclusivity—meaning it will face competition from a new class of generic drugs known as biosimilars—will be a massive hit to Merck's revenue and explains why it is currently trading at a discount to its pharma peers.</p><p>Acquiring cancer-drug developer Seagen, which has four approved drugs and a rich pipeline of other potential therapies, would replace some of that lost revenue, so investors should cheer a potential deal.</p><p>But Merck has other things going for it that investors might not be giving it enough credit for. Its human-papillomavirus vaccine, Gardasil, is growing sales at an impressive clip, bringing in over $3 billion in the first half of this year alone. Keytruda, meanwhile, continues to exceed analyst expectations. And the company has some promising pipeline assets, including a late-stage pulmonary arterial hypertension drug it got from its $11.5 billion Acceleron acquisition last year that should deliver results by year-end.</p><p>Perhaps most important, the company is employing a tried-and-true Big Pharma formula, used anytime a blockbuster drug goes off patent: doing all it can to extend the drug's patents through changes to the original formulation. For one, Merck is testing whether Keytruda could be delivered as a subcutaneous injection rather than intravenously, thereby extending its patent protection. It is also conducting various studies looking at Keytruda combinations with other therapies, including three late-stage trials that could help preserve at least part of the drug's sales, says Daina Graybosch, an analyst at SVB Securities.</p><p>\"In the long run, Merck really needs combinations like these to work, because they'll extend the life cycle of the drug,\" says Dr. Graybosch, an expert in oncology.</p><p>The Keytruda concern means Merck is trading at a discount both to the drug industry and to the broader market, at roughly 12 times the next 12 months' earnings, compared with 16.4 times for the S&amp;P 500 and 14.11 for the NYSE Arca Pharmaceutical Index.</p><p>Robert Davis, Merck's chief executive officer, said in an emailed comment that the company continues \"to see strong demand for our de-risked, innovative portfolio, and our early- and late-stage pipeline continues to progress across oncology, cardiovascular, vaccines and other disease areas.\" He added that Merck \"continues to deliver value on behalf of shareholders, patients and all our stakeholders.\"</p><p>One thing working against all drug companies right now is the newly passed Inflation Reduction Act, which will require Medicare later this decade to start negotiating prices for some top-selling drugs that lack generic competition. While Merck's blockbuster Keytruda might not be immediately affected by the bill because it will be going off patent, Mr. Davis has warned it will be \"highly chilling on future innovation.\"</p><p>But the impact might not be as big as feared, at least for now. To make up for the lost revenue toward the end of a drug's life cycle, pharmaceutical companies are likely to price drugs at a higher launching point, damping the effect of the legislation, says Evan Seigerman, an analyst at BMO Capital Markets.</p><p>In the short-to-medium term, with a broader economic slowdown still posing a significant threat to the stock market, Merck is a good defensive play because demand for its key products isn't likely to be affected.</p><p>If some of its shots on goal work, Merck shareholders might be relieved about its long-term prospects as well.</p><p>Write to David Wainer at david.wainer@wsj.com</p>",
+  "published": "2022-08-24T13:03:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 103,
+          "end": 108
+        },
+        {
+          "start": 110,
+          "end": 115
+        },
+        {
+          "start": 203,
+          "end": 213
+        },
+        {
+          "start": 203,
+          "end": 214
+        },
+        {
+          "start": 304,
+          "end": 309
+        },
+        {
+          "start": 655,
+          "end": 660
+        },
+        {
+          "start": 956,
+          "end": 961
+        },
+        {
+          "start": 1712,
+          "end": 1717
+        },
+        {
+          "start": 2292,
+          "end": 2297
+        },
+        {
+          "start": 3159,
+          "end": 3164
+        },
+        {
+          "start": 3770,
+          "end": 3775
+        },
+        {
+          "start": 3901,
+          "end": 3906
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

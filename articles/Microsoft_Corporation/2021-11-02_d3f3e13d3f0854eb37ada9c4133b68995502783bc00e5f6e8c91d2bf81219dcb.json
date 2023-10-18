@@ -1,0 +1,24 @@
+{
+  "_id": "d3f3e13d3f0854eb37ada9c4133b68995502783bc00e5f6e8c91d2bf81219dcb",
+  "feed": "ftcomall",
+  "title": "Facebook to shutter facial recognition system",
+  "text": "<p>Facebook will shutter its facial recognition system and delete data collected from 1bn users that has been used to identify them in photos posted on the platform, citing growing regulatory scrutiny of the field. </p> <p>In a <a href=\"https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/\">blog post</a> on Tuesday, Jerome Pesenti, vice-president of artificial intelligence at Meta, Facebook's <a href=\"https://www.ft.com/content/29762a96-419f-41b2-9e96-fa7423abb125\">newly renamed</a> parent company, said the Facebook system would be shut down “in the coming weeks” as part of what he described as “one of the largest shifts in facial recognition usage in the technology's history”.</p> <p>“There are many concerns about the place of facial recognition technology in society, and regulators are still in the process of providing a clear set of rules governing its use,” Pesenti said. “Amid this ongoing uncertainty, we believe that limiting the use of facial recognition to a narrow set of use cases is appropriate.”</p> <p>The company will delete the face scan data of 1bn users — about a third of its total daily active user base — thereby ending features that allow users to be automatically notified if they appear in photos or videos posted by others on the platform, and suggest whom to tag in photos and videos.</p> <p>The move comes as regulators increasingly home in on the space, highlighting privacy, data security and algorithmic bias concerns, although legislation remains patchy in different jurisdictions. </p> <p>Last year, Facebook <a href=\"https://apnews.com/article/technology-business-san-francisco-chicago-lawsuits-af6b42212e43be1b63b5c290eb5bfd85\">agreed to pay</a> $650m to settle a class-action lawsuit in Illinois that alleged the company had breached state biometric privacy laws by harvesting facial data for its face-tagging system without permission. </p> <p>Facebook said it would continue to use facial recognition technology in certain instances, including verifying identities and unlocking accounts. It said emerging technology allowing facial recognition data to be held on smartphone or laptop devices, rather than in centralised databases, could be “particularly valuable” in the future.</p> <p>Indeed, facial recognition technology could be vital to the company's longer-term ambitions to build an immersive digital metaverse inhabited by photorealistic avatars. At the same time, the company is facing heightened scrutiny after a whistleblower shared a trove of internal documents with US regulators, and news outlets, alleging the company places profits over the safety of its users.</p> <p>Facebook is not the first to delete its database of faces, although its repository is likely the largest of its kind. In 2019, Microsoft quietly deleted its database of 10m faces — known as MS Celeb — described by the company as the largest publicly available facial recognition data set in the world, with more than 10m images of nearly 100,000 individuals. </p> <a href=\"http://www.ft.com/cms/19aaadc2-a12a-4404-81c7-384a6c63fb49.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a> <p>In the summer of 2020, Amazon, Microsoft and IBM also said they would not sell their facial recognition technology to police forces until there was clearer federal legislation.</p> <p>The technical limitations of facial recognition systems are widely acknowledged among the academic community. For instance, the technology is known to perform more inaccurately on women and people of colour compared to males and Caucasians. </p> <p>These inaccuracies have led to protests against its use in the public sector by civil rights groups and citizens in Europe, Britain and the US, resulting in temporary bans on the technology's use by police in places such as Oakland, California. </p> <p>In October, the European Parliament called for a ban on private facial recognition databases like the ones held by ClearviewAI, an American company whose facial recognition services are used and tested by police in the US and Europe. </p><p>Source: Hannah Murphy in San Francisco and Madhumita Murgia in London 2021 'Facebook to shutter facial recognition system' FT.com 2 November. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-11-02T18:35:39.744Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2692,
+          "end": 2701
+        },
+        {
+          "start": 2429,
+          "end": 2438
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

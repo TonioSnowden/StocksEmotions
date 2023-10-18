@@ -1,0 +1,29 @@
+{
+  "_id": "0320ef3f6c9e8dad6249dfbfab7c5df416eb7bcb7725524d38199dc2b5dadb46",
+  "feed": "wall-street-journal",
+  "title": "'Don't Say Gay' Is Popular? You Don't Say; One poll shows backing from suburbs, parents and . . . Democrats.",
+  "text": "<p>Even more notable is the breadth of that sentiment. Democratic voters in the poll support the law 55% to 29%. Among suburban voters, which could be a decisive group for the midterm elections, it's 60% to 30%. Parents: 67% to 24%. Biden voters: 53% to 30%. Respondents who \"know someone LGBTQ\": 61% to 28%. Those figures might come as a shock to Florida's progressive activists, including those who happen to work at Walt Disney.</p><p>No poll is dispositive, and the surveys aren't unanimous. Ipsos asked Americans in mid-March if they agreed with barring \"classroom lessons about sexual orientation or gender identity in elementary school.\" It found 62% opposed. Perhaps the public has since learned more about Florida's law, or maybe people distinguish between K-3 and \"elementary school.\"</p><p>The way that Florida implements the legislation also could change minds. But so far the polling is mixed at worst. The current narrative around the \"don't say gay\" law—that it's needless cruelty to children, inflicted by Republican troglodytes—seems to be another example of how much the media and CEOs are out of touch with the public. Meantime, an Axios poll says Mr. DeSantis's approval with Hispanics is up seven points since December.</p>",
+  "published": "2022-04-01T22:16:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999714,
+      "offsets": [
+        {
+          "start": 416,
+          "end": 427
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0307354,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.030735373,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

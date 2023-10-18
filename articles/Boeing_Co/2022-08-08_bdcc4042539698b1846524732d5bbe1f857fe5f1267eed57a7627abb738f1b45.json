@@ -1,0 +1,46 @@
+{
+  "_id": "bdcc4042539698b1846524732d5bbe1f857fe5f1267eed57a7627abb738f1b45",
+  "feed": "wall-street-journal",
+  "title": "Deliveries of Boeing's 787 Dreamliner Set to Resume in Coming Days; American Airlines said it expects to take its first delivery as soon as Wednesday",
+  "text": "<p>American is set to be the first customer to receive a new 787 after the halt in deliveries, and the plane will be the airline's first new Dreamliner since April 2021.</p><p>Boeing has delivered only a handful of the planes since the fall of 2020 after discovering a series of production defects that drew increased scrutiny by its own engineers and regulators at the Federal Aviation Administration.</p><p>Resuming deliveries is a crucial part of the aerospace giant's efforts to boost its cash flow.</p><p>American said it expects its new plane to enter commercial service in the coming weeks.</p><p>\"We appreciate the work done by the Federal Aviation Administration and Boeing during the review process,\" American said in a statement.</p><p>The 787 is popular with airlines for long-haul international flights, and the freeze on deliveries has complicated some carriers' plans for a larger international expansion this summer. Many restrictions that restrained global travel during the Covid-19 pandemic were lifted, prompting a resurgence in cross-border travel demand.</p><p>The FAA said it would inspect each aircraft before issuing an airworthiness certificate. The first jet was inspected and cleared Monday, according to people familiar with the matter.</p><p>American and other airlines have had to pare back flying plans ahead of the summer as anticipated delivery dates kept slipping. American had originally planned to have 13 new Dreamliners for this summer's schedule. It first trimmed its plans late last year and then had to cut back again when it became clear that it wouldn't receive any of the planes in time for peak tourism season.</p><p>American said last month that it expects to receive two of the planes in August but hasn't added them to its schedule until later this fall.</p><p>Boeing is compensating customers for the late deliveries and has also taken charges because of the reduced 787 production rate.</p><p>Deutsche Lufthansa AG said last week that it expected its first 787 in August or September. Analysts forecast that Boeing will deliver between 10 and 20 of the planes this year.</p><p>Doug Cameron contributed to this article.</p><p>Write to Alison Sider at alison.sider@wsj.com</p><p>Deliveries of Boeing's 787 Dreamliner Set to Resume in Coming Days</p>",
+  "published": "2022-08-08T23:22:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 14,
+          "end": 20
+        },
+        {
+          "start": 166,
+          "end": 172
+        },
+        {
+          "start": 167,
+          "end": 173
+        },
+        {
+          "start": 1740,
+          "end": 1746
+        },
+        {
+          "start": 1981,
+          "end": 1987
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.930115,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.93011415,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

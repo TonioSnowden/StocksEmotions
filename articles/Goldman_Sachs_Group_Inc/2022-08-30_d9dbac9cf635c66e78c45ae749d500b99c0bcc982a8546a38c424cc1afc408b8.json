@@ -1,0 +1,74 @@
+{
+  "_id": "d9dbac9cf635c66e78c45ae749d500b99c0bcc982a8546a38c424cc1afc408b8",
+  "feed": "ftcomall",
+  "title": "Goldman Sachs to scrap most remaining Covid restrictions for US offices",
+  "text": "<p>Goldman Sachs will scrap most of its remaining Covid-19 restrictions for employees at its US offices as the Wall Street group looks to get more of its bankers back into the office.</p> <p>“With many tools including vaccination, improved treatments and testing now available, there is significantly less risk of severe illness,” <a href=\"https://www.ft.com/stream/980562d6-2db0-4b25-a349-b83d4b86bea7\">Goldman</a> told staff in a memo on Tuesday, which was seen by the Financial Times.</p> <p>Goldman, which has about 47,000 employees worldwide, was <a href=\"https://www.ft.com/content/e515613a-32a2-4692-ad91-0b9e53c577a9\">one of the earliest advocates</a> for resuming in-office work, bringing back employees to its New York headquarters in June 2021.</p> <p>The Wall Street bank had previously required in-office staff to be vaccinated against Covid-19. But starting September 6, all its employees in the Americas region will now be able to enter its offices regardless of their vaccination status, Goldman said in the memo.</p> <p>This does not apply to New York, where local rules mandate vaccinations for office workers. Goldman has thousands of employees in other US cities including Dallas, Salt Lake City and San Francisco.</p> <p>The contents of the memo were first reported by The New York Post.</p> <p>Goldman also told staff it will start to phase out the provision of Covid test kits.</p> <p>Other banks have also relaxed their Covid policies. In a memo to New York employees last week, Morgan Stanley said that it would discontinue all testing requirements and would scrap notification emails for quarantine and isolation.</p> <p>The pared-back policies reflect the <a href=\"https://www.ft.com/content/ffd6033f-e8fc-4289-85b2-42bc4ddddd16\">eagerness of many bank chief executives</a> to bring employees back to the office, an effort which started last summer.</p> <p>Goldman's push to get staff to return to the office as often as five days a week has led some bankers to complain to chief executive David Solomon, the <a href=\"https://www.ft.com/content/30c61d67-8af9-474e-872a-b0c75258a781\">FT has previously reported</a>.</p><p>Source: Joshua Franklin in New York 2022 'Goldman Sachs to scrap most remaining Covid restrictions for US offices' FT.com 30 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-30T23:52:40.611Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999997,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 321,
+          "end": 328
+        },
+        {
+          "start": 399,
+          "end": 406
+        },
+        {
+          "start": 401,
+          "end": 408
+        },
+        {
+          "start": 821,
+          "end": 828
+        },
+        {
+          "start": 825,
+          "end": 832
+        },
+        {
+          "start": 937,
+          "end": 944
+        },
+        {
+          "start": 943,
+          "end": 950
+        },
+        {
+          "start": 1116,
+          "end": 1123
+        },
+        {
+          "start": 1573,
+          "end": 1581
+        },
+        {
+          "start": 1585,
+          "end": 1592
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

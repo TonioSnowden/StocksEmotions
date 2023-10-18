@@ -1,0 +1,32 @@
+{
+  "_id": "de93290a24a47f75b8d7897fbff4cfe57c2b957ad00c2cdeec596d04b53e4a61",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Foggy Rules Test Crypto,  Gemini Trust Executive Says  ----  By Mengqi Sun",
+  "text": "<p>\n  Opaque regulations remain a top challenge for the cryptocurrency industry, according to Elena Hughes, chief compliance officer of cryptocurrency exchange Gemini Trust Co. LLC. </p><p>\n  She joined New York-based Gemini in May 2020 after more than a decade of compliance work for financial institutions such as Morgan Stanley and Goldman Sachs Group Inc. Gemini was launched in 2015 by twin brothers, Cameron Winklevoss and Tyler Winklevoss. </p><p>\n  Ms. Hughes manages Gemini's compliance team, working on issues such as transactions monitoring and investigations. One major issue she is working on is the so-called travel rule. </p><p>\n  The Treasury Department last year proposed rules that would apply a banking regulation known as the travel rule to transactions in cryptocurrency. The Treasury Department said banks and cryptocurrency trading platforms would have to collect, keep and pass on records of a customer's cryptocurrency transactions and counterparties -- including verification of their identities -- for any transactions exceeding $3,000. The Treasury issued its proposed rules and sought comments from the public but has yet to complete the rules. </p><p>\n  The Wall Street Journal spoke with Ms. Hughes about her experience working for a financial-tech firm and the challenges Gemini faces. Edited excerpts follow. </p><pre> </pre><p>\n  WSJ: Why did you decide to switch to a crypto startup and how did you navigate that transition? </p><p>\n  Ms. Hughes: I spent most of my professional private sector career in the anti-money-laundering space . . . When I joined the industry in 2007, we were still feeling around and iterating on what [the USA Patriot Act] actually looks like for some of these firms, broker-dealers and others who may not have been subject to as comprehensive of a AML framework back in the day. </p><p>\n  I think what was really awesome about making the transition to Gemini is the fact that Gemini itself is well regulated. The framework for compliance that was in place even before I joined was familiar to me, in terms of the thought process around structuring a financial crime program, which at its core begins with identification of risks, understanding what products we're dealing with, what customers we are seeking to target, how we distribute our products. It's the same fundamentals. </p><pre> </pre><p>\n  WSJ: What are some of the challenges you're thinking about for the coming year? </p><p>\n  Ms. Hughes: One of them is the continuous, certain lack of regulatory clarity in certain aspects of the industry or the business that we engage in. The other one is the travel rule compliance initiative that we have undertaken as an industry that is applicable to us. The asset class or the blockchain technology is such that, even if you want to comply, unless you want to broadcast your customer information on the blockchain, there's really no method or [the method] did not exist to enable the firms to comply in a meaningful way. </p><p>\n  So this decentralized industry has come together and formed this solution effectively, [which] is to utilize this centralized mechanism to identify who is on either side of the transfer. This U.S. Travel Rule Working Group, which now has been retitled to \"Trust,\" [an acronym for the Travel Rule Universal Solution Technology] is effectively a conglomerate or amalgamation of these players in the space, ourselves and Coinbase and others, that have partnered up to create this compliance-focused regulatory solution to comply with the rule. </p><p></p>",
+  "published": "2021-12-31T07:04:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 319,
+          "end": 326
+        },
+        {
+          "start": 319,
+          "end": 332
+        },
+        {
+          "start": 319,
+          "end": 343
+        },
+        {
+          "start": 319,
+          "end": 342
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "c8d2e388425f1807eeed97850715ca5674aa51e899eaeecd884fc110fce25647",
+  "feed": "market-watch",
+  "title": "Anshu Jain, former Deutsche Bank CEO in its trading heyday, dies at 59; Indian-born banker mentored generations of leading traders",
+  "text": "<p>\"We are deeply saddened that our beloved husband, son, and father, Anshu Jain, passed away overnight,\" his family said in a statement.</p><p>Jain outlived his initial diagnosis, made in January 2017, by four years \"through a combination of exhaustive personal research, tactical skill, amazing caregivers, and sheer force of will,\" Jain's family wrote.</p><p>Born in Jaipur, India, the son of a civil servant, Jain rose to Wall Street's highest ranks and transformed one of Europe's most prominent lending institutions into a global trading powerhouse. He nurtured generations of traders as he rose through the ranks of Deutsche Bank. Many of the risk-takers and bankers he led have gone on to work for Wall Street's largest banks and technology firms.</p><p>Jain most recently recruited teams of traders from larger rivals to work at Cantor Fitzgerald as that firm's chief, Howard Lutnick, expanded ambitions in trading and relationships with global investors.</p><p>After graduating from business school at University of Massachusetts at Amherst he held positions at Kidder Peabody &amp; Co. and Merrill Lynch before following his mentor, the late Edson Mitchell, to Deutsche Bank in 1995. Over time, he made the bank a fixture on Wall Street as his team snapped up work with hedge funds, competing with financial giants including Goldman Sachs Group Inc. GS and Citigroup Inc C.</p><p>As he spearheaded expansions into credit derivatives and emerging markets, Jain was named head of the investment bank in 2010, where he took on responsibilities for corporate finance and transaction banking units. Jain took the co-CEO position within two years alongside Juergen Fitschen. He overhauled the bank's equities strategy and management after losses during the credit crunch in 2008.</p><p>Jain's early tenure at Deutsche Bank was met with a cascade of bad news, including a probe of tax evasion in carbon markets and raids by police and tax investigators. He worked alongside Fitschen to steer the bank through an internal probe into possible money laundering by Russian clients just a few months after Deutsche settled a probe into interest-rates rigging. On June 7, 2015, Jain resigned and found his way to Cantor two years later.</p><p>In his personal life, Jain loved to play and watch cricket and golf, and was an aficionado of Bollywood movies. He is survived by his wife Geetika, whom he met when he was 17, and their two children.</p><p>Anshu Jain, former Deutsche Bank CEO in its trading heyday, dies at 59</p>",
+  "published": "2022-08-13T17:02:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 1298,
+          "end": 1322
+        },
+        {
+          "start": 1306,
+          "end": 1313
+        },
+        {
+          "start": 1305,
+          "end": 1312
+        },
+        {
+          "start": 1306,
+          "end": 1319
+        },
+        {
+          "start": 1305,
+          "end": 1329
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000048,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.6491623e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

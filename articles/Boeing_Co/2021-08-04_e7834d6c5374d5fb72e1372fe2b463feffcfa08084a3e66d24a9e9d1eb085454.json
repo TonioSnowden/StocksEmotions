@@ -1,0 +1,28 @@
+{
+  "_id": "e7834d6c5374d5fb72e1372fe2b463feffcfa08084a3e66d24a9e9d1eb085454",
+  "feed": "wall-street-journal",
+  "title": "Business News: Valve Issue Delayed Launch of Boeing's Starliner",
+  "text": "<p>NASA said some of them weren't in proper configuration for the launch, which was scheduled for Aug. 3. Engineering teams have ruled out several potential causes of the problem, including software, the agency said.</p><p>The high-profile flight was meant as a do-over for Boeing, after the Starliner failed to reach the space station in a previous test flight in late 2019 due to software errors and following other delays. The botched mission a year and a half ago dented the record of a company that has been at the forefront of U.S. space exploration, including the Apollo missions to the moon.</p><p>Last week, officials from NASA said a preflight review of the launch had gone smoothly. The agency had wanted to test the Starliner without crew members on board ahead of a planned launch with astronauts later the year.</p><p>\"We're going to let the data lead our work,\" John Vollmer, a Boeing vice president who is overseeing the Starliner program, said.</p>",
+  "published": "2021-08-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 872,
+          "end": 878
+        },
+        {
+          "start": 265,
+          "end": 271
+        },
+        {
+          "start": 45,
+          "end": 51
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

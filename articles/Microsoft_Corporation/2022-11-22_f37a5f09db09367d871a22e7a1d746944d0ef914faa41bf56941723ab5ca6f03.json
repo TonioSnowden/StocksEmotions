@@ -1,0 +1,24 @@
+{
+  "_id": "f37a5f09db09367d871a22e7a1d746944d0ef914faa41bf56941723ab5ca6f03",
+  "feed": "wall-street-journal",
+  "title": "Duke Energy Enters Into Amazon Cloud Deal; The power producer will tap AWS to run apps that predict where electricity is most needed in its grid",
+  "text": "<p>Duke aims to become carbon neutral by 2050, and of its $145 billion in capital projects over the next decade, about $75 billion will go to grid modernization, said Bonnie Titone, the company's chief information officer.</p><p>The power producer is seeking approval for a plan filed in May with North Carolina regulators detailing how it would cut greenhouse gas emissions. The plan could cost Duke up to $101 billion and increase bills for residential customers, the company told state regulators in May.</p><p>\"If we're going to move at a pace around this energy transformation, and this modernization of our grid, we really needed to rethink how we were going to do that and process the sheer amount of information and data that's coming onto our grid,\" Ms. Titone said.</p><p>Duke runs tens of millions of power flow simulations in each of its jurisdictions every year to determine energy needs, a task that takes weeks when using its own hardware. The company said it aims to run the same simulations on AWS in 15 minutes or less.</p><p>Ms. Titone oversees an information-technology department of more than 2,000 people, with about 400 focused on accelerating Duke's cloud transition. The department includes developers of grid-planning software tools that run on Amazon's cloud. Duke also operates its own data centers, and will continue to do so, Ms. Titone said.</p><p>\"We're critical infrastructure. There are certainly things that we need to house and maintain in our own data center,\" Ms. Titone said. \"We're very clear on what we will do in which cloud, and we have criteria around that.\"</p><p>Duke also uses services from other cloud providers, and last year developed a methane-emissions-monitoring platform with Microsoft Corp.'s cloud platform and Accenture PLC.</p><p>Sarah Cooper, general manager of AWS Industry Products, said utility providers are still catching up to changes in energy demand and generation. AWS is working with Duke to develop new cloud-based solutions that will eventually be sold to Amazon's other utilities customers, who are facing similar problems, Ms. Cooper said.</p><p>The power and utilities industry has been slower to adopt cloud technology than other sectors, partly because of data security concerns and because mission-critical asset infrastructure is harder to migrate, said Sandy Jones, a principal in Deloitte Consulting's Energy Resources and Industrials group. Utilities providers have also had to figure out cost accounting for cloud-based software, she added. Deloitte is a sponsor of CIO Journal.</p><p>Like many large enterprises, power companies are in the midst of adapting internal processes to accommodate a faster pace of technology, said Ethan Cohen, a VP analyst covering transformation in utilities at research firm Gartner Inc. \"They don't want to break stuff that works,\" he said.</p><p>Write to Belle Lin at belle.lin@wsj.com</p><p>Duke Energy Enters Into Amazon Cloud Deal</p>",
+  "published": "2022-11-22T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1691,
+          "end": 1706
+        },
+        {
+          "start": 1691,
+          "end": 1700
+        }
+      ]
+    }
+  ]
+}

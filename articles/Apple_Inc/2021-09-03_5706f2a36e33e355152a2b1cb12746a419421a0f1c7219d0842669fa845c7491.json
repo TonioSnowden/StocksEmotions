@@ -1,0 +1,52 @@
+{
+  "_id": "5706f2a36e33e355152a2b1cb12746a419421a0f1c7219d0842669fa845c7491",
+  "feed": "ftcomall",
+  "title": "Apple delays child abuse detection system after backlash",
+  "text": "<p>Apple has bowed to pressure on a planned launch of software to detect photos of child pornography and sex abuse on iPhones after a fierce backlash from privacy campaigners. </p> <p>The company said it would delay and potentially modify the new system, which was originally expected to launch this year. </p> <p>“We have decided to take additional time over the coming months to collect input and make improvements before releasing these critically important child safety features,” Apple said in a statement.</p> <p>One of the proposed features involved a system for matching files that were being uploaded from a user's iPhone to iCloud Photos against a database of known child sex abuse imagery. </p> <p>But the new controls, which were announced last month, sparked widespread alarm among privacy and human rights groups who feared that a tool for scanning images on iPhones could be abused by repressive regimes. </p> <p>The American Civil Liberties Union was among those warning that any system to detect data stored on a phone could also be used against activists, dissidents and minorities.</p> <p>“Given the widespread interests of governments around the world, we cannot be sure Apple will always resist demands that iPhones be scanned for additional selected material,” Daniel Kahn Gillmor, the ACLU's staff technologist, <a href=\"https://www.aclu.org/news/privacy-technology/apples-new-child-safety-plan-for-iphones-isnt-so-safe/\">said</a> last week. “These changes are a step toward significantly worse privacy for all iPhone users.”</p> <p>Apple's change of course dismayed some child protection campaigners. Andy Burrows, head of child safety online policy at the UK charity NSPCC, said the move was “<a href=\"https://twitter.com/_andyburrows/status/1433786742193238017\">incredibly disappointing</a>” and that the company “should have stood their ground”.</p> <p>Apple's original proposal had been welcomed by officials in the US, UK and India but caused anger in Silicon Valley during delicate negotiations between the tech industry and regulators over tackling child abuse online.</p> <p>The head of WhatsApp called it “very concerning”. The Electronic Frontier Foundation, the Silicon Valley digital rights group, said it was a “shocking about-face for users who have relied on the company's leadership in privacy and security”.</p> <p>In an email circulated internally at Apple, child safety campaigners had dismissed the complaints of privacy activists and security researchers as the “screeching voice of the minority”.</p> <p>Apple had spent weeks robustly defending its plan, which it said involved “state of the art” cryptographic techniques to ensure that the company itself could not see what images were stored on any customers' devices. </p> <p>It said that the system would only be used for child protection and that the involvement of a team of human reviewers, alongside a minimum number of images that must be detected before an account was flagged, would nearly eliminate the potential for mistakes or abuses. </p> <p>But Craig Federighi, Apple's senior vice-president of software engineering, admitted that the introduction of the child pornography detection system alongside a separate tool that could warn parents if their children received sexually explicit photos through its iMessage system, was confusing. </p> <p>“It's really clear a lot of messages got jumbled pretty badly in terms of how things were understood,” Federighi told the <a href=\"https://www.wsj.com/articles/apple-executive-defends-tools-to-fight-child-porn-acknowledges-privacy-backlash-11628859600?mod=djemalertNEWS\">Wall Street Journal</a> last month. “In hindsight, introducing these two features at the same time was a recipe for this kind of confusion.”</p> <p><strong>Letter in response to this article:</strong></p> <p><a href=\"https://www.ft.com/content/eee6cf46-6c0c-411c-91c5-eb5ff14ec7f9\"><em>Apple cannot let privacy trump its child safety code</em></a><em> / </em><a href=\"https://www.ft.com/content/eee6cf46-6c0c-411c-91c5-eb5ff14ec7f9\"><em>From David Westlake, Chief Executive, International Justice Mission UK, Witham, Essex, UK</em></a></p><p>Source: Tim Bradshaw in London 2021 'Apple delays child abuse detection system after backlash' FT.com 3 September. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-09-03T18:25:34.536Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2128,
+          "end": 2133
+        },
+        {
+          "start": 466,
+          "end": 471
+        },
+        {
+          "start": 2786,
+          "end": 2791
+        },
+        {
+          "start": 1142,
+          "end": 1147
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1386,
+          "end": 1391
+        },
+        {
+          "start": 2278,
+          "end": 2283
+        },
+        {
+          "start": 1629,
+          "end": 1634
+        },
+        {
+          "start": 3355,
+          "end": 3360
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

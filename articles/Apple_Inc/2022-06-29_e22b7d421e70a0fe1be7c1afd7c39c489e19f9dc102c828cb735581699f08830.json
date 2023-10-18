@@ -1,0 +1,52 @@
+{
+  "_id": "e22b7d421e70a0fe1be7c1afd7c39c489e19f9dc102c828cb735581699f08830",
+  "feed": "wall-street-journal",
+  "title": "Abortion Ruling Puts User Data Privacy in Focus. Here's What to Know. Internet search history, text messages and location data could take on new significance for people seeking information about abortion services after the overturning of Roe v. Wade",
+  "text": "<p>Here are some of the issues in this new battlefront that may be opening between governments and tech companies over people's data:</p><p>What data might state authorities try to use to prosecute people for getting an abortion where the procedure is illegal?</p><p>People's digital lives generate vast troves of data that could be used to bring a case, but the data most likely to be sought by prosecutors would be text messages, search history and emails, which might contain information such as receipts for abortion pills, says Riana Pfefferkorn, a research scholar at the Stanford Internet Observatory.</p><p>Legal experts think that at least some of the states that have outlawed abortion will move aggressively to enforce their laws. There are multiple ways authorities can obtain text messages and other data. Law enforcement can serve a search warrant to a tech company like Apple Inc. or Alphabet Inc.'s Google to try to get them to turn over the data, or they can go directly to suspects and ask them to surrender their device, known as a consent search.</p><p>\"Prosecutors could use the grand jury process, search warrants and other less formal means to request the information,\" said Tom Zych, co-chair of law firm Thompson Hine's privacy and security group. \"The amount of information they are required to disclose to the target of the request varies by jurisdiction, so I would anticipate instances where the data holder may not really know the nature of the matter,\" he added.</p><p>Authorities may also seek location data from any app that tracks such information, if they believe someone visited an abortion clinic to undergo the procedure. They could also request payment-services information from banks and credit-card companies if they believe someone purchased abortion pills with a credit or debit card.</p><p>Over the past few months, concerns have been raised about data from period-tracker apps that could be used to help identify if someone missed their period, which might then lead law enforcement to believe the person became pregnant. But the data the apps provide isn't as legally compelling as, say, a receipt for buying abortion pills online, Ms. Pfefferkorn says. That's because information from period-tracking apps relies on users' inputs and could easily be inaccurate.</p><p>How will tech companies respond?</p><p>Big tech companies including Google, Apple and Meta Platforms Inc., parent of Facebook, Instagram and WhatsApp, each receive tens of thousands of requests for user information from government authorities in the U.S. each year, and they turn over at least some data to the government roughly 80% of the time, according to their transparency reports. Some of that data has been used to help incriminate people for nonabortion-related crimes.</p><p>Many of the big tech companies, including those three, haven't publicly said how they would specifically respond to subpoenas or search warrants for messaging, search or location data related to abortions.</p><p>Some of the information that prosecutors might be looking for, such as iMessages on the iPhone, areend-to-end encrypted. That means Apple doesn't have access to the content of the messages to turn over to law enforcement. Apple says data from its Health app, which some people use to track their menstrual cycle, is also end-to-end encrypted.</p><p>Apple's iMessage chats can, however, be read by Apple when they are backed up to the company's iCloud. The company has said previously that it may give users' iCloud contents to law enforcement in response to a legal request.</p><p>Have text messages or search history been used in abortion-related court cases before?</p><p>Yes. Text messages, for instance, have been used in the past to charge a woman who was accused of illegally terminating her pregnancy.</p><p>In a 2015 case in Indiana, law enforcement charged the woman with feticide, which refers to killing a fetus or inducing a miscarriage. Authorities obtained a search warrant for her phone and said they found messages telling a friend she had bought abortion-inducing drugs from overseas, according to local news reports. The woman was convicted, and later released from prison after a judge overturned her feticide conviction, according to court documents.</p><p>Are Apple, Google and Meta the only tech companies that may be asked to provide abortion-related data?</p><p>Ride-sharing companies like Uber Technologies Inc. and Lyft Inc. could also potentially be asked to provide location data, if law enforcement suspects the services were used to transport someone to an abortion clinic or out of state for an abortion.</p><p>Uber said it remains \"fully committed\" to protecting users' privacy while following the law.</p><p>\"We will continue to reserve the right to reject requests for a number of reasons, including those that do not have a valid legal basis, are overly broad, vague, otherwise inappropriate, or if we cannot verify the legitimacy of the request,\" an Uber spokeswoman said. She said Uber notifies U.S. users when their data is requested by law enforcement, unless a court order prohibits them from doing so.</p><p>Lyft didn't respond to a request for comment.</p><p>Both companies previously have said they would pay the legal fees of any drivers who are sued for providing transport for a person trying to get an abortion. Some of the abortion bans, such as the one Texas is moving to institute, would bar anyone from helping women receive abortions and would allow for private citizens to turn in others for a cash reward.</p><p>Are there going to be differences in terms of data collection and turnover by jurisdiction?</p><p>Possibly. It's unclear at this time whether a tech company would be compelled to turn over data to a state with an abortion ban if a resident traveled out of state to undergo the operation, says Emma Weil, a policy analyst at Upturn, a nonprofit focused on technology and justice that advocated for abortion rights.</p><p>Some states that allow abortions, such as California, have said they won't cooperate with states that are seeking to prosecute individuals they believe received out-of-state abortions.</p><p>Are there ways to limit the exposure of these types of data?</p><p>Women can use anend-to-end encrypted messaging platform, the Electronic Frontier Foundation, a nonprofit digital rights group, says and recommends Signal.</p><p>Women also can check the health and privacy policies on their period-tracker app. Some are more privacy friendly than others, The Wall Street Journal previously reported.</p><p>Additionally, women who want their search histories to be private can use a search engine such as DuckDuckGo that, unlike Google, doesn't save or share user search histories.</p><p>\"We are not yet sure how companies may respond to law-enforcement requests for any abortion-related data,\" the Electronic Frontier Foundation said. \"But you can do a lot to control who you are giving your information to, what kind of data they get, and how it might be connected to the rest of your digital life.\"</p><p>Abortion Ruling Puts User Data Privacy in Focus. Here's What to Know.</p>",
+  "published": "2022-06-29T17:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2340,
+          "end": 2345
+        },
+        {
+          "start": 3171,
+          "end": 3176
+        },
+        {
+          "start": 864,
+          "end": 874
+        },
+        {
+          "start": 4200,
+          "end": 4205
+        },
+        {
+          "start": 3081,
+          "end": 3086
+        },
+        {
+          "start": 3340,
+          "end": 3345
+        },
+        {
+          "start": 3292,
+          "end": 3297
+        },
+        {
+          "start": 864,
+          "end": 873
+        },
+        {
+          "start": 864,
+          "end": 869
+        }
+      ]
+    }
+  ]
+}

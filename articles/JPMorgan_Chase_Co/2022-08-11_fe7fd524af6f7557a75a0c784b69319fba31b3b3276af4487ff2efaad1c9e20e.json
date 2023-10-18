@@ -1,0 +1,98 @@
+{
+  "_id": "fe7fd524af6f7557a75a0c784b69319fba31b3b3276af4487ff2efaad1c9e20e",
+  "feed": "wall-street-journal",
+  "title": "JPMorgan  Ex-Traders  Convicted  Of Fraud  ----  By Dave Michaels",
+  "text": "<p>   A federal jury in Chicago convicted two former traders of JPMorgan Chase &amp; Co.'s precious-metals desk who had been charged with manipulating gold prices, finding they used misleading orders to rig prices. </p><p>   The convictions are the capstone of a seven-year Justice Department campaign to punish a style of deceptive trading in futures markets known as spoofing. The rapid-fire strategy was prevalent at some Wall Street banks before Congress outlawed spoofing in 2010 and persisted even after its prohibition, according to prosecutors. JPMorgan paid $920 million in 2020 to settle regulatory and criminal charges against the bank over the traders' conduct. </p><p>   After deliberating for more than eight days, the jury convicted Gregg Smith, once the bank's top gold trader, and Michael Nowak, the former head of its precious-metals desk, of charges including spoofing and wire fraud. A sales executive who worked with them, Jeffrey Ruffo, was acquitted. </p><p>   Spoofing is defined as sending orders that traders intend to cancel. The misleading orders are a ruse to trick the market into thinking supply or demand have changed. That causes other traders to update their prices, benefiting the spoofer. </p><p>   Prosecutors used charts of trades and orders to show a pattern they said was spoofing. Proving the case was harder than in some prior spoofing trials because the Justice Department lacked chats or other messages to reveal the traders' intent for their orders. In earlier spoofing cases, prosecutors found electronic messages that showed traders bragging about spoofing. The case against Mr. Ruffo was also different in that he wasn't a trader but was nonetheless charged with involvement in a conspiracy. </p><p>   The jury cleared all three defendants of conspiracy and racketeering charges. The latter count indicated prosecutors believed the precious-metals desk essentially functioned as a criminal enterprise inside JPMorgan. </p><p>   David Meister, a lawyer for Mr. Nowak, said, \"While we are gratified that the jury acquitted Mr. Nowak of racketeering and conspiracy, we are extremely disappointed by the jury's verdict on the whole, and will continue to seek to vindicate his rights in court.\" </p><p>   Attorneys for Messrs. Smith and Ruffo didn't respond to requests for comment. </p><p>   In addition to charts, prosecutors used a trio of cooperating witnesses -- former traders at JPMorgan or other banks -- who testified over the course of three weeks about how they spoofed and watched Messrs. Smith or Nowak do the same thing to get better prices on gold futures trades and make more money for the bank. </p><p>   Mr. Smith was JPMorgan's top gold trader, a rapid-fire trader who used his mouse to manually enter and cancel orders so fast that colleagues joked he needed to put ice on his fingers to cool them down, according to trial testimony. Mr. Smith spoofed \"all the time,\" according to Christian Trunz, a former junior trader who pleaded guilty in 2019 and testified that he learned the tactic by looking over Mr. Smith's shoulder. </p><p>   Mr. Nowak was the head of JPMorgan's precious-metals desk during the period scrutinized by prosecutors. He also spoofed but less than Mr. Smith, according to the traders who testified. </p><p>   Prosecutors alleged spoofing was critical to JPMorgan's ability to serve hedge-fund clients such as Moore Capital Management, Soros Fund Management LLC and Tudor Investment Corp. Mr. Ruffo, who was acquitted, was the bank's salesman dealing with those big traders and sometimes encouraged spoofing to get better prices for them, according to John Edmonds, a former JPMorgan trader who pleaded guilty in 2018 and testified for prosecutors. </p><p>   Defense attorneys during the trial sought to undermine the credibility of the cooperating witnesses, pointing out they had misled authorities in the past about their trading. Mr. Edmonds acknowledged lying to FBI agents when they first approached him about his trading. Mr. Trunz admitted lying to JPMorgan's compliance team about spoofing in 2016. </p><p></p>",
+  "published": "2022-08-11T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 8
+        },
+        {
+          "start": 58,
+          "end": 78
+        },
+        {
+          "start": 530,
+          "end": 538
+        },
+        {
+          "start": 533,
+          "end": 541
+        },
+        {
+          "start": 1882,
+          "end": 1890
+        },
+        {
+          "start": 1896,
+          "end": 1904
+        },
+        {
+          "start": 2322,
+          "end": 2330
+        },
+        {
+          "start": 2339,
+          "end": 2347
+        },
+        {
+          "start": 2561,
+          "end": 2569
+        },
+        {
+          "start": 2579,
+          "end": 2587
+        },
+        {
+          "start": 2996,
+          "end": 3004
+        },
+        {
+          "start": 3016,
+          "end": 3024
+        },
+        {
+          "start": 3198,
+          "end": 3206
+        },
+        {
+          "start": 3220,
+          "end": 3228
+        },
+        {
+          "start": 3518,
+          "end": 3526
+        },
+        {
+          "start": 3540,
+          "end": 3548
+        },
+        {
+          "start": 3887,
+          "end": 3896
+        },
+        {
+          "start": 3912,
+          "end": 3920
+        }
+      ],
+      "weightsV2": {
+        "weight": 23.0,
+        "baseWeight": 18.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

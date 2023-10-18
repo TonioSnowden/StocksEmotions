@@ -1,0 +1,64 @@
+{
+  "_id": "1bbfc0502a738380300905e58299eeef33feda80ee876d4e55c815f85cdda4cb",
+  "feed": "market-watch",
+  "title": "Apple adding new encryption features for iCloud data security; Advanced Data Protection for iCloud U.S. beta testing begins immediately",
+  "text": "<p>\"Our security teams work tirelessly to keep users' data safe, and with iMessage Contact Key Verification, Security Keys, and Advanced Data Protection for iCloud, users will have three powerful new tools to further protect their most sensitive data and communications,\" said Craig Federighi, Apple's head of software engineering, in a statement.</p><p>Advanced Data Protection for iCloud, which is available immediately to U.S. beta testers and scheduled to be available to U.S. users by the end of the year, broadens the number of categories of what gets end-to-end encrypted to 23, including iCloud Backup, Notes and Photos, from a current 14. Apple said the only major categories that won't get the encryption are iCloud Mail, Contacts, and Calendar \"because of the need to interoperate with the global email, contacts, and calendar systems.\"</p><p>A support guide for Advanced Data Protection for iCloud is available at Apple's website.</p><p>In early 2023, Apple plans to release Security Keys for Apple ID, which is an extra physical layer of factor verification — third-party hardware security keys — for users to access their Apple ID account. With two-factor ID released in 2015, Apple said 95% of users have the feature enabled already.</p><p>\"This takes our two-factor authentication even further, preventing even an advanced attacker from obtaining a user's second factor in a phishing scam,\" Apple said.</p><p>Available sometime in 2023, Apple also plans to launch iMessage Contact Key Verification for \"users who face extraordinary digital threats — such as journalists, human rights activists, and members of government,\" a service for users to verify that they are communicating only with intended recipients.</p><p>Conversations where the feature is enabled will \"receive automatic alerts if an exceptionally advanced adversary, such as a state-sponsored attacker, were ever to succeed breaching cloud servers and inserting their own device to eavesdrop on these encrypted communications,\" Apple said.</p><p>Apple adding new encryption features for iCloud data security</p>",
+  "published": "2022-12-07T19:04:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 639,
+          "end": 644
+        },
+        {
+          "start": 1970,
+          "end": 1975
+        },
+        {
+          "start": 984,
+          "end": 989
+        },
+        {
+          "start": 1380,
+          "end": 1385
+        },
+        {
+          "start": 1982,
+          "end": 1987
+        },
+        {
+          "start": 1115,
+          "end": 1120
+        },
+        {
+          "start": 1420,
+          "end": 1425
+        },
+        {
+          "start": 1170,
+          "end": 1175
+        },
+        {
+          "start": 943,
+          "end": 948
+        },
+        {
+          "start": 291,
+          "end": 296
+        },
+        {
+          "start": 911,
+          "end": 916
+        }
+      ]
+    }
+  ]
+}

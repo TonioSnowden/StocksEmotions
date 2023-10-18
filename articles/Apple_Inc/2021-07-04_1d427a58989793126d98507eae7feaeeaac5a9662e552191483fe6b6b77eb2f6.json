@@ -1,0 +1,88 @@
+{
+  "_id": "1d427a58989793126d98507eae7feaeeaac5a9662e552191483fe6b6b77eb2f6",
+  "feed": "ftcomall",
+  "title": "Apple wins privacy battle in China",
+  "text": "<p>A co-ordinated attempt by Chinese tech companies to circumvent Apple's privacy policies has been forestalled, a significant victory for the iPhone-maker in what was seen as a threat to its global privacy push.</p> <p>Tech groups led by Baidu, Tencent and TikTok parent ByteDance had worked with two Beijing-affiliated groups to create a new way of tracking iPhones for advertising, called CAID, that would let them identify users even if they refused to let apps use Apple's official ID, called IDFA. </p> <p>CAID was developed last year and had been openly tested for months before a planned release in late March. After the <a href=\"https://www.ft.com/content/520ccdae-202f-45f9-a516-5cbe08361c34\">Financial Times reported</a> on its existence, advertising technology experts said the project marked a grave risk to Apple's global privacy rules and its $50bn business in China.&#xa0;</p> <p>Eric Seufert, a consultant, had said the co-ordinated attempt placed Apple in “an impossible situation”. He said Apple would have to choose between rejecting CAID, risking the ire of Beijing, or taking the embarrassing decision of allowing it and conceding that the world's most populous country played by different rules.</p> <p>“Apple has a catastrophe on its hands,” he wrote on Twitter.</p> <p>Apple <a href=\"https://www.ft.com/content/99a3f7c1-54d9-47fe-9bcb-fd72fcd94076\">made its position clear</a> shortly afterwards by blocking updates to several Chinese apps that it had caught enlisting CAID in their software updates from its App Store.</p> <p>Several people in China and Hong Kong said that, following Apple's retaliation, CAID lost support and the whole project failed to gain traction.&#xa0;</p> <p>“This is a clear victory for Apple, and also consumer privacy, as the tech giants of China have been forced to back down and comply with Apple's rules,” said Rich Bishop, chief executive of AppInChina, a leading publisher of international software in China.</p> <p>“The Chinese app ecosystem was collectively baiting the bull with CAID, under the theory that Apple couldn't afford to ban every major app in the market,” added Alex Bauer, head of product marketing at adtech group Branch.</p> <p>“Apple called their bluff, and seems to have reasserted control over the situation by aggressively rapping knuckles on early adopters, before the consortium gained any real momentum.”</p> <p>ByteDance did not respond to requests for comment. Tencent and Baidu declined to comment. Apple would not mention CAID specifically, but reiterated that its “App Store terms and guidelines apply equally to all developers around the world” and that “apps that are found to disregard the user's choice will be rejected”.</p> <p>Although CAID was spearheaded by the state-backed, 2,000 member China Advertising Association and the China Academy of Information and Communications Technology, a research institute directly under the Ministry of Industry and Information Technology, it was not clear if these groups had the full support of Beijing.</p> <p>Nor was it obvious that the groups knew CAID violated Apple's policies, whose grey areas <a href=\"https://www.ft.com/content/3cabd134-0271-4783-8f0e-a17bb682afbe\">are being carefully examined</a> in the US and abroad.&#xa0;</p> <p>Spokespeople for some of the companies involved in the effort said they believed CAID had Apple's stamp of approval, and the CAA, whose website still has information about CAID, including an application form, previously told the FT it was “actively communicating” with the tech giant.</p> <p>Had CAID gained momentum and received the full support of Beijing, the repercussions <a href=\"https://www.ft.com/content/dd724838-d37f-4894-b986-e4675482161e\">could have been widespread</a>. A person familiar with the CAA's strategy said the group was also working on an Android identifier, known as OID, but the CAA first wanted to test the waters on the smaller iPhone market.</p> <p>Bishop said if Chinese companies were complying with Apple's rules, it would be likely to bolster Search Ads, Apple's App Store advertising business, in which developers can pay to have their app be the first result for given keywords. The service is almost five years old in the US but only became available in China last month. “It's one of the few remaining ways to accurately target Chinese iOS users,” he said.&#xa0;</p> <a href=\"http://www.ft.com/cms/ea67fc0b-c4fd-4087-8aea-81e6fbf517f2.html?FTCamp=engage/CAPI/cs/Channel_Amana//B2B\"></a><p>Source: Patrick McGee in San Francisco 2021 'Apple wins privacy battle in China' FT.com 4 July. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-07-04T23:00:32.748Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2846,
+          "end": 2851
+        },
+        {
+          "start": 857,
+          "end": 862
+        },
+        {
+          "start": 1404,
+          "end": 1409
+        },
+        {
+          "start": 2246,
+          "end": 2251
+        },
+        {
+          "start": 3023,
+          "end": 3028
+        },
+        {
+          "start": 1843,
+          "end": 1848
+        },
+        {
+          "start": 1172,
+          "end": 1177
+        },
+        {
+          "start": 901,
+          "end": 906
+        },
+        {
+          "start": 1972,
+          "end": 1978
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 460,
+          "end": 465
+        },
+        {
+          "start": 1628,
+          "end": 1633
+        },
+        {
+          "start": 63,
+          "end": 68
+        },
+        {
+          "start": 3572,
+          "end": 3577
+        },
+        {
+          "start": 1111,
+          "end": 1117
+        },
+        {
+          "start": 3629,
+          "end": 3634
+        },
+        {
+          "start": 725,
+          "end": 730
+        },
+        {
+          "start": 1520,
+          "end": 1525
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

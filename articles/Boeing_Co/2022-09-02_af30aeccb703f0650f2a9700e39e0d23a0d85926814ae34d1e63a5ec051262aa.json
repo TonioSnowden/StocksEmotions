@@ -1,0 +1,50 @@
+{
+  "_id": "af30aeccb703f0650f2a9700e39e0d23a0d85926814ae34d1e63a5ec051262aa",
+  "feed": "wall-street-journal",
+  "title": "U.S. Army Maintenance Error Led to Chinook Helicopter Grounding; The military branch says its personnel installed the wrong parts on certain Chinooks, resulting in the fuel leaks and fires that prompted the grounding",
+  "text": "<p>At least some of the incidents involved the Army's MH-47 Chinooks that are used by Army special forces units, people familiar with the matter said. Those feature larger fuel tanks, inflight-refueling and advanced sensors needed for special operations.</p><p>The Army experienced at least seven incidents of fuel leaks, four of which involved engine fires, according to one of these people. A spate of these incidents within a two-week period drew increased attention leading up to the grounding, this person said.</p><p>The Army said the engine incidents resulted in no injuries and the parts in question, types of seals known as O-rings, weren't faulty, just not the ones that were supposed to be installed. The Army has taken steps to correct the maintenance error and inspect helicopters suspected of having the incorrect O-rings, said Cynthia Smith, a spokeswoman for the Army.</p><p>\"Due to a cataloging error, an O-ring that did not meet the heat specifications required for the application was assigned an incorrect part number and subsequently installed on some Chinook helicopters,\" Ms. Smith said in a statement. \"This error has been corrected.\"</p><p>As of Friday, the entire fleet remained grounded, Army officials said. But earlier this week, the service had issued a directive allowing a two-star general or above to authorize a temporary exception to the grounding for some Chinooks to fly if necessary. Army officials declined to say how many of the aircraft, if any, had flown under the exception.</p><p>Ms. Smith, the Army spokeswoman said, military personnel were evaluating the quantity of incorrect O-rings installed on the Chinook fleet. She declined to disclose the supplier of the parts, but said the U.S. government purchased them for 11 cents each.</p><p>All Chinooks were undergoing inspections, and Ms. Smith said the military branch had no estimate for when the aircraft would begin to return to service.</p><p>\"We are working to validate the aircraft that require maintenance and identify the engines that may be able to return to service,\" she said. \"We do not have a timeline for when all the aircraft will be returned to service.\"</p><p>As a precaution, the Army halted flights of all Chinooks, including its more-common CH-47 model. The helicopters have ferried American soldiers and equipment on battlefields since the helicopter's debut in 1961.</p><p>They have been sold to American allies as well, but other countries' Chinooks aren't believed to face the O-ring problem unless they underwent maintenance at an Army facility in Corpus Christi, Texas, a person briefed on the matter said.</p><p>The Pentagon's contractor management agency said it halted taking Chinook deliveries from Boeing Co., which manufactures helicopters in the Philadelphia area. Honeywell International Inc. produces its engines.</p><p>The Defense Contract Management Agency said this week that the Chinook problems don't appear to be related to the helicopters' production and that it was working with Boeing to ensure the Army's safety directives and any associated updates will be followed.</p><p>Boeing declined to comment, referring questions to the Army. Boeing delivered nine new Chinooks in the first half of the year and four refurbished and overhauled ones. The aerospace company doesn't detail which customers received the helicopters. The Army had attempted to defund the Chinook program under the Trump administration, citing a need to allocate funding for modernization, according to budget officials, but Congress reversed the decision and restored funding for the aircraft.</p><p>Honeywell declined to comment but the company has said it was working with the Army to investigate the matter and that it didn't make the O-rings in question.</p><p>U.S. Army Maintenance Error Led to Chinook Helicopter Grounding</p>",
+  "published": "2022-09-02T21:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.99994236,
+      "offsets": [
+        {
+          "start": 2949,
+          "end": 2955
+        },
+        {
+          "start": 2662,
+          "end": 2672
+        },
+        {
+          "start": 2928,
+          "end": 2934
+        },
+        {
+          "start": 3018,
+          "end": 3024
+        },
+        {
+          "start": 3078,
+          "end": 3084
+        },
+        {
+          "start": 2643,
+          "end": 2653
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_id": "7e4feabc58fd63fcbafc8eb45a84f25b1eeba9ab7a467cce61bb53b30ac7562b",
+  "feed": "market-watch",
+  "title": "3M stock extends bounce after UBS recommends investors stop selling, saying sentiment is 'washed out'; Analyst Chris Snyder raises rating to neutral as stock's 'derating' suggests litigation liability has been priced in",
+  "text": "<p>Before the upgrade and target increase, Snyder was the most bearish of the 23 analysts surveyed by FactSet. He's now one of the majority, as 15 analysts, or 65% of those surveyed, are neutral on the stock.</p><p>The stock MMM ran up 2.1% in midday trading. It has now bounced 4.4% since closing at a nine-year low of $116.60 on Tuesday.</p><p>3M shares were still down 31.4% year to date, while the SPDR Industrial Select Sector exchange-traded fund XLI has declined 10.3% and the Dow Jones Industrial Average DJIA has lost 11.8%.</p><p>Uncertainty over liabilities from litigation surrounding the company's Combat Arms earplugs and per- and polyfluoroalkyl substances (PFAS) has been weighing heavily on the stock.</p><p>In July, 3M's Aearo Technologies subsidiary, which 3M bought in 2008, filed for bankruptcy, as 3M took action to resolve litigation related to the Combat Arms earplugs, resulting from allegations of fraudulent misrepresentation and concealment. And last month, a bankruptcy judge blocked a request that would have shielded 3M from litigation around earplugs.</p><p>Snyder said by his calculations, 3M's stock price has embedded a more than $40 billion litigation liability, which compares with the estimate of $38 billion he uses to calculate his price target. Basically, his analysis suggests investor sentiment has been \"washed out, as the stock \"fully accounts\" for liability risk.</p><p>\"What has been hidden by the cloud of litigation is the high-quality nature of 3M business and brands,\" which include Post-it Notes, Scotch tape and N95 masks, generate relatively high margins, Snyder wrote in a research note. \"There is a reason the shares traded at a near ~20% market premium for the 15 years pre-COVID.\"</p><p>3M stock extends bounce after UBS recommends investors stop selling, saying sentiment is 'washed out'</p>",
+  "published": "2022-09-09T16:27:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.9999949,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 2
+        },
+        {
+          "start": 214,
+          "end": 217
+        },
+        {
+          "start": 216,
+          "end": 219
+        },
+        {
+          "start": 327,
+          "end": 329
+        },
+        {
+          "start": 701,
+          "end": 703
+        },
+        {
+          "start": 743,
+          "end": 745
+        },
+        {
+          "start": 787,
+          "end": 789
+        },
+        {
+          "start": 1014,
+          "end": 1016
+        },
+        {
+          "start": 1082,
+          "end": 1084
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

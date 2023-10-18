@@ -1,0 +1,24 @@
+{
+  "_id": "373bf70b58619b93be5083c58a8fcf14b4425e4b69c268873ff516c21849bd23",
+  "feed": "ftcomall",
+  "title": "Correction: Merck",
+  "text": "<p>Merck last week abandoned a trial of a potential biologic Covid-19 treatment, not an oral antiviral as wrongly stated in an <a href=\"https://www.ft.com/content/72050a34-8bab-488f-9777-1d131e583274\">article</a> on April 22.</p><p>Source:  2021 'Correction: Merck' FT.com 22 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-22T23:11:22.011Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "name": "Merck & Co., Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 12,
+          "end": 17
+        }
+      ],
+      "nexusId": "10042334"
+    }
+  ]
+}

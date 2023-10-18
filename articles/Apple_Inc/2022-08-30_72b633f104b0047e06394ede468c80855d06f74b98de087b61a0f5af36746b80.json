@@ -1,0 +1,34 @@
+{
+  "_id": "72b633f104b0047e06394ede468c80855d06f74b98de087b61a0f5af36746b80",
+  "feed": "ftcomall",
+  "title": "Kochava/FTC: crackdown could end private Idaho of adtech data brokers",
+  "text": "<p>Digital advertising is already a $200bn industry and growing quickly every year. It has spawned such juggernauts as Meta and Google. Yet the effectiveness of the adverts remains something of a mystery.</p> <p>“Adtech” businesses claim they have the tools needed to measure the precise impact of digital marketing. But they too resemble black boxes to outsiders. That has attracted the interest of energised regulators in Washington. </p> <p>On Monday, Lina Khan's Federal Trade Commission announced an <a href=\"https://www.ft.com/search?q=kochava\">enforcement action</a> against Idaho-based Kochava.&#xa0;</p> <p>The FTC alleged that “data sold by Kochava, may be used to track consumers to sensitive locations”, including medical facilities and houses of worship. The company denies that it does anything improper with the geolocation data it collates. It says customers can always opt out of tracking. </p> <p>The technology industry has tried to put up its own guardrails. Apple made privacy-related changes to its iOS operating system, hammering revenue at the likes of Meta and Snap. </p> <p>But data is becoming richer and analytical abilities more powerful. It must, therefore, fall to lawmakers and regulatory oversight to create rules that prevent abuse.</p> <p>Kochava's customers include the likes of Uber, Disney and McDonald's, according to its website. Kochava&#xa0;also highlights investment institutions, which are increasingly using alternative sources of data to gain an edge.&#xa0;&#xa0;</p> <p>Just days before the FTC action, Kochava announced that it had strengthened protections to keep data about user visits to healthcare facilities obscured. It has also sued the FTC to block the enforcement action.</p> <p>An adtech crackdown will not only curb the growth of specialist start-ups. Marketers have convinced themselves and their investors that finite budgets should include spending on adtech services. The richest data that justifies that case may now be drifting beyond their grasp. They may in future have to revert to shots in the dark in deciding where and when to advertise. </p><p>Source:  2022 'Kochava/FTC: crackdown could end private Idaho of adtech data brokers' FT.com 30 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-30T17:25:19.455Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 879,
+          "end": 884
+        },
+        {
+          "start": 890,
+          "end": 895
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0003045,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00030446053,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

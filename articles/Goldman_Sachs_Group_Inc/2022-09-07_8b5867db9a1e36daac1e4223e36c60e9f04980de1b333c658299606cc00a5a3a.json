@@ -1,0 +1,38 @@
+{
+  "_id": "8b5867db9a1e36daac1e4223e36c60e9f04980de1b333c658299606cc00a5a3a",
+  "feed": "wall-street-journal",
+  "title": "Investors, Get Used to It: Governments Are Fixing Prices; Plans by Britain's new Prime Minister Liz Truss to freeze energy bills by borrowing more have downsides, but are probably the best-case scenario for investors",
+  "text": "<p>Since Ms. Truss also has pledged to lower taxes, the money will probably come from borrowing. Some investors are concerned, because the Bank of England's policy tightening has already pushed 10-year gilt yields above 3% and the pound trades around its lowest level against the U.S. dollar since 1985.</p><p>Most Western nations, including the U.S., have taken steps to offset the surge in commodity prices, including by releasing oil reserves, slashing taxes and sending money directly to households. Yet Europe's dependence on Russian natural gas makes it particularly vulnerable, leading to more extreme measures. European Union leaders are now discussing energy-price caps. Spain and Portugal have already limited the cost of gas in wholesale auctions, and this week a Spanish minister even suggested intervening in the price of food.</p><p>For economists, the key concern is that spending money can't fix the underlying problem: Freezing the price of a scarce resource dilutes the incentive to buy less of it—in this case risking winter blackouts. Price caps also end up saving the wealthy more money than the poor. And the cost is gargantuan: In the U.K., energy-related support measures for families and businesses may total £180 billion, or 8% of gross domestic product, analysts at Deutsche Bank estimate.</p><p>But the economic impact of soaring energy bills would likely be worse than the unintended consequences of freezing them.</p><p>For one, capping prices is straightforward relative to alternative approaches, such as reforming wholesale power markets. Meanwhile, the health of the European economy seems hard to decouple from energy bills. U.K. consumer confidence is at its lowest level on record, despite a robust jobs market. A recent forecast by Goldman Sachs of U.K. inflation rising above 20% next year was widely circulated in the local media.</p><p>Jefferies analysts believe U.K. household gas bills would have topped £4,500 next year, so the expected policy measures would cut them roughly in half relative to current projections. Crucially, the cost of oft-purchased products such as energy seems to have an outsize hold on the psyche of less-wealthy consumers, which economic research dubs the \"frequency hypothesis.\" Because of this, price caps that head off the spike in inflation could limit the hit to consumption across the economy more effectively than spending the same money sending checks to families. Also, power cannot be easily hoarded, making its price less dangerous to limit than that of food—though caps still need to be deployed alongside strong incentives to contain gas consumption.</p><p>SHARE YOUR THOUGHTS</p><p>What do you think will be the economic impact of the European energy crisis? Join the conversation below.</p><p>As for financing, Ms. Truss' determination not to tax energy producers that may be profiting excessively from high wholesale prices seems too single-minded, but probably sets a good precedent for investors. Ultimately, fears about government borrowing remain overblown: Even hawkish central banks won't let bond prices get too out of whack with interest rates.</p><p>Markets don't react well to scarcity, so investors in Europe face the fallout of soaring commodity prices one way or another. Price caps may be the least bad option out there.</p><p>Investors, Get Used to It: Governments Are Fixing Prices</p>",
+  "published": "2022-09-07T14:58:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1743,
+          "end": 1756
+        },
+        {
+          "start": 1743,
+          "end": 1750
+        },
+        {
+          "start": 1730,
+          "end": 1743
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

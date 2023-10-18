@@ -1,0 +1,36 @@
+{
+  "_id": "0229c68e8d4a0ce38e8fdaf8cba0fe64f50ad0472581f116ef532ff349900b3e",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Supreme Court Creates Uncertainty for Privacy Lawsuits",
+  "text": "<p>Follow us on Twitter : @WSJCyber</p><p>A New Kind of Adversary</p><p>Without the right protection, yours could be next. See how NETSCOUT visibility can detect and help mitigate these complex threats.</p><p>Learn How Today</p><p>What Is Harm?</p><p>Privacy implications: In a 5-4 vote, the U.S. Supreme Court said inaccurately designated consumers on TransUnion LLC 's credit reports need to prove that the mistake hurt them before they can pursue litigation against the credit-score company. The case involved consumers who sued TransUnion for falsely labeling them as terrorist suspects.</p><p>While TransUnion shared some inaccurate reports with creditors, which led to canceled transactions, the company didn't disseminate similar reports on other consumers and therefore didn't harm them, the majority opinion by Justice Brett Kavanaugh said.</p><p>The decision could have important consequences for privacy lawsuits in which there are few agreed-upon measures for evaluating harms of misusing personal data.</p><p>Read the full story.</p><p>More Cyber and Privacy News</p><p>New Microsoft hack linked to SolarWinds attackers. Microsoft said hackers installed malicious information-stealing software on one of its systems and used information gleaned there to attack its customers. The hackers compromised a computer used by a Microsoft customer support employee that could have provided access to different types of information, including \"metadata\" of accounts and billing contact information for the organization, a Microsoft spokesman said. (WSJ)</p><p>Microsoft is aware of three customers that were affected by the recent activity, the company said in a blog post.</p><p>The incident was part of a broader campaign—which involved other hacking techniques beyond leveraging the information taken from its support system—that primarily targeted technology companies and government agencies in 36 countries.</p><p>32%</p><p>Percentage of companies hit by ransomware that paid the demanded ransom, according to 5,400 firms surveyed by cyber vendor Sophos Group PLC . More energy firms paid, 43%, than any other sector.</p><p>New Hampshire town reveals data breach. Personal and financial information for 38,998 residents of Salem, N.H., is at risk after town officials recently discovered that an unauthorized party breached its network in October 2020. Data exposed includes names, payment-card details and Social Security numbers, according to an investigation that concluded May 22, the town said.</p>",
+  "published": "2021-06-28T13:31:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1463,
+          "end": 1472
+        },
+        {
+          "start": 1024,
+          "end": 1033
+        },
+        {
+          "start": 1495,
+          "end": 1504
+        },
+        {
+          "start": 1071,
+          "end": 1080
+        },
+        {
+          "start": 1271,
+          "end": 1280
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

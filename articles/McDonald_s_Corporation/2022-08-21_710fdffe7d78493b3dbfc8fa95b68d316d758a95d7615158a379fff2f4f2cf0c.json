@@ -1,0 +1,30 @@
+{
+  "_id": "710fdffe7d78493b3dbfc8fa95b68d316d758a95d7615158a379fff2f4f2cf0c",
+  "feed": "wall-street-journal",
+  "title": "Big Labor Eats Small Business in California; A bill making its way toward Gov. Newsom's desk would drive up food prices and crush quick-service restaurants.",
+  "text": "<p>Why single out the quick-service restaurant industry? The bill's union backers, chiefly the Service Employees International Union, accuse quick-service franchisees, without evidence, of being particularly prone to labor-law violations. In reality, data from California's Department of Industrial Relations show that the industry commits far fewer labor, wage and hour violations than other industries.</p><p>What the unions really want is unfettered influence over counter-service establishments, where they have often struggled to organize workers. The bill would create a council of unelected political appointees to set labor rules for quick-service restaurants. This would allow the unions to bypass the Legislature to mandate a $23 minimum wage and force franchise owners to write a blank check for unaffordable benefits for hourly workers. Business owners and voters would have no recourse. This is why Mr. Newsom's own Finance Department opposes the bill, saying it would create a \"fragmented regulatory and legal environment for employers and raise long-term costs.\"</p><p>This antidemocratic scheme would amount to a food tax on Californians. Quick-service restaurants have been essential providers of affordable food during a period of crippling inflation, often providing better value than grocery stores. Operating on single-digit profit margins, they can't absorb cost increases without passing them to consumers. The sting will be felt by the nearly 70% of Californians who visit a counter-service restaurant each week.</p><p>The bill targets chains like McDonald's, Taco Bell and Dunkin', as well as any counter-service establishment with more than 30 locations nationwide, including community-favorite ice cream parlors, bakeries and coffee shops. California's home-grown brands like Mendocino Farms and Vitality Bowls would be crushed by this bill.</p><p>The casualties would include 14,000 California entrepreneurs who were empowered by the franchise-business model to open their own restaurants. Compared with owners of nonfranchise businesses, a disproportionate number of these entrepreneurs are women or minorities, and nearly 70% own a single restaurant.</p><p>Far from tycoons, these business owners are bedrocks of their communities. They are also prolific job creators. In California, employment in fast-food and takeout dining is up 3.3% from pre-pandemic levels while overall jobs in leisure and hospitality are down 8.6%. Contrary to union claims, national data clearly show that franchise firms pay 2.2% to 3.4% higher wages than similar nonfranchise establishments. The bill would also harm the parent companies that provide franchise opportunities. It would deem them joint employers, discouraging these companies from offering new franchise agreements in California and further driving the already staggering business exodus from the state.</p><p>California, which helped pioneer the fast-food franchise model, is on the verge of destroying it. Unions and their legislative allies have built the FAST Act on a lie about quick-service establishments, and California's entrepreneurs, workers and consumers are set to pay the price.</p><p>Mr. Haller is president and CEO of the International Franchise Association.</p><p>Big Labor Eats Small Business in California</p>",
+  "published": "2022-08-21T19:55:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1539,
+          "end": 1549
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000004,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

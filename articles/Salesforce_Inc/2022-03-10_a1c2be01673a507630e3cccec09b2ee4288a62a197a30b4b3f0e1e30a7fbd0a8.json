@@ -1,0 +1,28 @@
+{
+  "_id": "a1c2be01673a507630e3cccec09b2ee4288a62a197a30b4b3f0e1e30a7fbd0a8",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  RNC Sues to Block  Jan. 6 Subpoena  ----  By Byron Tau",
+  "text": "<p>   WASHINGTON -- The Republican National Committee filed suit Wednesday to stop one of its vendors from turning over records to the House committee investigating the Jan. 6, 2021, attack on the Capitol. </p><p>   The House panel, made up of seven Democrats and two Republicans who have been critical of former President Donald Trump, had subpoenaed records related to the GOP's fundraising and donor efforts from Salesforce.com Inc. -- a platform the party used to manage communications with donors. </p><p>   The RNC lawsuit, filed in federal court in Washington, alleges that the subpoena violates the committee's constitutional rights and is overly broad. The RNC further argues that the committee itself was invalidly formed and lacks authority to demand such records. The suit named House Speaker Nancy Pelosi as a defendant along with the Jan. 6 panel and its individual members. </p><p>   \"The Salesforce Subpoena demands production of sensitive and proprietary data over more than a two-month period, which would give the Select Committee unprecedented access to the RNC's internal political strategies and to private, personal information regarding its supporters,\" the committee wrote in its lawsuit. </p><p>   Salesforce didn't respond to a request for comment. </p><p>   A spokesman for the committee said it is seeking to \"understand the impact of false, inflammatory messages in the weeks before January 6th,\" and the flow of related funds, not to go after private data. </p><p></p>",
+  "published": "2022-03-10T07:14:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 868,
+          "end": 878
+        },
+        {
+          "start": 1178,
+          "end": 1188
+        },
+        {
+          "start": 400,
+          "end": 414
+        }
+      ]
+    }
+  ]
+}

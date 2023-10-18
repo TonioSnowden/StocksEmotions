@@ -1,0 +1,40 @@
+{
+  "_id": "dd8a23cde1bde6f204b648cf9dd53fb144ddf00a85dac8b69c5abbe2f0865c51",
+  "feed": "wall-street-journal",
+  "title": "Cloud Giants Can't Keep Making Rain; Amazon, Microsoft and Google show early signs of slowing capital expenditures as growth decelerates",
+  "text": "<p>But growth rates for all three cloud segments also decelerated from the March quarter, and narrowly missed Wall Street's targets in the case of Microsoft and Google. All three companies are also taking concerted actions to moderate their spending, with plans to slow hiring and even make some targeted job cuts. As such, the enormous capital expenditures that go in part toward building data-center networks for cloud services should hardly be considered sacrosanct.</p><p>An early sign of that was already apparent in last week's reports. Combined capital expenditures by Amazon, Microsoft and Google rose only 12% year over year in the June quarter compared with a 30% rise in the March quarter and a 49% jump in last year's June period. Of course, quarterly capital expenditures by the three have historically been lumpy as the building and equipping of data centers doesn't follow a straight line. But on a trailing 12-month basis, combined capital expenditures by the three also showed the same trend, rising 25% for the 12-month period ended in June compared with a 52% surge in the same period the year prior.</p><p>All three also sounded a relatively cautious tone on spending plans for the periods ahead. Amazon Chief Financial Officer Brian Olsavsky said on the company's earnings call that Amazon expects to spend \"slightly more\" on capital investments this year, this following a 32% jump in capital expenditures and equipment acquired under capital leases in 2021. Microsoft CFO Amy Hood projected a sequential decrease in capex during the September quarter and added, \"We do feel that we've gotten in a good place on capacity on a global basis\" to handle the usage customers need in Microsoft's data centers.</p><p>One notable tell came from Alphabet CFO Ruth Porat, who said: \"We'll continue to invest in areas like AI, Search and Cloud, and we'll do it responsibly and in a way that is responsive to the current environment.\" In a report Monday, Erik Woodring of Morgan Stanley noted that Ms. Porat dropped the word \"aggressively\" that she has used to describe the company's planned investments in Google Cloud over the previous six quarterly calls. Google's main rival Facebook doesn't operate a corporate cloud service, but parent company Meta Platforms has significantly ramped up its own network investments to build up the so-called metaverse. Last week, the company lowered the bottom end of its projected capex range for the year by $1 billion as its core advertising business has taken a hard hit.</p><p>Mr. Woodring estimates that capital expenditures for cloud services will remain strong this year. But he projected a big deceleration next year, citing macroeconomic factors and the possibility that major cloud providers \"may be entering a digestion period after 3 consecutive years of accelerating cloud capex growth.\" That could be bad timing for chip makers and other component suppliers if a global recession saps demand from other markets as well. Digestion from cloud giants could prove stomach churning.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Cloud Giants Can't Keep Making Rain</p>",
+  "published": "2022-08-02T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 45,
+          "end": 54
+        },
+        {
+          "start": 144,
+          "end": 153
+        },
+        {
+          "start": 1466,
+          "end": 1475
+        },
+        {
+          "start": 1685,
+          "end": 1694
+        },
+        {
+          "start": 575,
+          "end": 584
+        },
+        {
+          "start": 1685,
+          "end": 1696
+        }
+      ]
+    }
+  ]
+}

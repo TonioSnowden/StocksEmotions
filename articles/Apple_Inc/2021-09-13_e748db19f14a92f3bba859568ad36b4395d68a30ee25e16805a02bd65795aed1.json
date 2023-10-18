@@ -1,0 +1,24 @@
+{
+  "_id": "e748db19f14a92f3bba859568ad36b4395d68a30ee25e16805a02bd65795aed1",
+  "feed": "wall-street-journal",
+  "title": "Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage, Security Researchers Say; An Israeli security firm has been exploiting a significant security flaw since February",
+  "text": "<p>Write to Robert McMillan at Robert.Mcmillan@wsj.com</p><p>Apple Cyber Flaw Allows Silent iPhone Hack Through iMessage, Security Researchers Say</p>",
+  "published": "2021-09-13T20:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 52,
+          "end": 57
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "12d9591f7bbb05641936b025967e0783f9f36296b01705872eb67b272bdef6f0",
+  "feed": "market-watch",
+  "title": "Biden White House touts his 'economic vision' as president visits Ohio for Intel plant's groundbreaking; Republicans makes Biden's handling of the economy their top issue, as they aim for wins in Ohio and elsewhere in November's midterm elections",
+  "text": "<p>Related: Biden signs into law $280 billion package for chips, scientific research — here's what's in it</p><p>Republicans have made Biden's handling of the economy their top issue, as they aim to take control of the U.S. House and Senate in November's midterm elections.</p><p>Betting markets see Democrats holding onto the Senate in the midterms, but losing their grip on the House, and one of the key Senate races to watch is Ohio's contest between Democratic Rep. Tim Ryan and Republican candidate J.D. Vance.</p><p>See: Under pressure due to inflation, Biden blasts Republicans for 'ultra-MAGA' plan that would 'raise taxes on working families'</p><p>Also read: Democrats keeping House and Senate in midterm elections would hurt markets, analyst says</p><p>The new Intel facility in Ohio's Licking County, near Columbus, will be built by union labor, creating more than 7,000 construction jobs and 3,000 jobs producing leading-edge chips, according to the White House.</p><p>Biden's speech is scheduled for 12:15 p.m. Eastern.</p><p>The economic blueprint has five pillars: empowering workers, making and building it in America, giving families breathing room, rewarding work not wealth and making U.S. industry more competitive, less concentrated and more resilient.</p><p>\"The President's first two years in office have been two of the most productive in American history, and as the Blueprint explains, these accomplishments are all part of one economic vision,\" the White House said in a statement.</p><p>\"This Congressional session, the President and Congressional Democrats passed the most aggressive economic recovery package since FDR, the most substantial infrastructure investment since Eisenhower, the most significant investment in manufacturing and research and development in history, and a historic law to lower costs for families and accelerate clean energy manufacturing.\"</p><p>Intel in June had delayed the groundbreaking for the plant, signaling its frustration over the uncertainty in Congress at that time about the legislation providing more than $52 billion for the U.S. chips sector SMH SOXX.</p><p>Intel's stock is down 40% this year as of Thursday's close, while the S&amp;P 500 SPX has lost 16%.</p><p>Related: Chip stocks could plunge another 25% as 'we are entering the worst semiconductor downturn in a decade,' analyst says</p><p>Biden White House touts his 'economic vision' as president visits Ohio for Intel plant's groundbreaking</p>",
+  "published": "2022-09-09T13:27:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99993855,
+      "offsets": [
+        {
+          "start": 75,
+          "end": 80
+        },
+        {
+          "start": 736,
+          "end": 741
+        },
+        {
+          "start": 739,
+          "end": 744
+        },
+        {
+          "start": 1832,
+          "end": 1837
+        },
+        {
+          "start": 1840,
+          "end": 1845
+        },
+        {
+          "start": 2053,
+          "end": 2058
+        },
+        {
+          "start": 2062,
+          "end": 2067
+        },
+        {
+          "start": 2359,
+          "end": 2364
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.641643,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6416426,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

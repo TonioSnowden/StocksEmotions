@@ -1,0 +1,36 @@
+{
+  "_id": "f326614173d0eb0b309f611ee6626da78fdf5b0fd7e9a58582bf28be3dd0198f",
+  "feed": "wall-street-journal",
+  "title": "Apple Bank Fined for Failing to Comply With Law",
+  "text": "<p>The order was issued in December and made public on Friday.</p><p>The penalty was imposed after Apple Bank was asked in 2015 to enhance its anti-money-laundering compliance program.</p><p>The bank failed to comply with that FDIC order in a timely manner, the regulator said.</p><p>Apple Bank, a New York-chartered institution with branches around the state, said it was committed to working with regulators and had invested considerable resources in addressing the FDIC's prior order.</p><p>The bank consented to both of the regulator's orders without admitting or denying the FDIC's findings.</p><p>\"Apple Bank's enhancements to its compliance program have been acknowledged by the FDIC and reflect the bank's commitment to providing superior service to the customers and communities it serves in New York, while maintaining a compliance program that complies with applicable statutory and regulatory requirements,\" the bank said in a statement.</p><p>The prior consent order, from 2015, required Apple Bank to hire qualified compliance staff, conduct an anti-money-laundering risk assessment and develop a system of internal controls to ensure compliance with the Bank Secrecy Act, among other measures.</p><p>The FDIC said the $12.5 million civil penalty imposed in its latest consent order was appropriate in part due to the gravity of the violations and the bank's history of prior violations.</p>",
+  "published": "2021-02-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 90,
+          "end": 95
+        },
+        {
+          "start": 263,
+          "end": 268
+        },
+        {
+          "start": 571,
+          "end": 576
+        },
+        {
+          "start": 962,
+          "end": 967
+        },
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

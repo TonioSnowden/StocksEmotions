@@ -1,0 +1,66 @@
+{
+  "_id": "e92ef633926d2fd532dc6d453335b728256c689f6f7fe2fde3df8963b2f104a0",
+  "feed": "wall-street-journal",
+  "title": "A Group of Apple Employees Protests Company's Three-Day-a-Week Office Policy; Some of the tech giant's workers have signed a petition asking for more flexible working arrangements ahead of next month's mandated return to the office",
+  "text": "<p>In the petition, the group asked the company to let employees decide their own work arrangements with their managers. The group said it didn't want workers to have to provide private information or to ask for higher-level approvals to secure their chosen arrangements.</p><p>The employees who want more flexible work arrangements had compelling reasons, the petition said, including disabilities, health concerns and the fact that some of them are happier and more productive in flexible work environments.</p><p>\"For the past 2+ years, Apple's formerly office-based employees have performed exceptional work, flexibly, both outside and inside traditional office environments,\" the petition said.</p><p>Apple's most recent quarterly results were better than expected despite high inflation and other economic pressures. Although its profits slid almost 11%, the company reported last month that its iPhone sales continued to grow, showing that Apple has remained resilient.</p><p>The petition had more than 270 signatures as of Monday afternoon. It couldn't be determined how many of the signees were Apple employees.</p><p>The signatures represented only a fraction of Apple's global workforce. The tech giant, which is based in Cupertino, Calif., has more than 165,000 employees, according to Apple's website.</p><p>The company and AppleTogether didn't immediately return requests for comment Monday.</p><p>Like many companies, Apple pushed back its return-to-office date several times during the pandemic as the Covid-19 virus spawned more contagious variants. Apple was one of the first U.S. companies to send its workers home in 2020 as the virus began to spread.</p><p>As Covid-19 caseloads dropped in the U.S. after the winter surge, some companies urged employees to return to the office. But companies have struggled to lure workers back, even with the promise of hybrid schedules or elaborate free meals.</p><p>SHARE YOUR THOUGHTS</p><p>Have you returned to the office? What amenities has your company offered to try to lure you back? Join the conversation below.</p><p>Tsedal Neeley, a professor at Harvard Business School, said that Apple, like other companies, has had to reinvent its office culture, which it invested so heavily in when it opened its multibillion-dollar headquarters in 2017.</p><p>\"It was an investment centered on the abiding faith that physical presence and having people around is part of their secret sauce,\" she said, \"and Covid debunked that perspective.\"</p><p>Dr. Neeley, who has advised companies on remote and hybrid work, said that employees across the workforce often push back on policies that require them to go to the office for a certain number of days a week, something she referred to as \"the idea of butts in the seat.\"</p><p>Instead, she said, it is often more effective when companies ask their employees to come in for certain activities that benefit from in-person collaboration.</p><p>Tech companies have taken varied approaches to their return-to-office policies. Some, including Alphabet Inc.'s Google and Microsoft Corp. have told employees in recent months to work from the office for at least part of the week.</p><p>At Tesla Inc. and SpaceX, however, the policy is more strict. Elon Musk, the chief executive of both companies, told his employees in recent months that they would be required to work at least 40 hours a week in company offices, according to an email he sent to staff that was confirmed by The Wall Street Journal. He suggested in a tweet that if they didn't want to return to the office, they could seek employment elsewhere.</p><p>Write to Alyssa Lukpat at alyssa.lukpat@wsj.com</p><p>the return to the office</p><p>* Pizza? Bagels? Nope. You Need Banh Mi to Get Employees Back to the Office. (Aug. 17)</p><p>* You're Back at the Office. Your Annoying Colleagues Are, Too. (Aug. 3)</p><p>* Big Cities Can't Get Workers Back to the Office (July 7)</p><p>* The Best Office Designs to Lure Back Remote Workers (June 11)</p><p>* At Tech Companies, the Rebellion Against the Return to the Office Is Getting Serious (May 17)</p><p>A Group of Apple Employees Protests Company's Three-Day-a-Week Office Policy</p>",
+  "published": "2022-08-22T18:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 16
+        },
+        {
+          "start": 525,
+          "end": 530
+        },
+        {
+          "start": 681,
+          "end": 686
+        },
+        {
+          "start": 921,
+          "end": 926
+        },
+        {
+          "start": 1070,
+          "end": 1075
+        },
+        {
+          "start": 1132,
+          "end": 1137
+        },
+        {
+          "start": 1256,
+          "end": 1261
+        },
+        {
+          "start": 1377,
+          "end": 1382
+        },
+        {
+          "start": 1510,
+          "end": 1515
+        },
+        {
+          "start": 2061,
+          "end": 2066
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.945055,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.94505537,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

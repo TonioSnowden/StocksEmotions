@@ -1,0 +1,28 @@
+{
+  "_id": "700df1c071a6f4a042a9b38aa12b12ac364749a8649d7b64ce5312f15e5fc70d",
+  "feed": "wall-street-journal",
+  "title": "Hundreds at Risk in Okta Hack --- Customers rely on software to manage secure access to computer networks",
+  "text": "<p>Okta said it had contacted customers that were potentially affected. Shares of Okta fell 11% to $148.55 on Wednesday.</p><p>Reports of the breach emerged this week after Lapsus$ posted screenshots that appeared to be of Okta internal systems to its Telegram social-media account. The group said its primary target wasn't Okta but its customers.</p><p>Okta said in separate statements on Tuesday that the screenshots were from a computer used by a customer-support engineer from a unit of a subcontractor, Miami-based Sitel Group. Taking control of the computer effectively gave the hackers the same level of access as the engineer, according to Okta.</p><p>Support engineers can access only limited data and while they can help reset passwords and multifactor authentication factors, they can't see the passwords themselves, Okta said. The engineer didn't have \"godlike access,\" and had no power to create or delete user accounts, download customer databases or access source-code repositories, it said.</p><p>\"The scenario here is analogous to walking away from your computer at a coffee shop, whereby a stranger has (virtually in this case) sat down at your machine and is using the mouse and keyboard.\"</p><p>Okta said it notified Sitel of the breach in late January, and Sitel hired an outside forensic firm to investigate. The full results of the investigation were shared with Okta on Tuesday, it said, expressing disappointment at the time taken to issue the results.</p><p>The unit of Sitel where the breach took place, Tampa, Fla.-based Sykes Enterprises Inc., said it took swift action to contain the incident after learning of the hack. \"Following completion of the initial investigation, working in partnership with the worldwide cybersecurity leader, we continue to investigate and assess potential security risks to both our infrastructure and to the brands we support around the globe,\" Sykes said.</p><p>In a follow-up Telegram post, Lapsus$ disputed some of Okta's findings. It denied that it compromised a laptop and said support engineers have more-extensive access than Okta suggested, including to internal communications. It also took issue with Okta's assertion that the impact of the breach on customers was limited. The ability to reset passwords and multifactor authentication factors \"would result in complete compromise of many clients' systems,\" Lapsus$ said.</p><p>When asked about the hacker's claims, an Okta spokeswoman referred to the company's earlier statement describing the limitations of the breach.</p><p>In a blog post on Tuesday, Microsoft Corp. confirmed it had been hacked by the group, and that for weeks had been tracking what it described as a large-scale campaign by Lapsus$ against multiple organizations. It described the group as often acting openly and not trying to cover its tracks, using extortion and destruction of data.</p><p>After gaining access to an organization, the group has been known to listen in on crisis communication calls and internal messaging forums, Microsoft said.</p><p>The group, which communicates in Portuguese and broken English on Telegram, cut its teeth with attacks in Brazil, Portugal and the U.K. before expanding to target some of the world's biggest and most prestigious companies. In recent weeks, Lapsus$ has taken credit for hacks on Samsung Electronics Co. and Nvidia Corp. and has offered to pay employees from companies such as Apple Inc. for help obtaining access.</p><p>It also has taken over individual accounts at cryptocurrency exchanges and drained users' holdings.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-03-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3355,
+          "end": 3365
+        },
+        {
+          "start": 3355,
+          "end": 3360
+        },
+        {
+          "start": 3355,
+          "end": 3364
+        }
+      ]
+    }
+  ]
+}

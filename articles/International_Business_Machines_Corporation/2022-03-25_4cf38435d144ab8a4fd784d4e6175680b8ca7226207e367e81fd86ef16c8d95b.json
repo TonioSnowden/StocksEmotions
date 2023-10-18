@@ -1,0 +1,24 @@
+{
+  "_id": "4cf38435d144ab8a4fd784d4e6175680b8ca7226207e367e81fd86ef16c8d95b",
+  "feed": "wall-street-journal",
+  "title": "Mayo Clinic Tests Google AI Tool",
+  "text": "<p>Vish Anantraman, chief technology officer of the Mayo Clinic, said Google's Healthcare Natural Language API could help clinicians search and access patient data a lot more easily, although he said Mayo is still in early trial phases.</p><p>Some 80% of patient data in electronic medical records is unstructured, including transcribed reports and doctor's notes, Dr. Anantraman said. Natural-language processing allows the hospital system to turn the data that aren't organized into discrete fields into structured data, meaning clinicians will have an easier time searching and analyzing it, he said.</p><p>Once patient data are structured, the hospital will be able to find ideal patients for clinical trials and run various types of prediction tools that look for indicators that certain patients might be at higher risk for certain diseases early on, said Dr. Anantraman. This type of work was possible in the past but required a lot of human involvement, he said.</p><p>The Mayo Clinic has used natural-language processing tools to index unstructured information from medical records in the past, but Dr. Anantraman said the Google technology is more scalable and would allow Mayo to do so more accurately and efficiently.</p><p>\"We just have a lot of data that is not accessible and locked down because they're in an unstructured format,\" said Dr. Anantraman, adding that the data are now much more accessible.</p><p>The application of AI to healthcare has met with varying degrees of success, complicated by factors such as access to patient datasets reflective of the population, lack of healthcare expertise on the part of tech vendors and hype.</p><p>International Business Machine Corp.'s decision to sell assets from its Watson Health business, which heralded itself as a way to help doctors diagnose and cure cancer, highlighted the challenges various AI healthcare tools have faced trying to make an impact.</p><p>Still, the trillion-dollar healthcare industry remains a target. Tech companies point to investments in AI products, advances in the technology and natural-language processing in particular, as well as partnerships with hospitals to collaborate on tools.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-03-25T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 1624,
+          "end": 1646
+        },
+        {
+          "start": 1624,
+          "end": 1654
+        }
+      ]
+    }
+  ]
+}

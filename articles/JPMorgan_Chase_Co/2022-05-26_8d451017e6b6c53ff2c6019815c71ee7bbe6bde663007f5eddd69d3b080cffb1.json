@@ -1,0 +1,30 @@
+{
+  "_id": "8d451017e6b6c53ff2c6019815c71ee7bbe6bde663007f5eddd69d3b080cffb1",
+  "feed": "reuters",
+  "title": "Credit Committee to meet Friday to discuss potential Russia \"credit event\"",
+  "text": "<p>The EMEA Credit Derivatives Determinations Committee (CDDC) said on its website on Thursday that holders of the 2022 bond had sent a notice through Euroclear, one of the world's biggest settlement systems for stock and bond trades, \"demanding the payment of approximately $1.9 million\".</p><p>They had asked if a \"pay credit event\" occurred on the unpaid accrued interest and the committee later said it had accepted the request.</p><p>The committee will meet on Friday at 1100 UTC to discuss the issue, it said on its website.</p><p>\"The bonds matured on April 4, 2022 but the payment of principal and interest due at maturity was not made until May 2,\" the holder's query added.</p><p>The notice through Euroclear was sent mid-May.</p><p>Russia had paid nearly $650 million, which included the maturing bond, during a grace period, warranting potential interest arrears.</p><p>But default on other debt now looks inevitable according to some investors, after the U.S. Treasury chose this week not to extend a license that had allowed creditors to receive payments from Russia despite financial sanctions.</p><p>There are currently $2.54 billion of net notional credit default swaps (CDS) outstanding in relation to Russia, including $1.68 billion on the country itself and the remainder on the CDX.EM index, according to JPMorgan calculations.</p>",
+  "published": "2022-05-26T14:45:14.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9999999,
+      "offsets": [
+        {
+          "start": 1281,
+          "end": 1289
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000055,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 5.4836273e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

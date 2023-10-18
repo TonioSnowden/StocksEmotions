@@ -1,0 +1,84 @@
+{
+  "_id": "da39844f96657aa3e85db6166476c2d17814304f161404e908ecdb0c1cd7570a",
+  "feed": "economist-blog",
+  "title": "The silicon squeeze; Intel and the $1.5trn chip industry meltdown",
+  "text": "<p>In the spring it was easy to be dreamy about America's chip industry. The pandemic-induced semiconductor crunch had proved just how crucial chips were to modern life. Demand was still rising for all sorts of chip-powered technology, which these days is most of it. Investors were less gloomy on chips than on other tech, which was taking a stockmarket beating. The CHIPS act was making its way through Congress, promising to plough subsidies worth $52bn into the domestic industry, in order to reduce America's reliance on foreign fabs and support projects like Intel's Ohio factory.</p><p>Half a year later the dreams look nightmarish. Demand for silicon appears to be falling as quickly as it had risen during the pandemic. In late September Micron, an Idaho-based maker of memory chips, reported a 20% year-on-year fall in quarterly sales. A week later AMD, a Californian chip designer, slashed its sales estimate for the third quarter by 16%. Within days Bloomberg reported that Intel plans to lay off thousands of staff, following a string of poor results that are likely to continue when it presents its latest quarterly report on October 27th. Since July a basket of America's 30 or so biggest chip firms have cut revenue forecasts for the third quarter from $99bn to $88bn. So far this year more than $1.5trn has been wiped from the combined market value of American-listed semiconductor companies (see chart).</p><p>The chip industry is notoriously cyclical at the best of times: the new capacity built in response to rising demand takes several years to materialise, by which time the demand is no longer white-hot. In America this cycle is now being turbocharged by the government. The chips act, which became law in August to cheers from chip bosses, is stimulating the supply side of the semiconductor business just as the Biden administration is stepping up efforts to stop American-made chips and chipmaking equipment from going to China, dampening demand for American products in the world's biggest semiconductor market.</p><p>Whether or not it makes strategic sense for America to bring more chip production home and to hamstring its geopolitical rival with export bans, the combination of more supply and less demand is a recipe for trouble. And if the American policies speed up China's efforts to “resolutely win the battle in key core technologies”, as President Xi Jinping affirmed in a speech to the Communist Party congress on October 16th, they could give rise to powerful Chinese competitors. Field of dreams? It is enough to keep you awake in terror at night.</p><p>The cyclical slump has so far been felt most acutely in consumer goods. PCs and smartphones account for almost half the $600bn-worth of chips sold annually. Having splurged during the pandemic, inflation-weary shoppers are buying fewer gadgets. Gartner, a research firm, expects smartphone sales to drop by 6% this year and those of pcs by 10%. Firms like Intel, which in February was telling investors it expected PC demand to grow steadily for the next five years, are revising their outlooks as it becomes clear that many covid-era purchases were simply brought forward.</p><p>Many analysts think that other segments could be next. Panic buying amid last year's global chip shortage has left many carmakers and manufacturers of business hardware with inventories overflowing with silicon. New Street Research, a firm of analysts, estimates that between April and June industrial firms' stock of chips was about 40% above the historic level relative to sales. Inventories for pc-makers and car companies are similarly full. Intel and Micron blamed their recent weak results in part on high inventories.</p><p>The supply glut and sputtering demand is already hitting prices. The cost of memory chips is down by two-fifths in the past year, according to Future Horizons, a research firm. The price of logic chips, which process data and are less commoditised than memory chips, is down by 3% in the same period</p><p>Chip buyers will work through their inventories eventually. But after they do, they may buy less than in the past. In August Hewlett Packard Enterprise and Dell, two big hardware makers, hinted that demand from business customers was beginning to soften. Sales of both pcs and smartphones had started to plateau before the pandemic and this trend will probably resume in the coming years. Phonemakers cannot stuff ever more chips onto their devices for ever. For companies such as Qualcomm, which derives half its sales from smartphone chips, and Intel, which gets a similar share from those for pcs, that is a headache.</p><p>The chipmakers' response has been to bet on fast-growing new markets. amd, Intel and Nvidia, another big chip-designer, are battling over the cloud-computing data centres, where chip demand is still increasing. Qualcomm is diversifying into cars. In September the firm's bosses boasted it already had $30bn-worth of orders from carmakers. Intel, meanwhile, is expanding into semiconductors for networking gear and devices for the hyperconnected future of the “internet of things”. It is also getting into the contract-manufacturing business, hoping to win market share from tsmc of Taiwan, the world's biggest chipmaker and contract manufacturer of choice for fabless chip-designers such as amd and Nvidia.</p><p>These efforts, however, are now running into geopolitics. Like their counterparts in China and Europe, politicians in America want to lessen their countries' dependence on foreign chipmakers, in particular tsmc, which manufactures 90% of the world's leading-edge chips. In response, America, China, the eu, Japan, South Korea and Taiwan together plan to subsidise domestic chipmaking to the tune of $85bn annually over the next three years, calculates Mark Lipacis of Jefferies, an investment bank. That would buy a fair bit of extra capacity globally.</p><p>At the same time, prospects for offloading the resulting chips are darkening, especially for American firms, as a result of America's tightening controls on exports to China. Many American firms count the Asian giant, which imported $400bn-worth of semiconductors last year, as their biggest market. Intel's Chinese sales made up $21bn of its overall revenues of $79bn last year. Nvidia said that an earlier round of restrictions, which limited sales of advanced data-centre chips to Chinese customers and to Russia after its invasion of Ukraine, would cost it $400m in third-quarter sales, equivalent to 6% of its total revenues.</p><p>The latest restrictions, which target Chinese supercomputing and artificial-intelligence efforts, are a particular concern for the companies which manufacture chipmaking tools. Three of the world's five biggest such firms—Applied Materials, kla and Lam Research—are American. The share of the trio's sales that go to China has risen fast in the past few years, to about a third. Toshiya Hari of Goldman Sachs, a bank, says that the controls are likely to cost the world's toolmakers $6bn in lost revenues this year, equivalent to 9% of their projected sales. After the new American export controls were unveiled Applied Materials lowered its expected fourth-quarter revenue by 4% to $6.4bn. Its share price has fallen by 13% in the past two weeks. Those of kla and Lam Research have tumbled by a fifth.</p><p>American chip bosses now fear that China could retaliate, further restricting their firms' access to its vast market. It is already redoubling efforts to nurture domestic champions such as smic (in logic chips) and ymtc (in memory), as well as domestic toolmakers, that could one day challenge America's historic silicon supremacy. The result could be a diminished American industry with less global clout and more capacity than it knows what to do with. That is a shaky foundation on which to build America's future.</p><p>■</p>",
+  "published": "2022-10-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 21,
+          "end": 26
+        },
+        {
+          "start": 558,
+          "end": 563
+        },
+        {
+          "start": 562,
+          "end": 567
+        },
+        {
+          "start": 968,
+          "end": 973
+        },
+        {
+          "start": 977,
+          "end": 982
+        },
+        {
+          "start": 2903,
+          "end": 2908
+        },
+        {
+          "start": 2926,
+          "end": 2931
+        },
+        {
+          "start": 3562,
+          "end": 3567
+        },
+        {
+          "start": 3590,
+          "end": 3595
+        },
+        {
+          "start": 4480,
+          "end": 4485
+        },
+        {
+          "start": 4516,
+          "end": 4521
+        },
+        {
+          "start": 4627,
+          "end": 4632
+        },
+        {
+          "start": 4665,
+          "end": 4670
+        },
+        {
+          "start": 4888,
+          "end": 4893
+        },
+        {
+          "start": 4929,
+          "end": 4934
+        },
+        {
+          "start": 6101,
+          "end": 6106
+        },
+        {
+          "start": 6150,
+          "end": 6155
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "94c8c3f43a2bc666b8b9a0a4777e6b597c8a671316166ea23fc5df45e95c152d",
+  "feed": "market-watch",
+  "title": "U.S. stocks end lower as investors weigh Fed minutes, retail sales",
+  "text": "<p>* The Dow Jones Industrial Average DJIA snapped a five-day winning streak, falling 171.69 points, or 0.5%, to end at 33,980.32, after declining 324 points at its session low.</p><p>* The S&amp;P 500 SPX dropped 31.16 points, or 0.7%, to close at 4,274.04</p><p>* The Nasdaq Composite COMP declined 164.43 points, or 1.3%, finishing at 12,938.12.</p><p>On Tuesday, the Dow rose 240 points, or 0.7%, while the S&amp;P 500 advanced 0.2% to close at its highest since late April, while the Nasdaq slipped 0.2%.</p><p>What's driving markets?</p><p>Minutes of the July meeting, at which policy makers delivered a 75 basis point rise, said that Fed officials worried about the \"significant risk\"that elevated inflation could become entrenched if the public began to question the Fed's resolve to hike rates by a sufficient amount to rein in inflation.</p><p>On the other hand, \"many\" Fed officials said they were worried about the risk that the Fed could tighten the stance of monetary policy by more than was necessary, the minutes said.</p><p>\"The minutes to the July FOMC meeting suggest the Fed will remain on a tightening path, but there are signs some officials are getting a little nervous that they could end up going too hard and may need to reverse course eventually,\" said James Knightley, chief international economist at ING, in a note.</p><p>The minutes may not have sounded as dovish as some investors had hoped, said Chris Larkin, managing director of trading at E-Trade from Morgan Stanley, in emailed comments.</p><p>\"Keep in the mind that the minutes are from before July's big payroll beat and data that showed inflation slowed. Data over the next month may determine how long the rally can extend as investors try to get a sense of what the Fed will decide in September,\" Larkin said.</p><p>Ahead of the minutes, the appetite for additional risky bets was seen waning as investors took time out to assess the strong summer surge that powered the stock market to three-month high.</p><p>Hopes that inflation may have peaked and that the Fed thus may be able to avoid delivering a hard economic landing has pushed the S&amp;P 500 up 17.4% from its mid-June low. The benchmark on Tuesday challenged its 200-day moving average for the first time since April, but was unable to overcome it after hitting stiff resistance.</p><p>See: Stock-market rally faces key challenge at S&amp;P 500's 200-day moving average</p><p>Earlier, investors received more clues as to the health of the U.S. consumer. Following better-than-expected results on Tuesday from Walmart WMT and Home Depot HD, it was the turn of retailing peers Target TGT and Lowe's LOW to deliver earnings. Target's numbers disappointed, after higher markdowns led to lower margins, but Lowe's figures were well-received.</p><p>\"In the wake of Walmart and Home Depot, I think Wall Street had much higher expectations for Target,\" Navellier said in an interview.</p><p>A renewed round of meme-stock fever saw shares of retailer Bed Bath &amp; Beyond Inc. BBBY jump by another 27% on Wednesday, continuing a meteoric rally.</p><p>In economic data, U.S. retail sales were unchanged overall in July, though largely due to falling gasoline prices and fewer purchases of new cars and trucks. Economists polled by Dow Jones Newswires and The Wall Street Journal forecasted a 0.1% growth.</p><p>Retail sales minus autos rose 0.4% in July, while retail sales excluding autos and gas climbed 0.7% in July.</p><p>Companies in focus</p><p>* Shares of TJX Companies TJX gained 2.8% Wednesday, after the off-price apparel and home fashions retailer reported fiscal second-quarter profitthat rose above expectations, while same-store sales fell more than forecast as \"historically high inflation\" hurt consumer spending, particularly for home goods.</p><p>* Shares of Blue Water Vaccines Inc. BWV jumped nearly 200% Wednesday after the biopharmaceutical company said it plans to \"explore the potential to develop\" a new monkeypox vaccine.</p><p>* Shares of FuboTV FUBO fell more than 15% on Wednesday, despite the profitability road map laid out by the streaming service at its virtual investor day on Tuesday.</p><p>How are other assets faring</p><p>* Oil futures rose, with the U.S. benchmark ending 1.8% higher at $88.11 a barrel.</p><p>* The 10-year Treasury yield BX:TMUBMUSD10Y rose 6 basis points to 2.882%.</p><p>* The ICE U.S. Dollar index DXY was flat.</p><p>* Bitcoin BTCUSD fell 2.6% to $23,284.</p><p>* Asia markets were broadly firmer after Wall Street moved to a fresh three-month high overnight. Japan's Nikkei 225 JP:NIK added 1.2% and Hong Kong's Hang Seng HK:HSI climbed 0.5%. In Europe the mood was more mixed, reflecting the dip in U.S. futures on Wednesday, and the Stoxx 600 XX:SXXP finished 1% lower.</p><p>— Frances Yue and Jamie Chisholm contributed to this article.</p><p>U.S. stocks end lower as investors weigh Fed minutes, retail sales</p>",
+  "published": "2022-08-17T20:37:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 2452,
+          "end": 2459
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.73509187,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.26490813,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

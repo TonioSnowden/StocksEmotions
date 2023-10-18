@@ -1,0 +1,24 @@
+{
+  "_id": "1ecadf236d0d5d6f847a12d8ab2bf9cfe78456da809c7a6bbcfb59c45c1f995a",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Biden To Increase J&J Dose Supply",
+  "text": "<p>Taking into account commitments by Pfizer Inc. and Moderna Inc. to provide 600 million doses of their two-shot vaccines, the U.S. is expected to have more than enough supply by the end of May to vaccinate the eligible U.S. population, Mr. Biden said.</p><p>\"We need maximum flexibility. There's always a chance we'll encounter unexpected challenges,\" Mr. Biden said of his additional intended purchases on Wednesday, following a meeting at the White House with J&amp;J Chief Executive Alex Gorsky and Merck &amp; Co. Inc. CEO Kenneth Frazier.</p>",
+  "published": "2021-03-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 29,
+          "end": 32
+        },
+        {
+          "start": 455,
+          "end": 458
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

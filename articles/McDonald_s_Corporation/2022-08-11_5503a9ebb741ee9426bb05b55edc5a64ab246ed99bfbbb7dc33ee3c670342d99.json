@@ -1,0 +1,46 @@
+{
+  "_id": "5503a9ebb741ee9426bb05b55edc5a64ab246ed99bfbbb7dc33ee3c670342d99",
+  "feed": "wall-street-journal",
+  "title": "McDonald's to Reopen Some Restaurants in Ukraine; Fast-food chain had closed its operations in the country in February after Russia's invasion",
+  "text": "<p>Mr. Pomroy said the company will be working on getting the locations ready for reopening over the next few months. He didn't say how many of the more than 100 stores it owns and operates in Ukraine would reopen or provide a specific timeline.</p><p>Ukrainian officials have said that businesses resuming operations in the country will support both Ukrainians and the economy, Mr. Pomroy said.</p><p>The capital city of Kyiv has somewhat returned to normal months after the invasion began, as the front lines of the conflict have been pushed farther away. The main effort in the war has been taking place in the Donbas area in eastern Ukraine. The only regional capital in Ukraine that Russia has captured since Russian President Vladimir Putin ordered the invasion has been Kherson, which is in the southern part of the country.</p><p>After Russia launched its invasion in February, international companies began putting contingency plans into place—shutting down offices and factories—as the rail network and ports closed. McDonald's closed its corporate offices and the restaurants in Ukraine that it owns and operates. More than 10,000 people work for McDonald's in Ukraine, and the company said it continued to pay those employees while operations were suspended.</p><p>The fast-food chain closed its more than 800 restaurants in Russia in March, in a move that weighed on the company's bottom line. McDonald's was among companies that stopped operations in Russia amid the war. It later sold its business there.</p><p>Last year, operations in Russia and Ukraine comprised about 9% of revenue at McDonald's because of how many of those restaurants the company itself owns.</p><p>Write to Allison Prang at allison.prang@wsj.com</p><p>McDonald's to Reopen Some Restaurants in Ukraine</p>",
+  "published": "2022-08-11T15:14:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 999,
+          "end": 1009
+        },
+        {
+          "start": 1129,
+          "end": 1139
+        },
+        {
+          "start": 1370,
+          "end": 1380
+        },
+        {
+          "start": 1558,
+          "end": 1568
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

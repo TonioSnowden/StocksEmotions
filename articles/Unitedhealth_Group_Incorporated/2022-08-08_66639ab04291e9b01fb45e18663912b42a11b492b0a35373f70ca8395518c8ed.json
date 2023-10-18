@@ -1,0 +1,34 @@
+{
+  "_id": "66639ab04291e9b01fb45e18663912b42a11b492b0a35373f70ca8395518c8ed",
+  "feed": "wall-street-journal",
+  "title": "CVS Planning a Bid For Signify Health",
+  "text": "<p>There is no guarantee any of them will reach a deal for Signify, which has a market value of around $4.7 billion after its shares rose on the news of a potential sale.</p><p>For Woonsocket, R.I.-based CVS, which has a market value of $134 billion, a deal would help fulfill its stated ambition to become an even bigger provider of medical services. The company has indicated it hopes to have a deal in place to help it do so by year-end. Wall Street has largely focused on CVS's efforts to add primary-care practices and doctors to its payroll, though executives have also discussed their ambitions to expand its in-home health presence.</p><p>CVS, parent of the eponymous drugstores and the Aetna health-insurance operation, had eyed a deal for the parent of One Medical, people familiar with the matter said, before Amazon.com Inc. agreed to buy the operator of primary-care clinics for about $3.9 billion last month. That deal will give Amazon access to a practice that operates more than 180 medical offices in 25 U.S. markets and works with more than 8,000 companies to provide health benefits to employees, including with in-person and virtual care.</p><p>Signify uses analytics and technology to help health plans, employers, physician groups and health systems with in-home care. It also offers in-home health evaluations for Medicare Advantage and other government-run managed-care plans. At the close of its deal this year to buy Caravan Health Inc., Signify said it supported roughly $10 billion in total medical spending.</p><p>Signify went public in February 2021 at $24 a share, and its stock closed up nearly 32% on its first trading day. Since then, the shares have fallen below their offering price, closing Friday at $19.87 each. In July, the company said it planned to wind down one of its units after changes to a government-payment model and focus on more-profitable businesses.</p><p>New York-based private-equity firm New Mountain Capital is an investor in Signify after first backing it in 2017. The firm is well-versed in the sector, having sold healthcare payments firm Equian LLC to UnitedHealth Group Inc. for about $3.2 billion in 2019.</p><p>Technology and retail giants are keen to make inroads into the nation's $4 trillion healthcare economy, helping fuel growth of medical care outside of hospitals, as patients now more regularly seek care in more convenient and lower-cost settings. Demand for so-called telehealth services during the Covid-19 pandemic increased the use of virtual care.</p><p>Yet the healthcare industry, governed by myriad state and federal regulations and an array of companies and providers, has proved difficult to disrupt. A health-care joint venture set up by Amazon, Berkshire Hathaway Inc. and JPMorgan Chase &amp; Co. called Haven, fizzled after three years The three companies spent roughly $100 million but struggled to manage fundamental issues related to the cost of healthcare, data and staff turnover.</p><p>Last week, CVS raised its outlook for the year after reporting an 11% increase in second-quarter sales, buoyed by growth across its health platforms.</p>",
+  "published": "2022-08-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2080,
+          "end": 2103
+        },
+        {
+          "start": 2067,
+          "end": 2089
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.805,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "ba01e453630826b397be0108fef95394b627bff206762a15c1279e8456ffe74a",
+  "feed": "wall-street-journal",
+  "title": "REVIEW & OUTLOOK (Editorial):  Newsom Taunts Texas on Guns",
+  "text": "<p>   California Gov. Gavin Newsom must not have enough to do because he is spending much of his time trolling Republicans in other states. First it was Florida on Disney, and now it's Texas, with a new law modeled on the Lone Star State's abortion law that charges private citizens with enforcing a state ban on so-called assault weapons. Mr. Newsom's gambit could do broader harm, as the American Civil Liberties Union warns. </p><p>   Democrats in Sacramento last month enacted legislation creating a private right of action to sue gun makers and distributors for imported firearms that violate the state's gun laws. California law prohibits more than 50 models of semiautomatic rifles, pistols and shotguns that Democrats call assault weapons though many are in common use. </p><p>   Gun businesses can be sued repeatedly for illegal firearms imported into the state whether or not they knowingly helped someone break a law. Plaintiffs who prevail are entitled to at least $10,000 in damages plus attorneys fees. The law is modeled on Texas's SB8 law, which established a similar litigation scheme to enforce a ban on abortions after six weeks. </p><p>   When SB8 passed last summer, Texas's ban violated the Court's Roe precedent. But since state officials were prohibited from enforcing the ban, abortion providers couldn't seek an injunction in federal court, which can only enjoin individuals tasked with enforcing laws, not the laws themselves. Yet courts also can't enjoin private citizens who haven't sued. </p><p>   We criticized Texas's law but explained that the way to challenge it was for a doctor to perform an abortion, get sued and invoke Roe as a defense. An 8-1 High Court majority gave abortion providers another option last December by holding that they could sue executive licensing officials who take actions against them for violating the state's health code. </p><p>   The Court never ruled on SB8's constitutionality or reached the merits. But Mr. Newsom seems to believe the Court upheld the law and claims he will show Justices to be \"complete and abject hypocrites and frauds if they reject our bill that's modeled after that abortion bill as it relates to private right of action, to go after assault weapons.\" </p><p>   Our guess is that the Justices would likewise decline a petition by gun businesses to pre-emptively enjoin California's assault weapons ban as they did SB8. But they may take the case on the merits down the road. </p><p>   California's gun law raises even more serious due process concerns than SB8 because it also prohibits gun businesses that get sued from asserting the Second Amendment right of individuals in self-defense. Abortion providers weren't similarly impeded in Texas. </p><p>   The ACLU warned California Democrats that the gun law \"would set a dangerous legal precedent -- not only undermining fundamental principles of due process, but eliminating the judiciary as a check and balance against the political branches.\" Other states could follow with similar laws that chill constitutionally protected rights. </p><p>   Illinois could charge private citizens with enforcing state restrictions on corporate political expenditures. Florida could tweak its law cracking down on Big Tech censorship -- which the Eleventh Circuit Court of Appeals blocked on First Amendment grounds -- to mirror the California and Texas litigation schemes. </p><p>   One misconceived state law doesn't justify another. Americans won't benefit from an internecine state war to erode their constitutional rights and principles. </p><p></p>",
+  "published": "2022-08-12T06:09:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 158,
+          "end": 164
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.341591,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.341591,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "1a27758c4451d90a3127f3408b9fe2dba27c749862a6a9ba0900f7d6d41bc9b6",
+  "feed": "wall-street-journal",
+  "title": "Business News: Apple Urges Its Suppliers To Reduce Emissions",
+  "text": "<p>As of April, close to 30% of Apple's suppliers, as measured by the company's direct spending on manufacturing, haven't committed to using 100% renewable energy in the production of the company's goods. In 2020, Apple set a goal to reach carbon neutrality across its entire business by 2030, aiming to cut emissions by 75% and develop carbon-removal projects for the remaining 25% of its footprint.</p><p>The gap underscores the challenge large companies face in getting their supply chains in line with their climate-change goals. Scope 3 emissions, which cover suppliers and the use of a company's products, often account for the overwhelming bulk of a company's carbon footprint.</p><p>A big problem facing companies like Apple with global supply chains is that their suppliers are largely dependent on countrywide sustainability goals, said Alexis Normand, chief executive at carbon-accounting firm Greenly. For instance, he said most energy available to Apple's Chinese suppliers comes from coal.</p><p>\"The truth is, no company or their suppliers are on track to reducing all three scopes of emissions,\" Mr. Normand said. \"This isn't to say that companies aren't working hard to monitor or reduce their emissions, but more so that the current environmental circumstances require efforts most companies cannot humanly meet.\"</p><p>Still, Apple said that more than 200 suppliers have said they would power all Apple-related production with 100% renewable energy by 2030 or sooner. Among the suppliers to make the commitment is Taiwan-based Foxconn Technology Group, which is the biggest assembler of iPhones and has operations in China, India and other regions. Others include Corning Inc., Nitto Denko Corp., STMicroelectronics NV and Taiwan Semiconductor Manufacturing Co.</p><p>\"Apple will partner with suppliers that are working with urgency and making measurable progress toward decarbonization,\" Apple said.</p><p>Apple's Scope 3 emissions stood at around 23.1 million metric tons of carbon-dioxide equivalent in 2021, declining from around 27.3 million in 2017, according to Apple's 2022 environmental progress report. In 2021, the company's Scope 3 emissions accounted for more than 99% of its carbon footprint.</p><p>Since many of the lagging suppliers are likely in emerging markets where there is a lack of access to renewable energy or affordable contracts, companies with sprawling supply chains like Apple need to encourage collaboration, said Lindsay Azim, senior principal analyst at Gartner Inc.'s supply chain practice.</p><p>\"Engaging low-maturity suppliers requires close partnership and collaboration, all while supply-chain organizations grapple with conflicting priorities such as supply disruption and inflation,\" she said.</p>",
+  "published": "2022-10-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1755,
+          "end": 1760
+        },
+        {
+          "start": 2375,
+          "end": 2380
+        },
+        {
+          "start": 1318,
+          "end": 1323
+        },
+        {
+          "start": 15,
+          "end": 20
+        },
+        {
+          "start": 946,
+          "end": 951
+        },
+        {
+          "start": 1875,
+          "end": 1880
+        },
+        {
+          "start": 712,
+          "end": 717
+        },
+        {
+          "start": 211,
+          "end": 216
+        },
+        {
+          "start": 2049,
+          "end": 2054
+        },
+        {
+          "start": 29,
+          "end": 34
+        },
+        {
+          "start": 1887,
+          "end": 1892
+        },
+        {
+          "start": 1389,
+          "end": 1394
+        }
+      ]
+    }
+  ]
+}

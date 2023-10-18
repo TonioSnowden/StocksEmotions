@@ -1,0 +1,20 @@
+{
+  "_id": "3a90b9aecaa2293cdf7d0633c4041383d7a6e809c40921923fa107cdb71f45b5",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>China imposed a fine equivalent to $2.8 billion against Alibaba for abusing its dominant position over rivals and merchants on its e-commerce platforms.</p><p>---</p><p>U.S. airlines removed dozens of newly built 737 MAX jets from service after Boeing flagged a potential electrical problem.</p><p>---</p><p>Saudi Arabia's Aramco said it struck a $12.4 billion deal to sell a 49% stake in a newly formed oil pipeline business to an international consortium.</p><p>---</p><p>The Dow and S&amp;P 500 rose 0.9% and 0.8%, respectively, to close at records, while the Nasdaq added 0.5%. All three indexes posted gains for the week.</p><p>---</p><p>McDonald's is closing hundreds of restaurants located in Walmart stores.</p>",
+  "published": "2021-04-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 648,
+          "end": 655
+        }
+      ]
+    }
+  ]
+}

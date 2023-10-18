@@ -1,0 +1,32 @@
+{
+  "_id": "92b9fa1579d114ff985d8cb43ae4fbec9f4f590c3c92f51b04045621e0611ca8",
+  "feed": "wall-street-journal",
+  "title": "Twitter's Advertising Truth Hurts",
+  "text": "<p>Mr. Musk's vague tweets on the subject have Twitter watchers in a tither as he now airs Twitter's dirty laundry with tweets about the platform's dire circumstances -- like that it was losing \"$4M/day\" at some ambiguous point in time before his staff cuts -- without much in the way of hard data. On Nov. 28, he tweeted that Apple Inc. had \"mostly stopped advertising on Twitter.\"</p><p>If you believe all press is good press, the drama may at least have brought more eyes to the platform, as Mr. Musk has reported. Indeed there is evidence to show people will follow controversy, whether they enjoy it or not.</p><p>Danah Boyd, partner researcher at Microsoft Research, spent years studying the failure of old-school social platforms Myspace and Friendster in the 2000s. She found that users will generally follow what she calls \"emotionally sticky nodes\" wherever they go. Some people go to social media to connect with friends, but many are there because they can't quit the horror show. Mr. Musk \"appears convinced that capitalistic interests will win out,\" she wrote in a recent blog post, noting that the advertising community always seems to come back when users linger.</p><p>But first, Twitter must endure. Cue Mr. Musk's latest tweets suggesting things are improving. He regularly writes that Twitter is seeing record usage. And a week ago, Mr. Musk even thanked advertisers for returning.</p><p>In a recent Twitter Spaces conversation, Mr. Musk said Apple had \"fully resumed\" advertising, but it wasn't clear whether they ever fully stopped. Despite reports to the contrary, several outlets including Platformer and Bloomberg are now reporting that Amazon.com may have paused some campaigns recently but never fully stopped advertising, either.</p><p>A recent Wall Street Journal report suggested Twitter is essentially offering its ads at half price this month, matching up to $1 million for advertisers who book at least $500 million in incremental spending. For some context, Meta Platforms saw its ad prices fall just 18% last quarter from a year earlier.</p><p>Earlier this month, the New York Times reported that as of October, Twitter's roster of advertisers had fallen nearly 42% since May. Similarweb's data paint an even worse picture: Activity on Twitter's ad manager declined nearly 74% in October from a year earlier, according to the firm's data. In November, visits fell 85% on the same basis -- the largest ad traffic decline since Twitter's change of hands.</p><p>Worryingly, even Twitter's aggressive incentives might not be helping. Similarweb's latest data show that for the first few days of December, the platform's ad manager domain traffic trends have continued to decline, with traffic volume now so low it doesn't even meet the firm's threshold necessary to track and measure it. A Twitter representative couldn't be reached for comment.</p><p>Mr. Musk's show may be entertaining, but someone still has to pay for the production.</p>",
+  "published": "2022-12-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1436,
+          "end": 1441
+        },
+        {
+          "start": 324,
+          "end": 334
+        },
+        {
+          "start": 324,
+          "end": 333
+        },
+        {
+          "start": 324,
+          "end": 329
+        }
+      ]
+    }
+  ]
+}

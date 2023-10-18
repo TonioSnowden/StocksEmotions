@@ -1,0 +1,41 @@
+{
+  "_id": "e0be4a955e856d622cef8a4d2eb539774fcc78fcd3f7ef532b6e3eeb8f26b296",
+  "feed": "reuters",
+  "title": "UPDATE 3-Spirit Aero revenue halves, flies into loss as Boeing troubles weigh",
+  "text": "<p>Spirit gets a big chunk of its revenue from Boeing Co , which was forced to cut back production due to the grounding of its 737 MAX jet and a slump in air travel due to the pandemic.</p><p>The MAX was finally cleared late last year to fly after being grounded for nearly two years and Spirit hopes to benefit from a ramp-up in production at the planemaker.</p><p>Shares of Spirit were down 3% in early morning trading as the company also reported a fall in fourth-quarter shipments to its other major customer, Airbus .</p><p>\"2020 was one of the most challenging years in aviation history. For Spirit, the 737 MAX grounding and the COVID-19 pandemic created a dual-crisis,\" Spirit Chief Executive Officer Tom Gentile said.</p><p>Spirit's total deliveries of shipsets, or complete sets of parts, fell 48.9% to 231 units in the fourth quarter. Boeing 737 MAX deliveries fell to 19 shipsets from 153 a year earlier.</p><p>Airbus last week forecast flat deliveries in 2021 as it braces for more coronavirus-induced uncertainty in the wake of an annual loss. Boeing has yet to set out detailed targets.</p><p>Spirit posted a loss of $295.9 million, or $2.85 per share, in the quarter ended Dec. 31, compared with a profit of $67.7 million, or 65 cents per share, a year earlier.</p><p>On an adjusted basis, the company lost $1.31 per share. Analysts had expected the company to report a loss of 85 cents per share, according to Refinitiv IBES data.</p><p>Total revenue slumped 55.3% to $876.6 million.</p>",
+  "published": "2021-02-23T14:58:33.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 44,
+          "end": 53
+        },
+        {
+          "start": 56,
+          "end": 62
+        },
+        {
+          "start": 819,
+          "end": 825
+        },
+        {
+          "start": 1025,
+          "end": 1031
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.783482,
+        "baseWeight": 4.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.78348196,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

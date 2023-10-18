@@ -1,0 +1,60 @@
+{
+  "_id": "34c6b1ac5875302d7a3d985050fb0dca59524e33dfe48b35fcc3cfa4f7d3fd61",
+  "feed": "market-watch",
+  "title": "Visa says it will move ‘brains' of payment tech to the cloud in move to boost acceptance",
+  "text": "<p>The company is broadly launching a platform that moves the “brains” of payment-processing software to the cloud, Visa V exclusively told MarketWatch. Whereas payment software typically has been embedded in hardware devices, the new program will create a cloud-based alternative that Visa says will allow more devices to accept card-based payments.</p><p>Embedded payment software has helped drive a variety of new financial experiences, but it also has drawbacks, according to Mary Kay Bowman, Visa's global head of payment and platform products. Devices housing embedded software need specialized components, and the process of manually delivering software updates can be cumbersome, she said, since it requires going into each device.</p><p>The new Visa Acceptance Cloud, which the company plans to announce later Thursday, could give businesses and other parties more incentive to equip devices with payment technology, Bowman continued. Businesses or cities may have been reluctant to pack parking meters with smart payment capabilities because it was too expensive to stick specialized hardware in each one and manually run software updates, but she thinks that a cloud-based option will hold appeal as it could run on cheaper hardware and deliver automatic updates.</p><p>The move could also offer accessibility advantages, in Bowman's view. Instead of paying thousands of dollars for dedicated point-of-sale hardware, businesses could opt to use lower-cost equipment that leverages Visa's cloud technology. The company is opening the platform to developers who can build solutions tailored to different industries and business needs.</p><p>Visa has run pilots of the program since early 2020, but now it is making the platform available for all partners globally. The platform includes functions around security and interoperability, areas of payments that “people don't even know exist because they sit underneath the waterline of the iceberg,” though they're critical for making transactions run smoothly, Bowman said.</p><p>The program takes advantage of learnings from Visa's existing Tap to Phone initiative, which lets sole proprietors and other small-business owners turn Android phones into payment-acceptance devices by leveraging near-field communication technologies.</p><p>The broader cloud platform, however, offers the opportunity to “[take] payment responsibilities off the owner's phone” so that business owners don't have to pass their personal phones to employees when those staffers are conducting sales. Rather, business owners can opt to run payments on a piece of centralized, cheap hardware that's available to all employees.</p><p>There are “lots of headwinds against” micro, small, and medium-sized businesses, Bowman said, but the goal of Visa's program is to make it “easier and less expensive to accept payments and easier to keep those solutions upgraded over time.”</p><p>While a variety of companies already offer hardware and software aimed at small businesses, Bowman argued that Visa's cloud platform could be a tool that allows these targeted players to leverage Visa's payments expertise and rely on less expensive hardware for future iterations of card readers.</p><p>“Innovators who are not 30-year experts in payment-hardware technology don't need to be,” she said. “They can innovate on what is best for restaurants.”</p><p>Bowman also saw ways for the platform to enable more futuristic payments experiences, giving the example of a retailer that might want to debut smart mirrors in its stores. Cloud-based payments software will become more “accessible” to developers looking to build these sorts of experiences, she said, which could eventually lead to a world in which customers can try on clothing, pay for the items on the dressing-room mirror, and leave the store while wearing the new outfit.</p>",
+  "published": "2022-01-13T09:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 113,
+          "end": 117
+        },
+        {
+          "start": 283,
+          "end": 287
+        },
+        {
+          "start": 1471,
+          "end": 1475
+        },
+        {
+          "start": 0,
+          "end": 4
+        },
+        {
+          "start": 3057,
+          "end": 3061
+        },
+        {
+          "start": 488,
+          "end": 492
+        },
+        {
+          "start": 739,
+          "end": 743
+        },
+        {
+          "start": 1623,
+          "end": 1627
+        },
+        {
+          "start": 2972,
+          "end": 2976
+        },
+        {
+          "start": 2050,
+          "end": 2054
+        },
+        {
+          "start": 2730,
+          "end": 2734
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

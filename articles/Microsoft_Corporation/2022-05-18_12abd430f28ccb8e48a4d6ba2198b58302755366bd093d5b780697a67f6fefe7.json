@@ -1,0 +1,72 @@
+{
+  "_id": "12abd430f28ccb8e48a4d6ba2198b58302755366bd093d5b780697a67f6fefe7",
+  "feed": "ftcomall",
+  "title": "Microsoft relaxes cloud terms to avoid full EU antitrust probe",
+  "text": "<p>Microsoft is relaxing business terms for its cloud computing service in an attempt to appease complaints from rivals and avoid a full antitrust probe in Brussels.</p> <p>The move follows concerns from rival cloud providers that Microsoft is using anti-competitive practices to draw customers to its Azure cloud computing platform and <a href=\"https://www.ft.com/content/350e7fed-cd52-4a0a-9902-5f2d9ebc3fe7\">away from competitors</a>.</p> <p>Margrethe Vestager, the EU's executive vice-president in charge of competition and digital policy, confirmed last month that Brussels was “actively following up” on a complaint about Microsoft's cloud service practises.</p> <p>On Wednesday, Microsoft president Brad Smith said the tech giant was taking steps that were “very broad but not exhaustive” as he sought to address concerns from regulators and competitors.</p> <p>Smith said the changes being introduced were “grounded in feedback” he had received from multiple cloud providers across Europe.</p> <p>In a blog post, he wrote: “Some of the most compelling feedback for me personally came from a CEO who said that he felt that he ‘was a victim of friendly fire in Microsoft's competition with Amazon'. It was hard to hear this — but he was right.”</p> <p>Microsoft's latest move is a marked contrast to the aggressive stance the company took when it faced competition complaints more than two decades ago.</p> <p>Asked if he was scarred from antitrust probes of previous years, Smith said: “Yes, but stronger because of it or at least better because of it.” He added that “your scars make you older and wiser”.<br><br>At the heart of rivals' concerns was a change to Microsoft's licensing terms made in October 2019. The change affected the way the company charges for products such as Office when they are running in the data centres of Amazon Web Services, Google and Alibaba, so-called hyperscale cloud services that compete with Azure.</p> <p>Under the new terms, customers will not be forced to buy an additional licence if they have already purchased Microsoft's cloud services. These new rules only apply if the services are moved to a European cloud provider and not to US rivals such as AWS and Google's cloud services.</p> <p>Smith said that in its fight against AWS, which dominates the cloud market, Microsoft had overlooked the effects some of its business terms were having on its cloud provider clients.</p><p>Source: Javier Espinoza in Brussels 2022 'Microsoft relaxes cloud terms to avoid full EU antitrust probe' FT.com 18 May. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-05-18T11:45:45.462Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 221,
+          "end": 230
+        },
+        {
+          "start": 533,
+          "end": 544
+        },
+        {
+          "start": 2164,
+          "end": 2173
+        },
+        {
+          "start": 1916,
+          "end": 1927
+        },
+        {
+          "start": 1051,
+          "end": 1060
+        },
+        {
+          "start": 1916,
+          "end": 1925
+        },
+        {
+          "start": 1135,
+          "end": 1144
+        },
+        {
+          "start": 533,
+          "end": 542
+        },
+        {
+          "start": 584,
+          "end": 593
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 1135,
+          "end": 1146
+        },
+        {
+          "start": 1533,
+          "end": 1542
+        },
+        {
+          "start": 1051,
+          "end": 1062
+        },
+        {
+          "start": 1533,
+          "end": 1544
+        }
+      ]
+    }
+  ]
+}

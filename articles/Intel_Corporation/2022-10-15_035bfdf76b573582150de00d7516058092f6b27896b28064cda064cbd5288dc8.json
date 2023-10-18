@@ -1,0 +1,20 @@
+{
+  "_id": "035bfdf76b573582150de00d7516058092f6b27896b28064cda064cbd5288dc8",
+  "feed": "economist-newspaper",
+  "title": "Tech geopolitics: No more Mr Nice Guy",
+  "text": "<p>The share prices of affected Chinese firms have sunk (see chart). China's biggest producer of memory chips, the state-owned YMTC, has 60 days to allow American officials to inspect its operations for compliance. American companies that sell advanced semiconductor technology to China have also been hit, even as they reel from a deep cyclical slump in demand for their wares. This week it emerged that Intel, America's chipmaking champion with Chinese sales of $21bn last year, is about to axe thousands of jobs.</p><p>America has previously used similar rules to kneecap Huawei, China's telecoms-gear giant. Jake Sullivan, Mr Biden's national security adviser, boasted recently that export controls have forced Russia to \"use chips from dishwashers in its military equipment\", which will \"over time degrade [its] battlefield capabilities\". In the case of China, America's goal is likewise no longer just to stay ahead of its rival in the tech race but to \"put the high-end Chinese chip-design industry out of business\", says Greg Allen, a former defence-department official who has studied the new rules.</p><p>Whether America gets its way depends on several factors. There are \"real questions\" about the rules' legality, says Peter Lichtenbaum of Covington &amp; Burling, a law firm in Washington. He expects someone to test the restrictions in court. Donald Trump's administration was successfully sued over an executive order banning TikTok. Even legal export controls are leaky. Plugging the leaks requires more resources for the enforcers at the Commerce Department. \"Their to-do list has exploded,\" says Mr Allen. \"Their budget has not.\"</p><p>And China imports $400bn-worth of chips a year, more than any other country. Though private companies and allied countries might be happy to go along with the Americans now, the amount of money being left on the table by not selling to Chinese customers may start to rankle.</p>",
+  "published": "2022-10-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 402,
+          "end": 407
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

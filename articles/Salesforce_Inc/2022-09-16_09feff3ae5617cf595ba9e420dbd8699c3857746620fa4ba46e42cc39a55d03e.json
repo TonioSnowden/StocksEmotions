@@ -1,0 +1,24 @@
+{
+  "_id": "09feff3ae5617cf595ba9e420dbd8699c3857746620fa4ba46e42cc39a55d03e",
+  "feed": "market-watch",
+  "title": "Uber says it's investigating 'cybersecurity incident'",
+  "text": "<p>An Uber spokesperson told the Times that an employee's Slack account had been compromised, leading to the hacker accessing other internal systems. Slack is owned by Salesforce.com Inc. CRM.</p><p>It was unclear exactly what kind of data was exposed, or how many people — if any — were affected.</p><p>\"We are currently responding to a cybersecurity incident. We are in touch with law enforcement and will post additional updates here as they become available,\" Uber said in a tweet Thursday night, and repeated when asked for comment by MarketWatch.</p><p>In 2017, it was revealed that Uber paid a $100,000 ransom to hackers to keep a 2016 data breach quiet. That breach reportedly exposed names, email addresses and phone numbers for 50 million riders and information from 7 million drivers.</p><p>Uber shares UBER have rallied 62% over the past three months, but are still down 21% year to date, compared to the S&amp;P 500's SPX 6% gain over the past three months and 18% decline this year.</p><p>Updated to correct Slack's owner.</p><p>Uber says it's investigating 'cybersecurity incident'</p>",
+  "published": "2022-09-16T11:38:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 165,
+          "end": 179
+        },
+        {
+          "start": 165,
+          "end": 188
+        }
+      ]
+    }
+  ]
+}

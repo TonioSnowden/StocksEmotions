@@ -1,0 +1,72 @@
+{
+  "_id": "73fc33c53b468083a816e65712b43f702e857433a95a45e6102242ea3a366d3e",
+  "feed": "ftcomall",
+  "title": "Apple plans to scan US iPhones for child abuse imagery",
+  "text": "<p>Apple intends to install software on American iPhones to scan for child abuse imagery, according to people briefed on its plans, raising alarm among security researchers who warn that it could open the door to surveillance of millions of people's personal devices.</p> <p>Apple detailed its proposed system — known as “neuralMatch” — to some US academics earlier this week, according to two security researchers briefed on the virtual meeting. </p> <p>The automated system would proactively alert a team of human reviewers if it believes illegal imagery is detected, who would then contact law enforcement if the material can be verified. The scheme will initially roll out only in the US. </p> <p>Apple confirmed its plans in a blog post, saying the scanning technology is part of a new suite of child protection systems that would “evolve and expand over time”. The features will be rolled out as part of iOS 15, expected to be released next month. </p> <p>“This innovative new technology allows Apple to provide valuable and actionable information to the National Center for Missing and Exploited Children and law enforcement regarding the proliferation of known CSAM [child sexual abuse material],” the company said. </p> <p>“And it does so while providing significant privacy benefits over existing techniques since Apple only learns about users' photos if they have a collection of known CSAM in their iCloud Photos account.”</p> <p>The proposals are Apple's attempt to find a compromise between its own promise to protect customers' privacy and demands from governments, law enforcement agencies and child safety campaigners for more assistance in criminal investigations, including terrorism and child pornography. </p> <p>The tension between tech companies such as Apple and Facebook, which have defended their increasing use of encryption in their products and services, and law enforcement has only intensified since the iPhone maker went to court with the FBI in 2016 over access to a terror suspect's iPhone following a shooting in San Bernardino, California. </p> <p>Security researchers, while supportive of efforts to combat child abuse, are concerned that Apple risks enabling governments around the world to seek access to their citizens' personal data, potentially far beyond its original intent. </p> <p>“It is an absolutely appalling idea, because it is going to lead to distributed bulk surveillance of . . . our phones and laptops,” said Ross Anderson, professor of security engineering at the University of Cambridge.</p> <p>Although the system is currently trained to spot child sex abuse, it could be adapted to scan for any other targeted imagery and text, for instance, terror beheadings or anti-government signs at protests, say researchers. Apple's precedent could also increase pressure on other tech companies to use similar techniques. </p> <p>“This will break the dam — governments will demand it from everyone,” said Matthew Green, a security professor at Johns Hopkins University, who is believed to be the first researcher to <a href=\"https://twitter.com/matthew_d_green/status/1423110719533371393\">post a tweet</a> about the issue. </p> <p>Alec Muffett, a security researcher and privacy campaigner who formerly worked at Facebook and Deliveroo, said Apple's move was “tectonic” and a “huge and regressive step for individual privacy”. </p> <p>“Apple are walking back privacy to enable <em>1984</em>,” he said. </p> <p>Cloud-based photo storage systems and social networking sites already scan for child abuse imagery, but that process becomes more complex when trying to access data stored on a personal device. </p> <p>Apple's system is less invasive in that the screening is done on the phone, and “only if there is a match is notification sent back to those searching”, said Alan Woodward, a computer security professor at the University of Surrey. “This decentralised approach is about the best approach you could adopt if you do go down this route.”</p> <p>Apple's neuralMatch algorithm will continuously scan photos that are stored on a US user's iPhone and have also been uploaded to its iCloud back-up system. Users' photos, converted into a string of numbers through a process known as “hashing”, will be compared with those on a database of known images of child sexual abuse. </p> <p>The system has been trained on 200,000 sex abuse images collected by the NCMEC. </p> <p>According to people briefed on the plans, every photo uploaded to iCloud in the US will be given a “safety voucher” saying whether it is suspect or not. Once a certain number of photos are marked as suspect, Apple will enable all the suspect photos to be decrypted and, if apparently illegal, passed on to the relevant authorities.</p><p>Source: Madhumita Murgia and Tim Bradshaw in London 2021 'Apple plans to scan US iPhones for child abuse imagery' FT.com 5 August. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-08-05T20:23:40.451Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 4404,
+          "end": 4409
+        },
+        {
+          "start": 1282,
+          "end": 1287
+        },
+        {
+          "start": 2694,
+          "end": 2699
+        },
+        {
+          "start": 1720,
+          "end": 1725
+        },
+        {
+          "start": 967,
+          "end": 972
+        },
+        {
+          "start": 2111,
+          "end": 2116
+        },
+        {
+          "start": 1411,
+          "end": 1416
+        },
+        {
+          "start": 3204,
+          "end": 3210
+        },
+        {
+          "start": 675,
+          "end": 680
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 265,
+          "end": 270
+        },
+        {
+          "start": 3456,
+          "end": 3461
+        },
+        {
+          "start": 3119,
+          "end": 3124
+        },
+        {
+          "start": 3791,
+          "end": 3796
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

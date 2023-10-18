@@ -1,0 +1,34 @@
+{
+  "_id": "388f8b3a05107bfdf5bffe2dd5298826c8f77f7ebb08dc815f0ba6e46e3f6529",
+  "feed": "wall-street-journal",
+  "title": "The Gensler Bid to Control Trading; Two new proposals would reduce market liquidity with little benefit to investors.",
+  "text": "<p>That dollar threshold may sound high, but it's low enough to ensnare many non-dealers such as hedge funds that trade stocks and bonds in large volumes despite having no brokerage customers. Industry groups worry that the rule could apply to nonfinancial companies such as Apple that trade actively to maximize returns on their reserves.</p><p>Traders could be slapped with the new label if they regularly buy and sell within a short span, or routinely position themselves at both the best buy and sell price for a given security. And a parallel SEC proposed rule would expand the definition of a market dealer based on trading volume. Any trader with a recurring, monthly volume of more than $25 billion in bonds would be classified as a dealer. In essence the SEC is giving all large traders two options—submit to more oversight or curb your trading.</p><p>Becoming a dealer isn't a change in name only. Once a firm is classified as a dealer, it could lose its right to preferential treatment by actual dealers, which are ordinarily bound to seek the best price for clients and hold their securities in segregated accounts. The SEC estimates that registering as a dealer costs firms $600,000 each in the first year, and about $265,000 in dues and compliance costs each year.</p><p>The timing of the provision couldn't be worse. The market value of U.S. Treasurys took one of its sharpest ever short-term dives this year, falling by more than 5% from February to June. Rising interest rates may depress bond prices. The SEC's proposal could squeeze out large traders and make it more difficult for Washington to find borrowers for Treasurys.</p><p>The need for this new regulation isn't clear. The SEC claims that enrolling more firms as dealers would help it better trace and understand market shocks, because registered firms are required to report trades more rigorously. It also says the rules would blunt volatility by subjecting more firms to dealers' market-maintenance requirements. Yet these requirements currently apply only to \"primary dealers\"—those that partner with the Federal Reserve to buy Treasurys on first offer.</p><p>U.S. markets have on all the evidence been working well despite sharp monetary policy changes. The real purpose here seems to be the one that's animated Mr. Gensler's SEC tenure thus far: bringing as much financial activity as possible under his agency's scope.</p><p>The Gensler Bid to Control Trading</p>",
+  "published": "2022-08-21T21:13:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 271,
+          "end": 276
+        },
+        {
+          "start": 272,
+          "end": 277
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.1247716,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.124771714,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

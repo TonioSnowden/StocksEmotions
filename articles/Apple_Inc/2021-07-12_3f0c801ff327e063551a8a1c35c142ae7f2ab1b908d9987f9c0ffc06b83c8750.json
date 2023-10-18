@@ -1,0 +1,40 @@
+{
+  "_id": "3f0c801ff327e063551a8a1c35c142ae7f2ab1b908d9987f9c0ffc06b83c8750",
+  "feed": "wall-street-journal",
+  "title": "Finding the Right Password Keeper",
+  "text": "<p>This column compares the two main types: The free manager built into a web browser or mobile operating system; and third-party apps that work across several platforms.</p><p>Keep in mind that there is large variation in usability, security and accessibility among these offerings. Firefox's browser-based Lockwise has a mobile app that works with Android and iOS devices, while Google's Password Manager supports Android mobile apps, but not iOS apps. In a move to add an extra bit of protection, 1Password uniquely requires a 64-character \"secret key\" -- in addition to a master password and multifactor authentication -- to authorize new devices or web logins.</p><p>Here are the pros and cons of each approach:</p><p>Built-in password manager</p><p>Pros: If you use the same browser on all platforms, they can work. If you remain within a specific ecosystem (e.g., Google's or Apple's), the built-in manager could meet your needs. If you use Chrome on your computer and phone, your Google-stored passwords will be accessible on any webpage and -- if you use Android -- your mobile apps, too. Apple's iCloud Keychain works seamlessly within its walled garden, and even a bit beyond: There's an iCloud Passwords browser extension for Chrome on Windows machines. However, it doesn't support Android devices.</p><p>They're easy to use and free. You don't have to download anything, or pay a monthly subscription fee.</p><p>Cons: You can't easily share passwords with others. Google's Password Manager doesn't have sharing capabilities, and Apple's iCloud Keychain only allows sharing with nearby contacts via AirDrop.</p><p>Apple's iCloud Keychain is tough to leave. If you want to switch to another password manager, Google makes it relatively easy to export passwords, but Apple doesn't provide a similar export option.</p><p>On Chrome, access to your device means access to your passwords. Google's Password Manager can't be \"locked\" and doesn't require a unique master password to auto-fill credentials. To view passwords in plain text, you will need to enter your computer password. So make sure the password on your computer or mobile device can't easily be guessed. (Apple's iCloud Keychain requires authentication before auto-filling passwords.)</p><p>Third-party password manager</p><p>Pros: They're compatible with many platforms. Most third-party applications -- the best being 1Password, Dashlane and LastPass -- work with a variety of devices and systems.</p><p>You can save different kinds of secrets. Many services include secure, encrypted notes to protect PINs or other kinds of login info, plus credit cards, addresses and more.</p><p>There are more granular security settings. For example, you can tell the application to log you out or clear a clipboard after certain periods.</p><p>Cons: You have to remember your master password. This long string essentially holds the key to your online kingdom and secure systems don't offer a way to easily recover this master password if you forget. (Dashlane does allow users to set an emergency contact who can help recover your account.) Most managers offer two-factor authentication, plus extra verification when you log in from a new device or location.</p><p>You have to pay for full functionality. Most services -- with the exception of the free Bitwarden -- require a paid subscription to use the password manager across multiple devices. 1Password doesn't offer a free tier at all.</p>",
+  "published": "2021-07-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1581,
+          "end": 1586
+        },
+        {
+          "start": 1732,
+          "end": 1737
+        },
+        {
+          "start": 2125,
+          "end": 2130
+        },
+        {
+          "start": 1071,
+          "end": 1076
+        },
+        {
+          "start": 856,
+          "end": 861
+        },
+        {
+          "start": 1503,
+          "end": 1508
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

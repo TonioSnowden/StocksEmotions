@@ -1,0 +1,38 @@
+{
+  "_id": "b9136aab938e29d34e2ad2d52a0ad21a213c41a1628074e306d43373c1ab118d",
+  "feed": "wall-street-journal",
+  "title": "Dr. Amazon Will See You Now; Amazon and other companies are trying to disrupt the giant, inefficient U.S. healthcare sector. They've made little headway but a crop of upstarts is offering industry giants a chance to buy their way in.",
+  "text": "<p>Thanks to innovation, Americans can hail a ride, order groceries and even buy a car without getting off of their couches. Yet when it comes to arguably their most important purchase—healthcare—capitalism keeps coming up short. It certainly isn't for lack of opportunity as the U.S. has the world's largest economy and devotes a larger share of it to medical services than any developed nation.</p><p>Amazon.com's repeated failure to disrupt the industry underscores just how hard it is to make meaningful change. The flops include a much-hyped partnership with Berkshire Hathaway and JPMorgan Chase and a separatein-house telehealth business, known as Amazon Care.</p><p>As hard as healthcare has proven to crack, it is also too big of an opportunity to ignore. That explains why Amazon is trying again: It agreed in July to pay $3.9 billion for One Medical, a concierge-type primary-care service with nearly 200 medical offices in 25 markets. The deal was its third largest acquisition after Whole Foods and MGM and will give Amazon the foothold in healthcare it struggled to build organically. In a not-too-distant future, your Prime membership may include a free annual checkup.</p><p>Amazon isn't alone in trying to remake the health services experience. It is now competing with a range of companies, from consumer-facing businesses like Walmart and Walgreens to large insurers like UnitedHealth Group and CVS-Aetna to tech peers such as Oracle and Apple. CVS, which reportedly also looked at buying One Medical, earlier this month agreed to pay $8 billion for Signify Health, a company focused on in-home evaluations. (Amazon and UnitedHealth Group had also been eyeing Signify).</p><p>Shifting social attitudes and market conditions have helped fuel the wave. The pandemic made consumers more comfortable with innovations like telehealth and hybrid-care startups that more seamlessly blend the home and the clinic. That unleashed a wave of initial public offerings in 2021, with many companies trading at frothy valuations at the bubble's peak. This year's bear market made it harder for these upstarts to access capital, and their cheaper valuations made them attractive acquisition targets.</p><p>What many target companies have in common is that they are involved, to varying degrees, in a newer approach to the provision of health known as value-based care. It differs from the more widespread fee-for-service model in which medical providers have an incentive to utilize the healthcare system as much as possible because that drives up compensation. Value-based care, by contrast, encourages providers to be more proactive in preventing illness because they also benefit from savings. It is too early to tell whether that approach will truly benefit patients or just improve the bottom line for providers and insurers.</p><p>UnitedHealth, the sprawling conglomerate that includes 60,000 physicians, a pharmacy benefit manager and an insurance business, is furthest along in the transition. Through its medical provider arm, Optum Care, it has been buying multi-specialty physician practices, many of which focus on more proactively managing patients through home, virtual and on-site care. The idea, in a nutshell, is to keep people out of the hospital, because that is where the costs are highest. Because UnitedHealth also takes on risk through its insurance arm, it stands to gain by driving down the cost of care. UnitedHealth on Wednesday announced it will provide analytics to help Walmart clinics deliver value-based care to Medicare patients.</p><p>Share Your Thoughts</p><p>Would you see an Amazon-backed doctor? Why or why not? Join the conversation below.</p><p>Amazon's strategy is different. Lance Wilkes, an analyst at Sanford Bernstein, says Amazon wants to provide direct and frequent services to consumers through primary care and leverage that relationship to sell even more services like drug deliveries through its online pharmacy business, which got its start with the acquisition of PillPack for about $1 billion in 2018.</p><p>One key aspect of the race to remake healthcare centers around a long overlooked profession: the family doctor. Because America's system rewards more expensive procedures, medical students prefer to become, say, cardiologists or surgeons. That has prompted a nationwide shortage of primary-care doctors. The long waits to see a doctor have led many Americans to completely abandon the relationship with their primary-care physicians, leading to worse health outcomes.</p><p>Companies like Amazon, CVS and UnitedHealth have sensed an opportunity in the primary-care crisis. Brian Tanquilut, an analyst at Jefferies, says the big investments in value-based carecan realign incentives because primary-care doctors at places like One Medical, which Amazon agreed to buy, earn about double what other family doctors make.</p><p>Consumer-facing companies like Amazon or Walmart could also just decide to lose money on their clinics in order to sell more of their other products. But that seems like \"a slim reed on which to build back a vital national service,'' writes David Blumenthal, a former healthcare official in the Obama administration.</p><p>Sadly, staying healthy probably will never be the sort of frictionless, one-click experience that Amazon pioneered. But the e-commerce juggernaut's involvement is a testament to the fact that there is a lot of money to be made by fixing America's broken system.</p><p>Dr. Amazon Will See You Now</p>",
+  "published": "2022-09-09T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.992,
+      "offsets": [
+        {
+          "start": 3439,
+          "end": 3446
+        },
+        {
+          "start": 1315,
+          "end": 1322
+        },
+        {
+          "start": 4817,
+          "end": 4824
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.095016,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.90498805,
+        "tagPositionWeight": 3.9339066e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

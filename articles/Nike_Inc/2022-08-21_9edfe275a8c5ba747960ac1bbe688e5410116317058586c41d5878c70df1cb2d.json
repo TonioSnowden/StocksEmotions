@@ -1,0 +1,34 @@
+{
+  "_id": "9edfe275a8c5ba747960ac1bbe688e5410116317058586c41d5878c70df1cb2d",
+  "feed": "ftcomall",
+  "title": "Parody takes a serious turn for big name brands",
+  "text": "<p>Sometime during the depths of the pandemic, when the legal nuances of parody, patent approval and provocative pink sploshes were generally beyond public attention, the name CUGGL — pronounced “<em>kyuguru</em>” — was quietly registered as a trademark in Japan. </p> <p>Cover the lower half of the name, and you can probably see why Gucci, the Florentine fashion house and voracious global litigant, might be hopping mad that the application has succeeded. Less obvious, though, is that the Japanese government might notch this up as a policy success.</p> <p>The dispute — along with the broader debate over parody and plagiarism that it raises but doesn't quite answer — centres on a somewhat mysterious figure who appears on numerous trademark applications as Nobuaki Kurokawa. He is, apparently, the owner of an Osaka-based business selling shirts bearing take-offs of famous brands. Among his richer seams of creativity is tweaking the Puma mark into other animal names such as pug, labra(dor) and pome(ranian). Shirts carrying these motifs sell on his website for between $12 and $25.</p> <p>The range of brands Kurokawa's company has mockingly re-envisioned — from Adidas, Lacoste and Nike to Prada and Balenciaga — offer a clue to how regularly intellectual property lawyers find themselves locking horns with Kurokawa on behalf of some very heavyweight international clients. One lawyer, who has both won and lost tussles with this foe on behalf of one of the world's biggest sports brands, describes himself as “pretty certain”, but not 100 per cent sure, that Kurokawa (whom the FT was unable to reach) is a real person. </p> <p>But during the pandemic, Kurokawa's ingenuity took a new direction. He registered the apparently harmless names CUGGL and GUANFI as trademarks with the Japan Patent Office, but redacted the bottom half of the words with stripes of bright pink when the names were reproduced on shirts.</p> <p>In the case of CUGGL, Gucci attempted to block Kurokawa's registration of the mark, arguing the similarity with its own brand and the likelihood of confusion for consumers. The registration, said Gucci's lawyers, was sought with malicious intention to freeride on goodwill and reputation. But in a decision reached last month, the JPO did not find a sufficient visual, phonetic or conceptual resemblance between CUGGL and Gucci to say consumers would imagine they were buying a Gucci product.</p> <p>Kurokawa may yet face trouble. While IP lawyers say they cannot remember a time when Japanese companies (such as Suntory, Nissan and Honda whose brands are often parodied) have bothered to take cases to court, foreign giants are generally less permissive. It is easy to imagine Gucci filing a trademark infringement claim against Kurokawa over the shirts with the pink stripe, despite having lost round one. </p> <p>Masaki Mikami, an IP lawyer, said Gucci's frustration with what it sees as the unpredictability of the JPO may feel superficially reasonable. Kurokawa, after all, had an application blocked by the JPO only a few months ago when Lacoste stepped in to prevent him <a href=\"https://blog.marks-iplaw.jp/2022/02/20/lacoste-trademark-parody/\">registering the mark OCOSITE</a>, which featured an inverted crocodile.</p> <p>But the JPO, admit lawyers whose clients fume over its judgments, is not inconsistent or illogical. It just takes a firmer line than counterparts on the likelihood of consumer confusion and tends to decide that people are smarter than the parody-allergic big brands would like. </p> <p>Crucially, all this all finds the JPO nearly a decade into its much wider mission of becoming the global gold standard of patent offices. That was the task <a href=\"https://www.kantei.go.jp/jp/singi/titeki2/kettei/chizaikeikaku20140704e.pdf\">Japan set for it in 2014</a> when the government of the time realised that the country, in both public and private sectors, was a dismal and sleepy steward of its own IP. When it came to IP management in the small and venture capital companies where that should matter most, it said, the problem was especially dire.</p> <p>Japan's industrial competitiveness required a first-class patent office, the government argued. That now looks like huge prescience in an era where IP rights and protection lie at the heart of rising trade friction and economic security concerns. Success, it said, would depend on establishing the world's fastest, highest quality patent examinations. </p> <p>Eight years later, <a href=\"https://www.kipb-jp.com/reports/positive-ip-trends-in-japan-for-overseas-applicants\">the JPO claims </a>that it has achieved this goal. Among the world's five biggest patent offices (including the US, Korea, China and Europe), it runs the fastest examinations. It has done this, in part, by accepting that, sometimes, the public is not confused by parody.</p> <p><a href=\"mailto:leo.lewis@ft.com\"><em>leo.lewis@ft.com</em></a></p><p>Source: Leo Lewis 2022 'Parody takes a serious turn for big name brands' FT.com 21 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-21T00:01:34.316Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "nexusId": "10043425",
+      "name": "NIKE, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1159,
+          "end": 1163
+        },
+        {
+          "start": 1152,
+          "end": 1156
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290324,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 1.9907951e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

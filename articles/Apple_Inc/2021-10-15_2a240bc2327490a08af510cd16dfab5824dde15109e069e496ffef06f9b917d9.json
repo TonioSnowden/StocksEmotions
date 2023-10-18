@@ -1,0 +1,40 @@
+{
+  "_id": "2a240bc2327490a08af510cd16dfab5824dde15109e069e496ffef06f9b917d9",
+  "feed": "ftcomall",
+  "title": "Auto-scans of phones would violate data privacy, say security experts",
+  "text": "<p>A group of world-leading cryptography and security experts has warned that scanning images on smartphones, like a scheme proposed by <a href=\"https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f\">Apple</a> in August, should be treated like mass surveillance and prohibited by law. </p> <p>“[Device scanning] makes what was formerly private on a user's device potentially available to law enforcement and intelligence agencies, even in the absence of a warrant,” said the authors, who include Whitfield Diffie, an inventor of public key cryptography, Ronald Rivest, an inventor of the widely used RSA encryption system, and firewall expert Steven Bellovin. </p> <p>“Because this privacy violation is performed at the scale of entire populations, it is a bulk surveillance technology,” they added. </p> <p>The researchers raised the alarm as calls to circumvent encryption from intelligence and law enforcement agencies around the world become increasingly strident, with the EU due to propose a new law on child protection that may include <a href=\"https://www.politico.eu/wp-content/uploads/2020/09/SKM_C45820090717470-1_new.pdf\">suggestions </a>for device scanning in December. </p> <p>It also follows <a href=\"https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25\">now-delayed</a> plans by Apple to install software on American iPhones to scan continuously for child abuse imagery. </p> <p>Such an automated system would proactively alert a team of human reviewers who would then contact law enforcement, if they believe illegal imagery is detected. Apple halted plans to launch the software after a fierce backlash from privacy campaigners and other <a href=\"https://www.ft.com/content/43c1aa97-c4e7-4301-913d-2c89cc63800d\">tech companie</a>s. </p> <p>“The concern is that European institutions could bring in a law making something like Apple's child abuse blocking proposal mandatory for people providing phones and chat apps,” said Ross Anderson, a co-author of the paper, titled “Bugs In Our Pockets”, and a professor of security engineering at the University of Cambridge. </p> <p>“Interfering with the security of people's devices by making them intrinsically easy to wiretap, putting in government-mandated snooping software that will look at your pictures, texts and videos to see if there is anything the government doesn't like, really does cross a red line.”</p> <p>Scanning a user's device, known as “client-side scanning”, has been proposed by governments as a way to identify unlawful content — including child abuse and terrorism — on a person's phone, while nominally preserving end-to-end encryption. </p> <p>“But unfortunately it's not that simple . . . client-side scanning would render the user privacy and security guarantees of encryption hollow,” <a href=\"https://www.eff.org/deeplinks/2019/11/why-adding-client-side-scanning-breaks-end-end-encryption\">wrote</a> Erica Portnoy, senior technologist at the Electronic Frontier Foundation. “Even a well-intentioned effort to build such a system will . . . open the door to broader abuses.”</p> <p>Scanning stored data on a user's device “brings surveillance to a new level”, Anderson and his colleagues write, adding that promises by companies like Apple that its use would be limited to child abuse imagery is “illusory”.&#xa0;</p> <p>In 2016, Apple went to court with the FBI, defending its use of encryption when pressured by the authorities to access a terror suspect's iPhone following a shooting in San Bernardino, California. </p> <p>The researchers said that the proposal to pre-emptively scan all user devices for targeted content was “far more insidious” than the FBI asking for specific access to an individual's device. </p> <p>They said: “The [intelligence] agencies' direction of travel is the bulk scanning of everyone's private data, all the time, without warrant or suspicion. Is it prudent to deploy extremely powerful surveillance technology that could easily be extended to undermine basic freedoms?”</p><p>Source: Madhumita Murgia in London 2021 'Auto-scans of phones would violate data privacy, say security experts' FT.com 15 October. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-10-15T04:00:30.159Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1282,
+          "end": 1287
+        },
+        {
+          "start": 1485,
+          "end": 1490
+        },
+        {
+          "start": 2810,
+          "end": 2815
+        },
+        {
+          "start": 133,
+          "end": 138
+        },
+        {
+          "start": 2726,
+          "end": 2731
+        },
+        {
+          "start": 1030,
+          "end": 1035
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

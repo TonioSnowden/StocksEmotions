@@ -1,0 +1,62 @@
+{
+  "_id": "a7a339183a700533e8f5706861c0b2e355c82c95d4dc4d3411c565f69f368ba8",
+  "feed": "ftcomall",
+  "title": "Sony accuses Microsoft of misleading claims over ‘Call of Duty' game",
+  "text": "<p>Sony has accused Microsoft of misleading the games industry and regulators about its commitments to keep <em>Call of Duty</em> on PlayStation consoles following its planned $75bn acquisition of Activision Blizzard.</p> <p>Jim Ryan, chief executive of Sony Interactive Entertainment, said Microsoft had only offered to keep releasing Activision's hit <em>Call of Duty</em> games on PlayStation for a limited number of years, despite assurances by the Seattle-based tech giant that it was “committed” to simultaneous release of future versions of the game on both PlayStation and its own Xbox consoles.</p> <p>Microsoft is already <a href=\"https://www.ft.com/content/a113c9f4-578c-4d23-8f77-5a08ce777075\">facing the threat</a> of an in-depth investigation from the UK's Competition and Markets Authority, the agency announced last week, as regulators in other regions scrutinise the games industry's biggest deal.</p> <p>Activision's <em>Call of Duty</em> series has become a multibillion-dollar franchise over the past 20 years, with its annual console releases typically ranking among the biggest-selling games of the year. Investors' fears about PlayStation losing access to the title sent Sony's stock down 13 per cent the day after Microsoft's bid was <a href=\"https://www.ft.com/content/acb50daf-0fb2-4f51-8b25-c501488fb6fa\">announced </a>in January.</p> <p>Ryan, who leads Sony's PlayStation gaming business, on Wednesday said he wanted to “set the record straight” after Microsoft's gaming chief Phil Spencer <a href=\"https://blogs.microsoft.com/on-the-issues/2022/09/01/gaming-everyone-everywhere/\">said</a> earlier this month that the Xbox maker was “committed to making the same version of <em>Call of Duty</em> available on PlayStation on the same day the game launches elsewhere”.</p> <p>Sony has told regulators in Brazil that <em>Call of Duty</em> is so popular that any limitation on its availability could influence which console consumers choose to buy, potentially <a href=\"https://www.ft.com/content/8e18749f-12ef-45d6-968f-c64800a1c6c5\">disadvantaging </a>its PlayStation 5, the current global console market leader. </p> <p>“I hadn't intended to comment on what I understood to be a private business discussion, but I feel the need to set the record straight because Phil Spencer brought this into the public forum,” Ryan said on Wednesday. “Microsoft has only offered for <em>Call of Duty</em> to remain on PlayStation for three years after the current agreement between Activision and Sony ends.” </p> <p>The PlayStation chief said Microsoft's proposal was “inadequate on many levels and failed to take account of the impact on our gamers”. </p> <p>“We want to guarantee PlayStation gamers continue to have the highest quality <em>Call of Duty</em> experience, and Microsoft's proposal undermines this principle,” he added. </p> <p>In the first global antitrust move against the deal, the CMA last week said it feared Microsoft would use its “control” over games including <em>Call of Duty</em> and <em>World of Warcraft</em> “post-merger to harm rivals, including recent and future rivals in multi-game subscription services and cloud gaming”. Microsoft was given five days to respond to the concerns or face an in-depth “phase 2” investigation by the UK regulator. </p> <p>Microsoft president and vice-chair Brad Smith said last week in response to the CMA: “Sony, as the industry leader, says it is worried about <em>Call of Duty</em>, but we've said we are committed to making the same game available on the same day on both Xbox and PlayStation. We want people to have more access to games, not less.”</p><p>Source: Tim Bradshaw in London 2022 'Sony accuses Microsoft of misleading claims over ‘Call of Duty' game' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T17:56:35.914Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 13,
+          "end": 22
+        },
+        {
+          "start": 17,
+          "end": 26
+        },
+        {
+          "start": 271,
+          "end": 280
+        },
+        {
+          "start": 574,
+          "end": 583
+        },
+        {
+          "start": 1105,
+          "end": 1114
+        },
+        {
+          "start": 1261,
+          "end": 1270
+        },
+        {
+          "start": 2471,
+          "end": 2480
+        },
+        {
+          "start": 2679,
+          "end": 2688
+        },
+        {
+          "start": 2800,
+          "end": 2809
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.935091,
+        "baseWeight": 9.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9350914,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

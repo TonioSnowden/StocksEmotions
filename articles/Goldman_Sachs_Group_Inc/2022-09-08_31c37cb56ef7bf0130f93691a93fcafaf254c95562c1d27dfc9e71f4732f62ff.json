@@ -1,0 +1,38 @@
+{
+  "_id": "31c37cb56ef7bf0130f93691a93fcafaf254c95562c1d27dfc9e71f4732f62ff",
+  "feed": "ftcomall",
+  "title": "Citrix financing: spread thick, LBO debt makes toast of Wall St profits",
+  "text": "<p>Would you risk $1bn today on where the economy will be next May? Eight months ago, the Bank of America, Goldman Sachs and Credit Suisse did just that. They underwrote roughly $15bn of debt underpinning the $16.5bn leveraged buyout of Citrix by Elliott and Vista Equity.</p> <p>That has left the trio of Wall Street banks with potentially sizeable losses.</p> <p>Ordinarily, so-called leveraged lending is a smooth business. But 2022 has been anything but ordinary. Risks to normally trouble-free fees and prestige are spelling themselves out.</p> <p>The banks are finally selling on the Citrix debt to specialist credit investors. This comes in the wake of the US Federal Reserve reiterating its commitment to tightening monetary policy and crushing inflation.</p> <p>Balance sheet losses for the lenders may approach $1bn, allowing for fees and pricing flexibility and judging from current terms in the debt markets. The 10-year US Treasury yield has jumped from 1.5 per cent to nearly 3.5 per cent this year. Spreads for junk debt above risk-free rates have blown out from 300 to 500 basis points.</p> <p>Citrix senior loans could generate yields approaching 10 per cent when accounting for both interest payments and the discount to par at which they may be sold.</p> <p>Losses pale into insignificance beside the $240bn in equity capital boasted by the Bank of America alone. But they will still irk some Masters of the Universe come bonus time.</p> <p>Unsurprisingly, after record levels of loan and bond issuance in 2020 and 2021, companies have dialled back financings. The volume of high-yield bonds sold is down nearly 80 per cent, according to data provider LCD.</p> <p>LBO lending remains an attractive business that banks will compete hard for despite current vagaries.</p> <p>As for buyers of the Citrix debt, a near double-digit return on its secured debt may be a pretty good deal. This slow but steady software company looks safe even in the current environment. The banks know this and will keep some of the debt on their balance sheets. If conditions ease, paper losses may be reversed. Returns across the cycle are what matter.</p><p>Source:  2022 'Citrix financing: spread thick, LBO debt makes toast of Wall St profits' FT.com 8 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-08T17:17:36.897Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 104,
+          "end": 117
+        },
+        {
+          "start": 104,
+          "end": 111
+        },
+        {
+          "start": 103,
+          "end": 116
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.5261683,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.5261682,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

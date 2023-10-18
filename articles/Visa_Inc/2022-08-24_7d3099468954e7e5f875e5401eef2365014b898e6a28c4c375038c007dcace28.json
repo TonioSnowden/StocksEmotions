@@ -1,0 +1,62 @@
+{
+  "_id": "7d3099468954e7e5f875e5401eef2365014b898e6a28c4c375038c007dcace28",
+  "feed": "ftcomall",
+  "title": "Visa and Mastercard blame fraud for post-Brexit fee increases",
+  "text": "<p>Visa and Mastercard blamed fraud and growing competition for the spike in fees between the UK and the EU after Brexit as the payment companies face a number of probes into the functioning of the card market.</p> <p>The two groups — which represented 99 per cent of card payments in the UK last year — laid out their arguments in letters written to a UK Treasury committee examining the increase in card fees and published on Wednesday. </p> <p>In their letters, both networks cited the higher levels of fraud in cross-border transactions as a main cause for the increase in costs.</p> <p>Kelly Devine, <a href=\"https://www.ft.com/stream/97fa60a8-abaa-4e3f-a00d-2361eefee24c\">Mastercard</a>'s UK and Ireland president, also blamed pressure from rivals in the payment space, including from China's Union Pay.</p> <p>“To remain competitive and continue to offer benefits of electronic payments to consumers, Mastercard must be able to attract issuing and acquiring banks to the scheme,” she wrote.</p> <p>Mel Stride MP, chair of the committee, wrote in a statement on Wednesday: “All businesses, particularly small and medium-sized firms, are facing rising costs on many fronts, and the increase in cross-border card fees will only add to these pressures.</p> <p>“It is vital that these businesses have every opportunity to succeed and are not burdened with disproportionate additional costs at this time,” he added.</p> <p><a href=\"https://www.ft.com/stream/2637f6d1-ed91-4999-ba4c-03e2d227e3e9\">Visa</a> and Mastercard are also facing investigations by the UK's payments watchdog over whether high charges mean that the £884bn card market is failing.</p> <p>In June, the Payment Systems Regulator announced a probe into <a href=\"https://www.ft.com/content/b3d4c697-4c7b-4a06-ac25-112b64e5f553\">cross-border interchange fees</a>, warning that the networks' ability to increase these charges potentially showed that the market was “not working well”. </p> <p>Interchange fees are tolls levied by Visa and Mastercard on behalf of banks for every debit or credit card payment that uses its network, so higher rates act as an incentive for lenders to choose one network over the other.</p> <p>The EU <a href=\"https://www.ft.com/content/cf4f9ba8-c983-11e4-a2d9-00144feab7de\">introduced a cap in 2015</a> following concerns that the hidden fees were leading to hundreds of millions of euros in costs for companies and higher prices for consumers.</p> <p>But last year, both Visa and Mastercard raised the costs for online payments between the EU and the UK following the end of the Brexit transition period.</p> <p>Debit card interchange fees rose from 0.2 per cent to 1.15 per cent for every payment, while credit card fees rose from 0.3 per cent to 1.5 per cent.</p> <p>Visa said that the majority of UK merchants operating domestically had not seen an increase in costs and that the new rates were in line with those levied on transactions between the UK and other regions.</p> <p>The watchdog also launched a separate market review into other charges, including those levied on businesses that use the networks of Visa and Mastercard for processing payments.</p> <p>In a letter to the committee in July, the PSR said it did not rule out an interim cap on card networks' fees, although it said it did not anticipate imposing one in the immediate future.</p> <p>Merchants have also voiced frustrations over the fees charged by networks. In November, Amazon said it would stop accepting UK-issued Visa credit cards as a “result of high costs”, with a person familiar with Amazon's position citing interchange fees as one of the sticking points. </p> <p>The ecommerce giant reversed course in January, saying in a statement that it was working with Visa on a solution. The companies had previously clashed over fees in Australia and Singapore, where Amazon had applied a surcharge to the use of Visa's credit cards until <a href=\"https://www.ft.com/content/7465b937-ac69-4eef-9132-42e8939fcf3e\">February</a>.</p><p>Source: Siddharth Venkataramakrishnan in London 2022 'Visa and Mastercard blame fraud for post-Brexit fee increases' FT.com 24 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-24T13:00:56.788Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.9999998,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 4
+        },
+        {
+          "start": 1287,
+          "end": 1291
+        },
+        {
+          "start": 1687,
+          "end": 1691
+        },
+        {
+          "start": 2066,
+          "end": 2070
+        },
+        {
+          "start": 2348,
+          "end": 2352
+        },
+        {
+          "start": 2686,
+          "end": 2690
+        },
+        {
+          "start": 3049,
+          "end": 3053
+        },
+        {
+          "start": 3291,
+          "end": 3295
+        },
+        {
+          "start": 3436,
+          "end": 3440
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

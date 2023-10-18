@@ -1,0 +1,24 @@
+{
+  "_id": "c60e2e03f85c057616fcb720f4ffc662bb713fb9894c1166f2d3d508ef199621",
+  "feed": "market-watch",
+  "title": "Okta says it's investigating possible digital breach — here's everything we know so far",
+  "text": "<p>“The Okta service has not been breached and remains fully operational. There are no corrective actions that need to be taken by our customers,” Okta OKTA said in an updated blog post Tuesday.&#xa0;“In January 2022, Okta detected an unsuccessful attempt to compromise the account of a customer support engineer working for a third-party provider. As part of our regular procedures, we alerted the provider to the situation, while simultaneously terminating the user's active Okta sessions and suspending the individual's account. Following those actions, we shared pertinent information (including suspicious IP addresses) to supplement their investigation, which was supported by a third-party forensics firm.”</p><p>As Okta explained the situation throughout the day, its stock has steadily rebounded, and is currently down about 2%.</p><p>Its tardiness in disclosing the issue, however, drew strong criticism from Tenable Holdings TENB CEO Amit Yoran in an open letter to Okta. “Two months is too long. This compromise should have been disclosed when Okta detected it in January or after a competent and timely forensic analysis,” Yoran wrote on LinkedIn on Wednesday. “As a customer, this is how the fact pattern feels:&#xa0;You either didn't investigate properly or disclose the breach in January when it was discovered.&#xa0;When you were outed by LAPSUS$, you brushed off the incident and failed to provide literally any actionable information to customers.&#xa0;LAPSUS$ then called you out on your apparent misstatements.&#xa0;Only then do you determine and admit that 2.5% (hundreds) of customers' security was compromised. And still actionable detail and recommendations are nonexistent.”&#xa0;&#xa0;</p><p>Separately, Cloudflare Inc. NET on Tuesday offered a timeline of what happened during its investigation of the “Okta compromise,” as Cloudflare put it.</p><p>On Wednesday, Okta offered a timeline of its own in a third blog post.</p><p>Hacking group Lapsus$ has claimed responsibility for the breach and published screenshots claiming access to an Okta internal administrative account and the firm's Slack channel. However, the shadowy group also said on the messaging app Telegram it did not steal any databases from Okta, and “our focus was ONLY on Okta customers.” [According to its website, Okta says it has more than 15,000 customers.]</p><p>Early Tuesday, Okta Chief Executive Todd McKinnon&#xa0;tweeted that the company believes those screenshots are related to a security incident in January that was contained.</p><p>https://twitter.com/toddmckinnon/status/1506184721922859010“In late January 2022, Okta detected an attempt to compromise the account of a third party customer support engineer working for one of our subprocessors,” McKinnon tweeted, referring to a subcontractor that works with Okta. “The matter was investigated and contained by the subprocessor.”</p><p>Although Okta's preliminary review has not revealed malicious activity beyond January's incident, the activities of Lapsus$ has financial analysts like Mizuho Securities' Gregg Moskowitz concerned.</p><p>In a note Tuesday, Moskowitz pointed out Lapsus$ has reportedly breached several big-name organizations over the past few months that include Microsoft Corp. MSFT, Nvidia Corp. NVDA, Samsung Electronics Co. Ltd. KR:005930, Vodafone Group UK:VOD, LG Electronics Inc. KR:066570 and Impresa PT:IPR.</p><p>Lapsus$ has widened its targets and increased its sophistication in recent months, making it harder for analysts to predict which company is most at risk next, according to Pratik Savla, security engineer at cybersecurity company Venafi Inc.</p><p>Following Okta's latest explanation, Moskowitz issued another note on Wednesday. “While more information could be unearthed, and OKTA surely could have handled this situation better, we believe these findings are better than feared. We also believe that OKTA can effectively navigate this issue,” Moskowitz wrote.</p><p>JMP Securities analyst Trevor Walsh on Wednesday maintained a market outperform rating and $260 price target on&#xa0;Okta after he concluded the incident had “minimal impact.”</p>",
+  "published": "2022-03-23T17:44:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3146,
+          "end": 3161
+        },
+        {
+          "start": 3146,
+          "end": 3155
+        }
+      ]
+    }
+  ]
+}

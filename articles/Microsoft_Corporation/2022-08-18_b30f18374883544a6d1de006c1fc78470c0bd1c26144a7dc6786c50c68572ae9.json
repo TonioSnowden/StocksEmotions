@@ -1,0 +1,34 @@
+{
+  "_id": "b30f18374883544a6d1de006c1fc78470c0bd1c26144a7dc6786c50c68572ae9",
+  "feed": "wall-street-journal",
+  "title": "Climate Bill May Not Be Enough for Low-Carbon Jet Fuel to Take Off; Subsidies are for a limited duration and don't cover enough costs of refining, producers and analysts say",
+  "text": "<p>The first is for suppliers that blend low-carbon jet fuels with kerosene, offering a payout of up to $1.75 a gallon depending on the fuel's emissions compared with fossil fuels. The credit—estimated to be worth $49 million industrywide by the Congressional Budget Office—is available in 2023 and expires at the end of 2024.</p><p>After 2024, the jet-fuel-specific credit essentially transitions into a second tax credit for producers of general low-carbon fuels that can be used in aviation.</p><p>This credit also will offer a $1.75-a-gallon rebate for a 100% emissions reduction compared with fossil fuels. That tax break, which the CBO estimates to be worth nearly $3 billion, starts in 2025 and expires at the end of 2027, pending any renewal.</p><p>Aviation is one of the most difficult industries to decarbonize because electric and hydrogen aircraft for long-haul flights exist only in concept. About 2.5% of global emissions come from air travel, but that level is likely to rise as demand for jet fuel is expected to double from prepandemic levels by 2050, according to the Sustainable Aviation Buyers Alliance, a business coalition focused on accelerating the transition to carbon-neutral aviation.</p><p>Sustainable aviation fuel, or SAF, burns safely in existing engines, but can only be blended up to 50% with the kerosene fuel generally in use under industry standards. It can cut up to 80% of emissions compared with fossil jet fuel, according to the alliance. Most of today's low-carbon jet fuels come from organic materials, including cooking oil and crops such as soybeans. Startups also are looking to use renewable electricity to create synthetic fuels, known as e-fuels.</p><p>More on SAF</p><p>* Microsoft, Alaska Airlines Back CO2-to-Jet-Fuel Technology (July 14)</p><p>* Shell to Start Making Lower-Carbon Jet Fuel as Regulations Loom (Sept. 19, 2021)</p><p>* Google-Backed Data Project Aims to Quantify Benefits of Lower-Carbon Jet Fuel (Sept. 20, 2021)</p><p>* Boom Says Its Supersonic Jet Will Be Green Too. Not Everybody's Convinced. (June 30, 2021)</p><p>These options, however, remain scarce and expensive, largely due to the lack of refineries churning them out. Costs to produce low-carbon jet fuels ranged from $3.80 to $10.80 a gallon in 2021, compared with roughly $1.85 for kerosene jet fuel, according to data provider BloombergNEF.</p><p>Some producers say the first tax credit has too short a duration and that both credits don't cover enough costs to encourage existing refineries to switch over.</p><p>Chris Cooper, president of refiner Neste Oyj's U.S. arm, said the credits don't create enough confidence for long-term investments. \"A long-term, stable incentive is needed to speed the transition away from fossil fuels, especially in hard to abate sectors like long-distance trucking, critical heavy equipment and aviation,\" Mr. Cooper said.</p><p>Neste is the world's biggest producer of low-carbon jet fuels, with an annual capacity of 34 million gallons a year and plans to reach 515 million gallons by the end of 2023.</p><p>The low-carbon jet fuels currently in the market won't hit the full $1.75 reward, analysts say. The SAF-specific credit provides a tax break of $1.25 a gallon for fuels that achieve a 50% reduction compared with fossil jet fuel, increasing by 1 cent for each additional percentage point to a 100% reduction.</p><p>But even the top reward of $1.75 isn't enough to offset the higher production costs of SAF at renewable-diesel refineries that are able to switch over to making jet fuel, said Daisy Robinson, head of renewable fuels at BloombergNEF.</p><p>\"We therefore expect the tax credit to have a much greater impact on smaller firms developing new technologies on the cusp of commercialization,\" she said.</p><p>Twelve, one of a crop of \"carbon transformation\" startups, has designed an electrochemical reactor that can split carbon dioxide into chemical compounds that can be turned into e-fuel.</p><p>\"The market is clearly pointed in the direction of greater SAF adoption—tax credits are just going to help us build that market and create price parity even faster,\" said Twelve's Chief Executive Nicholas Flanders.</p><p>Despite the limited scope of the bill, airlines using low-carbon jet fuels praised the tax breaks as a step toward slashing emissions in air travel.</p><p>\"That's an important step in the right direction,\" United Airlines Holdings Inc. CEO Scott Kirby said. United is the biggest buyer of low-carbon jet fuels in the U.S. air-travel industry, using around 1 million gallons a year since 2016 and 3 million gallons this year.</p><p>The climate bill \"is a historic policy and puts the U.S. on the right foot forward towards lowering the price per gallon and making SAF more affordable,\" said Diana Birkett Rakow, Alaska Airlines Inc.'s senior vice president of public affairs and sustainability. \"We know this work will take time, and multiple steps.\"</p><p>Write to Dieter Holger at dieter.holger@wsj.com</p><p>Climate Bill May Not Be Enough for Low-Carbon Jet Fuel to Take Off</p>",
+  "published": "2022-08-18T15:26:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1682,
+          "end": 1691
+        },
+        {
+          "start": 1671,
+          "end": 1680
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

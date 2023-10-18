@@ -1,0 +1,20 @@
+{
+  "_id": "dcab582cb17d205027f7b6dedb01196d2ffc42822098f6865c6d2819814e3e09",
+  "feed": "wall-street-journal",
+  "title": "Business News: Hourslong Outage Hits Amazon's Cloud Unit",
+  "text": "<p>AWS is the largest cloud-computing provider in the U.S. The service allows customers, including many large businesses, to rent computing, storage and network capabilities. Companies and consumers have increasingly come to depend on cloud-computing services as the pandemic has forced them to work from home.</p><p>Downdetector showed outages on Tuesday for many Amazon services, including streaming service Prime Music, videoconferencing tool Chime and home-security system Ring. Many third-party applications that sit on top of Amazon's cloud were also receiving outage reports on Downdetector, such as Ticketmaster and streaming services from Walt Disney Co. and Netflix Inc.</p><p>By 5 p.m., outage reports on Downdetector had dipped below 3,500.</p><p>Amazon didn't respond to questions about how many users were affected by the outage or how long it is expected to continue.</p><p>The company's shares rose 2.8% to end the day at $3,523.29, in line with the broader market.</p>",
+  "published": "2021-12-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "name": "The Walt Disney Company",
+      "offsets": [
+        {
+          "start": 639,
+          "end": 650
+        }
+      ],
+      "nexusId": "10078857"
+    }
+  ]
+}

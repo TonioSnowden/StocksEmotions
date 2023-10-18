@@ -1,0 +1,24 @@
+{
+  "_id": "c32bc95fec1bbdb6db5eef4a9e3df3f6a4f146428d26567c358ad3f2091cff44",
+  "feed": "wall-street-journal",
+  "title": "Facebook Warns Users About 400 Malicious Apps That Steal Passwords; The social-media company said it notified Apple and Google about the apps that were available through their respective app stores",
+  "text": "<p>Apple said it removed the 45 malicious apps from its app store that were identified by Meta.</p><p>Google identified and removed a majority of the problematic Android apps throughout the year before Meta's notification, a Google spokesperson said. All of the apps have now been removed, the spokesperson said.</p><p>Meta shares fell 3% Friday in late-morning trading.</p><p>The apps were disguised as photo editors, games and business apps, Meta said. There are many legitimate apps that offer similar features, the company said, noting that cybercriminals know these apps are popular and try to mimic them to trick people and steal their accounts and information.</p><p>After a user downloads the fake app, the app asks users to log in with Facebook using their usernames and passwords. If the information is stolen, attackers could gain access to a person's account and access private information, Meta said.</p><p>The company said users should be wary of any app that doesn't work without providing a Facebook login and password.</p><p>Meta recommends users change their passwords and enable two-factor authentication if they believe they have downloaded a malicious app.</p><p>Write to Joseph De Avila at joseph.deavila@wsj.com</p><p>Facebook Warns Users About 400 Malicious Apps That Steal Passwords</p>",
+  "published": "2022-10-07T15:24:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 110,
+          "end": 115
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

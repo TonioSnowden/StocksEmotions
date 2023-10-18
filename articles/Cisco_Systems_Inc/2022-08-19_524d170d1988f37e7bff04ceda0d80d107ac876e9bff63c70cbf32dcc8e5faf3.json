@@ -1,0 +1,38 @@
+{
+  "_id": "524d170d1988f37e7bff04ceda0d80d107ac876e9bff63c70cbf32dcc8e5faf3",
+  "feed": "wall-street-journal",
+  "title": "Stocks Gain With Economy in Focus --- Cisco shares climb 5.8% as revenue beats expectations; Kohl's falls on lower profit",
+  "text": "<p>Stock indexes have climbed in recent weeks on signs of moderating inflation and hopes that the Fed would ease off from its aggressive campaign of rate rises.</p><p>The S&amp;P 500 is up roughly 17% from its mid-June low.</p><p>The rally has been tempered as minutes from the Fed's July meeting, released Wednesday, indicated that policy makers could keep raising rates to curb inflation. Still, officials said they would be cautious, acknowledging the risk that too much tightening could cause economic pain.</p><p>\"The rather vanilla nature of yesterday's Fed minutes directly plays into the directionlessness of today's markets,\" said Eric Leve, chief investment officer at investment-management firm Bailard.</p><p>Home-sales data showed a further cooling of the U.S. housing market. Sales of existing homes fell for a sixth consecutive month in July, the National Association of Realtors reported. Higher mortgage rates have weighed on sales, another example of how the Fed's rate increases are affecting all corners of the economy.</p><p>New applications for unemployment benefits inched down last week, according to the Labor Department, suggesting the jobs market is holding up despite signs of weakness in the broader economy.</p><p>\"There is still a narrow pathway toward a soft landing, but it is getting harder and harder to achieve,\" said Joe Little, global chief strategist at HSBC Asset Management.</p><p>On the earnings front, Kohl's retreated $2.62, or 7.7%, to $31.33 after the retailer's earnings shrank by nearly two-thirds in its second quarter.</p><p>Cisco Systems jumped $2.71, or 5.8%, to $49.37 after the maker of networking and security equipment posted flat quarterly revenue, avoiding a decline it previously forecast.</p><p>With roughly 95% of companies in the S&amp;P 500 having reported second-quarter results, about three-quarters have beat Wall Street earnings expectations, according to FactSet.</p><p>Index constituents are on pace to post about 6% earnings growth for the second quarter.</p><p>\"Going forward, the outlook looks a lot more cloudy. We are going to have an earnings picture that, in my mind, is going to continue to deteriorate. That's the reason why we should enter this period with maybe a little bit more prudence,\" said Marco Pirondini, U.S. head of equities and portfolio manager at asset-management firm Amundi US.</p><p>Bed Bath &amp; Beyond sank $4.53, or 20%, to $18.55 after investor Ryan Cohen filed to sell his stake in the company. The selloff comes after the stock's recent, frenzied gains driven by individual investors, who jolted the stock in ways reminiscent of last year's meme-stock craze.</p><p>The yield on the benchmark 10-year U.S. Treasury note fell to 2.879% from 2.894% on Wednesday. Bond yields and prices move in opposite directions.</p><p>In commodity markets, international oil benchmark Brent crude rose 3.1% to $96.59 a barrel. The prospect of weakening demand and additional supplies have dragged on crude prices in recent weeks.</p><p>Energy stocks outperformed as oil prices climbed, with the S&amp;P 500 energy sector closing up 2.5%.</p><p>Overseas, the pan-continental Stoxx Europe 600 edged up 0.4%. Early Friday, Japan's Nikkei 225 was up 0.1%, Hong Kong's Hang Seng Index was up 0.4%, the Shanghai Composite was down 0.3% and South Korea's Kospi was down 0.2%. S&amp;P futures fell 0.1%.</p>",
+  "published": "2022-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 38,
+          "end": 43
+        },
+        {
+          "start": 1509,
+          "end": 1522
+        },
+        {
+          "start": 1520,
+          "end": 1533
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.812254,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.81225383,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

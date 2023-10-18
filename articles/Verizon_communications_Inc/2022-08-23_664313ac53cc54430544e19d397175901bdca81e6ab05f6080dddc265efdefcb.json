@@ -1,0 +1,46 @@
+{
+  "_id": "664313ac53cc54430544e19d397175901bdca81e6ab05f6080dddc265efdefcb",
+  "feed": "wall-street-journal",
+  "title": "Phone Companies Want to Be Your Home-Internet Provider—and Vice Versa; Some customers find savings as T-Mobile expands in-home internet service, while Comcast, Charter add wireless subscribers",
+  "text": "<p>The competition, in some instances, has created a refuge for consumers as inflation is driving up prices on just about everything else.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook for the cable industry? Join the conversation below.</p><p>The consumer-price index—a measure of what people pay for goods and services—rose 8.5% in July from the same month a year earlier, down from 9.1% in June, which was the fastest pace of price increases since 1981. The cost of internet service rose by 1.7% in July from a year earlier, according to the Labor Department.</p><p>New fifth-generation cellular networks have helped carriers T-Mobile US Inc. and Verizon Communications Inc. sign up 2.2 million wireless-internet customers through June, often at traditional broadband providers' expense. The mobile-phone companies' fixed wireless signals beam broadband connections from cell towers to routers placed in homes and businesses instead of by wire, which can be costly and time-consuming to install.</p><p>The wireless threat contributed to the cable industry's worst quarter in years. Comcast Corp. lost residential customers in the most recent quarter for the first time ever, a shift after many quarters of growth earlier in the pandemic. So did Charter Communications Inc., its first decline in nearly a decade.</p><p>Cable-internet providers blamed a slowdown in household moves for the drop but said new competition from mobile carriers played a role—albeit a small one.</p><p>Comcast Chief Executive Brian Roberts said he expects the flow of people moving to wireless-internet service to slow down, because mobile carriers face capacity constraints that limit the number of internet users they can add.</p><p>T-Mobile said a little more than half of the 560,000 broadband customers it added during the second quarter came from cable competitors.</p><p>\"Demand continues to build from dissatisfied suburban cable customers to underserved customers in smaller markets and rural areas,\" said T-Mobile CEO Mike Sievert on an earnings conference call last month.</p><p>In Nashville, Tenn., Travis Murdock dropped his Xfinity cable service recently for T-Mobile's home-internet offering, which became available in his area. The business analyst said he had grown tired of Comcast's marketing calls and of negotiating a new price every year when the promotion he had been using expired.</p><p>The move took his bill down to $50 a month from $85. T-Mobile locked in the rate for as long as he keeps the service, he said.</p><p>The quoted internet speed is slightly slower with T-Mobile than his previous service, but he said he hasn't noticed a difference.</p><p>It isn't all bad for cable. The biggest cable companies have spent the past five years winning over customers for cellphone service who might have otherwise signed up for lines under traditional wireless brands. Comcast and Charter have amassed nearly nine million mobile-phone subscribers since Comcast launched its wireless service in 2017.</p><p>\"The wireless industry appears to be heading towards yet another period of escalating competition,\" said Craig Moffett, analyst at research firm MoffettNathanson.</p><p>The ultimate winner may be wireless customers. AT&amp;T Inc. and Verizon have implemented some price increases this year, but Mr. Moffett said the companies have also introduced lower-cost plans to compete with offers from the cable providers.</p><p>On Monday, Comcast announced lower pricing for customers seeking two or three lines under its wireless plan offering unlimited data.</p><p>Jody Ewing said she switched her wireless plan to Charter's Spectrum from Verizon last August, saving about $30 a month and upgrading to unlimited data for her and her husband's phones in the process. The retiree from Santa Ana, Calif., was already paying for Spectrum internet and cable, and said she has never been happier with a carrier. Now, she can send as many photos as she wants to her children, though she said she still can't get her husband, Kurt, to remember his phone when he leaves the house.</p><p>Cable companies aren't using their own cellphone networks to connect their customers on the go—they are paying the wireless providers for access under reseller agreements—but their services are nevertheless boosting their bottom lines. Comcast and Charter rely on Verizon, while Altice USA Inc. has a deal with T-Mobile.</p><p>Telecom analysts caution that there are limits to both industries' encroachment on the others' turf. Cable companies lack the cell towers and other infrastructure they would need to make a big dent in the business of the largest wireless companies. The top three U.S. wireless carriers together serve roughly 300 million cellphone users.</p><p>T-Mobile executives have said their 5G network is strong enough to cover 40 million homes and businesses with wireless broadband service. Of that number, the company plans to serve seven million to eight million locations by 2025. Comcast, the nation's largest broadband provider, had 32.2 million total broadband customers at the end of June.</p><p>Cellphone carriers like T-Mobile, for their part, say the number of home-internet customers they can profitably add is limited. A single cell tower can only handle a certain volume of internet traffic at once, and home-broadband customers chew up 10 times as much data as a typical smartphone user. Analysts note that wireless customers are also more profitable and will likely stay the priority.</p><p>\"You never want to crowd out or erode the quality of service you're giving to your mobile guys,\" said New Street Research analyst Jonathan Chaplin. \"That's a much more valuable market to you.\"</p><p>—Drew FitzGerald contributed to this article.</p><p>Write to Thomas Gryta at thomas.gryta@wsj.com and Rachel Wolfe at rachel.wolfe@wsj.com</p><p>Phone Companies Want to Be Your Home-Internet Provider—and Vice Versa</p>",
+  "published": "2022-08-23T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 625,
+          "end": 651
+        },
+        {
+          "start": 3514,
+          "end": 3521
+        },
+        {
+          "start": 630,
+          "end": 657
+        },
+        {
+          "start": 4207,
+          "end": 4214
+        },
+        {
+          "start": 3130,
+          "end": 3137
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.516353,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 0.0038534403,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

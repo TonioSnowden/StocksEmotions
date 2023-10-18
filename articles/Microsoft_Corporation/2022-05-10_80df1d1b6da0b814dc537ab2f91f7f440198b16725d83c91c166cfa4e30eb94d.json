@@ -1,0 +1,20 @@
+{
+  "_id": "80df1d1b6da0b814dc537ab2f91f7f440198b16725d83c91c166cfa4e30eb94d",
+  "feed": "economist-blog",
+  "title": "Daily chart; Russia seems to be co-ordinating cyber-attacks with its military campaign",
+  "text": "<p>On March 1st a Russian hacker group used malicious software against a major Ukrainian broadcaster and other Kyiv-based media organisations; the same day, a Russian missile strike pulverised a television tower in the capital. On March 2nd a nuclear-power company was hacked; the next day, the Russian army occupied Ukraine's largest nuclear-power station. On March 4th a group affiliated with GRU, Russia's military intelligence service, carried out cyber-operations against a government agency's network in the city of Vinnytsia. Two days later, Russian missiles struck an airport in the same city. While the cyber-attacks have been limited in scope, their use alongside the military is probably designed to disrupt Ukrainian administration.</p><p>The number of Russian cyber-operations has doubled every month since December, when 15 were reported. This only includes attacks that Microsoft was able to detect in its own networks—the true number is likely to be higher. But because the Russians are conducting disruptive attacks, they are much more likely to be found out than pure espionage, such as Chinese intelligence gathering against America, reckons Benjamin Read, director of espionage analysis at Mandiant, a cybersecurity firm.</p><p>At least six Russian hacking groups were responsible for these operations in Ukraine, which were designed mainly to destroy files in computer systems, but also to gather intelligence, cut off access to information and support efforts to spread misinformation. The attacks, which seem to be more frequent than previously appreciated, highlight a new kind of hybrid warfare. “There has not been a situation before where this much disruption has been going on in a concentrated area in the history of cyber,” says Mr Read. Other governments, wary of Russia, will be watching closely.</p><p>■</p><p>For a look behind the scenes of our data journalism, sign up to Off the Charts, our weekly newsletter. Our recent coverage of the Ukraine crisis can be found here</p>",
+  "published": "2022-05-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 876,
+          "end": 885
+        }
+      ]
+    }
+  ]
+}

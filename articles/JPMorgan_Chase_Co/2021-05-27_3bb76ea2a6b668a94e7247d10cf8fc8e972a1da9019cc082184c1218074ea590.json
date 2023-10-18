@@ -1,0 +1,20 @@
+{
+  "_id": "3bb76ea2a6b668a94e7247d10cf8fc8e972a1da9019cc082184c1218074ea590",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>   About 2,100 new hires made by JPMorgan Chase &amp; Co. in 2020 had criminal records. An article Wednesday about a New York state bill to automatically expunge the records of people convicted of crimes incorrectly said around 10% of 2,100 new hires made by the company in 2020 had criminal records. </p><p>   (See: \"Criminal Records Bill Considered --- Legislation would remove records for some crimes after sentences are done\" -- WSJ </p><p>   --- </p><p>   Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2021-05-27T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 30,
+          "end": 50
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

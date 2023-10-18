@@ -1,0 +1,30 @@
+{
+  "_id": "05a08cf89ee820c9e2b2707194334afbda7cbe9161378d13f9961f1b7ff19b87",
+  "feed": "wall-street-journal",
+  "title": "What's News --  Business & Finance",
+  "text": "<p>   SoftBank reported a record quarterly loss of more than $23 billion after an investment spree that CEO Son described as delirious turned sour. </p><p>   --- </p><p>   The Treasury imposed sanctions on cryptocurrency platform Tornado Cash, accusing it of laundering billions of dollars in virtual currency. </p><p>   --- </p><p>   Tyson Foods said consumers are choosing to buy chicken and cheaper cuts of beef, a sign shoppers are becoming more cost-conscious as food prices rise. </p><p>   --- </p><p>   Novavax slashed its full-year revenue outlook, citing a lack of demand for its Covid-19 vaccine from Covax and delays in winning expanded authorizations in the U.S. </p><p>   --- </p><p>   The S&amp;P 500 and Nasdaq both ended Monday's session down 0.1%, while the Dow industrials gained 0.1%. </p><p>   --- </p><p>   Axios agreed to be acquired by Cox Enterprises in a deal that people familiar with the matter said values Axios at $525 million. </p><p>   --- </p><p>   American Airlines is set to be the first customer to receive a new 787 Dreamliner, as the FAA cleared the way for Boeing to resume deliveries of the jets. </p><p>   --- </p><p>   Pfizer agreed to buy Global Blood Therapeutics for $5.4 billion, a deal that would give the big drugmaker a foothold in the treatment of sickle-cell disease. </p><p>   --- </p><p>   FTC member Noah Phillips plans to resign by this fall, a move that would create a vacancy for a Republican on the five-member panel. </p><p></p>",
+  "published": "2022-08-09T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 965,
+          "end": 971
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.95012885,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.00012886524,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

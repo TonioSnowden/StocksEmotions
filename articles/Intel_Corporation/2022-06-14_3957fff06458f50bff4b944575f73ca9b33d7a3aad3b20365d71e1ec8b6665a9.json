@@ -1,0 +1,64 @@
+{
+  "_id": "3957fff06458f50bff4b944575f73ca9b33d7a3aad3b20365d71e1ec8b6665a9",
+  "feed": "market-watch",
+  "title": "As tech melts down, a truth remains: Semiconductors are eating the world; Global economies and the chip industry are intertwined more than ever",
+  "text": "<p>I recently sat down for the Six Five Summit with Arvind Krishna, CEO of IBM IBM. In the conversation, he shared an observation about how tightly correlated the semiconductor industry is to GDP growth.</p><p>When tech, and more specifically semiconductor companies, grow, GDP grows. And tech growth is nearly 100% dependent on the growth of semiconductors. So, as we enter what looks like a prolonged winter for tech and growth stocks, it seems that keeping a watchful eye on semiconductor growth would be prudent.</p><p>While forecasts vary, McKinsey places the semiconductor industry's growth to become a trillion-dollar industry by 2030 based on what the consulting firm estimated to be 6% to 8% annual growth and around 2% annual price growth — all depending on the return of balance in supply and demand.</p><p>Several trends in semiconductors warrant investors' attention, from the sustained supply chain woes that have played a significant role in today's unprecedented inflation to the earnings and growth of key semiconductor companies like Intel INTC, AMD AMD, Nvidia NVDA, Qualcomm QCOM, Marvell MRVL and Taiwan Semiconductor TSM.</p><p>Perhaps one of the most important trends to pay attention to is the semiconductor ecosystem at large and what is driving a wave of new entrants into chip manufacturing, from PCs to servers. In particular, the emergence of Arm as an enabler of new entrants in semiconductor manufacturing creates competition for incumbents like Intel and AMD, which have long enjoyed the unique advantage of holding the keys to x86, which account for more than 90% of PC chips, and most server chips as well.</p><p>Wrapping Arm around the world</p><p>Antitrust woes put a halt to the Nvidia deal to acquire Arm. But the concerns, which primarily came from some of Arm's biggest adopters and licensees, are a strong indicator of the expected role that Arm will play in the future in powering everything from smartphones to supercomputers.</p><p>Last week at WWDC, Apple AAPL announced its M2 Macs, built on the company's homegrown silicon. Early iterations of the company's Arm processor were problematic. Still, Apple has made massive strides in its chipmaking efforts and is starting to find its stride helping Arm reach nearly 10% of PC volume.</p><p>It is early days for Qualcomm's PC business, but it is worth noting that the company acquired a powerhouse of talent and IP with its Nuvia acquisition. Qualcomm also made a big bet on Arm with its Windows on Snapdragon offerings. Expected early 2023 are the first Nuvia-based chips that will leverage Arm and will likely find their way into designs from the likes of Lenovo, Microsoft MSFT, Samsung, and other OEMs already leveraging Windows on Arm PCs.</p><p>Arm is also seeing strong adoption on the data center and server side. Amazon's AMZN AWS was the first hyperscale cloud provider to make a large bet on Arm with its Graviton instances. At this point, Arm accounts for 20% of AWS server deployments. A report from Trend Force indicated that by 2025, Arm would have around 22% of all server deployments — a sizable market share in just a few years. AWS's success has undoubtedly been a catalyst, alongside a growing trend of disaggregating workloads from monolithic designs of other hyperscalers such as Microsoft's Azure, Google GOOG and Oracle ORCL, all looking to do homegrown silicon.</p><p>The plight of AMD and Intel</p><p>As you read about entrants coming into the space, it is easy to think this could be bad for AMD and Intel. And, of course, to varying degrees.</p><p>Intel has had its share of challenges trying to convince the market it has a strategy that will return it to its glory days. I tend to think the market has been remarkably tough on Intel, but that came from a series of historical events that may require a \"show us, don't tell us\" mentality among investors.</p><p>Having said that, CEO Pat Gelsinger has been aggressive in recapturing Intel's best version of itself, and he has done that through expansion. Arm will be a part of that.</p><p>The Intel Foundry Service (IFS), which I believe has a significant role to play in rectifying long-term supply-chain issues, will become part of the Arm-based manufacturing solution. The company's IDM 2.0 strategy has also indicated a future where its hybrid silicon could contain not only x86 but chiplets that contain x86, Arm and Risc-V.</p><p>During AMD's recent investor-day presentation, the company shared its new $300 billion total addressable market (TAM) as it continues to diversify the business. Intel, Nvidia and Qualcomm have massively expanded their TAMs, based mainly on continued diversification into new markets while benefiting from strong demand growth and price elasticity for chip makers.</p><p>Most of the company's strategy seems to hedge on its continued capture of market share from Intel. Still, its recent $35 billion acquisition of Xilinx also deepens its roots in Arm, adding growth and diversification from just x86.</p><p>Winners and losers</p><p>The short answer is yes, which is precisely why incumbents are migrating to a position of leveraging Arm.</p><p>If Intel can truly get its foundry business humming, it should be a winner in the space — even if that surprises some people.</p><p>The hyperscalers will all be able to build silicon that will deliver to their customers' needs using Arm, which will give enterprises more choice. They will all but certainly drive bottom-line gains for the likes of AWS, Google, Microsoft, Oracle and Alibaba BABA.</p><p>Apple has vertically integrated and made chipmaking a competency. There was reason to be skeptical, but at this point, the company is building quality products that meet its users' needs, and can expand its margins and control its supply chain even better.</p><p>In the PC space, Arm will create more variety and variants. It will spur competition and give more options to OEMs to differentiate. I like Qualcomm here as the company knows how to build and license chipsets perhaps better than any other company in the world — the Nuvia-based solutions will be vital to seeing this materialize.</p><p>And, of course, the biggest winner of all is Arm. As the company lines up to go public, it has nothing but forecasts of solid growth and a world-class list of customers building on its IP.</p><p>'Protected line item in the budget'</p><p>In short, what I think IBM's Krishna was trying to reflect in his semiconductor/GDP correlation comment was twofold. First, any slowdown in semiconductor growth should raise big, red flags for investors and the economy at large. And second, the key to working through much of the expected economic contraction will be dependent on the continued investment in technology infrastructure and software that enables businesses to operate more efficiently and expand productivity.</p><p>Perhaps, his most profound statement in our sit-down was: \"Tech is the most protected line item in the budget,\" in reference to the macroeconomic challenge and how the best companies intend to take a more defensive posture while keeping focused on growth and innovation.</p><p>Nearly everything runs on semiconductors — and almost every innovative tactic we can take to optimize business and consumer activity will depend on semiconductors. If semiconductor growth accelerates, so will the economy — and we should be rooting for that whether x86, Arm or any other available instruction set.</p><p>Daniel Newman is the principal analyst at Futurum Research, which provides or has provided research, analysis, advising or consulting to Nvidia, Intel, Qualcomm and dozens of other companies. Neither he nor his firm holds any equity positions in companies cited. Follow him on Twitter @danielnewmanUV.</p><p>As tech melts down, a truth remains: Semiconductors are eating the world</p>",
+  "published": "2022-06-14T09:39:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3676,
+          "end": 3681
+        },
+        {
+          "start": 7443,
+          "end": 7448
+        },
+        {
+          "start": 3346,
+          "end": 3351
+        },
+        {
+          "start": 5038,
+          "end": 5043
+        },
+        {
+          "start": 3495,
+          "end": 3500
+        },
+        {
+          "start": 3874,
+          "end": 3879
+        },
+        {
+          "start": 1450,
+          "end": 1455
+        },
+        {
+          "start": 4476,
+          "end": 4481
+        },
+        {
+          "start": 3978,
+          "end": 3983
+        },
+        {
+          "start": 3452,
+          "end": 3457
+        },
+        {
+          "start": 1031,
+          "end": 1036
+        },
+        {
+          "start": 4771,
+          "end": 4776
+        }
+      ]
+    }
+  ]
+}

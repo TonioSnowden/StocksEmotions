@@ -1,0 +1,20 @@
+{
+  "_id": "ae736749c1df98728af3d5da3747245d4ce6018fe7cbab70213c204e22428956",
+  "feed": "wall-street-journal",
+  "title": "China Halts Alibaba Cybersecurity Cooperation for Slow Reporting of Threat, State Media Says; Ministry suspends partnership over delay related to the Log4j2 software flaw affecting users world-wide",
+  "text": "<p>The flaw in Apache Log4j software, a free bit of code that logs activity in computer networks and applications, was made public this month and is being exploited by hackers in an attempt to gain access to retail and government sites, among others. In the U.S., officials said hundreds of millions of devices were at risk and issued an emergency directive ordering federal agencies to take steps to mitigate the threat by Christmas Eve.</p><p>Distributed free by the nonprofit Apache Software Foundation, Log4j has been downloaded millions of times and is among the most widely used tools to collect information across corporate computer networks, websites and applications.</p><p>Technology suppliers such as International Business Machines Corp. and VMware Inc. have said they are deploying patches for the flaw, while Amazon.com Inc. and Microsoft Corp. have said they are monitoring the issue.</p><p>Alibaba is part of a national cybersecurity-threat database, which requires members to promptly report information about such glitches, according to the China Daily report. The Hangzhou-based company's failure to report the issue quickly hindered efforts by the Ministry of Industry and Information Technology to handle the threat effectively, the report said.</p><p>The ministry, also known as MIIT, said it would reassess Alibaba's corrective measures before resuming its current partnership, the paper wrote. MIIT didn't respond to a faxed request for comment sent after office hours.</p><p>The MIIT released a statement on its website on Friday about the software flaw, adding that it had received reports of the Log4j vulnerability eight days earlier and called in cybersecurity experts, including those from Alibaba Cloud, to assess the cybersecurity threat. In the statement, the ministry said the Log4j flaw was a high-risk vulnerability, that it could lead to equipment being controlled remotely and could result in sensitive information being stolen.</p><p>MIIT added that Alibaba Cloud had discovered the Log4j vulnerability and had informed the Apache Foundation about its existence.</p><p>Alibaba, the first Chinese technology provider to make a foray into cloud computing, is China's largest cloud provider and had 34% of the country's market in the second quarter of the year, according to researcher Canalys.</p><p>In the European Union, cybersecurity response teams for member countries are closely watching Log4j developments, while Belgium's Defense Ministrysaid it had shut down parts of its computer network because of cyberattacks linked to the vulnerability.</p><p>Rachel Liang and Zhao Yueling contributed to this article.</p><p>Write to Liza Lin at Liza.Lin@wsj.com</p><p>China Halts Alibaba Cybersecurity Cooperation for Slow Reporting of Threat, State Media Says</p>",
+  "published": "2021-12-22T14:48:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 697,
+          "end": 728
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

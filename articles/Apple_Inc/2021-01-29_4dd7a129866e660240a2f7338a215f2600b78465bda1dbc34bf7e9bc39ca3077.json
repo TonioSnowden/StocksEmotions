@@ -1,0 +1,88 @@
+{
+  "_id": "4dd7a129866e660240a2f7338a215f2600b78465bda1dbc34bf7e9bc39ca3077",
+  "feed": "wall-street-journal",
+  "title": "Facebook Undercuts Its Own Argument Against Apple --- Social network's forecast suggests the iPhone maker's privacy update will have little impact",
+  "text": "<p>Facebook, currently the sixth most valuable company in the S&amp;P 500, used its fourth-quarter earnings call late Wednesday to step up its case against Apple Inc., the benchmark index's most valued enterprise. Chief Executive Officer Mark Zuckerberg mentioned the iPhone maker more than half a dozen times in his opening presentation, describing Apple as \"one of our biggest competitors,\" and one that has \"every incentive to use their dominant platform position to interfere with how our apps and other apps work, which they regularly do to preference their own.\" For good measure, he also criticized the security of Apple's highly popular iMessage service.</p><p>The source of his ire is a coming update to Apple's iOS operating system that will require users to opt-in to ad-tracking features used by Facebook and many other internet advertisers. Apple confirmed Wednesday that the update -- known as App Tracking Transparency, or ATT -- is coming this spring, after having delayed its original plan to include the feature in its first release of iOS 14 in September.</p><p>The change has companies across the internet-advertising space worried. Google on Wednesday warned its ad partners in a blog post that Apple's changes \"will reduce visibility into key metrics\" that will affect how advertisers bid on ad impressions. \"As such, app publishers may see a significant impact to their Google ad revenue on iOS after Apple's ATT policies take effect.\"</p><p>Facebook's outcry was louder. With no sense of irony, a company that generated more than $84 billion in ad revenue last year is casting itself as a champion of the little guy. Mr. Zuckerberg said Wednesday that the change means \"many small businesses will no longer be able to reach their customers with targeted ads.\" And he accuses Apple of acting in its own competitive interests. Advertising was indeed the second-largest driver of Apple's service revenue that jumped 24% year over year to nearly $15.8 billion in the December quarter.</p><p>But much of Apple's ad revenue is really the licensing fees paid by Google to keep its search engine as the default on Apple's mobile devices. And Facebook said Wednesday that it expects revenue growth to \"remain stable or modestly accelerate sequentially\" in the first two quarters of this year, despite its expectation that the Apple changes will take effect late in the first quarter. That is coming after a quarter in which the company's revenue jumped 33% year over year -- solidly beating consensus expectations.</p><p>Wall Street doesn't seem too worried. Analysts widely noted Thursday that Facebook's outlook suggests fears about the changes from Apple may be overblown. And Facebook's share price declined 2.6% Thursday, while Apple's fell 3.5% following its own blockbuster results on Wednesday.</p><p>Facebook certainly faces some big challenges, with a growing chorus of lawmakers and regulators calling for a breakup or other form of crackdown on the company. The fact that even Apple doesn't seem to be much of a threat to its business probably doesn't help in that regard.</p>",
+  "published": "2021-01-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2310,
+          "end": 2315
+        },
+        {
+          "start": 1405,
+          "end": 1410
+        },
+        {
+          "start": 1992,
+          "end": 1997
+        },
+        {
+          "start": 1774,
+          "end": 1779
+        },
+        {
+          "start": 44,
+          "end": 49
+        },
+        {
+          "start": 1197,
+          "end": 1202
+        },
+        {
+          "start": 343,
+          "end": 348
+        },
+        {
+          "start": 2630,
+          "end": 2635
+        },
+        {
+          "start": 149,
+          "end": 159
+        },
+        {
+          "start": 841,
+          "end": 846
+        },
+        {
+          "start": 700,
+          "end": 705
+        },
+        {
+          "start": 615,
+          "end": 620
+        },
+        {
+          "start": 2711,
+          "end": 2716
+        },
+        {
+          "start": 149,
+          "end": 154
+        },
+        {
+          "start": 2099,
+          "end": 2104
+        },
+        {
+          "start": 149,
+          "end": 158
+        },
+        {
+          "start": 1876,
+          "end": 1881
+        },
+        {
+          "start": 2961,
+          "end": 2966
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

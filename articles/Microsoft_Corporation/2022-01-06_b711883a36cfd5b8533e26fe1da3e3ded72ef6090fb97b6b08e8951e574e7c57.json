@@ -1,0 +1,32 @@
+{
+  "_id": "b711883a36cfd5b8533e26fe1da3e3ded72ef6090fb97b6b08e8951e574e7c57",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Chinese Regulators Indicate Tech Crackdown Isn't Over",
+  "text": "<p>Shares of many Chinese internet companies tumbled again in Hong Kong on Wednesday, after industry giant Tencent Holdings Ltd. sold a $3 billion stake in one of its highflying affiliates and Chinese regulators indicated their long-running crackdown on the sector is far from over.</p><p>More below.</p><p>Your Firewall May Be Your Downfall</p><p>The pandemic may have weakened global supply chains, but there's no shortage of DDoS attacks. In fact, without taking these countermeasures, your connectivity supply chain may be at risk.</p><p>Read More</p><p>Beijing is still trying to rein in China's internet-technology sector following more than a year of regulatory actions that have included financial penalties and demands for many large companies to serve public interests better.</p><p>On Wednesday, the Cyberspace Administration of China proposed a range of revisions to its regulation of mobile apps and said some operators will have to undergo security reviews before introducing new features or technologies that could influence public opinion or mobilize society.</p><p>The Hang Seng Tech Index, which tracks the 30 biggest Hong Kong-listed technology companies, fell 4.6% on Wednesday to another closing low. The drop was led by Tencent-backed internet businesses such as food-delivery giant Meituan and short-video platform operator Kuaishou Technology, which lost 11% and 7.5% respectively.</p><p>Read the full story.</p><p>More Cyber and Privacy News</p><p>Don't relax Log4j remediation, Microsoft says. Coming up on one month after vulnerabilities in the free Log4j logging tool came to light, Microsoft urged security chiefs to apply patches and stay watchful. Microsoft, cybersecurity company CrowdStrike Holdings Inc. and the Cybersecurity and Infrastructure Security Agency have released scanners to help assess tech set-ups for Log4j risks. (ZDNet)</p><p>\"Due to the many software and services that are impacted and given the pace of updates, this is expected to have a long tail for remediation, requiring ongoing, sustainable vigilance,\" Microsoft said.</p><p>How we got here: Millions of Attempts Made Per Hour to Exploit Software Flaw</p><p>BRENDAN MCDERMID</p><p>/REUTERS</p><p>New York AG warns 17 companies of cyberattacks. Hackers used credential stuffing—the brute-force testing of user names and passwords on websites—to compromise 17 retailers, restaurants and food-delivery services in the last several months, said Letitia James, New York's Attorney General, citing an investigation by her office. She didn't identify the businesses.</p><p>More than 1.1 million user accounts were involved, the investigation found. The businesses took steps to stop the attacks and protect customer data after being notified by Ms. James's office, she said.</p><p>Canadian manufacturer said it doesn't plan to pay ransom demand. Ransomware hackers who left threatening messages on a server, along with similar voice-mail messages, shouldn't expect a response from Weldco-Beales Manufacturing, a tech manager at the heavy-equipment maker told ITWorld Canada. The company has repaired affected systems and doesn't believe the attackers got much data. The same hacking group claimed to have attacked 10 other organizations in the U.S. and Canada in late December.</p><p>Advertisement</p><p>PHOTO: DENIS BALIBOUSE/REUTERS</p><p>Swiss army directs troops to stop using Meta's WhatsApp and other foreign messaging apps, citing concerns about the security of sensitive information. Army personnel should use the homegrown Threema messaging service for official communications, a memo to army leaders said.</p><p>Information on Threema, an encrypted chat app built in Sweden, wouldn't be accessible to U.S. authorities under the Cloud Act, a 2018 law that allows the U.S. to obtain data stored on servers outside the country. (Associated Press)</p><p>Cyber insurance rates are expected to keep rising in 2022, Fitch Ratings said, as attacks continue and damages accrue. (Insurance Journal)</p><p>Hotel and pub chain McMenamins, based in Portland, Ore., said a recent ransomware attack exposed employee information dating to 1998. The company is notifying nearly 15,000 current and former workers of the incident. McMenamins continues to investigate and said compromised files could number 30,000. Contact information, income and performance records were potentially accessed. It isn't clear why McMenamins had retained the information over decades. (The Oregonian)</p>",
+  "published": "2022-01-06T14:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1548,
+          "end": 1557
+        },
+        {
+          "start": 1616,
+          "end": 1625
+        },
+        {
+          "start": 1441,
+          "end": 1450
+        },
+        {
+          "start": 1993,
+          "end": 2002
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

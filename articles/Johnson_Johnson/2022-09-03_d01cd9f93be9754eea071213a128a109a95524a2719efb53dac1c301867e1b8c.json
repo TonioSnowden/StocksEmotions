@@ -1,0 +1,34 @@
+{
+  "_id": "d01cd9f93be9754eea071213a128a109a95524a2719efb53dac1c301867e1b8c",
+  "feed": "economist-newspaper",
+  "title": "Horseshoe crabs: A rapacity for carapaces",
+  "text": "<p>Parts of modern medicine have been unusually reliant on the horseshoe crab. Its blood is the only known natural source of limulus amebocyte lysate (LAL), an extract that detects endotoxin, a nasty and sometimes fatal bacterium. Drug firms use it to ensure the safety of medicines and implanted devices, including antibiotics, anti-cancer drugs, heart stents, insulin and vaccines. The immune cells in the crab's blood clot around toxic bacteria, giving a visual signal of unwanted contamination.</p><p>As pharmaceutical companies ramped up production of the covid-19 jab, demand for the blue liquid soared. In 2020 nearly 650,000 crabs were bled in America, 36% more than in 2018.</p><p>Bleeding is not without harm to the crabs. Conservationists estimate that between 5% and 30% of them die on release. Biologists at the University of New Hampshire have found that, once bled, females become lethargic and have trouble following the tides to egg-laying areas. According to the Wetlands Institute, a non-profit group, the number of horseshoe crabs in Delaware Bay, where the Atlantic variety spawns, has declined by 90% over the past 15 years.</p><p>In 2016 the International Union for Conservation of Nature listed them as \"vulnerable\" to extinction. It blamed overharvesting for use as food, bait and biomedical testing, as well as habitat loss. This also hurts other species. The red knot, a bird that migrates from South America to the Arctic tundra, is endangered largely because of the decline in horseshoe-crab eggs in Delaware Bay, a stopover.</p><p>As crab numbers fall and demand for LAL rises, America's biomedical industry will face a crunch. Billions of covid-19 vaccinations have relied on it, but so do plenty of routine surgical procedures such as hip replacements, whose numbers are growing. Charles River, one of four manufacturers of LAL in America, estimates that 55% of injectable pharmaceuticals and implanted devices globally are tested using the extract produced at their facility in Charleston.</p><p>Yet a synthetic alternative to LAL is already available, which in Europe is rapidly replacing crab blood as the industry standard for testing. In 2003 Lonza, a Swiss biotech company, cloned crab DNA to create recombinant Factor C (r FC). Troubled by the red knot's decline, Jay Bolden, an avid birdwatcher and biologist, pioneered the use of r FC in America at Eli Lilly, a pharmaceutical company. In a study published in 2017 Mr Bolden found that r FC detected endotoxins as well as LAL, or even better. The test turned up fewer false positives and, moreover, was cheaper to produce.</p><p>That year Eli Lilly vowed to test all new products with r FC; 80% of the company now uses it instead of LAL. Sanofi, a French pharmaceutical firm, is also making the switch at their American plants. In 2018 America's Food and Drug Administration (FDA) approved the first medicine tested with r FC. Six more of Eli Lilly's have since been authorised.</p><p>In Europe, China and Japan, pharmacopoeias list r FC among their approved endotoxin-testing agents. But the US Pharmacopeia (USP), a non-profit that helps set medical quality standards on which the FDA relies, has been reluctant to add the synthetic substance to its list. That means American firms that want to use r FC tests must work harder to prove their safety to the FDA. To explain its hesitation, USP says that \"one adverse incident might not only set back the adoption of r FC but could damage overall trust in vaccines or other injectables, already plagued by misinformation.\"</p><p>That holdup comes with its own costs. Barbara Brummer, who previously worked at Johnson &amp; Johnson and is now with the Nature Conservancy, an NGO, sums it up: \"We are doing damage to an endangered population and not using an alternative that is equally effective and could be mass-produced\" more cheaply.</p><p>Charles River argues that supply fears are overblown, and that bleeding does little harm to crabs; it has been a vocal critic of the synthetic option, on safety grounds. But if USP approved synthetic testing, Mr Bolden reckons America's other drug companies would swiftly turn away from LAL. The next several rounds of covid-19 boosters produced in America will rely on the horseshoe crab. But such vampire-like dependence on its blue blood cannot last much longer.</p>",
+  "published": "2022-09-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3598,
+          "end": 3615
+        },
+        {
+          "start": 3567,
+          "end": 3584
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

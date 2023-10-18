@@ -1,0 +1,32 @@
+{
+  "_id": "2b5e6101632f8ef2c33b2b27a4bf55dfd9f444a22a5e90f5b10f0aebfdcc580d",
+  "feed": "market-watch",
+  "title": "Senators urge FTC to investigate TikTok over how it handles U.S. user data; Two top members of intelligence committee cite 'apparent deception' revealed in recent news reports",
+  "text": "<p>\"We ask that your agency immediately initiate [an] investigation on the basisof apparent deception by TikTok, and coordinate this work with any national security or counter-intelligence investigation that may be initiated by the U.S. Department of Justice,\" the senators wrote. \"Additionally, these recent reports suggest that TikTok has also misrepresented its corporate governance practices.\"</p><p>Last month, Buzzfeed News reported that U.S. user data has been repeatedly accessed from China, raising security concerns that China's government could access sensitive personal information through backdoor methods. TikTok called the report misleading.</p><p>On Tuesday, TikTok said that it limits access to U.S. user data across regions, including to China.</p><p>\"That access is subject to a series of robust controls, safeguards like encryption for certain data, and authorization approval protocols overseen by our U.S.-based leadership/security team,\" Michael Beckerman, TikTok's vice president and head of public policy, Americas, said in a statement.</p><p>TikTok last month said it had moved data on U.S. usersto Oracle Corp. ORCL servers, \"to give users even more peace of mind.\"</p><p>But that did not allay the senators' concerns.</p><p>\"While TikTok has suggested that migrating to U.S.-based storage from a U.S. cloud service provider alleviates any risk of unauthorized access, these latest revelations raise concerns about the reliability of TikTok representations,\" they wrote. \"In light of repeated misrepresentations by TikTok concerning its data security, data processing, and corporate governance practices, we urge you to act promptly on this matter,\" they said to the FTC's Khan.</p><p>The security of TikTok's data has been an issue for years, and in 2020 the Trump administration ordered ByteDance to divest TikTok, though that policy was never resolved following the election.</p><p>Last week, Brendon Carr, a Republican member of the Federal Communications Commission, asked Apple Inc. AAPL and Alphabet Inc.'s GOOGL GOOG Google to remove TikTok from their app stores, saying it poses a national security threat, citing the revelations in the Buzzfeed report.</p><p>Senators urge FTC to investigate TikTok over how it handles U.S. user data</p>",
+  "published": "2022-07-06T02:48:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1954,
+          "end": 1964
+        },
+        {
+          "start": 1965,
+          "end": 1969
+        },
+        {
+          "start": 1954,
+          "end": 1963
+        },
+        {
+          "start": 1954,
+          "end": 1959
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "ed513a0b309775984c608d59a8fa1521dbd53054b9ee56eadd9a562683e6a47b",
+  "feed": "market-watch",
+  "title": "Berkshire Hathaway boosts Apple, Amazon stakes",
+  "text": "",
+  "published": "2022-08-15T20:50:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 26,
+          "end": 31
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

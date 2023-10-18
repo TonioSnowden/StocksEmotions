@@ -1,0 +1,34 @@
+{
+  "_id": "1ae215eadb1c6e1cf9114edcc3879c37c66ffdbc0c7a5c9562cb3717f06dcda4",
+  "feed": "wall-street-journal",
+  "title": "Amazon Among Bidders for Signify Health; A deal would mark Amazon's latest foray into the healthcare sector",
+  "text": "<p>CVS Health Corp. is also among the suitors, The Wall Street Journal previously reported, as the drugstore and insurance giant looks to expand in home-health services. UnitedHealth Group Inc. and another corporate buyer are also circling the company, according to the people.</p><p>There is no guarantee any of them will reach a deal for Signify, which has been exploring strategic alternatives. The healthcare company has a market value of roughly $5 billion, boosted since the Journal first reported on the possibility of a deal early this month.</p><p>Signify uses analytics and technology to help employers, health plans, physician groups and health systems with in-home care. It offers in-home health evaluations for Medicare Advantage and other government-run managed care plans.</p><p>A deal would mark Amazon's latest foray into the healthcare sector, and the second time in recent months it faced off against CVS.</p><p>The online-commerce and media and technology giant in July agreed to pay$3.9 billion for 1Life Healthcare Inc., which operates a primary-care practice under the name One Medical. The deal marks the first major acquisition announced during the tenure of Chief Executive Andy Jassy, for whom expansion into healthcare is a top priority.</p><p>CVS also had eyed the One Medical parent, according to people familiar with the matter.</p><p>New York-based private-equity firm New Mountain Capital is an investor in Signify, after first backing it in 2017.</p><p>Write to Laura Cooper at laura.cooper@wsj.com</p><p>Amazon Among Bidders for Signify Health</p>",
+  "published": "2022-08-21T23:50:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 167,
+          "end": 190
+        },
+        {
+          "start": 166,
+          "end": 189
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.219524,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.31952405,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "a5b8fc9874befc5df0326877b114b83b7427a062edc6d3188b672088a6797bb6",
+  "feed": "wall-street-journal",
+  "title": "Google-Backed Data Project Aims to Quantify Benefits of Lower-Carbon Jet Fuel; Companies are hoping sustainable aircraft fuel can help them meet climate goals, but tracking emissions across its life cycle is a challenge",
+  "text": "<p>Amelia DeLuca, Delta's managing director of sustainability, said demand for the service is expected to be driven by companies that send staff on business flights and want to log the resulting emissions, especially if they are paying extra for flights running on sustainable fuel.</p><p>\"For those corporate travelers who have business travel emissions, sustainable aviation fuel is really the only [avenue] to achieve alignment with the Paris Agreement today in terms of bringing those emissions down over time,\" Ms. DeLuca said, referring to the international treaty that aims to limit global warming.</p><p>Aviation contributes about 2% of carbon dioxide emissions globally, and demand for air travel is projected to increase by 3.6% annually over the next 20 years from a 2018 baseline, according to the latest forecast by the International Civil Aviation Organization, the United Nations' aviation agency, taking into account the effects of the Covid-19 pandemic. Expanding the use of alternative fuels has emerged as a potential route to emission reductions for the industry and its customers.</p><p>Companies including software supplier Palantir Technologies Inc., computer maker HP Inc. and sportswear giant Nike Inc. have agreed to purchase sustainable fuel through carriers for their business travel. Around 7 billion liters of SAF have been presold in forward purchase agreements globally, the International Air Transport Association said this year.</p><p>But it isn't easy for end-users to verify the climate benefits from the SAF they are using. Airlines provide some emissions data, which are often assured by third-party providers, but less is known about the carbon intensity of the SAF before it is received by the carrier. Different feedstocks used for alternative fuels—typically animal fats, agricultural crops or waste—emit different levels of carbon, and so do their production processes, according to the International Council on Clean Transportation, a think tank. Some of the methods could reduce emissions savings or even increase emissions in some cases, the ICCT found.</p><p>Accurately tallying carbon would involve tracking SAF through its life cycle, from the production of the biomass used to make the fuel, through the refining and shipping process to the moment the plane's engine is switched off.</p><p>\"It's the kind of space where data is a unique challenge,\" says Kellen Betts, a project manager at the Center for Transportation &amp; Logistics at the Massachusetts Institute of Technology. End users typically rely on models or programs to estimate their emissions rather than using primary data, Mr. Betts said.</p><p>\"Demand for SAF can be significantly accelerated by increasing transparency around feedstock,\" Royal Dutch Shell PLC said in a report it published on Sunday based on a survey of the aviation sector, adding that other factors such as more use of certification would also hasten adoption.</p><p>The model being trialed by Google, Chevron and Delta could simplify the data-collection process. It relies on a cloud-based platform that Google said it will build to receive and analyze emissions data. Chevron will produce a test batch of SAF using crushed soybean oil at its El Segundo, Calif., refinery and provide emissions modeling data as well as carbon intensity data from its supplier to Google.</p><p>The oil major will then sell the sustainable fuel to Delta, which will feed data back to Google such as the flight's fuel consumption.</p><p>Corporate customers will be able to get a full viewpoint of the SAF lifecycle, Delta's Ms. DeLuca said. \"What we want to do is standardize those calculations,\" she added, so that the whole aviation industry could adopt the same standard.</p><p>If it works, the new tool would \"help give confidence to corporate customers and travelers to step into this space\" by providing a new level of transparency and credibility, said Charlotte Hardenbol, the head of programs and solutions at Dutch-based SAF provider SkyNRG BV.</p><p>Write to Kimberly Chin at kimberly.chin@wsj.com</p><p>Google-Backed Data Project Aims to Quantify Benefits of Lower-Carbon Jet Fuel</p>",
+  "published": "2021-09-20T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "offsets": [
+        {
+          "start": 3101,
+          "end": 3108
+        },
+        {
+          "start": 2933,
+          "end": 2940
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "b5cc8eccb845332be06205693de45325ed6ceb05d6b05efec7e3c0d0715fb6d1",
+  "feed": "wall-street-journal",
+  "title": "Bed Bath & Beyond Confirms Death of CFO Gustavo Arnal; The 52-year-old executive joined the home-goods retailer in 2020 after previously working as a finance executive at Avon and Procter & Gamble",
+  "text": "<p>Police responded Friday afternoon to a 911 call of an unconscious person near a skyscraper on Manhattan's west side, according to a statement from the New York City Police Department. Upon arrival, officers found an individual they identified as 52-year-old Gustavo Arnal, who appeared to suffer from injuries indicative of a fall from an elevated position and was pronounced dead at the scene by emergency personnel, the police statement said.</p><p>The city's medical examiner's office will determine the cause of death, and the police investigation remains ongoing, the statement said.</p><p>The skyscraper at 56 Leonard Street, known as the Jenga Tower, is a 57-story apartment building located in Manhattan's Tribeca neighborhood. The building is known for its shape, with misaligned apartments stacked on top of each other.</p><p>The New York Post reported earlier on the situation.</p><p>Mr. Arnal, 52 years old, who joined the retailer in 2020 amid the coronavirus pandemic, spoke with investors last week about the company's efforts to help shore up financing and restructure operations. Previously, he was a finance executive at Avon and Procter &amp; Gamble Co.</p><p>\"The entire Bed Bath &amp; Beyond Inc. organization is profoundly saddened by this shocking loss,\" the company said Sunday in a statement.</p><p>The company said last week it would close roughly 20% of its stores, cut its workforce, and bring in fresh cash to stabilize the business as it approaches the holiday season.</p><p>Mr. Arnal was involved in accelerating the retail chain's effort to free up cash for the business. The company introduced a revamped model that required less inventory to fill shelves under his watch.</p><p>Bed Bath &amp; Beyond struggled under a strategy introduced by former CEO Mark Tritton to replace popular name brands with private label items. Mr. Tritton left the company in June. Last week, the company said it would focus more on national brands after spending millions to develop private-label goods.</p><p>The company has been burning through cash reserves over several quarters. The company's shares took a hit Aug. 18, when billionaire activist investor Ryan Cohen unloaded his entire stake in the company, about five months after initially acquiring his shares.</p><p>On Aug. 31, the company announced it secured $500 million in new financing. It also said it would slash its workforce and close underperforming stores.</p><p>Mr. Arnal held an undergraduate degree in mechanical engineering from the Universidad Simón Bolívar in Venezuela and a master's degree in finance from Venezuela's Universidad Metropolitana, according to the company's website.</p><p>Mr. Arnal had joined Bed Bath &amp; Beyond in April 2020 after working as CFO of beauty products maker Avon and in senior positions overseas at Procter &amp; Gamble. At the time, a Bed Bath &amp; Beyond spokesman said that his deep knowledge of retail and consumer goods would help accelerate its transformation plans. He earned a $775,000 salary before stock awards, securities filings show.</p><p>Write to Ginger Adams Otis at Ginger.AdamsOtis@wsj.com and Ryan Felton at ryan.felton@wsj.com</p><p>Bed Bath &amp; Beyond Confirms Death of CFO Gustavo Arnal</p>",
+  "published": "2022-09-04T18:06:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "nexusId": "10044575",
+      "name": "The Procter & Gamble Company",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 180,
+          "end": 196
+        },
+        {
+          "start": 1117,
+          "end": 1136
+        },
+        {
+          "start": 2715,
+          "end": 2731
+        },
+        {
+          "start": 2734,
+          "end": 2750
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.283702,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.28370214,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

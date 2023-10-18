@@ -1,0 +1,34 @@
+{
+  "_id": "83039f4cfd4d2ecff5d0486ee48629c7b1a523573c0718459fbb4b7dfe19c1e0",
+  "feed": "wall-street-journal",
+  "title": "Telehealth Companies Lobby to Extend Pandemic-Era Rules; Biden administration says it supports continued prescription of opioid-addiction drugs by phone",
+  "text": "<p>The push comes after some online startups faced scrutiny from lawmakers and pharmacies over their prescription practices. To maintain pandemic-era telehealth practices, more than 100 groups asked the Drug Enforcement Administration this month to create a registry of providers allowed to prescribe drugs online for conditions including opioid addiction. That would protect their operations when the Biden administration ends the Covid-19 public-health emergency, during which restrictions on telehealth have been relaxed. The emergency is set to extend into spring.</p><p>\"There's really this massive sense of urgency,\" said Kyle Zebley, director of public policy at the American Telemedicine Association, which is leading the push for the registry. The association and allies including the American Psychiatric Association and Columbia University Irving Medical Center said an end to prescribing controlled substances remotely could cut patients off from critical treatment.</p><p>\"You can't just stop taking controlled substances cold turkey,\" said Robert Krayn, chief executive officer of Talkiatry Management Services LLC, a telehealth psychiatry practice. \"What is the alternative for them?\"</p><p>Cerebral Inc., which is under DEA investigation for possible violations of the Controlled Substances Act, pushed for the registry earlier this year. Rival Done Global Inc. is also under DEA investigation for its prescribing practices and is lobbying for the registry. Cerebral says that in October it stopped prescribing controlled substances other than Suboxone to treat opiate addiction. The Wall Street Journal first reported that some Cerebral and Done clinicians felt pressured to prescribe stimulants to treat attention-deficit hyperactivity disorder. Walmart Inc. and CVS Health Corp. have said they wouldn't fill controlled substance prescriptions for the companies.</p><p>Done declined to comment. \"We do not lobby and we have not lobbied,\" said Cerebral spokesman Chris Savarese. He didn't respond to a question about the company signing a letter sent in March by the American Telemedicine Association. Cerebral has previously said that it hasn't been accused of violating any laws.</p><p>Rep. Gerry Connolly (D., Va.) wrote in a June letter to the DEA that \"bad actors encourage clinical staff to prescribe dangerous drugs with little oversight from management or qualified staff.\" He said he and other lawmakers want to prevent bad actors from jeopardizing support for legitimate telehealth services.</p><p>The DEA has submitted two potential regulations to the White House Office of Management and Budget, federal records show. One would create the registry. The other would allow an opioid-treatment medication, buprenorphine, to be prescribed by phone.</p><p>\"The DEA, in collaboration with our public health partners, is committed to finalizing permanent regulations that will allow for the prescription of buprenorphine for opioid use disorder by telemedicine,\" the DEA said. The agency didn't answer questions regarding the regulation that would create the broader registry.</p><p>The White House said it wants opioid users to maintain remote access to prescription anti-addiction medications, some of which are controlled substances. Representatives for the administration didn't say whether telehealth allowances should continue for all controlled substances, including stimulants such as Adderall to treat ADHD.</p><p>\"Telehealth flexibilities implemented during the Covid-19 era are playing a critical role in expanding access to treatment for people with opioid-use disorder and saving lives each day,\" said Rahul Gupta, director of the White House Office of National Drug Control Policy.</p><p>Congress in 2008 passed legislation requiring an in-person appointment before a clinician can prescribe controlled substances, which the DEA groups into categories according to their potential for abuse. The law directed the DEA to create a registry of clinicians allowed to prescribe controlled substances by telemedicine. The DEA never created the registry. Congress later set a 2019 deadline for it that the DEA missed.</p><p>Officials didn't create the registry in part because they were concerned about the potential for drug abuse via telehealth in the midst of the ballooning opioid crisis, said Rob Patterson, a former DEA acting administrator. \"It felt almost insane to say, 'Hey, let's open this up even more to potential abuse,'\" he said.</p><p>Done hired former Rep. Bart Stupak, who sponsored the 2008 legislation, to lobby for the DEA to create the registry. The company has paid $150,000 to the firm of the former Democratic representative from Michigan this year, according to federal filings. Mr. Stupak declined to comment.</p><p>Mindbloom Inc., which works with clinicians to prescribe ketamine to treat depression and anxiety at home, hired former Rep. Greg Walden, Republican from Oregon, to lobby on telehealth policy, according to federal filings.</p><p>Transgender-health startup Plume said it has lobbied for more than a year to continue virtually prescribing testosterone, a controlled substance. Plume executives said they would find a way to continue treating patients if the DEA or Congress don't create a permanent exemption for some controlled substances. Before the pandemic, Plume staff met with new patients in person.</p><p>\"There are marginalized communities that have deeply benefited from this,\" said Plume CEO Matthew Wetschler.</p><p>Write to Liz Essley Whyte at liz.whyte@wsj.com, Rolfe Winkler at Rolfe.Winkler@wsj.com and Brianna Abbott at brianna.abbott@wsj.com</p>",
+  "published": "2022-11-25T16:25:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.99994147,
+      "offsets": [
+        {
+          "start": 1743,
+          "end": 1755
+        },
+        {
+          "start": 1743,
+          "end": 1754
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

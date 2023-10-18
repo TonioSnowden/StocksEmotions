@@ -1,0 +1,42 @@
+{
+  "_id": "ab454854d123e49ad0669c2809e1b1803fe6df9ecb1dc566b9919696154e9476",
+  "feed": "wall-street-journal",
+  "title": "ValueAct Takes Stake in New York Times; Activist investor says media company's shares are undervalued, represent investment opportunity",
+  "text": "<p>Among ValueAct's plans for New York Times is convincing more readers to pay for content from new acquisitions such as sports-media company the Athletic, as well as subscriber favorites such as crosswords, games and recipes, a person familiar with the matter said.</p><p>Shares of New York Times rose nearly 11% to $35.05. They are down around 27% this year.</p><p>A New York Times spokeswoman said the company is aware that ValueAct has made an investment in the company. \"As we do with other shareholders, members of our management team have had conversations with ValueAct to hear their views and share ours,\" she said.</p><p>ValueAct paid around $350.2 million for the shares, according to the filing. Based on the current share price, ValueAct's stake is valued at around $387 million.</p><p>ValueAct said in the filing that it believes that New York Times shares are undervalued and represent an attractive investment opportunity.</p><p>ValueAct, founded in 2000, has stakes in companies in sectors ranging from information technology and energy to financials and consumers.</p><p>ValueAct invests in a small number of companies at once and, in many cases, pushes for representation on the board. It is known for doing much of its work quietly, working behind the scenes to influence decision-making. Its other media investments have included the company now known as Fox Corp. which, like New York Times, also has a large portion of its shares controlled by one family. ValueAct founder and former Chief Executive Officer Jeffrey Ubben held a board seat there from 2015 to 2018. Fox and Wall Street Journal parent company News Corp share common ownership.</p><p>Mr. Ubben stepped back from ValueAct in 2017, leaving protégé Mason Morfit in charge. Mr. Morfit is known for having served on Microsoft Corp.'s board, where he drew praise from Microsoft Chief Executive Satya Nadella for providing an outsider's view.</p><p>Pressuring the New York Times for change could be difficult because of its dual-class share structure that preserves voting power with the Ochs-Sulzberger Trust. The family trust owns 95% of Class B shares, and can elect 70% of the board of directors.</p><p>The Times in recent years has diversified its efforts beyond news, increasingly stretching into areas such as games and lifestyle. The company earlier this year acquired the Athletic for $550 million, a deal meant to help the publisher expand its subscription offerings and draw in young readers, and digital word game Wordle.</p><p>In February, the news organization said it surpassed 10 million subscriptions, and set a new target of at least 15 million total subscribers by year-end 2027.</p><p>The company added 180,000 digital subscribers in the most recent quarter but posted its first decline in digital advertising revenue since 2020, citing in part the macroeconomic environment.</p><p>In recent years the Times has placed a greater emphasis on non-news products, which it offers both a la carte and in a bundle.</p><p>Subscriptions to its non-news products have grown rapidly. The company didn't break down the number of subscribers to each of its digital products in its earnings call last week, but said digital subscriber growth was driven by its bundle, Games and The Athletic. The subscription growth is helping to offset the slowdown in advertising growth.</p><p>Denny Jacob contributed to this article.</p><p>Write to Patience Haggin at patience.haggin@wsj.com</p><p>ValueAct Takes Stake in New York Times</p>",
+  "published": "2022-08-12T00:47:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 1738,
+          "end": 1753
+        },
+        {
+          "start": 1753,
+          "end": 1768
+        },
+        {
+          "start": 1789,
+          "end": 1798
+        },
+        {
+          "start": 1804,
+          "end": 1813
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.5125,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

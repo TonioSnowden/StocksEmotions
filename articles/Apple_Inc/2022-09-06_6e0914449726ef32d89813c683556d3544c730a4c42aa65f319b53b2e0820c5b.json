@@ -1,0 +1,56 @@
+{
+  "_id": "6e0914449726ef32d89813c683556d3544c730a4c42aa65f319b53b2e0820c5b",
+  "feed": "wall-street-journal",
+  "title": "PERSONAL JOURNAL  ---  Family & Tech:  Keep Control  Of Screen Time  ---  Kids have all kinds of hacks for getting around  device locks, but parents can outwit them  ----  By Julie Jargon",
+  "text": "<p>\n   If you think locking down your kids' iPhones or iPads is just a matter of turning on some Screen Time settings, think again. </p><p>\n   Apple's Screen Time controls are fairly simple, and in most cases, they can provide peace of mind. But it's no surprise that children have gotten good at finding ways to bypass its time limits and app restrictions. Some workarounds are clever hacks, others entail sketchy software downloads. Often, though, kids are benefiting from the mistakes their parents made when setting up controls. </p><p>\n  First: Don't ever share your Apple ID password or Screen Time passcode with your children. </p><p>\n  With the launch of iOS 16, expected in the coming weeks, Apple is making Screen Time and Family Sharing setup easier for parents. With each software update, it also fixes known hacks -- including many that were mentioned to me by online-safety experts, ethical teen hackers and parents. The best way to outwit your children is to make sure their devices run the latest system software. </p><p>\n  Go to Settings &gt; General &gt; Software Update and make sure the Automatic Updates option is on. </p><p>\n  If the kids are using old, hand-me-down iPads or iPhones, Apple might no longer provide those important updates. Any device Apple doesn't support anymore could be vulnerable to funny business. </p><p>\n  I focused on Apple because of its dominance of the U.S. market, especially among kids. Any device or platform's parental controls could be susceptible to manipulation, so always be on your guard. </p><pre> </pre><p>\n  How They Hack </p><p>\n  Here are some common workarounds children use in their attempts to bypass Apple's Screen Time restrictions: </p><pre> </pre><p>\n  -- Changing the time zone. Setting the device to an earlier time zone can fool Downtime, the Screen Time function that prevents users from accessing a device's apps after a preset time. Apple was supposed to have fixed this in iOS 15, but the trick sometimes still works on iPhones and iPads. </p><p>\n  I tested it out on my daughter's iPad Pro, which was running the slightly older iPadOS 15.5.I scheduled downtime to begin at 8:25 a.m. Pacific. At that time, all the apps went gray and I couldn't open them. But when I changed the device's time zone to Honolulu's, three hours behind me in California -- bingo! -- I was able to open any app. </p><p>\n  I updated the tablet to the latest version of iPadOS, 15.6.1, and the time-zone hack no longer worked. </p><p>\n  Chris McKenna, founder of internet-safety company Protect Young Eyes, has been informing Apple of Screen Time hacks for years. When he scheduled downtime on his up-to-date iPhone and then changed the time zone to an earlier one, he was still able to access all his apps. (This might be because he is the admin for his Family Sharing group.) </p><p>\n  An Apple spokeswoman said her team couldn't replicate the time-zone workaround on an iPhone running the latest software, and neither could I. </p><pre> </pre><p>\n  -- Tapping for more time. After setting up a downtime schedule, parents sometimes forget to toggle on Block at Downtime. If that's not turned on, kids can tap Ignore Limit and keep going. </p><pre> </pre><p>\n  -- Redownloading an app. When children reach their time limit on an app, they can remove it from their device and redownload it without parental approval. The app is then accessible until the next downtime period is scheduled. (This doesn't work on the latest iPhone and iPad operating systems, based on my own testing, but several people told me it works on older versions). </p><p>\n  You can prevent this by adjusting app permissions. In Settings, go to Screen Time &gt; Content &amp; Privacy &gt; iTunes &amp; App Store Purchases &gt; Deleting Apps. Set that to Don't Allow. </p><pre> </pre><p>\n  -- Screen recording. If you've set up Screen Time on your child's device and your kid hands it to you to type in the Screen Time passcode, he or she can secretly record the screen by turning on the option in the control center. When you hand it back, there will be a video showing what you typed, says Claire Wang. She's a high-school senior in Andover, Mass., who leads an online community for Hack Club, a nonprofit coding network for students. </p><pre> </pre><p>\n  -- Downloading software. TikTok and YouTube are full of tutorials on how to download programs for Macs and PCs that promise to bypass Screen Time limits without a passcode. They often require users to make an unencrypted backup of their phone while connected to the computer. One YouTuber advises kids to clear the computer's browser history after installing the software so their parents don't know they went to the website. </p><p>\n  How well these programs really work -- and whether they leave your phone vulnerable to malware -- is something I didn't want to test. </p><p>\n  \"No one truly knows what these applications indeed do or hold the power of doing,\" said Joshua Kats, a former Hack Club member who's now studying cybersecurity at Macaulay Honors College in New York. </p><pre> </pre><p>\n  -- Turning to a burner phone.  Some kids scrounge up a burner -- either a prepaid cellphone or an old model dug out of a drawer or borrowed from a friend. Even without a data plan, devices can still get online via Wi-Fi. </p><pre> </pre><p>\n  What to Say to Your Kids </p><pre> </pre><p>\n  Mr. McKenna, the internet-safety expert, suggests a trust-building approach to abiding by parental controls, with clear consequences for violations. </p><p>\n  \"It's important to acknowledge to your kids that you know hacks exist,\" he says. \"Then you can say, 'If you follow our rules, awesome, have a great time with the phone, but if you don't, I'm telling you what will happen, and that's your choice.' \" </p><p>\n  If you suspect your children have already figured out some kind of hack, Mr. McKenna recommends giving them one-time amnesty. He suggests saying something like, \"Wow, I've set up Screen Time and either it's not working right or you're so smart, you've out-hacked Dad.\" He says to tell them they won't be in trouble this time, but if the kids don't fess up, then maybe the device disappears. </p><p></p>",
+  "published": "2022-09-06T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2679,
+          "end": 2684
+        },
+        {
+          "start": 125,
+          "end": 130
+        },
+        {
+          "start": 1563,
+          "end": 1568
+        },
+        {
+          "start": 1784,
+          "end": 1789
+        },
+        {
+          "start": 1143,
+          "end": 1148
+        },
+        {
+          "start": 663,
+          "end": 668
+        },
+        {
+          "start": 1291,
+          "end": 1296
+        },
+        {
+          "start": 544,
+          "end": 549
+        },
+        {
+          "start": 2424,
+          "end": 2429
+        },
+        {
+          "start": 1209,
+          "end": 1214
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

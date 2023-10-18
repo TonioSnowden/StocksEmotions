@@ -1,0 +1,58 @@
+{
+  "_id": "2c467035039bf800ba2abb8cc1ba58bb02fe92e09fb2629e4acfcc8f49acbd52",
+  "feed": "market-watch",
+  "title": "Activist investor calls on Disney to spin off ESPN",
+  "text": "<p>\"ESPN would have greater flexibility to pursue business initiatives that may be more difficult as part of Disney, such as sports betting,\" Loeb wrote, adding that \"most arrangements between the two companies can be replicated contractually.\"</p><p>* Disney has reportedly explored spinning off ESPN, so the latter could pursue sports betting without conflicting with Disney's family-friendly brand.</p><p>* Chapek said last year that Disney's research found \"a very significant isolation\" in the public perceptions of Disney and ESPN, implying such a move might not impact Disney too much.</p><p>Sports betting appears to be coming to ESPN one way or another: In a call with investors following an earnings release last week, Chapek said Disney was in talks with sports betting companies to integrate betting opportunities during sports broadcasts.</p><p>\"Our sports fans that are under 30 absolutely require this type of utility,\" Chapek explained.</p><p>Quite a Quarter</p><p>Disney's revenue rose 26% year-over-year to $21.5 billion in the fiscal quarter ending July 2. ESPN+ subscribers leapt 53% to22.8 million. Disney+ surpassed analyst expectations in reaching 152.1 million subscribers.</p><p>Both Chapek and Tim Bunnell, ESPN's senior VP of programming and acquisitions, have described ESPN+ as vital to ESPN's future.</p><p>Read the original article on FrontOfficeSports.com.</p><p>Ever wonder what your favorite players have been up to since retiring from the game? Watch the latest episode of Second Acts, a new series from Front Office Sports, here .</p><p>Activist investor calls on Disney to spin off ESPN</p>",
+  "published": "2022-08-19T20:38:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9998848,
+      "offsets": [
+        {
+          "start": 27,
+          "end": 33
+        },
+        {
+          "start": 106,
+          "end": 112
+        },
+        {
+          "start": 244,
+          "end": 250
+        },
+        {
+          "start": 506,
+          "end": 512
+        },
+        {
+          "start": 717,
+          "end": 723
+        },
+        {
+          "start": 937,
+          "end": 943
+        },
+        {
+          "start": 1074,
+          "end": 1081
+        },
+        {
+          "start": 1081,
+          "end": 1088
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.865814,
+        "baseWeight": 8.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8658142,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

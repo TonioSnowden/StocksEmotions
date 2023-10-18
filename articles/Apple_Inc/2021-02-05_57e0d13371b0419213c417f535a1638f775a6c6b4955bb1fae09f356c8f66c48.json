@@ -1,0 +1,32 @@
+{
+  "_id": "57e0d13371b0419213c417f535a1638f775a6c6b4955bb1fae09f356c8f66c48",
+  "feed": "wall-street-journal",
+  "title": "GameStop Rally Fuels Scrutiny Of Payments to Online Brokers",
+  "text": "<p>Last year, brokerages such as Charles Schwab Corp., TD Ameritrade, Robinhood Markets Inc. and E*Trade collected nearly $2.6 billion in payments for stock and option orders, according to JMP Securities. The biggest sources of the payments were electronic-trading firms such as Citadel Securities, Susquehanna International Group LLP and Virtu Financial Inc.</p><p>Payment for order flow helped set the stage for the manic trading in GameStop, whose shares began the year around $18, surged to a record close of $347.51 on Jan. 27 and ended Thursday's session at $53.50. Other once-hot stocks such as AMC and Koss Corp. fell more than 20% on Thursday as the Reddit rally lost steam.</p><p>Trading firms make money by selling shares for slightly more than they are willing to buy them, and pocketing the difference. They are willing to pay for order flow from online brokerages because they are less likely to lose money trading against individual investors than on an exchange, where traders tend to be larger and more sophisticated.</p><p>Payment for order flow made it possible for the U.S. brokerage industry to shift to zero-commission trades in late 2019. No longer needing to pay a fee on stock transactions and empowered by apps like Robinhood, individual investors poured into stocks and options at record levels last year. More recently, they snapped up stocks like GameStop that were touted on Reddit.</p><p>The debate over payment for order flow boiled over last week after some brokerages restricted trading in GameStop, sparking speculation that the curbs were imposed at the behest of giant trading firms that handle those brokers' order flow. Firms like Citadel Securities denied being behind the curbs, which were prompted by brokers' need to post additional collateral. Still, criticism of payment for order flow grew.</p><p>\"Payment for order flow, at the end of the day, is legalized bribery that appears to incentivize brokers to violate rules,\" said Dennis Kelleher, president of Better Markets, an advocacy group that lobbies for tighter financial regulations.</p><p>Public.com, a startup that offers an investing app that competes with Robinhood, said Monday it would no longer accept payment for order flow.</p><p>Some Silicon Valley investors, including Benchmark Capital partner Bill Gurley and the billionaire former Facebook Inc. executive Chamath Palihapitiya, attacked payment for order flow on Twitter. Mr. Gurley urged the Securities and Exchange Commission to end the practice, writing Sunday: \"If the SEC/government wants to 'fix the plumbing' the number one thing they should do is ban Payment for Order Flow.\"</p><p>Payment for order flow is likely to come up at a House Financial Services Committee hearing on Feb. 18 devoted to GameStop, said Rep. Al Green (D., Texas), a member of the committee. \"The question we have to ask ourselves is . . . Does this inherently create some conflict of interest?\" he said.</p><p>One of the early practitioners of payment for order flow, and a dent to the practice's reputation, was Bernie Madoff. He helped pioneer the practice at his firm, Bernard L. Madoff Investment Securities, years before his conviction for running a multibillion-dollar Ponzi scheme.</p><p>The SEC reviewed payment for order flow several times since the 1990s and repeatedly condoned the practice.</p><p>Proponents of payment for order flow said it benefits investors because it allows individual investors to get better prices for their trades than if the orders were sent to stock exchanges. \"If you ban payment for order flow, the individual investor is going to be worse off,\" said Robert Battalio, a finance professor at the University of Notre Dame.</p><p>That is because of what brokers call price improvement -- when an investor's order is filled at a price slightly better than what is available on an exchange. For instance, suppose Apple Inc. shares can be sold for $135 at Nasdaq. An investor selling 100 shares of Apple could earn $13,500 if the order was executed on the exchange. But if the investor's sell order were routed to a trading firm such as Virtu, the firm could buy the shares for a fraction of a penny per share higher than $135, and the investor would get more money -- say, $13,505.</p><p>While such differences might seem small, they add up. Last year, investors saved about $3.7 billion on stock trades thanks to price improvement, according to Bloomberg Intelligence.</p><p>Trading firms said they compete to provide the most price improvement to brokers. \"The magnitude of the orders routed to us reflects the confidence of the retail brokerage community in our systems engineering, reliability, balance sheet and execution quality,\" said Joe Mecane, Citadel Securities' head of execution services.</p><p>Potentially, the SEC could prohibit the payments and require investors' orders to be routed to exchanges, rather than being privately executed by electronic trading firms. But that would make it harder for brokerages to offer their customers zero-commission trades, and it is unclear that investors would get a better deal.</p><p>Some industry veterans expect little to change. \"It's a practice that reflects economic realities, and it benefits retail investors in the form of low commissions,\" said Jamie Selway, a former executive with Investment Technology Group Inc.</p>",
+  "published": "2021-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3818,
+          "end": 3828
+        },
+        {
+          "start": 3818,
+          "end": 3827
+        },
+        {
+          "start": 3902,
+          "end": 3907
+        },
+        {
+          "start": 3818,
+          "end": 3823
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "c400be712093b4236b0d8ce0faa137e6b9b280d49dc26f57a1347fa87e436d65",
+  "feed": "ftcomall",
+  "title": "Nvidia announces plan to make CPU chips",
+  "text": "<p>Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems.</p> <p>The US chip company rose to prominence on the back of its more specialised graphics chips, known as GPUs, which it has adapted to the data-intensive task of machine learning. Adding CPUs to its line-up — chips that can be programmed to handle a wider range of tasks — pushes it deeper into data centre computing, and follows last year's bid for CPU design company Arm.</p> <p>Along with other technologies announced at a company event on Monday, the new chip “widens the gap” in AI processing between Nvidia and other chipmakers, including Intel, said Chirag Dekate, an analyst at Gartner.</p> <p>The new Nvidia chip, named Grace and due to go on sale in 2023, combines a number of GPUs and Arm-based CPUs to produce a package that can handle the most advanced machine learning calculations. Its first use is set to be in the scientific realm, with the Swiss National Computing Centre and the US's Los Alamos National Lab the first customers to be announced.</p> <p>However, Paresh Kharya, an Nvidia data centre executive, said the technology was also aimed squarely at language processing systems, among the most challenging AI tasks, and a field that has become the focus of intense competition between the biggest tech platforms. In a sign of the growing commercial value of advanced language systems, Microsoft on Monday agreed to pay $16bn for Nuance Communications, which specialises in language systems in healthcare.</p> <p>The CPUs that shuttle data back and forward to the specialised GPUs that handle the bulk of the work in training AI models have become the bottleneck in the most demanding AI systems, Kharya said. Using its own chips, based on designs from Arm, Nvidia believed it could speed the flow of data and achieve 10 times the efficiency.</p> <p>Nvidia revealed its intention of going deeper into data centre processing when it announced the purchase of Arm for up to $38.5bn last year, though the deal currently faces regulatory headwinds. But its new chip is the product of work that dates back much further, and Nvidia first signalled its interest in the market in 2019 when it said it would adapt all its software to run on Arm processors.</p> <p>The company's push deeper into data centre computing has raised the risk of conflict with some of its own customers, who design their own CPUs. They include Amazon, which has developed a high-powered Arm chip known as Graviton for use in Amazon Web Services.</p> <p>For now, Nvidia's push into the very high end of AI systems means it is still in a different market to customers such as Amazon, said Dekate. In a sign that the two camps are still able to work together, Nvidia on Monday also announced an arrangement with Amazon to offer AWS customers its GPU machine learning running on Graviton chips.</p><p>Source: Richard Waters 2021 'Nvidia announces plan to make CPU chips' FT.com 12 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-12T17:00:06.680Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1418,
+          "end": 1427
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "19280632168f379db58561d3dad487d2bfb94a379b59411de9fb1febae0feb82",
+  "feed": "wall-street-journal",
+  "title": "Business News: Boeing Postpones Starliner Launch",
+  "text": "<p>Officials on Thursday decided to put off launching the Boeing vehicle after a flight-control team noticed at 12:45 p.m. ET that the Russian spacecraft, called the Nauka, inadvertently fired its thrusters while it was docked to the space station. That forced the space station to shift out of its expected orientation in space, according to NASA.</p><p>The launch could go ahead on Aug. 3, NASA officials said.</p>",
+  "published": "2021-07-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 55,
+          "end": 61
+        },
+        {
+          "start": 15,
+          "end": 21
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

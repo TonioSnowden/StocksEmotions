@@ -1,0 +1,46 @@
+{
+  "_id": "1ed3c90b74b7bc3b1c2fd86ca4cb4c72732aca5011aba6aaccaaa9b5692d08e8",
+  "feed": "ftcomall",
+  "title": "Apple tells employees to return to office 3 days a week from September",
+  "text": "<p>Apple has told its employees they must return to the office in September for at least three days a week, with chief executive Tim Cook saying the move would preserve the “in-person collaboration that is so essential to our culture”.</p> <p>In a memo to employees on Monday, Cook said all employees at the company's headquarters and nearby offices would be required to come in on Tuesday and Thursday, as well as one other day to be determined by team managers, starting on September 5.</p> <p><a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple</a> employees in different parts of the world will return on a different timetable depending on local circumstances, Cook said in the memo seen by the Financial Times.</p> <p>“We are excited to move forward with the pilot and believe that this revised framework will enhance our ability to work flexibly, while preserving the in-person collaboration that is so essential to our culture,” he said, according to the memo.</p> <p>“We also know that we still have a lot to learn. And we are committed to listening, adapting and growing together in the weeks and months ahead.”</p> <p>Cook emphasised that the arrangements were a “pilot” and would be adjusted as necessary. </p> <p>It is not the first time Apple has announced a return-to-office order. In June 2021, it said it planned a three-day-a-week return in September of that year, only to pull back because of rising Covid-19 cases. Some employees were later told to be in offices for one or two days a week.</p> <p>The stumbling return for Apple reflects the difficulty it and other big Silicon Valley groups have had in <a href=\"https://www.ft.com/content/ebbd1353-ea16-4d51-8bff-603f46d59ca1\">deciding on the role of the office</a> post-coronavirus pandemic. Companies have faced pressure from many staff to preserve the remote working conditions suddenly thrust upon them — or risk losing crucial talent.</p> <p>Following Apple's previous announcement of a return-to-office plan, Ian Goodfellow, a director of machine learning, <a href=\"https://www.ft.com/content/f8da2592-ed67-4b87-b6d5-a0e1e4ac5a8f\">left for Alphabet</a>, reportedly saying in a farewell email that he was against the policy. Since then, the Google parent has started requiring most of its corporate employees to go into offices three days a week.</p> <p>Mark Zuckerberg has told his team at Meta that remote working was encouraged. Among those taking him up on that offer are Instagram's chief executive Adam Mosseri, who is relocating to London, and Nick Clegg, Meta's president of global affairs, who is going to <a href=\"https://www.ft.com/content/96ce3ef1-080d-47f3-adb3-9bc15836ef19\">split his time</a> between the UK and California. </p> <p>Amazon told its employees in October that in-person working policies would be decided at a team leader level, saying it would not put in place any mandatory day requirements. It did, however, stipulate that employees must be able to get to their office within a day's notice.</p> <p>Travel site Airbnb, which is based in San Francisco, told its staff in April that they were free to work from anywhere in the country where they were based and, for 90 days a year, from any of 170 countries around the world.</p> <p><em>Additional reporting by Patrick McGee and Richard Waters in San Francisco</em></p><p>Source: Dave Lee in San Francisco 2022 'Apple tells employees to return to office 3 days a week from September' FT.com 16 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-16T00:45:22.717Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999904,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 477,
+          "end": 482
+        },
+        {
+          "start": 1148,
+          "end": 1153
+        },
+        {
+          "start": 1430,
+          "end": 1435
+        },
+        {
+          "start": 1728,
+          "end": 1733
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

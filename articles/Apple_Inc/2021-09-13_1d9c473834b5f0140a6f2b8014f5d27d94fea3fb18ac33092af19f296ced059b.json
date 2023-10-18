@@ -1,0 +1,48 @@
+{
+  "_id": "1d9c473834b5f0140a6f2b8014f5d27d94fea3fb18ac33092af19f296ced059b",
+  "feed": "ftcomall",
+  "title": "Apple patches security flaw that leaves users vulnerable to spyware",
+  "text": "<p>Apple has issued an emergency software update after cyber security researchers said they had uncovered a new vulnerability allowing hackers to deploy Israeli company NSO Group's spyware tool through iMessage.</p> <p>The iPhone maker <a href=\"https://support.apple.com/en-ca/HT212807\">issued a patch</a> on Monday to fix the flaw, which was discovered by researchers at the University of Toronto's Citizen Lab after they analysed the iPhone of a Saudi activist that had been infected with spyware developed by NSO.</p> <p>According to <a href=\"https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/\">Citizen Lab</a>, the vulnerability allowed hackers to access a target's iPhone, Mac computer or Apple Watch via iMessage, without the user needing to click on a malicious link. The exploit, dubbed “FORCEDENTRY” by the researchers, is known as a “zero-click” attack.</p> <p>The report added that military spyware manufacturer NSO had “used the vulnerability to remotely exploit and infect the latest Apple devices” with its spyware, known as <a href=\"https://www.ft.com/content/24f22b28-56d1-4d66-8f76-c9020b1b5cb1\">Pegasus</a>, “since at least February 2021”.</p> <p>NSO develops and sells its exploits to government agencies as off the shelf software. It was founded in 2010 and rose to prominence in 2019 when it was reported that the group could “drop its payload” of malware on to unsuspecting iPhones and Android phones by ringing a user <a href=\"https://www.ft.com/content/4da1117e-756c-11e9-be7d-6d846537acab\">over WhatsApp</a>.</p> <p>NSO's Pegasus was in July <a href=\"https://www.ft.com/content/2f5feb53-e7ff-47b3-ad42-93a8f2bc6aac\">linked to phones</a> belonging to dozens of journalists, human rights activists and politicians, according to an investigation by a consortium of newspapers. Civil rights activists say the software — which requires an Israeli government licence for export because it is viewed as a weapon — can be used for unlawful surveillance, not just by certain governments to target terrorists and criminals.</p> <p>In a statement on Monday, the company said: “NSO Group will continue to provide intelligence and law enforcement agencies around the world with life-saving technologies to fight terror and crime.”</p> <p>Citizen Lab said its discovery of another previously unknown vulnerability on Apple hardware “illustrates that companies . . . are facilitating ‘despotism-as-a-service' for unaccountable government security agencies. Regulation of this growing, highly profitable, and harmful marketplace is desperately needed.”</p> <p>Apple said it was issuing the patch because “processing a maliciously crafted PDF may lead to arbitrary code execution”. It said it was “aware of a report that this issue may have been actively exploited”.</p> <p>Separately, Ivan Krstic, head of security engineering and architecture at Apple, said in a statement that “attacks like the ones described are highly sophisticated, cost millions of dollars to develop, often have a short shelf life, and are used to target specific individuals”. He added that they were “not a threat to the overwhelming majority of our users”. </p> <p>Nevertheless, the revelation could further dent the image of iOS as a more secure operating system than Android. Apple has long emphasised that no system can be 100 per cent secure from hackers.</p> <p>Citizen Lab said chat apps, in particular, had become “a major target for the most sophisticated threat actors, including nation-state espionage operations and the mercenary spyware companies that service them”.</p><p>Source: Hannah Murphy and Patrick McGee in San Francisco 2021 'Apple patches security flaw that leaves users vulnerable to spyware' FT.com 13 September. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-09-13T21:35:42.783Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2156,
+          "end": 2161
+        },
+        {
+          "start": 2436,
+          "end": 2441
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 2836,
+          "end": 2841
+        },
+        {
+          "start": 557,
+          "end": 562
+        },
+        {
+          "start": 1922,
+          "end": 1927
+        },
+        {
+          "start": 853,
+          "end": 858
+        },
+        {
+          "start": 557,
+          "end": 568
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

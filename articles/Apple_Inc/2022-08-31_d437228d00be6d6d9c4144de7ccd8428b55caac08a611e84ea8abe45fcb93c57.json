@@ -1,0 +1,34 @@
+{
+  "_id": "d437228d00be6d6d9c4144de7ccd8428b55caac08a611e84ea8abe45fcb93c57",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Sacramento Approves Measure  To Make Job Postings List Pay  ---  Bill requiring disclosure  by employers that have  at least 15 staffers now  is in governor's hands  ----  By Chip Cutter",
+  "text": "<p>   California may soon require nearly all employers hiring in the state to begin listing pay on job postings, a move that could affect many of the biggest U.S. companies. </p><p>   A bill passed by the California Legislature mandates that all organizations with 15 or more employees include the hourly pay or salary range on job listings in the state. It also calls for companies to disclose more information to the state on the wages of existing workers. It now heads to the desk of Gov. Gavin Newsom, a Democrat. Representatives for Mr. Newsom declined to comment. </p><p>   The legislation, if enacted, could compel employers to make nationwide changes to pay and hiring practices, human-resources executives and advisers said. Already, a number of cities and states have passed salary transparency laws. Such a law took effect in Colorado last year, while one in New York City begins in November. The state of Washington will require companies to include pay ranges on job posts as of Jan. 1. </p><p>   California's Legislature also passed a bill on Monday to create a government panel that would set wages for fast-food workers in the state. </p><p>   California has more than 19 million workers and is home to companies such as Apple Inc., Google parent Alphabet Inc., Meta Platforms Inc. and Walt Disney Co., all of which would be required to reveal compensation information on postings for roles in the state under the legislation. California-based companies wouldn't be required to disclose pay for roles based outside of the state. The measure would apply to companies based elsewhere but looking to fill roles in California. A number of California business groups oppose the bill, calling it overly burdensome. </p><p>   Big companies typically prefer to standardize hiring practices across states, advisers said, so the California legislation may also push some employers to list pay on all job posts nationwide, wanting to avoid a state-by-state patchwork approach. </p><p>   \"This is likely going to be the tipping point for many large employers where they consider a nationwide strategy,\" said Christine Hendrickson, vice president of strategic initiatives at Syndio, an analytics platform that helps employers identify and fix pay and other workplace discrepancies. </p><p>   Microsoft Corp. in June said it would start to disclose salary ranges for all job postings in the U.S. beginning no later than January, and some smaller employers have said they intend to do the same. </p><p>   Many companies have traditionally been reluctant to add pay information on job postings, fearing that it could make hiring more difficult or raise issues internally if current employees compare their existing pay with the range on a job listing. Some employers also worry that missteps could lead to civil penalties or queries from California labor officials, said Philip I. Person, a labor and employment attorney in the San Francisco office of Greenberg Traurig LLP. \"It's an administrative burden for the employer,\" he said. </p><p>   The California bill passed a vote in the California Assembly on Monday and the Senate on Tuesday. The bill, introduced by California state Sen. Monique Limon, is aimed at addressing gender pay gaps and providing more wage transparency. </p><p>   In addition to requiring pay ranges on job postings, the legislation also broadens some requirements for companies to disclose pay information about existing workers. Companies would need to provide California with the median and hourly pay rate by race, ethnicity and sex within a variety of job categories. Companies that hire 100 or more employees through labor contractors would also be required to submit a pay-data report to the state. </p><p>   An earlier provision in the legislation, since removed, would have required the state to publish the pay-data reports of many companies to the public, a measure that drew criticism from trade groups. The California Chamber of Commerce and other business groups in the state still oppose the bill, arguing that it could undermine employers' ability to hire. But the California Chamber removed the bill from its \"job killer list\" after lawmakers amended the bill to no longer include the provision that a company's pay-data reports could be published. </p><p></p>",
+  "published": "2022-08-31T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1180,
+          "end": 1190
+        },
+        {
+          "start": 1191,
+          "end": 1201
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.000015,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.50203705e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

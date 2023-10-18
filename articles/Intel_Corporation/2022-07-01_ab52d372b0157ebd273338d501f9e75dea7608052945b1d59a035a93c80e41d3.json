@@ -1,0 +1,20 @@
+{
+  "_id": "ab52d372b0157ebd273338d501f9e75dea7608052945b1d59a035a93c80e41d3",
+  "feed": "wall-street-journal",
+  "title": "Qualcomm's Apple Slice Won't Keep For Long",
+  "text": "<p>Qualcomm's stock jumped earlier this week after an influential analyst tweeted that Apple's effort to develop its own modem chip hit a snag. Ming-Chi Kuo of Taiwan's TF International Securities, who is considered well-sourced in Apple's supply chain, said his sources indicated that a 5G modem chip Apple is developing \"may have failed.\" He thus projected Qualcomm would keep all of Apple's modem-chip business for the iPhones coming out in late 2023.</p><p>Qualcomm told analysts last year that it expected to have about 20% of Apple's iPhone business by that cycle. Stacy Rasgon of Bernstein estimates that keeping the full iPhone business would add $4 billion to $6 billion to Qualcomm's revenue for its fiscal year ending September 2024 -- an 8% to 12% upside to Wall Street's current projection.</p><p>Neither Qualcomm nor Apple has commented on the report, leaving the obvious possibility that Mr. Kuo and his sources could have it wrong. That Apple is developing such chips is well-known; the executive leading the company's in-house chip efforts confirmed as much in an employee town-hall meeting in late 2020.</p><p>But modem chips, also referred to as baseband processors, are complex, requiring tight integration between a device's main computing processor and the wireless network to which it is connected. Intel Corp. once tried to develop a baseband for the iPhone but came up short. Qualcomm, the main developer of the digital cellular technology most widely used in today's networks, has dominated the market for years, accounting for 51% of baseband revenue in 2021, according to Strategy Analytics.</p><p>None of which is to say that Apple won't get there eventually. The company has nearly $73 billion in net cash plus an annual research-and-development budget that totals more than $24 billion, more than three times what Qualcomm spends. It has a powerful motivation to control more of its silicon destiny. Chips designed in-house cost less than buying them from outside suppliers and allow Apple to more tightly integrate the design with its devices.</p><p>Then there is the bad blood between Apple and Qualcomm that culminated in a multiyear legal battle, which was settled in 2019 primarily because Apple needed Qualcomm's modem to get 5G iPhones to the market in time. Ed Snyder of Charter Equity wrote Wednesday that Apple remains \"hellbent on ridding itself of Qualcomm and has made its modem effort the highest investment priority in the company for several years.\" He projects Apple will have its chip ready for 2024 iPhones and will fully replace Qualcomm in the lineup by the following year.</p><p>Fortunately for Qualcomm, the company has been working to reduce its dependence on Apple. At its analyst meeting last fall, Qualcomm said it expects Apple to account for a single-digit-percentage share of its chipset business by the end of fiscal '24. Investors have sort-of bought in: Qualcomm's stock price decline of 28% since that meeting is slightly better than the 33% loss seen by the PHLX Semiconductor Index over the same time. Another year or two of the iPhone business could provide Qualcomm with extra cash flow to invest in acquisitions and other diversification efforts -- so long as both the company and its investors continue to understand that Apple's modem is more a question of when than if.</p>",
+  "published": "2022-07-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1301,
+          "end": 1306
+        }
+      ]
+    }
+  ]
+}

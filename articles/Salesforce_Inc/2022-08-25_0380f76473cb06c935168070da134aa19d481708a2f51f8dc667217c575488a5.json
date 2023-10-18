@@ -1,0 +1,82 @@
+{
+  "_id": "0380f76473cb06c935168070da134aa19d481708a2f51f8dc667217c575488a5",
+  "feed": "market-watch",
+  "title": "Salesforce stock slumps after trimmed earnings and sales forecast outweigh first major stock-buyback plan; Cloud-software company's executives plans to repurchase $10 billion worth of shares while trimming annual forecast, missing expectations for third-quarter guidance",
+  "text": "<p>While beating on their results, Salesforce executives missed on their forecasts. For the third quarter, which will include the annual Dreamforce conference in September — a major revenue driver for the company — Salesforce executives guided for adjusted earnings of $1.20 a share to $1.21 a share on sales of $7.82 billion to $7.83 billion. Analysts on average were modeling third-quarter adjusted earnings of $1.28 a share on revenue of $8.07 billion, according to FactSet.</p><p>For the full year, Salesforce executives reduced their annual forecast, which now calls for adjusted earnings of $4.71 to $4.73 a share on sales of $30.9 billion to $31 billion, after stating $4.74 to $4.76 a share on revenue of $31.7 billion to $31.8 billion three months ago. Executives reduced their annual revenue guidance slightly three months ago, butincreased their forecast for adjusted earnings.</p><p>Shares fell 6.7% in after-hours trading Wednesday, after closing with a 2.6% gain at $180.62.</p><p>Analysts had expected that continuing concerns about enterprise spending and other issues, such as a strengthening dollar, would preclude Salesforce from raising its guidance.</p><p>\"While we are expecting solid F2Q results, we believe Salesforce will take the approach other software companies have been taking, whereby a 'beat and meet' or 'beat and lower' is far more likely than a 'beat and raise' on the top line,\" Evercore ISI analysts wrote ahead of the earnings report, while keeping their $250 price target on the stock.</p><p>Salesforce did institute its first major share-repurchase plan, committing $10 billion to buying its own stock.</p><p>\"We're thrilled to initiate our first-ever share repurchase program to continue to deliver incredible value to our shareholders on our path to $50 billion in revenue in FY26,\" co-Chief Executive Marc Benioff said in a statement. He added during a conference call with analysts that the repurchase program but does not take M&amp;A activity \"off the table.\"</p><p>While the growth of cloud software has continued, there are concerns about the next few months. Analysts believe that businesses are looking to cut costs and push out any spending amid economic concerns, and that could punish Salesforce and other software names.</p><p>\"We are witnessing a more measured buying environment,\" Salesforce co-CEO Bret Taylor acknowledged during aconference call with analysts late Wednesday.</p><p>Salesforce Chief Financial Officer Amy Weaver noted stretched sales cycles and more layers for deal approval as the quarter ended, particularly in North America and major European markets.</p><p>Oppenheimer research \"indicates that Salesforce remains a long-term enterprise market-share gainer but that near-term enterprise spending plans on Salesforce, and in general, are under pressure from macro uncertainty,\" analysts wrote late last week in a preview of the earnings report, while maintaining an outperform rating and a $240 price target. \"Growth investments for digital transformation are increasing in priority as growth becomes harder to find, but businesses are also rationalizing operating-cost structures, which is elongating sales cycles.\"</p><p>Salesforce stock has declined 28.8% so far this year, as the Dow Jones Industrial Average DJIA — which counts Salesforce as one of its 30 components — has dropped 9.4% and the S&amp;P 500 index SPX has fallen 13.4%.</p><p>Salesforce stock slumps after trimmed earnings and sales forecast outweigh first major stock-buyback plan</p>",
+  "published": "2022-08-25T00:52:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 32,
+          "end": 42
+        },
+        {
+          "start": 211,
+          "end": 221
+        },
+        {
+          "start": 491,
+          "end": 501
+        },
+        {
+          "start": 494,
+          "end": 504
+        },
+        {
+          "start": 1106,
+          "end": 1116
+        },
+        {
+          "start": 1490,
+          "end": 1500
+        },
+        {
+          "start": 2177,
+          "end": 2187
+        },
+        {
+          "start": 2365,
+          "end": 2375
+        },
+        {
+          "start": 2590,
+          "end": 2600
+        },
+        {
+          "start": 2700,
+          "end": 2710
+        },
+        {
+          "start": 3109,
+          "end": 3119
+        },
+        {
+          "start": 3126,
+          "end": 3136
+        },
+        {
+          "start": 3219,
+          "end": 3229
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.0,
+        "baseWeight": 14.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

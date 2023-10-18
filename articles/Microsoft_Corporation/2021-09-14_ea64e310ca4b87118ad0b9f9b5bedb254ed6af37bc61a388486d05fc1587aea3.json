@@ -1,0 +1,32 @@
+{
+  "_id": "ea64e310ca4b87118ad0b9f9b5bedb254ed6af37bc61a388486d05fc1587aea3",
+  "feed": "wall-street-journal",
+  "title": "The Zero-Trust Approach to Managing Cyber Risk Explained; Biden administration's cybersecurity mandate pushes federal agencies to trust no one in their computer networks",
+  "text": "<p>The White House Office of Management and Budget last week released a draft blueprint for a so-called zero trust approach to fending off hackers. The shift, which President Biden announced in May as part of an executive order to shore up cybersecurity, aims to help spot or contain threats such as the breach of federal systems last year through SolarWinds Corp. Hackers compromised a software updatefrom the firm to break into computer networks of at least nine federal agencies and dozens of U.S. businesses.</p><p>Implementing a new array of policies, procedures and tools across federal agencies could take significant investment and years of effort, said Theresa Payton, chief executive of Fortalice Solutions LLC, a cybersecurity consulting firm. She likened the shift to zero trust to a lifestyle change, adding that the administration's push could help modernize the government's cyber defenses.</p><p>\"If it were easy to do, it'd already be done,\" said Ms. Payton, who was the White House chief information officer under President George W. Bush. \"It's going to get very expensive, very quick.\"</p><p>Here are the basics of the zero-trust approach:</p><p>What is zero trust?</p><p>The approach views any user, device or application as a potential threat, requiring repeated verification of identities and abilities to access data. That contrasts with traditional security frameworks, in which tools or people are trusted once they make it past perimeter defenses often structured around networks tied to physical offices.</p><p>Zero trust \"is especially important now that we've had the pandemic,\" said Bret Arsenault, chief information security officer for Microsoft Corp. \"You want to have the same consistent experience, whether you're working from a workplace, whether you're working from home or anywhere in between.\"</p><p>The approach can help mitigate hacks through more granular monitoring and segmentation of networks, restricting users from data that is off-limits to them. Mr. Arsenault said that proved key in understanding the threat to Microsoft's networks from the SolarWinds attack.</p><p>\"It would have been a different world had we not implemented zero trust,\" he said. \"We knew where [the compromised software] was. We knew where it was contained. We knew what we had to do in that scenario.\"</p><p>How can organizations turn the buzzword into reality?</p><p>While many aspects of zero trust aren't new, cyber experts say, combining them into a cohesive whole is more complex. It can require cataloging all the devices across an organization, instituting multifactor or biometric authentication, monitoring connections in real-time, tightening users' access controls, cordoning off outdated technology and dividing networks into areas that can be isolated in the event of attacks.</p><p>Some projects, such as encrypting data, can be relatively easy lifts, said Selim Aissi, former chief information security officer for the mortgage processing firm Ellie Mae Inc. But it may be more costly to replace aging security tools that aren't designed for a more aggressive approach to partitioning networks or monitoring data.</p><p>\"If you have a very old firewall technology, good luck with that,\" Mr. Aissi said. \"That means it's rip and replace.\"</p><p>Organizations making such changes must also get worker buy-in, Mr. Aissi said, adding, \"Technology and process cannot do everything at the end of the day.\"</p><p>What is the Biden administration asking federal agencies to do?</p><p>OMB's draft strategy directs federal agencies by fiscal year 2024, which ends Sept. 30, to create an inventory of their devices, encrypt networks and institute an authentication scheme for users to access applications through a single, secure sign-on. The blueprint also calls for officials to treat all applications as internet-connected and to improve how they monitor data across computer networks. Some agencies, such as the Defense Department, have already begun to take such steps.</p><p>The Cybersecurity and Infrastructure Security Agency will help agencies make security changes and has published its own guidance on how to move toward zero trust. Still, CISA warned that the effort could require many agencies to rebuild or replace much of their existing information-technology infrastructure.</p><p>\"The path to zero trust is an incremental process that will take years to implement,\" CISA said.</p><p>OMB didn't project what the shift to zero trust would cost. The office instructed agencies to use existing funds for upgrades in fiscal year 2022 and to provide OMB with budget estimates for the following two fiscal years.</p><p>What comes next?</p><p>OMB is seeking public comments on its proposed zero-trust strategy through Sept. 21. CISA is open to feedback on its guidance until Oct. 1.</p><p>The Zero-Trust Approach to Managing Cyber Risk Explained</p>",
+  "published": "2021-09-14T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2017,
+          "end": 2026
+        },
+        {
+          "start": 1630,
+          "end": 1645
+        },
+        {
+          "start": 1630,
+          "end": 1639
+        },
+        {
+          "start": 2017,
+          "end": 2028
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "32a47315b137e92679207ff9fbde246b4623917840c0ace13df9ee71858001c0",
+  "feed": "ftcomall",
+  "title": "Natural language processing: when chatbots rule the world",
+  "text": "<p>Digital vocal assistants are akin to a parlour trick. What can seem like an all-powerful computer able to comprehend and respond to human conversation is simply a regurgitation of data. Natural language processing, where artificial intelligence meets linguistics, seeks to go further. </p> <p>NLP advocates envisage a world in which screens are replaced by speech and computers understand direct commands. If AI can understand and generate language, then NLP replaces call centre workers, content moderators, search engines and writers. </p> <p>Optimism runs high. A <a href=\"https://gradientflow.com/2021nlpsurvey/\">survey by Gradient Flow</a> found that NLP funding rose 30 per cent year over year for a third of companies questioned. That is feeding into rising valuations for NLP start-ups.</p> <p>Uniphore, which provides call centre and other virtual services, raised $400mn last month at a $2.5bn valuation. Rival Cresta's $80mn fundraising puts it at a $1.6bn valuation. Cohere, which seeks to help developers build NLP models in applications, signed a partnership with Google in November. This month a new NLP start-up from LinkedIn co-founder Reid Hoffman was announced. Inflection aims to help humans speak directly to computers in plain language.</p> <p>But the future of NLP is likely to be chained to big tech companies, not start-ups. Training NLP models requires vast data sets and costly superchips to provide the necessary power. Companies such as Google are creating large machine learning models that developers then use to build tools on. </p> <p>The barriers are power and bias. NLP models analyse and generate language using data already published online. This means they are feeding in existing patterns and behaviours not all of which deserve to be replicated. Companies such as Google are working on multitask unified models that can knit together search results and language comprehension.</p> <p>But, as a recent paper published by University of Washington academics points out, language models appropriated for search functions could generate further <a href=\"https://dl.acm.org/doi/10.1145/3498366.3505816\">misinformation</a>. The potential applications are vast. So are the possibilities for error. </p><p>Source:  2022 'Natural language processing: when chatbots rule the world' FT.com 31 March. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-03-31T10:35:06.867Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "885320828d36a28dd1a1b7095e8cb05831b59690c17f935d8bcb99bc55a49c76",
+  "feed": "market-watch",
+  "title": "Why are gas prices falling? National average below $4 a gallon for first time since March: GasBuddy",
+  "text": "<p>\"We've never seen anything like 2022 at the pump, highlighted by once-in-a-lifetime events including the ongoing Covid-19 pandemic, which caused myriad imbalances, exacerbated by Russia's war on Ukraine,\" said Patrick De Haan, head of petroleum analysis at GasBuddy, in a blog post. \"As a result, we've seen gas prices behave in ways never witnessed before, jumping from $3 to $5 and now back to $3.99.\"</p><p>A closely watched measure of gasoline prices compiled by AAA also continued its decline, coming in at an average of $4.033 a gallon on Tuesday, down from a record of $5.016 on June 14.</p><p>The Biden administration has claimed credit for the retreat, arguing that crude releases from the Strategic Petroleum Reserve coordinated with releases by other nations have helped tame prices, along with other measures. Market observers have disputed the role of those measures.</p><p>What's driving the decline? There's an adage that the cure for high prices is high prices. Analysts say that the previous surge at the pump may have knocked down demand — a process known as \"demand destruction.\"</p><p>U.S. gasoline inventories have risen in recent weeks and that may confirm less demand from consumers, even though that's against the usual trend seen during the summer \"driving season\" that runs from Memorial Day to Labor Day.</p><p>Data from the Energy Information Administration last week indicated gas demand dropped from 9.25 million b/d (barrels a day) to 8.54 million b/d in the week ended July 30. The rate is 1.24 million b/d lower than last year and is in line with demand at the end of July 2020, when COVID-19 restrictions were in place and fewer drivers hit the road, AAA noted.</p><p>AAA said its survey found that drivers made significant changes to cope with higher pump prices, with almost two-thirds of U.S. adults changing driving habits or lifestyle since March. The top two changes were driving less and combining errands, the poll found.</p><p>The pullback in fuel prices is expected to contribute to a cooling of still-hot inflation pressures when the July consumer-price index is released Wednesday morning at 8:30 a.m. Eastern. Economists surveyed by The Wall Street Journal look for CPI to show a year over year rise of 8.7%, slowing from 9.1% in June. Economists doubt, however, that a slowdown will calm Federal Reserve policy makers who have signaled they're committed to wringing inflation out of the economy.</p><p>Related: Goldman Sachs says it's too soon for markets to be trading `a full Fed pivot'</p><p>Wholesale gasoline futures jumped Tuesday though, with the September contract RBU22 up 2.5% at $2.958 a gallon, but well off the all-time high of $4.326 for a most actively traded contract set on June 6. Oil futures have retreated sharply after the U.S. benchmark CL.1 traded around a 14-year intraday high above $130 a gallon in early March following Russia's late-February invasion of Ukraine. West Texas Intermediate crude fell back below $90 a barrel last week to hit a six-month low, and was off 0.7% at $90.10 a barrel Tuesday afternoon.</p><p>\"Gasoline is still fishing around for an equilibrium that will support prices, but with the end of summer driving season Labor Day weekend not too far off in the future, time is running out on the motor fuel story,\" said Robert Yawger, executive director of oil futures at Mizuho Securities in a note.</p><p>Why are gas prices falling? National average below $4 a gallon for first time since March: GasBuddy</p>",
+  "published": "2022-08-09T18:23:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 2412,
+          "end": 2425
+        },
+        {
+          "start": 2412,
+          "end": 2419
+        },
+        {
+          "start": 2411,
+          "end": 2424
+        },
+        {
+          "start": 2411,
+          "end": 2418
+        },
+        {
+          "start": 2395,
+          "end": 2408
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

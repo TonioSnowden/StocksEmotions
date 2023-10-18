@@ -1,0 +1,34 @@
+{
+  "_id": "0189a2b32c0069ca30012fcf9b281865f08d4c4433e4a65019523f3ccf7fcf14",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Business News:  Oracle  Lays Off  Hundreds  Of Workers  ----  By Aaron Tilley",
+  "text": "<p>   Oracle Corp. laid off hundreds of employees this past week as the business-software provider gives priority to its healthcare-IT services and cloud businesses, according to people familiar with the company's actions. </p><p>   The job cuts principally hit staff at Oracle's advertising and customer experience group, the people said. The group sells services to help clients analyze data about their customers and target advertising to those customers. </p><p>   The cuts come as the company is putting increased emphasis on cloud-healthcare services after recently receiving regulatory approval for its $28.3 billion deal for electronic-medical-records company Cerner Corp. They are hitting a unit that has become less central to Oracle at a time the digital ad market is in turmoil. The layoffs were earlier reported by The Information. </p><p>   The Austin, Texas-based company is the latest tech company to slow hiring or cut staff. Those include Microsoft Corp., Robinhood Markets Inc., Netflix Inc. and Tesla Inc. The staffing adjustments happen as many tech companies come off a period of supercharged growth that fueled hiring. </p><p>   Oracle employees were told that they were being laid off because of fiscal year 2023 restructuring and realignment due to new leadership, said laid-off employees. Some layoffs also landed at Cerner as part of the integration of the business into Oracle, one of the people said. </p><p>   \"All of this is retooling the whole company to focus on healthcare,\" said Ray Wang, an analyst with Constellation Research Inc. </p><p></p>",
+  "published": "2022-08-06T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 921,
+          "end": 936
+        },
+        {
+          "start": 914,
+          "end": 929
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9002146,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.00021457672,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

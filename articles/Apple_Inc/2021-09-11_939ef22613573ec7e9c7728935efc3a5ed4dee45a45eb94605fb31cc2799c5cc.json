@@ -1,0 +1,40 @@
+{
+  "_id": "939ef22613573ec7e9c7728935efc3a5ed4dee45a45eb94605fb31cc2799c5cc",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- WhatsApp To Offer Encryption On Backups",
+  "text": "<p>WhatsApp's new feature, which the company plans to ship in a software update later this month, will let users create an encrypted backup of their chats -- including images, videos and audio -- and store that data on Apple's iCloud or Google Drive.</p><p>\"If you save a copy of your messages, with Apple or Google, [you] save it in a way where they have no way to read it,\" said Will Cathcart, the head of WhatsApp.</p><p>This extra layer of security could keep messages and photos shared via WhatsApp private if, for example, a user's iCloud account is compromised, said Riana Pfefferkorn, a research scholar with the Stanford Internet Observatory, an academic research group that studies internet abuse.</p><p>Right now, WhatsApp messages are encrypted between sender and receiver, meaning that even WhatsApp itself is unable to read them as they pass through its servers. But when users back up their data to the cloud, these backups are readable by the cloud providers, Ms. Pfefferkorn said.</p><p>WhatsApp isn't turning this encrypted backup feature on by default -- people who want it will need to select it in the app's chat settings and then come up with a password that could be used to unlock the encrypted backup. The servers that will verify this password and manage the backups' encryption keys will reside in Facebook's U.S. and European data centers, the company said.</p><p>While Apple has fought with the U.S. Justice Department over the strong encryption system that ships with its iPhone, backups of mobile phone data on the iCloud and Google Drive have emerged as important sources of information during investigations. WhatsApp's new encryption system could complicate some of those searches, but the fact that it is not enabled by default will greatly reduce the number of people using it, Ms. Pfefferkorn said.</p><p>WhatsApp presents itself as a defender of online privacy in the global encryption debate, but the company experienced some backlash earlier this year when it made changes to its privacy policy reflecting the company's future plans to offer services for business customers.</p><p>In the coming months, the company is planning to offer businesses a way of managing WhatsApp conversations with their customers. Although WhatsApp had previously said that it wouldn't store user messages on its servers, the service for businesses would store WhatsApp messages on Facebook's servers. Those businesses could then use that information to create Facebook ads, according to the company.</p><p>The move is seen as a key step in Facebook's plan to generate revenue from WhatsApp, but it concerned advocates who worried that the move invaded user privacy. The controversy caused a slowdown in WhatsApp downloads during the month of January as users flocked to WhatsApp rivals Signal and Telegram, according to data from the app analytics firm SensorTower.</p><p>The announcement comes weeks after Apple delayed the rollout of new software aimed at combating child pornography on iPhones after critics said they could create broad risks for users. Through a software update, Apple plans to implement a system that would scan phones for known images of child pornography and alert Apple if a certain number of those images were uploaded to its cloud storage service.</p>",
+  "published": "2021-09-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1365,
+          "end": 1370
+        },
+        {
+          "start": 2870,
+          "end": 2875
+        },
+        {
+          "start": 3047,
+          "end": 3052
+        },
+        {
+          "start": 291,
+          "end": 296
+        },
+        {
+          "start": 3152,
+          "end": 3157
+        },
+        {
+          "start": 216,
+          "end": 221
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

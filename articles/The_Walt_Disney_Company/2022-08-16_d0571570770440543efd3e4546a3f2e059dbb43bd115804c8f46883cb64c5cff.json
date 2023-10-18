@@ -1,0 +1,30 @@
+{
+  "_id": "d0571570770440543efd3e4546a3f2e059dbb43bd115804c8f46883cb64c5cff",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>The FTC is questioning mergers that likely would have gone unchallenged in years past, a change Chairwoman Khan has said is needed to prevent companies from building up too much power and stifling competition.</p><p>---</p><p>Third Point has bought a new stake in Disney and is calling on the company to cut costs, buy the rest of Hulu , explore spinning off ESPN and refresh its board.</p><p>---</p><p>Elliott Management has a large position in Cardinal Health and is seeking a handful of seats on the company's board, according to people familiar with the matter.</p><p>---</p><p>U.S. stocks ended higher, with the S&amp;P 500 and Dow both rising 0.4%, while the Nasdaq gained 0.6%. Commodity prices fell on worries about growth in China.</p><p>---</p><p>Andreessen Horowitz is investing in Flow, a real-estate startup led by former WeWork executive and co-founder Adam Neumann .</p><p>---</p><p>The Fed said it would adopt a tiered approach for determining whether to grant financial institutions access to its payment systems.</p><p>---</p><p>An investigation by WWE's board into allegations of sexual misconduct against Vince McMahon is \"substantially complete,\" the company said in a securities filing.</p>",
+  "published": "2022-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 252,
+          "end": 258
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.1489359,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.14893591,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "f7a884dd92ac60c8bbc35cfb9a17b3f0fb00b4049fbe351b6dd4afb110b56ba7",
+  "feed": "market-watch",
+  "title": "Justice Department may be readying potential antitrust lawsuit against Apple: report",
+  "text": "<p>The Justice Department is considering a case against Apple AAPL at the same time it is expected to file an antitrust action against Alphabet Inc.'s GOOGL GOOG Google over its dominant online ad business.</p><p>Read more: Justice Department expected to file antitrust lawsuit against Google as soon as September: report</p><p>The Justice Department declined to comment to Politico on its report. Apple declined to comment.</p><p>Apple's stock was down more than 3% in late-afternoon trading Friday.</p><p>Last year, Epic Games Inc. went to trial against Apple over the App Store restrictions on its Fortnite videogame. Apple largely won the three-week-long case, which was attended by Justice Department prosecutors.</p><p>Should Justice Department proceed with cases against Apple and Google, it would signal a significant escalation in actions by regulators and lawmakers to rein in the business practices of the tech industry's biggest names.</p><p>Justice Department, the Federal Trade Commission and Congress are working on legal actions and legislation after more than two years of Congressional hearings into the matter.</p><p>Read more: As Congress flounders in Big Tech regulation push, the FTC isn't waiting around</p><p>The FTC has been especially aggressive of late, having sued Facebook parent company Meta Platforms Inc. META in July to block its planned acquisition of virtual-reality startup Within Unlimited. The agency is also pursuing an antitrust investigation of Amazon.com Inc. AMZN for its retail and cloud computing businesses.</p><p>The ratcheting of investigations coincide with a long-delayed full Senate vote on legislation that would ban the likes of Apple, Google and Amazon from favoring their products and services over smaller competitors on their vast digital platforms.</p><p>Nonetheless, analysts such as Evercore ISI's Amit Daryanani believe Apple is \"well positioned to win any potential lawsuit related to the App Store\" though the announcement of a case is \"certainly a headline risk.\"</p><p>\"We continue to view Apple as the least at risk among big tech,\" Daryanani said in a note Friday that maintains Apple shares as outperform with a price target of $185.</p><p>Justice Department may be readying potential antitrust lawsuit against Apple: report</p>",
+  "published": "2022-08-29T11:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 71,
+          "end": 76
+        },
+        {
+          "start": 381,
+          "end": 386
+        },
+        {
+          "start": 383,
+          "end": 388
+        },
+        {
+          "start": 407,
+          "end": 412
+        },
+        {
+          "start": 525,
+          "end": 530
+        },
+        {
+          "start": 589,
+          "end": 594
+        },
+        {
+          "start": 739,
+          "end": 744
+        },
+        {
+          "start": 1615,
+          "end": 1620
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.659198,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6591977,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

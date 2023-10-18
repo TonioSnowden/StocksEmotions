@@ -1,0 +1,60 @@
+{
+  "_id": "407c6dda43bf4ddd11e69994d23ed72b02506284c5de48d9cf652267921e2ed2",
+  "feed": "wall-street-journal",
+  "title": "Business World:  There's No Good Answer to the 737 MAX Disaster  ----  By Holman W. Jenkins, Jr.",
+  "text": "<p>   With the indictment of a former Boeing employee in the two 737 MAX crashes that killed 346, have we finally got to the bottom of a colossal industrial screwup? No. As persuasive as the indictment might be, it doesn't try to persuade that the crashes were caused by Mark Forkner, who served as chief technical pilot for the 737 MAX. </p><p>   The allegation: Mr. Forkner at first inadvertently misled federal aircraft certifiers about the function of a new software system in the MAX known as MCAS, or Maneuvering Characteristics Augmentation System. A year later, on belatedly discovering that Boeing engineers had altered the system, he failed to inform the Federal Aviation Administration as the plane approached certification despite many opportunities to do so. </p><p>   Mr. Forkner understood, as his emails at the time showed, that on this question turned tens of millions of dollars in additional training expense for airlines that would have cut into what Boeing could charge for the planes. Though the indictment doesn't say so, the FAA likely would have required more training, which in turn might have helped pilots in the Lion Air crash in Indonesia in October 2018, and a similar disaster involving Ethiopian Airlines a few months later, to cope with the system's unexpected misbehavior. </p><p>   If the government can't say (and it can't) this really would have prevented either crash, I find it easy to suggest what might have: In the course of designing the required training, it's hard to believe Boeing wouldn't have discovered MCAS's nasty potential and simply fixed it. </p><p>   Even with the new indictment in hand, as boggling as ever is how engineers at Boeing could have significantly changed MCAS without a cascade of high-priority emails raining down through the organization, calling forth an effort to examine and understand the implications for every conceivable failure scenario, including the failure of airspeed indicators vulnerably located on the plane's exterior. </p><p>   Mr. Forkner, who was expected to appear in court on Friday, was instrumental in negotiating for the plane's certification with the FAA. He worked closely with the customers who would have to operate it. Yet he didn't learn about the change until he stumbled on it during a simulator session. </p><p>   MCAS had been designed to counter the tendency of the plane's nose to rise in a maneuver that would never be experienced in normal operations, a high-speed, ever-tightening turn that would cause pandemonium in the passenger cabin if it were tried during a commercial flight. Mr. Forkner discovered only in the simulator, and then by contacting a Boeing engineer, that the system had been belatedly altered to intervene even during low-speed maneuvers. </p><p>   Nothing in the indictment suggests that, in a flash of insight, he realized how badly things might go if MCAS, in response to a faulty airspeed reading, began persistently trying to push the nose toward the ground after takeoff. Neither does the indictment explain why Boeing's routine processes didn't uncover this risk, which should never have depended on Mr. Forkner. </p><p>   Mr. Forkner's failure was a failure to blow a perfunctory whistle, and surely something would have happened had he alerted the FAA, though we can't know what. The FAA's job is not to design the plane or substitute for Boeing in understanding all the implications of every design choice. </p><p>   Perhaps getting us closer to the real problem, Mr. Forkner, in one of his MCAS-related emails, refers to a system \"designed by clowns, who in turn are supervised by monkeys.\" Zoologically, he's off-base. Engineers at Boeing presumably were acting in good faith when they changed MCAS for whatever narrow reason motivated them. The mystery is why the organization let the change flow through without examining every likely and unlikely effect, especially because Boeing had every reason to know the MAX would be flown by pilots in every corner of the globe who are not always splendidly trained or highly experienced or working for world-class carriers. </p><p>   Wafting through this story is a certain vague intimation. Some in Boeing saw their products as an agglomeration of systems whose saving grace was their built-in redundancy, on top of which was the final redundancy of an alert and skilled crew. But this still doesn't explain the process failures that left MCAS's risks undiscovered. In all the reporting and all the official investigations so far, nobody has yet given a good explanation of how this happened. </p><p></p>",
+  "published": "2021-10-16T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 3295,
+          "end": 3301
+        },
+        {
+          "start": 3826,
+          "end": 3832
+        },
+        {
+          "start": 945,
+          "end": 951
+        },
+        {
+          "start": 2600,
+          "end": 2606
+        },
+        {
+          "start": 1640,
+          "end": 1646
+        },
+        {
+          "start": 1486,
+          "end": 1492
+        },
+        {
+          "start": 4083,
+          "end": 4089
+        },
+        {
+          "start": 3581,
+          "end": 3587
+        },
+        {
+          "start": 32,
+          "end": 38
+        },
+        {
+          "start": 584,
+          "end": 590
+        },
+        {
+          "start": 2975,
+          "end": 2981
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

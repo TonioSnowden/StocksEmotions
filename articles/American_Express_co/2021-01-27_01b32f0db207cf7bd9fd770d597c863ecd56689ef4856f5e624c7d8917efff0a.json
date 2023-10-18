@@ -1,0 +1,32 @@
+{
+  "_id": "01b32f0db207cf7bd9fd770d597c863ecd56689ef4856f5e624c7d8917efff0a",
+  "feed": "wall-street-journal",
+  "title": "American Express Spending Decline Points to Recovery",
+  "text": "<p>As the world grapples with lockdowns and people stay home during the pandemic, travel and entertainment spending has taken a hard hit, plummeting 65% in the last quarter of 2020. That steep decline improved slightly from the third quarter when that measure of spending fell 69% from a year earlier. In the second quarter of 2020, it sank 87%.</p><p>Within travel and entertainment, spending on restaurants has been the most resilient during the pandemic, said Chief Financial Officer Jeff Campbell on the company's earnings call, but he noted it decelerated in the last quarter because of dining restrictions and colder weather. Mr. Campbell said the company expects that by the fourth quarter of 2021, travel and entertainment spending will be around 70% of what it was in the comparable quarter of 2019.</p><p>Spending not related to travel and entertainment rose 4% in the fourth quarter year over year, which was slightly better than the 1% gain it posted in the third quarter. It had fallen 13% in the second quarter of 2020. When adjusting for the effects of foreign exchange, the company said online spending and holiday spending increased among its consumer business.</p><p>American Express also reported a benefit related to a $674 million reserve release in the quarter. Mr. Campbell said that the American Express consumer is strong and that measures of credit quality at the company are faring well. Overall, American Express's revenue, net of interest expense, was $9.35 billion, down from $11.37 billion in the same period a year earlier. Analysts were expecting $9.34 billion. The company reported $1.44 billion in profit, down from $1.69 billion. Earnings were $1.76 a share, down from $2.03 a share. Analysts were expecting $1.31 a share, according to FactSet.</p>",
+  "published": "2021-01-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0258161092",
+      "name": "American Express Company",
+      "offsets": [
+        {
+          "start": 1290,
+          "end": 1306
+        },
+        {
+          "start": 1164,
+          "end": 1180
+        },
+        {
+          "start": 0,
+          "end": 16
+        },
+        {
+          "start": 1403,
+          "end": 1419
+        }
+      ],
+      "nexusId": "10021878"
+    }
+  ]
+}

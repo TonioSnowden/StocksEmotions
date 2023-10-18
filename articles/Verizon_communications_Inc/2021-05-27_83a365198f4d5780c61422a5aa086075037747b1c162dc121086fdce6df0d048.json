@@ -1,0 +1,40 @@
+{
+  "_id": "83a365198f4d5780c61422a5aa086075037747b1c162dc121086fdce6df0d048",
+  "feed": "wall-street-journal",
+  "title": "5G Technology (A Special Report) --- What Are They Talking About? A Guide to 5G Brand Names --- Cellphone carriers have put a confusing array of labels on their services",
+  "text": "<p>As with the previous generation of wireless service, cellphone carriers have pinned a confusing array of brand names on 5G services. Each type reveals a tradeoff: Some 5G signals can be found across broad swaths of the U.S. but have yet to deliver dramatically better internet speeds than their 4G counterparts. Other 5G connections are extremely fast but hard to find outside stadiums and business districts. For anyone confused by 5G's many flavors, here's a quick guide:</p><p>AT&amp;T</p><p>5G</p><p>What it means: AT&amp;T uses this label to describe most of its next-generation cellular coverage. It applies to service in the carrier's low- and midrange frequencies. Signals carried over low-range frequencies provide the slowest connections in the 5G universe but travel the farthest. High-frequency signals transmit more data at a faster rate but don't travel very far. Midrange frequencies are a balance of speed and distance. Testing by research firm Opensignal shows that AT&amp;T's 5G service is about twice as fast as its 4G service -- far short of 5G's ultimate capability.</p><p>Where it's found: AT&amp;T says this 5G service is available to more than 240 million people in the U.S. Customers at home, at work or in motion will be seeing this label most of the time they have a 5G connection.</p><p>5G+</p><p>What it means: The plus sign signifies very high-frequency transmissions that carry lots of data at high speeds over short distances. This supercharged connection, also known as millimeter-wave for its tightly packed waveform, can download data much faster than 5G services over lower frequencies and makes 4G look like a dial-up line.</p><p>The carrier is using this technology in partnerships with businesses, governments and academic institutions seeking high-speed links on their properties.</p><p>Where it's found: AT&amp;T says high-frequency 5G service is \"best suited for high-traffic areas like stadiums, arenas, entertainment districts, airports and campuses.\" The company says 5G+ currently covers parts of 38 cities.</p><p>T-Mobile</p><p>5G Extended Range</p><p>What it means: T-Mobile applies this label to service over low-range frequencies. As with the other carriers, that means that while this service isn't the fastest type of 5G connection, it usually provides some improvement over 4G speeds.</p><p>Where it's found: T-Mobile says its extended-range coverage reaches 295 million people in the U.S.</p><p>5G Ultra Capacity</p><p>What it means: This name applies to T-Mobile service using mid- and high-range frequencies. That means downloads that are generally faster than those carried over the lower end of the radio spectrum used by the company's extended-range service and much faster than 4G service.</p><p>Where it's found: The carrier says 140 million people are under the 5G Ultra Capacity umbrella, a number that it says will rise to 200 million by the end of this year.</p><p>Verizon</p><p>5G Nationwide</p><p>What it means: Verizon applies this label to all its 5G service in the low- and midrange swaths of the radio spectrum. Like AT&amp;T's basic 5G label, Verizon's 5G Nationwide service is about twice as fast as its 4G service, according to Opensignal, and is the one most customers will see in most places, especially while on the move.</p><p>Where it's found: Verizon, the largest U.S. carrier, says 5G Nationwide service covers 230 million people in the U.S.</p><p>The company is installing new equipment capable of spreading 5G service much farther. Some of that gear could be in service as early as December.</p><p>5G Ultra Wideband</p><p>What it means: This is Verizon's name for its high-frequency, millimeter-wave 5G service, which blasts large volumes of information at high speeds.</p><p>Opensignal research shows this service makes downloads more than 20 times as fast as a typical 4G download.</p><p>The company uses these frequencies both for mobile devices and to bridge the gap between telephone poles and home routers in some areas, in place of wired connections.</p><p>Where it's found: This service is mostly available in downtown areas, stadiums and certain suburban neighborhoods.</p><p>Verizon counts parts of more than 70 cities covered by its Ultra Wideband technology.</p><p>---</p><p>Mr. FitzGerald is a Wall Street Journal reporter in Washington, D.C. He can be reached at andrew.fitzgerald@wsj.com.</p>",
+  "published": "2021-05-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "offsets": [
+        {
+          "start": 3988,
+          "end": 3995
+        },
+        {
+          "start": 2983,
+          "end": 2990
+        },
+        {
+          "start": 3185,
+          "end": 3192
+        },
+        {
+          "start": 2814,
+          "end": 2821
+        },
+        {
+          "start": 3472,
+          "end": 3479
+        },
+        {
+          "start": 2851,
+          "end": 2858
+        }
+      ]
+    }
+  ]
+}

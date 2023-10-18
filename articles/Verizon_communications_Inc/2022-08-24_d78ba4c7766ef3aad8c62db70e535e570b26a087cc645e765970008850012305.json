@@ -1,0 +1,50 @@
+{
+  "_id": "d78ba4c7766ef3aad8c62db70e535e570b26a087cc645e765970008850012305",
+  "feed": "market-watch",
+  "title": "Verizon dividend yield at 'by far' its highest level in a decade, and a hike could be imminent; Verizon stock has dropped 16% so far this year, but Morgan Stanley doesn't see 'a strong catalyst' in company's near future",
+  "text": "<p>The company's dividend is \"well covered,\" according to Flannery, representing a roughly 50% payout on earnings and a 58% payout on 2022 free-cash flow.</p><p>He noted that the company also could see capital-expenditures peak this year, which \"should help the company deliver and move closer to the 2.25x unsecured leverage level where buybacks may kick in.\"</p><p>\"At this point Verizon does not appear ready to launch buybacks for a couple more years, but it is possible that they could reconsider this position especially as free-cash flow accelerates in 2023 and beyond,\" he continued.</p><p>Flannery discussed the company's positioning in a note to clients titled: \"Is Verizon Oversold Ahead Of A Dividend Boost?\" But even with the shares trading close to his $42 bear case after a 16% year-to-date decline, he's sticking with his equal-weight rating on the stock, writing that he doesn't see \"a strong catalyst to drive a re-rating in the near term.\"</p><p>See also: Verizon has 'few palatable options,' analyst says in downgrade</p><p>Verizon's stock performance this year comes on the heels of cuts to the company's outlook and a tough competitive landscape in the wireless market as Comcast Corp. CMCSA and Charter Communications Inc. CHTR make inroads with their own consumer plans, which leverage Verizon's network through a mobile virtual network operator (MVNO) arrangement.</p><p>\"The U.S. wireless industry continues to grow at a healthy clip, adding 2.2M postpaid phone customers last quarter, but Verizon only accounted for 12k of that total, although they act as the wholesale provider for Comcast and Charter who added over 600k last quarter,\" Flannery wrote.</p><p>He thinks Wall Street is looking for signs of improvement in several areas. For one, after Verizon recently cut its outlook, and Flannery believes investors \"will be reluctant to step in until they feel like estimates are sufficiently de-risked.\"</p><p>Further, he notes that investors likely want to see better gross-addition and net-addition trends, though the landscape is difficult amid lower churn from Sprint, \"aggressive\" deals from AT&amp;T Inc. T meant to retain subscribers, and the encroachment from cable companies.</p><p>\"[I]nvestors are concerned that if the wireless industry slows, Verizon's flat subscriber trends could turn negative,\" he wrote \"We will be watching carrier promos closely ahead of the iPhone launch on September 7.\"</p><p>See more: Apple schedules Sept. 7 event expected to mark iPhone 14 debut</p><p>Verizon dividend yield at 'by far' its highest level in a decade, and a hike could be imminent</p>",
+  "published": "2022-08-24T19:38:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.9976,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 96,
+          "end": 103
+        },
+        {
+          "start": 367,
+          "end": 374
+        },
+        {
+          "start": 943,
+          "end": 950
+        },
+        {
+          "start": 1006,
+          "end": 1013
+        },
+        {
+          "start": 1272,
+          "end": 1279
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

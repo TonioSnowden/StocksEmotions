@@ -1,0 +1,84 @@
+{
+  "_id": "0f3eb057a6da0a684cd8b8ab1d82a0e811e3989a5e19426abcf30d3d7ea87713",
+  "feed": "ftcomall",
+  "title": "Apple engineer likened App Store security to ‘butter knife in gunfight'",
+  "text": "<p>A senior Apple engineer compared the defences of its App Store against malicious actors to “bringing a plastic butter knife to a gunfight”, according to legal documents released on Thursday.</p> <p>The anecdote, which was cited by <a href=\"https://www.ft.com/content/c965cca7-0230-4629-b1bb-5d0bc4ae7255\"><em>Fortnite</em> maker Epic Games</a> ahead of a <a href=\"https://www.ft.com/content/e1259614-d954-400f-9265-f39a36c8c0c6\">high-stakes antitrust trial</a> in California next month, was based on internal Apple documents quoting Eric Friedman, head of the company's Fraud Engineering Algorithms and Risk (Fear) unit.</p> <p>In the papers, Friedman also likened Apple's process of reviewing new apps for the App Store to “more like the pretty lady who greets you . . . at the Hawaiian airport than the drug-sniffing dog”. He added that Apple was ill-equipped to “deflect sophisticated attackers”.</p> <p>The revelation could be a significant blow to Apple's defence, which rests on its insistence that the contentious 30 per cent “tax” it levies on digital purchases within apps downloaded from the App Store is necessary to fund curation of the store and protect consumers from malware.</p> <p>The two companies have for months been <a href=\"https://www.ft.com/content/7ee13895-9563-4a16-9f30-e34d7988f332\">locked in a feud</a> over the fee, with Epic suing Apple last August after Fortnite was thrown out of the App Store for launching its own in-app payment mechanism, a workaround that deprived Apple of its commission. </p> <p>Apple rejects any third-party payment tools for in-app purchases, arguing they could undermine the security of the iPhone.</p> <p>In hundreds of pages of newly released arguments, for which each company has been allowed access to the other's internal documents, Epic launched a stinging attack on Apple's promise of App Store security. It argued that the Silicon Valley giant has “no evidence” that its app review process “screens for security issues better than other methods of app distribution”.</p> <p>The games maker cited numerous examples of fraudulent apps previously listed on the App Store, including fake blood pressure detection tools, scams in which users have been misled into buying sham goods, and “obvious rip-offs” including one counterfeit Minecraft sequel that cost $6.99 and became one of the five most downloaded paid apps.</p> <p>In its own extensive legal documents, Apple defended its App Store, arguing that Epic was pushing unfairly to avoid fees, despite Fortnite earning $700m from its platform in the two years before it was ejected.</p> <p>Apple acknowledged various forms of malware on the App Store, but cited data from 2018 showing that the iPhone platform “accounted for just 0.85% of malware infections,” whereas Android accounted for 47.2 per cent of infections and Windows and PC accounted for 35.8 per cent.</p> <p>Apple maintains that its marketplace is “significantly safer” than the Android platform and it can also help developers avoid the sort of fraud that Epic “has experienced using third-party payment processors in Fortnite.” </p> <p>Apple said it rejects about 40 per cent of all app submissions. It called its manual, human-centred review effort “robust” with nearly 500 Apple employees dedicated to protecting users.</p> <p>However, the Epic documents detail numerous examples of other developers who have expressed dissatisfaction with the level of quality control on the App Store.</p> <p>According to Epic, the chief of meditation app Headspace referred to “egregious theft” on the App Store, with copycat apps repeatedly springing up after allegedly stealing its intellectual property. </p> <p>“Shockingly, Apple [is] approving these apps, and when the users buy the apps they are left with nothing but some scammy chat rooms in the background,” he wrote to Apple, according to Epic.</p><p>Source: Patrick McGee 2021 'Apple engineer likened App Store security to ‘butter knife in gunfight'' FT.com 8 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-08T17:15:59.260Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2575,
+          "end": 2580
+        },
+        {
+          "start": 486,
+          "end": 491
+        },
+        {
+          "start": 2126,
+          "end": 2131
+        },
+        {
+          "start": 2299,
+          "end": 2304
+        },
+        {
+          "start": 9,
+          "end": 14
+        },
+        {
+          "start": 1546,
+          "end": 1551
+        },
+        {
+          "start": 1091,
+          "end": 1096
+        },
+        {
+          "start": 337,
+          "end": 342
+        },
+        {
+          "start": 1256,
+          "end": 1261
+        },
+        {
+          "start": 3355,
+          "end": 3360
+        },
+        {
+          "start": 2797,
+          "end": 2802
+        },
+        {
+          "start": 1231,
+          "end": 1236
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 660,
+          "end": 665
+        },
+        {
+          "start": 767,
+          "end": 772
+        },
+        {
+          "start": 3506,
+          "end": 3511
+        },
+        {
+          "start": 2936,
+          "end": 2941
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "1d1a142fe61edd40a2854ab83b2c406e377f7240863962804c676690a8d48cbe",
+  "feed": "market-watch",
+  "title": "Intel wins appeal of $1.2 billion EU antitrust fine",
+  "text": "<p>The court's decision is a blow to the European Commission, the bloc's main antitrust regulator, which is seeking to expand its reach through new regulations and a reinterpretation of its existing powers. Lawyers said a ruling in favor of Intel INTC could put a greater burden on the commission in pursuing some antitrust cases.</p><p>The EU's General Court in Luxembourg on Wednesday struck down much of a 2009 finding by the regulator that Intel had abused its dominant position by issuing loyalty rebates and payments that restricted rival chip maker Advanced Micro Devices Inc. AMD from competing.</p><p>The court said that “analysis carried out by the commission is incomplete” and didn't make it possible to establish a requisite legal standard for judging the competitive impact of rebates. Significantly, the court said it couldn't identify the damages linked to Intel's practices and so completely annulled the portion of the commission's decision that related to the fine.</p><p>An expanded version of this report appears at WSJ.com.</p><p>Other popular stories on WSJ.com:</p><p>Bravo fires reality star Jennie Nguyen for offensive social-media posts.</p><p>Neil Young demands Spotify remove his music over Joe Rogan's vaccine comments.</p>",
+  "published": "2022-01-26T07:51:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 238,
+          "end": 243
+        },
+        {
+          "start": 435,
+          "end": 440
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 858,
+          "end": 863
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

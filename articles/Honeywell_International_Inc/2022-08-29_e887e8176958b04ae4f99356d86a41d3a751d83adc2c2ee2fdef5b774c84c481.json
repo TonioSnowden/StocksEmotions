@@ -1,0 +1,38 @@
+{
+  "_id": "e887e8176958b04ae4f99356d86a41d3a751d83adc2c2ee2fdef5b774c84c481",
+  "feed": "wall-street-journal",
+  "title": "McDonald's Security Chief on Building Bonds With Corporate Directors; Shaun Marion says for some CISOs, communication gaps get in the way of productive relationships with the board",
+  "text": "<p>McDonald's Corp. CISO Shaun Marion says the relative youth of the corporate security chief role can sometimes hinder rapport with board members who boast decades of business expertise.</p><p>\"How many CISOs around have 20 to 25 years of experience in cybersecurity?\" Mr. Marion says. \"I think there's a maturity gap and there is a communication gap.\"</p><p>At McDonald's, Mr. Marion meets at least quarterly with the full board or a subset of directors. This includes one annual meeting with the full board, two 30-minute meetings with the public policy and strategy committee, which oversees information risk management among other areas, and other sessions as needed. McDonald's last week added three new directors to its board.</p><p>Before joining the fast-food chain 13 months ago, Mr. Marion led cybersecurity at waste-management giant Republic Services Inc. and industrial manufacturer Honeywell International Inc. He talked with WSJ Pro Cybersecurity about building bonds with directors. His comments have been edited for clarity and length.</p><p>WSJ Pro: What do directors want to know and how do you present it to them?</p><p>Mr. Marion: There are some common themes, which I've been presenting on for about 10 years to three different publicly traded companies. Everybody wants to see metrics and the status of risk within the corporation. They typically want to see an update on key initiatives—what are some of the big things we're working on? For instance, when SolarWinds hit [in late 2020], I happened to be at a board meeting three weeks later, so I had a slide specifically dedicated to SolarWinds and what that meant for us. Every company I've been at, we've used the NIST Cybersecurity Framework as our structure and there's usually a slide on how we are maturing in line with that framework.</p><p>WSJ Pro: How do you decide when to involve the board in cyber matters?</p><p>Mr. Marion: It really depends on the nature of the event and how significant it is. In my experience, anytime anything is going to hit the media—social media or traditional—we are going to get proactive and give the board a head's up because nobody wants them to be surprised. There is also typically an annual report of all cyber incidents that meet a certain threshold. That threshold is going to vary by company.</p><p>WSJ Pro: When the big cyber incidents known as Log4j and SolarWinds hit, what were your interactions with the board?</p><p>Mr. Marion: In my experience, and talking to many of my peers, you're not engaging with the board on a day-in and day-out basis, even in the midst of a cyber event. They have day jobs. They are typically running their own public companies. What they want to know is, are we managing the risk commensurate to the vulnerability itself? Is there going to be any material impact to our company? So for Log4j and SolarWinds, it was a quick update: This is what you should know. You're going to see this in the media. Here is our timeline for response. Here is the residual risk we think we have and how long we think that risk will remain.</p><p>WSJ Pro: How have things changed over the years?</p><p>Mr. Marion: Ten years ago, it was about technical stuff. If SolarWinds hit 10 years ago, CISOs would have tried to explain what SolarWinds is, why it was used, how it works and how the attack happened—and the board, their eyes would glaze over. The board [today] wants to understand, is there going to be a risk to the company that they have to worry about?</p><p>WSJ Pro: What mistakes hamper CISOs' ability to work effectively with the board?</p><p>Mr. Marion: Trying to get too deep into the technical weeds. It's not that they don't care about it; they just don't understand. Even if you have an hour—a full hour with the board of directors every quarter—that's only four hours in an entire year. That's not enough for them to fully understand the technical details. Another big mistake is [lack of] brevity. Get in there, try to get into the salient points that matter and try to get out. They've got a number of topics they are going through and you need to understand that you are just a part of that.</p>",
+  "published": "2022-08-29T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US4385161066",
+      "nexusId": "10040831",
+      "name": "Honeywell International Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 875,
+          "end": 903
+        },
+        {
+          "start": 868,
+          "end": 895
+        },
+        {
+          "start": 875,
+          "end": 902
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.00034,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00033986568,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

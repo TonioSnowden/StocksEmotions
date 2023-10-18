@@ -1,0 +1,48 @@
+{
+  "_id": "91e43d317eb97d5a2955c8903b9a5d0d1f59dea7dc8e4b228a53f173b60eacf1",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>\n  Apple Inc.'s latest privacy measures will by default block users' internet protocol addresses from being transmitted to trackers on websites visited in its Safari browser. A Business &amp; Finance article on Wednesday about the company incorrectly said that Apple's technology would block users' IP addresses from being transmitted to entire websites. In addition, while Apple's earlier privacy moves affected only apps within Apple's iOS operating system, the latest changes affect a broader array of web traffic on the company's devices. In some editions, the article incorrectly said the changes encompass all forms of web traffic on Apple devices. Also, a feature called \"Private Relay\" won't be available in several countries, including China. In some editions, the article incorrectly said the feature would be available everywhere except in China. </p><p>\n  (See: \"Apple's Moves Vex Digital Advertisers\" -- WSJ June 9, 2021) </p><p>\n  --- </p><p>\n  Mondelez International Inc. owns the Philadelphia cream cheese brand outside of the U.S., Canada and the Caribbean. Kraft Heinz Co. owns the brand within those three regions. A Business News article on Tuesday about companies' bill payments didn't make clear that Mondelez doesn't own the brand in all markets. </p><p>\n  (See: \"Business News -- CFO Journal: Companies Take Longer to Pay Bills --- Terms that suppliers eased at the start of pandemic still let businesses save cash\" -- WSJ June 8, 2021) </p><p>\n  --- </p><p>\n  Notice to readers </p><pre>\n </pre><p>\n  Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail. </p><p>\n   --- </p><p>\n  Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><pre>\n </pre><p></p>",
+  "published": "2021-06-10T06:01:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 423,
+          "end": 428
+        },
+        {
+          "start": 367,
+          "end": 372
+        },
+        {
+          "start": 633,
+          "end": 638
+        },
+        {
+          "start": 858,
+          "end": 863
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 254,
+          "end": 259
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

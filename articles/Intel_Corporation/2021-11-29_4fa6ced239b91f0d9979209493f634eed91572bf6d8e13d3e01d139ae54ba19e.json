@@ -1,0 +1,76 @@
+{
+  "_id": "4fa6ced239b91f0d9979209493f634eed91572bf6d8e13d3e01d139ae54ba19e",
+  "feed": "wall-street-journal",
+  "title": "Inside Intel's Secret Warehouse in Costa Rica; Chip maker is stockpiling legacy technology for security research, plans to expand facility to house 6,000 pieces of equipment",
+  "text": "<p>\"We had to actually go on eBay and start looking for these platforms,\" said Mohsen Fazlian, general manager of Intel's product assurance and security unit.</p><p>Intel's issue reflects a wider concern: Legacy technology can introduce cybersecurity weaknesses. Tech makers constantly improve their products to take advantage of speed and power increases, but customers don't always upgrade at the same pace. This creates a long tail of old products that remain in widespread use, vulnerable to attacks.</p><p>Intel's answer to this conundrum was to create a warehouse and laboratory in Costa Rica, where the company already had a research-and-development lab, to store the breadth of its technology and make the devices available for remote testing. After planning began in mid-2018, the Long-Term Retention Lab was up and running in the second half of 2019.</p><p>The warehouse stores around 3,000 pieces of hardware and software, going back about a decade. Intel plans to expand next year, nearly doubling the space to 27,000 square feet from 14,000, allowing the facility to house 6,000 pieces of computer equipment.</p><p>Intel engineers can request a specific machine in a configuration of their choice. It is then assembled by a technician and accessible through cloud services. The lab runs 24 hours a day, seven days a week, typically with about 25 engineers working any given shift.</p><p>The lab gives Intel, which is based in Santa Clara, Calif., and has more than 100,000 employees, a centralized, secure location where security tests can be run from anywhere in the world. Access to the building is strictly controlled and approved by senior managers, while surveillance cameras watch the equipment at all times. Even its location is secret—Intel representatives declined to say where exactly it is.</p><p>The lab brings commercial value to Intel, Mr. Fazlian said, citing company research that shows customers are more likely to buy technology from manufacturers that proactively test their products.</p><p>Establishing the lab required getting hard-to-find equipment to Costa Rica, hiring engineers and computer scientists who could work on the machines, and tapping accountants and managers to put processes in place to make it work, said Fawn Taylor, senior director of corporate remediation programs for Intel's product assurance and security unit.</p><p>At times, contributions came from engineers who had long since moved on to other projects or even left the company. They helped assemble technical documentation and discussed what they knew about products from years ago, Ms. Taylor said.</p><p>Marcel Cortes Beer, a manager at the lab, said it gets about 1,000 requests a month to build equipment for remote security tests, and 50 new devices come in weekly.</p><p>Anders Fogh, a Germany-based senior principal engineer at Intel, said the facility quickly became an integral part of his work, particularly when trying to replicate security flaws reported to Intel by outside researchers through its bug-bounty program. Examples of recent vulnerabilities disclosed by Intel include flaws discovered in its Safestring code library that could allow hackers to gain access to sensitive systems, and errors in drivers that could let attackers give themselves credentials.</p><p>\"I can make an exact replica of the submitting researcher's system. Same CPU, same operating system version, microcode, BIOS,\" Mr. Fogh said. \"All of which increase the chance of reproducing the issue, which is often the best starting point.\"</p><p>The lab provides isolated systems for this work, which can otherwise prove dangerous for hard-to-find machines that are still actively used in corporate environments. Testing security vulnerabilities often causes systems to crash, which can result in data loss, Mr. Fogh said.</p><p>The facility's \"huge library of machines is really the go-to place for doing this kind of work,\" he said.</p><p>The lab has changed Intel's product development. All new technology is now built with the facility in mind, with technical documentation created to allow engineers to support it for up to 10 years, and units are sent to the lab before they are released, Mr. Fazlian said.</p><p>\"Hopefully, I will never find myself searching eBay for Intel hardware again,\" he said.</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2021-11-29T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 2785,
+          "end": 2790
+        },
+        {
+          "start": 1101,
+          "end": 1106
+        },
+        {
+          "start": 1817,
+          "end": 1822
+        },
+        {
+          "start": 2920,
+          "end": 2925
+        },
+        {
+          "start": 4183,
+          "end": 4188
+        },
+        {
+          "start": 940,
+          "end": 945
+        },
+        {
+          "start": 3029,
+          "end": 3034
+        },
+        {
+          "start": 7,
+          "end": 12
+        },
+        {
+          "start": 1381,
+          "end": 1386
+        },
+        {
+          "start": 1723,
+          "end": 1728
+        },
+        {
+          "start": 496,
+          "end": 501
+        },
+        {
+          "start": 111,
+          "end": 116
+        },
+        {
+          "start": 2279,
+          "end": 2284
+        },
+        {
+          "start": 156,
+          "end": 161
+        },
+        {
+          "start": 3875,
+          "end": 3880
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

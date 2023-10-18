@@ -1,0 +1,34 @@
+{
+  "_id": "f4460908cb34649bfd0491b582278d4284e5c6bef81d9f76bac560ba3e3f5aac",
+  "feed": "wall-street-journal",
+  "title": "Betting on Corporate Travel Is Risky Business; Recent trends show hotel executives seem prematurely enthused about returning corporate travel",
+  "text": "<p>Second-quarter earnings were surprisingly upbeat from major hotel companies with upside coming in part from a strong rebound in group and business travel after a multiyear hiatus. As of the second quarter, roughly two-thirds of Hilton's mix was business transient and group, while those segments made up just over half of Marriott's mix. </p><p>*See which of our Heard on the Street writers will have the best performing stock picks through August 2023. PHOTO: JONATHAN HAN/THE WALL STREET JOURNAL</p><p>On its second-quarter conference call last month, Hilton Chief Executive Chris Nassetta suggested a deteriorating economy could actually be augmenting corporate travel for businesses, noting \"the more worried they are, the more they realize they got to get out there and make sure they're hustling.\" Marriott suggested on its own call earlier this month that \"bleisure,\" or the blending of work and leisure travel enabled by more remote work, has made business trips all the more appealing for employees.</p><p>Marriott said group revenue for the back half of the year is looking \"pretty close\" to 2019 levels and could actually end up exceeding them. Hilton similarly said group revenue per available room in the second quarter was already back to 85% of 2019 levels and that it expects business transient revenue overall to be roughly equal to the 2019 level for the second half of the year.</p><p>The way group revenue is defined, though, it can capture some nonbusiness events such as weddings. And given that rates in lodging are still abnormally high across the industry right now, revenue figures might not be the best metric on which to place a longer-term bet.</p><p>Booking volumes appear to be another story. In the U.S. in June, Marriott said business transient room nights were still down 9% versus the same period of 2019. Hotel data provider STR shows group occupancy across U.S. hotels was down more than 15% for the week ended Aug. 6 from the comparable week of 2019. And data tracker Tripbam shows booking volumes for U.S. hotel business travel peaked in their recovery in May at around 13% below 2019 levels, but have since deteriorated to down more than 30% versus 2019 levels as of mid-July.</p><p>Perhaps the threat of a recession has temporarily set back some corporate travel budgets. But there are also long-term factors at play. Truist Securities analyst Patrick Scholes said in a note last month that due to the \"Zoom effect,\" higher-end business travel may never return or may take several more years to reach pre-pandemic levels.</p><p>SHARE YOUR THOUGHTS</p><p>How much travel for business purposes are you doing now? Join the conversation below.</p><p>Microsoft, for example, is cutting back on business travel expenses in an effort to control costs, The Wall Street Journal reported earlier this month. Meanwhile, smart-speaker company Sonos said on its earnings call this month that it is pausing its travel spending along with hiring.</p><p>Marriott specifically said earlier this month that business travel demand is back above 2019 levels for small and medium-sized business, while bigger corporate customers \"are not quite back yet.\"</p><p>McKinsey &amp; Co. predicted this dynamic last year, when it said small and medium enterprises would likely increase corporate travel at faster rates because they aren't subject to the heightened approval process large enterprises have to follow. Further, these smaller businesses are likely to trigger a \"domino effect,\" the firm said, in which one company's return to travel will catalyze that of rivals in an effort to compete for client relationships.</p><p>Other post-pandemic factors could be further distorting the picture. As Marriott candidly pointed out during earnings, workers combining business with leisure trips could be making business stays appear artificially lengthy. Blending of trip purposes, Marriott said, \"may make it that much tougher for us to tell you with absolute precision what [our] mix looks like.\"</p><p>Given all of that, it seems premature to declare business travel back. At this stage, investors trying to find evidence of a sustained recovery will have their work cut out for them.</p><p>Betting on Corporate Travel Is Risky Business</p>",
+  "published": "2022-08-15T15:42:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2614,
+          "end": 2623
+        },
+        {
+          "start": 2632,
+          "end": 2641
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.805,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

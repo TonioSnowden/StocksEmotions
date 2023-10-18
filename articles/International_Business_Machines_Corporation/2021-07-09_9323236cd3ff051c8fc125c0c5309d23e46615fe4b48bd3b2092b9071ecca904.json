@@ -1,0 +1,28 @@
+{
+  "_id": "9323236cd3ff051c8fc125c0c5309d23e46615fe4b48bd3b2092b9071ecca904",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Pentagon Comes  Around to Idea  Of the Multicloud  ----  By Sara Castellanos and Angus Loten",
+  "text": "<p>   The Pentagon's decision to drop a proposed cloud contract with Microsoft Corp. in favor of planning to hire multiple vendors for the job is in line with the IT strategy at many big corporations and government agencies. </p><p>   Many large companies rely on various cloud providers for technology infrastructure services, in part so they can pick and choose services from various companies and avoid being locked in to one vendor. About three-quarters of 850 respondents at midsize and large enterprises world-wide said in a survey last year that they use multiple cloud providers, according to a report by tech research firm Gartner Inc. </p><p>   \"If you are trying to make something work because you're tied to a specific vendor or infrastructure, you are solving the wrong problems,\" said Thomas Donnelly, chief information officer of software company BetterCloud Inc. </p><p>   The New York company -- which manages and secures its customers' internet-based applications, such as Dropbox and Salesforce -- primarily uses Google Cloud for its IT infrastructure, with some services from Amazon Web Services. IT leaders often build ecosystems that allow them to use new technologies regardless of the vendor, said Mr. Donnelly, who has managed multicloud deployments in previous roles. \"As technology continues to accelerate, [multicloud] is really the only way to stay ahead of the curve,\" he said. </p><p>   The Pentagon's scuttled cloud contract, dubbed Joint Enterprise Defense Infrastructure or JEDI, was designed to provide the military with access to services that better keep up with the pace of technology. The contract was awarded to Microsoft in 2019 over Amazon.com Inc., which contested the move in court. </p><p>   Pentagon officials said the new project, Joint Warfighter Cloud Capability, will be open to Microsoft and Amazon. Other qualified bidders could include Alphabet Inc.'s Google, Oracle Corp. and International Business Machines Corp., officials said. </p><p>   Advances in cloud computing made JEDI obsolete, according to a Pentagon official. </p><p>   \"The evolving landscape is what has driven our thinking,\" said John Sherman, the Pentagon's acting chief information officer. \"JEDI was the right approach at the time,\" he added, but with changing circumstances \"we're in a different place.\" </p><p>   Federal agencies are increasingly relying on the cloud and it has become commonplace for them to use multiple cloud vendors for IT services, said Adelaide O'Brien, research director at research firm International Data Corp.'s Government Insights division. </p><p>   Many government agencies use their own private data centers to store and compute data, along with public cloud services from Amazon Web Services, IBM, Oracle and others, according to IDC surveys. Public cloud vendors offer remote data storage and processing services for enterprise customers. </p><p>   Mike Kelly, CIO of software company Red Hat Inc., a subsidiary of IBM, said the No. 1 benefit for organizations that adopt multicloud strategies is they avoid the risks of being tied to one cloud provider that might change pricing models or fall behind competitors in some cloud-based services. \"This means that you can take advantage of multiple cloud services, and leverage the innovation, options, and pricing outside of the umbrella of a single vendor,\" Mr. Kelly said. </p><p>   The downside, he added, is getting tech vendors to \"play nicely together and with your on-premise technologies.\" </p><p></p>",
+  "published": "2021-07-09T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 2654,
+          "end": 2657
+        },
+        {
+          "start": 1874,
+          "end": 1905
+        },
+        {
+          "start": 2867,
+          "end": 2870
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

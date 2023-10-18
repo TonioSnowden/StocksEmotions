@@ -1,0 +1,24 @@
+{
+  "_id": "776a6cfaaaeeff7fdfec77fced97e657a8d92538963a561b965c91ef975a48d6",
+  "feed": "wall-street-journal",
+  "title": "Cyber Startups Face Funding Tests",
+  "text": "<p>(WSJ January 7, 2021)</p><p>(END)</p><p>Disruption caused by the coronavirus pandemic forced startups and their investors to rethink how they did business in 2020. This year, venture-capital firms say, companies that want to attract funding will have to move beyond established niches, while competing with global rivals and enduring greater scrutiny than in the past.</p><p>In particular, a supply-chain cyberattack that affected dozens of U.S. federal agencies and technology firms in recent weeks has heightened awareness about how vendors secure their own products and information.</p><p>For startups, including new cybersecurity companies, this is likely to translate into increased due-diligence requirements, said John Brennan, a San Francisco-based partner at YL Ventures.</p><p>\"Scrutiny will get 50% to 100% tighter,\" he said. \"Especially for a cybersecurity company where you're trying to mitigate risk, not increase it.\"</p><p>Along with being unable to take shortcuts, startups will need to think beyond traditional security technology to attract funding, investors say. Lucas Nelson, managing director at New York-based Lytical Ventures, said that while virtual private networks and similar secure communications technologies proved popular at the start of the pandemic as companies adapted to newly remote workforces at short notice, they aren't a suitable long-term solution.</p><p>Instead, \"zero-trust\" models -- where every user and device must be rigorously authenticated each time they log on -- and authentication and identification technologies are likely to attract funding, as companies feel more comfortable undertaking security and technology projects, he said.</p><p>Many larger venture-funding deals that closed in 2020 involved identity management or DevOps security, which aims to bring security into every stage of the software-development process. These are two areas seen as crucial to enabling zero-trust models. BioCatch Ltd., for instance, which helps companies prevent fraud by assessing customer and employee identities using biometric data, raised $125 million in April, while identity management company Auth0 Inc. closed a $120 million Series F funding round in July.</p><p>Additionally, investors are looking to capitalize on technology programs that were catalyzed by remote work and the pandemic, including the move to cloud infrastructure. With that, Mr. Brennan said, has come a rise in demand for security products that deal specifically with the cloud.</p><p>\"This [pandemic] has really been an accelerant in a lot of ways. And importantly, I think it's gotten the board's attention in a lot of cases, which is always very helpful for budgets,\" he said. Research firm PitchBook Data Inc. expects the network security market, which includes cloud security companies, to grow to $9.3 billion by 2023, from around $6.2 billion in 2020.</p><p>Investors say they are also broadening their range of companies they consider for investment.</p><p>While the value of deal flow has largely remained unaffected by the pandemic during 2020, Mr. Nelson suggests that early on, many investors focused on deals that were already in progress before the pandemic was declared in March, and on funding companies started by founders that were already known to them. As investors figured out how to make deals remotely, many began to look outside of their traditional geographic areas, such as Silicon Valley or New York, and farther afield.</p><p>This was true for Mony Hassid, a managing director at M12, Microsoft Corp.'s venture arm, who said his company initially focused on existing deals and supporting portfolio companies from March. But as months passed, Mr. Hassid said the pandemic later forced investors to adapt their mind-set beyond typical boundaries.</p><p>\"Without our office space, we've challenged ourselves to find the best entrepreneurs globally, instead of the best founders who are within the 50 miles around each office location and able to drive in for a meeting,\" he said.</p>",
+  "published": "2021-01-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3457,
+          "end": 3472
+        },
+        {
+          "start": 3457,
+          "end": 3466
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

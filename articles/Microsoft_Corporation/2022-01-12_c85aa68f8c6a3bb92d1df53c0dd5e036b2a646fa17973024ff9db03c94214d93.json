@@ -1,0 +1,24 @@
+{
+  "_id": "c85aa68f8c6a3bb92d1df53c0dd5e036b2a646fa17973024ff9db03c94214d93",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Officials Warn of Long-Term Fallout From Cyber Flaw",
+  "text": "<p>Still, officials said the dangers posed by Log4j -- a free bit of code that logs activity in computer networks and applications -- were severe and likely to be a long-lasting problem for organizations big and small because of the software's ubiquity.</p><p>\"The scale and potential impact of this makes it incredibly serious,\" said Jen Easterly, the director of the Cybersecurity and Infrastructure Security Agency. Despite the lack of major attacks so far, Ms. Easterly said she considered the Log4j problem \"the most serious vulnerability\" she has seen in her decadeslong career, and she was concerned about long-term risks to networks that control U.S. critical infrastructure.</p><p>Ms. Easterly said the flaw had so far led to \"widespread criminal activity\" that mostly consisted of installing cryptocurrency mining software or botnet code on vulnerable devices. She added that some hackers may be waiting undetected after entering networks to do more damage and said there were limits to what CISA may know about because victimized organizations often don't report intrusions to the government.</p><p>Researchers have said the Log4j flaw, publicly disclosed a month ago after being discovered by a Chinese security team, was particularly worrying because the free Java-based software is used in a range of products including security software, networking tools and videogame servers. The exact number of users of Log4j is impossible to know, but the software has been downloaded millions of times, according to the organization that builds it, the Apache Software Foundation.</p><p>A public catalog of products known to have the flaw that CISA set up in the wake of its discovery has received more than 2,800 submissions detailing Log4j-related problems in different commercial products that incorporate the code, Ms. Easterly said. Hundreds of millions of individual devices are likely at risk, she said.</p><p>The administration hadn't confirmed that hackers backed by foreign governments are exploiting the Log4j flaw, but \"it is of course possible that that may change,\" said Eric Goldstein, executive assistant director for cybersecurity at CISA. Senior officials have separately said they expect such activity to be inevitable.</p><p>Multiple U.S.-based cybersecurity firms and Microsoft Corp. said in December that they had identified hackers linked to China, Iran and other governments exploiting the Log4j vulnerability. The U.S. government is often slower than private companies to formally attribute cyberattacks to foreign governments.</p><p>The Federal Trade Commission last week urged organizations to address the Log4j flaw in products with available patches to avoid exposure to possible legal action from the agency.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-01-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2254,
+          "end": 2269
+        },
+        {
+          "start": 2254,
+          "end": 2263
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

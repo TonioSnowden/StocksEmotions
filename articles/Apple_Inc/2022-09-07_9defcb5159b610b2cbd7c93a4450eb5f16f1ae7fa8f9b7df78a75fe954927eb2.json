@@ -1,0 +1,66 @@
+{
+  "_id": "9defcb5159b610b2cbd7c93a4450eb5f16f1ae7fa8f9b7df78a75fe954927eb2",
+  "feed": "market-watch",
+  "title": "Apple's satellite plans just sent this stock on a wild ride; Shares of satellite company Globalstar plunged on Wednesday ahead of announcement, turned around sharply after trading halt",
+  "text": "<p>\"Now your iPhone can connect you with the help you need when you're off the grid,\" she said.</p><p>All the news from Apple's event: Apple keeps iPhone 14 prices the same</p><p>Apple said the service will be available free of charge to customers who purchase an iPhone 14 for the first two years.</p><p>Globalstar's stock was down 15.8% on Wednesday when it was halted ahead of Apple's announcement, at roughly 1:53 Eastern time. When shares began trading again at about 2:45 p.m. Eastern, they jumped to gains of more than 40% before calming down to a daily increase closer to 10%. The stock then saw a daily decline of 5.7%.</p><p>Apple shares gained after the event ended, though the were up less than 1%. The S&amp;P 500 index SPX was ahead by 1.9%.</p><p>See Now: Apple's iPhone 14 event could herald new satellite era for smartphones</p><p>In a filing, Globalstar explained that services are expected to be available to customers during the fourth quarter of 2022. Apple said the service would launch in the U.S. and Canada in November.</p><p>\"Under the terms of the Partnership Agreements, Globalstar is required to raise additional debt capital for the construction and launch of the new satellites,\" it said. \"Globalstar has mandated Goldman Sachs &amp; Co. LLC GSand is currently exploring capital markets opportunities and expects to complete a financing in the fourth quarter of 2022.\"</p><p>Other phone makers are also tapping satellite technology. Last month T-Mobile US Inc. TMUSand SpaceX announced a partnership that aims to connect the majority of smartphones already on T-Mobile's network to SpaceX satellites.</p><p>Despite the existence of powerful LTE and 5G wireless networks, over half a million square miles of the U.S. and vast stretches of ocean are untouched by cell signals from any provider, the companies said in a statement. To resolve this problem, the companies will create a new network, broadcast from Starlink's satellites using T-Mobile's midband spectrum nationwide.</p><p>On Tuesday, Huawei unveiled its Mate 50 Series, which includes phones capable of sending texts via China's global BeiDou satellite network, The Verge reports. The BBC also reports that a British smartphone maker is planning a satellite-connected handset.</p><p>Globalstar's stock has risen 68.5% in 2022, compared with Apple's decline of 12.1%. The S&amp;P 500 declined 16.5% over the same period.</p><p>Apple's satellite plans just sent this stock on a wild ride</p>",
+  "published": "2022-09-07T19:44:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 110,
+          "end": 115
+        },
+        {
+          "start": 111,
+          "end": 116
+        },
+        {
+          "start": 125,
+          "end": 130
+        },
+        {
+          "start": 163,
+          "end": 168
+        },
+        {
+          "start": 357,
+          "end": 362
+        },
+        {
+          "start": 603,
+          "end": 608
+        },
+        {
+          "start": 727,
+          "end": 732
+        },
+        {
+          "start": 922,
+          "end": 927
+        },
+        {
+          "start": 2239,
+          "end": 2244
+        }
+      ],
+      "weightsV2": {
+        "weight": 16.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

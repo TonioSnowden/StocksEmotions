@@ -1,0 +1,32 @@
+{
+  "_id": "56b111054b10f4ddd0748119d457d8e88e338b4123eb914ae587aa75c3d1c557",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Salesforce  Increases  Revenue  Forecast  ----  By Aaron Tilley",
+  "text": "<p>   Business-software company Salesforce.com Inc. boosted its full-year sales forecast Thursday, as Covid-19 continues to help accelerate the shift to cloud-based services. </p><p>   The San Francisco-based company, which is the market leader in sales software, raised its revenue guidance for the fiscal year that ends Jan. 31 to a range between $26.25 billion and $26.35 billion, a jump from its previous estimate of $26.2 billion to $26.3 billion. </p><p>   The company expects the growth to continue the following year. It predicts revenue between $31.65 billion and $31.8 billion for the fiscal year ending January 2023. </p><p>   \"Digital transformation was certainly under way before the pandemic began,\" said Salesforce Chief Financial Officer Amy Weaver at the company's investor day on Thursday. \"But what the pandemic did is it compressed years, if not decades, into months as companies suddenly focused all of their energies on digital transformation.\" </p><p>   The company's shares Thursday rose 7.2% on the news. </p><p>   Salesforce has been one of the biggest beneficiaries of the pandemic, with companies embracing more cloud-based software tools to stay connected with their customers. Its shares are up about 84% since the virus started spreading around the world in March 2020. </p><p>   Growth for companies selling cloud services has been gaining speed. When entire industries and governments were sent to remote work, they quickly bought up digital tools they needed to stay productive. The growth has continued even as organizations return to working from offices. </p><p></p>",
+  "published": "2021-09-24T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "name": "salesforce.com, inc.",
+      "offsets": [
+        {
+          "start": 683,
+          "end": 693
+        },
+        {
+          "start": 15,
+          "end": 25
+        },
+        {
+          "start": 26,
+          "end": 40
+        },
+        {
+          "start": 984,
+          "end": 994
+        }
+      ],
+      "nexusId": "10009678"
+    }
+  ]
+}

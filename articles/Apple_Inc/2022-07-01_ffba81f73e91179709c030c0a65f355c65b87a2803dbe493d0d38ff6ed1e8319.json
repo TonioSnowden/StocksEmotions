@@ -1,0 +1,32 @@
+{
+  "_id": "ffba81f73e91179709c030c0a65f355c65b87a2803dbe493d0d38ff6ed1e8319",
+  "feed": "wall-street-journal",
+  "title": "TikTok Responds to Senators' Concerns Over User Data; App's CEO says a 'narrow set of non-sensitive TikTok U.S. user data' is shared with others",
+  "text": "<p>Mr. Chew was responding to a Monday letter from senators that raised questions about the data practices of the short-form video app owned by China-based ByteDance Ltd. The lawmakers also suggested a TikTok executive may have misrepresented facts in a 2021 congressional hearing.</p><p>Mr. Chew said TikTok had limited links to its parent company, though conceded that \"in order to facilitate a global platform, non U.S.-based employees, including China based employees, will have access to a narrow set of non-sensitive TikTok U.S. user data, such as public videos and comments available to anyone anywhere in the world to ensure global interoperability.\" That sharing is aimed at benefiting users of the platform, he said.</p><p>\"TikTok's response confirms that our fears regarding [Chinese Communist Party] influence within the company are well-founded,\" Sen. Marsha Blackburn (R., Tenn.) said Friday. \"They should have come clean from the start,\" she said of the company.</p><p>The back and forth between legislators and the company was spurred by a recent BuzzFeed News article that alleged that U.S. user data is more widely available to employees in China than previously known and that some U.S. employees didn't even have access to the data.</p><p>TikTok said on June 17, the day the BuzzFeed News article was published, that it now routs 100% of U.S. user traffic to its cloud partner, Oracle Corp. The data is still backed up to TikTok's own data centers in the U.S. and Singapore, the company said.</p><p>Mr. Chew reiterated in the letter to the senators that the company plans to fully migrate to Oracle's U.S. cloud servers and delete the data from its own systems in the future.</p><p>The New York Times earlier reported on his letter.</p><p>TikTok began pursuing a U.S. cloud partner after lawmakers and the Trump administration in 2020 raised concerns about the company's China links, eventually settling on Oracle. Then-President Donald Trump had said repeatedly that he would shut down TikTok in the U.S. if security issues weren't addressed.</p><p>TikTok also faces pressure from others in Washington. A federal communications regulator has asked Apple Inc. and Alphabet Inc.'s Google to remove TikTok from their app stores, citing the security risks posed by the data collected on American users by the short-form video site. \"It is clear that TikTok poses an unacceptable national security risk due to its extensive data harvesting being combined with Beijing's apparently unchecked access to that sensitive data,\" Federal Communications Commission member Brendan Carr wrote in a letter to Apple and Google.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>TikTok Responds to Senators' Concerns Over User Data</p>",
+  "published": "2022-07-01T21:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2118,
+          "end": 2128
+        },
+        {
+          "start": 2563,
+          "end": 2568
+        },
+        {
+          "start": 2118,
+          "end": 2123
+        },
+        {
+          "start": 2118,
+          "end": 2127
+        }
+      ]
+    }
+  ]
+}

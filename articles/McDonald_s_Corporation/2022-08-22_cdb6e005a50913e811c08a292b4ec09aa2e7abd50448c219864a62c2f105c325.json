@@ -1,0 +1,46 @@
+{
+  "_id": "cdb6e005a50913e811c08a292b4ec09aa2e7abd50448c219864a62c2f105c325",
+  "feed": "wall-street-journal",
+  "title": "McDonald's Overhauls Board After Carl Icahn's Challenge; Longtime member Sheila Penrose to step down; Marriott, J&J and Salesforce executives to join",
+  "text": "<p>Ms. Penrose's departure comes months after her seat on the McDonald's board was challenged by activist investor Carl Icahn, who criticized the fast-food chain over its suppliers' treatment of pregnant pigs. At the time, Mr. Icahn also targeted a seat held by Richard Lenny, the former chief executive of Hershey Co.</p><p>McDonald's Chairman Enrique Hernandez Jr. said Monday that Ms. Penrose has overseen the company's progress on climate, responsible sourcing and diversity, equity and inclusion goals.</p><p>\"We are grateful for all that she has done for McDonald's and the communities we serve,\" he said.</p><p>McDonald's said it has elected Marriott CEO Tony Capuano, J&amp;J Worldwide Chair of Pharmaceuticals Jennifer Taubert and Salesforce Chief Financial Officer Amy Weaver to the board effective Oct. 1.</p><p>The new additions increase the size of the board to 14, and increase the number of women on the board from three, including Ms. Penrose, to four.</p><p>The move also comes after executives warned last month that the business outlook remains uncertain amid inflation and weakening consumer sentiment.</p><p>McDonald's said last month that for the recently ended quarter, higher prices and value-menu offerings pushed same-store sales up 3.7% in the U.S. from a year earlier, outpacing analysts' expectations. Overall revenue, though, fell 3%, mostly because of the stronger U.S. dollar.</p><p>Write to Will Feuer at will.feuer@wsj.com</p><p>McDonald's Overhauls Board After Carl Icahn's Challenge</p>",
+  "published": "2022-08-22T16:52:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.99840003,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 59,
+          "end": 69
+        },
+        {
+          "start": 315,
+          "end": 325
+        },
+        {
+          "start": 594,
+          "end": 604
+        },
+        {
+          "start": 1080,
+          "end": 1090
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.0,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

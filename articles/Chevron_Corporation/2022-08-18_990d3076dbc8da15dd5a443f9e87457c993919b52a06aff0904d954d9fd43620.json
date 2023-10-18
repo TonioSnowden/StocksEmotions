@@ -1,0 +1,34 @@
+{
+  "_id": "990d3076dbc8da15dd5a443f9e87457c993919b52a06aff0904d954d9fd43620",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: U.S. Watch",
+  "text": "<p>'Kids for Cash' Scandal</p><p>Two former Pennsylvania judges sentenced to prison for sending children to detention centers in exchange for kickbacks were ordered to pay more than $200 million in damages.</p><p>Mark Ciavarella and Michael Conahan were accused in 2009 of sending hundreds of teenagers to privately run youth detention centers in exchange for kickbacks from the builder of new detention facilities. The scandal came to be known as the \"kids for cash\" scandal.</p><p>According to court records, the former judges orchestrated the shutdown of Luzerne County juvenile facilities in 2002 to set the stage for new private detention centers to be built.</p><p>Mr. Ciavarella was convicted in 2011 of money laundering and other counts in connection with the scheme, and was sentencedto 28 years in prison.</p><p>Mr. Conahan pleaded guilty in 2010 and was sentenced to 17 1/2 years in prison. He was released six years before his sentence was up because of Covid-19 concerns, the Associated Press reported in June 2020.</p><p>U.S. District Judge Christopher Conner awarded the plaintiffs approximately $106.3 million in compensatory damages and $100 million in punitive damages.</p><p>Messrs. Conahan and Ciavarella didn't immediately return requests for comment.</p><p>-- Talal Ansari</p><p>---</p><p>DELAWARE</p><p>Oil Firms Lose Round</p><p>In Climate Lawsuits</p><p>A federal appeals court ruled that lawsuits by Delaware and Hoboken, N.J., seeking compensation from oil companies for the impacts of climate change should be decided in state courts, not federal courts.</p><p>The decision Wednesday is the latest procedural victory by state and municipal governments, which have sought to bring climate-liability cases against companies such as Exxon Mobil Corp., Chevron Corp. and Shell PLC under state laws, after similar earlier efforts under federal laws proved unsuccessful.</p><p>The lawsuits before the U.S. Court of Appeals for the Third Circuit are among at least two dozen filed by states and cities in recent years, arguing that the oil industry should be on the hook for damages caused by fossil fuels.</p><p>Oil companies have denied liability in the cases and have sought to resolve the disputes in federal courts.</p><p>-- Erin Mulvaney</p><p>---</p><p>FLORIDA</p><p>NASA Moon Rocket</p><p>Moves to Launchpad</p><p>NASA's new moon rocket arrived at the launchpad in Cape Canaveral, Fla., on Wednesday ahead of its debut flight in less than two weeks.</p><p>The 322-foot rocket emerged from its mammoth hangar late Tuesday night, drawing crowds of Kennedy Space Center workers, many of whom weren't yet born when NASA sent astronauts to the moon a half-century ago.</p><p>NASA is aiming for an Aug. 29 liftoff for the lunar test flight. No one will be inside the crew capsule atop the rocket, just three mannequins swarming with sensors to measure radiation and vibration. The capsule will fly around the moon in a distant orbit for a couple of weeks, before heading back for a splashdown in the Pacific. The entire flight should last six weeks.</p><p>-- Associated Press</p><p>---</p><p>NEW YORK CITY</p><p>9/11 Tribute Museum</p><p>Closes After 16 Years</p><p>A small museum near New York's World Trade Center dedicated to preserving the memory of the Sept. 11 attacks is closing after Wednesday.</p><p>The 9/11 Tribute Museum, which opened in 2006, offered tours led by volunteers who had lost a family member or were connected in some other way to the terrorist attacks on Sept. 11, 2001. It was sometimes confused with the larger Sept. 11 museum, which opened in 2014 near the memorial pools that mark where the twin towers stood.</p><p>Jennifer Adams, co-founder and CEO of the 9/11 Tribute Museum, said most of the museum's collection of artifacts is being moved to the New York State Museum in Albany.</p><p>-- Associated Press</p>",
+  "published": "2022-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1690,
+          "end": 1703
+        },
+        {
+          "start": 1680,
+          "end": 1693
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

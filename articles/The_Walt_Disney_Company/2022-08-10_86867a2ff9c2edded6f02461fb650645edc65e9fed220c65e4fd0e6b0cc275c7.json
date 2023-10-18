@@ -1,0 +1,62 @@
+{
+  "_id": "86867a2ff9c2edded6f02461fb650645edc65e9fed220c65e4fd0e6b0cc275c7",
+  "feed": "wall-street-journal",
+  "title": "Disney Barely Hedges Its Streaming Bet; Revised long-term forecast coupled with price hikes means Disney+ still needs to deliver big",
+  "text": "<p>It seems as good a time as any for Disney to flex its pricing muscles. In a separate announcement, the company said it would launch a new tier of Disney+ with advertising on Dec. 8. The news was a stealth price hike for the service in the sense that the ad-free version of the service will cost $10.99 a month by then, compared with $7.99 now. That is a 38% jump, at least for viewers who want to stay free of ads. By contrast, the price hikes Netflix announced earlier this year amounted to about 11%.</p><p>Chief Executive Officer Bob Chapek promised a \"lower ad load and frequency\" for the service during the company's earnings call on Wednesday. Still, the move has some risks. The Disney+ service banks heavily on the company's key franchises of Marvel Comics and Star Wars, along with the family animated programming under its own brand. The company might start exhausting those fan bases—at least in the United States. Domestic subscribers to Disney+ rose by only 100,000 during the quarter. Most of the growth came from new international markets where the service was launched and the company's Hotstar joint venture in India, which now accounts for more than one-third the total Disney+ subscriber base.</p><p>The fate of that latter base remains in question with Disney's loss of streaming rights to the Indian Premier League's cricket seasons starting next year. That likely explains Disney's update on Wednesday to the long-term streaming target it first gave investors in 2020. The company now expects \"core\" Disney+ subscribers to reach between 135 million and 165 million by the end of its 2024 fiscal year, with subscribers from Hotstar possibly adding another 80 million by that time. Taken together, the update amounts to a trim of only 6%-7% from Disney's previous target of 230 million to 260 million subscribers, which still looks ambitious considering the struggles Netflix is having at 220 million.</p><p>Marvel's heroes will need to work overtime.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p><p>Disney Barely Hedges Its Streaming Bet</p>",
+  "published": "2022-08-10T22:56:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999977,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 35,
+          "end": 41
+        },
+        {
+          "start": 98,
+          "end": 105
+        },
+        {
+          "start": 146,
+          "end": 153
+        },
+        {
+          "start": 1172,
+          "end": 1179
+        },
+        {
+          "start": 1250,
+          "end": 1256
+        },
+        {
+          "start": 1371,
+          "end": 1377
+        },
+        {
+          "start": 1497,
+          "end": 1504
+        },
+        {
+          "start": 1740,
+          "end": 1746
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

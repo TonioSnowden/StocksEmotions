@@ -1,0 +1,38 @@
+{
+  "_id": "c3457981945607e5cad5e35888dccd3018902666be4857d2e73f4b5e895fa4e7",
+  "feed": "wall-street-journal",
+  "title": "3M Is Denied Bankruptcy Shield Against Mass Earplug Claims; A bankruptcy judge won't extend to 3M the same protection against earplug-injury claims that its Aearo subsidiary gained by filing for chapter 11",
+  "text": "<p>The bankruptcy filing marked the latest of several recent attempts by corporate defendants to leverage the powers of chapter 11 to resolve legal troubles.</p><p>But 3M didn't succeed as other businesses have. Judge Graham's ruling leaves roughly 230,000 personal injury claims pending against 3M, which didn't seek chapter 11 protection itself, but has played a central role in the bankruptcy proceedings of Aearo, the earplugs' manufacturer.</p><p>Friday's decision backed plaintiffs' lawyers, who have alleged the defective earplugs left U.S. military veterans with lasting hearing damage and won $265 million in jury verdicts before Aearo filed bankruptcy.</p><p>3M, which has denied the combat earplugs are unsafe, said it would appeal Friday's ruling and that continuing to litigate the earplug cases one-by-one over the coming years \"benefits no one.\"</p><p>\"All parties should focus on the clearer path toward more efficiently and equitably resolving claims that are entitled to compensation through the well-established chapter 11 process,\" a 3M representative said.</p><p>3M shares, which had been trading lower Friday with the broader market, fell further after news of the ruling, closing down 9.65%, at $128.98.</p><p>Aearo, which 3M bought in 2008, filed chapter 11 shortly after agreeing to indemnify its solvent parent company for all existing and future earplug claims. In return, 3M agreed to fund Aearo's reorganization process and an unlimited amount toward settling the earplug litigation.</p><p>3M followed a similar path taken by several other companies in recent years that have moved injury lawsuits into bankruptcy court. Like 3M, they have argued that chapter 11 provides all claimants with an equitable resolution, and pays them more quickly and efficiently than the tort system.</p><p>The federal judge who has overseen most of the earplug claims in consolidated litigation in Pensacola, Fla., since 2019 has harshly criticized the chapter 11 filing, accusing 3M of scheming to escape her jurisdiction and barring the company from using Aearo's chapter 11 case to attack her past rulings. But she left it to the bankruptcy court to determine whether further lawsuits should be stayed against 3M.</p><p>Bryan Aylstock, a lead plaintiffs' counsel in the Florida consolidated cases, said Friday's ruling was \"a complete rejection of 3M's attempt to evade accountability and hide in bankruptcy after multiple juries found it liable for knowingly causing hearing damage to those who served our nation.\"</p><p>Without a shield against continued litigation, 3M will have to keep defending itself in federal court, which costs about $3.8 million a week, according to the company. Other companies, including Georgia-Pacific LLC and Johnson &amp; Johnson, have also placed subsidiaries saddled with mass litigation under chapter 11 in the face of tort lawsuits that proved costly to defend and hard to resolve.</p><p>Bankruptcy offers powerful tools for corporate defendants to settle injury lawsuits, and has been used to resolve mass claims involving opioid addiction, California wildfires and sexual abuse allegations in recent years. Georgia-Pacific, J&amp;J and a handful of other tort defendants created new subsidiaries using Texas corporate law to ferry mass liabilities into chapter 11, a controversial litigation management tactic.</p><p>Those companies won rulings in bankruptcy court halting lawsuits to facilitate negotiations. Judge Graham declined to do the same, saying he is \"unable to discern any financial impact\" to Aearo's creditors if he were to allow the earplug lawsuits against 3M to continue.</p><p>\"Stated differently, the court cannot conclude that continuation of the pending actions will affect the amount of property for distribution or the allocation of property among creditors,\" the judge said.</p><p>Company lawyers had argued in bankruptcy court that protecting 3M from further litigation was a necessary step to focus on developing a chapter 11 reorganization plan and conserve the resources Aearo needs to develop a settlement plan.</p><p>Aearo lawyer Chad Husnick argued last week that extending a litigation stay to a third party like 3M is nothing new, and is appropriate to protect a bankrupt company when their interests are \"inextricably intertwined.\"</p><p>Judge Graham disagreed, finding no evidence that Aearo would be impacted if the earplug lawsuits were to resume against its parent, 3M.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com</p><p>3M Is Denied Bankruptcy Shield Against Mass Earplug Claims</p>",
+  "published": "2022-08-26T21:17:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 3086,
+          "end": 3089
+        },
+        {
+          "start": 2676,
+          "end": 2693
+        },
+        {
+          "start": 2691,
+          "end": 2708
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

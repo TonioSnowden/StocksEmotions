@@ -1,0 +1,30 @@
+{
+  "_id": "4a76128c0ce5e83fd34e2059553cae7ebf4cd9bce0fe1c7149cf5407579745c4",
+  "feed": "market-watch",
+  "title": "Yields dip following jobs report sell-off",
+  "text": "<p>* The yield on the 2-year Treasury BX:TMUBMUSD02Y slipped by 1.2 basis points to 3.206%. Yields move in the opposite direction to prices.</p><p>* The yield on the 10-year Treasury BX:TMUBMUSD10Y retreated 2.7 basis points to 2.808%.</p><p>* The yield on the 30-year Treasury BX:TMUBMUSD30Y fell 3.2 basis points to 3.040%.</p><p>The 10-year to 2-year spread of nearly minus 20 basis points means the yield remains inverted, signaling the bond market expects an economic downturn.</p><p>What's driving markets</p><p>Investors are continuing to absorb Friday's robust U.S. labor report and its implications for the pace of Federal Reserve interest rate rises as the central bank strives to tackle inflation at multi-decade highs.</p><p>News that the world's biggest economy added 528,000 jobs in July, more than twice the number forecast, caused a sell-off in bonds and a spike in benchmark yields as traders added to bets that the Fed will be more aggressive at its next rate-setting meeting. Some of that yield bounce was being pared on Monday.</p><p>\"It is clear that the Fed will need to do more to get the labor market into sustainable balance. The unemployment rate ticked down to 3.5%, the lowest in over a half-century, and average hourly earnings rose a strong 0.5% m/m last month,\" wrote economic and policy strategists at JPMorgan Chase in a note.</p><p>\"Given this source of underlying inflationary pressure, we now think the Fed will raise rates by 75bp in September while we continue to expect 25bp hikes in November and December, bringing the terminal rate to 3.5%-3.75%,\" they added.</p><p>Markets are indeed pricing in a 67.5% probability that the Fed will raise interest rates by another 75 basis points to a range of 3.00% to 3.25% after its meeting on September 21. But before that the central bank will have the opportunity to consider two more monthly consumer price index (CPI) reports, the first coming this week.</p><p>\"After a bumper nonfarm payrolls print, market attention turns to U.S. CPI on Wednesday. A slowdown in inflation remains the base case, but details of the CPI data will be critical. Back-to-back storming inflation prints will likely lead to complete repricing of the September Fed meeting and, ultimately, where the Fed ends up,\" said Stephen Innes, managing partner at SPI Asset Management.</p><p>Rubeela Farooqi, chief U.S. economist at High Frequency Economics, agrees and thinks the market is being too sanguine about the potential for interest rate cuts by the Fed next year.</p><p>\"If this week's CPI surprises to the upside, then an even larger, one-percentage-point increase will surely be on the table. We think market pricing of rate cuts next year are misplaced, given the current trajectory of wages and prices, even if the risks around growth are to the downside,\" said Farooqi in a note to clients.</p><p>Yields dip following jobs report sell-off</p>",
+  "published": "2022-08-08T10:43:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1280,
+          "end": 1294
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000055,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 5.4836273e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

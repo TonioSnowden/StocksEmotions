@@ -1,0 +1,32 @@
+{
+  "_id": "5eb100659134311e7ed20544cbd31311a09baba326c4c17c59bd0ed20ccc2a35",
+  "feed": "wall-street-journal",
+  "title": "McDonalds To Sell Digital Startup",
+  "text": "<p>McDonald's said it would continue to work with Dynamic Yield and Mastercard to bring the technology to additional markets. McDonald's has worked with Mastercard on several of the fast-food chain's digital initiatives, it said.</p><p>The companies declined to disclose the terms.</p><p>McDonald's installed the Dynamic Yield suggestive-selling technology across thousands of drive-throughs and kiosks in the U.S., U.K., Australia and Canada, with the technology suggesting additional menu items for customers to buy upon placing their order.</p><p>Franchisees have questioned the system's performance in the past year. McDonald's has said that a review of transactions found that Dynamic Yield's technology had contributed to sales less than originally reported.</p><p>---</p><p>Heather Haddon contributed to this article.</p>",
+  "published": "2021-12-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "name": "McDonald's Corporation",
+      "offsets": [
+        {
+          "start": 600,
+          "end": 610
+        },
+        {
+          "start": 123,
+          "end": 133
+        },
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 273,
+          "end": 283
+        }
+      ],
+      "nexusId": "10050164"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "2a3a38cca2d36d202bd29dafe679a5f8748e1f0f43d672501d0cff53c106c59e",
+  "feed": "wall-street-journal",
+  "title": "House Committee Chairwoman Calls for CFPB to Take Action Against Equifax; Maxine Waters told the CFPB that it shouldn't let Equifax sell credit scores to lenders until it can prove it has the controls to ensure its scores are accurate.",
+  "text": "<p>\"I urge you to use the full extent of your authority to hold Equifax and its leadership accountable,\" she wrote.</p><p>Ms. Waters also sent a letter to Equifax asking how many financial institutions received erroneous scores, how many consumers were affected and how the error occurred.</p><p>An Equifax spokeswoman said that the company is \"committed to responding to the letter transparently.\"</p><p>Equifax sent out inaccurate credit scores on millions of U.S. consumers seeking loans during a three-week period earlier this year, the Journal reported last week. The erroneous scores were for people applying for auto loans, credit cards and mortgages at lenders big and small. The scores were at times off by about 20 points or more in either direction and were enough to alter the interest rates consumers were offered or to result in their applications being rejected altogether, the Journal reported.</p><p>In her letter to the CFPB, Ms. Waters said Equifax \"is quickly becoming a recidivist bad actor.\" In 2017, the company fell victim to a hack that exposed the personal information of nearly 150 million Americans.</p><p>Ms. Waters criticized Equifax leadership for what she called \"efforts to downplay the harm\" from the credit-score errors.</p><p>Equifax previously said it has fixed the error, which it described as a \"technology coding issue.\" The company also previously said that there was \"no shift in the vast majority of scores during the three-week time frame of the issue.\"</p><p>The errors occurred between mid-March and early April, and Equifax began disclosing the errors to lenders in May, the Journal previously reported.</p><p>Sen. Elizabeth Warren, a Massachusetts Democrat and a member of the Senate Banking Committee, sent a letter to Equifax last week asking for more information. That letter was also signed by Sen. Mark Warner, a Virginia Democrat, and Rep. Raja Krishnamoorthi, an Illinois Democrat.</p><p>Ms. Waters also sent letters to some of the biggest U.S. banks, including JPMorgan Chase &amp; Co. and Wells Fargo &amp; Co., asking whether they used the erroneous scores and how they are fixing the issue for consumers who were harmed by higher interest rates or credit denials.</p><p>House Committee Chairwoman Calls for CFPB to Take Action Against Equifax</p>",
+  "published": "2022-08-10T12:17:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1942,
+          "end": 1962
+        },
+        {
+          "start": 1960,
+          "end": 1980
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

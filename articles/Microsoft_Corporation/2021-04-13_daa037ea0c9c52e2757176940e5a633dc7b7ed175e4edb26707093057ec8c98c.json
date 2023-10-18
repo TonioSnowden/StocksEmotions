@@ -1,0 +1,28 @@
+{
+  "_id": "daa037ea0c9c52e2757176940e5a633dc7b7ed175e4edb26707093057ec8c98c",
+  "feed": "ftcomall",
+  "title": "Millions of connected devices have security flaws, study shows",
+  "text": "<p>Millions of “internet of things” devices using software from groups including Siemens and Microsoft contain <a href=\"https://www.ft.com/content/f3cc4243-5942-46d0-8d26-ee757c8f225f\">security flaws </a>that could be used to compromise government servers or hospitals, new research has found.</p> <p>Cybersecurity company Forescout and JSOF on Tuesday said they uncovered nine different bugs in several popular software tools that are used within millions of consumer, business and industrial devices to help them connect to the internet.</p> <p>While it is unclear whether hackers have ever made use of the flaws, researchers described it as only a “matter of time” before they are exploited unless urgent action is taken to update systems — a warning backed by the US Cybersecurity and Infrastructure Security Agency (CISA).&#xa0;</p> <p>Forescout estimated that more than 100m connected gadgets, including printers, medical devices and industrial equipment, are exposed to the vulnerabilities, which are found in software developed by Siemens as well as certain open-source software, including some maintained by Microsoft. </p> <p>Dubbed NAME: WRECK, the flaws allow hackers to hijack Domain Name System (DNS) infrastructure — the database that translates domain names into IP addresses that computers can recognise when devices are connecting to the internet.</p> <p>“NAME: WRECK is a significant and widespread set of vulnerabilities with the potential for large-scale disruption,” said Sandro Etalle, security professor at Eindhoven University of Technology.&#xa0;</p> <p>“Unless urgent action is taken to adequately protect networks and the devices connected to them, it could be just be a matter of time until these vulnerabilities are exploited, potentially resulting in major government data hacks, manufacturer disruption or hotel guest safety and security.”</p> <p>Elisa Costante, Forescout's vice-president of research, said: “We have seen it running in building automation machines, in bed monitoring for healthcare, in some defibrillators.”</p> <p>The research lays bare the cyber security risks of the booming internet of things and points to errors made by multiple developers who wrote some of the code underpinning its infrastructure. </p> <p>Kurt John, chief cyber security officer for Siemens USA, said the company had collaborated with Forescout to “quickly identify and mitigate the aforementioned vulnerability”. </p> <p>In an alert, Siemens said it had “released updates for several affected products and recommends to update to the latest versions” or “specific countermeasures” for products where updates are not possible or available.</p> <p>US cyber officials at CISA also issued two alerts on Tuesday urging users exposed to the Siemens vulnerabilities to take “defensive measures to minimise the risk of exploitation”.&#xa0;</p> <p><a href=\"https://www.ft.com/content/171e9ea6-96d7-4ffa-ad9f-6ed6a7ddb118\">Microsoft </a>did not respond to a request for comment. But Etalle noted that the company had fewer and less critical vulnerabilities than Siemens. </p> <p>Etalle said the set of flaws “stand out” in particular because they impact IT as well as operational technology (OT) — the computerised systems used to control industrial operations. Fixing software issues in the latter is typically far harder than the former, as doing so can be extremely costly and disruptive to critical operations.</p> <p>Both he and Costante called for vendors to provide more visibility into which software components go into their IoT devices by providing a list known as a “software bill of materials”. This is because some vendors may not even know if their products use the afflicted software owing to a lack of transparency in the IoT supply chain.</p> <p>“If you don't know what's inside when there's a vulnerability, you don't know whether you are affected,” Santos said.</p><p>Source: Hannah Murphy in San Francisco 2021 'Millions of connected devices have security flaws, study shows' FT.com 13 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-13T16:45:17.467Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1010,
+          "end": 1019
+        },
+        {
+          "start": 90,
+          "end": 99
+        },
+        {
+          "start": 2682,
+          "end": 2691
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

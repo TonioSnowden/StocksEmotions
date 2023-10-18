@@ -1,0 +1,52 @@
+{
+  "_id": "0689a5a62020ac864b48d5e5dbced48ff21d3f9dedc5fb1a3ec828a30173fe9f",
+  "feed": "wall-street-journal",
+  "title": "Facebook, Other Researchers Step Up Fight Against Cyberspying for Hire; Meta Platforms says groups used Facebook, Instagram, WhatsApp to hack devices",
+  "text": "<p>One of them, an obscure firm in North Macedonia, used a previously unknown vulnerability in Apple Inc.'s software to hack iPhones, according to watchdog group Citizen Lab, which collaborated with Facebook and issued its own report Thursday. Another group Facebook went after is \"an unknown entity in China\" involved in surveillance of ethnic minorities, according to the company.</p><p>Facebook's work is the latest, and broadest, attack by big tech companies on the shadowy industry that has grown up around infiltrating smartphones, computers and social media accounts. The most visible player has been NSO Group, an Israeli company which Citizen Lab has tied to spying on dissidents and journalists on behalf of Gulf governments.</p><p>In 2019, Meta sued NSO, alleging it sent malware to about 1,400 users. Early last month, the U.S. Department of Commerce sanctioned NSO and another spyware company, restricting their business activities after finding they helped foreign governments \"maliciously\" spy. A few weeks later, Apple sued NSO, alleging \"concerted efforts in 2021 to target and attack Apple customers, Apple products and servers and Apple through dangerous malware and spyware.\"</p><p>And this week, Google researchers published an analysis that called an NSO phone-hacking tool \"one of the most technically sophisticated exploits we've ever seen,\" saying it rivals technology \"previously thought to be accessible to only a handful of nation states.\" The Wall Street Journal and Bloomberg earlier reported that NSO is considering selling its spyware group.</p><p>The NSO Group didn't immediately respond to a requests for comment. The company has previously defended its practices and said it has helped save lives by providing governments legal tools to fight criminals with technology.</p><p>The U.S. also has taken additional action to curb such cyberspying activities. Language in a defense bill passed this week requires the U.S. State Department to send an annual report to Congress that names companies involved in cyberattacks or surveillance against activists and political opponents.</p><p>New Jersey Rep. Tom Malinowski said he included the language in the bill out of concern about the dangers of a growing private spyware industry. \"The bottom line for me is that we should have no more tolerance for the proliferation of this sensitive technology than we do for the spread of sensitive missile or drone technology,\" he said Thursday.</p><p>On Thursday, researchers from Facebook and Citizen Lab said their work shows the spyware industry is growing beyond NSO. \"The surveillance for hire industry is much broader than I think gets talked about,\" said Facebook's security policy chief, Nathaniel Gleicher. He said Facebook is trying to raise awareness across the tech industry about the problem of private spying.</p><p>The company's report said surveillance companies use Facebook and Instagram to find their targets, establish some kind of communication, and use that communication to get them to download files containing malware. It said it notified about 50,000 people who may have been targeted. Targets included politicians, journalists, activists, academics and businesspeople. Facebook didn't identify who was paying for the spying.</p><p>The surveillance companies identified in the report include four Israel-based firms that collect information about spying targets, help coordinate fake social media accounts, and gather people's private information. One of them, Black Cube, employs former Israeli intelligence agents who have had their cover blown while spying on behalf of private clients, the Journal previously reported.</p><p>In an emailed statement, Black Cube said it doesn't \"undertake phishing or hacking and does not operate in the cyber world.\" The statement also said the company works with law firms and provides litigation support and takes steps to ensure its work is legal in the areas in which it operates.</p><p>The most technically detailed account to come out Thursday was from Citizen Lab, which said that earlier this year, it learned of an exiled Egyptian politician who was worried because his iPhone was \"running hot.\" Citizen Lab examined the phone and determined it had been compromised by two types of spyware. One was a familiar NSO product. The other was different.</p><p>The researchers went through the suspicious code and tied it back to an online presence in North Macedonia that they connected to a company called Cytrox. Cytrox in 2019 said it was part of the so-called \"Intellexa alliance,\" a collection of cyber intelligence companies run by a former Israeli defense official, according to a news release from the company at the time. The official didn't respond to messages. Nor did another man in Macedonia who, until recently, listed himself on LinkedIn as Cytrox chief executive. An Intellexa executive in Cyprus declined to comment.</p><p>The research into the Egyptian phone hacking offered several revelations, Citizen Lab researcher Bill Marczak said. It wasn't as sophisticated as the work that has been attributed to NSO. \"The spyware was coded in a rather slapdash manner,\" he said. Stray pieces of code made it easier for his team to trace. And the software—also unlike NSO's—reinfects the phone each time it is turned on, he said.</p><p>Mr. Marczak said the phone was infected via an attachment to a message sent via Meta messaging platform WhatsApp. And he said it may have used a previously undetected vulnerability in Apple software, though it wasn't clear what this vulnerability might be. An Apple spokesman declined to comment on whether there was any such vulnerability.</p><p>Mr. Gleicher, the Facebook security chief, said that while the company's action may slow private-sector spies, \"our expectation is these threat actors are going to come back.\"</p><p>Write to Justin Scheck at justin.scheck@wsj.com</p><p>Facebook, Other Researchers Step Up Fight Against Cyberspying for Hire</p>",
+  "published": "2021-12-16T20:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1104,
+          "end": 1109
+        },
+        {
+          "start": 92,
+          "end": 102
+        },
+        {
+          "start": 1087,
+          "end": 1092
+        },
+        {
+          "start": 1014,
+          "end": 1019
+        },
+        {
+          "start": 5429,
+          "end": 5434
+        },
+        {
+          "start": 1135,
+          "end": 1140
+        },
+        {
+          "start": 5505,
+          "end": 5510
+        },
+        {
+          "start": 92,
+          "end": 101
+        },
+        {
+          "start": 92,
+          "end": 97
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

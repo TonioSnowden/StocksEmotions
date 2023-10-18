@@ -1,0 +1,30 @@
+{
+  "_id": "c3546699bc098b06dce736924d7b0cb93a54fbc998dbafe830998284dcf96cf0",
+  "feed": "market-watch",
+  "title": "'Buy your mom an iPhone': Tim Cook says Apple doesn't prioritize texting experience between iPhones and Android; Apple's Tim Cook says the texting experience between Android phones and iPhone is a low priority: 'I would love to convert you to iPhone'",
+  "text": "<p>See also: Apple's satellite deal with Globalstar could spell good news for this company</p><p>Texting from iPhone to iPhone uses iMessage, but texting between iPhone to Android uses SMS texting. This results in green texting bubbles instead of blue ones, and limits some of Apple's texting features for the iPhone users including replying to specific messages and emphasizing messages.</p><p>Android to iPhone texting also doesn't allow for high quality videos to be sent or received, something the person who asked Cook the original question at the conference, Vox Media's LiQuan Hunt, asked specifically about. Cook responded with a solution that Hunt should buy his mom an iPhone to fix the problem.</p><p>Read on: Here are the iPhone 14 deals from AT&amp;T, T-Mobile, and Verizon as preorders begin</p><p>The comments from Cook comes as Apple introduced several new products this week at its \"Far Out\" event including the iPhone 14, new Apple watches and new Airpods.</p><p>The starting price ofiPhone 14 has stayed at $799 starting price and none of the new iPhone 14 devices, Apple said, and none of the new phones had a higher price relative to their iPhone 13 counterparts despite many analysts expecting Apple to raise costs amid high inflation.</p><p>See also: Inflation can't keep U.S. Open fans from Serena Williams and $22 cocktails</p><p>Shares of Apple Inc. were 1.04% higher during Friday morning's trading, and are down 12.11% year-to-date.</p><p>'Buy your mom an iPhone': Tim Cook says Apple doesn't prioritize texting experience between iPhones and Android</p>",
+  "published": "2022-09-09T14:17:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 750,
+          "end": 757
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9036055,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.001105547,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "8dc009a30f67099c50145403822313d1fe85898a63d5dfce8e7358c29841e9a2",
+  "feed": "wall-street-journal",
+  "title": "Business News: Startup IonQ Plans Its Public Debut In $2 Billion SPAC",
+  "text": "<p>\"It is kind of a groundbreaking moment in history,\" said Peter Chapman, chief executive of IonQ and formerly director of engineering for Amazon.com Inc.'s Amazon Prime business.</p><p>IonQ is competing against several companies, such as International Business Machines Corp., Microsoft Corp., Alphabet Inc.'s Google and D-Wave Systems Inc., trying to commercialize quantum computing using various technological approaches. No scalable, commercial-grade quantum computer has been built yet.</p><p>\"The race for quantum computing is real,\" said Matthew Brisse, research vice president at tech research firm Gartner Inc. \"We're seeing quantum [computing] come out of the labs and get into the digital economy.\"</p><p>By 2023, 20% of global organizations, including governments and companies, are expected to budget for quantum-computing projects, up from less than 1% in 2018, according to Gartner.</p><p>If the deal goes through, IonQ will have raised $734 million in funding since its founding in 2015, including $300 million through its planned merger with dMY Technology III and another $350 million in private investment funding from Hyundai Motor Co.; Breakthrough Energy Ventures, an investment organization led by Bill Gates and focused on climate change; and others. The company also has raised $84 million in venture-capital funding.</p><p>Quantum computers aim to harness the power of quantum physics to sort through a vast number of possibilities within a fraction of a second to come up with a probable solution.</p><p>The money raised from the transaction will be used to help IonQ manufacture a quantum-computing machine that works at room temperature and is about the size of an Xbox videogame console, Mr. Chapman said. That would be significantly smaller than early-stage machines on the market today, without requiring the supercooling necessary to achieve quantum mechanical effects. IonQ expects the device to be completed in 2023.</p><p>---</p><p>The Combination Is</p><p>Called a No-Brainer</p><p>IonQ's technological approach involves commercializing university lab research on trapped ions, which naturally exhibit the quantum mechanical effects needed for the machines to work, Peter Chapman, chief executive of IonQ, said.</p><p>The company has given about 20 million software developers access to its current early-stage quantum-computing device through partnerships with cloud-computing service providers Amazon Web Services and Microsoft. It expects to generate more than $1 million in revenue this year, Mr. Chapman said.</p><p>Blank-check company dMY was established last year and is co-headed by Niccolo de Masi, formerly chief executive of videogame company Glu Mobile Inc., which is being acquired by Electronic Arts Inc.</p><p>He called it a no-brainer to work with IonQ, in part because of the talent the company has been able to attract.</p><p>IonQ, which has about 60 employees, recently hired Dave Bacon as vice president of software. He formerly led Google's quantum-computing software team.</p>",
+  "published": "2021-03-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 263,
+          "end": 279
+        },
+        {
+          "start": 2389,
+          "end": 2398
+        },
+        {
+          "start": 270,
+          "end": 279
+        },
+        {
+          "start": 270,
+          "end": 285
+        }
+      ]
+    }
+  ]
+}

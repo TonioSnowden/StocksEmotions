@@ -1,0 +1,92 @@
+{
+  "_id": "cfb3622c3bda99042c04f32282f199ed66cbff1357ef9d143c475912ac0624db",
+  "feed": "wall-street-journal",
+  "title": "The Chips That Rebooted the Mac; Apple's risky, yearslong effort to design its own silicon paid off when supply-chain disruptions left competitors scrambling",
+  "text": "<p>Led by a onetime Intel Corp. engineer and IBM executive named Johny Srouji, Apple's semiconductor division launched a risky project to replace the Intel processors that powered Apple laptops and desktops for 15 years with chips designed in-house. Those M1 chips, which are far more energy-efficient than Intel's, enabled Macs to run much faster and generate less heat, laying the groundwork for a resurgence in Apple's computer line. The company has now gained control over an essential component just as supply-chain disruptions cause disorder in the rest of the chip market.</p><p>Mr. Srouji's chip operation, which already designed chips that power iPhones, has helped Apple improve the profitability of its smartphones and computers. It also has positioned Apple to move into potential future products such as a car or extended-reality headsets.</p><p>The fourth and final version of the M1 family—the M1 Ultra—debuted last month and is made for high-end Macs aimed at video and graphics professionals.</p><p>Other tech juggernauts are now trying to emulate Apple's approach. Tesla Inc., Amazon.com Inc. and Meta Platforms Inc. are working on their own silicon as they chase more powerful computing needs for specialized applications like driverless cars, data centers and virtual reality. Meanwhile, suppliers of chips like Intel are scrambling to alter their strategy in response, investing heavily so they can fabricate chips designed by others.</p><p>Deciding to fire a crucial supplier and bring its production in-house can be a wrenching crossroads for any company. Mr. Srouji's success building the M1 chips was far from a certainty—especially as the coronavirus pandemic threatened the rollout in 2020.</p><p>Bringing out M1 chips required Apple to rewrite the way it operated in order to avoid delays from the pandemic. Apple had to draw on 14 years of behind-the-scenes work by Mr. Srouji, who had built the chip team from 45 people to several thousand across the globe, including his homeland of Israel.</p><p>\"What I learned in life: You think through all of the things you can control and then you have to be flexible and adaptive and strong enough to navigate when things don't go to plan,\" Mr. Srouji, Apple senior vice president of hardware technologies, said in a rare interview. \"Covid was one for example.\"</p><p>After joining Apple in 2008, Mr. Srouji, now 57, initially developed chips for the iPhone. His approach of designing the chip to Apple's specific needs for the device allowed the company to create a more powerful, yet efficient, chip than using one off the shelf from a supplier that must meet requirements for general use.</p><p>Such things matter in a device dependent on batteries for operating and used for hours at a time running processor-heavy tasks like videos and games. The result: Apple's own chips for iPhones starting in 2010—based on Arm Ltd. underpinnings—helped boost battery life and allowed for better integration of software to push the boundaries of performance of other features, such as its camera system, which runs complex algorithms to improve photos' lighting and focus.</p><p>Chasing that strategy, Apple has become a \"semiconductor juggernaut,\" according to Wayne Lam, an analyst at CCS Insight, who estimates that Apple's spending last year on its internal semiconductors would rank it as the 12th-largest chip company in the world by revenue. The sea change has Intel pivoting some of its attention to take on contract work fabricating chips designed by companies that once bought Intel-designed chips.</p><p>\"It seemed a little crazy, at first, that they could actually consider kicking Intel out,\" said Mike Demler, an independent analyst who has followed the semiconductor industry for almost 50 years. Instead, he added: \"It has made them a more dominant platform overall.\"</p><p>In 2017, as Apple was reaping the fruits of its success with its chips in the iPhone and Apple Watch, it was facing backlash from customers over its Mac lineup and the perception that it was falling behind.</p><p>Apple executives convened a roundtable of tech bloggers to do something the company rarely did: apologize publicly for shortcomings in high-end Macs aimed at professionals, and promise that better products were in the works. But the criticisms went beyond Apple's high-end computers. Months after the mea culpa, new laptops that still included Intel chips were panned for disappointing performance, including computing power that was held back to keep the machines from overheating. Apple later issued a software update to address the issue. Sales of Macs were stagnating and paled in comparison with the iPhone business, which represented almost two-thirds of the company's revenue.</p><p>Some industry observers have suggested Intel's own missteps may have forced Apple's hand. Intel's pace of innovation had slowed and quality suffered.</p><p>\"It was abnormally bad,\" former Intel engineer François Piednoël was quoted in 2020 as saying by industry publication PC Gamer. \"Our buddies at Apple became the number one filer of problems in the architecture. And that went really, really bad. When your customer starts finding almost as many bugs as you found yourself, you're not leading into the right place.\"</p><p>Mr. Piednoël confirmed the comments, adding that Intel now benefits from new leadership and has made improvements.</p><p>After initially dismissing Apple's in-house chip designs, Intel indicated that it was taking the competitive threat seriously. \"They did a pretty good job,\" Intel CEO Pat Gelsinger said last fall during an \"Axios on HBO\" interview. \"So what I have to do is create a better chip than they can do themselves. I would hope to win this piece of their business.\"</p><p>Intel in a statement reiterated that the company is focused on developing and manufacturing processors that outperform rivals'. \"No other silicon provider can match the combination of performance, software compatibility and form factor choice that Intel-powered systems offer,\" the company said.</p><p>The transition to Apple's own chips threatened to cause headaches for software engineers at the company, which had relied for more than a decade on Intel chips for its Mac computers. Now those programmers had to write software that could work on both the old chips and the new ones—an issue the company had struggled with in 2006, when it moved to Intel chips from an earlier system known as PowerPC. That transition entailed numerous last-minute revisions to the laptop's main circuit board, according to a person involved in that effort. \"A lot of people were afraid we were going to have the same problem,\" this person said.</p><p>Mr. Srouji acknowledged the change in strategy faced robust debate inside the company—computer makers just hadn't designed such components in-house before. The risk was great—a misstep would be embarrassing and costly.</p><p>Part of the challenge his team faced was supplying the range and needs of computers offered by the company, from an entry-level $999 MacBook Air to high-end desktops that cost thousands of dollars.</p><p>As Apple's hardware engineers sought to design the chips as efficiently as possible for its particular needs, the company's software designers tuned the computers to favor the specifications it most desired, such as smooth videogame graphics.</p><p>\"First and foremost, if we do this, can we deliver better products?\" Mr. Srouji said of the debate. \"That's the No. 1 question. It's not about the chip. Apple is not a chip company.\"</p><p>Next, he said, the team had to figure out if it could deliver and execute while building up the muscle to handle more products and predicting where technology was going. Apple would need to stay on top of developing components for next-generation products while pumping out hundreds of millions of devices a year.</p><p>\"I don't do it once and call it a day,\" Mr. Srouji said. \"It is year after year after year. That's a huge effort.\"</p><p>In the end, Apple decided to expand its iPhone-chip strategy to Macs, building a scalable architecture of silicon from chips in the iPhone to ones used in computers and working to ensure that its software would work natively on day one. An army of third-party software developers were already familiar with its chips, helping the transition, and Apple would develop technology so that Macs with M1 chips would be able to use programs developed for Intel-powered Macs.</p><p>A former engineering manager said Mr. Srouji's team had become central to product development and his influence quietly grew over the years, especially as he demonstrated the ability to balance engineering needs and business imperatives.</p><p>Over the years, Apple spent billions between R&amp;D investment and acquiring smaller companies to bolster its chip team, including Palo Alto Semiconductor, known for its abilities with microprocessors that consume small amounts of power.</p><p>Since 2015, Mr. Srouji has been part of Apple Chief Executive Tim Cook's small cadre of direct reports. In 2019, he was rumored to be in the running to return to Intel as CEO as that company stumbled.</p><p>Outside of Apple's Cupertino, Calif., headquarters, Mr. Srouji is a self-proclaimed car enthusiast with a taste for German engineering. He likes his cars like his chips, he said: \"Fast and furious.\"</p><p>Among his managers and third parties, Mr. Srouji is known for demanding hard truths with the axiom that his meetings focus on problems, not successes.</p><p>Aart de Geus, CEO of Synopsys Inc., which helps Apple and other companies with silicon performance, says that in every meeting he can recall with Mr. Srouji, the executive has pushed participants to continue improving. \"They're only interested in the best,\" said Mr. de Geus.</p><p>One of biggest worries came with the arrival of Covid-19, which threatened to derail years of prep ahead of the M1 chips' fall 2020 debut. U.S. companies implemented remote-work mandates just as Apple was to begin arduous testing to validate the chips before going into production—a labor-intensive process that involves engineers huddled over microscopes to inspect the early silicon for quality.</p><p>Delaying the progress of new chips wasn't an option. So Mr. Srouji worked to design a new testing process on the fly. The team set up cameras throughout the labs so engineers could inspect the chips remotely, people familiar with the work said. It was the kind of change that would have once been hard to imagine from Apple, where secrecy and control are paramount.</p><p>In part, the operation was able to pivot so seamlessly because Mr. Srouji's team is spread out around the globe, already accustomed to conducting business through video calls and working across time zones as they coordinated work in far-flung locations such as San Diego and Munich, Germany, two places where the company is investing billions to expand into designing chips for its wireless-technology capabilities.</p><p>As the chips passed final validation in 2020, production could begin at factories run by Taiwan Semiconductor Manufacturing Co., the silicon-fabricating giant that also makes chips for Intel. The arrangement let Apple reduce costs associated with buying chips from a supplier like Intel, said Mr. Lam, the analyst at CCS Insight. \"They're clearly saving money,\" he said.</p><p>During Apple's annual product unveiling in November 2020, executives made their pitches via prerecorded videos. Mr. Srouji's introduction of the M1, filmed in a company lab, offered nitty-gritty details about the new chip's capabilities before, and declared: \"M1 is a breakthrough chip for the Mac.\"</p><p>The first computers to get the M1 chips were MacBook Air and Mac Mini models that went on sale soon after, followed in 2021 by higher-performance computers offered with M1 Pro and M1 Max. The first M1 chip had 16 billion transistors.</p><p>SHARE YOUR THOUGHTS</p><p>What factors have informed your decision making when it comes to smartphones and computers? Join the conversation below.</p><p>That figure would only grow larger with more capable versions of the M1. The M1 Ultra, introduced in the $3,999 version of the MacStudio computer this past March, has 114 billion transistors and has a graphic-processing unit that's eight times the size of the one in the original M1.</p><p>In classic Apple style, Mr. Srouji remained mum on what the future might hold, including whether Apple has developed its own powerful processor for an autonomous car, similar to what Tesla has developed.</p><p>\"I'm not going to talk about any of that,\" he said laughing.</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>The Chips That Rebooted the Mac</p>",
+  "published": "2022-04-16T04:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 3374,
+          "end": 3379
+        },
+        {
+          "start": 4857,
+          "end": 4862
+        },
+        {
+          "start": 4714,
+          "end": 4719
+        },
+        {
+          "start": 4335,
+          "end": 4340
+        },
+        {
+          "start": 8961,
+          "end": 8966
+        },
+        {
+          "start": 5362,
+          "end": 5367
+        },
+        {
+          "start": 1311,
+          "end": 1316
+        },
+        {
+          "start": 147,
+          "end": 152
+        },
+        {
+          "start": 5662,
+          "end": 5667
+        },
+        {
+          "start": 5238,
+          "end": 5243
+        },
+        {
+          "start": 5461,
+          "end": 5466
+        },
+        {
+          "start": 6306,
+          "end": 6311
+        },
+        {
+          "start": 11087,
+          "end": 11092
+        },
+        {
+          "start": 17,
+          "end": 22
+        },
+        {
+          "start": 6106,
+          "end": 6111
+        },
+        {
+          "start": 4765,
+          "end": 4770
+        },
+        {
+          "start": 3594,
+          "end": 3599
+        },
+        {
+          "start": 304,
+          "end": 309
+        },
+        {
+          "start": 10991,
+          "end": 10996
+        }
+      ]
+    }
+  ]
+}

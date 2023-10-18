@@ -1,0 +1,20 @@
+{
+  "_id": "8dff7793d74496c6a75bb65c2174091bf8f4f7caf9511db3baf279c7a4592c5b",
+  "feed": "wall-street-journal",
+  "title": "Effective Cybersecurity Needs Quantum Communication",
+  "text": "<p>The expansion of remote work, which is likely to persist, has made the problem worse. In April 2020 the FBI reported cybercrime was up as much as 300% since the pandemic's start. Hackers feast on increased network traffic on insecure home computers.</p><p>The U.S. has at last come to see that retaliating in kind could deter Russian cyberattacks. But if deterrence fails, escalation will be perilous. How, then, can we secure cyberspace against mounting threats? With existing technology, we probably can't.</p><p>A solution may lie in quantum technology. Quantum physics explains the behavior of the smallest \"quanta\" of mass and energy. One quantum phenomenon is that a particle such as a photon can be entangled with another over any distance. Entangled particles, or \"qubits,\" can have many values from 0 to 1, whereas digital bits can only be 0 or 1. The extraordinary sensitivity of qubits reveals interference instantly and unfailingly. They would alert us when hackers read, copy or corrupt transmitted bits.</p><p>Although practical quantum computers are years away, digital computers can be networked with secure quantum links. This offers the prospect of an unhackable quantum internet grafted onto today's digital internet with secure links. This wouldn't require overhauling internet infrastructure, and the cost would be borne mainly by users who seek security.</p><p>For now, the range of secure quantum communication falls short of the hundreds or more miles across which most networks are expected to work, though in December U.S. and Canadian scientists sent qubits across 27 miles of fiber-optic cable. China has achieved longer-range transmission via the world's only quantum-communication satellite. While Russia is more aggressive at cyberwar, China aspires to global superiority in quantum technology.</p><p>Quantum communication is no panacea. Even if network links are secured, other vulnerabilities will persist, such as poor access controls, malware-laden computers, and supply-chain interference. The day will also come when quantum computing makes encryption easier to break. But that would make quantum communication all the more crucial to safeguard encryption.</p><p>Some readers will remember the shock of Sputnik, the Soviet Union's 1957 launch of the world's first artificial satellite. More important is to recall the U.S. response: A dozen years later, an American was first to take a step on the moon. The stakes are as high and the lesson as relevant today.</p><p>The Biden administration should declare that the U.S. intends to achieve cybersecurity with a quantum internet. To make this happen, it should double spending on quantum research from $1 billion to $2 billion annually, demolish barriers to defense work for private quantum firms, assign agencies and departments to plan for quantum, and urge the North Atlantic Treaty Organizaiton to pursue collaboration with an eye to the Russian threat. This would spur companies, from Google-size to garage-size, to invest, hire and organize for rapid development of quantum communications. The quantum market, now a measly $500 million, would explode if it offered cybersecurity.</p><p>The president of Microsoft called the Russian hack a \"moment of reckoning\" that demands a more effective response from government and industry. Quantum internet should be its centerpiece.</p><p>---</p><p>Mr. Gompert is an adviser to Ultratech Capital Partners and a visiting professor at the U.S. Naval Academy. He served as acting director of national intelligence in 2010.</p><p>(See related letters: \"Letters to the Editors: Encryption Isn't Main Data-Security Threat\" -- WSJ March 13, 2021)</p>",
+  "published": "2021-03-08T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3147,
+          "end": 3156
+        }
+      ]
+    }
+  ]
+}

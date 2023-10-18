@@ -1,0 +1,34 @@
+{
+  "_id": "203abe266ad1acd8d6869dbedfe1eddee0dd7b969d5f0a56fed9c354c27d84c7",
+  "feed": "wall-street-journal",
+  "title": "Revamped Occidental Won Over Buffett",
+  "text": "<p>Buoyed by soaring commodity prices, Occidental has substantially paid down its debt load and is generating cash. The company now looks like a strong fit for Mr. Buffett, say investors and analysts. It is strengthening its balance sheet and returning cash to shareholders; it holds the largest position in the most active U.S. oil field; and it is investing in technologies to reduce carbon emissions, which some of Mr. Buffett's businesses are also doing.</p><p>\"It checks off a lot of his boxes,\" said Steven Check, chief investment officer of Check Capital Management, which is invested in Berkshire. \"It's American, it has great cash flow and it's a rational capital allocator.\"</p><p>Mr. Buffett has publicly praised the strategy of Occidental Chief Executive Officer Vicki Hollub, and many analysts have speculated that Berkshire could buy the entire company. Mr. Buffett hasn't informed Occidental of any plans to acquire a controlling stake in the company and is unlikely to do so in the near-term, people familiar with the matter say.</p><p>\"What Vicki Hollub was saying made nothing but sense,\" Mr. Buffett said at Berkshire's recent annual shareholder meeting. \"And I decided that it was a good place to put Berkshire's money.\"</p><p>Under Ms. Hollub's leadership, Occidental has cut its debt load, repurchased shares and raised its dividends. Like other companies, it has also been conservative about boosting production, despite oil prices rising.</p><p>That strategy is paying off. Occidental generated a record $4.35 billion in free cash flow in the second quarter and $3.7 billion in profit. After its shares fell roughly 80% in 2020, Occidental's stock has jumped 138% this year, a rally driven, in part, by Mr. Buffett's purchases.</p><p>Long-term doubts remain about demand for oil and gas as some countries shift to greener energy sources and some investors remain wary of the industry. Occidental is also betting big on carbon capture, a technology whose profitability is unproven.</p><p>Occidental entered the pandemic saddled with debt from a $38 billion deal to take over rival Anadarko Petroleum Corp., part of which it funded with $10 billion from Berkshire. Plunging oil prices led the company to lay off employees and cut executives' salaries -- including Ms. Hollub's -- and slash expenses in the oil patch.</p><p>But while the deal looked ill-timed, analysts say, the assets Occidental acquired from Anadarko have since helped solidify its position as the largest producer in the Permian basin, the prolific shale oil field in West Texas and New Mexico. The company said it produced roughly half a million barrels of oil a day domestically in the second quarter of the year, compared with about 280,000 barrels before it acquired Anadarko.</p><p>Occidental has said it generates a profit when oil prices are as low as $40 a barrel. In the second quarter of the year, Brent crude oil prices averaged $114.10 per barrel and U.S. crude prices averaged $109.90 per barrel, according to Scotiabank.</p><p>All facts point to Occidental being a play on domestic oil production for Mr. Buffett, said Bill Stone, chief investment officer of Glenview Trust, which held shares of both Berkshire and Occidental as of the end of the second quarter.</p><p>Mr. Buffett has also boosted his purchases of Chevron Corp. this year, making it Berkshire's fourth-largest holding.</p><p>Occidental has said it aims to reach net-zero emissions on its operations and energy use by 2040. The company has invested in carbon removal through its Oxy Low Carbon Ventures and plans to develop the first industrial-scale plant to capture carbon dioxide from the air, which it says will require upward of $1 billion in investment.</p><p>Occidental's focus on becoming a greener operator may inform Mr. Buffett's appetite, analysts said. Berkshire's energy unit, Berkshire Hathaway Energy, has stated a goal of retiring its coal units by 2049 and achieving net zero greenhouse gas emissions by 2050.</p><p>Occidental intends to develop 70 plants to suck carbon dioxide out of the atmosphere by 2035, it told investors in March. Truist Securities said in a June note that more than 10% of Occidental's total business could come from its carbon-capture division in a couple of years, up from less than 5% currently.</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 3251,
+          "end": 3264
+        },
+        {
+          "start": 3228,
+          "end": 3241
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

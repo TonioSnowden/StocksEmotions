@@ -1,0 +1,24 @@
+{
+  "_id": "af2bab231f65fe2db0e8ba73c7d5afdf362ee5620af5a629c7c3a4a4daa55394",
+  "feed": "economist-blog",
+  "title": "Hack job; Russia seems to be co-ordinating cyber-attacks with its military campaign",
+  "text": "<p>IN THE INITIAL weeks of the Russian invasion, American officials expected Kremlin-backed cyber-attacks to wreak havoc on Ukraine's electricity grid, banking system and the like. To their surprise, that did not happen. But a report released by Microsoft suggests that Russian military and cyber-attacks have operated in tandem throughout the war, albeit on a smaller scale than expected. In many cases cyber-attacks occurred within days or hours of missile strikes on similar targets, indicating the attackers may have had overlapping objectives. For instance, a nuclear-power company was hacked; the next day, the Russian army occupied Ukraine's largest nuclear-power station. The number of Russian cyber-operations has doubled every month since December, when 15 were reported. This only includes attacks that Microsoft was able to detect in its own networks—the true number is likely to be higher. At least six Russian hacking groups were responsible for these operations in Ukraine, which were designed mainly to destroy files in computer systems, but also to gather intelligence, cut off access to information and support efforts to spread disinformation.</p>",
+  "published": "2022-05-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 243,
+          "end": 252
+        },
+        {
+          "start": 811,
+          "end": 820
+        }
+      ]
+    }
+  ]
+}

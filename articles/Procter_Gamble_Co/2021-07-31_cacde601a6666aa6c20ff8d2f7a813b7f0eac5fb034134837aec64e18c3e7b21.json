@@ -1,0 +1,24 @@
+{
+  "_id": "cacde601a6666aa6c20ff8d2f7a813b7f0eac5fb034134837aec64e18c3e7b21",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>---</p><p>David Taylor assumed the role of Procter &amp; Gamble Co.'s chief executive in 2015. In some editions Friday, a Business News article about Mr. Taylor's decision to step down as CEO this fall incorrectly said he became CEO in 2016.</p><p>---</p><p>Notice to readers</p><p>Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail.</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p>",
+  "published": "2021-07-31T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US7427181091",
+      "name": "The Procter & Gamble Company",
+      "offsets": [
+        {
+          "start": 37,
+          "end": 53
+        },
+        {
+          "start": 37,
+          "end": 57
+        }
+      ],
+      "nexusId": "10044575"
+    }
+  ]
+}

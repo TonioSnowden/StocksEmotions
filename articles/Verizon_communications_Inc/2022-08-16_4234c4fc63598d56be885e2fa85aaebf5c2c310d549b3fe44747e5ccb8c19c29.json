@@ -1,0 +1,34 @@
+{
+  "_id": "4234c4fc63598d56be885e2fa85aaebf5c2c310d549b3fe44747e5ccb8c19c29",
+  "feed": "wall-street-journal",
+  "title": "Business News: Berkshire Pours More Money Into Apple, Energy Shares",
+  "text": "<p>The filing showed Berkshire bought 3.9 million shares of Apple, with its stake worth $125 billion as of the end of June. Apple makes up roughly 40% of Berkshire's stock portfolio.</p><p>Berkshire also purchased 22 million shares of Occidental Petroleum Corp. and 2.3 million shares of Chevron Corp. in the second quarter, adding to its big bet this year on U.S. oil. It added to its stakes in Ally Financial Inc. and Paramount Global, among other companies.</p><p>Meanwhile, Berkshire closed out its stakes in Verizon Communications Inc. and Royalty Pharma PLC and trimmed its holdings of General Motors Co., U.S. Bancorp and Kroger Co. It didn't open any new positions.</p><p>Investors closely watch what Berkshire is buying and selling because of Mr. Buffett's reputation as one of the most successful investors of all time. While Mr. Buffett doesn't personally pick all of the company's stock investments -- Berkshire's decision to begin buying shares of Apple in 2016, for instance, was made by deputies Todd Combs and Ted Weschler -- investors nevertheless like to draw as many insights as they can from Berkshire's filings.</p><p>Berkshire's five biggest stockholdings as of the end of June were Apple, Bank of America Corp., Coca-Cola Co., Chevron and American Express Co. The five stocks made up about 69% of Berkshire's portfolio, according to company filings.</p><p>It is a stark change from last year. The Omaha, Neb.-based Berkshire, which includes railroad, energy and insurance businesses, as well as a huge investment portfolio, largely stuck to repurchasing its own shares in 2021. As recently as February, Mr. Buffett had lamented a lack of good buying opportunities as a way of explaining why Berkshire was mostly investing in its own stock.</p><p>But in the months since, market volatility has shot up. That has given Berkshire a chance to put its cash to work -- especially within the energy sector. Berkshire snapped up shares of Occidental Petroleum as Russia's invasion of Ukraine sent oil prices surging.</p><p>Investors and analysts have said Berkshire's buying potentially reflects a view from Mr. Buffett that inflation in energy prices will remain elevated for some time.</p><p>Energy stocks have been by far the best performers in the market this year. Occidental is up more than 110% for the year, while the S&amp;P 500 is down 9.8%.</p>",
+  "published": "2022-08-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 494,
+          "end": 521
+        },
+        {
+          "start": 498,
+          "end": 525
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.2747064,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.73950124,
+        "tagPositionWeight": 0.014207602,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

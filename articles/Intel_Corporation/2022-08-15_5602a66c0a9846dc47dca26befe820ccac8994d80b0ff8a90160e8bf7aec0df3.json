@@ -1,0 +1,34 @@
+{
+  "_id": "5602a66c0a9846dc47dca26befe820ccac8994d80b0ff8a90160e8bf7aec0df3",
+  "feed": "ftcomall",
+  "title": "China's chip breakthrough poses strategic dilemma",
+  "text": "<p>A breakthrough by China's largest chipmaker revealed last month triggered a gasp of surprise among observers outside the industry. But the move by Semiconductor Manufacturing International Corporation to start <a href=\"https://www.techinsights.com/blog/disruptive-technology-7nm-smic-minerva-bitcoin-miner\">shipping</a> advanced “7 nanometre” semiconductors had only been a matter of time.</p> <p>The more interesting question now is how much time and money the company is willing to sink into producing them at scale using a method their international rivals have abandoned for a more efficient one. </p> <p>That development, expected to unfold over the coming year, will show whether Chinese chipmakers are really ready to prioritise the political cause of making their country self-sufficient over the business case of making money.</p> <p>For starters, 7nm — the marketing name for a technology process for making chips — is one generation behind the most advanced in mass production. It trails the 5nm generation of chips offered by industry leaders Taiwan Semiconductor Manufacturing Company and South Korea's Samsung. And 7nm is just the minimum required for the high-performance computing chips that rapidly process large amounts of data in everything from servers to smartphones.</p> <p>Since hiring former TSMC veteran Liang Mong-song as its co-chief executive in 2017, SMIC has made advances in mastering manufacturing technology generations such as 16nm and 10nm.</p> <p>But the company's problem is that the US is blocking exports of extreme ultraviolet machines to China. Such lithography equipment, which can put integrated circuit patterns on a wafer surface by exposing it to light only once, has become the mainstay for making chips with the 7nm process and more advanced technology since 2019.</p> <p>“The furore over SMIC's progress is quite overblown — they are using extra exposure to make up for the lack of EUV,” says Douglas Fuller, an expert on the Chinese semiconductor industry. “But it is understood that the yield is terrible.”</p> <p>SMIC has been open about its quest for 7nm technology. In early 2020, the company said it was developing an “n+1” process “comparable to 7nm”. In October that year, Chinese chip company Innosilicon announced that it had completed final design and testing for a product that would use this process. SMIC has also said it aims to bring the technology to mass production next year.</p> <p>However, as SMIC cannot secure EUV equipment, it relies on using deep ultraviolet machines. This equipment is a generation behind EUV which can finish 7nm chips only through three or even four rounds of patterning.</p> <p>Driven by concerns that Chinese chipmakers could get around the US's EUV ban this way, Washington has in recent months discussed with equipment makers such as ASML of the Netherlands and Japan's Nikon the option of stopping delivery of DUV machines to China as well. But analysts believe China has bought enough of the equipment to protect it against such a risk. </p> <p>However, the technical challenges of transitioning to 7nm have plagued many other chipmakers. Intel struggled for years to move below 10nm technology. And even if SMIC succeeds, competing with global rivals will be an uphill battle give the extra costs and time required using DUV machines.</p> <p>Whether that is a fight SMIC wants is an open question. Liang and his co-CEO Zhao Haijun have been in disagreement over what price the company should pay to continue its push to catch up with international peers. While Liang wants to continue pushing forward with the development of cutting-edge technology, Zhao has advocated focusing on expanding less advanced capacity to gain market share. Just last Friday, he told investors that SMIC would flexibly allocate capacity to less advanced technology generations to respond to strong demand in areas like industrial use chips.</p> <p>Beijing's past attempts to push breakthrough innovation in semiconductor manufacturing have been hampered by chipmakers' reluctance to risk using little-tested homemade solutions. SMIC is now at a crossroads over this priority. Constrained by the US restrictions on chip technology exports to China, the company's reliance on its home market has risen by more than 10 percentage points over the past four years to almost 70 per cent of revenue.</p> <p>But industry experts say that does not equal acquiescence to prioritising national industry goals. A semiconductor executive says: “Their true ambition is to be a technologically strong and profitable company. The moment they are forced to give that up, that is the moment China is truly decoupling from the world.”</p> <p><em>kathrin.hille@ft.com</em></p><p>Source: Kathrin Hille in Taipei 2022 'China's chip breakthrough poses strategic dilemma' FT.com 15 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-15T23:01:24.657Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2946,
+          "end": 2951
+        },
+        {
+          "start": 2966,
+          "end": 2971
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 9
+    }
+  ]
+}

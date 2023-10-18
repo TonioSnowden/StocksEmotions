@@ -1,0 +1,34 @@
+{
+  "_id": "e6fe32baccc6d6218e4b910d43de14eb4d025a5d8e672642f0c0613e40734cbd",
+  "feed": "wall-street-journal",
+  "title": "U.S. News  ---  THE OUTLOOK:  Global Slowdown Damps Inflation  ----  By Gwynn Guilford",
+  "text": "<p>   A global slowdown, in particular in China, is taking the edge off inflation pressures, especially for key imports and commodities. </p><p>   Global inflation eased in July, to 0.3% on a monthly basis, down from an average of 0.7% a month in the first half of the year, according to analysis by Nora Szentivanyi, a global economist at JPMorgan, and colleagues. The figures omit Turkey, where inflation is unusually high. </p><p>   \"Weaker global demand in the face of diminished purchasing power through the past year is now driving disinflation through two main channels,\" said Ms. Szentivanyi -- first, by weighing on some commodity prices, and second, by easing global supply-chain constraints. </p><p>   She and her colleagues estimate falling commodity prices and easing goods price pressures will lower global inflation to a 5% annualized rate in the second half of 2022, from 9.7% in the second quarter. </p><p>   The global slowdown is being felt most acutely in commodity prices. Brent crude oil fell to around $93 a barrel Friday from more than $120 in early June. Copper is down around 28% from mid-April. The United Nations Food and Agriculture Organization's food price index fell 1.9% in August from July, the fifth straight monthly decline. Prices of U.S. imports, excluding autos, rose 1.9% in July, down from 3.2% in March. </p><p>   Foreign-made manufactured goods like furniture, recreational equipment and home entertainment increased just 2.8% in July, compared with 4.8% in April. That relief on import prices should flow through to consumer prices in the coming quarters, said Omair Sharif, who leads forecasting firm Inflation Insights. </p><p>   To be sure, many other forces are still pushing the other way on U.S. inflation: service prices are rising, in particular for housing, and tight labor markets have pushed wage growth to its highest in at least 20 years. Federal Reserve Chairman Jerome Powell recently said July's slightly slower pace of inflation was far too little for the central bank to ease its campaign of raising interest rates. </p><p>   Recent research by New York Fed economists found that price increases from imported inputs have passed through to U.S. domestic producer prices at a much higher rate recently than pre-Covid. But whether the reverse will also be true depends on how the U.S. economy is doing. </p><p>   Import prices for consumer goods, excluding autos, fell 0.5% in July from April, while consumer prices for those same goods rose at a steady clip. If that divergence persists, the likely reason is domestic factors \"such as unstable inflation expectations, higher wage inflation, strong pricing power of domestic distributors and higher transportation costs,\" said Aichi Amemiya, senior U.S. economist at Nomura Securities. </p><p>   China is a key driver of easing external price pressures. The world's second-largest economy after the U.S. grew just 0.4% from a year earlier in the second quarter, its weakest in two years. While wide-scale Covid-19 lockdowns drove much of spring's decline, China's property collapse is now dragging heavily on growth. </p><p>   Slumping investment by developers, in particular, has quashed demand for industrial and energy commodities. The volume of gasoline imports fell 36% in July from a year earlier, while that of steel dropped 25%, according to Chinese government data. </p><p>   China in 2021 consumed 72% of the world's iron-ore imports, 55% of refined copper and more than 15% of oil globally. Any slowing of its resource-hungry economy tends to put downward pressure on commodity prices everywhere, said Edward Gardner, commodities economist at Capital Economics. </p><p>   A prime example is iron-ore prices, which are down around 40% from their peak earlier in the year, said Warren Patterson, head of commodities strategy at ING. \"China is the largest importer by some distance,\" he said. \"With the weakness in the property market, this raw material for steel production is really suffering.\" </p><p>   The country's producer-price index -- a broad measure of pipeline inflation pressures -- fell 1.3% in July from a month earlier. </p><p>   \"You have weak domestic demand and plenty of supply, and that tends to be deflationary,\" said Thomas Gatley, a senior analyst at Gavekal Dragonomics. As Chinese factories struggle to sell at home, they face more pressure to cut prices abroad -- which will likely translate into a boom in Chinese net exports, said Mr. Gatley. </p><p>   So far, there is no clear sign of this impact in U.S. trade data, said Nomura's Mr. Amemiya. Prices for U.S. imports from China increased 2.8% from a year ago in July, down from a 4.9% pace in March. But price gains for imports overall also slowed, including for manufactured goods like computers and electronics that China exports. </p><p>   One factor pushing up global price pressure is natural gas. An artificial shortage engineered by Russian President Vladimir Putin has driven up prices for natural gas and electricity. European natural-gas future prices have more than tripled since the beginning of this year. </p><p>   Europe has increasingly turned to U.S. exports of liquefied natural gas, putting upward pressure on U.S. gas and electricity prices. </p><p>   \"This year, the Russia and Ukraine and implications for energy markets might end up overwhelming the effects of what happens in China,\" said Bill Adams, chief economist at Comerica Bank. \"China's housing and its effect on global inflation is likely to be a big deal in 2023.\" </p><p></p>",
+  "published": "2022-09-06T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 323,
+          "end": 331
+        },
+        {
+          "start": 324,
+          "end": 332
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9761045,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.07610452,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

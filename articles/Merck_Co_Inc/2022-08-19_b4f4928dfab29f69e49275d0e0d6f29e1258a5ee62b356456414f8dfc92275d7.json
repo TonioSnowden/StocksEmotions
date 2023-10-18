@@ -1,0 +1,30 @@
+{
+  "_id": "b4f4928dfab29f69e49275d0e0d6f29e1258a5ee62b356456414f8dfc92275d7",
+  "feed": "market-watch",
+  "title": "What will insurance coverage of COVID-19 vaccines and treatments look like? The Biden administration is trying to figure that out; One major complication to changing how COVID-19 vaccines and treatments are paid for is figuring out how to ensure that they're still available to the 30 million people in the U.S. who do not have health insurance",
+  "text": "<p>Arpa Garay, Moderna's MRNA chief commercial officer, told investors on a recent earnings call that the company is already preparing for the evolution of the COVID-19 vaccine market.</p><p>\"We are prepared for a shift to the commercial market in the U.S. for COVID boosters, where the market will be more fragmented than it was during the pandemic, where the U.S. government was the sole purchaser of vaccines,\" she said.</p><p>Pfizer PFE told investors last month that putting its COVID-19 products into a commercial market frees up the company to broaden its distribution channels and run brand campaigns.</p><p>\"All of these are things that actually Pfizer does and the commercial organization of Pfizer does really well. This is our sweet spot,\" Angela Hwang, Pfizer's group president of biopharmaceuticals, said in July during an earnings call. \"We look forward to building on top of what the government has been doing, which has been really excellent, and building on top of that to do more and to support greater initiatives across the country.\"</p><p>One major complication to changing how COVID-19 vaccines and treatments are paid for is figuring out how to ensure that they're still available to the 30 million people in the U.S. who do not have health insurance.</p><p>Another issue is that Medicare and Medicare don't pay for therapies that are available due to emergency authorizations. While the COVID-19 shots developed by BioNTech BNTX/Pfizer and Moderna are now fully approved, Merck MRK and Pfizer's antivirals are not, the Journal reported.</p><p>Other COVID-19 news to know:</p><p>→ The Food and Drug Administration plans to base its decision to authorize a new generation of COVID-19 boosters using data from studies involving mice ⁠— not humans, according to NPR. Taking this approach is expected to speed up the arrival of the new shots. \"For the FDA to rely on mouse data is just bizarre, in my opinion,\" John Moore, an immunologist at Weill Cornell Medicine in New York, told NPR.</p><p>→ The World Health Organization on Thursday recommended Valneva's VALN two-dose COVID-19 vaccine in adults between the ages of 18 and 50 years old.</p><p>What the numbers say:</p><p>The seven-day average for new COVID-19 cases was 96,275 on Thursday, the lowest count since June 21, according to a New York Times tracker. Only four states have seen cases increase from two weeks ago: Michigan, up 15%; South Carolina, up 10%; Tennessee, up 5%; and Mississippi, up 1%. The daily average for hospitalizations was 41,256 on Thursday, down 6% from two weeks ago. The daily average for deaths is 475. — Tomi Kilgore</p><p>What will insurance coverage of COVID-19 vaccines and treatments look like? The Biden administration is trying to figure that out</p>",
+  "published": "2022-08-19T14:18:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1456,
+          "end": 1461
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9025009,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 9.536743e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

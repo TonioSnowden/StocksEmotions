@@ -1,0 +1,28 @@
+{
+  "_id": "a38bf86f8a22ce4dcf1bdc9fe606a3872ec49cc9bf28472a50b519b71abc0957",
+  "feed": "wall-street-journal",
+  "title": "5G (A Special Report) --- Inside Verizon's Quest to Monetize 5G: The company's strategy chief hunts for new ways to monetize the service after its big spending on spectrum",
+  "text": "<p>\"I don't want you to come up with demos, I want products,\" she tells them, grilling members monthly on the financial viability of products and services.</p><p>That drive has meant forming new partnerships with technology giants including Amazon.com Inc. and Microsoft Corp.; creating new business-use cases for connected products like robots and drones; and finding revenue models that take advantage of features of 5G. Those include ultra low latency, or the much shorter time it takes for machines to respond to each other over a network, and high throughput, or the ability to move massive amounts of data at speeds far beyond those possible with 4G.</p><p>Billions of dollars are at stake in Ms. Qureshi's efforts. Verizon landed more than half of the midband spectrum rights offered in a recent U.S. government airwaves auction that attracted record-setting bids. The carrier will pay more than $50 billion for those airwaves and related expenses and is planning a total of $10 billion in capital expenditures over the next three years to expand its midband range.</p><p>Ms. Qureshi joined Verizon roughly three years ago from Ericsson AB, where she worked previously with Verizon CEO Hans Vestberg. Among her priorities has been determining what 5G-enabled edge computing can accomplish and what problems Verizon's service might help businesses solve. Edge computing allows for faster data processing because the data is crunched in real time closer to a device, rather than first being sent to a centralized cloud or data center.</p><p>For businesses looking to use 5G service it means bringing the cloud closer to the application and having more remote cloud storage. As a result, Verizon needed to connect its network to a cloud.</p><p>Ms. Qureshi had to decide whether the company should try to scale its existing cloud itself or partner with an outside company. Executives realized that scaling Verizon's own cloud would require hefty investments and starting from scratch in a developer ecosystem that technology giants were already immersed in.</p><p>\"Does it make sense to go in and develop it against the experts in the field?\" Ms. Qureshi recalls asking at the time. She determined that joining with large, established cloud providers was a faster way to start generating revenue and putting edge computing to use for business clients.</p><p>\"Here's a mutually beneficial way for us to commercialize a product as early as possible,\" she says of Verizon's partnerships with Amazon and Microsoft on network and cloud services. She declines to discuss the specifics of how the companies share revenue.</p><p>In addition to those partnerships, Verizon has revamped its pricing with the features of 5G in mind. It plans to charge business customers based on what aspects of 5G service are most critical to them -- such as low latency, which can enable more-seamless use of robotics, or high throughput, which enables faster speeds for many more connected devices.</p><p>The pandemic has accelerated by five to 10 years some of the use cases she and her team have envisioned. \"Some of it felt almost a little bit like science fiction,\" she says, pointing to increasingly common uses such as robots disinfecting hospitals and office buildings or interacting with humans in warehouses, manufacturing plants and other work environments. Plus, retail and logistics companies are more quickly adopting automation and robotics because of pandemic-spurred changes in consumer shopping habits that strained their abilities to quickly fill and deliver orders.</p><p>Verizon has made small acquisitions to further some of Ms. Qureshi's goals. In February it agreed to acquire robotics-focused technology firm Incubed IT. Ms. Qureshi wants to lower the cost of robots by moving some computing and storage into the network rather than sitting within a device's hardware. For example. her team is working to teach robots, enabled by 5G computing power and lower latency, to sense fixed and moving objects around them to better interact and coexist with humans.</p><p>It is also working to advance the use of 5G-connected drones. Verizon and United Parcel Service are testing delivery of retail products at a retirement community called The Villages in Florida.</p><p>The airwaves the company recently secured are \"rocket fuel\" for the projects under way, Ms. Qureshi says.</p><p>\"It really is a question of what you can imagine, and that's the fun of it,\" she says.</p><p>---</p><p>Ms. Krouse is a Wall Street Journal reporter based in New York. She can be reached at sarah.krouse@wsj.com.</p>",
+  "published": "2021-03-25T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2458,
+          "end": 2467
+        },
+        {
+          "start": 252,
+          "end": 261
+        },
+        {
+          "start": 252,
+          "end": 267
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

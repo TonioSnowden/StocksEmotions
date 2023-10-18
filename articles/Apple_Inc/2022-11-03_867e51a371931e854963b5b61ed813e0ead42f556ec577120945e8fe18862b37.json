@@ -1,0 +1,54 @@
+{
+  "_id": "867e51a371931e854963b5b61ed813e0ead42f556ec577120945e8fe18862b37",
+  "feed": "wall-street-journal",
+  "title": "Qualcomm's Longer Life With Apple Comes at a Cost; Chip maker will keep iPhone business a while longer, but smartphone slowdown hurts near-term outlook and complicates its diversification plan",
+  "text": "<p>But Qualcomm still isn't counting on keeping the business forever. The company said Wednesday that it now expects \"minimal contribution\" from Apple for its chipset business for the fiscal year that ends in September of 2025.</p><p>It is wise for Qualcomm to be so candid. Apple's business is substantial; the company ships well over 200 million iPhone units each year even in weak cycles. But the world's most valuable company is also powerfully motivated to bring more of its chip design in house. It has been designing its own application processors for the iPhone and iPad since the 2010 models, and its M-series CPU chips for the Mac have been a rousing success. Apple's Mac revenue has averaged 20% year-over-year growth over the past eight quarters since it launched the first devices with its in-house processor. Average Mac revenue growth for the eight quarters before that was 8%.</p><p>Counting Apple out of the business long term also furthers Qualcomm's ongoing effort to prove that it has a life beyond smartphones. The company even held an analyst meeting in September that focused solely on its burgeoning automotive business, which it expects to have $4 billion in revenue by its fiscal year 2026 compared with about $1.3 billion now.</p><p>But dialing down phones is no small matter for the company that largely invented the technology behind today's mobile-communications networks. And it remains the company's most dominant business now—painfully so. Qualcomm on Wednesday became the latest chip maker to see its numbers hit by a rapidly weakening smartphone market. The company's projected chipset revenue of about $8 billion for the December quarter was 23% below Wall Street's forecast and would be the unit's first decline in three years.</p><p>That surprised investors who were already well braced for a slowdown; Qualcomm's stock slid nearly 8% Thursday. Notably, Apple's shares also took a hit, falling by more than 4% as the outlook from Qualcomm and fellow wireless chip maker Qorvo painted a dim picture for smartphone demand over the holiday season.</p><p>Despite their best efforts, Apple and Qualcomm are joined at the hip for a while longer.</p><p>Write to Dan Gallagher at dan.gallagher@wsj.com</p>",
+  "published": "2022-11-03T20:52:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 28,
+          "end": 33
+        },
+        {
+          "start": 142,
+          "end": 147
+        },
+        {
+          "start": 266,
+          "end": 271
+        },
+        {
+          "start": 661,
+          "end": 666
+        },
+        {
+          "start": 893,
+          "end": 898
+        },
+        {
+          "start": 1865,
+          "end": 1870
+        },
+        {
+          "start": 2084,
+          "end": 2089
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.860908,
+        "baseWeight": 7.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.86090755,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

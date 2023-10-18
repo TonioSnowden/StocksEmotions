@@ -1,0 +1,118 @@
+{
+  "_id": "bd18b91e00f90ac2cb698ff96fb65b4f40d79d9a02043f0f3b86c02bbff34647",
+  "feed": "ftcomall",
+  "title": "Intel seals $30bn partnership with Brookfield to fund chip factories",
+  "text": "<p>Intel has struck a partnership with Brookfield Infrastructure Partners to fund the development of a $30bn semiconductor fabrication plant in Arizona, as the chipmaker works to finance large domestic manufacturing facilities following the approval of landmark legislation supporting the industry in the US.</p> <p>Brookfield is investing $15bn for a 49 per cent stake in Intel's expansion of its Arizona site, and brings experience in developing infrastructure assets such as transmission lines, data centres and wireless cell towers. Intel, which described the partnership as “a new funding model to the capital-intensive semiconductor industry”, will retain a 51 per cent stake.</p> <p>“Our agreement with Brookfield is a first for our industry, and we expect it will allow us to increase flexibility while maintaining capacity on our balance sheet to create a more distributed and resilient supply chain,” Intel chief financial officer David Zinsner said.</p> <p>The expansion is part of a concerted effort by <a href=\"https://www.ft.com/stream/7d63e57e-25d0-4925-bff7-6c35af845012\">Intel</a> to boost chip manufacturing as it seeks to take back market share from groups such as TSMC in Taiwan and Samsung in South Korea.</p> <p>By taking in the Canadian asset management group as a large private capital partner, Intel said the deal would provide it with financial flexibility to continue funding its rising dividend. The partnership is expected to bolster Intel's free cash flow by $15bn over the next several years, it said.</p> <p>Intel also said it expected it would be able to “replicate” the funding model, called the <a href=\"https://www.ft.com/stream/8b010053-6a9c-4c39-be1e-28856e47b874\">semiconductor</a> co-investment programme, “with other partners for other buildouts globally”.</p> <p>The tie-up with Brookfield is part of Intel's broader effort to tap private capital to <a href=\"https://www.ft.com/content/86480e82-e469-4f26-b2eb-ebe922dfbd2b\">finance an aggressive collection</a> of projects in the US, according to a source involved in the deal. By sharing the burdens of building projects with infrastructure investors such as Brookfield or other large players, Intel can lower its overall financing costs and balance sheet risk, said the source, who expected similar structures to be used for upcoming projects.</p> <p>The announcement came on the heels of the passage of President Joe Biden's <a href=\"https://www.ft.com/content/d1e5bb5d-da09-488b-8430-a05d8016a95f\">Chips Act</a> this month, which included $52bn in incentives for the semiconductor industry. Congress is also considering another piece of legislation to establish tax credits for semiconductor investments in the US.</p> <p>“This landmark arrangement is an important step forward for Intel's Smart Capital approach and builds on the momentum from the recent passage of the Chips Act in the US,” Zinsner said.</p> <p>Intel has two plants under construction at its site in Chandler, Arizona, which are expected to come online in 2024. It announced plans this year to invest $20bn to build two chip factories in Ohio. It also plans to pour $30bn into chip manufacturing in Europe, utilising state subsidies to build a plant in the German city of Magdeburg.</p> <p>Intel surprised investors last month when it reported a sharp drop in revenues and <a href=\"https://www.ft.com/content/f43eccee-09ea-46f8-b2ff-bba7f2f305ce\">slashed its outlook</a> for the financial year, attributing the weaker than anticipated performance to supply chain disruptions, worsening economic conditions and pressure from competitors. </p> <p>However, it revised down its annual capital expenditure spending by $4bn, or 15 per cent, in part to account for its partnership with Brookfield.</p> <p>Intel shares have fallen more than 35 per cent this year. The shares gained 0.3 per cent on Tuesday. Investment bank Lazard was Intel's financial adviser, while Skadden provided legal advice. Kirkland &amp; Ellis advised Brookfield.</p><p>Source: Antoine Gara in New York and Anna Gross in London 2022 'Intel seals $30bn partnership with Brookfield to fund chip factories' FT.com 23 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-23T18:37:13.482Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 362,
+          "end": 367
+        },
+        {
+          "start": 525,
+          "end": 530
+        },
+        {
+          "start": 527,
+          "end": 532
+        },
+        {
+          "start": 987,
+          "end": 992
+        },
+        {
+          "start": 991,
+          "end": 996
+        },
+        {
+          "start": 1206,
+          "end": 1211
+        },
+        {
+          "start": 1349,
+          "end": 1354
+        },
+        {
+          "start": 1355,
+          "end": 1360
+        },
+        {
+          "start": 1418,
+          "end": 1423
+        },
+        {
+          "start": 1425,
+          "end": 1430
+        },
+        {
+          "start": 1636,
+          "end": 1641
+        },
+        {
+          "start": 1644,
+          "end": 1649
+        },
+        {
+          "start": 1901,
+          "end": 1906
+        },
+        {
+          "start": 1910,
+          "end": 1915
+        },
+        {
+          "start": 2409,
+          "end": 2414
+        },
+        {
+          "start": 2521,
+          "end": 2526
+        },
+        {
+          "start": 2534,
+          "end": 2539
+        },
+        {
+          "start": 2856,
+          "end": 2861
+        },
+        {
+          "start": 3269,
+          "end": 3274
+        },
+        {
+          "start": 3287,
+          "end": 3292
+        },
+        {
+          "start": 3395,
+          "end": 3400
+        },
+        {
+          "start": 3415,
+          "end": 3420
+        }
+      ],
+      "weightsV2": {
+        "weight": 29.0,
+        "baseWeight": 24.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

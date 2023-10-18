@@ -1,0 +1,34 @@
+{
+  "_id": "23942b21cdcdde2fcdefefdaa7cb173c0d844b41604968c863d4ab8aae570072",
+  "feed": "economist-newspaper",
+  "title": "Oil: A slippery patch",
+  "text": "<p>The cartel's latest meeting, on February 2nd, took place against the backdrop of heightened fears about a Russian invasion of Ukraine (Russia, the world's second-biggest oil exporter, is a member of the extended cartel, known as OPEC+). Only the week before the price of a barrel of Brent crude had spiked above $90, its highest level in seven years. The alliance promised to raise output again, by the usual amount. That calmed markets a bit. The question is what happens next.</p><p>Many Wall Street analysts have lifted their oil-price forecasts for this year above $100 a barrel. War in Ukraine, they say, could push it well past $120. Conflict would probably not physically disrupt supply. By contrast with the gas it pipes to Europe, Russia mostly exports oil by sea. Instead, a fear of potential sanctions on trade may set prices ablaze.</p><p>Geopolitics aside, the bull case rests on resurgent demand. The International Energy Agency reckons oil consumption will rise from its present level of about 97m bpd to 100m bpd--a return to pre-covid levels--by the end of the year, even before global aviation fully recovers. Damien Courvalin of Goldman Sachs , a bank, says consumers switching to oil from gas (prices for which have been sky-high in Europe) may have boosted demand by up to 1m bpd, leading to \"critically low inventory levels\".</p><p>Supply is tight, too. Paul Sheldon of S&amp; P Global Platts, a data firm, reckons global spare production capacity is only about 2.6m bpd. And pledges by OPEC+ cannot be counted on. Many members have struggled to raise output owing both to underinvestment and covid-related bottlenecks. Bloomberg NEF, a research firm, notes that in December the club produced 747,000 fewer barrels a day than its quotas allowed.</p><p>The bear case rests on patience, a Persian restoration and a Permian boom. If Russian exports are not cut off, then the impact of geopolitical tensions should dissipate by the summer. By then America will probably have raised interest rates, cooling growth and oil demand--just as extra supply from OPEC+ hits the market. A resumption of Iran's nuclear deal, meanwhile, looks likelier than at any point since 2017, when it was torn apart. The associated lifting of sanctions could release another 1m bpd.</p><p>The real wild card is shale. Until 2014, when OPEC orchestrated an oil-price crash, shale drillers raised cheap finance to ramp up output, turning America into the world's biggest producer of oil. But investors, who went on to lose perhaps $300bn, are now demanding high returns.</p><p>Oil bosses have talked of stern capital discipline. Yet lofty prices are hard to resist. Baker Hughes , an oil-services firm, counts 610 active rigs in America in late January, 226 more than a year ago. BNEF predicts output in the Permian basin could rise by as much as 1m bpd by the end of 2023; ExxonMobil , an oil major, plans to increase output there by a quarter this year. As energy philosophers like to say, the best cure for high prices is high prices.</p>",
+  "published": "2022-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 1136,
+          "end": 1149
+        },
+        {
+          "start": 1136,
+          "end": 1143
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000232,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.3245811e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

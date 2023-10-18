@@ -1,0 +1,46 @@
+{
+  "_id": "0fed056aa3c755e3dd3973e2f9024d1c3b89e7f966d261e8f2e3411f0a82916f",
+  "feed": "wall-street-journal",
+  "title": "Emerging-Market Currencies Face Different Degrees of Pain; Some currencies look better placed for the months ahead, creating some interesting opportunities",
+  "text": "<p>That relative strength seems likely to persist as Indonesia benefits from both strong consumer demand and a diversified commodities export base. Goldman Sachs reckons Southeast Asia's largest economy's current account will be balanced this year, in contrast with frequent deficits in years past. Indonesia's export earnings from coal and other mined products hit $7.17 billion in June—among the highest monthly totals in a decade, according to CEIC. It also joined its emerging-market peers by unexpectedly raising interest rates last week.</p><p>The Thai baht—which was punished earlier in the year, falling 11% against the dollar—could end up as another surprise winner, at least relative to the rest of the emerging-market universe, in the months to come. Tourism, which before the pandemic drove around 20% of Thailand's economy, is beginning to roar back: Tourist arrivals were 1.12 million in July, still well below prepandemic levels but a 6125% jump from July 2021 and up nearly 50% from just a month before. The country's current-account deficit shrank by nearly half in June to $1.9 billion, according to data from CEIC.</p><p>The Hungarian forint, which has fallen 23% this year, may benefit from its less chilly relations with energy-rich Russia this winter—and the fact that the European Union has given it a pass on implementing the planned Russian oil boycott penciled in for December. Earlier in the week, it delivered another big interest-rate increase and flagged further increases. Its key interest rate now stands at 11.75%—the highest in the EU.</p><p>Losers could include those such as the Malaysian ringgit, which Goldman notes has been strangled by a rising interest-rate differential with the Federal Reserve—despite core inflation levels at their highest since the global financial crisis. Being a commodity exporter helps, but doesn't rescue a currency all on its own in the current environment. The ringgit is down 7.4% against the dollar this year and more depreciation may be ahead—particularly if lower energy prices start to erode export earnings and rates stay low.</p><p>Emerging-market currencies are doubtless in for another several months of rollercoaster-like volatility, even assuming that the Fed's currently uber-hawkish stance starts to soften a bit. The pain won't be distributed equally.</p><p>Write to Megha Mandavia at megha.mandavia@wsj.com</p><p>Emerging-Market Currencies Face Different Degrees of Pain</p>",
+  "published": "2022-09-02T13:41:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99998564,
+      "offsets": [
+        {
+          "start": 1609,
+          "end": 1616
+        },
+        {
+          "start": 1619,
+          "end": 1626
+        },
+        {
+          "start": 145,
+          "end": 158
+        },
+        {
+          "start": 145,
+          "end": 152
+        },
+        {
+          "start": 144,
+          "end": 157
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.383091,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.38309073,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

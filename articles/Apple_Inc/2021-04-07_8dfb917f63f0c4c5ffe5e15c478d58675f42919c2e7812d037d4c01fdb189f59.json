@@ -1,0 +1,28 @@
+{
+  "_id": "8dfb917f63f0c4c5ffe5e15c478d58675f42919c2e7812d037d4c01fdb189f59",
+  "feed": "ftcomall",
+  "title": "Max Schrems accuses Google of illegally tracking Android users",
+  "text": "<p>Austrian privacy activist Max Schrems has filed a complaint against Google in France alleging that the US tech giant is illegally tracking users on Android phones because it does not have their consent.</p> <p>Android phones generate unique advertising codes, similar to Apple's Identifier for Advertisers (IDFA), that allow Google and third parties to track users' browsing behaviour in order to better target them with advertising.</p> <p>In a complaint filed on Wednesday, Schrems' campaign group Noyb argued that in creating and storing these codes without first obtaining explicit permission from users, Google was engaging in “illegal operations” that violate EU privacy laws.</p> <p>Noyb urged France's data privacy regulator to launch a probe into Google's tracking practices and to force the company to comply with privacy rules. It argued that fines should be imposed on the tech giant if the watchdog finds evidence of wrongdoing.</p> <p>“Through these hidden identifiers on your phone, Google and third parties can track users without their consent,” said Stefano Rossetti, privacy lawyer at Noyb. “It is like having powder on your hands and feet, leaving a trace of everything you do on your phone — from whether you swiped right or left to the song you downloaded.”</p> <p>Google did not immediately respond to a request for comment.</p> <p>The complaint comes as Apple is set to bring in landmark changes to how it tracks users, asking them for the first time to opt in to the use of identifiers in its new iOS 14 operating system. The decision has stoked alarm among developers, who expect a majority of users to choose to block the use of IDFA.</p> <p>Last November, Noyb filed a complaint against Apple accusing the company of breaking the law by allowing iPhone users to be tracked without their consent. The case is currently being considered by the Austrian and Spanish data protection watchdogs. The US group has rejected the claims as being “factually inaccurate”.</p> <p>Google, which has roughly 300m Android users in Europe, is facing a separate complaint from Noyb to the Austrian data protection authority, which argues specifically that users cannot delete the identifier from their Android devices.</p> <p>According to people familiar with the latest complaint, Noyb chose to approach the French data watchdog because its legal system is well suited to handling complaints under the European ePrivacy directive.</p> <p>Noyb also had concerns over the effectiveness of the Irish data protection authority — the de facto leader in European data privacy regulation — after a number of member states including <a href=\"https://www.ft.com/content/37705bcf-c5b6-4ef0-adb8-35a8680dbaec\">Germany</a> accused it of sluggish enforcement.<br><br>Last year Schrems won a landmark case at Europe's highest court that ruled a transatlantic agreement on transferring data between the bloc and the US used by thousands of corporations did not protect EU citizens' privacy.</p><p>Source: Javier Espinoza in Brussels 2021 'Max Schrems accuses Google of illegally tracking Android users' FT.com 7 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-07T04:00:05.192Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1666,
+          "end": 1671
+        },
+        {
+          "start": 1336,
+          "end": 1341
+        },
+        {
+          "start": 264,
+          "end": 269
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "ffa50bd3731db7869936b30bd43d6ddf2f9a831560d926d39dacc846c16a5e5d",
+  "feed": "market-watch",
+  "title": "The housing recession will continue and eventually flatten house prices, Goldman Sachs economist says",
+  "text": "<p>Mortgage rates as high as 5.8% — they were just 3.2% in January — are partly to blame. Sales and permits have fallen more sharply in regions where they increased the most in the earlier part of the pandemic, suggesting a retreat from the pandemic-related boost to housing, said Walker.</p><p>Walker says existing home sales will fall another 12% by the fourth quarter, and new home sales will be flat. The latest survey from the Conference Board says plans to buy a home within six months has dropped to the lowest level since 2015.</p><p>Even with demand on the way down, there's still a supply imbalance. There's a growing backlog of incomplete units that has pushed up the number of new homes available for sale, due to both supply-chain disruptions and labor shortages. And, per Zillow data, the reduction in demand has also been met by fewer owners putting their homes for sale.</p><p>House price growth on a quarterly basis will slow to 8.5% in the third quarter and 3% in the fourth quarter, which will take the year-over-year rate down to 14% by the end of the year. Next year, Walker says home price growth will stall completely.</p><p>The housing recession will continue and eventually flatten house prices, Goldman Sachs economist says</p>",
+  "published": "2022-08-30T08:22:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 73,
+          "end": 80
+        },
+        {
+          "start": 73,
+          "end": 86
+        },
+        {
+          "start": 1194,
+          "end": 1201
+        },
+        {
+          "start": 1194,
+          "end": 1207
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.6503897,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.65038943,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

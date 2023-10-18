@@ -1,0 +1,20 @@
+{
+  "_id": "c29a23ddda93760b04c8541135f64432884151bd7ae5ab100c49ed448d51843f",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Sales of newly built homes dropped 10.9% in September from August, the latest sign that rising interest rates are causing an abrupt slowdown in the housing market.</p><p>Boeing said its losses deepened in the third quarter as fresh problems with its defense business added to supply-chain and regulatory woes in its commercial-jet arm.</p><p>The S&amp;P 500 and Nasdaq lost 0.7% and 2%, respectively, dragged down by falling tech stocks, while the Dow edged up 0.01%.</p><p>Shares of Mobileye rose 38% in their trading debut, providing a rare bright spot for an IPO market that is having its worst year in memory.</p><p>Credit Suisse is nearing a deal to sell its securitized-products group to Apollo and Pimco, people familiar with the matter said.</p><p>Ford swung to a third-quarter loss because of a hefty charge associated with the shutdown of its autonomous-driving venture Argo AI.</p><p>The Bank of Canada raised its main interest rate by a smaller-than-expected half-percentage point to 3.75%.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2022-10-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 164,
+          "end": 170
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

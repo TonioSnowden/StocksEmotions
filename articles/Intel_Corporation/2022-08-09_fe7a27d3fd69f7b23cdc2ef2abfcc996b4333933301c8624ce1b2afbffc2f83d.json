@@ -1,0 +1,46 @@
+{
+  "_id": "fe7a27d3fd69f7b23cdc2ef2abfcc996b4333933301c8624ce1b2afbffc2f83d",
+  "feed": "wall-street-journal",
+  "title": "Nvidia Loses Its Game",
+  "text": "<p>It came in the form of a warning Monday morning that revenue for the fiscal second quarter ended July 31 would be about 17% below its prior forecast. The chip maker primarily blamed weakness in its videogaming business. Nvidia's shares fell more than 6%.</p><p>Nvidia might have learned from Intel Corp.'s major stumble less than two weeks ago. Intel's second-quarter results were roundly considered a disaster, with revenue missing Wall Street's forecasts by 15% and operating earnings in its vital data-center chip business virtually disappearing. Intel blamed the shortfall on slumping PC sales and \"competitive pressure.\" Even though PC weakness was well known to investors, the magnitude of the disappointment was still shocking. Analysts questioned why the company hadn't issued a warning sooner.</p><p>Still, Nvidia is no Intel. The former noted Monday that its data-center revenue for quarter was up 61% year over year to $3.8 billion. By contrast, Intel's quarterly data-center sales slid 16% year over year.</p><p>But Nvidia's shortfall is still a notable stumble. The company said its gaming revenue will come in around $2.04 billion for the most recent quarter, down 33% year over year and the first decline in nearly three years. The company said sales \"declined significantly as the quarter progressed\" and that it has started cutting prices. And the data-center segment isn't free of challenges either; despite the aforementioned gain, Nvidia said data-center revenue for the July quarter was \"somewhat short\" of its own expectations. It also was about 6% shy of Wall Street's forecasts.</p><p>Signs have been swirling for weeks about the weakening market for PCs and other chip segments such as smartphones. Videogames also are experiencing a summer slump; game publishing giants Electronic Arts and Activision Blizzard both reported year-over-year declines in net bookings for the June quarter. Data-center demand has remained relatively stable given strong capital spending by cloud computing giants, but even that could wane in the quarters ahead if a major recession hits. Nvidia didn't offer any comments on the current or coming quarters on Monday, though it is expected to do so in its full report on Aug. 24.</p><p>Getting the bad news out early doesn't mean there isn't more to come.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-09T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 339,
+          "end": 344
+        },
+        {
+          "start": 945,
+          "end": 950
+        },
+        {
+          "start": 817,
+          "end": 822
+        },
+        {
+          "start": 286,
+          "end": 297
+        },
+        {
+          "start": 286,
+          "end": 296
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.1083336,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.10833335,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

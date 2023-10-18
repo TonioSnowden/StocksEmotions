@@ -1,0 +1,46 @@
+{
+  "_id": "960fce478cb35a27d6a5cc8a7a01ab0c3ce2598478645ffb5cdb4334bcde6723",
+  "feed": "wall-street-journal",
+  "title": "Antitrust Bill Targeting Big Tech in Limbo as Congress Prepares to Recess; Legislative clock ticks down on bill that would block largest tech companies from favoring their own products and services",
+  "text": "<p>\"If the bill had the support its supporters contended, it wouldn't be a bill, it would be a law,\" said Matt Schruers, president of the Computer &amp; Communications Industry Association, whose members include Amazon.com Inc., Google owner Alphabet Inc., Apple Inc. and Facebook owner Meta Platforms Inc.</p><p>The bill has some Republican support, though many conservatives oppose it. That means the legislation's prospects could plummet next year if Republicans gain control of the House, Senate, or both after midterm elections in November.</p><p>Supporters expressed confidence that the bill will get across the finish line.</p><p>\"We continue to have very strong bipartisan support in both chambers, and the votes to pass it in both chambers,\" said Rep. David Cicilline (D., R.I.), one of the bill's primary sponsors. \"It's really just a matter of getting it on the calendar.\"</p><p>Mr. Cicilline said he had hoped the legislation would come to the House and Senate floor by now, but noted that lawmakers were busier than expected this summer dealing with issues including semiconductor subsidies, abortion policy, and a budget-reconciliation package.</p><p>The bill's main targets are Amazon, Apple and Google, which have backed groups spending tens of millions of dollars on advertising and lobbying in an effort to sink it. </p><p>Amazon's headquarters campus in Seattle. The company is one of the main targets of the legislation. PHOTO: Jovelle Tamayo for The Wall Street Journal</p><p>If passed, the law would bar huge online platforms such as Amazon's e-marketplace, Apple's app store, and Google's search engine from giving preferential treatment to the company's own products and services, such as steering consumers to in-house products instead of competitors' offerings in a way that harms competition.</p><p>To counter tech companies' lobbying, progressive activists have aimed a grass-roots lobbying effort at Mr. Schumer, who controls the Senate calendar, driving a billboard truck by his home and gathering outside a political fundraiser he attended.</p><p>Sens. Amy Klobuchar (D., Minn.) and Chuck Grassley (R., Iowa), two other primary sponsors, have been meeting with colleagues to shore up support on both sides of the aisle.</p><p>Mr. Schumer says he supports the bill, but at a news conference last month he expressed reservations that it had the votes to pass. Last week, however, an aide said Mr. Schumer \"is working with Sen. Klobuchar and other supporters to gather the needed votes and plans to bring it up for a vote.\"</p><p>That statement represents \"a positive sign in the direction of passage\" and is farther than Mr. Schumer has previously gone to signal the bill will get time on the Senate floor, said Paul Gallant, a policy analyst with brokerage Cowen Inc.</p><p>To pass the bill, supporters will need to overcome concerns among members of both parties.</p><p>Several conservatives have argued against regulation of large tech platforms, including Sen. Rand Paul (R., Ky.). \"Rather than pursue even stronger antitrust laws, Congress should allow the free market to thrive where consumers, not the government, decide how big a company should be,\" Mr. Paul wrote in a June op-ed.</p><p>On the Democratic side, objections have notably come from the California delegation, where most of the affected companies are based.</p><p>\"It's a profound departure from our history to target specific companies for antitrust in legislation,\" Rep. Zoe Lofgren (D., Calif.), who represents parts of Silicon Valley, said in an interview earlier this year. She and other Democrats have suggested broadening the bill's scope to go beyond the largest tech platforms, an idea the bill's authors have rejected.</p><p>SHARE YOUR THOUGHTS</p><p>What is the outlook for a bipartisan antitrust bill? Join the conversation below.</p><p>Representatives of Amazon, Apple, Google, and Facebook either declined to comment or didn't respond to a request for comment.</p><p>Mr. Grassley is \"working hard to further secure support for the bill\" and is optimistic about the level of Republican support, a spokesman said.</p><p>Mr. Cicilline and Ms. Klobuchar spoke recently with Sen. Brian Schatz (D., Hawaii), who along with other Democrats has expressed concern that the legislation would impede tech platforms from moderating objectionable content.</p><p>Mr. Cicilline said lawmakers are discussing a change to the bill that could address that issue, without alienating Republicans who are hoping the bill will respond to their concerns about tech platforms' treatment of conservative content.</p><p>\"What they can't do is have one standard for one kind of content and one standard for a different kind of content,\" Mr. Cicilline said, referring to tech platforms covered by the bill. \"There are ways we can make that more explicit.\"</p><p>In a statement, a spokesman for Mr. Schatz said the senator \"has been assured that modifications to the bill will be made to address his concerns. He now plans to vote for the final bill, assuming those changes are included.\"</p><p>A spokesman for Ms. Klobuchar disputed that, saying talks are ongoing but \"there have been no agreements about new changes.\" Ms. Klobuchar is \"hopeful that when we return in the fall we will vote on this bipartisan legislation,\" a statement from her office said.</p><p>The antitrust legislation isn't the only technology bill making its way through Congress. Privacy-focused legislation also hasn't passed either chamber, despite efforts that advanced it further than in previous congressional sessions.</p><p>The Senate Commerce Committee in July approved a bill boosting privacy protections for children and teens online, but that bill is narrower than the House Energy and Commerce Committee's privacy bill, also approved last month.</p><p>Lawmakers are seeking to reach a bicameral deal, but analysts are skeptical they can do so before the year is out.</p><p>Write to Ryan Tracy at ryan.tracy@wsj.com</p><p>Antitrust Bill Targeting Big Tech in Limbo as Congress Prepares to Recess</p>",
+  "published": "2022-08-08T09:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99928004,
+      "offsets": [
+        {
+          "start": 3736,
+          "end": 3741
+        },
+        {
+          "start": 250,
+          "end": 260
+        },
+        {
+          "start": 1164,
+          "end": 1169
+        },
+        {
+          "start": 1157,
+          "end": 1162
+        },
+        {
+          "start": 1520,
+          "end": 1525
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.901716,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.25,
+        "tagPositionWeight": 0.15171635,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

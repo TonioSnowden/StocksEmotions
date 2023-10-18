@@ -1,0 +1,34 @@
+{
+  "_id": "2322555909eb0f439b35bfd88b4b0fff841390e214fc2b870aa13b3e8aa21422",
+  "feed": "wall-street-journal",
+  "title": "Goldman Sachs Sees U.S. Core CPI Slowing by December",
+  "text": "",
+  "published": "2022-08-09T17:48:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99982,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

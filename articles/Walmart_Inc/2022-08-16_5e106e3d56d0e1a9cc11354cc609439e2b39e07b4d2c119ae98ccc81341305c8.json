@@ -1,0 +1,78 @@
+{
+  "_id": "5e106e3d56d0e1a9cc11354cc609439e2b39e07b4d2c119ae98ccc81341305c8",
+  "feed": "ftcomall",
+  "title": "Walmart and Home Depot ease fears of recession even as inflation persists",
+  "text": "<p>Two of the biggest US retailers have eased concerns of a recession, reporting resilient consumer spending even though sharp food and fuel inflation are weighing heavily on their customers.</p> <p><a href=\"https://www.ft.com/stream/4a210ea8-7a54-4681-8a3b-b4ed2b7f7038\">Walmart</a>, the world's largest retailer, said it had seen glimmers of improvement in recent weeks despite its most price-sensitive shoppers trading down to cheaper groceries. Home Depot, the DIY chain, said spending on home improvement had been “incredibly high”, with its business accelerating in recent weeks.</p> <p>Two profit warnings from Walmart since May had rattled investors looking for clues about how US consumers have adapted to historically high inflation and rising interest rates.</p> <p>But the retailer on Tuesday reported stronger sales and profits than expected in the three months to July and forecast a smaller decline in full-year earnings than it had <a href=\"https://www.ft.com/content/664f16d0-2faf-4b7b-af72-236e370dbd08\">warned investors about</a> just three weeks ago.</p> <p>“We finished the quarter on a strong note,” said John David Rainey, Walmart's new chief financial officer. Traffic to stores picked up in July and August, he added, and the back to school season was “off to a solid start”.</p> <p><a href=\"https://www.ft.com/stream/464f7780-6a0a-4d35-a6de-4e433e03d88f\">Home Depot</a> reported its highest quarterly sales and earnings on record, saying that consumers were spending on home improvement despite high inflation and mortgage rates.</p> <p>Chief executive Ted Decker told analysts on Tuesday that there were still many “cross-currents” in the <a href=\"https://www.ft.com/us-economy\">US economy</a>, but savings rates, the labour market and wage growth remained strong.</p> <p>Walmart's reported earnings of $1.88 a share for its fiscal second quarter were up 23 per cent year on year and exceeded analysts' consensus estimate of $1.62 per share.</p> <p>Coming on the back of an 8.4 per cent increase in revenues to $153bn, however, the figures showed the effect of inflationary pressures on Walmart consumers, many of whom have cut spending on clothing and general merchandise as their petrol and grocery bills have risen.</p> <p>Lower-income consumers were trading down from deli meats to cheaper hot dogs, canned tuna and chicken, Rainey said. However, Walmart chief executive Doug McMillon added that the company was gaining market share as higher-income shoppers turned to its stores and ecommerce services to save money.</p> <p>As it had warned in July, inflation-driven shifts in consumer spending left Walmart with excess inventory, particularly in clothing. <a href=\"https://www.ft.com/content/7f5b27f3-acc3-4913-a4a0-c58636c62f48\">Markdowns to clear that stock</a> contributed to a 132 basis point decline in its gross profit margin in the quarter.</p> <p>Walmart's inventories hit $60bn at the end of July, up 25 per cent year on year partly because of inflation and efforts to avoid the “lean” inventory position it faced in last year's holiday period.</p> <p>Rainey said Walmart had cleared most of its summer seasonal inventory but was still holding excess stock in electronics, home and sporting goods.</p> <p>Walmart now expects a 9 to 11 per cent decline in operating income over the full year, compared with its guidance last month that investors should expect a decline of 11 to 13 per cent.</p> <p>That outlook was based on Walmart's expectation that the consumer environment in the third and fourth quarters of the fiscal year would “look a lot like [the second quarter]”, McMillon said.</p> <p>Investors welcomed the improved outlook from two of the largest US retailers, pushing Walmart shares 5.1 per cent higher and Home Depot's shares up 4.1 per cent on Tuesday.</p> <p>The upbeat mood boosted shares of sector peers. Retailer Target and DIY chain Lowe's, which report earnings on Wednesday morning, rose 4.6 per cent and 2.9 per cent, respectively.</p> <p><em>Are we heading towards a global recession? Our economics editor Chris Giles and US economics editor Colby Smith discussed this and how different countries are likely to react in our latest IG Live. Watch it </em><a href=\"https://www.instagram.com/p/ChaIgD_KRVp/\"><em>here</em></a><em>.</em></p><p>Source: Andrew Edgecliffe-Johnson and Alexandra White in New York 2022 'Walmart and Home Depot ease fears of recession even as inflation persists' FT.com 16 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-16T15:44:48.720Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 188,
+          "end": 195
+        },
+        {
+          "start": 521,
+          "end": 528
+        },
+        {
+          "start": 1462,
+          "end": 1469
+        },
+        {
+          "start": 1769,
+          "end": 1776
+        },
+        {
+          "start": 2024,
+          "end": 2031
+        },
+        {
+          "start": 2270,
+          "end": 2277
+        },
+        {
+          "start": 2439,
+          "end": 2446
+        },
+        {
+          "start": 2649,
+          "end": 2656
+        },
+        {
+          "start": 2782,
+          "end": 2789
+        },
+        {
+          "start": 2993,
+          "end": 3000
+        },
+        {
+          "start": 3011,
+          "end": 3018
+        },
+        {
+          "start": 3243,
+          "end": 3250
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.0,
+        "baseWeight": 13.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

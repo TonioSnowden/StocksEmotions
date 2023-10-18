@@ -1,0 +1,28 @@
+{
+  "_id": "b059af7598151285b78782e734fecbcbd19cdaf18964a6cda7f257f2f474b7a2",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: Apple Cyber Flaw Allows Silent iPhone Hack | Zero Trust Explained",
+  "text": "<p>Apple put out an iOS security update Monday.</p><p>Also today: Biden's zero trust cyber mandate, explained.</p><p>Read on for more news.</p><p>Why Are Carpet Bombing DDoS Attacks Difficult To Mitigate?</p><p>Although carpet bombing attacks are complex, building an understanding is the first step to detecting, mitigating, and lessening their impact.</p><p>Watch Video</p><p>Surveillance</p><p>Stealth infection: An Israeli security firm has been exploiting a significant security flaw since February to silently infect iPhones using an iMessage, according to the research group that discovered the issue.</p><p>Apple issued a critical security update fixing the flaw on Monday, but the vulnerability had been used in attacks by Israel's NSO Group, a cybersecurity surveillance firm, according to Citizen Lab. Citizen Lab is an academic research group that investigates cyberattacks on journalists and dissidents.</p><p>Read the full story.</p><p>More Cyber News</p><p>Explainer: Zero Trust. The White House Office of Management and Budget last week released a draft blueprint for a so-called zero trust approach to fending off hackers. Federal agencies have until 2024 to revamp cyber measures to support the approach. The shift, which President Biden announced in May as part of an executive order to shore up cybersecurity, aims to help spot or contain threats such as the breach of federal systems last year through SolarWinds Corp.</p><p>Q:</p><p>What is zero trust?</p><p>A:</p><p>The approach views any user, device or application as a potential threat, requiring repeated verification of identities and abilities to access data. That contrasts with traditional security frameworks, in which tools or people are trusted once they make it past perimeter defenses often structured around networks tied to physical offices.</p><p>Q:</p><p>How can organizations turn the buzzword into reality?</p><p>A:</p><p>While many aspects of zero trust aren't new, combining them into a cohesive whole is complex. It can require cataloging all the devices across an organization, instituting multifactor or biometric authentication, monitoring connections in real-time, tightening users' access controls, cordoning off outdated technology and dividing networks into areas that can be isolated in the event of attacks.</p><p>Read the full explainer here.</p><p>\"It's going to get very expensive, very quick.\"</p><p>— Theresa Payton, CEO of cyber consulting firm Fortalice Solutions LLC and former White House CIO, referring to shifting to a zer-trust approach to cybersecurity</p><p>Olympus hit in cyber incident. Industrial conglomerate Olympus said it is investigating an unspecified cyber incident affecting its tech systems in Europe, the Middle East and Africa. \"As part of the investigation, we have suspended data transfers in the affected systems and have informed the relevant external partners,\" said the company, which makes medical, science and industrial equipment.</p><p>The episode was described as a ransomware attack by the BlackMatter group, according to a person familiar with the situation, TechCrunch reports.</p><p>The U.S. Department of Health and Human Services issued a warning last week about BlackMatter, saying its threat to the healthcare sector is \"elevated.\"</p><p>Fake Walmart press release triggers cryptocurrency surge. The price of litecoin, a little-used cryptocurrency, spiked in early trading Monday before falling back, after a news release touting a partnership with giant retailer Walmart turned out to be fake. Litecoin traded as high as $231, up 30%, after the release came out from GlobeNewswire at 9:30 a.m. ET. Litecoin fell after Walmart said the news release was fraudulent. (WSJ)</p>",
+  "published": "2021-09-14T12:27:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 564,
+          "end": 569
+        },
+        {
+          "start": 13,
+          "end": 18
+        }
+      ]
+    }
+  ]
+}

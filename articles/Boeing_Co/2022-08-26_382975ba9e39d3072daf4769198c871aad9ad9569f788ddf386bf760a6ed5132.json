@@ -1,0 +1,34 @@
+{
+  "_id": "382975ba9e39d3072daf4769198c871aad9ad9569f788ddf386bf760a6ed5132",
+  "feed": "market-watch",
+  "title": "How enforcement loopholes are creating an unfair playing field for U.S. companies that exited Russia over Ukraine war; Asian and Middle Eastern airlines are still flying in Russia's airspace, and 'rampant' smuggling of jet parts is helping Russian carriers overcome sanctions",
+  "text": "<p>The pair and their research team at Yale have beentracking the exodus of companies from Russia for the past six months and have tracked how financial markets have rewarded virtuous companies.</p><p>\"Not only was doing good consistent with doing well for these 1,000 firms, but our research also revealed that these corporate exits, coupled with governmental sanctions, have had a crushing impact on Russia's wilting economy, they wrote.</p><p>See now: Putin's claim that sanctions are creating conditions for a global famine is a myth, say Yale academics</p><p>Now the team is homing in on how companies are seeing unintended consequences from sanctions policies and voluntary exits and using the aviation industry as an example.</p><p>\"Our proprietary company-level and industry-level data show conclusively that major U.S. airlines struggle with the unfair competitive edge of non-compliant Middle Eastern and Asian airlines in international flight distance and costs, while European aviation giants are unscrupulously leveraging divergences between the U.S. and EU's enforcement of titanium accreditation to squeeze major U.S. aviation companies such as Boeing BA,\" the pair wrote.</p><p>In the case of the former, major U.S. airlines suspended all use of Russian airspace and are rerouting international flights in a move that costs more time and money.</p><p>But Middle Eastern and Asian carriers are still flying over Russia, even on flights that originate in the U.S. That means American passengers are unknowingly funding Russia, which is receiving overflight fees from those non-U.S. airlines.</p><p>\"As one example from our comprehensive original flight route tracker, United's UAL Flight 106 from Newark (EWR) to New Delhi (DEL) now incurs an additional 600 miles and two hours of flight time relative to Air India's identical route which overflies Russia,\" said the report.</p><p>Then there's the issue of Airbus continuing to source titanium from Russian provider VSMPO, while Boeing and its U.S. suppliers have stopped. That's possible because of \"nonexistent 'virtual' quality oversight\" by EU regulators, the authors wrote.</p><p>Airbus CEO Guillaume Faury said in June that sanctioning titanium from Russia is \"sanctioning ourselves,\" as the Wall Street Journal reported in June.Russian titanium sales are \"one of the few areas of business where it is in the interest of no party to disrupt the current situation,\" he told reporters at an aviation gathering in Doha, Qatar, the paper reported.</p><p>And that's not all.</p><p>Compliant aviation companies are being further undermined by \"rampant\" smuggling of critical jet parts into Russia. Yale's proprietary Russian aircraft tracker has found that Aeroflot and S7 have increased the number of in-service Boeing and Airbus FR:AIR aircraft since initial groundings in March. That's even after the two companies cut off service and support to Russia and issued repeat warnings that those outdated and unmaintained Russia aircraft are not safe for operation.</p><p>\"The magnitude of the resurgence in Russian flight volumes — with the number of in-service aircraft exceeding even prewar levels by upwards of 20% across Aeroflot, S7 and Pobeda — cannot be explained by cannibalization of parts alone, suggesting stronger sanctions enforcement is necessary to ensure sanctions evaders are not thwarting the efforts of compliant U.S. companies,\" they wrote.</p><p>The Yale team called on government leaders to work more closely with top industry leaders to address the issue and ensure American businesses are not penalized for doing the right thing — withdrawing from Russia.</p><p>Read on: Six months after Russia invaded Ukraine, Moral Rating Agency's 'Courage Index' analyzes companies' statements on Kremlin's aggression</p><p>How enforcement loopholes are creating an unfair playing field for U.S. companies that exited Russia over Ukraine war</p>",
+  "published": "2022-08-26T16:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1942,
+          "end": 1948
+        },
+        {
+          "start": 1935,
+          "end": 1941
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

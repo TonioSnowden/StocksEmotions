@@ -1,0 +1,34 @@
+{
+  "_id": "b1385bf8d653872d591a2f335c7e90b62d06c862587f4e9bea48cc805bdb5fcd",
+  "feed": "wall-street-journal",
+  "title": "Israeli Cyber Firm NSO Replaces CEO, Plans Layoffs; The maker of powerful spyware called Pegasus will focus its business on NATO-member countries",
+  "text": "<p>The privately held company said it would restructure to focus on business with members of the North Atlantic Treaty Organization.</p><p>Yaron Shohat, NSO's current chief operating officer, will succeed the outgoing CEO, Shalev Hulio, the company said. Mr. Hulio was one of the company's three co-founders.</p><p>The company sought to replace Mr. Hulio last November with the company's co-president, Isaac Benbenisti, but Mr. Benbenisti quit his new role as chief executive after two weeks.</p><p>Critics and privacy advocates for years have alleged that NSO and similar companies sell tools that allow governments and other customers to target and break into cellphones belonging to politicians, human-rights activists and journalists.</p><p>NSO's Pegasus software can be installed on mobile phones without a user's knowledge or consent, according to security researchers. Pegasus, they say, can turn a smartphone into a silent spying device by gaining access to its files, messages, microphone and camera.</p><p>NSO has said its products are used by government-intelligence and law-enforcement agencies to fight terrorism and crime. The company has also said it has terminated contracts with governments that have abused its software and has taken steps to prevent abuse.</p><p>Last year NSO said it had 60 customers in 40 countries, and earlier this year it informed the European Union that 12 member states are among its clients.</p><p>The company rarely comments directly on the identity of its clients. But according to Amnesty International, which worked with a consortium of journalists to analyze a trove of data linked to NSO, they might have included Rwanda, Saudi Arabia and the United Arab Emirates, among other countries.</p><p>All three governments have denied that they abused the spyware. Rwanda denies acquiring the software at all.</p><p>In a statement Sunday, NSO Group's incoming CEO Mr. Shohat said the company will ensure that its \"technologies are used for rightful and worthy purposes.\"</p><p>An NSO spokeswoman said the company is examining the future of contracts with non-NATO countries.</p><p>In addition to spyware, NSO says it sells products that provide data analysis, defense against drones and search-and-rescue services.</p><p>The company was in talks late last year with two U.S.-based investment funds about a potential sale or refinancing plan.</p><p>The company is still in talks with potential buyers, said people familiar with the company. Those people couldn't say whether the potential buyers were U.S.-based.</p><p>NSO has also faced scrutiny from businesses. It is currently battling lawsuits from Apple Inc. and Meta Platforms Inc., formerly known as Facebook Inc., who alleged the company had misused their products and services.</p><p>In response to the lawsuits, NSO has said its spyware has saved lives by allowing law enforcement to gain access to criminals' and terrorists' encrypted communications.</p><p>—Aaron Boxerman contributed to this article.</p><p>Israeli Cyber Firm NSO Replaces CEO, Plans Layoffs</p>",
+  "published": "2022-08-21T17:54:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2537,
+          "end": 2547
+        },
+        {
+          "start": 2558,
+          "end": 2568
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

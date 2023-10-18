@@ -1,0 +1,28 @@
+{
+  "_id": "6345e81c92d651d8c96744bee67b906f55762cdce3cef064cafbb73db5a23ac7",
+  "feed": "wall-street-journal",
+  "title": "Business News: Bill Gates Transfers Deere Shares to Wife",
+  "text": "<p>In the securities filing, Mr. Gates indicated he made the disclosure because he and Cascade control more than the 10% stake that triggers a reporting requirement. After the transfer, Mr. Gates and Cascade still owned nearly 29.3 million shares, or 9.3% of the company, they reported.</p><p>A spokesman for Cascade declined to comment beyond the filings. Mr. Gates, the co-founder of Microsoft Corp., resigned from its board last spring amid a probe into his prior romantic relationship with a female Microsoft employee.</p><p>This month, Mr. Gates transferred stakes in a Coca-Cola bottler, a Canadian railroad, AutoNation Inc. and other companies valued at nearly $2.4 billion to Ms. French Gates, as two of the world's richest people began dividing their wealth.</p>",
+  "published": "2021-05-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 377,
+          "end": 392
+        },
+        {
+          "start": 494,
+          "end": 503
+        },
+        {
+          "start": 377,
+          "end": 386
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

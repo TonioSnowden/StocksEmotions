@@ -1,0 +1,24 @@
+{
+  "_id": "fcba18f4844f4d89e69c3b3e76dcbe7271a1097f1379929bae6ffb7c3ba5375b",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: Cloud Helps Nasdaq With Market Turmoil",
+  "text": "<p>But the exchange operator also lightened the load by shifting data-intensive processing and storage apps onto the cloud, which can be scaled on demand. This includes storing billions of transaction records, which the company receives daily, in a data warehouse operated by Amazon.com Inc.'s cloud service, Amazon Web Services.</p><p>The data, including orders and quotes transmitted by traders, needs to be loaded for billing and reporting processes before markets open.</p><p>Last year, Nasdaq's options market had its 10 most active days on record, peaking at about 62 billion orders, trades and quotes in a single day, and the company's U.S. equities market had its highest volume day since 2009, peaking at about 5 billion of such messages, the company said.</p><p>\"We engineered our systems for multiples of trading volumes,\" Mr. Peterson said.</p><p>MarketWatch, a separate Nasdaq unit, also uses automated surveillance systems to keep real-time tabs on trading activity in all Nasdaq securities, scanning prices and volumes for unusual movements, according to a description of the unit posted on the company's website. That includes monitoring news sources for items that might affect Nasdaq listed companies.</p><p>Any red flags are reported to Nasdaq's general counsel for regulatory review, a company spokesman said.</p><p>Earlier this week, Nasdaq Chief Executive Adena Friedman said the company's surveillance efforts include monitoring social media. In an interview on CNBC, Ms. Friedman said Nasdaq will halt trading if unusual activity in a stock can be traced to online chatter.</p><p>On Thursday, popular online brokerages, including Robinhood Markets Inc. and Interactive Brokers Group Inc., restricted access to trading GameStop Corp. and AMC Entertainment Holdings Inc., among a handful of other companies, after individual investors prompted by social-media posts flooded the platforms to execute trades in the stocks.</p><p>By Wednesday, both companies' stocks were up more than 100%, recording their largest percentage increases on record.</p><p>The frenzy led to a 62% rise in the midweek Cboe Volatility Index, a measure of market volatility based on prices for options on the S&amp;P 500 that is dubbed Wall Street's fear gauge.</p><p>The increase was the largest for the index since late October and its biggest single-day move since February 2018.</p><p>So far, Nasdaq hasn't suspended trading in any of the stocks in question.</p><p>Mr. Peterson said the company's continuing investments in the cloud allow it to quickly adjust to these kinds of events.</p><p>Cloud systems and apps are hosted on data centers operated by third-party providers, including technology companies such as Amazon.com, Microsoft Corp. and Alphabet Inc.'s Google, that enable users to rapidly scale computing needs, based on demand, with far greater ease than in their data centers.</p><p>Nasdaq's 10-year plan to migrate its markets to the cloud predates the onset of the Covid-19 pandemic.</p><p>Last year, that included shifting a key platform, where traders access the company's options markets, to Amazon Web Services. Among other services, Nasdaq provides customers with a set of tools based in the cloud for performing computing-heavy data analytics, such as risk calculations.</p><p>\"There's a tipping point where the cloud is accepted,\" Mr. Peterson said. \"We've been moving a lot of our systems to the cloud, but now we're seeing our customers going to the cloud, too.\"</p><p>Mr. Peterson said market turbulence sparked by Covid-19, coupled with uncertainty around last fall's presidential election and a string of highflying initial public offerings, put Nasdaq's IT investments to the test.</p><p>\"We could handle the expansion of that activity without degrading,\" he said, describing the approach as \"bend, don't break.\"</p><p>That success has Nasdaq looking at the potential of more advanced digital tools, such as edge computing and chips capable of processing artificial intelligence-powered trading apps on mobile devices, Mr. Peterson said.</p><p>\"A lot of new tech companies list on us, so we get to know them and sometimes adopt their solutions,\" he said. \"The innovation we're seeing is really exciting.\"</p>",
+  "published": "2021-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2643,
+          "end": 2652
+        },
+        {
+          "start": 2643,
+          "end": 2658
+        }
+      ]
+    }
+  ]
+}

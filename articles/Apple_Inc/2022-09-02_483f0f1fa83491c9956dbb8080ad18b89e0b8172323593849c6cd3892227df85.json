@@ -1,0 +1,46 @@
+{
+  "_id": "483f0f1fa83491c9956dbb8080ad18b89e0b8172323593849c6cd3892227df85",
+  "feed": "wall-street-journal",
+  "title": "Conservative Social-Media App Parler Returns to Google's App Store; The app was removed in January 2021 for what Google said was a lack of sufficient content-moderation policies and enforcement",
+  "text": "<p>Parler's app was removed from the Google Play app store shortly after the Jan. 6, 2021, U.S. Capitol riot. Google, at the time, said it took the action due to \"continued posting in the Parler app that seeks to incite ongoing violence in the U.S.\" At the time it was removed, a Google representative said the app would stay suspended until it fixed the issues.</p><p>\"We are pleased that Parler is back on Google Play,\" said Samuel Lipoff, Parler's chief technology officer. \"While away from Google Play, we have worked diligently to build a more feature-rich and dynamic user experience.\"</p><p>The Parler app was also removed from Apple Inc.'s App Store around the same time and Amazon.com Inc.'s cloud-computing business withdrew its services, taking the platform offline briefly. It came back online the following month.</p><p>Parler was reinstated on Apple's app store a few months later after the app said it had added process algorithms that automatically detect violent content or incitements to violence. Parler said its app, if downloaded from Apple's app store, would also exclude certain content that would otherwise be able to be viewed on its web-based and Android versions of the platform.</p><p>Parler says it was founded in Nashville, Tenn., in 2018 and bills itself as an unbiased, free-speech alternative to those offered by bigger social-media companies like Twitter Inc. and Meta Platforms Inc., which runs Instagram and Facebook. Parler says it has amassed more than 16 million users across apps and platforms, several of them people who had been banned by other large social networks, including far-right talk-show host and conspiracy theorist Alex Jones and supporters of the Proud Boys, the self-described \"Western chauvinist\" group.</p><p>Truth Social, former President Donald Trump's social media app, also previously applied to be able to list its app on Google Play. Two weeks ago, the company declined their application, notifying them of several policy violations, and asked them to make changes.</p><p>A Google spokesperson said that Truth Social wrote back saying they were working on the issues. Truth Social didn't immediately respond to a request for comment.</p><p>Miles Kruppa contributed to this article.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>Conservative Social-Media App Parler Returns to Google's App Store</p>",
+  "published": "2022-09-02T19:57:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 616,
+          "end": 626
+        },
+        {
+          "start": 837,
+          "end": 842
+        },
+        {
+          "start": 831,
+          "end": 836
+        },
+        {
+          "start": 620,
+          "end": 630
+        },
+        {
+          "start": 1028,
+          "end": 1033
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.7542157,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.25,
+        "tagPositionWeight": 0.004215598,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

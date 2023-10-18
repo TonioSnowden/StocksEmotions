@@ -1,0 +1,38 @@
+{
+  "_id": "287de1425672f7aff508bd5972abbcaaa043e011cd88bcf7b9c6d627f2b696d9",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Ad-Agency Giants Buck Downtrend, Face Uncertainty  ----  By Patrick Coffee",
+  "text": "<p>   Top global advertising agency networks have so far defied widespread declines in ad spending that have hurt digital platforms, publishers and broadcasters. </p><p>   The five largest agency holding companies -- WPP PLC, Publicis Groupe SA, Omnicom Group Inc., Interpublic Group of Cos. and Dentsu Group Inc. -- have exceeded their prepandemic growth rates in recent months. </p><p>   Some of the companies recorded revenue declines in the years preceding 2021 as advertisers moved more of their money toward digital platforms such as Alphabet Inc.'s Google and Meta Platforms Inc.'s Facebook, which sometimes bypass agencies and sell directly to marketers. This year, however, all five raised their guidance for revenue growth to somewhere between 6% and 7%, an increase of as much as 2 percentage points over estimates made earlier in 2022. </p><p>   At the same time, most have lost value in the stock market, and their financial outlooks for the years to come remain uncertain, according to analysts. </p><p>   \"These businesses as a collective group were slowing steadily over the prepandemic phase. Now why are we reaccelerating?\" asked Michael Nathanson, senior research analyst at MoffettNathanson. </p><p>   One reason for the revenue growth streak is that pandemic-inspired demand for so-called digital transformation work, which isn't tied to larger ad spending trends, shows no sign of slowing. </p><p>   Publicis Chief Strategy Officer Carla Serrano said the company's strongest growth so far this year has come from its Publicis Sapient division, which helps companies expand their online presence and e-commerce operations. </p><p>   Another factor is a decades-old business model centered around long-term, fee-based contracts with big advertisers, wherein compensation isn't tied to the volume of ads that a given company buys, said Mr. Nathanson. </p><p>   Some of these clients have doubled down on marketing as prices for basic goods increase. Unilever PLC and Coca-Cola Co. both recently told investors that their ad budgets had grown in the first half of the year. </p><p>   Multinational advertisers are also increasingly looking to simplify their marketing operations by consolidating more work with networks that can simultaneously juggle disparate functions such as media planning and customer relationship management. Coca-Cola chose WPP to handle most of its global advertising business in late 2021. </p><p>   Size is a key factor in this equation, according to market research firm Forrester, which recently released a report finding that the largest agency networks are best positioned to retain market share. </p><p>   Perhaps most important, companies like WPP and IPG have minimal exposure to the small-to-medium-size businesses and venture-backed startups whose pullback has driven much of the decline in spending, Mr. Nathanson said. </p><p>   Yet investors remain cautious. </p><p>   On WPP's most recent earnings call, Chief Executive Mark Read said the company would face challenges ahead, \"particularly in 2023.\" Its share price dropped roughly 10% in the following days in a selloff that investment research firm Morningstar attributed to lower operating margins, while MoffettNathanson cut its 2023 organic revenue growth estimates for WPP to 2.3% from 3.3%, citing macroeconomic uncertainty. </p><p>   Even companies with higher growth rates hesitated to predict their own post-2022 fortunes. </p><p>   Chief Executive Mark Penn of Stagwell Inc., the newest global agency network, said he expects 18% to 22% organic revenue growth this year thanks, in part, to U.S. midterm election spending with his company's political advocacy firms. </p><p>   \"The question that nobody really knows the answer to is what's going to happen next year,\" Mr. Penn said. </p><p></p>",
+  "published": "2022-08-23T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2240,
+          "end": 2249
+        },
+        {
+          "start": 2254,
+          "end": 2263
+        },
+        {
+          "start": 1888,
+          "end": 1901
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.2052758,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.7947242,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "4dd24ee70dc6470bd8e540df10b90fa778f731c3200b96a9ca3ee39a081d8143",
+  "feed": "wall-street-journal",
+  "title": "Best Buy Posts Drop in Sales as Shoppers Pull Back on Electronics; After more than 12% decline in comparable sales, retailer cautions that sales will decline in the third quarter as well",
+  "text": "<p>The retailer, which was one of several major chains to warn over the summer of a pullback by consumers, said Tuesday that comparable sales and operating profits would drop at similar rates in the fall quarter.</p><p>SHARE YOUR THOUGHTS</p><p>What is your outlook on Best Buy? Join the conversation below.</p><p>It follows a string of results by companies from Walmart Inc. to Nordstrom Inc. that have seen demand drop for some goods as consumers contend with higher prices for food and fuel and stop buying pandemic favorites such as electronics and patio furniture.</p><p>Last month, Best Buy cut its sales and profit forecast for the second quarter, and the company has moved to cut jobs. Its final results were slightly better than those lowered expectations.</p><p>Best Buy's stock rose 2.6% to $75 in premarket trading Tuesday. The shares had declined about 25% so far this year.</p><p>For the full fiscal year, the company reiterated that it expects comparable sales to decline about 11%. That would mark a sharp reversal from the prior two fiscal years when such sales increased by about 10% in each period.</p><p>As discounts rose across the industry this year due to excess inventory at some retailers, Best Buy increased promotions, eating into profits, the company said. Higher supply-chain costs and lower margins associated with its membership program also ate into its profit rate during the quarter.</p><p>For the July quarter, the company reported that total revenue fell 12.8% to $10.33 billion, while net income dropped more than 50% to $306 million.</p><p>\"We are clearly operating in an uneven sales environment,\" said Best Buy Chief Executive Corie Barry in a news release. \"The macro environment has been more challenged due to several factors, and that has put additional pressure on our industry.\"</p><p>Best Buy and other retailers face a challenging environment ahead of the important holiday shopping season. Consumers are spending, but as prices rise many are prioritizing food and fuel, not discretionary purchases. That's a big change from earlier in the pandemic when many shoppers spent freely on a range of products such as electronics and outdoor heat lamps as they spent more time at home. Large retailers including Target Corp., Macy's Inc. and Walmart have said fast-changing consumer trends have led to an inventory glut of clothes, patio furniture and homegoods.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Best Buy Posts Drop in Sales as Shoppers Pull Back on Electronics</p>",
+  "published": "2022-08-30T11:55:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2203,
+          "end": 2210
+        },
+        {
+          "start": 342,
+          "end": 354
+        },
+        {
+          "start": 339,
+          "end": 350
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.065219,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.065218925,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

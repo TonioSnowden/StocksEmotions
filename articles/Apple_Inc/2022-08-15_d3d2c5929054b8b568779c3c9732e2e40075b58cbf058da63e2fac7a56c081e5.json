@@ -1,0 +1,46 @@
+{
+  "_id": "d3d2c5929054b8b568779c3c9732e2e40075b58cbf058da63e2fac7a56c081e5",
+  "feed": "wall-street-journal",
+  "title": "Warren Buffett's Berkshire Hathaway Keeps Spending Through Volatile Markets; Apple, Bank of America, Coca-Cola, Chevron are among Berkshire's top holdings",
+  "text": "<p>The filing showed Berkshire bought 3.9 million shares of Apple, with its stake worth $125 billion as of the end of June. Apple makes up roughly 40% of Berkshire's stock portfolio.</p><p>Berkshire also purchased 22 million shares of Occidental Petroleum Corp. and 2.3 million shares of Chevron Corp. in the second quarter, adding to its big bet this year on U.S. oil. It added to its stakes in Ally Financial Inc. and Paramount Global, among other companies.</p><p>Meanwhile, Berkshire closed out its stakes in Verizon Communications Inc. and Royalty Pharma PLC and trimmed its holdings of General Motors Co., U.S. Bancorp and Kroger Co. It didn't open any new positions.</p><p>Investors closely watch what Berkshire is buying and selling because of Mr. Buffett's reputation as one of the most successful investors of all time. While Mr. Buffett doesn't personally pick all of the company's stock investments—Berkshire's decision to begin buying shares of Apple in 2016, for instance, was made by deputies Todd Combs and Ted Weschler—investors nevertheless like to draw as many insights as they can from Berkshire's filings.</p><p>Berkshire's five biggest stockholdings as of the end of June were Apple, Bank of America Corp., Coca-Cola Co., Chevron and American Express Co. The five stocks made up about 69% of Berkshire's portfolio, according to company filings.</p><p>Berkshire had already disclosed that it bought roughly $6.2 billion of stocks in the second quarter. That was down from a whopping $51 billion in the first quarter but nevertheless extended a recent buying streak for the company.</p><p>It's a stark change from last year. The Omaha, Neb.-based Berkshire, which includes railroad, energy and insurance businesses, as well as a huge investment portfolio, largely stuck to repurchasing its own shares in 2021. As recently as February, Mr. Buffett had lamented a lack of good buying opportunities as a way of explaining why Berkshire was mostly investing in its own stock.</p><p>But in the months since, market volatility has shot up. That has given Berkshire a chance to put its cash to work—especially within the energy sector. Berkshire snapped up shares of Occidental Petroleum as Russia's invasion of Ukraine sent oil prices surging.</p><p>Investors and analysts have said Berkshire's buying potentially reflects a view from Mr. Buffett that inflation in energy prices will remain elevated for some time. They have also noted that Mr. Buffett has expressed admiration of Occidental's commitment to paying down debt, issuing dividends and buying back Occidental's stock.</p><p>Energy stocks have been by far the best performers in the market this year. Occidental is up more than 110% for the year, while the S&amp;P 500 is down 9.8%. U.S. crude was up 19% for the year through Friday but down 28% from its March high.</p><p>Write to Akane Otani at akane.otani@wsj.com</p><p>Warren Buffett's Berkshire Hathaway Keeps Spending Through Volatile Markets</p>",
+  "published": "2022-08-15T21:37:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 57,
+          "end": 62
+        },
+        {
+          "start": 77,
+          "end": 82
+        },
+        {
+          "start": 120,
+          "end": 125
+        },
+        {
+          "start": 930,
+          "end": 935
+        },
+        {
+          "start": 1164,
+          "end": 1169
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.722473,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7224736,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

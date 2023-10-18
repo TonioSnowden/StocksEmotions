@@ -1,0 +1,50 @@
+{
+  "_id": "79b2767c8c2b88d56733a430f5d77fbf5f39797475736a89c1a397403282292d",
+  "feed": "wall-street-journal",
+  "title": "Boeing and Airbus Want to Get Greener. Why Aren't They Building New Planes? Designing 'clean-sheet' jets instead of updating old ones could be the aerospace industry's most important contribution to the environment",
+  "text": "<p>What was conspicuously absent was talk of designing new \"clean-sheet\" jets instead of updating old ones. It is possible that neither Boeing nor Airbus will announce any this decade. Only upgrades of existing models, like the Boeing 777X and an extra-long-range version of the A321, are scheduled to enter service after delays.</p><p>In a recent report, the International Council on Clean Transportation forecasts that the aviation industry will fall far short of its pledge to generate net zero carbon emissions by 2050, based on measures announced so far. Crucially, improvements in jet-fuel-powered aircraft will play only a small role: Through 2035, only a 1.1% improvement per year in energy intensity is expected, almost all of it coming from models already in service today. The authors assume \"no step-change improvement in the technical efficiency of delivered aircraft.\"</p><p>This is disappointing. The International Civil Aviation Organization's green target is 2%. Between 1960 and 2019, U.S. domestic and international jets slashed their energy use per passenger-mile by 2.3% and 1.9% a year, respectively, official data shows. The pace of improvement kept steady in the 2010s, when the lightweight Boeing 787 and Airbus A350 wide-bodies were introduced. Unlike cars, the economics of aviation are all about energy efficiency: Airlines don't care much about faster planes, but will always buy models that lower fuel bills.</p><p>To be sure, aircraft emissions may be slashed by leaps in operational—rather than technical—efficiency, such as taxiing on a single engine or using smarter air-traffic technology. Also, simply making each jet less pollutive won't fix the climate: With travel growing at a breakneck pace, cutting emissions will require sustainable fuel above all. Regardless, plane makers can't do much to help this along.</p><p>Something they might be able to build is zero-emissions planes. Airbus has pledged to make a hydrogen aircraft by 2035 that could feasibly replace its powerhouse A320 narrow-body on flights under 1,000 miles. But there are massive unknowns that could delay the technology, or limit it to routes not much longer than 300 miles—which is also a barrier for electric aircraft.</p><p>Even in the most optimistic ICCT scenario in which hydrogen narrow-bodies become widely available, they don't move the needle on 2050 emissions. Meanwhile, hydrogen hype risks diverting attention from the potential for a conventional replacement for the A320. Rather than build a whole new jet, Airbus could opt to build a third generation of this 34-year-old design.</p><p>Chief Executive Guillaume Faury said in an interview that the company wasn't \"mixing\" its plans for the A320 family with \"the opportunity to put a hydrogen plane in the right place at the right time.\"</p><p>As for Boeing, the pandemic and the scandal surrounding its 737 MAX—the fourth generation of a 1967 jet—have dashed plans to build a new midrange plane. A replacement for the MAX isn't yet in the cards either. Any clean-sheet model will require digital design tools that will take at least a couple of years to be ready, Boeing chief executive David Calhoun told investors in June.</p><p>Pressure from bean counters underlies the current thinking. Whatever critics of the MAX might say, upgrading planes makes more financial sense than designing new ones: Expenses are lower, adoption by airlines is easier and there is less risk of cannibalizing sales of older models.</p><p>Today, manufacturers see even less of a business case for clean-sheet jets. The 20% reduction in fuel consumption new planes have achieved in the past may be hard to repeat, given that the low-hanging fruit in airframe and turbofan technology has already fallen. Most of the improvement historically came from engines, which is why CFM—a joint venture between General Electric and Safran—is studying whether \"open fan\" architectures can deliver another step-change in efficiency. But this could take decades.</p><p>Yet, with some short-term financial compromise, technological stagnation isn't inevitable. The newest engines built by CFM and its competitor Pratt &amp; Whitney each have technology that the other lacks—cutting-edge materials and a gearbox, respectively. Crossbreeding them is certain to work. Alone, it could take each firm 15 years to acquire the necessary capabilities and overcome intellectual-property issues, but the right combination of ambition, government incentives and collaboration could bring it forward.</p><p>Likewise, the ICCT's optimistic post-2035 scenarios include advances such as building narrow-bodies with composites and futuristic wings like those explored by Airbus' \"X-Wing\" demonstrator. Taking sustainability seriously would mean giving priority to clean-sheet designs with such features.</p><p>Accelerating new generations of old technologies is always a safer bet than trying out flashier ideas. But plane makers may need to accept lower returns on investment today as the price of reducing the green backlash further down the line.</p><p>Write to Jon Sindreu at jon.sindreu@wsj.com</p><p>Boeing and Airbus Want to Get Greener. Why Aren't They Building New Planes?</p>",
+  "published": "2022-08-26T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.99952,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 132,
+          "end": 138
+        },
+        {
+          "start": 133,
+          "end": 139
+        },
+        {
+          "start": 2758,
+          "end": 2764
+        },
+        {
+          "start": 3070,
+          "end": 3076
+        },
+        {
+          "start": 4999,
+          "end": 5005
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "d44148b027bcd9d33d459ff9400dcb723a5619111beb700d79fe77d2c26e93fa",
+  "feed": "wall-street-journal",
+  "title": "Apple's iPhone 14 Satellite Emergency SOS Is Live. You'll Hopefully Never Use It. If you're ever in trouble and out of cell-service range, Apple's new emergency messaging could help. Otherwise, you would never know it was there.",
+  "text": "<p>If you are running iOS 16.1 in the U.S. and Canada, the Emergency SOS area in the Settings menu will now display information about the service. No need to download anything extra. Apple plans to expand the service in France, Germany, Ireland and the U.K. next month.</p><p>In fact, if you never checked that hidden settings area, you might never know the phone was capable of beaming messages up to satellites in the sky. Just like you might not know the phone has car crash detection, which can automatically alert emergency services if you're in a car crash—or on a roller-coaster ride!</p><p>In September, I was able to test the crash detection with the help of a derby driver. Now, I've had a chance to test the satellite feature with the help of Apple. The company gave me a demo device with cellular radios disabled so I could experience emergency messaging without having to go on some extreme, off-grid adventure. The company also ensured my messages didn't actually go to emergency services.</p><p>I honestly don't know why Apple didn't call its latest model the iPhone 911. Way back when, we primarily bought cellphones for emergency calls. Now, the company has new tech to overcome obstacles in doing exactly that. I just wish the satellite connectivity would do more than help in emergencies. </p><p>If you dial 911 in an area with no cellular service, you'll see this Emergency Text via Satellite button. PHOTO: Kenny Wassus / The Wall Street Journal</p><p>How It Works</p><p>No one likes to imagine themselves in a serious emergency but I needed one for this demonstration. So, as you'll see in the video above, I made one up.</p><p>In need of help, I dialed 911 on the iPhone 14 Plus but because there was no cellphone service, the call couldn't be completed. A green SOS message button in the bottom right said \"Emergency Text via Satellite,\" and a message on top of the call-screen read \"No Connection, Try Emergency Text via Satellite.\"</p><p>After pressing the button, you fill out a multiple-choice questionnaire: What's the emergency? (Car or vehicle issue, sickness or injury, etc.) Who needs help? (Me, Someone Else, Multiple People.) How are you breathing? (Normally, With Difficulty.) Do you want to notify emergency contacts?</p><p>Then comes the connection, which in my tests took anywhere from 20 seconds to a minute to connect. The phone prompts you to move in different directions so you're aligned with the satellite. As with other satellite technologies, you must be outdoors with a clear view of the sky—which could limit its usefulness in certain emergencies. As soon as you're connected, the iPhone sends your location, your questionnaire answers and your Medical ID (if you've filled this out in the Health app). During one of my tests, the connection dropped and it took a few seconds to reconnect.</p><p>Where the messages are sent depends on your location. If local responders can't receive text messages, the message goes to an Apple relay center, where the person will then contact local responders to share your information and get you help. In either case, a dispatcher may ask some additional questions via text. Mine asked me for more details on my location. \"Near a bridge. And a path. And a tree,\" I typed into the chat. It took about 15 seconds for the message to send via the satellite connection. Apple suggests keeping the messages short so there is less data to send. </p><p>A dispatcher may ask additional questions via text message. PHOTO: Kenny Wassus / The Wall Street Journal</p><p>I fear that in a real emergency, people could be confused by the slower connection and multiple steps. Apple has a demo mode in the settings menu so people can practice this on their own. Because who doesn't love simulating near-death emergencies in their free time?</p><p>One nonemergency feature does work: When you're away from the cellular network, you can update your current location via satellite using the Find My app.</p><p>How It Doesn't Work</p><p>What you can't do is send messages to friends or family via satellite. Even your emergency contacts can only receive your location and view your conversation with the responder.</p><p>Satellite communicators like the $400 Garmin inReach Mini 2 and the $250 Spot X give you more flexibility. While both have emergency SOS features, they also let you send messages to your contacts, get weather updates and share your location. I paired the inReach Mini with an iPhone 14 Pro, launched the Garmin Explore app and was able to send short messages via satellite to family and colleagues. Similarly, I had to be outside and they were slow to send—like sending a message when stuck in an elevator. I could do the same on the Spot X, which I prefer for its touch screen and hardware keyboard. </p><p>The $400 Garmin inReach Mini 2 and the $250 Spot X are dedicated satellite-communication devices. PHOTO: Kenny Wassus / The Wall Street Journal</p><p>The Garmin and Spot X, however, require monthly subscriptions. Apple says its SOS feature is free for the first two years, but didn't say what it will charge after that.</p><p>SHARE YOUR THOUGHTS</p><p>Would you upgrade to an iPhone 14 for the satellite connectivity? If not that, what might get you to upgrade? Join the conversation below.</p><p>If I were a betting woman, however, I'd put at least $15 on Apple building out a subscription satellite service of its own in the future, offering features beyond emergency services, including messaging and more. Why else would the company strike an exclusive deal with Globalstar Inc. and invest $450 million in the infrastructure?</p><p>As the company continues to look for additional services and add products that appeal to the extreme adventurer, like the Apple Watch Ultra, I'd say we should watch this…space.</p><p>— Sign up here for Tech Things With Joanna Stern , a new weekly newsletter. Everything is now a tech thing. Columnist Joanna Stern is your guide, giving analysis and answering your questions about our always-connected world.</p><p>Write to Joanna Stern at joanna.stern@wsj.com</p><p>Apple's iPhone 14 Satellite Emergency SOS Is Live. You'll Hopefully Never Use It.</p>",
+  "published": "2022-11-15T13:02:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 139,
+          "end": 144
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3286,
+          "end": 3291
+        },
+        {
+          "start": 2907,
+          "end": 2912
+        },
+        {
+          "start": 5218,
+          "end": 5223
+        },
+        {
+          "start": 180,
+          "end": 185
+        },
+        {
+          "start": 4892,
+          "end": 4897
+        },
+        {
+          "start": 1015,
+          "end": 1020
+        },
+        {
+          "start": 5613,
+          "end": 5624
+        },
+        {
+          "start": 3568,
+          "end": 3573
+        },
+        {
+          "start": 5939,
+          "end": 5944
+        },
+        {
+          "start": 739,
+          "end": 744
+        },
+        {
+          "start": 5613,
+          "end": 5618
+        }
+      ]
+    }
+  ]
+}

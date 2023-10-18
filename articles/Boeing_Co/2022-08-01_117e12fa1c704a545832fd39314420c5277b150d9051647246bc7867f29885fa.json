@@ -1,0 +1,24 @@
+{
+  "_id": "117e12fa1c704a545832fd39314420c5277b150d9051647246bc7867f29885fa",
+  "feed": "wall-street-journal",
+  "title": "Business News: Boeing Workers Set Vote on New Offer",
+  "text": "<p>Boeing said it was hopeful workers will accept the new offer, which addressed issues employees had previously raised during negotiations.</p><p>The contract dispute has largely focused on retirement benefits for the St. Louis-area workers.</p><p>The company's proposed three-year contract offers new workers an $8,000 lump-sum payment and scraps earlier plans to cut company contributions to employees' 401(k) savings plans.</p><p>A strike could start on Thursday if employees reject the proposal.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 0,
+          "end": 6
+        }
+      ]
+    }
+  ]
+}

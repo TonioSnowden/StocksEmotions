@@ -1,0 +1,36 @@
+{
+  "_id": "7b24d5f8248c0cd2469c60ec0c8293df1bc5b268688c4e7675e44f079731ae28",
+  "feed": "wall-street-journal",
+  "title": "Chip Makers  Talk Big  About Size  ---  The race to be  small sparks  confusion  ----  By Jiyoung Sohn and Yang Jie",
+  "text": "<p>   The makers of semiconductors running smartphones, TVs and other electronic gizmos like to brag about the power of their components. They also boast that the chips doing all the complex work are shrinking. </p><p>   The race to miniaturization signals breakthroughs in processing speed or energy consumption and can help win lucrative contracts. </p><p>   But the battle to be the top small-fry has led to big confusion. Chips carry a number tied to the size of its transistors, and, for years, it was believed that the lower the number, the better the chip. Now, everyone is sort of making up their own standards. </p><p>   When Samsung Electronics Co. recently started mass production of what it called the industry's first 3-nanometer chip, company executives celebrated the moment by holding up three fingers. But ask chief rivals Taiwan Semiconductor Manufacturing Co. and Intel Corp., and they would likely suggest the South Koreans hold up another finger, if not more. </p><p>   \"Please,\" said Jui-Lin Yang, a consulting director at a Taiwanese research center with close ties to TSMC, \"do not focus on the number three.\" </p><p>   Meanwhile, it isn't clear if Samsung's 3-nanometer chip outperforms the 4-nanometer chip from TSMC, based on the numeric claim alone, according to Willy Shih, a professor at Harvard Business School. </p><p>   \"The triumph of marketing hype,\" he said of the industry's nanometer labels. \"Three is better than four.\" </p><p>   Samsung declined to comment about comparisons with TSMC products. The company said its latest chip had improved from prior offerings that used the older 5-nanometer process technology. </p><p>   The semiconductor fibs echo marketing gimmicks in other industries, such as the variation in modern clothing sizes that make room for men with 34-inch waists, for instance, to fit into pants marked as \"32.\" </p><p>   The semiconductor industry used to band together to create common measuring definitions. For decades, they marched in step with Moore's Law, the 1965 prediction that the number of transistors packed onto a chip would double every year (later amended to roughly every two years). Breakthroughs in miniaturization, known as nodes, helped shrink refrigerator-size computers to laptops, smartphones and wristwatches. </p><p>   Complicating matters further, the number of companies pursuing cutting-edge chip production has shrunk over the decades from dozens to three: TSMC, Samsung and Intel. </p><p>   That has added incentives to stand out in the market, even if the companies have, literally, very little to work with. The most advanced semiconductors have shrunk a chip's circuitry to the size of a few atoms. Chip makers mark their tech prowess in this Lilliputian world by the nanometer, a billionth of a meter. This marquee number refers to the length of a key component of transistors -- called a gate -- that regulates the flow of electricity. Smaller gates translate to smaller transistors, and the smaller the transistor, the more of them that fit onto a single chip. </p><p>   As the nanometer numbers head closer to toward zero, sizing them up has become increasingly lawless. The nanometer nomenclature is now a better measure of how far companies are willing to stretch the truth. </p><p>   Intel, having fallen behind TSMC and Samsung in tech advances, rebranded its entire high-end chip library last year. The 10-nanometer chip became an \"Intel 7.\" Chief Executive Pat Gelsinger acknowledged at the time that such industry labels, including Intel's, \"no longer refer to any specific measurement.\" </p><p>   The chip world saw a rare nanometer showdown in 2015, which helped deflate the value of the number labels. Apple Inc., for its iPhone 6S series, hired both TSMC and Samsung to make its \"system-on-a-chip\" component, essentially the brains of its smartphone. </p><p>   Samsung provided Apple with 14-nanometer chips; TSMC supplied 16-nanometer ones. After the iPhone 6s was released, tech reviewers, testing performance side by side, concluded the TSMC-run iPhones performed slightly better, with less overheating and better battery performance. Apple currently uses TSMC exclusively for iPhone system-on-a-chip orders. </p><p>   The duel bared the industry's barely veiled secret, according to people familiar with the matter. Neither the TSMC nor Samsung chip matched its label. Both were roughly 30-nanometer chips in measurement, the people said. </p><p>   \"If they were in math class, I'd rap all their hands with a ruler,\" says David Kanter, a semiconductor and computing expert, who has consulted for such chip makers as Intel and Qualcomm Inc. </p><p></p>",
+  "published": "2022-07-29T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3563,
+          "end": 3573
+        },
+        {
+          "start": 3730,
+          "end": 3735
+        },
+        {
+          "start": 3990,
+          "end": 3995
+        },
+        {
+          "start": 3563,
+          "end": 3568
+        },
+        {
+          "start": 3563,
+          "end": 3572
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "9aa550d7e03e0b4e1b31a486fd3e9c7d574f194a1394be95edc375ac27338fc2",
+  "feed": "market-watch",
+  "title": "3M stock suffers worst day since 2019 after judge denies protection from earplug lawsuits; 3M says it will appeal ruling",
+  "text": "<p>\"We are disappointed in the court's ruling today and will be filing an appeal,\" 3M said in a statement posted to its website. \"Continuing to litigate these cases one-by-one over the coming years will not provide certainty or fairness for any party. The well-established Chapter 11 process provides a simpler, more efficient path to resolution without the uncertainty and inequity of continuing to litigate.\"</p><p>See more: In a busy morning 3M announces healthcare spin off, mixed earnings and subsidiary's voluntary bankruptcy</p><p>3M's stock logged its largest single-day percentage decline since April 25, 2019, when it dropped 13%, according to Dow Jones Market Data, which also noted that 3M was the worst performer in the Dow Jones Industrial Average DJIA and the S&amp;P 500 SPX on Friday.</p><p>The stock shaved 89.77 points off the Dow industrials, which was down 1,008 pointson the day.</p><p>3M was the ninth most actively traded stock in the S&amp;P 500 Friday.</p><p>The company \"remains committed to provide $1 billion to a trust to help resolve these claims through the Chapter 11 process,\" it said in Friday's release.</p><p>However, a legal professor told MarketWatch when 3M had discussed the trust back in July that $1 billion likely wouldn't be enough to settle the claims.The lead counsel for the plaintiffs also called the trust \"woefully underfunded.\"</p><p>Shares of 3M have declined 34% over the past 12 months as the Dow has lost 8% over the same period.</p><p>3M stock suffers worst day since 2019 after judge denies protection from earplug lawsuits</p>",
+  "published": "2022-08-26T20:38:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99968,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 2
+        },
+        {
+          "start": 91,
+          "end": 93
+        },
+        {
+          "start": 433,
+          "end": 435
+        },
+        {
+          "start": 520,
+          "end": 522
+        },
+        {
+          "start": 681,
+          "end": 683
+        },
+        {
+          "start": 872,
+          "end": 874
+        },
+        {
+          "start": 1335,
+          "end": 1337
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

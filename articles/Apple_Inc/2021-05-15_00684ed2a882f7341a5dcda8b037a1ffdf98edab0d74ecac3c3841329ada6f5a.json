@@ -1,0 +1,28 @@
+{
+  "_id": "00684ed2a882f7341a5dcda8b037a1ffdf98edab0d74ecac3c3841329ada6f5a",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Facebook Set Back in Ruling Over Data Flows",
+  "text": "<p>The preliminary decision, which the court stayed in September pending its decision, could, if finalized, force the social-media company to suspend sending personal information about EU users to Facebook's servers in the U.S.</p><p>While Friday's court decision is a procedural one, the underlying questions are central to trans-Atlantic trade and the digital economy. Legal experts say the logic in Ireland's provisional order could apply to other large tech companies that are subject to U.S. surveillance laws, such as cloud services and email providers -- potentially leading to widespread disruption of trans-Atlantic data flows. In the balance are potentially billions of dollars of business in the cloud-computing, social-media and advertising industries.</p><p>Ireland's DPC leads enforcement of EU privacy law for Facebook and other companies that have their European headquarters in the country. The commission still needs to finalize its draft decision ordering a suspension of data transfers and submit it to other EU privacy regulators for approval before it becomes effective. That process could take months, before counting any further court challenges.</p><p>If the order is put into effect, Facebook will likely have to re-engineer its service to silo off most data it collects from European users, or stop serving them entirely, at least temporarily.</p><p>The social-media company said that Friday's court decision was procedural and that it planned to defend its data transfers before the DPC. It added that the regulator's preliminary decision could be \"damaging not only to Facebook, but also to users and other businesses.\"</p><p>The DPC said it welcomed the judgment.</p><p>The Wall Street Journal reported on Ireland's move in September. Facebook challenged the decision in court days later, arguing that the regulator had suggested a preliminary conclusion too hastily, without awaiting guidance from other EU regulators.</p><p>The move was the first significant step EU regulators had taken to enforce a July ruling from the bloc's top court about data transfers. That ruling restricted how companies like Facebook could send personal information about Europeans to the U.S., because it found that Europeans had no effective way to challenge American government surveillance.</p><p>How Ireland's DPC enforces the ruling is being closely watched, because it leads EU privacy enforcement for several other tech companies, including Alphabet Inc.'s Google, Apple Inc. and Twitter Inc., which have their European headquarters in the country.</p><p>Some lawyers say resolving the issue could require changes to U.S. surveillance laws to give more legal rights to Europeans. It could also become a spur for the U.S. to adopt broader privacy legislation.</p><p>After the EU's Court of Justice decision last summer, tech lobbyists initially signaled optimism that data flows might remain largely unaffected, with only contractual changes necessary. But since then, EU regulators, in addition to Ireland, have started issuing orders to suspend some data transfers. In April, Portugal's privacy regulator ordered the national statistics agency to stop sending census data to the U.S., where it was being processed by Cloudflare Inc.</p>",
+  "published": "2021-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2432,
+          "end": 2441
+        },
+        {
+          "start": 2432,
+          "end": 2442
+        },
+        {
+          "start": 2432,
+          "end": 2437
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

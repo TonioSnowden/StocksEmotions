@@ -1,0 +1,28 @@
+{
+  "_id": "c1dec71a04555d87ecd328fea80fffefcfb2c04447749048177ac41a796d3b23",
+  "feed": "market-watch",
+  "title": "The No. 1 way cybercriminals use employees to attack office equipment with malware — and why workers fall for it",
+  "text": "<p>The phishing may start with an email designed to resemble a legitimate company, and contain a fake invoice or merely ask the recipient to review a document that looks like an HTML file, but is actually a downloadable PDF.</p><p>A new report by Netskope, a software company providing computer security, looked at ways cybercriminals were gaining access to people's work computer systems. The most popular way? Through the cloud.</p><p>Google Drive GOOG was the top app for malware downloads in 2021, taking over the No. 1 spot from Microsoft OneDrive MSFT. The percentage of malware downloads from cloud apps hovered at 66%, up from 46% in 2020.</p><p>“More than half of managed cloud app instances are targeted by credential attacks, while the sources of such attacks shift from a few heavy hitters to a more decentralized attack,” the authors of the report wrote.</p><p>They also said the “Great Resignation” has created new challenges for companies. “More than one out of every seven people are using personal Cloud Storage apps to take data with them when they leave,” the report added.</p><p>Clouds provide easy access for cybercriminals. “Attackers create their own free accounts, upload malicious payloads, and share them publicly or with specific victims,” according to Netskope.</p><p>Google did not respond to a request for comment, but a Microsoft spokeswoman said: “Abuse of cloud storage is an industry-wide issue and we're constantly working to reduce the use of Microsoft services to cause harm.”</p><p>“We are investigating further improvements to prevent and rapidly respond to the types of abuse listed in this report, such as our&#xa0;recent announcement&#xa0;that VBA macros obtained from the internet will now be blocked by default,” she added.</p><p>In a statement to MarketWatch, she advised customers to “exercise caution when clicking on links to web pages, opening unknown files, or accepting file transfers, and we also encourage customers to report abuse using this form.”</p><p>Workers are also at risk if they are using their work equipment for personal use, particularly online shopping, but those scams typically involve scam artists getting their hands on a person's credit-card details.</p><p>The Federal Trade Commission said there were 57,769 online shopping fraud reports from Jan. 1 to Oct. 18, followed by travel scams (46,458), diet scams (15,713), government imposters (12,491) and business imposters (8,794).</p><p>Bottom line: phone calls, emails and fake websites are all designed to catch you off-guard. You may, for instance, be stressed out or tired after a long day's work and panic if you see a message purported to be about your latest trip or purchase.</p>",
+  "published": "2022-02-09T16:26:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1312,
+          "end": 1321
+        },
+        {
+          "start": 1440,
+          "end": 1449
+        },
+        {
+          "start": 519,
+          "end": 528
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "82134d2d01569cdd3b9bc99e7cb60e1778cfc9de375707ed6db773f7135a2557",
+  "feed": "market-watch",
+  "title": "Zoom Video cuts earnings and revenue outlook for the year, stock falls; CFO points to strength of dollar, decline in usage for pulling back on expectations for the year",
+  "text": "<p>The better-than-expected earnings were undercut, however, by a chopped forecast for the full year. Zoom executives said they now expect full-year adjusted earnings of $3.66 to $3.69 a share on revenue of roughly $4.39 billion, down from $3.70 to $3.77 a share on sales of $4.53 billion to $4.55 billion. For the third quarter, they expect 82 to 83 cents a share on revenue of about $1.1 billion, while analysts on average had been projecting 92 cents a share on sales of $1.15 billion, according to FactSet.</p><p>Zoom Chief Financial Officer Kelly Steckelberg blamed a stronger U.S. dollar — a problem many global tech companies have called out in recent earnings reports — but also a decline in \"the online business,\" or the more casual Zoom user.</p><p>\"While we saw continued momentum with our Enterprise customers, and our non-GAAP operating income came in meaningfully higher than our outlook, our revenue was impacted by the strengthening of the U.S. dollar, performance of the online business, and to a lesser extent sales weighted to the back end of the quarter,\" he said in a statement included with the results.</p><p>Zoom shares declined more than 4% in after-hours trading immediately following release of the results, after closing with a 2.1% decline at $97.44.</p><p>The ongoing friction between employees who wish to continue to work from home and employers like Apple Inc. AAPL, Alphabet Inc.'s GOOGL GOOG Google and Facebook parent company Meta Platforms Inc. META — all of whom are sitting on acres of unused commercial real estate and asking workers to come in at least twice a week — could have a profound impact on Zoom.</p><p>A group of Apple employees on Monday launched a petition asking CEO Tim Cook for a more flexible work policy.</p><p>Then there is Microsoft Corp.'s MSFT Teams, a competing service embedded within enterprises as part of the software giant's sprawling installed base of licensees. It has displaced Zoom at some companies, according to Citi Research analyst Tyler Radke.</p><p>Read more: Zoom faces a threat from Microsoft Teams, but how great is the risk?</p><p>Zoom's stock is down 47% so far in 2022. The broader S&amp;P 500 index SPX has slid 13% this year.</p><p>Zoom Video cuts earnings and revenue outlook for the year, stock falls</p>",
+  "published": "2022-08-22T20:25:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99891996,
+      "offsets": [
+        {
+          "start": 1350,
+          "end": 1359
+        },
+        {
+          "start": 1356,
+          "end": 1366
+        },
+        {
+          "start": 1367,
+          "end": 1371
+        },
+        {
+          "start": 1624,
+          "end": 1629
+        },
+        {
+          "start": 1631,
+          "end": 1636
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.415003,
+        "baseWeight": 5.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.58500004,
+        "tagPositionWeight": 2.7418137e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

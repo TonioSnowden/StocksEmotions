@@ -1,0 +1,36 @@
+{
+  "_id": "f11afdcdd6897d51a6f65cd70fd6c5ab70f0a1911619d0b1eab77992c1691fd4",
+  "feed": "wall-street-journal",
+  "title": "For Users With Disabilities, Paid Apps Lag Behind Free Ones in Accessibility, Report Shows; Advocates say they expect the discrepancies found in testing to lessen over time as digital accessibility becomes more familiar to developers",
+  "text": "<p>Top free apps, which consist of bigger companies such as Meta Inc.'s Facebook and Instagram or Snap Inc.'s Snapchat, tend to include such accessibility features because they have more users providing feedback and greater resources to tackle problems, said Joe Devon, co-founder of Diamond, which is operated by StartupDevs Inc.</p><p>Screen readers, for instance, were able to help people use the core functions of 80% of leading free apps in Apple Inc.'s App Store, compared with 10% of paid ones, according to the report from Diamond. A screen reader is an assistive technology for people with vision disabilities that can read and speak text, images and buttons displayed on a screen.</p><p>Screen readers were effective for the main features of 65% of the biggest free Android apps on the Google Play Store, compared with 40% of paid ones, Diamond said.</p><p>Accessibility for digital products has become a growing area of interest for companies, particularly as the pandemic drove more people to conduct more of their activities online, advocates say. Businesses are creating positions with titles such as \"head of accessibility\" to help make sure their products work for people with disabilities.</p><p>Lawsuits alleging that websites, apps and digital videos were inaccessible have risen as well, prompting many companies to invest in accessibility checkers and services.</p><p>In its testing, Diamond also examined how challenging it would be for people with disabilities using screen readers to register, sign in and sign out of free apps. It ranked 65% percent of free App Store apps and 75% of Android apps as accessible, according to the report. Diamond didn't include paid apps in that exercise because registering for them is subsumed into the purchase process in the Apple and Android app stores.</p><p>A final focus checked whether apps' registration and home screens change orientation if users rotated their devices, enlarging the text in the process, and whether their images include alternative text, descriptions that screen readers use. These functions can aid those with disabilities or other limitations to understand what is being displayed on a screen.</p><p>Fifty-nine percent of free App Store apps passed that test, compared with 35% of paid ones, the report said. Sixty-two percent of free Android apps fared well in these tests, as opposed to 29% of paid ones.</p><p>An analysis of the Alexa top 100 websites, a service that measures traffic rankings from Amazon.com Inc., found that 62% were fully accessible, an increase from 40% in 2020 and 29% in 2019, Diamond said. This was the first time its report addressed the accessibility of apps.</p><p>Zoom Video Communications Inc. met the report's criteria for accessibility testing across Apple's iOS operating system, Android and on the web, Diamond said. The videoconferencing platform has also rolled out accessibility features that extend beyond screen reader capabilities, such as expanding automated captions to free accounts in October. The feature was previously restricted to paying customers or to users who requested it via a form.</p><p>DoorDash Inc. was another top-performing free mobile app for screen reader usability across iOS and Android, Diamond said. The delivery app accounts for accessibility in each new feature it introduces, said Rajat Shroff, vice president of product and design at the company.</p><p>When DoorDash rolled out contactless delivery during the pandemic and began sending customers photos that showed where drivers had left orders, for example, it included optional written descriptions for customers using screen readers, Mr. Shroff said.</p><p>DoorDash plans to add more automated accessibility testing in 2022, he added.</p><p>Many of the shortcomings cited in Diamond's report will likely lessen over time as digital accessibility becomes a more familiar concept, said Samuel Proulx, accessibility evangelist at Fable Tech Labs Inc., an accessibility-testing platform.</p><p>Diversity and inclusion efforts are beginning to include accessibility as well, making the topic a bigger priority than in previous years, he said.</p><p>\"People are coming to understand that accessibility is also part of diversity and it needs to be handled in the same way that you handle your other diversity efforts—that is, spread throughout your teams, integrated into your processes,\" Mr. Proulx said.</p><p>Write to Ann-Marie Alcántara at ann-marie.alcantara@wsj.com</p><p>For Users With Disabilities, Paid Apps Lag Behind Free Ones in Accessibility, Report Shows</p>",
+  "published": "2021-12-20T18:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2717,
+          "end": 2722
+        },
+        {
+          "start": 437,
+          "end": 446
+        },
+        {
+          "start": 1753,
+          "end": 1758
+        },
+        {
+          "start": 437,
+          "end": 447
+        },
+        {
+          "start": 437,
+          "end": 442
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

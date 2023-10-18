@@ -1,0 +1,34 @@
+{
+  "_id": "3e2cb5399dab3dcbcd86ef6b1efe98db6198a675c69f088e695c5327c90b9ae2",
+  "feed": "wall-street-journal",
+  "title": "CVS, Walgreens and Walmart Ordered to Pay $650 Million to Ohio Counties in Opioid Case; Jury last year found pharmacies liable for contributing to opioid epidemic in Lake and Trumbull counties",
+  "text": "<p>U.S. Judge Dan Polster in Cleveland issued his order on Wednesday after a separate nonjury trial was held to determine the appropriate amount the companies must pay.</p><p>Judge Polster ruled that the defendants were responsible for a portion of plans created for Lake and Trumbull counties, the plaintiffs in the case, to address problems linked to the opioid epidemic. He ordered the companies to immediately pay two year's worth of those payments into a fund, or $86.7 million of the total $650.6 million.</p><p>Walmart Inc. said it would appeal the decision. \"Plaintiffs' attorneys sued Walmart in search of deep pockets,\" the company said in a statement.</p><p>Michael DeAngelis, the executive director for corporate communications for CVS Health Corp., said the company looks forward to an appeals court review of the case.</p><p>\"We strongly disagree with the Court's decision regarding the counties' abatement plan, as well as last fall's underlying verdict,\" said Mr. DeAngelis. \"Pharmacists fill legal prescriptions written by DEA-licensed doctors who prescribe legal, FDA-approved substances to treat actual patients in need.\"</p><p>Fraser Engerman, a spokesman for Walgreen Co., said the facts and the law didn't support the jury verdict last fall, nor did they support the court's decision Wednesday. \"As we have said throughout this process, we never manufactured or marketed opioids nor did we distribute them to the \"pill mills\" and internet pharmacies that fueled this crisis,\" Mr. Engerman said. Walgreen Co.'s parent company is Walgreens Boots Alliance Inc., which operates pharmacies in the U.S. and internationally.</p><p>Attorneys for Lake and Trumbull counties had argued in their lawsuit that the pharmacies failed to stop pain pills from flooding the northeastern Ohio counties and false prescriptions from being filled. More than 80 million opioid pills were shipped to Trumbull County, with a population of less than 200,000, from 2006 to 2012, according to government data. More than 60 million opioid pills were shipped to Lake County, with a population of about 230,000, over that period.</p><p>The counties argued that by enabling the opioid crisis the pharmacy companies had created a public nuisance costing them each about $1 billion in law-enforcement, social-services and court expenses.</p><p>\"Today's decision means that the Lake County and Trumbull County communities will soon receive the long overdue recovery funds they need to address the effects of the opioid epidemic locally,\" the attorneys said in a joint statement Wednesday.</p><p>The order is the latest decision in opioid-related lawsuits aimed at pharmacy chains around the U.S.</p><p>Last week, a federal judge in San Francisco found Walgreen Co. helped exacerbate the opioid epidemic in the city. Walgreens, the largest retail pharmacy in San Francisco, for more than a decade failed to adequately halt suspicious orders of opioids that could be used illegally, U.S. District Judge Charles R. Breyer said in his opinion. He found the company liable \"for substantially contributing to the public nuisance,\" the opioid epidemic, in San Francisco, he wrote.</p><p>In July 2021, states announced a $26 billion settlement with drug companies, including distributors McKesson Corp., AmerisourceBergen Corp., and Cardinal Health Inc., as well as drugmaker Johnson &amp; Johnson, to resolve thousands of opioid-crisis related lawsuits. Cities and counties would use the money to bolster social services focused on the harms of opioid addiction as well as for funds for first responders, they said.</p><p>Write to Talal Ansari at talal.ansari@wsj.com</p><p>CVS, Walgreens and Walmart Ordered to Pay $650 Million to Ohio Counties in Opioid Case</p>",
+  "published": "2022-08-17T20:26:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1517,
+          "end": 1546
+        },
+        {
+          "start": 1507,
+          "end": 1536
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8050005,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 5.9604645e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

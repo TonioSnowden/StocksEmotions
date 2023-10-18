@@ -1,0 +1,32 @@
+{
+  "_id": "f956e37d4ac8f6d6e50d3836d729d450de701ed5859e92395206c182c721354f",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Kia Seeks Partners To Build Apple Car",
+  "text": "<p>The likelihood of a final agreement was thrown into question when Kia's parent company, Hyundai Motor Co., said last month -- then sought to play it down -- that it was in negotiations with Apple to cooperate on an electric driverless car. Apple has never confirmed those talks, and its dealings with other auto makers in the past have fizzled.</p><p>Hyundai has talked to Apple about investing more than $3 billion in a deal that would see Kia begin building cars under the tech company's brand as soon as 2024, a person familiar with the matter said. Under such an agreement, as many as 100,000 vehicles could be assembled in the first year in Georgia, the person said.</p>",
+  "published": "2021-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 367,
+          "end": 372
+        },
+        {
+          "start": 190,
+          "end": 195
+        },
+        {
+          "start": 240,
+          "end": 245
+        },
+        {
+          "start": 39,
+          "end": 44
+        }
+      ]
+    }
+  ]
+}

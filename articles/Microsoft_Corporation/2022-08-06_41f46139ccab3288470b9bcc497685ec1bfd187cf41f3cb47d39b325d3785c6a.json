@@ -1,0 +1,24 @@
+{
+  "_id": "41f46139ccab3288470b9bcc497685ec1bfd187cf41f3cb47d39b325d3785c6a",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Oracle Lays Off Hundreds Of Workers",
+  "text": "<p>The cuts come as the company is putting increased emphasis on cloud-healthcare services after recently receiving regulatory approval for its $28.3 billion deal for electronic-medical-records company Cerner Corp. They are hitting a unit that has become less central to Oracle at a time the digital ad market is in turmoil. The layoffs were earlier reported by The Information.</p><p>The Austin, Texas-based company is the latest tech company to slow hiring or cut staff. Those include Microsoft Corp., Robinhood Markets Inc., Netflix Inc. and Tesla Inc. The staffing adjustments happen as many tech companies come off a period of supercharged growth that fueled hiring.</p><p>Oracle employees were told that they were being laid off because of fiscal year 2023 restructuring and realignment due to new leadership, said laid-off employees. Some layoffs also landed at Cerner as part of the integration of the business into Oracle, one of the people said.</p><p>\"All of this is retooling the whole company to focus on healthcare,\" said Ray Wang, an analyst with Constellation Research Inc.</p>",
+  "published": "2022-08-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 478,
+          "end": 487
+        },
+        {
+          "start": 478,
+          "end": 493
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

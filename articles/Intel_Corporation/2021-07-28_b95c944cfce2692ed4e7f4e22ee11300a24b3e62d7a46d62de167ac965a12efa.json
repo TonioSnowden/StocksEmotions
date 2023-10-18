@@ -1,0 +1,120 @@
+{
+  "_id": "b95c944cfce2692ed4e7f4e22ee11300a24b3e62d7a46d62de167ac965a12efa",
+  "feed": "wall-street-journal",
+  "title": "Intel Plans to Move Faster and Break Things",
+  "text": "<p>On Monday, Intel outlined a new road map for its manufacturing processes. These have become crucial as the chip maker has fallen behind Taiwan Semiconductor Manufacturing, or TSMC, in its ability to produce the most advanced chips. That has allowed TSMC customers such as Advanced Micro Devices to take share from Intel in the key markets of personal computers and data centers. Intel's most advanced chips currently in production use circuitry measured at 10 nanometers. TSMC is already producing chips at 5 nanometers.</p><p>Intel plans to reach \"processor performance parity\" with its rival by 2024. But that won't necessarily mean matching TSMC on the same specs. As part of its new road map, Intel has renamed the milestones to de-emphasize the use of traditional nanometer-based benchmarks. Hence, an improved version of its 10-nanometer process is now called Intel 7, while the 7-nanometer process the company has been working hard to get ready for volume production is now called Intel 4. Chips based on the Intel 4 process are expected to start shipping in 2023 -- in line with previous 7-nanometer targets.</p><p>In other words, not a huge change outside of nomenclature, or \"refreshing our lexicon,\" as Intel Chief Executive Pat Gelsinger put it Monday.</p><p>Semiconductor experts have long pointed out that the traditional nanometer-based metric doesn't fully account for a chip's performance. Still, Intel's goal is a bold one, with Chris Caso of Raymond James noting that it requires \"a full process node improvement each year for the next 4 years.\" It also banks heavily on Intel's belief that it can use its chip packaging technology -- referring to the housing that connects the integrated circuits on a processor -- to also help close the performance gap with TSMC's products.</p><p>Time will tell. Consumers who buy products such as PCs and smartphones pay little to any attention to how the chips powering those devices are made and the most important chip buyers these days aren't going to be swayed by any marketing terms from any company. Demanding cloud service providers such as Amazon, Microsoft and Google have built up strong, in-house semiconductor expertise to both design their own silicon as well as to evaluate chips from vendors such as Intel, AMD and Nvidia. Intel did notch a nice win with Amazon, saying Monday that the technology giant's AWS cloud business has agreed to adopt the packaging technology Intel plans to make available to customers of its new foundry business.</p><p>The cost of Intel's new plan is also a big question. The company didn't lay out financial details Monday, promising instead to cover that territory at an analyst meeting in November. Analysts are bracing themselves. Several expect a hit to the company's gross margins, which already have slipped more than 6 percentage points over the past three years, ending 2020 at 56%. Christopher Danely of Citi said he thinks Intel's gross margins might even enter the 40% range -- which hasn't happened since 2001, according to data from S&amp;P Global Market Intelligence.</p><p>Playing catch-up doesn't come cheap.</p>",
+  "published": "2021-07-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 11,
+          "end": 16
+        },
+        {
+          "start": 312,
+          "end": 317
+        },
+        {
+          "start": 314,
+          "end": 319
+        },
+        {
+          "start": 376,
+          "end": 381
+        },
+        {
+          "start": 379,
+          "end": 384
+        },
+        {
+          "start": 516,
+          "end": 521
+        },
+        {
+          "start": 521,
+          "end": 526
+        },
+        {
+          "start": 684,
+          "end": 689
+        },
+        {
+          "start": 691,
+          "end": 696
+        },
+        {
+          "start": 860,
+          "end": 865
+        },
+        {
+          "start": 982,
+          "end": 987
+        },
+        {
+          "start": 1010,
+          "end": 1015
+        },
+        {
+          "start": 1192,
+          "end": 1197
+        },
+        {
+          "start": 1396,
+          "end": 1401
+        },
+        {
+          "start": 1559,
+          "end": 1564
+        },
+        {
+          "start": 1572,
+          "end": 1577
+        },
+        {
+          "start": 2232,
+          "end": 2237
+        },
+        {
+          "start": 2248,
+          "end": 2253
+        },
+        {
+          "start": 2254,
+          "end": 2259
+        },
+        {
+          "start": 2400,
+          "end": 2405
+        },
+        {
+          "start": 2417,
+          "end": 2422
+        },
+        {
+          "start": 2483,
+          "end": 2488
+        },
+        {
+          "start": 2501,
+          "end": 2506
+        },
+        {
+          "start": 2882,
+          "end": 2887
+        },
+        {
+          "start": 2904,
+          "end": 2909
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "1be64aad608626aa8451cd357794ab1439356d227d69f86b5f4cb7407cb34dfc",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Central banks across swaths of the globe are continuing to raise rates in an effort to tame inflation, largely dismissing for now the threat to economic growth posed by the spread of the Omicron variant.</p><p>---</p><p>The jury was instructed to begin deliberating in the trial of Theranos founder Elizabeth Holmes, whose alleged fraud has underpinned one of the biggest white-collar criminal cases in Silicon Valley history.</p><p>---</p><p>Blackstone is in advanced talks to acquire a 49% stake in a new Manhattan office tower in a deal that values the skyscraper at $2.85 billion.</p><p>---</p><p>Microsoft's Bing said it suspended the autofill suggestion feature in China to comply with Chinese laws, while some users in the country said the search engine had become inaccessible.</p>",
+  "published": "2021-12-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 565,
+          "end": 574
+        },
+        {
+          "start": 565,
+          "end": 576
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

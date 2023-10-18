@@ -1,0 +1,34 @@
+{
+  "_id": "49efe4c4e93f940018df44dfacd7b604dbe2e9ee2904cf1c60862ed6a0ff85d9",
+  "feed": "wall-street-journal",
+  "title": "Newell Brands Boosts Supply-Chain Investments to Cut Shipping Costs; The maker of Sharpie markers is spending about $100 million this year on a project to consolidate its distribution centers",
+  "text": "<p>Atlanta-based Newell plans to spend roughly 20% more this year, or $350 million, on capital investments, with about $100 million going toward a project to consolidate its distribution centers and place them in more optimal locations across the country. The project is part of a multiyear effort launched in 2021 to improve its operations five years after a troubled merger weighed on its financial results. The investments will also help the company reduce transportation costs and shipping delays that increased over the past two years for Newell and many other companies due to issues ranging from port congestion to production delays.</p><p>Newell doesn't break out its transportation costs on its financial statements but has said it expects inflationary pressures—including shipping and transportation—to account for about 9% of its cost of goods sold in 2022. That figure stood at $1.7 billion during the second quarter, down 6% from a year earlier. The company declined to provide specific estimates on expected cost savings from its investments.</p><p>Newell previously operated more than 20 distribution centers that relied on shipments from West Coast ports, which have suffered from backlogs throughout the pandemic, and where high-stakes labor negotiations are causing fears of additional delays for many companies. The company declined to share a specific number of distribution centers.</p><p>Once Newell's capital investments are complete, the company will operate seven distribution centers, including two new facilities in Pennsylvania and North Carolina along with five existing facilities, including two in California and one each in Missouri, Tennessee and Ohio. The company as a result of the investments will increase its reliance on East Coast ports, and will also reduce its shipping distances to customers in the eastern U.S.</p><p>\"We're reducing our transportation costs. We're also diversifying our ocean freight,\" said Chris Peterson, Newell's president and chief financial officer.</p><p>Over the past two years, companies across industries have taken steps to offset higher transportation costs by improving efficiency in their supply chains. Those efforts include adding or consolidating distribution centers with the goal of reducing the trucking distances to retail stores, said Josh Nelson, principal at Hackett Group Inc., a business advisory firm.</p><p>Other companies are diversifying the ports where they import goods, directing shipments to East Coast ports such as Savannah, Ga., in response to the backlogs on the West Coast, Mr. Nelson said.</p><p>Newell, as part of its capital investments, is also consolidating 23 supply chains, including ordering, fulfillment and sales policies, for its various brands into a single legal entity. As a result, retailers that place big orders from Newell—such as Amazon.com Inc., Walmart Inc. and Target Corp.—will receive a single invoice. Previously, they would receive multiple invoices for large orders across brands. The move will also allow the company to deliver goods from various brands on a single truck.</p><p>Newell plans to fund its investments with cash from operations. The company had $323 million in cash and equivalents on its balance sheet as of June 30, down from $637 million a year earlier.</p><p>During the second quarter, Newell's net sales declined 6%, to about $2.5 billion, due to factors including the effects of foreign exchange, the divestiture of a home-security business and the company's decision to exit some Yankee Candle retail stores. Core sales—which excludes the impact of one-time items—rose 1.7%. Profit increased 4%, to $204 million.</p><p>Newell has been working to improve its profitability following its 2016 merger with Jarden, the maker of Mr. Coffee machines and Crock-Pot slow cookers. The $15 billion deal turned into a case study in the ways that a major deal can go wrong, including culture clashes, executive turnover and overly rosy financial projections. Newell, which subsequently attracted pressure from activist investors, shuffled its leadership team, including with the appointment of Mr. Peterson as finance chief in late 2018. Mr. Peterson was previously chief operating officer at cosmetics company Revlon Inc.</p><p>\"There was a recognition that this business should be much more profitable,\" said Kevin Grundy, managing director at Jefferies Financial Group Inc., discussing the company's performance in the years following the merger.</p><p>Newell on July 1 opened its first new distribution center, located in Newville, Pa., and expects to open its second new facility in Gastonia, N.C., later this year. Once its supply chain-related capital investments are complete, the company expects to reduce its truck mileage by between 30% and 40%, according to Mr. Peterson.</p><p>\"It's a significant re-engineering of our go-to-market,\" Mr. Peterson said.</p><p>Write to Kristin Broughton at Kristin.Broughton@wsj.com</p><p>Newell Brands Boosts Supply-Chain Investments to Cut Shipping Costs</p>",
+  "published": "2022-08-10T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2819,
+          "end": 2831
+        },
+        {
+          "start": 2804,
+          "end": 2815
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6290125,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.37098753,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

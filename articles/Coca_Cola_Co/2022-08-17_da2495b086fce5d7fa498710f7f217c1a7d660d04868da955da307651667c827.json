@@ -1,0 +1,34 @@
+{
+  "_id": "da2495b086fce5d7fa498710f7f217c1a7d660d04868da955da307651667c827",
+  "feed": "wall-street-journal",
+  "title": "Technology: Musk Tweets He Is Buying Soccer's Manchester United  ----  By Robert Wall",
+  "text": "<p>    Elon Musk said on Twitter he is buying English soccer team Manchester United Ltd., using the platform he previously sought to acquire to drop an enigmatic statement about his intentions. </p><p>   The Tesla Inc. chief executive's tweet on Tuesday came as a reply to a post he had made five minutes earlier about politics, in which he said: \"To be clear, I support the left half of the Republican Party and the right half of the Democratic Party!\" Mr. Musk then tweeted: \"Also, I'm buying Manchester United ur welcome.\" </p><p>   Mr. Musk didn't respond to a request for comment late Tuesday. Manchester United didn't respond to an email request for comment. </p><p>   Mr. Musk, the world's wealthiest person and one of Twitter's most prominent users, with more than 100 million followers, has used the platform before to drop big pronouncements -- some serious, many of them not. </p><p>   Weeks after persuading Twitter Inc. to accept his $44 billion acquisition offer in April, he used the platform to say that the deal was \"temporarily on hold\" pending clarity on questions about the company's user data. He later cited the same issue, in part, as reason for trying to walk away from the deal, prompting Twitter to sue the billionaire to enforce the contract. A trial in that case is scheduled for October in Delaware's Court of Chancery. </p><p>    Mr. Musk also tweeted several days after signing the Twitter deal that he was acquiring Coca-Cola Co., which at the time had a market value of about $282 billion. \"Next I'm buying Coca-Cola to put the cocaine back in,\" Mr. Musk wrote. </p><p>   While the price tag for Manchester United, which is listed on the New York Stock Exchange and has a market value of around $2 billion, would be considerably smaller than Twitter's, buying the storied Premier League football team would further stretch Mr. Musk's finances amid uncertainty over whether the Delaware court will force him to go through with the Twitter takeover. </p><p>   Manchester United is considered one of the world's most valuable sports brands, with a base of passionate supporters that reaches around the globe. But it is also a club that has frequently been in turmoil. The U.S.-based Glazer family, then led by the late corporate raider Malcolm Glazer, took over the club in a leveraged buyout in 2005. The club went public on the New York Stock Exchange in 2012, but the Glazers are the only entity holding more than 10% of its shares, according to the Manchester United website. </p><p>   --- </p><p>   Bruce Orwall and Andrew Beaton contributed to this article. </p><p></p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1381,
+          "end": 1394
+        },
+        {
+          "start": 1482,
+          "end": 1491
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.000002,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.026558e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

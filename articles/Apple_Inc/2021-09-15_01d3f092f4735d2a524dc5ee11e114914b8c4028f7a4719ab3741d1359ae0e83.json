@@ -1,0 +1,20 @@
+{
+  "_id": "01d3f092f4735d2a524dc5ee11e114914b8c4028f7a4719ab3741d1359ae0e83",
+  "feed": "economist-newspaper",
+  "title": "Daily chart; American tech firms are repatriating billions in offshore profits",
+  "text": "<p>Shifting income is the practice by which multinationals artificially divorce their reported profits from where they actually do business. A tech giant, for example, may park its intellectual property in Bermuda, then charge its subsidiary in a higher-tax country such as France or America for using the IP. Profit is thus magicked away to the tax haven.</p><p>Martin Sullivan, an American economist, has long been exposing such schemes. He is known for combing the footnotes of large multinationals' financial reports to divine what taxes are paid where. Now his Tax Notes newsletter has some good news. A great repatriation of profits by American tech companies is in full swing. That should mean higher tax revenue.</p><p>Looking at 20 American technology companies, Mr Sullivan calculates that in 2017 the firms had booked as much as two-thirds of their profits overseas. Recently, their domestic profits as a share of total profits rose sharply, from 40% in 2019 to 56% in 2020. Pandemic and supply disruptions notwithstanding, actual business activity is unlikely to explain this big a jump. Four tech titans—Microsoft, Apple, Alphabet and Facebook—brought home a whopping $49.3bn.</p><p>Some firms recorded a far higher share of their profits overseas than in previous years. As the pandemic raged, ten Big Pharma firms booked just 11% of their global profits at home, notes Mr Sullivan, down from a quarter in 2019. Yet overall, for all publicly traded American multinationals, domestic profits as a share of worldwide profits rose from 51% to 56% between 2019 and 2020.</p><p>The likely explanation, writes Mr Sullivan, is that the TCJA's international provisions are at last taking effect. The act employed both carrot and stick. The carrot was a tax deduction for foreign-derived intangible income (FDII), including earnings on intellectual property and other assets that are not physical in nature. The stick was its “Gilti\" levy on what it called global intangible low-taxed income booked in Ireland, Caribbean islands and elsewhere.</p><p>Despite Gilti and other elements, the act had been seen as weak because of other provisions that alleviated tax for corporations. But Mr Biden may now have to acknowledge the TCJA had some good effects. He still wants to go further. He plans to raise the Gilti tax rate from 10.5% to 21% and repeal the FDII deduction. The measure with the biggest potential impact would be a 15% “minimum book tax\" on big firms that report high profits but have little taxable income. That might further lift the share of profits being booked in America.</p>",
+  "published": "2021-09-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1113,
+          "end": 1118
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

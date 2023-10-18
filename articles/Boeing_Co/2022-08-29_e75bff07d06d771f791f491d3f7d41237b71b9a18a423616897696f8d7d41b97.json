@@ -1,0 +1,42 @@
+{
+  "_id": "e75bff07d06d771f791f491d3f7d41237b71b9a18a423616897696f8d7d41b97",
+  "feed": "wall-street-journal",
+  "title": "NASA's Artemis Launch Postponed After Engine Procedure Fails on Moon Rocket; Agency says it needs time to determine why one of the engines didn't get to temperature range needed to attempt liftoff",
+  "text": "<p>NASA officials described the engine-related problems with the agency's moon rocket, which led to a launch delay Monday, as more about plumbing than with the engine itself. A process known as an engine bleed wasn't able to sufficiently cool down one of the rocket's engines to try to attempt a launch, a problem complicated by a leak in a valve that helps adjust pressure.</p><p>PHOTOS: NASA Delays Artemis I Moon Mission Launch After Engine Problem</p><p>\"The vent valve wasn't cooperating with us,\" said Mike Sarafin, who manages Artemis at NASA, the agency's effort to get back to the moon. \"It was this delicate balance of maintaining the pressure to establish the bleed on all four engines, and Engine 3 was not seeing the temperatures that it needed.\"</p><p>Leaders at the space agency said in the run-up to Monday morning that the flight was designed to stress test its deep-space vehicles and warned that technical issues could emerge. Weather conditions also turned unfavorable during Monday's launch window, which was slated to open for two hours at 8:33 a.m. ET.</p><p>\"This is a brand new rocket—it's not going to fly until it's ready,\" NASA Administrator Bill Nelson said. Agency engineers solved several problems ahead of Monday's launch, Mr. Nelson said, until \"they got to one that needed time to be solved.\"</p><p>The engine-related issue that surfaced Monday involved a procedure where super-cold propellant is routed into the engines to prepare them for when fuel flows through them at liftoff, according to a NASA spokeswoman. The engines need to be within a certain temperature range to start them.</p><p>NASA hadn't demonstrated it can complete that procedure before today's planned launch, according to Mr. Sarafin. \"We knew that that was a risk headed into this launch campaign,\" he said. Still, he and other NASA officials said trying to pull off liftoff Monday was worth the risk.</p><p>Aerojet Rocketdyne Holdings Inc., which made the four main engines on the SLS and upgraded them for the proposed flight, said there are no early indications that Monday's launch was postponed because of problems with its RS-25 engines, according to a company spokesman.</p><p>The SLS is the most powerful rocket that NASA has ever looked to blast off. Its attempted launch comes as SpaceX is developing its own powerful rocket system that aims to handle future deep-space missions, as SLS and Orion are designed to do.</p><p>A spacecraft called Orion sits on top of the rocket, and would travel to the moon during a normal launch. Monday's scrubbed mission would have sent an uncrewed Orion to a lunar orbit and back to Earth over more than 40 days.</p><p>Aerojet's four engines were designed to burn for eight minutes following liftoff, helping to power Orion toward a lunar orbit.</p><p>Boeing Co. developed the SLS rocket's core stage, which holds liquid propellant that feeds into the engines. The company declined to comment, and a spokeswoman said NASA officials are continuing to look into what happened.</p><p>The rocket includes hardware that NASA has used in operations before. The engines installed on the main stage of the vehicle, including the one linked with a problem, previously helped power rockets used on space shuttle missions.</p><p>The SLS rocket, including the boosters on its side, are meant to be jettisoned after their role in missions is over.</p><p>The agency and the contractors behind Artemis I, NASA's name for the mission, and subsequent Artemis missions have faced pressure to get to the launchpad after grappling with technical setbacks that led to cost overruns and delays.</p><p>The inspector general at NASA has estimated the Artemis I launch would cost $4.1 billion in production and operational expenses, as would each of the following three flights. The inspector general has described that per-flight cost as unsustainable. NASA officials have said that they are pushing to find cost savings and that the expenses for each mission would fall as more are launched.</p><p>Boeing, Lockheed Martin Corp., Northrop Grumman Corp. and other contractors involved in the effort said their companies have taken steps to cut costs.</p><p>The Artemis I mission would be the first major launch involving most of the main components that NASA and aerospace companies have assembled to help return astronauts to the lunar surface. No astronauts have reached the moon since 1972, but NASA aims through its Artemis program to make that happen as soon as 2025.</p><p>Elon Musk-led SpaceX has taken a different approach for some key areas on its Starship compared with NASA's development of SLS. Both rocket systems are designed to carry significant amounts of material into orbit and conduct deeper-space missions.</p><p>For Starship, SpaceX created a new engine, called the Raptor, to use on the Starship spacecraft and the booster that would blast off from Earth. In February, Mr. Musk said a second version of the Raptor costs about half as much as a prior type but is more powerful.</p><p>Starship is also designed to be fully reusable, according to Mr. Musk. The rocket system hasn't flown an orbital test yet. Mr. Musk said last week on Twitter that doing so this year was a priority.</p><p>The company has faced challenges developing the vehicle, such as a recent explosion under one of the boosters. Space Exploration Technologies Corp., the formal name for SpaceX, didn't immediately respond to a request for comment.</p><p>\"Starship is a hard, hard, hard, hard project,\" Mr. Musk said at an event organized by The Wall Street Journal last December.</p><p>NASA plans to use a version of Starship for its back-to-the-moon missions—the agency has hired SpaceX to provide a version of that vehicle to land astronauts on the surface of the moon as soon as 2025. Those astronauts would enter Starship from an Orion craft blasted to lunar orbit by a SLS rocket.</p><p>Doug Cameron and Andrew Tangel contributed to this article.</p><p>Write to Micah Maidenberg at micah.maidenberg@wsj.com</p><p>NASA's Artemis Launch Postponed After Engine Procedure Fails on Moon Rocket</p>",
+  "published": "2022-08-29T20:15:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 3928,
+          "end": 3934
+        },
+        {
+          "start": 2715,
+          "end": 2725
+        },
+        {
+          "start": 2735,
+          "end": 2745
+        },
+        {
+          "start": 3899,
+          "end": 3905
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

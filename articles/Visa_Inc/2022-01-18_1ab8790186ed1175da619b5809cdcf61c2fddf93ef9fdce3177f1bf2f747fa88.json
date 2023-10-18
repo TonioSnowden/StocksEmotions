@@ -1,0 +1,36 @@
+{
+  "_id": "1ab8790186ed1175da619b5809cdcf61c2fddf93ef9fdce3177f1bf2f747fa88",
+  "feed": "wall-street-journal",
+  "title": "Amazon Backs Off Threat to Ban U.K. Visa Cards",
+  "text": "<p>Online retailers such as Amazon are more reliant on credit cards and other digital payments and are especially sensitive to interchange fees. Card networks typically impose higher fees on online purchases because they are deemed more vulnerable to fraud.</p><p>When a shopper pays with a credit card, the merchant pays a fee to the bank that issued it. The fees, which can often run 2% or more, are set by card networks including Visa and MastercardInc.</p><p>Amazon has said higher interchange fees on credit-card transactions mean higher prices for shoppers. The fees have stayed high or risen, Amazon said in November, despite technological advances that should have sent them lower.</p><p>At the time, Visa said it was \"disappointed that Amazon is threatening to restrict consumer choice.\"</p><p>Retailers and card networks have long clashed over interchange fees. Amazon has imposed a surcharge on Visa credit-card purchases in Singapore and Australia. Amazon and other big retailers have sued Visa, Mastercard and card-issuing banks, claiming that they collude to avoid competing over interchange fees.</p>",
+  "published": "2022-01-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 975,
+          "end": 979
+        },
+        {
+          "start": 688,
+          "end": 692
+        },
+        {
+          "start": 424,
+          "end": 428
+        },
+        {
+          "start": 36,
+          "end": 40
+        },
+        {
+          "start": 879,
+          "end": 883
+        }
+      ],
+      "nexusId": "10063253"
+    }
+  ]
+}

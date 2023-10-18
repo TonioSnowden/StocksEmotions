@@ -1,0 +1,28 @@
+{
+  "_id": "383bc24a8d4bca51034b44ca8fea5ed1354bde3dc418ae7c735a9583be5ad8c8",
+  "feed": "wall-street-journal",
+  "title": "As Covid Evolves, Treatments May Prove as Important as Vaccines",
+  "text": "<p>The rub is that mutations that alter the shape of the spike protein on the surface of the virus -- as variants from the U.K., Brazil and South Africa do -- can deform the sites to which antibodies bind before they neutralize the virus. Developing new antibody cocktails that target new variants could become a game of Whac-A-Mole.</p><p>The good news is that Gilead says remdesivir appears effective against the new strains. It is the only FDA-approved antiviral for Covid-19, and the five-day infusion treatment is limited to hospital patients. Antivirals, which stop viruses from replicating in human cells, are typically most effective early in an illness. So finding other effective antivirals, especially ones that can be prescribed to outpatients, should be a priority.</p><p>Antivirals can gum up virus replication in myriad ways. Remdesivir creates a paper jam in the coronavirus's copy machine so it can't distribute copies of its genetic code. Scientists at the University of Texas last month published a study in the journal Molecular Cell in which they identified the key mechanism remdesivir uses to inhibit the virus's replication. That could lead to the creation of more potent and perhaps ingestible drugs.</p><p>\"What if you could take just one pill and that was all you needed to do?\" as study co-author Kenneth Johnson was quoted in a UT press release. \"That would make a huge difference in terms of the here and now.\"</p><p>Merck is testing an oral compound, molnupiravir, that works by creating errors in the virus's copying code. One advantage to that approach is that viruses don't appear to develop resistance. Merck hopes to share early efficacy results from a late-stage trial by March.</p><p>The antidepressant fluvoxamine has also shown promise as an antiviral and anti-inflammatory. A small randomized control trial published in the Journal of the American Medical Association in November found that not one patient who received fluvoxamine within seven days of symptom onset experienced clinical deterioration versus 8.3% of those who received a placebo. Another small non-randomized trial of infected horse racetrack workers in California a found that none who took the drug got sicker, whereas 12.5% of those who didn't were hospitalized. A larger clinical trial is needed to support the antiviral benefit, but the drug certainly deserves further study.</p><p>A Jan. 25 article in Science magazine highlighted plitidepsin, which is derived from sea squirts and used to treat multiple myeloma in Europe and Australia. Scientists at the University of California, San Francisco found that it was 27.5 times as potent as remdesivir against the coronavirus in a test tube. The drug is being tested on a few dozen patients in Spain, and its manufacturer, PharmaMar, says it is seeking regulatory approval to launch larger trials.</p><p>What makes plitidepsin especially promising is that it targets human proteins the virus needs to replicate, which means it could work against any new variants that pop up. \"If you're targeting a human protein, it doesn't matter how much the virus mutates,\" study co-author Nevan Krogan said in a television interview. \"We're hoping this gets approved quickly and it can be used in this world war fight against this virus.\"</p><p>In addition to antivirals, scientists are investigating drugs that can act as immune modulators, tamping down the overreactive immune response to the virus that can kick in later during the illness. Merck has developed a novel immune modulator, which seems to reduce the risk of death or respiratory failure by 50% in hospitalized patients with moderate to severe illness. The NIH is also testing investigational drugs donated by Janssen Biotech, Bristol-Myers Squibb and AbbVie that target different immune-system pathways, though the trial isn't expected to be completed until later this year.</p><p>The Biden administration could help advance therapies by coordinating more large randomized trials with drug makers and health-care systems, similar to what Operation Warp Speed did for vaccines. While small trials can illuminate promising therapies, the FDA likely won't approve any drugs without compelling evidence from a large randomized control trial.</p><p>The FDA will also have to keep an open mind when deciding whether to grant emergency-use authorizations for experimental Covid-19 drugs. Antivirals may help only patients who receive early treatment, and scientists should examine the evidence closely to find benefits for discrete groups. Don't let the perfect be the enemy of progress.</p><p>---</p><p>Ms. Finley is a member of the Journal editorial board.</p>",
+  "published": "2021-02-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "name": "Merck & Co., Inc.",
+      "offsets": [
+        {
+          "start": 1420,
+          "end": 1425
+        },
+        {
+          "start": 1611,
+          "end": 1616
+        },
+        {
+          "start": 3442,
+          "end": 3447
+        }
+      ],
+      "nexusId": "10042334"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "d0ef3b86fe7f8117eb5a2dff8a25f7a8e9e19db470d3fe7e65d935e30f01a808",
+  "feed": "wall-street-journal",
+  "title": "EnCap Flatrock Seeks $3 Billion for Energy Infrastructure Fund; The firm launches its fifth fund even as it has become more difficult to deploy capital in the sector, according to experts",
+  "text": "<p>EnCap Flatrock backs management teams, often multiple times, that then acquire and develop infrastructure for the oil-and-gas sector across the U.S., including pipelines, gathering systems, natural gas-processing units and storage terminals. For its new fund, the firm also sees opportunities in infrastructure related to hydrogen and biofuels, as well as systems that capture carbon dioxide and store it underground, said people familiar with the matter.</p><p>EnCap Flatrock is returning to the marketing trail following a series of pipeline operator sales by private-equity firms to larger, publicly traded buyers. A sharp rise in commodity prices has improved the oil-and-gas sector's outlook, a factor that likely helped drive such sales, said Stacey Morris, head of energy research at financial-technology firm VettaFi LLC.</p><p>For example, last month, Targa Resources Corp. acquired Lucid Energy Delaware LLC from Riverstone Holdings and Goldman Sachs Group Inc. for $3.55 billion, while in February Enterprise Products Partners LP bought Warburg Pincus-backed Navitas Midstream Partners LLC for $3.25 billion.</p><p>\"The bias this year has definitely been more toward private-equity exits than acquisitions,\" Ms. Morris said. \"Maybe these were deals that firms wanted to get done in 2020 or 2021 and they couldn't because of the macro environment.\"</p><p>However, opportunities to deploy capital in the sector remain limited, as the most active oil fields in the U.S., particularly in the Permian Basin of West Texas and New Mexico, are already largely covered by the existing infrastructure, said Robert Raymond, founder of RR Advisors LLC, an energy-focused investment-advisory firm in Dallas that does business as RCH Energy. He was also a Navitas board member.</p><p>Formed in 2013, Navitas was an early mover in building pipelines and natural gas-processing plants on a then-overlooked shale formation in West Texas's Midland Basin, a prolific part of the broader Permian, Mr. Raymond said. That enabled the company to expand its asset footprint as it secured contracts with local producers, he said.</p><p>Several of EnCap Flatrock's portfolio companies have followed a similar, pioneering strategy over the years. They include Lucid, which EnCap Flatrock backed in 2016 with a $350 million commitment and sold two years later to Riverstone and Goldman for roughly $1.6 billion. Lucid today operates 1,050 miles of natural-gas pipelines across the Delaware Basin, another prolific region of the Permian.</p><p>\"We all take risks in developing these businesses to generate attractive returns,\" Mr. Raymond said. \"The implicit question becomes, ‘Where am I going to go risk that capital to earn those returns today if most of the tier 1 shale [fields] in America have already been identified and have been dedicated to other midstream providers?'\"</p><p>In the years leading to the pandemic, private-equity firms found many opportunities to form joint ventures with cash-starved publicly traded energy-infrastructure operators. These businesses are much better capitalized today as they cut spending and past investments in projects began to pay off, Ms. Morris said. Sector consolidation has also reduced the number of assets private-equity firms could buy, while the ones still for sale have become more expensive, she said.</p><p>\"Midstream companies don't need as much capital as they did in the past because capital spending has come down,\" she said. \"Those big, high-dollar projects where midstream companies look for a JV partner to help carry the tab, you don't see as many of those today.\"</p><p>EnCap Flatrock is betting that rising U.S. energy exports, aging infrastructure and an increased demand for natural gas-fired power generation to stabilize renewable energy-heavy grids will create plenty of investment opportunities for its new fund, the people familiar with the matter said. The firm also expects to capitalize on political barriers for new pipeline construction in some states, which increases demand elsewhere, the people added.</p><p>Ms. Morris said experienced management teams likely can find \"pockets of opportunities\" in the oil-and-gas infrastructure sector, particularly in the massive Permian.</p><p>\"If you're on the ground, you probably know where those opportunities are,\" she said.</p><p>Write to Luis Garcia at luis.garcia@wsj.com</p>",
+  "published": "2022-08-08T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999942,
+      "offsets": [
+        {
+          "start": 2325,
+          "end": 2332
+        },
+        {
+          "start": 935,
+          "end": 948
+        },
+        {
+          "start": 935,
+          "end": 942
+        },
+        {
+          "start": 935,
+          "end": 959
+        },
+        {
+          "start": 931,
+          "end": 955
+        },
+        {
+          "start": 2313,
+          "end": 2320
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.429681,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 0.0001809597,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

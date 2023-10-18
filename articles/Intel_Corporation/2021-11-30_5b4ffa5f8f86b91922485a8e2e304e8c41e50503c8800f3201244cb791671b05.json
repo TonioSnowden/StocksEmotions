@@ -1,0 +1,56 @@
+{
+  "_id": "5b4ffa5f8f86b91922485a8e2e304e8c41e50503c8800f3201244cb791671b05",
+  "feed": "wall-street-journal",
+  "title": "Intel Fills Lab With Old Tech to Test Security Flaws",
+  "text": "<p>\"We had to actually go on eBay and start looking for these platforms,\" said Mohsen Fazlian, general manager of Intel's product assurance and security unit.</p><p>Intel's issue reflects a wider concern: Legacy technology can introduce cybersecurity weaknesses. Tech makers constantly improve their products to take advantage of speed and power increases, but customers don't always upgrade at the same pace. This creates a long tail of old products that remain in widespread use, vulnerable to attacks.</p><p>Intel's answer to this conundrum was to create a warehouse and laboratory in Costa Rica, where the company already had a research-and-development lab, to store the breadth of its technology and make the devices available for remote testing. After planning began in mid-2018, the Long-Term Retention Lab was up and running in the second half of 2019.</p><p>The warehouse stores around 3,000 pieces of hardware and software, going back about a decade. Intel plans to expand next year, nearly doubling the space to 27,000 square feet from 14,000, allowing the facility to house 6,000 pieces of computer equipment.</p><p>Intel engineers can request a specific machine in a configuration of their choice. It is then assembled by a technician and accessible through cloud services.</p><p>The lab runs 24 hours a day, seven days a week, typically with about 25 engineers working any given shift.</p><p>The lab gives Intel, which is based in Santa Clara, Calif., a centralized, secure location where security tests can be run from anywhere in the world. Access to the building is strictly controlled and approved by senior managers, while surveillance cameras watch the equipment at all times. Even its location is secret -- Intel representatives declined to say where exactly it is.</p><p>The lab brings commercial value to Intel, Mr. Fazlian said, citing company research that shows customers are more likely to buy technology from manufacturers that proactively test their products.</p><p>Establishing the lab required getting hard-to-find equipment to Costa Rica, hiring engineers and computer scientists who could work on the machines, and tapping managers to put processes in place to make it work, said Fawn Taylor, senior director of corporate remediation programs for Intel's product assurance and security unit.</p><p>At times, contributions came from engineers who had long since moved on to other projects or even left the company. They helped assemble technical documentation and discussed what they knew about products from years ago, Ms. Taylor said.</p><p>Marcel Cortes Beer, a manager at the lab, said it gets 1,000 requests a month to build equipment for remote security tests, and 50 new devices come in weekly.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-11-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 940,
+          "end": 945
+        },
+        {
+          "start": 1101,
+          "end": 1106
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 1689,
+          "end": 1694
+        },
+        {
+          "start": 1783,
+          "end": 1788
+        },
+        {
+          "start": 156,
+          "end": 161
+        },
+        {
+          "start": 1381,
+          "end": 1386
+        },
+        {
+          "start": 496,
+          "end": 501
+        },
+        {
+          "start": 2229,
+          "end": 2234
+        },
+        {
+          "start": 111,
+          "end": 116
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

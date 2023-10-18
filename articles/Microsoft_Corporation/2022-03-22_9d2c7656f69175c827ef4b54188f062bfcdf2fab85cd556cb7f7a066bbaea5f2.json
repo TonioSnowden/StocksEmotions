@@ -1,0 +1,24 @@
+{
+  "_id": "9d2c7656f69175c827ef4b54188f062bfcdf2fab85cd556cb7f7a066bbaea5f2",
+  "feed": "market-watch",
+  "title": "Okta says it's investigating possible digital breach — here's everything we know so far",
+  "text": "<p>Hacking group Lapsus$ has claimed responsibility for the breach and published screenshots claiming access to an Okta internal administrative account and the firm's Slack channel. However, the shadowy group also said on the messaging app Telegram it did not steal any databases from Okta, and “our focus was ONLY on Okta customers.” [According to its website, Okta says it has more than 15,000 customers.]</p><p>Early Tuesday, Okta Chief Executive Todd McKinnon&#xa0;tweeted that the company believes those screenshots are related to a security incident in January that was contained.</p><p>https://twitter.com/toddmckinnon/status/1506184721922859010“In late January 2022, Okta detected an attempt to compromise the account of a third party customer support engineer working for one of our subprocessors,” McKinnon tweeted, referring to a subcontractor that works with Okta. “The matter was investigated and contained by the subprocessor.”</p><p>Although Okta's preliminary review has not revealed malicious activity beyond January's incident, the activities of Lapsus$ has financial analysts like Mizuho Securities' Gregg Moskowitz concerned.</p><p>In a note Tuesday, Moskowitz pointed out Lapsus$ has reportedly breached several big-name organizations over the past few months that include Microsoft Corp. MSFT, Nvidia Corp. NVDA, Samsung Electronics Co. Ltd. KR:005930, Vodafone Group UK:VOD, LG Electronics Inc. KR:066570 and Impresa PT:IPR.</p><p>Lapsus$ has widened its targets and increased its sophistication in recent months, making it harder for analysts to predict which company is most at risk next, according to Pratik Savla, security engineer at cybersecurity company Venafi Inc.</p>",
+  "published": "2022-03-22T13:46:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1262,
+          "end": 1277
+        },
+        {
+          "start": 1262,
+          "end": 1271
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "95086b804e77920e800e176bdfc64678214ccc8cc5a757c0cdf4209a8cd119e5",
+  "feed": "wall-street-journal",
+  "title": "HP Posts Strong Earnings, Outlook",
+  "text": "<p>\"We are seeing strong demand coming from the commercial side, from the office side because offices are reopening and companies are invested in creating a better experience for their employees,\" HP Chief Executive Enrique Lores told The Wall Street Journal.</p><p>Commercial PC revenue grew 25%, the company said, while consumer PC sales retreated 3%, from their lofty levels a year ago.</p><p>HP shares that rose 0.8% to $32.19 Tuesday advanced more than 5% in after-hours trading on the results.</p><p>Dell Technologies Inc. also posted strong results Tuesday after the bell, sending its shares up more than 0.6% in after-hours trading. The company said it reported its strongest-ever third quarter, with sales of $26.4 billion and net income of $3.9 billion. Commercial PC and high-end consumer devices saw strong growth, the company said.</p><p>Demand shot up for computers during the pandemic as people bought devices for remote working and distance learning. The global PC market has grown for six consecutive quarters, according to International Data Corp. But the chip shortage has stopped sales from taking off even more.</p><p>The pandemic had a mixed effect on HP. Its PC business boomed and the sale of home printers also increased, though the widespread shutdown of offices weighed on its ability to revitalize its important print-services business.</p><p>In the most recent quarter, HP ranked second in world-wide PC shipments, close behind Lenovo Group Ltd. and beating out Apple Inc. and Dell Technologies, according to IDC. But its shipments were down almost 6% from the previous year while nearly all of the other top companies' shipments increased year-over-year.</p>",
+  "published": "2021-11-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1452,
+          "end": 1461
+        },
+        {
+          "start": 1452,
+          "end": 1462
+        },
+        {
+          "start": 1452,
+          "end": 1457
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

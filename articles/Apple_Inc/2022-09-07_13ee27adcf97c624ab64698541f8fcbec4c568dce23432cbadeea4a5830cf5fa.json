@@ -1,0 +1,46 @@
+{
+  "_id": "13ee27adcf97c624ab64698541f8fcbec4c568dce23432cbadeea4a5830cf5fa",
+  "feed": "ftcomall",
+  "title": "Apple seeks to drive growth with new iPhone models",
+  "text": "<p>Apple unveiled two new versions of the iPhone on Wednesday featuring emergency satellite communication and improved cameras, as well as two revamped Pro models, as the world's largest company looks to extend its foothold in the high-end smartphone market.</p> <p>The new iPhone Pro models, which use the company's A16 bionic chip and 48-megapixel camera, include an “always-on display” feature that keeps the screen visible even at a dimmed resolution with minimal battery usage.</p> <p>The Pro models also took the much-maligned <a href=\"https://www.ft.com/stream/76fa5fa7-581c-4308-9704-1b056ef99e7b\">iPhone</a> “notch” — an area at the top of the display housing cameras and FaceID sensors — and turned it into an interactive messaging tool that will expand and retract depending on its use.</p> <p>The new iPhone 14 models will be available for sale in the next month. They were shown in a pre-recorded event watched by 2.5mn people on YouTube called “Far Out” — a reference to the devices' satellite communication feature.</p> <p><a href=\"https://www.ft.com/stream/a39a4558-f562-4dca-8774-000246e6eebe\">Apple</a> also highlighted a new version of AirPods Pro and several smartwatches, including an “ultra” model meant for endurance athletes — a clear push to take on sports-specific gadgets from rivals such as Garmin.</p> <p>The product release came as Apple has <a href=\"https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5\">overtaken Android devices</a> to account for more than half of smartphones in the US, giving the iPhone maker a growing opportunity to diversify its revenue streams into more accessories and subscription services.</p> <p>Globally, Apple has a much smaller market share, with shipments in the first half of 2022 estimated at 18 per cent, according to data provider Canalys. But it dominates among higher-margin devices: two out of three phones priced at more than $600 were iPhones in the first six months of the year.</p> <p>The smartwatches are likely to extend the tech giant's already leading market share in the segment. The Apple Watch's global market share this year is more than 30 per cent — more than triple that of second-ranked Samsung, which has a share of less than 10 per cent, according to Counterpoint Research.</p> <p>The Apple Watch Ultra, starting at $799, is designed for extreme conditions and includes improved hardware for making calls, superior GPS, alerting others when in distress and tracking athletic performance. It also has extended battery life, lasting 36 hours on a single charge, versus 18 hours on other models.</p> <p>Apple Watches already have heart rate and blood oxygen sensors, but the Series 8 models also include two temperature sensors that allow women to track their fertility.</p> <p>Apple chief executive Tim Cook said the products demonstrated the “unique and powerful ways” the group's products work together. His comments came as the company looks to push into an <a href=\"https://www.ft.com/content/3892fd43-d03c-4c5b-9012-d2a64f94c103\">increasing array of accessories and services</a>, for which it earns margins of more than 70 per cent.</p><p>Source: Patrick McGee in Los Angeles 2022 'Apple seeks to drive growth with new iPhone models' FT.com 7 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-07T19:29:48.041Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999904,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 925,
+          "end": 930
+        },
+        {
+          "start": 1164,
+          "end": 1169
+        },
+        {
+          "start": 1393,
+          "end": 1398
+        },
+        {
+          "start": 2456,
+          "end": 2461
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 6.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

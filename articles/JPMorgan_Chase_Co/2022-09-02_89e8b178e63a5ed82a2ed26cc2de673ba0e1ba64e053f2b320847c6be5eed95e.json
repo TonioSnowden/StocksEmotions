@@ -1,0 +1,38 @@
+{
+  "_id": "89e8b178e63a5ed82a2ed26cc2de673ba0e1ba64e053f2b320847c6be5eed95e",
+  "feed": "market-watch",
+  "title": "Dow stock drops after another downgrade, but high dividend yield provides support; J.P. Morgan analyst Jeffrey Zekauskas no longer recommends buying into Dow, but he won't recommend selling with dividend yield above 5.5%",
+  "text": "<p>The stock DOW slumped 1.0% ahead of the open, enough to pace all of the Dow Jones Industrial Average's DJIA premarket decliners. The stock has slumped 10.4% over the previous five sessions to close Thursday at a seven-week low.</p><p>Zekauskas also cut his rating on fellow chemicals company LyondellBasell Industries NV LYB to neutral from overweight, and lowered his stock price target to $80 from $115. The stock slumped 1.4% in Friday's premarket.</p><p>\"Lyondell and Dow are probably not the best places to put new money to work,\" Zekauskas wrote in a note to clients. \"The direction of shorter-term commodity chemical prices and volumes is decidedly lower.\"</p><p>He said that while the companies' relatively high dividend yields are \"attractive,\" he believes they hold less allure for investors given the rising yields in risk-free Treasury securities.</p><p>As of Thursday's closing prices, Dow's dividend yield was 5.60% and Lyondell's was 5.81%, which compares with the implied yield for the S&amp;P 500 index SPX of 1.66%. Meanwhile, the yield on the 10-year Treasury note BX:TMUBMUSD10Y was 3.265% on Thursday, up from 1.515% at the end of 2021.</p><p>J.P. Morgan's downgrades of Dow and Lyondell are the second this week, according to FactSet, following KeyBanc Capital's Aleksey Yefremov cutting both companies to underweight from sector weight, citing concerns over exposure to the recession in the petrochemical (PE) market.</p><p>Don't miss: Dow stock dives after KeyBanc says 'petrochemical recession is upon us.'</p><p>J.P. Morgan's Zekauskas said that while the Dow's and Lyondell's dividend yields are no longer attractive enough to warrant buying, they are too high to recommend selling.</p><p>\"[B]oth companies offer dividend yields above 5.5%, which we believe secure. Both companies are likely to deliver free cash flow yields above 10% in 2023. Both companies have good balance sheets,\" Zekauskas wrote. \"We are unwilling to underweight the two companies for these reasons.\"</p><p>Dow's stock has tumbled 26.6% over the past three months through Thursday and Lyondell shares have sunk 29.0%, while the S&amp;P 500 has lost 5.0%.</p><p>Dow stock drops after another downgrade, but high dividend yield provides support</p>",
+  "published": "2022-09-02T12:24:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 83,
+          "end": 94
+        },
+        {
+          "start": 1121,
+          "end": 1132
+        },
+        {
+          "start": 1481,
+          "end": 1492
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.6072903,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.60729015,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

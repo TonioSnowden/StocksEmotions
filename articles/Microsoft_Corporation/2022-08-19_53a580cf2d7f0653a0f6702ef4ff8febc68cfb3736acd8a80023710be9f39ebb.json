@@ -1,0 +1,24 @@
+{
+  "_id": "53a580cf2d7f0653a0f6702ef4ff8febc68cfb3736acd8a80023710be9f39ebb",
+  "feed": "market-watch",
+  "title": "Apple users should update Zoom before their next meeting — and beware of fake Coinbase job postings; Some Apple and Zoom security vulnerabilities have come to light this week. Here are the software updates and patches to protect your devices.",
+  "text": "<p>Users were advised to update the affected devices, which include: the iPhone 6S and later models; 5th generation iPads and several later models, as well as all iPad Pro models and the iPad Air 2; Mac computers running MacOS Monterey; and some iPod models. The vulnerability also extends to Apple's Safari browser on its Big Sur and Catalina operating systems, the company added in another update. Get all of the latest software updates for your Apple devices here.</p><p>Read more: Update your devices: Apple discloses serious security vulnerabilities for iPhones, iPads and Macs</p><p>By Friday morning, however, several specific vulnerabilities targeting Mac operating software were trending among real-time Google searches, including a hole in Zoom's ZM security, as well as fraudulent Coinbase job postings.</p><p>The Zoom exploit was flagged by Patrick Wardle from the nonprofit Objective-See, which creates open-source macOS security tools. Wardle shared his findings at last week's DefCon hacking and security conference. He was able to exploit Zoom's automatic updater to gain access to someone's Mac. So Zoom released an update in response — update 5.11.5 (9880) — but some testers were still able to bypass it. So Zoom released a second patch — update 5.11.6 (9098) — which is now available.</p><p>Zoom shared on its security updates page that users can keep themselves secure by applying the current updates, or downloading the latest Zoom software with all current security updates from zoom.us/download.</p><p>Some Apple users were also reportedly targeted by Lazarus, the North Korean state-sponsored hacking group, which hit Apple and Intel INTC-based systems with macOS malware disguised as fake IT job offers from the cryptocurrency platform Coinbase COIN.</p><p>Opinion: Cyber attacks on national-security targets will never end. That's why going analog is part of the solution</p><p>The cyberespionage campaign reaches out to blockchain developers over LinkedIn and other platforms with a phony job offer, TechRadar reported. Then, after a few rounds of \"interviews,\" the attacker sends the victim what appears to be a PDF with the job details — but it's actually malware.</p><p>The security researchers at ESET Research Labs flagged the malware on Twitter this week. They warned that it drops three files: the bundle FinderFontsUpdater.app, the downloader safarifontagent, and a decoy PDF called Coinbase_online_careers_2022_07.pdf.</p><p>Coinbase has tips on avoiding cryptocurrency scams here, such as never giving anyone remote access to your device, and only contacting Coinbase using the phone number listed on help.coinbase.com/ or over email on help.coinbase.com/contact-us.</p><p>The U.S. government sanctioned Lazarus Group and two other \"North Korean state-sponsored malicious cyber groups\" in 2019, noting that Lazarus targets government, military, financial, media and publishing institutions. Lazarus was involved in the worldwide WannaCry 2.0 ransomware attack in 2017, which caused billions of dollars in damageacross more than 300,000 computers in 150 nations.</p><p>Apple users should update Zoom before their next meeting — and beware of fake Coinbase job postings</p>",
+  "published": "2022-08-19T17:09:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [],
+      "weightsV2": {
+        "weight": 0.95,
+        "baseWeight": 0.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

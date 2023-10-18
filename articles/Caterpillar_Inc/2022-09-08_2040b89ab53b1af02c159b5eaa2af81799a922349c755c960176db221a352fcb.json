@@ -1,0 +1,54 @@
+{
+  "_id": "2040b89ab53b1af02c159b5eaa2af81799a922349c755c960176db221a352fcb",
+  "feed": "wall-street-journal",
+  "title": "Caterpillar Settles Tax Dispute With IRS, Will Pay No Penalties; Analysts had estimated construction equipment maker faced potential tax increases, penalties from IRS totaling more than $2 billion",
+  "text": "<p>Caterpillar Inc. said Thursday it reached a settlement with the Internal Revenue Service that resolves a yearslong tax dispute without any penalties.</p><p>The construction equipment maker said in a regulatory filing that the settlement included the resolution of the disputed tax treatment of profits earned from 2007 to 2016 by a subsidiary in Switzerland, called Caterpillar SARL, from sales of replacement parts.</p><p>\"We have been cooperating with the government in its review of the issues and are pleased to have reached this resolution with the IRS,\" a Caterpillar spokeswoman said in a statement.</p><p>Caterpillar said in the filing the settlement amount is within the total amount of unrecognized tax benefits for uncertain tax positions, and enables the company to avoid costs and burdens of further disputes with the IRS. The company declined to comment further on the settlement.</p><p>Analysts had estimated that Caterpillar faced potential tax increases and penalties from the IRS that could total more than $2 billion.</p><p>A Senate subcommittee report in 2014 said that the company deferred or avoided paying $2.4 billion of U.S. taxes under a corporate restructuring that shifted most of its profits from overseas replacement-part sales to its Swiss unit. An anonymous employee had accused the company in the early 2000s of violating U.S. tax law and threatened to tip off the IRS.</p><p>Caterpillar officials had previously said that the company believed its tax strategy was right, and that it was cooperating with the government's investigation.</p><p>Caterpillar filled orders for replacement parts from outside the U.S. often using a giant warehouse in Morton, Ill., but starting in the late 1990s, sales and profits flowed through the Switzerland subsidiary, where the company paid an effective tax rate as low as 4%, according to investigators.</p><p>Write to Denny Jacob at denny.jacob@wsj.com and Bob Tita at robert.tita@wsj.com</p><p>Caterpillar Settles Tax Dispute With IRS, Will Pay No Penalties</p>",
+  "published": "2022-09-08T23:43:00.000Z",
+  "tags": [
+    {
+      "id": "US1491231015",
+      "nexusId": "10011563",
+      "name": "Caterpillar Inc.",
+      "confidence": 0.9999885,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 11
+        },
+        {
+          "start": 0,
+          "end": 16
+        },
+        {
+          "start": 550,
+          "end": 561
+        },
+        {
+          "start": 592,
+          "end": 603
+        },
+        {
+          "start": 900,
+          "end": 911
+        },
+        {
+          "start": 1365,
+          "end": 1376
+        },
+        {
+          "start": 1525,
+          "end": 1536
+        }
+      ],
+      "weightsV2": {
+        "weight": 12.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

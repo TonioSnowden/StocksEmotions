@@ -1,0 +1,34 @@
+{
+  "_id": "0a6442a02ff00877ff9ab0995dd45b76524de396d055065a508b8e5cd642fab1",
+  "feed": "wall-street-journal",
+  "title": "Snap Cuts Staff 20%, Pares New Initiatives",
+  "text": "<p>As it grapples with its lowest period of sales growth since going public, the Snapchat parent is emerging as one of the starkest examples of a tech company shifting from overdrive into reverse. After having grown its head count by around 65% since the end of 2020, it hit pause in late May as business conditions deteriorated. Within weeks, management determined that wasn't enough, culminating in plans to tell around 1,200 of its 6,400 employees that they are losing their jobs.</p><p>\"We must reduce our cost structure to avoid incurring significant ongoing losses,\" Chief Executive Evan Spiegel said in a memo to staff.</p><p>Across tech, companies are abandoning projects they no longer consider critical to ease pressure on their bottom line. Facebook parent Meta Platforms Inc. has said it would shrink some teams as it adjusts priorities and software giant Microsoft Corp. is trimming its staff at its Modern Life Experiences group that develops consumer software products.</p><p>The upheaval in the digital-ad business that generates the bulk of Snap sales has been particularly pronounced. Last year Apple Inc. introduced privacy changes that make it harder for platforms to track the performance of the ads they sell. Then Russia's invasion of Ukraine in February, rising inflation and a broader economic slowdown caused some ad buyers to pull back on spending.</p><p>The slowdown in ad revenue for Snap was swift and steep, the company has signaled. As recently as the first quarter, revenue growth was 38% year-over-year. It is now down to around 8%, the company said Wednesday.</p><p>Meta last month posted its first decline in revenue and issued a muted outlook on digital advertising trends and competition from TikTok. Around the same time, Google parent Alphabet Inc. reported the slowest quarterly sales growth in two years.</p><p>Streaming giant Netflix Inc. poached Snap's chief business officer, Jeremi Gorman, and another advertising executive is leaving to kick-start Netflix's plan to add an ad-backed tier option to its offerings. The executive departures \"could prolong Snap's ad growth challenges and increase execution risk,\" Citi analyst Ronald Josey said in a note.</p><p>All those factors have spelled months of tumult for Snap. In October, the company spooked investors in October when it warned about the Apple privacy changes. Shares fell more than a quarter the following day and slumped again in February amid a broader selloff in tech stocks. Snap shares then rallied almost 59% when the company posted a profit and signaled confidence it was getting past the Apple changes that were hampering ad sales.</p><p>It was short lived. In April, shares tumbled again as the company signaled widening problems in the digital ad market, issued a profit warning in May, and then posted weak quarterly results.</p><p>Snap executives initially aimed to handle the Apple changes by working directly with advertisers to find a way to track how their ads performed. That proved cumbersome, a person familiar with Snap's effort said, and the social-media company now is moving to work with third-party data-services providers to allow advertisers to determine the reach of their ads.</p><p>Snap has faced dark days before. Four years ago, the Snapchat app faced a user revolt over a rushed redesign and other problems. The company had three straight quarters of flat or fewer users in 2018 and at least half a dozen executives left. It regained its momentum and saw strong growth during the pandemic, propelling shares to an all-time high last September, before its business prospects worsened.</p><p>The company is aiming to cut around $500 million from its annual costs and estimates it will incur one-time expenses of between $110 million and $175 million to lay off staff, wind down projects and address other issues. It is abandoning an effort to break into the market for multiplayer in-app games and closing stand-alone platforms, Zenly, a social map app, and Voisey, an app that connects singers and songwriters.</p><p>Snap shares closed up 8.69% in Wednesday trading.</p><p>---</p><p>Jessica Toonkel contributed to this article.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 848,
+          "end": 862
+        },
+        {
+          "start": 853,
+          "end": 868
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7151651,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.00041508675,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

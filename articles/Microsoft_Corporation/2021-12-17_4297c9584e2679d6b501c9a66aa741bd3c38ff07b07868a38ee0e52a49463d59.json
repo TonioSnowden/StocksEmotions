@@ -1,0 +1,24 @@
+{
+  "_id": "4297c9584e2679d6b501c9a66aa741bd3c38ff07b07868a38ee0e52a49463d59",
+  "feed": "wall-street-journal",
+  "title": "GM Cruise Unit Boss To Leave Company",
+  "text": "<p>Mr. Ammann led GM's 2016 acquisition of Cruise for $1 billion. The San Francisco company has grown to about 2,000 employees from about 40 and attracted big investors, including SoftBank Group Corp., Microsoft Corp. and Honda Motor Co.</p>",
+  "published": "2021-12-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 199,
+          "end": 214
+        },
+        {
+          "start": 199,
+          "end": 208
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

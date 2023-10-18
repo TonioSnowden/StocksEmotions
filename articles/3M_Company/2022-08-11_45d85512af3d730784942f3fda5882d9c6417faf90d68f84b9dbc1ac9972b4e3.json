@@ -1,0 +1,90 @@
+{
+  "_id": "45d85512af3d730784942f3fda5882d9c6417faf90d68f84b9dbc1ac9972b4e3",
+  "feed": "wall-street-journal",
+  "title": "Judge Questions 3M Earplug Unit's Path to Bankruptcy; 3M's Aearo Technologies is in financial distress because it took on its parent's liability for mass earplug claims, a federal judge says",
+  "text": "<p>But the judge questioned last month's bankruptcy filing by Aearo Technologies LLC, a 3M subsidiary named as a co-defendant along with its publicly traded parent company in the roughly 230,000 pending claims, mostly by military service members.</p><p>Judge Rodgers, who oversees the earplug litigation, said in Thursday's hearing that it appears 3M placed Aearo under chapter 11 to get out of her courtroom and face the earplug claims in bankruptcy court instead.</p><p>\"3M believes that's a valid reason to seek [bankruptcy] protection and do what they've done very, very creatively,\" she said, adding that Aearo \"voluntarily agreed to go into financial distress\" by assuming responsibility for earplug claims shortly before its chapter 11 filing.</p><p>Under agreements signed between Aearo and 3M, the parent company has committed to pay $240 million to fund Aearo's reorganization process in the U.S. Bankruptcy Court in Indianapolis and at least $1 billion more toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug claims.</p><p>\"The only reason Aearo needs to reorganize is because of this newly created indemnity agreement. Outside of that, there's no reason in my view for 3M\" to agree to pay $1.24 billion, Judge Rodgers said.</p><p>3M's lawyer Jessica Lauria disagreed with the judge's characterization, saying that 3M acquired Aearo in 2008, and that most of the earplug claims, about 80%, predated 3M's ownership. 3M has denied liability in the earplug litigation and said the product is safe when used correctly.</p><p>Ms. Lauria also said that Judge Rodgers should let the bankruptcy court address whether 3M deserves the same stay on lawsuits that Aearo gained by filing for chapter 11. A hearing on 3M's request for stay protection is scheduled for next week.</p><p>The judge didn't rule on injury lawyers' request to enjoin 3M from seeking that protection in Aearo's bankruptcy case. She compared Aearo's chapter 11 case to that of Johnson &amp; Johnson's LTL Management LLC, which filed for bankruptcy to resolve talc-related litigation against J&amp;J.</p><p>The judge said the two bankruptcy cases are \"very different,\" noting that Aearo was in existence for three decades before 3M's acquisition, while LTL was created shortly before its bankruptcy filing last year.</p><p>Like 3M, J&amp;J has said that bankruptcy provides a better forum for equitably compensating injury claimants than the tort system. A bankruptcy judge agreed with J&amp;J in February that LTL's bankruptcy case was filed for a legitimate purpose and not as a bad-faith tactic, as plaintiffs' lawyers alleged. A federal appeals court is reviewing that decision.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com</p><p>Judge Questions 3M Earplug Unit's Path to Bankruptcy</p>",
+  "published": "2022-08-11T21:51:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 16,
+          "end": 18
+        },
+        {
+          "start": 54,
+          "end": 56
+        },
+        {
+          "start": 85,
+          "end": 87
+        },
+        {
+          "start": 338,
+          "end": 340
+        },
+        {
+          "start": 775,
+          "end": 777
+        },
+        {
+          "start": 995,
+          "end": 997
+        },
+        {
+          "start": 1205,
+          "end": 1207
+        },
+        {
+          "start": 1259,
+          "end": 1261
+        },
+        {
+          "start": 1343,
+          "end": 1345
+        },
+        {
+          "start": 1427,
+          "end": 1429
+        },
+        {
+          "start": 1442,
+          "end": 1444
+        },
+        {
+          "start": 1629,
+          "end": 1631
+        },
+        {
+          "start": 1723,
+          "end": 1725
+        },
+        {
+          "start": 1842,
+          "end": 1844
+        },
+        {
+          "start": 2185,
+          "end": 2187
+        },
+        {
+          "start": 2277,
+          "end": 2279
+        }
+      ],
+      "weightsV2": {
+        "weight": 20.92017,
+        "baseWeight": 16.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9201702,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

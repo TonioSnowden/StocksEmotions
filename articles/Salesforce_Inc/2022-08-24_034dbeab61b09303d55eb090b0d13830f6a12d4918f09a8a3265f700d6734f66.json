@@ -1,0 +1,74 @@
+{
+  "_id": "034dbeab61b09303d55eb090b0d13830f6a12d4918f09a8a3265f700d6734f66",
+  "feed": "market-watch",
+  "title": "Salesforce stock slumps after trimmed earnings and sales forecast outweighs first major stock-buyback plan; Cloud-software company's executives plans to repurchase shares worth $10 billion while trimming annual forecast, missing expectations for third-quarter guidance",
+  "text": "<p>While beating on their results, Salesforce executives missed on their forecasts. For the third quarter, which will include the annual Dreamforce conference in September — a major revenue driver for the company — Salesforce executives guided for adjusted earnings of $1.20 a share to $1.21 a share on sales of $7.82 billion to $7.83 billion. Analysts on average were modeling third-quarter adjusted earnings of $1.28 a share on revenue of $8.07 billion, according to FactSet.</p><p>For the full year, Salesforce execs reduced their annual forecast, which now calls for adjusted earnings of $4.71 to $4.73 a share on sales of $30.9 billion to $31 billion, after stating $4.74 to $4.76 a share on revenue of $31.7 billion to $31.8 billion three months ago. Executives reduced their annual revenue guidance slightly three months ago, butincreased their forecast for adjusted earnings.</p><p>Shares fell more than 4% in after-hours trading immediately following the release of the results, after closing with a 2.6% gain at $180.62.</p><p>Analysts had expected that continuing concerns about enterprise spending and other issues, such as a strengthening dollar, would preclude Salesforce from raising its guidance.</p><p>\"While we are expecting solid F2Q results, we believe Salesforce will take the approach other software companies have been taking, whereby a 'beat and meet' or 'beat and lower' is far more likely than a 'beat and raise' on the top line,\" Evercore ISI analysts wrote ahead of the report, while keeping their $250 price target on the stock.</p><p>Salesforce did institute its first major share-repurchase plan, committing $10 billion to buying its own stock.</p><p>\"We're thrilled to initiate our first-ever share repurchase program to continue to deliver incredible value to our shareholders on our path to $50 billion in revenue in FY26,\" Co-Chief Executive Marc Benioff said in a statement.</p><p>While the growth of cloud software has continued, there are concerns about the next few months. Analysts believe that businesses are looking to cut costs and push out any spending amid economic concerns, and that could punish Salesforce and other software names.</p><p>Oppenheimer research \"indicates that Salesforce remains a long-term enterprise market-share gainer but that near-term enterprise spending plans on Salesforce, and in general, are under pressure from macro uncertainty,\" analysts wrote late last week in a preview of the report, while maintaining an outperform rating and $240 price target. \"Growth investments for digital transformation are increasing in priority as growth becomes harder to find, but businesses are also rationalizing operating cost structures, which is elongating sales cycles.\"</p><p>Salesforce stock has declined 28.8% so far this year, as the Dow Jones Industrial Average DJIA — which counts Salesforce as one of its 30 components — has dropped 9.4% and the S&amp;P 500 index SPX has fallen 13.4%.</p><p>Salesforce stock slumps after trimmed earnings and sales forecast outweighs first major stock-buyback plan</p>",
+  "published": "2022-08-24T20:18:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 32,
+          "end": 42
+        },
+        {
+          "start": 211,
+          "end": 221
+        },
+        {
+          "start": 491,
+          "end": 501
+        },
+        {
+          "start": 1148,
+          "end": 1158
+        },
+        {
+          "start": 1523,
+          "end": 1533
+        },
+        {
+          "start": 2087,
+          "end": 2097
+        },
+        {
+          "start": 2160,
+          "end": 2170
+        },
+        {
+          "start": 2270,
+          "end": 2280
+        },
+        {
+          "start": 2668,
+          "end": 2678
+        },
+        {
+          "start": 2682,
+          "end": 2692
+        },
+        {
+          "start": 2778,
+          "end": 2788
+        }
+      ],
+      "weightsV2": {
+        "weight": 18.0,
+        "baseWeight": 12.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

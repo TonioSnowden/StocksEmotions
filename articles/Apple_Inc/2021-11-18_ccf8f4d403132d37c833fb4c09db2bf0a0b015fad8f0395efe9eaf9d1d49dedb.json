@@ -1,0 +1,44 @@
+{
+  "_id": "ccf8f4d403132d37c833fb4c09db2bf0a0b015fad8f0395efe9eaf9d1d49dedb",
+  "feed": "wall-street-journal",
+  "title": "Apple To Ease Self Repair Of Devices",
+  "text": "<p>Apple has been known for its tight control of the repair process, focused around Apple Stores and authorized service providers.</p><p>In July, as part of an executive order addressing consumer affairs, the Biden administration encouraged the Federal Trade Commission to issue rules barring electronics makers from restricting the use of independent repair shops -- or people repairing their own devices.</p><p>Apple's program would be available first for the company's most recent iPhone 12 and iPhone 13 lineups and would then be followed by Mac computers running on Apple's M1 chips, the company said. Apple noted that the program is \"intended for individual technicians with the knowledge and experience to repair electronic devices,\" and that most customers would still have to visit professional repair providers.</p><p>Still, any Apple device owner with a valid device serial number can register online to order parts and conduct a self-service repair, the company said.</p><p>Apple said it won't verify an applicant's technical know-how, but it will require an acknowledgment of the terms and conditions -- including the possibility of voiding a warranty through damage during a repair.</p>",
+  "published": "2021-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 592,
+          "end": 597
+        },
+        {
+          "start": 959,
+          "end": 964
+        },
+        {
+          "start": 81,
+          "end": 86
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 398,
+          "end": 403
+        },
+        {
+          "start": 818,
+          "end": 823
+        },
+        {
+          "start": 556,
+          "end": 561
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

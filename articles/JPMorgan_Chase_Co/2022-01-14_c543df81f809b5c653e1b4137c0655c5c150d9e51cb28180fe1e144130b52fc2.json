@@ -1,0 +1,28 @@
+{
+  "_id": "c543df81f809b5c653e1b4137c0655c5c150d9e51cb28180fe1e144130b52fc2",
+  "feed": "market-watch",
+  "title": "U.S. stock futures pause as earnings season kicks off after tech stock dive",
+  "text": "<p>Futures on the Dow Jones Industrial Average YM00 rose 94 points, or 0.3%, to 36083</p><p>Futures on the S&amp;P 500 ES00 rose 7 points, or 0.2%, to 4659</p><p>Futures on the Nasdaq 100 NQ00 fell 4 points, a fractional percentage decline, to 15486</p><p>On Thursday, the Dow Jones Industrial Average DJIA fell 177 points, or 0.49%, to 36114, the S&amp;P 500 SPX declined 67 points, or 1.42%, to 4659, and the Nasdaq Composite COMP dropped 382 points, or 2.51%, to 14807.</p><p>What's driving markets</p><p>Comments from several Federal Reserve speakers this week showed central bank officials were thinking about making as many as five interest rate hikes in 2022, though three increases is what the dot plot of economic projections by policymakers is currently forecasting.</p><p>“The three-day U.S. tech rally fell apart, despite Treasury yields moving lower, following a selection of updates from Fed speakers in the past couple of days,” said Ian Williams, a strategist at U.K. broker Peel Hunt.</p><p>New York Fed President John Williams, a key official, is due to speak Friday, and there also will be the release of U.S. December retail sales and University of Michigan consumer sentiment data.</p><p>Earnings reporting season unofficially starts as well on Friday, with several major banks including JPMorgan Chase JPM and Wells Fargo WFC each reporting stronger fourth-quarter earnings than forecast.</p>",
+  "published": "2022-01-14T07:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 1250,
+          "end": 1264
+        },
+        {
+          "start": 1265,
+          "end": 1268
+        },
+        {
+          "start": 1250,
+          "end": 1258
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

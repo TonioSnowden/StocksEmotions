@@ -1,0 +1,20 @@
+{
+  "_id": "22e52d1d0ac5660a1b2bd0c7e5d80e8589151d46bc582e7134664113255d4604",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>U.S. stocks sank on Friday to cap their worst week since October, with the Dow industrials and Nasdaq both losing 2% and the S&amp;P 500 shedding 1.9%.</p><p>---</p><p>U.S. household income rose for the first time in three months in December as a new round of government-aid efforts kicked in.</p><p>---</p><p>Facebook will suffer damage to its core business when Apple implements new privacy changes, advertising industry experts say.</p><p>---</p><p>Chevron posted its third consecutive quarterly loss to close its worst year since 2016, as the global pandemic continues to weigh on the oil-and-gas industry.</p><p>---</p><p>Current and former employees of Pimco wrote to the firm's senior executives alleging a pattern of abusive and discriminatory behavior toward women.</p><p>---</p><p>Caterpillar said revenue fell 15% in its fourth quarter due to lower volumes and less demand from customers and dealers, but flagged signs of a turnaround.</p>",
+  "published": "2021-01-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 336,
+          "end": 341
+        }
+      ]
+    }
+  ]
+}

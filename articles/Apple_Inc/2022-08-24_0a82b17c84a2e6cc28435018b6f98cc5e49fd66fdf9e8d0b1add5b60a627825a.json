@@ -1,0 +1,70 @@
+{
+  "_id": "0a82b17c84a2e6cc28435018b6f98cc5e49fd66fdf9e8d0b1add5b60a627825a",
+  "feed": "wall-street-journal",
+  "title": "Apple Plans to Ramp Up iPhone Production in India",
+  "text": "<p>The coming iPhone 14 model could be made in India as early as November, one of the people said, two months after the traditional September launch date for Apple's new smartphones. Apple said in April it had started producing in India the latest generation of iPhones, the iPhone 13 series, seven months after its release.</p><p>An Apple spokesman didn't respond to a request to comment. Bloomberg News earlier reported Apple's plans to start manufacturing the iPhone 14 in India earlier than previous years' models.</p><p>The shift comes after Apple told some of its contract manufacturers that it wanted to boost production outside China, citing Beijing's strict anti-Covid policy among other reasons, The Wall Street Journal reported in May. Still, more than 90% of Apple products such as iPhones, iPads and MacBook laptops are made in China by contractors, a dependence on China that presents a risk due to continuing tensions between Washington and Beijing, analysts say.</p><p>Lockdowns in Shanghai and other cities as part of China's efforts to keep the virus out of the country have caused supply-chain bottlenecks for many Western companies and weakened consumer demand.</p><p>India's government has in recent years made a push to get companies such as Apple to switch high-end manufacturing from China to India as global trade tensions have flared. Prime Minister Narendra Modi's government has worked to create a more predictable regulatory regime and a simpler corporate tax structure. It has targeted smartphone makers with financial incentives for reaching production and revenue goals.</p><p>For Apple, one challenge has been finding in India the amount of skilled and unskilled labor that is available in China, analysts say. India's ports, roads and infrastructure also lag behind those in China.</p><p>Taiwan-based assemblers Foxconn Technology Group and Wistron Corp. have in recent years set up factories in India to produce iPhones mainly for the country's domestic market. Both companies are preparing to produce the iPhone 14, according to people familiar with the matter.</p><p>After struggling for years to boost its sales in India due in part to competition from less expensive rivals, Apple's India market share in 2018 stood at about 1%. That should rise to 4%, its highest ever, by the end of this year, according to Tarun Pathak, research director at Counterpoint Research in India.</p><p>India is home to more than 1.3 billion people and has the world's second-largest smartphone market. India accounted for about 3.1% of Apple's global manufacturing base last year, up from 1.3% in 2020, according to Counterpoint estimates. It is expected to rise to 5%-7% this year. China accounts for 95.3%.</p><p>---</p><p>Yang Jie contributed to this article.</p>",
+  "published": "2022-08-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 155,
+          "end": 160
+        },
+        {
+          "start": 179,
+          "end": 184
+        },
+        {
+          "start": 323,
+          "end": 328
+        },
+        {
+          "start": 410,
+          "end": 415
+        },
+        {
+          "start": 528,
+          "end": 533
+        },
+        {
+          "start": 751,
+          "end": 756
+        },
+        {
+          "start": 1230,
+          "end": 1235
+        },
+        {
+          "start": 1570,
+          "end": 1575
+        },
+        {
+          "start": 2155,
+          "end": 2160
+        },
+        {
+          "start": 2487,
+          "end": 2492
+        }
+      ],
+      "weightsV2": {
+        "weight": 18.0,
+        "baseWeight": 11.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

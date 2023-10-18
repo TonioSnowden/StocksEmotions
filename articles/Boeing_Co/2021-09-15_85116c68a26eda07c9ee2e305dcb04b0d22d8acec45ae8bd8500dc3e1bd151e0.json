@@ -1,0 +1,28 @@
+{
+  "_id": "85116c68a26eda07c9ee2e305dcb04b0d22d8acec45ae8bd8500dc3e1bd151e0",
+  "feed": "wall-street-journal",
+  "title": "Business News: CEO Wants Judge To Clarify Comment",
+  "text": "<p>\"The court could not have meant to make findings that adopt plaintiffs' view of the case at this early stage of litigation without access to the complete record of transcripts and testimony that will tell the full story,\" the defense lawyers wrote.</p><p>They said the judge's ruling went further than it needed in establishing that the plaintiffs had met certain legal thresholds to proceed.</p><p>Two of Boeing's 737 MAX jets crashed in late 2018 and early 2019, claiming 346 lives. Two Boeing shareholders are suing the company's board, alleging directors failed to sufficiently properly monitor safety matters during the aircraft's development and after the fatal accidents.</p><p>The ruling this month, by Vice Chancellor Morgan Zurn of Delaware's Court of Chancery, let the shareholders' lawsuit proceed, allowing it to overcome Boeing's attempt to dismiss it. Her ruling said the board \"publicly lied about if and how it monitored the 737 MAX's safety.\" The ruling cited 2019 newspaper interviews that Mr. Calhoun gave when he was the board's lead director.</p>",
+  "published": "2021-09-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 477,
+          "end": 483
+        },
+        {
+          "start": 817,
+          "end": 823
+        },
+        {
+          "start": 394,
+          "end": 400
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

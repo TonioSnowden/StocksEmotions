@@ -1,0 +1,30 @@
+{
+  "_id": "cade52f7850d2c7af1c6711354b66d31d8849b4cb47a8056ce47ba7dc48c70fd",
+  "feed": "wall-street-journal",
+  "title": "McDonald's Adds Three New Directors to Board; Longtime member Sheila Penrose to step down; Marriott, J&J and Salesforce executives to join",
+  "text": "<p>Ms. Penrose's departure comes months after her seat on the McDonald's board was challenged by activist investor Carl Icahn, who criticized the fast-food chain over its suppliers' treatment of pregnant pigs. At the time, Mr. Icahn also targeted a seat held by Richard Lenny, the former chief executive of Hershey Co.</p><p>McDonald's Chairman Enrique Hernandez Jr. said Monday that Ms. Penrose has overseen the company's progress on climate, responsible sourcing and diversity, equity and inclusion goals.</p><p>McDonald's said it has elected Marriott CEO Tony Capuano, J&amp;J Worldwide Chair of Pharmaceuticals Jennifer Taubert and Salesforce Chief Financial Officer Amy Weaver to the board effective Oct. 1.</p><p>The new additions increase the size of the board to 14, and increase the number of women on the board from three, including Ms. Penrose, to four.</p><p>The move also comes after executives warned last month that the business outlook remains uncertain amid inflation and weakening consumer sentiment.</p><p>McDonald's said last month that for the recently ended quarter, higher prices and value-menu offerings pushed same-store sales up 3.7% in the U.S. from a year earlier, outpacing analysts' expectations. Overall revenue, though, fell 3%, mostly because of the stronger U.S. dollar.</p><p>Write to Will Feuer at will.feuer@wsj.com</p><p>McDonald's Adds Three New Directors to Board</p>",
+  "published": "2022-08-22T19:59:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 101,
+          "end": 104
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

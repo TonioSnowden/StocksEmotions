@@ -1,0 +1,28 @@
+{
+  "_id": "c4e6da0b670940cf34c20bc283920dab62c4b4ab374c00bc6d3398302b3581a5",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Lawmakers  Seek Probe  Of Amazon  Contract  Pursuit  ----  By Dana Mattioli",
+  "text": "<p>   Two Republican lawmakers are pressing the attorney general to investigate potential anticompetitive behavior by Amazon.com Inc. in its pursuit of a major government cloud-computing contract, according to letters reviewed by The Wall Street Journal. </p><p>   Sen. Mike Lee (R., Utah) and Rep. Ken Buck (R., Colo.) urged Attorney General Merrick Garland to open an investigation into the Joint Enterprise Defense Infrastructure procurement process in a joint letter on Monday evening. Amazon was one of several technology companies that competed for the Defense Department's 10-year, $10 billion cloud-computing contract but lost to rival Microsoft Corp. </p><p>   The letter says that Amazon may have violated antitrust and federal conflict-of-interest laws. \"We are concerned that Amazon may have attempted to monopolize one or more markets relating to government and/or commercial cloud computing services by improperly influencing the Joint Enterprise Defense Infrastructure procurement process,\" the letter says. </p><p>   Amazon didn't respond to requests for comment late Monday. The company previously has said that its cloud subsidiary received no preferential treatment. </p><p>   Amazon has contested the 2019 decision awarding the JEDI contract to Microsoft, its largest cloud-computing rival. Amazon contends that it was treated unfairly in the JEDI procurement process, claiming that former President Donald Trump improperly influenced the outcome and steered the contract to another bidder. The Pentagon has denied those claims. </p><p>   In their letter to Mr. Garland, Messrs. Lee and Buck point to what they say are undisclosed payments between an Amazon consultant and a Defense Department official. In another alleged conflict of interest, Messrs. Lee and Buck describe a different Defense Department official who had previously worked as a consultant for Amazon \"playing an integral role in drafting directives regarding the Department's cloud acquisition strategy\" despite being instructed to recuse himself from matters regarding Amazon. </p><p>   Representatives for the Defense Department didn't respond to requests for comment late Monday. </p><p>   --- </p><p>   John D. McKinnon contributed to this article. </p><p></p>",
+  "published": "2021-05-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1219,
+          "end": 1228
+        },
+        {
+          "start": 628,
+          "end": 643
+        },
+        {
+          "start": 628,
+          "end": 637
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

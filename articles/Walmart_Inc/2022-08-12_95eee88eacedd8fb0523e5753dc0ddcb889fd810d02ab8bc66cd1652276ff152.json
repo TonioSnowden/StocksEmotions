@@ -1,0 +1,30 @@
+{
+  "_id": "95eee88eacedd8fb0523e5753dc0ddcb889fd810d02ab8bc66cd1652276ff152",
+  "feed": "market-watch",
+  "title": "Primary care has been evolving for years. Expect M&A and partnerships as the market heats up. Amazon isn't the only company putting billions of dollars into primary care",
+  "text": "<p>\"The pandemic was a forcing function for innovative care-delivery models out of necessity,\" said Dr. Erin Ney, an internist and an expert associate partner at Bain &amp; Co.</p><p>Corporations have for years been pouring billions of dollars into primary care. CVS Health CVS is now the largest provider of retail health services in the country. Humana HUM and the private-equity firm Welsh, Carson, Anderson &amp; Stowe this year put an additional $1.2 billion into a venture that plans to develop 100 primary-care clinics for seniors.</p><p>Walgreens Boots Alliance WBA plans to operate hundreds of primary-care clinics through a $5.2 billion investment in VillageMD. Half a dozen startups including One Medical ONEM, a direct primary-care provider that trades under the name 1Life Healthcare, and Oak Street Health OSH have gone public since 2020.</p><p>And so what we're seeing now is a flurry of M&amp;A talk and activity that indicate long-laid plans to modernize — and potentially better monetize — primary care moving forward.</p><p>Amazon AMZN said in July it's buying One Medical for $3.9 billion. CVS, which had reportedly considered buying One Medical, is now interested in acquiring Signify Health SGFY, a home-health startup, according to media reports. This would fit into the pharmacy giant's strategy to build out its home-health, provider enablement, and primary-care offerings. (Keep in mind that CVS operates Aetna, one of the nation's largest health insurers.)</p><p>\"We can't be in primary care without M&amp;A,\" CVS CEO Karen Lynch said earlier this month.</p><p>Primary care has traditionally been viewed as the front door to the U.S. healthcare system. It's where patients are supposed to have long-term, one-on-one relationships with their doctors. But, in today's world, that's a bit of a fairy tale.</p><p>Most millennials don't have a primary-care doctor, and even if they wanted one it can be hard to secure one. A projection from the American Association of Medical Colleges indicates that the U.S. will be short as many as 48,000 primary-care physicians by 2034, as the U.S. population grows, doctors retire, and some medical residents pursue more lucrative specialties like dermatology over primary care.</p><p>That disconnect has created the opportunity for companies to come in and update what has been viewed as a stale healthcare experience. There are several ways to do this. One is setting up multidisciplinary teams that includes a wide range of clinicians.</p><p>\"We can't rely on a physician-centric model,\" Bain's Ney said.</p><p>Another is focusing on a specific group of patients — for instance, Oak Street only works with people covered by Medicare. By doing this, primary-care companies can provide more tailored care than if they are treating everyone from an 79-year-old Medicare beneficiary with multiple age-related co-morbidities to a 44-year-old father of two with commercial insurance through an employer.</p><p>This is why Oak Street first partnered with Walmart WMT back in 2020.</p><p>\"We can run the same care model inside a Walmart WMT center versus just inside an Oak Street center,\" Oak Street CEO Michael Pykosz told investors last week. \"The reality is, in most Walmarts, a huge percentage of people in the community, including older adults, are shopping at Walmart. It tends to be a similar demographic to what we see.\"</p><p>That said, some of these new publicly traded entrants are trading far below where they were a year ago. One Medical's stock is down 31.3%, while Oak Street's shares have tumbled 46.9%, and Cano Health's CANO stock has declined 58.0%.</p><p>Cano CEO Marlon Hernandez told investors on Tuesday that the company remains \"open to considering all strategic alternatives that allow us to accelerate value creation.\"</p><p>Primary care has been evolving for years. Expect M&amp;A and partnerships as the market heats up.</p>",
+  "published": "2022-08-12T12:19:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.6,
+      "offsets": [
+        {
+          "start": 3232,
+          "end": 3239
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9025,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

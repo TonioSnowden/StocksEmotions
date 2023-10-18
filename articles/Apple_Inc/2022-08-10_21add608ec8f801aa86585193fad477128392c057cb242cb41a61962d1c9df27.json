@@ -1,0 +1,34 @@
+{
+  "_id": "21add608ec8f801aa86585193fad477128392c057cb242cb41a61962d1c9df27",
+  "feed": "wall-street-journal",
+  "title": "Foxconn Warns of Slowing Demand for Smartphones; World's biggest iPhone assembler's quarterly profit rose 12% on solid smartphone sales",
+  "text": "<p>Foxconn's warning comes as inflation and economic uncertainty cause consumers to curtail discretionary spending, denting demand for electronics including smartphones.</p><p>Last month, smartphone chip maker Qualcomm Inc. cut its smartphone shipment forecast for this year and issued a muted sales outlook. Memory chip makers SK Hynix Inc. and Micron Technology Inc. have said that their customers—which includes PC and smartphone manufacturers—are starting to tighten costs and adjust inventories.</p><p>For the quarter ended in June, Foxconn posted a 12% rise in net profit from a year earlier, driven by solid demand for smartphones and cloud devices. That beat the 1.9% rise expected by analysts, according to S&amp;P Global Market Intelligence.</p><p>Revenue rose 12% to the equivalent of $50.3 billion. Foxconn, formally known as Hon Hai Precision Industry Co., said consumer electronics including smartphones, laptops and smart wearable devices accounted for half of its revenue in the last quarter.</p><p>For the April-June quarter, Foxconn's biggest customer Apple Inc. reported an almost 11% decline in profitafter weathering supply constraints and shutdowns in China, although iPhone sales continued to grow, rising 2.8%.</p><p>Foxconn slightly raised its full-year revenue forecast after a solid second quarter, saying it expected growth this year instead of roughly flat performance, without giving specific numbers.</p><p>The electronics industry has suffered from a chip shortage in recent quarters. Mr. Liu said that while overall conditions are improving, makers of servers and telecommunications products still face a shortage of semiconductors.</p><p>In July, Foxconn said it invested around $800 million into Tsinghua Unigroup, the heavily indebted Chinese chip conglomerate that is undergoing a restructuring. The deal has come under scrutiny in Taiwan, the world's biggest chip production hub that is wary of neighboring China's technological advancement in the sector.</p><p>Foxconn's investment won't go to memory chip maker Yangtze Memory Technologies Co. and contract chip maker Wuhan Xinxin Semiconductor Manufacturing Co., both units of Unigroup, Mr. Liu said.</p><p>YMTC is China's leading memory-chip maker, helping boost the country's competitiveness in the sector.</p><p>Taiwan's Ministry of Economic Affairs said Wednesday that it is still in the process of reviewing Foxconn's investment into Unigroup. Mr. Liu said Foxconn has plans in case Taiwanese regulators order Foxconn to spike the deal.</p><p>Write to Yang Jie at jie.yang@wsj.com</p><p>Foxconn Warns of Slowing Demand for Smartphones</p>",
+  "published": "2022-08-10T11:55:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1032,
+          "end": 1041
+        },
+        {
+          "start": 1039,
+          "end": 1049
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.429566,
+        "baseWeight": 2.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": -0.5704999,
+        "tagPositionWeight": 6.592274e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

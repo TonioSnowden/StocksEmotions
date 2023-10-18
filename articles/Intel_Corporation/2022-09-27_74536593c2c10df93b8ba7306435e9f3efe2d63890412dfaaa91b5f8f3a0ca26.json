@@ -1,0 +1,44 @@
+{
+  "_id": "74536593c2c10df93b8ba7306435e9f3efe2d63890412dfaaa91b5f8f3a0ca26",
+  "feed": "market-watch",
+  "title": "Moore's Law 'alive and well' as Intel CEO pushes back at Nvidia, launches budget gaming card; Intel's Arc A770 to launch Oct. 12 at $329",
+  "text": "<p>Last week at Nvidia's GTC conference, the lead GPU maker said it was releasing its new line of gaming cards using \"Lovelace\" architecture, starting at a list price of $899. Notably, the day after the Nvidia CEO Jensen Huang unveiled his gaming cards, he addressed criticism that the company hiked the price of the new cards, arguing that\"Moore's Law's dead.\"</p><p>Read: 'Moore's Law's dead,' Nvidia CEO Jensen Huang says in justifying gaming-card price hike</p><p>Moore's Law is the standard the chip industry has followed for decades in that every two years the number of transistors one can fit on a chip should double. Huang argued the law no longer applies as chip architectures becomes more complicated and silicon wafers become more expensive.</p><p>Gelsinger, on the other hand, said that Moore's Law \"is alive and well\" in his keynote. Intel uses the x86 architecture it has used since Gelsinger, then an Intel engineer, helped design it back in the 1970s.</p><p>Nvidia uses architecture developed by Arm Ltd. that executes commands differently than x86 chips. Back in February, Nvidia's $40 billion deal to acquire Arm from Japanese conglomerate SoftBank Group JP:9984 fell apart, and the chip maker settled for a 20-year license of year license for Arm technology.</p><p>Read: Intel changed the name of its chips, but analysts say the story hasn't changed</p><p>Gelsinger also welcomed Linux open-source operating system creator Linus Torvalds to the stage and presented him with a lifetime achievement award, as the CEO used his keynote to play up the use of open source software when it comes to Intel chips.</p><p>That contrasts with Nvidia, which Torvalds has criticized over the years for using a closed proprietary ecosystem and famously — and not safe for work — dissed Nvidia a decade ago.</p><p>Moore's Law 'alive and well' as Intel CEO pushes back at Nvidia, launches budget gaming card</p>",
+  "published": "2022-09-27T18:44:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 896,
+          "end": 901
+        },
+        {
+          "start": 1573,
+          "end": 1578
+        },
+        {
+          "start": 1258,
+          "end": 1263
+        },
+        {
+          "start": 827,
+          "end": 832
+        },
+        {
+          "start": 32,
+          "end": 37
+        },
+        {
+          "start": 1799,
+          "end": 1804
+        },
+        {
+          "start": 94,
+          "end": 99
+        }
+      ]
+    }
+  ]
+}

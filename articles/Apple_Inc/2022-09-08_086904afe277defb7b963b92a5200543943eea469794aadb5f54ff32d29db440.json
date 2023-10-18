@@ -1,0 +1,30 @@
+{
+  "_id": "086904afe277defb7b963b92a5200543943eea469794aadb5f54ff32d29db440",
+  "feed": "wall-street-journal",
+  "title": "Snap CEO Sees Challenges in Executing Turnaround Drive; Evan Spiegel says TikTok's level of investment in acquiring users was a surprise",
+  "text": "<p>Despite the near-term challenges that have caused Snap's stock to plunge about 85% over the past year, Mr. Spiegel said he remains upbeat about the future of the business he co-founded. \"I believe we're far from reaching our full potential.\"</p><p>Snap last week disclosed plans to slash 20% of its workforce because of deteriorating market conditions and sales growth that had slowed from more than 40% at the start of the year to around 8% in the current quarter to date. \"We don't see a lot of things that make us optimistic and so what we've had to do is really restructure our business,\" Mr. Spiegel said at Wednesday's event.</p><p>In addition to announcing it was laying off about 1,200 employees, Snap last week said it would also shut down several projects, including its recently launched flying selfie-camera drone, after posting its slowest sales growth in years in July. The company said it was prepared for a period of low revenue growth that could stretch into next year and that the changes it is making should trim annual costs by about $500 million.</p><p>Tech companies more broadly are resetting their plans in the face of an economic slowdown. Google CEO Sundar Pichai on Tuesday said he was aiming to make the Alphabet Inc. company about 20% more productive. Amazon.com Inc. CEO Andy Jassy said the company was slowing the pace of its staff growth.</p><p>Snap has been hit particularly hard by disruptions in the digital ad market caused by Apple Inc.'s privacy policy changes, inflationary pressures and a broader economic weakening. As firms have pulled back on their ad spending, Snap has been left fighting for ad dollars against other tech giants such as Facebook parent Meta Platforms Inc. and Google.</p><p>The company said the ad market has rapidly deteriorated. In May, Snap posted a profit warning, telling investors that quarterly revenue would likely come in below projections made just a month earlier. It also said it would slow hiring and spending at the time.</p><p>Snap also has said that the competition for the ad spending that remains has become more heated. That partly reflects the strong rise of TikTok, the video-sharing app owned by China's ByteDance Ltd. that has become a household name in recent years.</p><p>Mr. Spiegel suggested that the pace of TikTok's growth was a surprise. \"I think what nobody had anticipated in the United States was the level of investment that ByteDance made into the U.S. market, and of course in Europe, it was just something that was unimaginable,\" he said. \"No startup could afford to invest billions and billions and billions of dollars in user acquisition like that around the world,\" Mr. Spiegel added.</p><p>Having so many users deliver content to TikTok enabled the platform to expand and helped improve its algorithm, in part by allowing for highly personalized feeds, Mr. Spiegel said. Replicating that sophistication has been a challenge for the established social-media companies now trying to fend off TikTok, he said.</p><p>TikTok didn't immediately respond to a request for comment.</p><p>Write to Meghan Bobrowsky at Meghan.Bobrowsky@wsj.com</p><p>Snap CEO Sees Challenges in Executing Turnaround Drive</p>",
+  "published": "2022-09-08T04:14:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1430,
+          "end": 1440
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9500012,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 1.1920929e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

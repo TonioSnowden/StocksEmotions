@@ -1,0 +1,32 @@
+{
+  "_id": "89fc4e143f075c5f583fb35288bd27b297bcf2b807224adbfc87aa06932e2c1d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Tech Firms Set Standards  For Vaccine Verification  ----  By Sara Castellanos and Angus Loten",
+  "text": "<p>   A coalition that includes tech giants and healthcare providers is preparing to release global standards for mobile apps that verify whether someone has had a Covid-19 vaccine. </p><p>   The Vaccination Credential Initiative standards will incorporate digitally verified clinical data with a name and birth date that can be also displayed as machine-readable QR codes. </p><p>   After the open-source standards are released next month, they can be integrated into mobile apps that people could use to verify they have been vaccinated to gain admission to offices, restaurants, bars, entertainment venues and other public places. </p><p>   Companies and venues could choose to request additional verification, such as a driver's license, or temperature checks. </p><p>   \"We will have the published standards available next month. It has progressed quite rapidly,\" said John Halamka, president of Mayo Clinic Platform, a division of the nonprofit academic medical center, who is helping lead the effort. </p><p>   The group's more than 200 members include Microsoft Corp., Oracle Corp., Salesforce.com Inc. and healthcare providers. It hopes the software framework will be the dominant standard world-wide for verifying Covid-19 vaccinations. </p><p>   \"What's new and exciting about [the new standards] is the ability to digitally sign that information so it's basically tamper-proof,\" said Paul Meyer, co-founder and chief executive of coalition member the Commons Project, a nonprofit organization that develops digital services. </p><p>   The Commons Project plans to integrate the new software standards into two free apps that are currently available, CommonPass and CommonHealth. CommonHealth lets people collect, manage and share their health data, and CommonPass lets people show their Covid-19 health status in scenarios such as traveling and returning to work. </p><p>   The standards are currently going through an approval process by members of Health Level Seven International, or HL7, which helps organizations exchange clinical data throughout the world, Dr. Halamka said. </p><p>   \"The aim . . . is to provide individuals access to their Covid-19 vaccination records in a secure, verifiable and privacy-preserving way,\" a Microsoft representative said. </p><p>   The group isn't getting paid for developing the standards, which will be freely available for anyone to use. Healthcare organizations can update their existing mobile apps to incorporate the new standards. </p><p>   \"It absolutely has to be a joint effort,\" said Bill Patterson, Salesforce's executive vice president and general manager of customer relationship management applications. \"This is the largest vaccination effort in human history.\" </p><p>   The enterprise-software giant is contributing tools to the group for interoperable messaging, workflow, software integration and other capabilities, Mr. Patterson said. Salesforce didn't say how much it is investing in the effort. </p><p>   Various organizations are already piloting or planning to introduce digital verification apps, or \"passports.\" </p><p>   On Wednesday, the European Union said it was introducing a vaccination \"passport\" in both digital and paper form for EU citizens traveling within the bloc. Clear, the expedited airline security gate service, is testing a Covid-19 test- or vaccination-verification app on some flights into Hawaii as part of a pilot program with the state. </p><p>   International Business Machines Corp. launched a verification service for Covid-19 health data last fall called Digital Health Pass built on blockchain, the technology behind cryptocurrencies. IBM, which is also part of the VCI coalition, charges commercial clients, including local governments, for services such as integrating the Digital Health Pass into their existing mobile apps. IBM had been building the service before the pandemic and will integrate the VCI standards after they are released. IBM declined to say how much money it has invested in the development of its Digital Health Pass. </p><p>   IBM said it has offered feedback on several standards efforts. Eric Piscini, global vice president of emerging business networks, said he expects that mobile apps for Covid-19 health data will have to comply with multiple standards. </p><p>   Salesforce said it is working on integrating IBM's Digital Health Pass into its Work.com platform, designed to help employers with a range of tasks such as staggering work shifts. </p><p>   Alphabet Inc.'s Google isn't directly involved with the VCI group, but said it is keeping a close eye on efforts to establish a software standard, which can then be integrated into its digital-wallet platform and accessed on Android mobile devices. \"We stand ready to engage with public health bodies and other organizations to understand their requirements,\" a Google spokeswoman said. </p><p></p>",
+  "published": "2021-03-20T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "offsets": [
+        {
+          "start": 1035,
+          "end": 1049
+        },
+        {
+          "start": 2784,
+          "end": 2794
+        },
+        {
+          "start": 4129,
+          "end": 4139
+        },
+        {
+          "start": 2448,
+          "end": 2458
+        }
+      ]
+    }
+  ]
+}

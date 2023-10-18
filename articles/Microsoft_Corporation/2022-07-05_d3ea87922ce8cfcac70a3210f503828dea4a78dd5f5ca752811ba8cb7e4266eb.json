@@ -1,0 +1,24 @@
+{
+  "_id": "d3ea87922ce8cfcac70a3210f503828dea4a78dd5f5ca752811ba8cb7e4266eb",
+  "feed": "wall-street-journal",
+  "title": "Smaller Companies Are Urged to Adopt Multifactor Authentication; The inconvenience of multiple login steps pales next to the risk of using only passwords, experts say",
+  "text": "<p>Yet a survey of around 1,400 small and medium businesses globally conducted by the U.S.-based nonprofit Cyber Readiness Institute, and published Tuesday, finds that 55% of companies haven't set up multifactor authentication. Of those that have, only 28% require employees to use it.</p><p>\"We know nearly all account compromise attacks can be stopped outright, just by using MFA. It's a proven, effective way to thwart bad actors,\" said Karen Evans, managing director of CRI, which was established in 2017 to provide cybersecurity resources to smaller companies. The group was formed by public and private-sector cybersecurity experts who were part of a federal task force on enhancing cybersecurity nationwide.</p><p>Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency—the top cyber unit of the U.S. government—said that part of the problem with adoption has been how the industry and government communicate security concepts to the private sector. Technical terms such as MFA can often be confusing and muddy the message, she said.</p><p>CISA, an arm of the Department of Homeland Security, promotes MFA as a simple fix to prevent common cyberattacks, most recently through its \"More Than A Password\" campaign.</p><p>\"Cybersecurity is not about technology and it's not about code; it's about people,\" Ms. Easterly said. \"It's about people from a human behavior perspective, but it's also about people recognizing that they hold a significant amount of risk in terms of how they are operating and that they can drive down that risk with some very simple things.\"</p><p>Hackers can often gain access to systems by buying breached passwords on darknet forums or with brute force by trying millions of combinations of letters and numbers. An authorization request for a login sent to a cellphone or email account adds an extra layer of security that can deter most unsophisticated access attempts, even if they have a password.</p><p>The government has enshrined MFA as a best practice. In a May 2021 executive order, President Biden told all federal agencies and government contractors to implement MFA as part of their basic cybersecurity measures within 180 days.</p><p>The CRI survey also found that nearly 60% of respondents said they hadn't discussed MFA with their employees. Communicating the value of MFA, said Ms. Evans, who until 2021 was chief information officer at the U.S. Department of Homeland Security, is an area where the cybersecurity industry needs to do more.</p><p>One obstacle to MFA is pushback from employees or customers who don't want to be forced through several steps to log into systems, said Meg Anderson, chief information security officer at insurance and investment management company Principal Financial Group. For businesses in highly regulated sectors such as financial services, MFA is no longer optional.</p><p>When she became CISO at her company 14 years ago, she said, the conversation about MFA was often around how to persuade people to use it.</p><p>Then, as regulations changed, it was: \"We must take this action,\" she said.</p><p>Further changes to the widespread use of passwords are coming. In early May, Apple Inc., Microsoft Corp. and Alphabet Inc.'s Google jointly said they would start moving customers away from passwords as a primary means of authentication.</p><p>Instead, they plan to expand support for a passwordless standard created by the Fast Identity Online Alliance, or Fido. The standard supports biometrics, security tokens, contactless communication, and other technologies to authenticate users.</p><p>As Fido mechanisms roll out over the next several years, passwords must be enhanced in the interim to make companies more secure, CISA's Ms. Easterly said.</p><p>\"Enabling multifactor authentication is the most important thing that any person, any business can do,\" she said.</p><p>Write to James Rundle at james.rundle@wsj.com</p><p>Smaller Companies Are Urged to Adopt Multifactor Authentication</p>",
+  "published": "2022-07-05T15:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3126,
+          "end": 3141
+        },
+        {
+          "start": 3126,
+          "end": 3135
+        }
+      ]
+    }
+  ]
+}

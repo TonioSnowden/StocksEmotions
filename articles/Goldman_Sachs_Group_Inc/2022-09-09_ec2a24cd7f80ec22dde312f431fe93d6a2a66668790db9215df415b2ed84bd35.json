@@ -1,0 +1,38 @@
+{
+  "_id": "ec2a24cd7f80ec22dde312f431fe93d6a2a66668790db9215df415b2ed84bd35",
+  "feed": "wall-street-journal",
+  "title": "Municipal Bonds Suddenly Look Cheap. Some Are Tax Traps. Investors are bailing out of municipal bond funds at a record pace, but bargain hunters should beware of some potential pitfalls",
+  "text": "<p>When the investing herd stampedes in one direction, it can pay to go the opposite way—but only if you step carefully.</p><p>Consider municipal bonds, long cherished by individuals looking to earn tax-free investment income. Their prices have been falling this year as interest-rates rise and bonds overall have entered a bear market.</p><p>That has many investors on the run. In the first eight months of 2022, investors have pulled an estimated $83 billion from mutual and exchange-traded funds specializing in municipal debt, according to Refinitiv Lipper. That's more than in any full year on record.</p><p>Now, some investors smell bargains and are tempted by the chance to snag muni debt with higher yields. \"People are perking up and getting excited about having the opportunity to earn that higher income,\" says Alexa Gordon, a municipal-bond portfolio manager at Goldman Sachs Asset Management.</p><p>But you can get surprised—or scalped—if you don't understand the tricks of the trade.</p><p>Municipal bonds come with an embedded quirk. When they are priced near par, or 100% of principal value, they respond oddly to changes in interest rates.</p><p>Remember that a bond's current yield is its annual interest payments divided by its price. When rates rise, newly issued debt pays higher rates, so the prices of existing bonds must fall to keep their yields competitive. The opposite happens when rates are declining, since prices and yields move inversely to each other.</p><p>The special tax treatment on most municipal bonds, however, makes them act weirdly in times like these. At today's prices, munis will often behave asymmetrically, falling more when interest rates rise than they will gain if rates decline.</p><p>Learning that lesson, says Ms. Gordon, can be \"pretty painful and will continue to be if rates keep rising.\"</p><p>The quirk arises because the income on munis is typically tax-free, while gains in value are taxable, just as with other securities. This applies to people who trade muni bonds with the aim of buying low and selling high.</p><p>However, it also is true for anyone who buys a muni and holds it to maturity if the purchase price was below the bond's par value.</p><p>If your gain is small—\"de minimis\" in tax-speak—it's taxable at capital-gains rates, up to about 20%. Large gains are taxed at ordinary income rates, up to roughly 40%.</p><p>At the end of 2021, the typical municipal bond traded at average prices of about $109 to $114, according to John Miller, head of municipal finance at Nuveen in Chicago. By this week, after months of losses, the typical muni traded at approximately $97 to $101, says Mr. Miller.</p><p>That puts returns right on the cusp of becoming partly taxable.</p><p>Share Your Thoughts</p><p>What's your current approach to municipal bonds? Join the conversation below.</p><p>Under the de minimis rules, the more years left to maturity, the lower the price you can pay before your gains become taxable at the highest rate.</p><p>Say, for example, you buy a conventional muni maturing in 2032 and you pay between $97.50 and $99.99. Even if you hold that to maturity, the resulting gain is taxable at the lower capital-gains rate.</p><p>The cheaper that bond becomes, and the higher its yield goes, the more you'll be tempted to buy it. But prices under $97.50 are below the de minimis threshold, so your return on this bond will take a bigger tax hit.</p><p>\"People who say 'Discount bonds are cheap!' don't understand that they aren't as cheap as they look,\" says Andrew Kalotay, president of Kalotay Advisors, a municipal-bond analytics and research firm in New York. \"You have to pay tax on them.\"</p><p>Investors shopping for bonds typically see a bond's price, the coupon it pays and the resulting yield. That yield, which incorporates the premium or discount of the price to par, is somewhat deceptive if there is a taxable gain embedded in it.</p><p>Let's look at a trade from Feb. 14 this year, viewable on Electronic Municipal Market Access, or EMMA, the official repository of trading and other information about munis.</p><p>That day, a small investor bought $25,000of 2% bonds issued by Westchester County, N.Y., maturing in 2038. The price: $90.402, well below this bond's de minimis threshold of $96.</p><p>That discount price gave the bond's buyer an apparently attractive yield of 2.7%.</p><p>However, although the bond's interest payments are tax free, the $2,400 gain over the purchase price is taxable as ordinary income.</p><p>At about a 40% tax rate, that will devour almost $1,000 of the bond's return. So the investor will end up earning only about 2.5% after tax, says Mr. Kalotay.</p><p>Consider another trade and another pitfall. On Sept. 7, someone bought $25,000 in 3% bonds issued by the Pennsylvania Higher Educational Facilities Authority, maturing in 2032.</p><p>The customer paid $98.001. At that price, the bonds yielded 3.2%. For wealthy Pennsylvania residents, that's a luscious yield, the equivalent of well over 5% after tax.</p><p>Notice that the customer bought at just above the $97.50 threshold, below which a portion of the return would become taxable at about 40%.</p><p>Just before that, the broker had paid $96.13 for the bonds. That means the individual investor incurred an enormous markup, or brokerage cost, of $1.87 per bond—nearly 2% of the purchase price.</p><p>I have little doubt the selling broker told the investor that the $98.001 price was attractive because it would narrowly avert a big tax bill. I doubt very much that the broker told the investor the only reason the price was over $98 was because it included a huge markup.</p><p>How can you grab muni bargains without getting scalped?</p><p>If you buy individual bonds, favor new issues at prices of 100 or more, and hold to maturity.</p><p>If you do buy at prices below par, make your broker tell you the exact prices at which a portion of the bond's return becomes subject to tax, at both capital-gains and ordinary-income rates. Check recent trades on EMMA to make sure your broker isn't offering you the bond at a price levitated just above that dividing line.</p><p>If you buy munis through mutual funds or ETFs, check their history of distributing income. Big taxable payouts in prior years, says Mr. Miller of Nuveen, could be a sign the fund traffics in discount bonds without regard for tax efficiency.</p><p>There's little point in scooping up bargains today if you will take a tax beating later.</p><p>Write to Jason Zweig at intelligentinvestor@wsj.com</p><p>Municipal Bonds Suddenly Look Cheap. Some Are Tax Traps.</p>",
+  "published": "2022-09-09T15:01:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99964,
+      "offsets": [
+        {
+          "start": 853,
+          "end": 883
+        },
+        {
+          "start": 853,
+          "end": 860
+        },
+        {
+          "start": 853,
+          "end": 866
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0003948,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00039482117,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "3de24a2a0afed47696a10906d5ecda654ee818eb95a04f2d89a8f64dbc0760a6",
+  "feed": "market-watch",
+  "title": "Biden touts U.S. economy's progress at Intel plant's groundbreaking in Ohio, but Democrats' Senate nominee there suggests president shouldn't run in 2024; Republicans make Biden's handling of the economy their top issue, as they aim for wins in Ohio and elsewhere in November's midterm elections",
+  "text": "<p>The president said \"made in Ohio and made in America is no longer just a slogan. It's happening.\"</p><p>\"Because I signed into law the CHIPS and Science Act, we're accelerating the progress,\" he added, referring to a bipartisan $280 billion bill that he pushed for and then signed into law last month.</p><p>Related: Biden signs into law $280 billion package for chips, scientific research — here's what's in it</p><p>Biden said one reason \"why companies are choosing the United States,\" is \"because we're better positioned globally than we have ever been in a long, long time. We've seen a faster, stronger economic recovery than any other advanced nation on earth.\"</p><p>\"This is an inflection point,\" he said. \"We're gonna look back on this period 20 years from now and say that's when it began to change.\"</p><p>Republicans have made the president's handling of the economy their top issue, as they aim to take control of the U.S. House and Senate in November's midterm elections.</p><p>See: Under pressure due to inflation, Biden blasts Republicans for 'ultra-MAGA' plan that would 'raise taxes on working families'</p><p>Also read: Democrats keeping House and Senate in midterm elections would hurt markets, analyst says</p><p>Biden made references to high inflation in his speech, saying: \"Folks, we need to make these chips right here in America to bring down everyday costs and create good jobs.\"</p><p>Betting markets see Democrats holding onto the Senate in the midterms, but losing their grip on the House, and one of the key Senate races to watch is Ohio's contest between Ryan and Republican candidate J.D. Vance.</p><p>\"Tim Ryan, thank you for your leadership — always representing decent, working people,\" Biden said, as he began his remarks.</p><p>Ahead of the president's speech, Ryan addressed a comment that he made on Thursday, when the congressman was asked about the 2024 presidential race and said his \"hunch is that we need new leadership across the board. Democrats, Republicans — I think it's time for like a generational move for new leaders on both sides.\"</p><p>\"The president said from the very beginning he was going to be a bridge to the next generation, which is basically what I was saying,\" Ryan said on Friday, according to a White House pool report. He said it's up to Biden to decide whether to run again.</p><p>Ryan — who was first elected to the House in 2002 — is behind Vance by 3.7 percentage points in recent polls, according to a RealClearPolitics moving average of surveys.</p><p>The Democratic Senate candidate, a former presidential hopeful, has distanced himself from Biden previously, including by criticizing his plan to cancel student loans and skipping a presidential event in Cincinnati in May. The president's poor approval ratings have been improving since mid-July, but still average just 42.6%, according to RCP's data.</p><p>The new Intel INTC facility in Ohio's Licking County, near Columbus, will be built by union labor, creating more than 7,000 construction jobs and 3,000 jobs producing leading-edge chips, according to the White House.</p><p>Intel in June had delayed the groundbreaking for the plant, signaling its frustration over the uncertainty in Congress at that time about the legislation providing more than $52 billion for the U.S. chips sector SMH SOXX.</p><p>\"Ah, we made it,\" said Intel CEO Pat Gelsinger, as he raised his hands in triumph at the start of his speech at Friday's groundbreaking.</p><p>Intel's stock is down 39% this year as of Friday's close, while the S&amp;P 500 SPX has lost 15%.</p><p>Related: Chip stocks could plunge another 25% as 'we are entering the worst semiconductor downturn in a decade,' analyst says</p><p>And see: 12 semiconductor stocks bucking the downcycle trend</p><p>The White House released a \"Biden-Harris Economic Blueprint\" ahead of Friday's event in Ohio, saying the groundbreaking for Intel's new facility is \"the result of the President's CHIPS and Science Act.\"</p><p>The economic blueprint has five pillars: empowering workers, making and building it in America, giving families breathing room, rewarding work not wealth and making U.S. industry more competitive, less concentrated and more resilient.</p><p>\"The President's first two years in office have been two of the most productive in American history, and as the Blueprint explains, these accomplishments are all part of one economic vision,\" the White House said in a statement.</p><p>\"This Congressional session, the President and Congressional Democrats passed the most aggressive economic recovery package since FDR, the most substantial infrastructure investment since Eisenhower, the most significant investment in manufacturing and research and development in history, and a historic law to lower costs for families and accelerate clean energy manufacturing.\"</p><p>Now read: These 3 races could determine whether Democrats or Republicans control the Senate in 2023</p><p>Also: Biden finalized his plan to reign in Big Tech. Big Tech wasn't invited.</p><p>This is an updated version of a report that was first published on Sept. 8, 2022.</p><p>Biden touts U.S. economy's progress at Intel plant's groundbreaking in Ohio, but Democrats' Senate nominee there suggests president shouldn't run in 2024</p>",
+  "published": "2022-09-09T20:46:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.999232,
+      "offsets": [
+        {
+          "start": 39,
+          "end": 44
+        },
+        {
+          "start": 2804,
+          "end": 2809
+        },
+        {
+          "start": 2993,
+          "end": 2998
+        },
+        {
+          "start": 3350,
+          "end": 3355
+        },
+        {
+          "start": 3372,
+          "end": 3377
+        },
+        {
+          "start": 3777,
+          "end": 3782
+        },
+        {
+          "start": 5000,
+          "end": 5005
+        }
+      ],
+      "weightsV2": {
+        "weight": 11.807434,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.80743456,
+        "titleWeight": 4.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

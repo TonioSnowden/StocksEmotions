@@ -1,0 +1,62 @@
+{
+  "_id": "19ef8cadc1a60d394f26de6f6ddb166da9ff392a3eabe54e1fb932c58d5fca4c",
+  "feed": "ftcomall",
+  "title": "Two former JPMorgan metals traders convicted at spoofing trial",
+  "text": "<p>A federal jury in Chicago convicted two former JPMorgan metals traders on charges of manipulating metals markets on Wednesday, handing prosecutors a partial victory at the conclusion of a month-long trial.</p> <p>Michael Nowak, the former head of <a href=\"https://www.ft.com/stream/3de2fad0-44c8-492f-9b62-7e1374292a9e\">JPMorgan's</a> global metals trading desk, and Gregg Smith, who worked as a trader and executive director in New York, were each convicted of spoofing, wire fraud, commodities fraud and attempted price manipulation.<br><br><a href=\"https://www.ft.com/stream/fe8901c1-5461-41d7-9fec-f79d7d17a7da\">Spoofing</a>, which was outlawed in the US in 2010 by the Dodd-Frank Act, is the practice of quickly placing and withdrawing buy and sell orders to create a false impression of demand. </p> <p>However, the jury acquitted Smith, Nowak and a third defendant, Jeffrey Ruffo, who worked in sales, of conspiracy charges and racketeering under the Racketeer Influenced and Corrupt Organizations Act, or Rico, a federal law passed over 50 years ago that was meant to target organised criminal enterprises.</p> <p>Ruffo, whose clients the traders executed buys and sells for, was cleared of all the charges against him. Guy Petrillo, his attorney, said: “Mr Ruffo, his family and we always believed in Jeff's innocence and are grateful that these unfortunate charges are now behind him.”</p> <p>The verdict in the <a href=\"https://www.ft.com/content/cbfd2c18-633b-479c-bc8c-d643dae60784\">case</a> is a win for the Department of Justice in its efforts to punish wrongdoing on Wall Street, and in particular to target individuals involved in financial crimes. JPMorgan had already agreed in 2020 to pay a $920mn fine to authorities after admitting to manipulating precious metals futures and US government bond markets over eight years. </p> <p>The DoJ alleged the traders on trial had “scammed the market” in a years-long conspiracy to manipulate the global gold and silver markets through spoofing — in which traders quickly place and withdraw buy and sell orders to create a false impression of demand — in order to get their desired price for clients and benefit financially.</p> <p>“While we are gratified that the jury acquitted Mr Nowak of racketeering and conspiracy, we are extremely disappointed by the jury's verdict on the whole, and will continue to seek to vindicate his rights in court,” said David Meister, a lawyer for Nowak.</p> <p>JPMorgan declined to comment on Wednesday's verdict. Prosecutors and attorneys for Smith did not respond immediately to requests for comment.</p> <p>Prosecutors had accused traders of flooding the market with buy and sell orders that they never intended to execute, while trying to gain an edge over algorithmic traders.</p> <p>The alleged fake trades “represented 50 to 70 per cent of the visible gold and silver markets at a particular time” assistant US attorney Lucy Jennings said during opening arguments last month.</p> <p>Defence attorneys argued that the prosecution had “cherry-picked” trading examples to try to prove spoofing had occurred and that they could not prove criminal intent on the part of the traders.</p> <p>The DoJ's case centred on the testimony of two former members of the metals team, John Edmonds and Christian Trunz, who previously pleaded guilty to spoofing.</p> <p>Another JPMorgan metals trader, Christopher Jordan, will go on trial separately. </p><p>Source: Steff Chávez in Chicago and Joshua Franklin in New York 2022 'Two former JPMorgan metals traders convicted at spoofing trial' FT.com 10 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-10T23:41:08.245Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9999976,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 19
+        },
+        {
+          "start": 47,
+          "end": 55
+        },
+        {
+          "start": 239,
+          "end": 247
+        },
+        {
+          "start": 240,
+          "end": 248
+        },
+        {
+          "start": 1392,
+          "end": 1400
+        },
+        {
+          "start": 1398,
+          "end": 1406
+        },
+        {
+          "start": 2157,
+          "end": 2165
+        },
+        {
+          "start": 2166,
+          "end": 2174
+        },
+        {
+          "start": 3021,
+          "end": 3029
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.945055,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.94505537,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

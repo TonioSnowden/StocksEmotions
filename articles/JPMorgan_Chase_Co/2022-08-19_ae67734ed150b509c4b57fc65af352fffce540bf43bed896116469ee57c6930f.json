@@ -1,0 +1,38 @@
+{
+  "_id": "ae67734ed150b509c4b57fc65af352fffce540bf43bed896116469ee57c6930f",
+  "feed": "ftcomall",
+  "title": "Investors fret over durability of summer rally in US markets",
+  "text": "<p>Investors are raising red flags over a stock market rally that has added more than $7tn in value to US equities since June, with many of the gains being driven by hedge funds unwinding bearish bets rather than newfound conviction that it is time to buy. </p> <p>Traders at Goldman Sachs, Morgan Stanley and JPMorgan Chase have warned clients in recent days that the bounce in <a href=\"https://www.ft.com/us-equities\">shares </a>is not underpinned by confidence the surge can last, according to interviews with traders and private brokerage reports seen by the Financial Times. </p> <p>Instead, the rally — including the frenzied boom and bust in meme stocks that recalls last year's market ructions — has been fuelled by <a href=\"https://www.ft.com/hedge-funds\">hedge funds</a> covering short bets structured to profit from the market decline earlier this year, they said. </p> <p>Morgan Stanley and JPMorgan have found that clients have even been selling out of long-term wagers, suggesting they have little faith the rally can last. Some are already betting that the recovery will peter out, with Goldman's hedge fund clients reloading their bearish bets.</p> <p>“The rhetoric has shifted to be less bearish, but the flows we've seen have been all short covering,” said a banker at one of the largest prime brokers. “If they really believed in the rally, they would be buying longs and we don't see that.”</p> <p>Justin Cummings, a portfolio manager at family office Savoy Capital, said: “There is no real follow-up from long only or fundamental buyers, who are largely on the sidelines.” </p> <p>In recent days, investors have been captivated by an uptick in options trading volumes as well as a rally in the shares of companies hardest hit in the sell-off this year, including many of the stocks that had been heavily shorted by hedge funds. </p> <p>In a sign of the tenuous picture, markets lurched lower on Friday in a volatile trading session, with the Nasdaq Composite closing down 2.6 per cent for the week, ending a four-week stretch of gains. The S&amp;P 500 fell 1.2 per cent, taking its losses for the year so far back above 11 per cent. </p> <p>Dealers on Wall Street warned that gyrations in the market could yet increase, particularly as a huge chunk of options expire on Friday.</p> <p>Nowhere has the market tumult been more conspicuous than in the shares of troubled retailer Bed Bath &amp; Beyond, a meme stock favourite that is once again lighting up message boards on Reddit.</p> <p>Trading volumes in the stock multiplied this month in unusual fashion, and on Wednesday it briefly skyrocketed to $30 a share — a more than doubling for the year. Since then a number of investors have cashed out, including <a href=\"https://www.ft.com/content/1b21bb08-6590-49c6-8baa-5ad8c527fbcc\">university student Jake Freeman</a>, who made $110mn trading the stock. </p> <p>Freeman's disclosure of a stake in pharmaceutical company Mind Medicine was enough to entice others investors into the small-cap stock, briefly driving its shares up 78 per cent on Thursday in the kind of speculative fervour that characterised the meme stock-driven market boom in early 2021.</p> <p>Such frenetic activity provides little assurance to investors looking for signs that the bear market rally in the S&amp;P 500 and Nasdaq Composite can be sustained, particularly as policymakers at the Federal Reserve raise interest rates to slow the US economy. </p> <p>Money managers have been hoping all year for an all-clear signal that they can dive back into the US stock market but instead have been met with a muddied picture from US policymakers attempting to curb stubbornly high inflation.</p> <p>“We are not out of the woods at all yet,” said Charlie McElligott, a strategist at Nomura.</p> <p><em>Additional reporting by Patrick Temple-West</em></p><p>Source: Eric Platt and Ortenca Aliaj in New York 2022 'Investors fret over durability of summer rally in US markets' FT.com 19 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-19T17:18:21.862Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 298,
+          "end": 312
+        },
+        {
+          "start": 786,
+          "end": 794
+        },
+        {
+          "start": 783,
+          "end": 791
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.9466753,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 0.09667528,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

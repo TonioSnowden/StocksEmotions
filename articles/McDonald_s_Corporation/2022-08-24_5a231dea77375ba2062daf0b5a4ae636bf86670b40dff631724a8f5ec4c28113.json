@@ -1,0 +1,34 @@
+{
+  "_id": "5a231dea77375ba2062daf0b5a4ae636bf86670b40dff631724a8f5ec4c28113",
+  "feed": "market-watch",
+  "title": "As Ukraine marks Independence, U.S. companies are up and running in the country, says Kyiv-based American Chamber of Commerce; Six months to the day since Russia launched its deadly invasion of Ukraine, U.S. companies are up and running in the war-torn country, according to the American Chamber of Commerce in Ukraine",
+  "text": "<p>\"After six months of the war, 72% of AmCham Ukraine members are fully operational, 83% pay full salaries,\" said Andy Hunder, president of the American Chamber of Commerce in Ukraine, in the statement. \"This latest Survey sends a message that companies believe in Ukraine, with 96% of businesses planning to continue operations in Ukraine in 2023.\"</p><p>See Now: U.S. companies urged to invest in Ukraine as 'massive' reconstruction looms</p><p>Wednesday is a national holiday in Ukraine, marking the 31st anniversary of the country's independence from Soviet rule. However, Ukrainian authorities have banned large-scale gatherings in Kyiv, fearing heavy Russian missile attacks on the country's Independence Day, the Associated Press reports.</p><p>Some 117 CEOs and top managers of American Chamber of Commerce member companies participated in the survey, which was conducted from Aug. 18 to Aug. 23, 2022.</p><p>One of the highest profile members of the American Chamber of Commerce in Ukraine is McDonald's Corp. MCD. Earlier this month the Associated Press reported that the fast-food giant is set to reopen some of its restaurants in Ukraine, a move welcomed by Ukrainians on social media, including Oleksandr Tkachenko, the country's minister of culture and information policy.</p><p>See Now: McDonald's set to reopen in some cities in Ukraine — report</p><p>\"McDonalds reopening in Ukraine it is a good sign of economic and investment activity for other world companies,\" he tweeted on Aug. 11.</p><p>\"The McDonald's announcement sends a further compelling signal to international companies,\" tweeted Hunder of the American Chamber of Commerce in Ukraine on Aug. 13. \"The mood on the ground is vibrant with a view that Ukraine can win the war.\"</p><p>\"Business needs to be on the right side of history,\" he added, in a subsequent tweet.</p><p>See Now: Kremlin could seize Russian assets of U.S. companies, warns Moral Rating Agency</p><p>On Monday the Kyiv School of Economics reported that the total amount of damage to Ukraine's economy from the damage and destruction of residential and non-residential buildings and infrastructure had increased to $113.5 billion.</p><p>The American Chamber of Commerce in Ukraine is an affiliate of the U.S. Chamber of Commerce. The organization was founded in 1992, a year after the country's independence. Last month President Joe Biden sent a letter congratulating the Chamber on its 30th anniversary.</p><p>\"As the Ukrainian people continue to be subjected to violence and devastation due to Russia's unprovoked war, the work of the American Chamber of Commerce in Ukraine has never been more important,\" he wrote. \"Thank you for being a vital resource for Ukrainians as they strive to overcome these unprecedented challenges and build free markets to serve free people everywhere.\"</p><p>As Ukraine marks Independence, U.S. companies are up and running in the country, says Kyiv-based American Chamber of Commerce</p>",
+  "published": "2022-08-24T14:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5801351017",
+      "nexusId": "10050164",
+      "name": "McDonald's Corporation",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 971,
+          "end": 986
+        },
+        {
+          "start": 1263,
+          "end": 1273
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0001214,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00012135506,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

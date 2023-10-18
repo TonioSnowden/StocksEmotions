@@ -1,0 +1,24 @@
+{
+  "_id": "d03d42cfc3b8ad2f2955b5cf50b3b90222d6bac7fafb1a07114d9175781b6f49",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Google to Pursue Pentagon Contract, Risking Staff Ire",
+  "text": "<p>The three-year contract replaces the 10-year, $10 billion JEDI cloud-computing contract terminated in July.</p><p>The JEDI project was mired in years of squabbling between Microsoft Corp., which won the bidding, and Amazon.com Inc., which contended the process was politically motivated under the Trump administration.</p><p>In 2018, Google came under fire from employee activists over a Pentagon contract to supply imaging tools used by drones. Several outspoken employees quit.</p><p>The company later abandoned the contract and pledged not to allow its artificial-intelligence products to be used in military weapons.</p>",
+  "published": "2021-11-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 166,
+          "end": 175
+        },
+        {
+          "start": 166,
+          "end": 181
+        }
+      ]
+    }
+  ]
+}

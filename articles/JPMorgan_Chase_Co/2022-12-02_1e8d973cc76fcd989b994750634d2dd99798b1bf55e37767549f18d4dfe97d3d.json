@@ -1,0 +1,24 @@
+{
+  "_id": "1e8d973cc76fcd989b994750634d2dd99798b1bf55e37767549f18d4dfe97d3d",
+  "feed": "wall-street-journal",
+  "title": "Biotech Firm Says Stock Was Gamed",
+  "text": "<p>Northwest, whose shares trade over the counter, also sued Canaccord Genuity Inc., G1 Execution Services LLC, GTS Securities LLC, Instinet LLC, Lime Trading Corp. and Virtu Americas LLC.</p><p>\"This frivolous lawsuit appears to be nothing more than an attempt by Northwest Biotherapeutics to divert attention away from its long history of governance and management failures, SEC charges for financial reporting lapses, and lawsuits from its own shareholders,\" a Citadel Securities spokesman said. \"We intend to pursue any and all legal action against Northwest Biotherapeutics for making these false and baseless allegations, which only undermine the integrity of our capital markets.\"</p><p>In 2019, Northwest settled allegations by the U.S. Securities and Exchange Commission that it failed to maintain internal control over its financial reporting.</p><p>A spokesman for Nomura, which owns Instinet, declined to comment. A spokesman for Virtu had no immediate comment. The other firms didn't immediately respond to requests for comment.</p><p>\"We have the hard data,\" said Laura Posner, a partner with Cohen Milstein Sellers &amp; Toll who is representing Northwest. \"It's hard to dispute actual transactions and patterns.\"</p><p>Spoofing, which was outlawed in 2010, has been at the center of a yearslong campaign by U.S. authorities to root out market manipulation. In August, a federal jury in Chicago convicted two former JPMorgan Chase &amp; Co. traders who had been charged with spoofing in the gold market.</p><p>It is unclear from the data cited in the suit whether the alleged spoofing orders were placed on behalf of other investors, or by the firms themselves. But Northwest argued that these market makers knew it was unlawful to execute the alleged trading tactics and should have had procedures in place to detect and prevent them.</p><p>The market makers, Northwest wrote, \"deliberately engaged in repeated spoofing that interfered with the natural forces of supply and demand and drove [the company's] share price downward over the course of the relevant period.\"</p><p>The company said it found thousands of spoofing episodes over a five-year span and was able to identify the market participants using trading data.</p>",
+  "published": "2022-12-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 1394,
+          "end": 1414
+        },
+        {
+          "start": 1384,
+          "end": 1404
+        }
+      ]
+    }
+  ]
+}

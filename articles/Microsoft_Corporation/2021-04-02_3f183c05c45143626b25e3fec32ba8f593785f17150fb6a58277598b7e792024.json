@@ -1,0 +1,28 @@
+{
+  "_id": "3f183c05c45143626b25e3fec32ba8f593785f17150fb6a58277598b7e792024",
+  "feed": "wall-street-journal",
+  "title": "U.S. News:  Lawmakers  Mull Requiring  Hack Reports  ----  By David Uberti",
+  "text": "<p>   The hack of companies and federal agencies through compromised software from SolarWinds Corp. has breathed new life into an old idea: The U.S. must require businesses to report cyberattacks. </p><p>   Lawmakers are examining how to craft such legislation after executives and government officials told Congress in recent weeks that details on how hackers penetrated their defenses could help the government and companies thwart nation-state hacks. </p><p>   But structuring such requirements is contentious. While companies welcome disclosures from other organizations, some fear detailing their own incidents could fuel bad press and investor panic, yield legal trouble and give hackers information to use in future attacks. </p><p>   Still, said Tom Fanning, chief executive of the Atlanta-based utility Southern Co., digitized businesses and interconnected supply chains make such transparency crucial. \"What's happening to us might also be happening to finance, telecom or natural-gas pipelines,\" Mr. Fanning said, adding that his company faces millions of cyber threats each day. \"That's why we need this.\" </p><p>   Staffers for Sen. Mark Warner (D., Va.) are speaking with companies and cyber experts in the hope of writing a bill, an aide said. </p><p>   Separately, Rep. Jim Langevin (D., R.I.) is fine-tuning two proposals in a pincer-like approach to the issue, an aide said. One rule would require a broad array of businesses to report specific incidents, such as personal data theft and ransomware, Mr. Langevin's aide said. The other would mandate much more data-sharing from organizations that operate infrastructure deemed critical to national security. </p><p>   The latter proposal will likely be more politically fraught, said Mark Montgomery, former executive director of the Cyberspace Solarium Commission, a bipartisan policy group that includes Mr. Langevin. Such a law would have to specify what constitutes an incident, what information the private sector must share and what companies it covers -- a definition that wouldn't necessarily include a relatively obscure tech vendor like SolarWinds, he said. </p><p>   \"Where people cut the deck is a little different,\" said Mr. Montgomery, who now serves as a senior adviser to the commission. </p><p>   Certain businesses in heavily regulated sectors, such as defense, already have detailed reporting requirements under agency rules, said Jennifer Urban, a partner at law firm Foley &amp; Lardner LLP, whose clients include Pentagon contractors. </p><p>   President Biden is also considering ways to facilitate such notifications by government information-technology vendors as part of a broader executive order on cybersecurity, according to a senior administration official. </p><p>   The Cybersecurity Information Sharing Act of 2015 allows companies to share details about threats with the Department of Homeland Security under liability and confidentiality shields. But a report last year by the DHS inspector general found that only nine of 252 participants in the program in 2018 voluntarily handed over information. </p><p>   At a February hearing of the Senate Select Committee on Intelligence, senior executives from Microsoft Corp. and FireEye Inc., firms near the center of the SolarWinds incident, said they supported confidential reporting requirements, with liability protection against risks such as shareholder lawsuits. </p><p>   Microsoft declined to comment further. A SolarWinds spokesman said the company supports \"transparent and responsible sharing of information.\" </p><p>   Lawmakers have applauded FireEye's decision in December to report a breach of its systems to both the government and the public. Neither disclosure was required by law, but they jump-started an investigation in which U.S. officials determined the attack likely originated in Russia. Moscow has denied the claim. </p><p></p>",
+  "published": "2021-04-02T06:07:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 3297,
+          "end": 3306
+        },
+        {
+          "start": 3086,
+          "end": 3095
+        },
+        {
+          "start": 3086,
+          "end": 3101
+        }
+      ]
+    }
+  ]
+}

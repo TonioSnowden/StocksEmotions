@@ -1,0 +1,34 @@
+{
+  "_id": "98e81de06922f60caaafebc9b366c3b1d80be624036ee6b078f64350df1c1ed0",
+  "feed": "ftcomall",
+  "title": "Amazon to close US telehealth service as it shifts sector ambitions",
+  "text": "<p>Amazon is closing its telehealth service, Amazon Care, ending an ambitious plan to roll out its homegrown platform to “millions” of patients around the country, part of a long-stated goal of disrupting the US healthcare industry.</p> <p>A memo sent to Amazon Care staff on Wednesday by Neil Lindsay, head of Amazon Health Services, said Amazon Care — which promised a doctor, nurse or other health practitioner on demand, 24 hours a day — was not the right “long-term solution” for the external companies to which it had hoped to sell the service.</p> <p>“This decision wasn't made lightly and only became clear after many months of careful consideration,” Lindsay wrote, according to the memo seen by the Financial Times. </p> <p>“Although our enrolled members have loved many aspects of Amazon Care, it is not a complete enough offering for the large enterprise customers we have been targeting.”</p> <p>Analysts said Amazon Care's closure, which will come at the end of the year, should not be seen as a retreat on its efforts to gain a foothold in the $4tn US healthcare sector. “This is not a sign of failure by any means,” said Natalie Schibell at Forrester Research. “It's a strategic move.”</p> <p>Amazon's decision comes after its recent agreement to <a href=\"https://www.ft.com/content/e81b6b94-8c95-44ff-9012-cf20b2073e4b\">acquire One Medical</a>, a large network of primary care providers, for $3.9bn — its largest deal in the healthcare space.</p> <p>That takeover, if approved by regulators, would provide Amazon with much of the access to corporate employees it had <a href=\"https://www.ft.com/content/1059c1fe-3291-4af0-b927-48ff72db6af6\">been seeking with Amazon Care</a>, said Christina Farr, health-tech investor at Omers Ventures, making the in-house platform redundant. Companies such as Google offer One Medical to employees. </p> <p>“One Medical already has all these contracts, and does telemedicine,” Farr said. “It made sense for Amazon to acquire an existing network. Physician recruitment is really hard, building insurance contracts is really hard, building employer relationships is really hard. All of those things take a long time and One Medical was available to purchase.”</p> <p>With a workforce in excess of 1.5mn, more than 200mn Prime subscribers globally, and expansive logistics and cloud computing infrastructure, <a href=\"https://www.ft.com/stream/84cf4073-a674-4a93-aef9-dcc1832a65cb\">Amazon</a> has long been considered ideally positioned to take on some of the healthcare industry's incumbents — the share prices of which fall, albeit briefly, whenever the company announces deals.</p> <p>Amazon's <a href=\"https://www.ft.com/content/fa7ff4c3-4694-4409-9ca6-bfadf3a53a62\">ambitions in healthcare</a> have been years in the making, and are set to intensify under the leadership of Andy Jassy, who replaced Jeff Bezos as chief executive last year.</p> <p>Amazon is also among the bidders for Signify Health, a home healthcare provider, which is courting several offers, according to a person briefed on the matter. The decision to explore a deal, which would be Amazon's fourth big healthcare sector transaction in recent years, highlights the company's will to test antitrust regulators' appetite to curtail its M&amp;A strategy. Amazon and Signify declined to comment.</p> <p>“They are calling [Lina] Khan's bluff,” said a seasoned investor who is following the Signify bidding, referring to the chair of the Federal Trade Commission and a critic of Amazon's market power.</p> <p>Another lawyer said Amazon was demonstrating its readiness to go to court with regulators if needed.</p> <p>“Amazon's healthcare business is small relative to others in the US,” said a competition lawyer who asked not to be named for client confidentiality reasons. “At the moment, any acquisition that isn't a mega-player in the space is not going to be blocked.”</p> <p>A person who has worked with Amazon said that it is prepared to handle political and media backlash, but it was confident that a transaction to buy Signify would win regulatory approval. </p> <p>“They are happy to go to court,” the person said. “They know they can win so they are not letting the antitrust rhetoric in DC stop them from considering buying an asset.”</p> <p>A spokesperson for the FTC would not comment on Amazon's health deals but pointed to comments made by Khan at a forum this year in which she said the “life and death” healthcare industry was “one of the most critical” for her agency to scrutinise. </p> <p>A $5bn takeover of home health provider LHC Group by UnitedHealth, a large insurer, has been delayed while the FTC seeks more information about the proposed deal.</p> <p>Ultimately, Amazon's M&amp;A activity points to it assembling the building blocks for a large health service offering “value-based care”, said Rebecca Springer, a senior analyst covering healthcare at PitchBook. The term describes a business model in which health providers earn income based on patient outcomes — how well the patient is — versus merely providing treatments.</p><p>Source: Dave Lee in San Francisco and James Fontanella-Khan in London 2022 'Amazon to close US telehealth service as it shifts sector ambitions' FT.com 25 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-25T01:57:44.292Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "nexusId": "10018613",
+      "name": "UnitedHealth Group Incorporated",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 4120,
+          "end": 4132
+        },
+        {
+          "start": 4142,
+          "end": 4154
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.805,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

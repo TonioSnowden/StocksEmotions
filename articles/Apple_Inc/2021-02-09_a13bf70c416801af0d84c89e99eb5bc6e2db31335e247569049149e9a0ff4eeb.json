@@ -1,0 +1,32 @@
+{
+  "_id": "a13bf70c416801af0d84c89e99eb5bc6e2db31335e247569049149e9a0ff4eeb",
+  "feed": "ftcomall",
+  "title": "NHS Covid app prevented 600,000 infections, claim researchers",
+  "text": "<p>The NHS contact-tracing app has prevented the transmission of hundreds of thousands of Covid-19 cases in England and Wales, researchers have estimated, in one of the world's first studies of efficacy of the smartphone-based system developed in conjunction with Apple and Google.</p> <p>Researchers at the Alan Turing Institute and Oxford university have <a href=\"https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Epidemiological_Impact_of_the_NHS_COVID_19_App_Public_Release_V1.pdf\">estimated</a> that every 1 per cent increase in app users can reduce coronavirus cases by as much as 2.3 per cent. </p> <p>The app has sent 1.7m notifications to its more than 21m users telling people to isolate so far. Of those, the Turing/Oxford researchers estimate that about 600,000 cases were averted by the end of December. </p> <p>Matt Hancock, the health secretary, and Sir Keir Starmer, the Labour leader, have been among those told to self-isolate in recent weeks after coming into contact with someone later diagnosed with coronavirus. </p> <p>“Our analysis shows that the NHS Covid-19 app is sending exposure notifications to relevant contacts,” said Christophe Fraser, professor of pathogen dynamics at Oxford university's Nuffield Department of Medicine. </p> <p>Gauging the effectiveness of Bluetooth-based proximity detection apps, which have been released by governments all over the world, has been complicated by the privacy protections built into the Google/Apple system. </p> <p>The app's anonymity means that it is impossible to say how many people have complied with its orders to isolate.</p> <p>The <a href=\"https://www.turing.ac.uk/blog/demonstrating-impact-nhs-covid-19-app\">Turing/Oxford researchers</a> used the limited location information that users are asked to enter when they download the app — the first half of their area's postcode — to compare app uptake between neighbouring local authorities. </p> <p>That data was then compared with the overall number of Covid-19 cases reported by each local authority. The researchers found a strong correlation between app usage, which varies between 15 to 45 per cent of the overall population, and case numbers in a given region. </p> <p>The paper said that a statistical comparison of neighbouring areas with similar socio-economic or geographic properties suggested that there were 594,000 “averted infections”, but gave a range of 317,000 and 914,000 with a confidence interval of 95 per cent. </p> <p>Extrapolating from normal case fatality rates, that suggests thousands of deaths may have been prevented by the app, the researchers estimate. </p> <p>“The main limitation of our analysis is that it is an observational study: no randomized or systematic experiment resulted in different app uptake in different places,” the paper noted. “It remains possible that changes in app use over time and across geographies reflect changes in other interventions, and that our analysis incorrectly attributes the effect to the app.” </p> <p>The NHS app ranks alongside that of Germany, which said last week that 25.4m people had downloaded its Corona-Warn app, and Switzerland as one of the most widely used contact-tracing apps in Europe. </p> <p>“The NHS Covid-19 app now runs on tens of millions of phones, making it one of the world's most downloaded medical software products,” said Wolfgang Emmerich, chief executive of Zühlke UK, the Swiss IT company that developed the app. </p> <p>More than 56 per cent of the eligible English and Welsh population, including smartphone owners aged 16 and over, have downloaded the NHS Covid-19 app since it was <a href=\"https://www.ft.com/content/c0c42341-4dda-4c89-9a28-8d14d129c8b2\">relaunched</a> using the Apple/Google technology in September, according to the Department of Health and Social Care. That is just over a third of the total population of England and Wales. </p> <p>But millions of people have deactivated or uninstalled the app, in part because of fears that they will be told to self-isolate unnecessarily. The Turing/Oxford research paper reported that around 16.5m people use it regularly, suggesting that almost a quarter of people who downloaded it have now become inactive. </p> <p>The researchers also called for greater use of the app's scanning system for registering visits to physical locations, such as offices and cafes. Only 226 notifications for “risky venue events” had been sent by the app in total by the end of January. </p> <p>People involved in the app's development are eager to see the UK government give the app a renewed promotional push before lockdowns ease, even when a large portion of the population has been vaccinated, as the virus will still be transmissible. </p> <p>Another study by researchers in Spain, published in Nature earlier this year, estimated that at least 33 per cent of the country's population had downloaded the Radar Covid app, which is also based on Apple and Google's system. </p> <p>Each infected individual was able to notify 6.3 contacts that had been in proximity, twice as many as Spain's manual contact-tracing system would typically reach.</p> <p><em>This story has been updated since publication to add more detail from the research paper. </em></p><p>Source: Tim Bradshaw and Siddharth Venkataramakrishnan in London 2021 'NHS Covid app prevented 600,000 infections, claim researchers' FT.com 9 February. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-02-09T11:31:18.256Z",
+  "tags": [
+    {
+      "offsets": [
+        {
+          "start": 261,
+          "end": 266
+        },
+        {
+          "start": 261,
+          "end": 268
+        },
+        {
+          "start": 4487,
+          "end": 4492
+        },
+        {
+          "start": 4487,
+          "end": 4494
+        }
+      ],
+      "name": "Apple Inc.",
+      "id": "US0378331005",
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "d5b680b02173d606d4203634ca7f20b5a4246aedb5b5082404044dd6d222228b",
+  "feed": "market-watch",
+  "title": "Don't be fooled by a drop in U.S. headline inflation. Markets will be attuned to another figure on Wednesday.",
+  "text": "<p>inflation picture \"is likely to remain uncomfortably high.\"Read: Goldman Sachs says it's too soon for markets to be trading `a full Fed pivot' A move higher in the annual CPI core rate would be significant because it would be seen as reflecting the true underlying trend of inflation — while also dashing widespread hopes in financial markets over the past month that price gains have peaked. Many traders and investors have generally been clinging to the overall annual headline CPI rate for July, which includes food and energy — and the view that it probably fell to 8.7% or 8.8%, from an almost 41-year high of 9.1% in June, after factoring in recent declines in gas and commodity prices.See: U.S. consumers likely got some relief from sizzling price increases in July but Fed won't feel any better\"The outlook for inflation remains the primary concern for investors,\" Wilmington Trust Investment Advisors' Chief Investment Officer Tony Roth and Chief Economist Luke Tilley wrote in an email on Tuesday. \"Persistent inflation is weighing on sentiment for consumers and businesses, yet economic data remains quite mixed and concerns are elevated that aggressive Fed policy could push the U.S. into recession.\"\"While we still expect inflation to decelerate going forward, some components will remain stubbornly high and complicate the outlook,\" they said.Signs of the financial market's broad-based expectations that inflation is poised to ease are abundant: U.S. stocks have generally rallied from their lows in mid-June, though they finished lower on Tuesday. Meanwhile, medium- and long-term Treasury yields have dropped from their peaks in June — along with break-even rates, according to Tradeweb data. In the round-the-clock currency market, where the dollar remains sensitive to U.S. data surprises, \"the market needs to decide whether slowing headline is more important than sticky and strong core,\" said TD Securities strategists Oscar Munoz, Mazen Issa, and Gennadiy Goldberg.At Pennsylvania-based Hirtle Callaghan &amp; Co., which oversees about $20 billion in assets, Brad Conger, deputy chief investment officer, said he thinks inflation and the Federal Reserve's willingness to tackle it are both being underestimated. Conger sees inflation growth pivoting away from goods to services, while noting how hard it is to \"wrench\" pricing knowledge away once inflation takes hold. \"Suppose you work at a firm of 1,000 people,\" Conger wrote in an email. \"In the month of May, 28 of your colleagues quit and accepted new offers…Your employer grants everyone else the economy-wide average hourly wage increase of 3.6% at an annualized rate. But here's the rub. The 972 employees who stayed know precisely what the leavers accepted at their new position. It has become their new reserve price of labor. This is how inertia develops in inflation and why it's so hard to eradicate.\"\"Rent works the same way,\" said the deputy chief investment officer. \"A small proportion of new tenant leases show up in the average, but everyone else knows what the new effective rent is.\"On Tuesday, all three major stock indexes DJIA SPX COMP closed lower, led by a 1.2% slide in the Nasdaq Composite, with investors reluctant to put on big trades ahead of Wednesday's CPI data. Meanwhile, the Treasury curve turned more deeply inverted as the spread between 2- and 10-year yields shrank to an intraday low of almost minus 50 basis points, with the 2-year rate BX:TMUBMUSD02Y rising at a faster pace than the 10-year rate BX:TMUBMUSD10Y.</p><p>Don't be fooled by a drop in U.S. headline inflation. Markets will be attuned to another figure on Wednesday.</p>",
+  "published": "2022-08-09T20:11:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9991,
+      "offsets": [
+        {
+          "start": 65,
+          "end": 78
+        },
+        {
+          "start": 65,
+          "end": 72
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.6859791,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6859791,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "ece8b807e157d82d34b8a5aacaf3217ef4b5791d0a0f2ae786f8814f38c03373",
+  "feed": "wall-street-journal",
+  "title": "Business News: Boeing Starliner Launch Delayed",
+  "text": "<p>Steve Stich, a program manager at NASA, said during a briefing Wednesday that there won't be another opportunity this year to complete the Starliner demonstration flight, citing other missions to the space station and coming launches.</p><p>The earliest the Starliner is likely to try to launch again is the April through June stretch in 2022, according to people familiar with the space vehicle. A spokesman for NASA declined to comment on the timing, and Mr. Stich said at the briefing it was too soon to specify a date for the Starliner test flight as Boeing and the agency work to determine why the valves became stuck.</p><p>NASA said it had reassigned two agency astronauts, Nicole Mann and Josh Cassada, who had been tapped to fly on the Starliner during the vehicle's test mission with crew on board and on a separate flight.</p><p>---</p><p>Andrew Tangel contributed to this article.</p>",
+  "published": "2021-10-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 549,
+          "end": 555
+        },
+        {
+          "start": 15,
+          "end": 21
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

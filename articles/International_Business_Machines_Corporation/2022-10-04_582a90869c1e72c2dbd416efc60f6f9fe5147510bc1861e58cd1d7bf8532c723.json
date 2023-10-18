@@ -1,0 +1,20 @@
+{
+  "_id": "582a90869c1e72c2dbd416efc60f6f9fe5147510bc1861e58cd1d7bf8532c723",
+  "feed": "wall-street-journal",
+  "title": "Nvidia Closes Russian Operations",
+  "text": "<p>Nvidia stopped selling to Russia in early March as the U.S. government rolled out sweeping sanctions on Moscow. Russia has historically represented about 2% of the company's revenue, Chief Financial Officer Colette Kress said in May.</p><p>The Biden administration has imposed export controls on sensitive technologies such as semiconductors and computers, which have had a broad impact on companies across the technology sector.</p><p>International Business Machines Corp.'s chief financial officer in April said the suspension of its Russian operations was costing the company some highly profitable business.</p><p>HP Inc. in February said Russia's invasion of Ukraine would hurt its profit by as much as 2 cents to 3 cents per share.</p><p>Nvidia on Monday said that its employees in Russia would be given the option of continuing their jobs in other countries.</p><p>Russia's tactics in Ukraine have escalated recently, with warnings from President Vladimir Putin that Moscow might use nuclear weapons if the West attacks Russian territory. Russia also claimed four regions of eastern and southern Ukraine.</p><p>Shares of Nvidia ticked up slightly in after-hours trading after closing at $125.12. The company's stock is down 57% so far this year through the close.</p>",
+  "published": "2022-10-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 424,
+          "end": 455
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

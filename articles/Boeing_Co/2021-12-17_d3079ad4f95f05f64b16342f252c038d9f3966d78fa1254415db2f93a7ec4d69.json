@@ -1,0 +1,41 @@
+{
+  "_id": "d3079ad4f95f05f64b16342f252c038d9f3966d78fa1254415db2f93a7ec4d69",
+  "feed": "reuters",
+  "title": "Boeing suspends vaccine mandate for U.S. employees",
+  "text": "<p>Some big healthcare chains and companies such as General Electric , Spirit AeroSystems , and Amtrak have also suspended vaccine mandates for workers.</p><p>In recent weeks, the number of Boeing employees seeking a vaccine exemption on religious or medical grounds had reached more than 11,000 - or nearly 9% of its U.S. workforce - a level many times higher than executives initially estimated, Reuters first reported.</p><p>The fact that the vast majority of applications were on religious grounds thrust one of America's largest employers into the center of a debate about the ethics of probing an employee's religious beliefs.</p><p>It also left executives searching for a strategy that keeps employees safe, but avoids an exodus of engineering and factory labor.</p><p>Boeing 's vaccination requirement has resulted in more than 92% of U.S.-based workers having registered as being fully vaccinated, or having received a religious or medical accommodation, according to the Friday memo.</p><p>\"The success of Boeing 's vaccination requirement to date positions the company well to comply with the federal executive order should it be reinstated in the future,\" it added.</p><p>A Boeing spokesperson confirmed the decision, and added that the company was \"committed to maintaining a safe working environment for our employees, and advancing the health and safety of our global workforce.\"</p><p>Boeing suspended its vaccination requirement in line with the court's decision prohibiting enforcement of the federal contractor executive order and a number of state laws, the spokesperson added.</p><p>Last month, the White House pushed back to Jan. 4 its deadline for employees at federal contractors to be vaccinated or be tested regularly if they receive exemptions.</p>",
+  "published": "2021-12-17T21:22:35.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 181,
+          "end": 187
+        },
+        {
+          "start": 749,
+          "end": 755
+        },
+        {
+          "start": 1356,
+          "end": 1362
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

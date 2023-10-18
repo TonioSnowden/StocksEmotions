@@ -1,0 +1,28 @@
+{
+  "_id": "636c01653d9cf98301f9e3e3bc3a9f5680d1de3b15423c53c9565ce02a701671",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Blood Expert Says He Found Cause of Clots",
+  "text": "<p>\"Understanding the cause is of highest importance for the next-generation vaccines, because [the novel] coronavirus will stay with us and vaccination will likely become seasonal,\" said Eric van Gorp, a professor at Erasmus University in the Netherlands who heads a group of scientists studying the condition.</p><p>In Germany, one researcher thinks he has found what is triggering the clots. Andreas Greinacher and his team at the University of Greifswald believe so-called viral vector vaccines -- which use modified harmless cold viruses, known as adenoviruses, to convey genetic material into vaccine recipients to fight the coronavirus -- could cause an autoimmune response that leads to blood clots. According to Prof. Greinacher, that reaction could be tied to stray proteins and a preservative he has found in the AstraZeneca vaccine.</p><p>Prof. Greinacher and his team have begun examining J&amp;J's vaccine but have identified more than 1,000 proteins in AstraZeneca's vaccine derived from human cells, as well as a preservative known as EDTA. Their hypothesis is that EDTA, which is common to drugs and other products, helps those proteins stray into the bloodstream, where they bind to a blood component called PF4, forming complexes that activate the production of antibodies.</p><p>The inflammation caused by the vaccines, combined with the PF4 complexes, could trick the immune system into believing the body had been infected by bacteria, triggering an archaic defense mechanism that runs out of control and causes clotting and bleeding.</p><p>Prof. Greinacher has compared the activation of the dormant response to \"awakening a sleeping dragon.\"</p><p>Prof. John Kelton of McMaster University in Canada, whose outfit runs Canada's reference lab for testing patients with blood-clotting symptoms after vaccination, said the lab replicated some of Prof. Greinacher's research and confirmed his findings.</p><p>Yet the cause was unclear. Prof. Greinacher's \"hypothesis could be right, but it could also be wrong,\" Prof. Kelton said.</p><p>Prof. Greinacher is working to confirm his theory, hoping to get cooperation from vaccine makers. His team has tested AstraZeneca vaccines and received doses from J&amp;J. Greifswald University is now negotiating with the drugmakers about greater access to their vaccine-making processes.</p><p>\"We strongly support raising awareness of the signs and symptoms of this very rare event, and we are currently exploring a potential collaboration with Dr. Greinacher,\" said a J&amp;J spokesman.</p><p>AstraZeneca didn't respond to a request to comment.</p><p>Some scientists think the adenoviruses themselves could play a role in triggering the condition because they have been linked to blood clotting. Others speculate that people affected could have genetic predispositions, or that their immune systems had previously developed the problematic antibody.</p>",
+  "published": "2021-05-14T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 2170,
+          "end": 2173
+        },
+        {
+          "start": 887,
+          "end": 890
+        },
+        {
+          "start": 2468,
+          "end": 2471
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

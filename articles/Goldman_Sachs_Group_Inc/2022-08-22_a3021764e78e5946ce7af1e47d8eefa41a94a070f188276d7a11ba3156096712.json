@@ -1,0 +1,38 @@
+{
+  "_id": "a3021764e78e5946ce7af1e47d8eefa41a94a070f188276d7a11ba3156096712",
+  "feed": "ftcomall",
+  "title": "Drones/Snap: US market grounded by regulation and Chinese high-flier",
+  "text": "<p>In less than four months, Snap's little yellow drone has fallen to earth. Sales of the Pixy will continue but development is over. Drones have been a disappointment for the tech industry as a whole.</p> <p>That has hurt <a href=\"https://www.ft.com/stream/d572dd54-5d95-4da2-8155-f4d58484ee3c\">Snap's</a> floundering efforts to add hardware to its suite of products. Its experiments on social media are popular. But the $250 Pixy selfie camera drone joins camera glasses and plush toys on the list of misfiring novelties. As the US social media group acknowledged when it joined public markets, its manufacturing experience is limited.</p> <p>Snap is right to pull back from peripheral projects. The share price has dropped <a href=\"https://www.ft.com/content/92a57ebf-1364-4ef0-af7a-ce7a02492ea3\">75 per cent</a> in the year to date, Digital advertising has slowed. The company has been adjusting to tighter privacy safeguards at Apple that make it tougher to collect user data. </p> <p>Hardware such as Pixy, which was not widely available, has done little to help group revenue. Development has added to losses.</p> <p>Some of the share price markdown is unfair. Snap is growing its user base at a faster clip than rivals such as <a href=\"https://www.ft.com/stream/7e37c19e-8fa3-439f-a870-b33f0520bcc0\">Meta</a>. Its experiments are small compared with Meta's investment in the metaverse, which lost nearly $6bn in the first half of the year. But Snap's penchant for new ideas has not helped it to achieve consistent quarterly profits. With advertising down, the company has to focus on reducing operating losses. Especially as the company trades at a higher price to sales ratio than its big rival Meta.</p> <p>The consumer drone market was always going to be difficult to crack. It is dominated by China's DJI. US companies account for less than a tenth of the market, according to research company Drone Analyst.</p> <p>Drones have yet to live up to <a href=\"https://www.ft.com/content/aa2d228b-7927-4642-9eb3-c6157f91f1f9\">their promise</a>. In 2016, Goldman Sachs predicted a&#xa0;$100bn global market opportunity by 2020, with $30bn in non-military spending. But Drone Analyst estimates that non-military drone sales that year were $3.5bn. </p> <p>In the US, the Federal Aviation Administration's safety concerns have limited the number of unmanned aerial vehicles. Alphabet and Walmart have launched delivery drone services, but they remain limited. For now, the skies are mostly clear of drones of any colour.</p><p>Source:  2022 'Drones/Snap: US market grounded by regulation and Chinese high-flier' FT.com 22 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-22T05:00:01.583Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 1704,
+          "end": 1711
+        },
+        {
+          "start": 1704,
+          "end": 1717
+        },
+        {
+          "start": 1682,
+          "end": 1695
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000001,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

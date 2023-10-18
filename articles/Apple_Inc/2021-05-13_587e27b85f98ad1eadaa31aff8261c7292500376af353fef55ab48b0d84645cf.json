@@ -1,0 +1,36 @@
+{
+  "_id": "587e27b85f98ad1eadaa31aff8261c7292500376af353fef55ab48b0d84645cf",
+  "feed": "wall-street-journal",
+  "title": "Amazon Wins EU Tax Appeal --- Court rules regulators failed to prove tech giant got special treatment on breaks",
+  "text": "<p>In its decision, the court backed Amazon, saying EU regulators failed to prove the company got an illegal advantage from tax rulings issued by Luxembourg, and saying the commission's analysis had been \"incorrect in several respects.\"</p><p>The company said the decision \"is in line with our longstanding position that we followed all applicable laws and that Amazon received no special treatment.\"</p><p>The ruling is a significant blow to Margrethe Vestager, an executive vice president of the commission who is leading a campaign to curb alleged excesses by some of the world's largest tech companies, including Amazon, Apple Inc. and Alphabet Inc.'s Google.</p><p>Ms. Vestager was rebuked by the same court in a similar case. The General Court overturned her 2016 order that Ireland must recoup some 13 billion euros in taxes from Apple. Ms. Vestager has appealed that case to the Court of Justice, the EU's top court.</p><p>\"We will carefully study the judgment and reflect on possible next steps,\" Ms. Vestager said Wednesday. An appeal of the decision is possible before the EU's Court of Justice.</p><p>Both the Amazon and Apple tax cases are based on a facet of EU law aimed at creating a level playing field for companies by forbidding governments from granting companies some types of state aid.</p><p>Wednesday's decision could limit Ms. Vestager's efforts to use those rules to go after what she contends were sweetheart tax deals granted to multinational companies based in a handful of EU countries, including Luxembourg.</p><p>The decision comes as international talks aimed, at least in part, at shifting the taxation of big tech companies are making progress. Those talks, shepherded by the Organization for Economic Cooperation and Development, had been bogged down, leading several countries to impose their own unilateral taxes on big digital companies, including Amazon, over objections from technology trade groups.</p><p>On Wednesday Ms. Vestager said the commission would soon put forward its own proposal for an EU-wide digital levy in order to close tax loopholes. \"We need to seize the momentum to progress towards fair taxation at all levels,\" she said.</p><p>Wednesday's decision concerns a structure Amazon used in Europe as part of a series of transactions known internally inside the company as Project Goldcrest, named for Luxembourg's national bird.</p><p>Under the plan, the company funneled all of its e-commerce sales in the EU through an operating company called Amazon EU SARL. But that company paid a significant royalty every year to an untaxed Luxembourg-registered parent called Amazon Europe Holding Technologies SCS, reducing the operating company's taxable income.</p><p>In its 2017 decision against Amazon, the commission argued the company had improperly inflated the royalty to eat up the operating company's profit. The commission said the way Amazon calculated its tax base in Luxembourg was based on a 2003 tax deal, which was prolonged in 2011. The commission ordered Luxembourg to recoup from Amazon 250 million euros in alleged unpaid taxes over an eight-year period.</p><p>Amazon, which changed its tax structure, argued in 2020 before the General Court that the commission's decision was riddled with legal and factual errors, contending its payments were in keeping with international tax principles and Luxembourg's tax rulings didn't confer an advantage on the e-commerce company. Luxembourg also appealed.</p><p>In Wednesday's ruling, the General Court largely agreed with Amazon. It ruled that the commission had failed to show that the royalties, paid for the use of the company's intellectual property, reduced Amazon's taxes below what they would have paid under normal tax rules, among other errors.</p>",
+  "published": "2021-05-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1100,
+          "end": 1105
+        },
+        {
+          "start": 610,
+          "end": 620
+        },
+        {
+          "start": 816,
+          "end": 821
+        },
+        {
+          "start": 610,
+          "end": 615
+        },
+        {
+          "start": 610,
+          "end": 619
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

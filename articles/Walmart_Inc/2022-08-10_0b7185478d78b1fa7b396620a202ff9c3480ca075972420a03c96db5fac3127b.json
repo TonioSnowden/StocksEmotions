@@ -1,0 +1,62 @@
+{
+  "_id": "0b7185478d78b1fa7b396620a202ff9c3480ca075972420a03c96db5fac3127b",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Walmart Eyes Adding  Video for Members  ---  Retailer holds talks  with streaming  services as it steps up  rivalry with Amazon  ----  By Sarah Nassauer",
+  "text": "<p>    Walmart Inc. is looking to add a large video streaming service to its Walmart+ membership program as the retailer amps up its competition with Amazon.com Inc., according to people familiar with the situation. </p><p>   Walmart executives have held talks in recent weeks to discuss a streaming deal with executives at Walt Disney Co., Comcast Corp. and Paramount Global, according to some of these people. </p><p>   It is unclear if the discussions will result in an agreement, but the retailer is looking to partner with one of the providers, the people said. The talks were earlier reported by the New York Times. </p><p>   Disney operates the Disney+, ESPN+ and Hulu services; Comcast owns Peacock; and Paramount runs the Paramount+ and Showtime services. All three companies are looking to expand their distribution as the competition for subscribers intensifies. </p><p>   Walmart has worked to grow membership of Walmart+ since introducing the service in 2020. A subscription costs $12.95 a month or $98 a year and includes free shipping on online orders and discounts on gasoline. The retailer has added perks to build interest, such as six months of the Spotify music streaming service. </p><p>   Walmart hasn't disclosed how many members have signed up. The service has around 16 million members, according to a May survey from Morgan Stanley, up from about 15 million the previous November. </p><p>   Walmart has tried to get into the streaming video business in the past, but has moved away from direct involvement in recent years. In 2020, Walmart sold its Vudu on-demand streaming service to Fandango, a unit of Comcast's NBCUniversal, after it failed to gain wide adoption. </p><p>   Amazon, meanwhile, has invested heavily to ramp up its own Prime Video service, adding original programming and live sports. Prime Video is included along with free shipping and other perks in its Prime membership, which costs $14.99 a month or $139 a year in the U.S. Amazon also recently added a year of Grubhub's restaurant delivery services for Prime subscribers. </p><p>   The membership services are just one of the ways in which Walmart and Amazon are competing. After buying Whole Foods, Amazon has rolled out its own physical stores and pushed into pharmacy services. Last month, it agreed to buy One Medical, an operator of health clinics. </p><p>   For its part, Walmart has been rolling out grocery delivery services and building its own health clinics. The company also has been trying to expand its digital business, including listing more goods from third-party sellers that sell on Amazon, and growing its own digital advertising business. </p><p>   --- </p><p>   Robbie Whelan and Lillian Rizzo contributed to this article. </p><p></p>",
+  "published": "2022-08-10T06:11:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 15,
+          "end": 22
+        },
+        {
+          "start": 208,
+          "end": 215
+        },
+        {
+          "start": 831,
+          "end": 838
+        },
+        {
+          "start": 1145,
+          "end": 1152
+        },
+        {
+          "start": 1339,
+          "end": 1346
+        },
+        {
+          "start": 1479,
+          "end": 1486
+        },
+        {
+          "start": 2038,
+          "end": 2045
+        },
+        {
+          "start": 2263,
+          "end": 2270
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

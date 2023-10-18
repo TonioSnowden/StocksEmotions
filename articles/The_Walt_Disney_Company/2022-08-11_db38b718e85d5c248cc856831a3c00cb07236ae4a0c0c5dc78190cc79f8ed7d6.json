@@ -1,0 +1,42 @@
+{
+  "_id": "db38b718e85d5c248cc856831a3c00cb07236ae4a0c0c5dc78190cc79f8ed7d6",
+  "feed": "ftcomall",
+  "title": "US streaming wars: big bets by Hollywood titans remain uneven",
+  "text": "<p>Maybe Rupert Murdoch and AT&amp;T knew what they were doing all along. In recent years both have curtailed their Hollywood ambitions. The pair sold entertainment assets to buyers keen to do battle in the content streaming wars. So far this year, Fox and AT&amp;T shares have held up versus declining market indices. Other media titans have discovered that the direct-to-consumer content business is not only expensive but also a smaller market than hoped. </p> <p>Late on Wednesday,&#xa0;<a href=\"https://www.ft.com/stream/725b01e3-d084-43ce-8fde-e1569668ad2a\">Disney</a>, which has acquired Fox's studio assets, reported that it had signed up 14.4mn new streaming subscribers to its Disney Plus service, more than expected. The next day shares rose 6 per cent in response. But that growth was costly. Disney Plus recorded a quarterly operating loss of $1.1bn on $5.1bn of revenue. The group also admitted it would not reach its long-term outlook for 260mn subscribers by 2024. </p> <p>An even bigger high-wire act in media is the recently christened <a href=\"https://www.ft.com/stream/8241c076-3edc-48bd-90b0-6b051978b996\">Warner Bros Discovery</a>, the result of Discovery's acquisition of Warner Media from AT&amp;T for $43bn in 2021. The middle-fare Discovery and highbrow Warner hardly made a natural fit. Discovery's net debt to ebitda ratio is at an elevated five times.</p> <p>That looks precarious. The new company admits to some painful integration issues, particularly on the way in which new shows and movies are released. Warner Bros Discovery shares have already lost 42 per cent this year. Still, that looks better than Netflix, the worst performer among the group in 2022. </p> <p>Meanwhile, the sellers have returned to their roots. AT&amp;T has retreated to its cash flow-rich, legacy mobile phone service and broadband businesses. Fox has focused on its traditional legacy linear pay-TV networks in news and sports. While sports rights remain expensive, affiliate fees and advertising have proved surprisingly resilient.</p> <p>For the likes of Disney and Discovery, standing still was never an option. But the streaming battles they have joined may make them think twice about the cost of expansion. </p><p>Source:  2022 'US streaming wars: big bets by Hollywood titans remain uneven' FT.com 11 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-11T17:28:06.177Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 462,
+          "end": 468
+        },
+        {
+          "start": 467,
+          "end": 473
+        },
+        {
+          "start": 1830,
+          "end": 1836
+        },
+        {
+          "start": 1851,
+          "end": 1857
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.306388,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.7131252,
+        "tagPositionWeight": 0.019513369,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

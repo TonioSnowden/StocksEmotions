@@ -1,0 +1,20 @@
+{
+  "_id": "1d6590e5f7ff033105439618dac1a5523425fea0bfa35405b5bb9ea9706f2fdc",
+  "feed": "wall-street-journal",
+  "title": "The Case For Vaccine 'Passports'",
+  "text": "<p>The federal government needed to set up a record system quickly, before the country could reach a consensus about how consumers should store this information. Instead, states were asked to work off of the existing system with no obvious plan for consumer access; the priority was getting shots in arms.</p><p>In some cases, health plans are notified that you have received a vaccine, at least if you volunteer your insurance card when vaccinated. But that doesn't help the millions who are uninsured or get the shot at a mass vaccination site or other nonstandard place like an optometrist's office.</p><p>As a result, there's no easy way to prove you've been vaccinated. You'd need cryptographically signed data that can't easily be forged -- a digital card that enables you to retrieve and store testing and vaccination information in a secure and verifiable way, via either an app or a QR code.</p><p>Some have panned this as a way of denying Americans access to restaurants or other businesses. It's more likely to allow Americans to visit places they otherwise can't, such as nursing homes or hospitals that aren't allowing family members.</p><p>Another way of thinking about vaccine passports is as a fast lane. Those who present proof of a vaccine might be able to skip requirements for a temperature check, health questionnaire or negative Covid test. Some people stop at toll booths and pay; others buy an E-ZPass and zoom through. The \"passport\" wouldn't impose an intrusive new layer; it would eliminate other requirements.</p><p>Half of cities and states are making vaccination information available through an online portal. Some countries and organizations are negotiating with third-party apps. Apple could take a similar approach with its health-data app on iPhones.</p><p>But these apps won't be allowed to flourish if state officials take a political stand and block apps from retrieving the underlying data. Some states may thus leave residents in the slow lane. Patients should have full access and total control over their own health information if they desire, and making it available on a trusted and secure application is a sensible idea in a digital world.</p><p>---</p><p>Dr. Gottlieb is a resident fellow at the American Enterprise Institute and was commissioner of the Food and Drug Administration, 2017-19. He serves on the boards of Pfizer and Illumina.</p><p>(See related letters: \"Letters to the Editor: Vaccine Passports Will Not Mirror the Blackboard Ideal\" -- WSJ Apr. 16, 2021)</p>",
+  "published": "2021-04-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1680,
+          "end": 1685
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "1a13996d36ba80e2bad80423b5d34fee4e33d08e756fe65b9e4d3bd67272cd63",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Streamers'  Deal Lifts  Songwriter  Royalties  ----  By Anne Steele",
+  "text": "<p>   Music publishers and streaming services reached an agreement to raise the rates songwriters get paid when their music is played on Spotify and other digital platforms. </p><p>   The National Music Publishers Association -- a trade organization representing music publishers including Universal, Warner and Sony -- and the Digital Media Association -- which represents Spotify Technology SA, Apple Inc., Amazon.com Inc., Alphabet Inc.'s YouTube and Sirius XM Holdings Inc.'s Pandora -- said Wednesday they have hammered out a deal days before they were set to go to trial in front of the Copyright Royalty Board. The board is a three-judge panel that sets the mechanical statutory licensing rates that digital-service providers pay publishers for on-demand streams of their songs. </p><p>   The agreement means publishers will get as much as 15.35% of music streamers' revenue, phased in during the five-year period from 2023 to the end of 2027. The settlement follows the Copyright Royalty Board's decision in July to retroactively uphold a rate of 15.1% for the period of 2018 to 2022 -- a 44% increase from the prior rate. </p><p>   Before the July decision, the two sides were in a debate over future rates. The new agreement aligns streamers' and songwriters' interests and will help generate collaboration, executives said in a joint interview. </p><p>   \"What's most important about the rate structure is we really are partners in that the more revenue they make the better we do,\" said NMPA Chief Executive David Israelite. </p><p>   \"We are in the midst of an incredibly competitive attention economy where those who make and distribute music are competing for eyeballs and to ensure ears are spending time listening to music,\" said Digital Media Association CEO Garrett Levin, who pointed out the challenge services have faced in having to strike new deals with the music business when they roll out new features. </p><p>   The deal, he said, would allow services to innovate \"while also ensuring music remains valuable in those products.\" </p><p>   For years, publishers and songwriters have bristled over payments from streaming and say they are paltry -- historically about one-fifth the amounts that labels and recording artists collect. The battle over streaming-royalty payouts heated up as financial players such as Blackstone Inc. and KKR &amp; Co. bet billions of dollars on song catalogs -- assets now seen as both increasingly valuable due to the growth of online streaming and untethered to broader market fluctuations. </p><p>   Mechanical licenses date to the early 20th century. In 1909, Congress decided music publishers had a monopoly on player-piano rolls, then a popular recording medium, and passed a law requiring them to license their copyrights, with the government setting the rate. Record labels, which control masters, or the sound recordings of songs, aren't subject to such compulsory licensing and negotiate with the services in the free market. </p><p></p>",
+  "published": "2022-09-01T06:13:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 381,
+          "end": 391
+        },
+        {
+          "start": 380,
+          "end": 389
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5913244,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 0.043762565,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

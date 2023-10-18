@@ -1,0 +1,40 @@
+{
+  "_id": "4d76c7cf3cdd36cd7cfd873230693451ac7c5b1c678038b61e37bfb246b529db",
+  "feed": "wall-street-journal",
+  "title": "Google Allows Alternate In-App Payment Options in South Korea, Though Familiar Fees Remain; App developers can use payment services other than Google's, but still face commissions",
+  "text": "<p>Google's plan calls for a four-percentage-point reduction in the fees app developers would otherwise face going through the U.S. firm's own payment system. That could be as low as a 6% commission for an ebooks provider, or as high as 26% for popular gaming companies, according to Google.</p><p>South Korea is considered to be a legal bellwether for other regulators around the world, which have increased scrutiny of Apple's and Google's app stores. Those portals to smartphone apps have become the gate to billions of customers around the world and huge profit centers for the companies that collect fees on digital payments handled inside apps.</p><p>The South Korean law had barred large app-store operators, such as Google and Apple, from only offering their own payment platforms—and triggering a commission of up to 30%--for in-app purchases of games, digital comics and other online content. But the law didn't bar Google or Apple from imposing other fees.</p><p>Apple has told the South Korean government that its current app-store policies already comply with the new law. The Cupertino, Calif.-based company didn't respond to requests for comment.</p><p>Google will allow app developers to feature other payment options, side-by-side with its own, when users look to buy digital items or pay for subscriptions.</p><p>The new fee structure allows Google to strike a balance between complying with the South Korean law and maintaining a business model that keeps the Android operating system and its app ecosystem free to users, said Sameer Samat, Google's vice president of product management for Android and Google Play.</p><p>Last month, the Korea Communications Commission had asked both Apple and Google to submit detailed plans on how they would comply with the law. If the U.S. firms didn't do so, the KCC said it would consider opening a fact-finding investigation, which could lead to fines or other penalties.</p><p>The KCC, the local media regulator overseeing the law's implementation, said it had received Google's policy outline and expected it to be implemented later this year. Though the law doesn't directly regulate commissions, a situation where apps are forced to choose a specific method due to \"unreasonable fees\" wouldn't be aligned with the new rules, the regulator said, citing plans to further review the matter once Google submits more details.</p><p>Despite enabling greater choice in payment methods, Google's proposed fee structure may mean South Korean app developers have more to lose, said Kim Hyeon-soo, executive director of telecommunications research at the Korea Information Society Development Institute, a state-run think tank.</p><p>\"The 4% cut in Google's commissions is not enough to make it worthwhile for apps to select other payment systems,\" Ms. Kim said. The savings might be negated in the costs required to implement a third-party payment system.</p><p>Google currently charges a 15% service fee on the first $1 million of in-app sales—but a 30% cut on any sales generated beyond that. The charges are lowered for certain apps depending on the business type and types of transactions.</p><p>Google appears to be taking action to show respect to South Korea's new rules, but still minimize losses to profits, said Yoo Byung-joon, a professor of business at Seoul National University who researches digital commerce.</p><p>With a population of about 52 million, South Korea's total app spending ranks fourth globally, behind only the U.S., Japan and China, according to Sensor Tower, a U.S.-based analytics firm, which tracks global spending on Apple and Google's app stores.</p><p>In September, South Korea fined Google around $177 million for obstructing other companies from developing rival versions of the Android operating system.</p><p>Write to Jiyoung Sohn at jiyoung.sohn@wsj.com</p><p>Google Allows Alternate In-App Payment Options in South Korea, Though Familiar Fees Remain</p>",
+  "published": "2021-11-04T10:29:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 953,
+          "end": 958
+        },
+        {
+          "start": 1665,
+          "end": 1670
+        },
+        {
+          "start": 3531,
+          "end": 3536
+        },
+        {
+          "start": 720,
+          "end": 725
+        },
+        {
+          "start": 921,
+          "end": 926
+        },
+        {
+          "start": 412,
+          "end": 417
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

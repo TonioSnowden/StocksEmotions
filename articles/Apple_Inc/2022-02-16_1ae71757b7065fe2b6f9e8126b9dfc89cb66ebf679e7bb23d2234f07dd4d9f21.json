@@ -1,0 +1,40 @@
+{
+  "_id": "1ae71757b7065fe2b6f9e8126b9dfc89cb66ebf679e7bb23d2234f07dd4d9f21",
+  "feed": "ftcomall",
+  "title": "Google to limit ad tracking across apps on Android",
+  "text": "<p>Google has announced new measures that will limit tracking across its Android operating system, following a similar move by Apple to introduce restraints in the way the online advertising industry can target users.</p> <p>The changes, which will not be implemented for at least two years, are intended to curb the sharing of user data with third parties, restricting advertising tracking for users who move between different apps on billions of devices running Android.</p> <p>Google said it planned to eventually phase out advertising IDs, a code that allows marketers to track individual user behaviour, in favour of alternatives that protected user data while still supporting advertising efforts.</p> <p>Apple introduced privacy measures last year, allowing users to completely opt-out of tracking on iPhones in a move that has shaken the $400bn digital advertising industry. Facebook's parent Meta says Apple's changes have resulted in about <a href=\"https://www.ft.com/content/8e80d420-ee96-4b2e-a58c-ed323d93ba74\">$10bn in lost revenues</a>.</p> <p>Apple and Google, two of the largest smartphone makers in the world, are responding to growing concerns about privacy to provide greater control to users over their data. But while Apple makes the majority of its revenue from selling devices such as the iPhone, Google generates more from digital advertising.</p> <p>Google has distanced itself from Apple's stringent measures, but its plan still marks a significant change in how advertisers can operate on Android. “The goal is to develop effective solutions that don't need device-level identifiers and limit user-level tracking across different developers' apps,” the company said.</p> <p>It intended to consult companies on the new measures and give them time to implement them, hitting out at rivals “bluntly restricting existing technologies used by developers and advertisers”.</p> <p>Android users were already able to opt-out of sharing their IDs, in changes <a href=\"https://www.ft.com/content/ff67e5a6-ca3e-42d2-98b8-01e656a6d396\">announced last June</a>, but Google plans to replace them entirely over time.</p> <p>The Privacy Sandbox initiative was launched for web users of Google products in 2019 in an attempt to limit third-party cookies online. Existing potential solutions in Privacy Sandbox collect users' data into broad interest groups, rather than revealing individual-level insights.</p> <p>Google is testing initial proposals to bring the Privacy Sandbox project to Android over the next few months, but the current system will remain in place for at least the next two years.</p> <p>The company is in discussions with developers about the new designs and how to improve user privacy without compromising the ability of advertisers to monetise through personalised campaigns. It is already working with Activision Blizzard, DoorDash, Duolingo and Snap to develop the plans.</p> <p>Google added that it was committed to not giving preferential treatment to its own ad products or sites and had shared proposals with all Android developers. More than 90 per cent of apps on the Google Play store are free, often relying on advertising to sustain their business.</p><p>Source: Cristina Criddle in London 2022 'Google to limit ad tracking across apps on Android' FT.com 16 February. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-02-16T15:35:36.593Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 887,
+          "end": 892
+        },
+        {
+          "start": 1131,
+          "end": 1136
+        },
+        {
+          "start": 1293,
+          "end": 1298
+        },
+        {
+          "start": 124,
+          "end": 129
+        },
+        {
+          "start": 950,
+          "end": 955
+        },
+        {
+          "start": 687,
+          "end": 692
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

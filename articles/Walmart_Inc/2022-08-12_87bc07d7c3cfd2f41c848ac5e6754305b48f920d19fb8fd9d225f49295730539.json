@@ -1,0 +1,30 @@
+{
+  "_id": "87bc07d7c3cfd2f41c848ac5e6754305b48f920d19fb8fd9d225f49295730539",
+  "feed": "wall-street-journal",
+  "title": "YouTube Advances Plans for Streaming Video Marketplace; Ultracompetitive U.S. market is prompting streaming services to seek new ways to find subscribers",
+  "text": "<p>YouTube currently allows subscribers to YouTube TV, its $64.99-a-month online package of cable channels, to add on a subscription to services such as HBO Max. The new marketplace would allow consumers to choose streaming services a la carte through the main YouTube app.</p><p>YouTube, which is owned by Alphabet Inc., will be joining the likes of Amazon.com Inc., Roku Inc. and Apple Inc., which all have their own hubs to sell streaming video services. With an array of apps now available, these tech giants are trying to position themselves as the go-to place for consumers to get access to all of their favorite movies and shows. Selling multiple services through a single app can make life easier for consumers.</p><p>Typically, companies with streaming hubs get a share of revenue from purchases within their marketplaces. YouTube is discussing splitting subscription revenue with streaming partners, although the terms may vary widely for each partner, according to people familiar with the situation. YouTube declined to comment.</p><p>For streaming video services, which are facing greater competition and slowing growth in the U.S., the YouTube store offers another avenue to get in front of potential customers. Companies are exploring a variety of new marketing and distribution strategies to boost sign-ups.</p><p>NBCUniversal's Peacock has had discussions with potential partners about adding their streaming services to its app, according to people familiar with the discussions. Peacock declined to comment.</p><p>Walmart is contemplating adding streaming services as a new perk to its membership program. Netflix Inc. and other streaming services have agreed to be part of Verizon's new Plus Play subscription manager, which lets customers sign up for and manage their streaming services through the connectivity company's interface.</p><p>\"They are making their services available in as many places as possible, so that they have as big a shot as possible of getting people,\" said Bill Rouhana, chief executive of Chicken Soup for the Soul Entertainment Inc., which owns a large stable of free, ad-supported streaming channels.</p><p>There are trade-offs to consider for streaming services: partnering with other companies means having less potential revenue and less control over customers' data.</p><p>Still, more streaming services are looking to bundle because it creates a better experience for consumers and they are less likely to cancel subscriptions, said Jeffrey Hirsch, president and chief executive of Starz, which has bundled its streaming offering with Walt Disney Co. in Latin America and Canal+ in France. \"Simplicity is always a great thing for the consumer,\" he said.</p><p>YouTube in 2020 was discussing launching an online streaming video store, the Information previously reported. Now, the idea appears to be gaining traction with entertainment companies hungry for new audiences. YouTube has pitched the scale and diversity of its global audience as a reason why streaming services should join the effort, the people close to the discussions said. YouTube has more than two billion monthly logged-in users, according to Google.</p><p>The pitch is that the new YouTube channel store would offer great marketing for streaming services because consumers could watch trailers of shows or movies free on YouTube and then easily pay to subscribe to the service.</p><p>WarnerMedia—the company now known as Warner Bros. Discovery—last year pulled its HBO Max streaming service off Amazon Prime Video Channels because its CEO at the time, Jason Kilar, didn't want to share data or give Amazon a direct relationship with its customers. At the time, 4.5 million of HBO Max's 70 million subscribers came from Amazon Channels, according to a person familiar with the situation. Now, Warner Bros. Discovery is negotiating to get HBO Max back on Amazon Prime Video Channels, the person said.</p><p>Beyond making their services available in stores like Amazon's and the one YouTube is building, streaming companies are exploring ways to package their own services. Disney offers a bundle of its Disney+, Hulu and ESPN+ services at a lower price than what customers would pay for each separately. Such arrangements typically help keep customers longer, according to some industry analysts.</p><p>Paramount+ in the next few weeks plans to start offering its Showtime streaming service as a tab within its platform, according to two people familiar with the discussions. Down the line the company is discussing adding its other streaming service, BET+, the people said.</p><p>All three major wireless carriers have for years offered free streaming services with some of their long-term cell-service plans. AT&amp;T Inc., which was HBO's parent company until April, for years offered HBO free to some of its cable and wireless customers. The arrangement briefly ended this year after AT&amp;T merged media assets with Discovery Inc., but the companies have since rekindled the relationship.</p><p>T-Mobile offers free Netflix to some of its customers and Verizon offers six months of Disney+ to customers on some of its wireless plans.</p><p>Write to Sarah Krouse at sarah.krouse+1@wsj.com</p><p>YouTube Advances Plans for Streaming Video Marketplace</p>",
+  "published": "2022-08-12T22:11:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1488,
+          "end": 1495
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.48767567,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.51232505,
+        "tagPositionWeight": 7.1525574e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 15
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "ef444724782e09619492e4e77bd5902c2e6f0d6bdd362ccb5cb757d970eacd5a",
+  "feed": "wall-street-journal",
+  "title": "Paul Allen's $1 Billion Art Collection Heads to Auction; Christie's will offer 150 artworks from the Microsoft co-founder's estate, with proceeds from a likely historic sale going to charity",
+  "text": "<p>Christie's confirmed Thursday that it had won the right to sell at least 150 artworks from Mr. Allen's estate—now poised to be the most expensive art collection the auction industry has ever handled. The sale is estimated to surpass the$922 million collection of real-estate developer Harry Macklowe and his ex-wife Linda Macklowe, sold earlier this year, as well as the $835 million estate of banker David Rockefeller and his wife, Peggy, in 2018. Mr. Allen died at age 65 in 2018 after a recurrence of non-Hodgkin lymphoma.</p><p>Marc Porter, chairman of Christie's Americas, said the house must finish cataloging all 150 works before providing additional details on the sale's offerings, though he confirmed it will include Jasper Johns' 1960 \"Small False Start,\" which is estimated to sell for at least $50 million, and Paul Cézanne's 1888-90 landscape, \"La Montagne Sainte-Victoire.\"</p><p>The Cézanne last sold at auction for $39 million in 2001; Mr. Porter estimates it could resell for at least $100 million this November in New York.</p><p>Like the Rockefeller estate, all proceeds from Mr. Allen's sale will go to charity, though no recipients have yet been named, the house said. Mr. Allen donated $2 billion during his lifetime to funds addressing biomedical research, culture, environmental causes and homelessness.</p><p>Jody Allen, the collector's sister and executor of his estate, described her brother in a statement as being both \"analytical and emotional,\" adding, \"He believed that art expressed a unique view of reality—combining the artist's inner state and inner eye—in a way that can inspire us all.\"</p><p>Since collectors tend to pay premiums for art tied to noteworthy owners, Mr. Allen's estate could prove to be the marketing bonanza of the fall art season. \"Collecting art was personal for him, an element of his intellectual exploration,\" Mr. Porter said of the collector.</p><p>Mr. Allen's role pioneering the personal-computing industry with his high-school friend Bill Gates has long been the stuff of Silicon Valley legend. After leaving Microsoft in 1983, he began paying more attention to art. He was inspired in part by his librarian father, who collected Chinese celadon pottery and hung a poster of Georges Rouault's 1916-1936 \"The Old King\" in the family living room, according to Mr. Allen's 2011 autobiography, \"Idea Man.\"</p><p>By the early 1990s, Mr. Allen started to make waves at major auctions and eventually gained a reputation as an extremely private yet omnivorous collector. Even his autobiography didn't delve into the back stories about his holdings of impressionist and modern art. In other collecting fields, he appeared more willing to discuss his activities, from war planes and Jimi Hendrix's electric guitars to historic manuscripts and Captain Kirk's first \"Star Trek\" command chair. He lent or donated many of these objects to museums he founded such as Seattle's Experience Music Project, now renamed the Museum of Pop Culture, or the Flying Heritage &amp; Combat Armor Museum.</p><p>Only his blue-chip paintings and sculptures will be offered as part of Christie's sale, the auction house said. Mr. Porter said Mr. Allen tended to seek out artworks that represented \"groundbreaking\" moments in artists' careers, including that Cézanne mountainscape that is now considered a seminal example of the artist's experiments with early abstraction.</p><p>A pair of Seattle museum exhibits in 2006 and 2019-2020 drawing from his collection offer clues into potential pieces that could be headed for auction. Among the older works Mr. Allen or his estate has loaned are Sandro Botticelli's circa-1480-1489 \"Madonna of the Magnificat,\" Jan Brueghel the Younger's 1625 \"The Five Senses: Sight,\" and Canaletto's 1783 Venetian scene, \"The Grand Canal, Venice, Looking South-East from Saint Eustace to New Rialto Buildings.\"</p><p>Mr. Porter declined to name other specific works in the estate sale but conceded that Mr. Allen's collecting spanned 500 years of art history and often included landscapes set in places he liked to travel, including Italy and France.</p><p>Among the impressionist works known to be in Mr. Allen's collection, according to past museum shows: Edgar Degas' \"Woman Seated in Front of a Piano\" from 1882-85, Pierre-Auguste Renoir's 1877 \"The Reader\" and several examples by Claude Monet, including famed views of the Rouen cathedral and water lily ponds.</p><p>Mr. Allen is also known for buying several powerhouse modern pieces, including Georgia O'Keeffe's 1927 \"White Rose with Larkspur No. 1,\" and Roy Lichtenstein's 1962 \"The Kiss.\"</p><p>The sale could also give the market a chance to see if Mr. Allen's past purchases have appreciated in value—and by how much. In 2000, he paid Sotheby's $14.3 million for Mark Rothko's 1956 abstract, \"Yellow Over Purple,\" and in 2004, he paid the same house $39.2 million for Paul Gauguin's 1899 \"Maternity II.\" Two years later, he paid Christie's $40.3 million for Gustav Klimt's 1903 \"Birch Forest.\"</p><p>Write to Kelly Crow at kelly.crow@wsj.com</p><p>MORE IN ART &amp; AUCTIONS</p><p>* A Cherry-Red 1955 Ferrari Sells for $22 Million</p><p>* Ken Griffin on Why He Spent $43 Million to Buy the U.S. Constitution</p><p>* Mexico Tries a New Tactic to Get Its Antiquities Back: Social Pressure</p><p>* Christie's to Invest Several Million Dollars Into Tech Startups</p><p>* Christie's Sold $4.1 Billion in Art in the First Half of 2022</p><p>Paul Allen's $1 Billion Art Collection Heads to Auction</p>",
+  "published": "2022-08-26T01:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 101,
+          "end": 110
+        },
+        {
+          "start": 2027,
+          "end": 2036
+        },
+        {
+          "start": 2038,
+          "end": 2047
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.53396,
+        "baseWeight": 3.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.53395975,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "7d30a9370b2bb1a7dbc14f1b025788f3eee18753c40185a8e3ad9cae122db304",
+  "feed": "wall-street-journal",
+  "title": "Kroger Keeps Ringing the Register; Lean times are good times for the supermarket giant and its investors",
+  "text": "<p>Friday's solid results show why. In the company's second fiscal quarter, identical store sales excluding fuel rose 5.8% from a year earlier. That was up from 4.1% growth the prior quarter, and significantly better than analyst expectations for an increase of around 4.5%. Sales momentum improved over the course of the quarter, the company said. Earnings of $1 per share handily beat consensus estimates of just 78 cents, according to FactSet.</p><p>Shoppers are becoming more frugal. \"We continue to see more customers cooking from scratch and eating out less often,\" said Chief Executive Rodney McMullen on a conference call with analysts. Engagement with digital coupons hit a record high in the quarter, with 750 million offers downloaded by customers, for total savings of around $1 billion. Sales of Kroger's private label goods rose 10.2% from a year earlier, compared with 6.3% growth the prior quarter.</p><p>Despite all this the company has managed margins well, with adjusted gross margins excluding fuel actually ticking slightly higher from a year earlier.</p><p>The company also raised guidance for the second straight quarter for both sales and operating profits for its full fiscal year ending early 2023. It now sees identical store sales growth of 4.0% to 4.5%, up from 2.5% to 3.5% at its last update, and operating profit of $4.6 billion to $4.7 billion compared with $4.3 billion to $4.4 billion previously.</p><p>That outlook could be raised yet again next quarter, said J.P. Morgan analyst Ken Goldman in a note, given Kroger's \"multiyear history of beating and raising.\"</p><p>All in all, there is little for investors to dislike here. Nonetheless Kroger now trades at only a slight premium to historic levels: 0.24 times forward sales compared with an average of 0.22 times over the last 10 years, according to FactSet. That ratio could look even better once analysts have incorporated Friday's improved sales guidance.</p><p>Investors looking for good value could do far worse.</p><p>Write to Aaron Back at aaron.back@wsj.com</p><p>Kroger Keeps Ringing the Register</p>",
+  "published": "2022-09-09T16:41:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1469,
+          "end": 1480
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000008,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 8.34465e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

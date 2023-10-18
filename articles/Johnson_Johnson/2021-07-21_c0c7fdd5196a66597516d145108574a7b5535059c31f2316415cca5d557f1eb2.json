@@ -1,0 +1,32 @@
+{
+  "_id": "c0c7fdd5196a66597516d145108574a7b5535059c31f2316415cca5d557f1eb2",
+  "feed": "wall-street-journal",
+  "title": "Business News: Jones Day To Advise J&J on Talc Unit",
+  "text": "<p>J&amp;J said Tuesday it hasn't decided on a course of action with respect to the thousands of talc lawsuits it faces, except to defend the safety of talc and fight pending claims.</p><p>The company declined to comment further. Jones Day didn't respond to a request for comment.</p><p>Filing a subsidiary for bankruptcy would give J&amp;J several legal tools to resolve current liabilities and future claims over talc-based products, which the company stopped selling in the U.S. and Canada last year.</p><p>J&amp;J faced 28,900 injury lawsuits across the U.S. over talc as of April, according to the company's most recent quarterly report, which also said the number of tort claims continues to grow.</p><p>Bankruptcy would automatically halt the lawsuits, a protection that could be extended to the publicly traded parent.</p>",
+  "published": "2021-07-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 35,
+          "end": 38
+        },
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 481,
+          "end": 484
+        },
+        {
+          "start": 314,
+          "end": 317
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

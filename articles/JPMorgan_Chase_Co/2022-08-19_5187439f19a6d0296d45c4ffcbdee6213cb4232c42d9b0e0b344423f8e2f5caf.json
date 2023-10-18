@@ -1,0 +1,34 @@
+{
+  "_id": "5187439f19a6d0296d45c4ffcbdee6213cb4232c42d9b0e0b344423f8e2f5caf",
+  "feed": "market-watch",
+  "title": "Friday's $2.3 trillion options expiration could remove a critical avenue of support for stocks, analysts say",
+  "text": "<p>These include options tied to stock-market indexes like the S&amp;P 500 SPX, as well as those tied to exchange-traded funds like the SPDR S&amp;P 500 trust SPY, and single-stock options as well.</p><p>Why is this important? As Fishman explained in a note in June, options expiration adds a layer of \"positioning complexity\" to the market. Since the Federal Reserve announced its second 75 basis points interest-rate hike in July, market strategists including JPMorgan Chase &amp; Co.'s Marko Kolanovic have cited positioning as the critical factor driving markets higher, as investors chased the rally by putting money back to work in the market. While some have opted to buy stocks outright, others have favored short-dated options contracts, like the monthly and weekly contracts expiring on Friday.</p><p>See: JP Morgan quant who called summer rally says there's plenty of ammunition to drive stocks higher — and here's why</p><p>While Friday's $2.3 trillion in notional value isn't notable on it's own, it's higher than what investors saw in August in 2021, 2020 and 2019, according to Fishman's note from June.</p><p>Friday's expiration of options contracts could remove an important pillar of market support in the form of dealer positioning, according to data from Spotgamma.</p><p>Options tied to the S&amp;P 500 have favored strike prices around the 4,300 level — which is roughly in line with the 200-day moving average for the index. Over the past week, that level has acted as a ceiling over the index that has yet to break.</p><p>See: Stock-market rally faces key challenge at S&amp;P 500's 200-day moving average</p><p>Heavy buying of options has created a buffer for the market by forcing options dealers to buy stocks to hedge their exposure.</p><p>But Spotgamma analysts said dealers won't have as much upside risk to hedge, following Friday's expirations, which can remove a critical source of buying from the market in the dog days of August, when trading volumes are typically thin.</p><p>U.S. stocks were trading lower on Friday. The S&amp;P 500 SPX was off about 1.3%, near 4,229, while the Dow Jones Industrial Average DJIA was off 0.8% and the Nasdaq Composite COMP was 2% lower.</p><p>Friday's $2.3 trillion options expiration could remove a critical avenue of support for stocks, analysts say</p>",
+  "published": "2022-08-19T15:32:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.96,
+      "offsets": [
+        {
+          "start": 784,
+          "end": 793
+        },
+        {
+          "start": 442,
+          "end": 462
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0237823,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.023782253,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

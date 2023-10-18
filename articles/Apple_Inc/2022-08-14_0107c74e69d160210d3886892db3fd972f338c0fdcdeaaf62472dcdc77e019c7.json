@@ -1,0 +1,42 @@
+{
+  "_id": "0107c74e69d160210d3886892db3fd972f338c0fdcdeaaf62472dcdc77e019c7",
+  "feed": "wall-street-journal",
+  "title": "Not Upgrading This Year? How to Make Your Old Phone Last; Follow these steps to save battery life, improve speed and reduce wear on your older iPhone or Android model, especially if its operating system hasn't hit its expiration date yet",
+  "text": "<p>Phones are more durable. Most newer models, even less expensive ones, can withstand an accidental dip in the pool. Their larger batteries provide longer life for more years, and the display glass is stronger, too. Unless you want to jump to folding phones—which we don't yet recommend—a new model will feel incremental at best.</p><p>The market reflects this. With the exception of $900-and-up models, phone sales are down, especially in the past four quarters, according to analytics firm IDC.</p><p>Sure, if your phone is in bad shape or running an out-of-date operating system, you should buy a new one. But if your phone is less than five years old and still kicking, you can improve its speed and extend its longevity with this four-step program.</p><p>Step 1: Check software compatibility</p><p>Fall is my favorite time of year, not because of new phones but because it's when the latest versions of Apple's iOS and Google's Android software ship. These updates can make old devices feel new again, and come with critical security and bug fixes. Only use phones supported by the most recent software, and consider an upgrade (or a recent-model refurbished) if not.</p><p>* iPhone: Currently, the iPhone 6S (released in 2015) and newer are supported by the latest iOS, 15.6. However, iOS 16, due this September with new features such as editable texts in iMessage, will drop support for older models. Only the iPhone 8 (released in 2017) and newer will get it. There is a complete list of supported devices at the bottom of Apple's iOS 16 Preview.</p><p>* Android: System and security updates are separate. Check and update your Android version in the settings app. The exact flow differs by manufacturer. Samsung devices get three years (Galaxy S20 and older) or four years (Galaxy S21 and newer) of Android OS updates, and an additional year of security updates. For Pixel users, Google has its own guarantee of system and security updates.</p><p>Step 2: Assess your charging habits</p><p>If you have a damaged or frayed cable, replace it. Charging gear endures a lot of stress—repeated plugging, harsh bending, cat clawing, constant yanking, etc.—and getting a new setup can charge your device more efficiently and safely. Consider upgrading to a braided nylon cable or, if your device supports it, a wireless charger. Wireless chargers power your devices more slowly, but save stress on charging cables. </p><p>Phones with older batteries hold less charge and often feel sluggish. Replace batteries once their maximum capacity—found in the iPhone's Settings app—drops below 80%. PHOTO: Nicole Nguyen/The Wall Street Journal</p><p>Lithium-ion batteries—the kind in your phone and most other electronics—decay over time, and the way you charge or use the battery can speed up that decay. Repeatedly charging your battery to 100% or using your phone below 15% isn't good for your battery's health, says Skyler Allenolson, a technician at the on-demand tech-support service Nerd App. Many phones now have settings to monitor and improve battery life.</p><p>* iPhone: Go to Settings &gt; Battery &gt; Battery Health, then enable Optimized Battery Charging to reduce battery aging.</p><p>* Samsung: Go to Settings &gt; Device Care &gt; Optimize Now. Galaxy Phones have a \"Protect Battery\" option, which limits the charge to 85%. Go to Settings &gt; Battery and Device Care &gt; Battery &gt; More Battery Settings &gt; Protect Battery to enable. Just remember, with this setting, you'll extend your battery's lifespan but have shorter battery life after each charge.</p><p>More on Older Smartphones</p><p>* How to Find the Best Trade-In Deals for Your Old iPhone or Android Phone</p><p>* Your Phone Is Too Big—Here's How to Handle It</p><p>* Want to Buy Refurbished Gear? Here's How to Avoid Scams</p><p>Step 3: Boost your speed</p><p>Sluggish devices might be the result of older batteries. In 2017, Apple said it intentionally slowed speeds on phones with older batteries, to prevent the devices from unexpectedly shutting down. Typically, batteries will start to show decreased performance after two or three years, or about 500 charge cycles. Getting a replacement once your battery health percentage drops below 80% of its original capacity could increase performance.</p><p>* iPhone: Go to Settings &gt; Battery &gt; Battery Health to see your battery's capacity.</p><p>* Android: There isn't a readily accessible built-in feature, but apps such as AccuBattery and MacroPinch show insights into your device's battery health.</p><p>These tips from Mr. Allenolson can also improve performance:</p><p>* Restart your phone every other day. \"Leaving a phone on for an extended period can cause a build up of unusable memory and errors,\" he said.</p><p>* Free up space. Think of your phone like an office, Mr. Allenolson said. When it gets crammed with stuff, it's harder to move around. See what's hogging storage in iPhone or Android settings. Delete unnecessary media or use a photo cloud service that automatically removes locally stored images once they are backed up.</p><p>* Prevent apps from running in the background. Too many running apps is a common culprit, according to Mr. Allenolson. Turn off background app refresh in iOS or Android.</p><p>* Use websites instead of apps. Apps not only take up space, they can also run in the background, which can clog performance, he said. Many services, such as social-media apps, can be accessed from your mobile browser with nearly identical functionality. You can even add website bookmarks to your home screen in iOS or Android.</p><p>Step 4: Protect your investment</p><p>A solid, grippy case with raised edges can add years to your phone's lifespan (and preserve some trade-in value). I like Speck's cases because they are protective without adding too much bulk and Otterbox's screen protectors for their touch responsiveness. A phone holder, such as the PopGrip Slide, can also make your device easier to grip, and prevent falls.</p><p>SHARE YOUR THOUGHTS</p><p>What tips do you have for keeping an old phone up and running? Join the conversation below.</p><p>And while many phones are protected from short exposure to water, don't take them snorkeling. \"Water-resistant is not the same as waterproof,\" said Mr. Allenolson, who emphasizes that moisture can still damage sensitive components inside your phone. Saltwater, especially, corrodes electronics. If your device is exposed to a spill or splash, Apple recommends rinsing the affected area with tap water, then placing the phone in a dry area with air flow, ideally in front of a fan blowing cool air.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Nicole Nguyen at nicole.nguyen@wsj.com</p>",
+  "published": "2022-08-14T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 882,
+          "end": 887
+        },
+        {
+          "start": 1499,
+          "end": 1504
+        },
+        {
+          "start": 3770,
+          "end": 3775
+        },
+        {
+          "start": 6254,
+          "end": 6259
+        }
+      ],
+      "weightsV2": {
+        "weight": 8.000296,
+        "baseWeight": 4.0,
+        "expansionWeight": 4.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00029540062,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

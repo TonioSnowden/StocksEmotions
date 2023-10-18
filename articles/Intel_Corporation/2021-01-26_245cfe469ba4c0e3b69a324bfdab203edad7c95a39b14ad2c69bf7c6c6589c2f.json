@@ -1,0 +1,48 @@
+{
+  "_id": "245cfe469ba4c0e3b69a324bfdab203edad7c95a39b14ad2c69bf7c6c6589c2f",
+  "feed": "ftcomall",
+  "title": "Intel reveals ‘hacked' earnings release was on guessable URL",
+  "text": "<p>Intel has shed new light on its claim that the leak of sensitive financial information from its website last week was the result of a “hack”, admitting that the problem originated from a weakness in its own publication procedures.</p> <p>The glitch has also highlighted a potential flaw for other companies that use only slight — and easily guessable — variations on common URLs.</p> <p>The <a href=\"https://www.ft.com/content/b14742ed-c070-4d16-9696-96fe72ac04b8\">Intel leak</a> came last Thursday, ahead of the planned after-market announcement of unexpectedly strong fourth-quarter results. The group's shares rose steadily during the day before rallying in the final minutes of trading after Intel itself rushed the earnings ahead of schedule.</p> <p>George Davis, chief financial officer, told the Financial Times that Intel acted after discovering that its website had been “hacked”, resulting in the circulation of an infographic containing details of its earnings outside the company. The company said at the time it was investigating the incident and did not say that its own procedures might have been to blame.</p> <p>The company has since disclosed that the information was “inadvertently made publicly accessible”, before being “accessed by third parties”.</p> <p>The infographic is understood to have been “staged”, or prepared for publication by the company, which included adding the URL. It was not posted to Intel's investor website, meaning that there were no links to the information, though it was visible to anyone who guessed the URL. Intel uses very similar URLs each quarter for its financial disclosures, making it relatively simple for outsiders to guess.</p> <p>Bruce Schneier, a US cyber security expert, called Intel's original explanation for the leak “a lame excuse for a hack” since the company's own actions had made it easy for someone to access the information.</p> <p>He added, though, that courts had concluded before that guessing URLs for unpublished information was a contravention of the Computer Fraud and Abuse Act, which makes it illegal for anyone to “exceed authorisation” when accessing a computer system. Mr Schneier compared it to “rattling doorknobs” to see whether someone had left a door unlocked.</p> <p>Intel said its “network was not compromised and we have adjusted our process to prevent this in the future”.</p><p>Source: Richard Waters in San Francisco 2021 'Intel reveals ‘hacked' earnings release was on guessable URL' FT.com 26 January. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-01-26T00:41:13.270Z",
+  "tags": [
+    {
+      "offsets": [
+        {
+          "start": 1445,
+          "end": 1450
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 725,
+          "end": 730
+        },
+        {
+          "start": 1621,
+          "end": 1626
+        },
+        {
+          "start": 377,
+          "end": 382
+        },
+        {
+          "start": 2124,
+          "end": 2129
+        },
+        {
+          "start": 604,
+          "end": 609
+        },
+        {
+          "start": 1313,
+          "end": 1318
+        }
+      ],
+      "name": "Intel Corporation",
+      "id": "US4581401001",
+      "nexusId": "10063594"
+    }
+  ]
+}

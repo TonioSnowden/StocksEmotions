@@ -1,0 +1,24 @@
+{
+  "_id": "eb4af1776da14cd4ba65812ed4a03ba7226d5f70c7132cff1304c349238f48eb",
+  "feed": "wall-street-journal",
+  "title": "Cyber Insurers Turn Attention to Catastrophic Hacks; Carriers are trying to model the financial impact of cyberattacks on systemically important companies",
+  "text": "<p>Recent significant hacks yielded valuable data allowing carriers to determine what to demand from policyholders about their minimum defenses against hackers, and informed insurers on how to price the risk they cover, insurers and analysts said.</p><p>Still, the biggest risk hasn't yet materialized: a cyberattack against a company or information services system so important to an economy, or to society as a whole, that it reaches systemic levels. One so big, perhaps, it might take down carriers.</p><p>\"I think it's important we stress that the insurance industry has not had a catastrophic event,\" said John Coletti, head of cyber reinsurance at Swiss Re.</p><p>Major incidents such as the NotPetya virus in 2017, attacks against critical infrastructure providers including Colonial Pipeline Co. in 2021, and vulnerabilities in commonly used software such as Microsoft Corp.'s Exchange product have raised alarms and tested coverage limits, Mr. Coletti said. But none have metastasized into an existential threat.</p><p>Insurers model such attacks for their potential contagion. An attack against a large logistics supplier, for instance, may have a significant but confined impact, such as system outages that disrupt some supply chains or temporarily halt services to customers. That happened during a cyberattack on managed services provider Kaseya Ltd. in 2021 that left hundreds of clients suffering outages or infected by ransomware.</p><p>An attack on a key part of the financial system's plumbing, however, or against a major cloud provider that powers critical infrastructure operators, could trigger financially devastating claims.</p><p>Such scenarios have insurers concerned and some are beginning to limit coverage as a result.</p><p>\"We're seeing them go so far as to name specific cloud providers, and stating that they're not going to fully cover an event if there is a partial or full interruption of that cloud provider's services,\" said John Farley, managing director of the cyber liability practice at Arthur J. Gallagher &amp; Co.'s U.S. insurance brokerage business.</p><p>In August, global insurance marketplace Lloyd's of London Ltd. directed its syndicates to adopt policy language excluding catastrophic cyberattacks by nation-states. Patrick Tiernan, chief of markets at Lloyd's, said coverage restrictions are natural in relatively immature insurance classes such as cyber, as the industry develops an understanding of its risks.</p><p>By contrast, older forms of insurance, such as for shipping, have more extensive options because insurers have significant experience with potential problems and the size of claims they can expect.</p><p>\"We have hundreds of years of history of understanding that risk,\" Mr. Tiernan said.</p><p>Part of the challenge for modeling cyber catastrophes is that historical data simply doesn't exist to produce accurate models, Mr. Tiernan said. That forces Lloyd's and insurers to estimate damage by resorting to simpler methods, such as adding up policy limits that would come into play in a specific scenario.</p><p>The use of simple models can lead to problems. For example, insurers could be forced to hold capital in reserve for worst-case scenarios, or they might cover only very specific cyber risks, requiring companies to take out multiple, expensive policies.</p><p>Although most major carriers are starting to tackle catastrophic cyber scenarios—Lloyd's has, for instance, considered an outage at a major cloud provider, Mr. Tiernan said—the risk models they employ differ, and there is no industry standard to use as a benchmark.</p><p>The variance extends even to basics such as whether insurers are examining ultrarare events, such as those that might happen every 500 years, or more regular ones, said Swiss Re's Mr. Coletti.</p><p>\"These models are really important, and they do hold a lot of weight when it comes to the amount of capital that companies are willing to deploy,\" he said. \"We probably need to pay a little more attention to the assumptions that underpin them.\"</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-11-28T10:30:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 846,
+          "end": 861
+        },
+        {
+          "start": 846,
+          "end": 855
+        }
+      ]
+    }
+  ]
+}

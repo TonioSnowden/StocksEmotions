@@ -1,0 +1,34 @@
+{
+  "_id": "55bf4742bad8fa64a166a5323d36eed783fa40d3dce3d58475122220268ecb50",
+  "feed": "wall-street-journal",
+  "title": "Tech Stocks Lead Market Lower as Investors Await Inflation Data; Consumer-price reading could hint at how Fed will approach monetary policy at coming meetings",
+  "text": "<p>Investors await consumer-price data on Wednesday that could set expectations for how the Federal Reserve will approach monetary policy at its coming meetings. In recent weeks, better-than-expected corporate earnings and strong labor-market data have eased concerns about an imminent U.S. recession, helping stock markets rebound from their lows.</p><p>With inflation running at a multidecade high, investors say Wednesday's consumer-price index update will be key to the outlook for rates and the direction of the market.</p><p>\"The market has enjoyed a risk-on environment since the lows of mid-June, and investors interpreted Chair [Jerome] Powell as more dovish than he had hoped at the last Federal Reserve meeting,\" said Quincy Krosby, chief global strategist for LPL Financial. \"But today's market is tomorrow's market—Wednesday's inflation data will provide a clearer picture as to whether this bear market is truly behind us.\"</p><p>Ms. Krosby said inflation is the No. 1 concern for the market—not only whether it is subsiding, but how quickly.</p><p>Shares of Roblox, Coinbase Global, and Wynn Resorts all fell in after-hours trading following disappointing earnings results. Chip maker Micron Technology fell 3.7% Tuesday afterissuing a revenue warning, just a day after Nvidia offered similar preliminary guidance.</p><p>Norwegian Cruise Line Holdings fell nearly 11% after reporting a wider-than-expected quarterly loss. Shares of peer cruise line Carnival Corporation fell 5.4% as pockets of the travel sector struggle to recover from the pandemic. Investors are keen to see results from Walt Disney Co., which are expected after Wednesday's close.</p><p>Brent crude prices flip-flopped in Tuesday's trading, swinging 1.8% in either direction. Barrels of the crude benchmark lurched into positive territory early in the morning after Moscow cut the flow of oil through a pipeline to Europe, and finished down 0.4% at $96.31 per barrel.</p><p>\"Oil prices are still driven by the near-term macroeconomic outlook,\" said Robert Thummel, managing director and senior portfolio manager of TortoiseEcofin. \"Concerns remain that the Federal Reserve will continue slowing the economy if Wednesday's inflation data comes in higher than expected, but markets still see persistent undersupply and high demand as creating upward pressure on oil prices.</p><p>Data released Tuesday showed U.S. labor productivity declined for a second straight quarter while labor costs were more elevated than economists expected.</p><p>The yield on the benchmark 10-year U.S. Treasury note edged up to 2.797% from 2.763% on Monday, while the two-year yield rose to 3.284% from 3.214%. With shorter-term yields significantly above longer-term ones, the yield curve remains inverted, a key recession indicator.</p><p>Overseas, the Stoxx Europe 600 fell 0.7%, with losses led by travel and technology firms. In Asia, stock markets were mixed. In Japan, the Nikkei 225 fell 0.9% while in China, the Shanghai Composite Index rose 0.3%. In Hong Kong, the Hang Seng Index weakened by 0.2%.</p><p>Write to Will Horner at william.horner@wsj.com and Eric Wallerstein at eric.wallerstein@wsj.com</p><p>Tech Stocks Lead Market Lower as Investors Await Inflation Data</p>",
+  "published": "2022-08-09T20:44:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1572,
+          "end": 1587
+        },
+        {
+          "start": 1561,
+          "end": 1576
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.5475622,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.45243812,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "8c3c7367eed63945c2ba9224a39714c3e550b4d659097475b39026669ceec954",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Payments Companies Play Hide the Crypto  ----  By Telis Demos",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  Bitcoin and other digital currencies' best bet to become major actors in the world of payments might be to stay behind the scenes. </p><p>\n  To the extent there is demand to use cryptocurrency holdings to make everyday payments, so far only a niche of merchants are willing to take crypto as payment. Accepting bitcoin or other tokens could introduce a level of risk and complexity that all but a handful of retailers might consider a big headache. </p><p>\n  But now the payments industry is showing a path forward. Visa and PayPal Holdings this week made moves that can subtly make blockchain and crypto a part of what otherwise seem to be everyday transactions -- without putting any onus on merchants to have to think about accepting newfangled moneys. </p><p>\n  PayPal said Tuesday it would begin allowing users who bought cryptocurrency to use it when they pay with their PayPal wallets. In the same way users can select their PayPal balances or credit or debit cards to fund a payment, they will be able to choose crypto. Crucially, the merchant receives the same payment in regular, fiat currency regardless of the funding method the payer picks. </p><p>\n  Similarly, Visa on Monday said it started piloting settlement of transactions on its network with digital currency. Already some digital-wallet providers, such as Crypto.com, offer debit cards linked to users' crypto holdings. Again, the merchant receives fiat currency and doesn't know that the debit card swiped is funded by crypto. This previously meant the wallet provider has to swap cryptocurrency for fiat to settle up with the card network. Now, Visa will let Crypto.com settle its Visa debit-card obligations through the ethereum blockchain with U.S.-dollar-denominated stablecoin. </p><p>\n  Collectively, these moves don't eliminate translation risk -- but they channel it into places where it is wanted, or is more manageable. PayPal teams up with Paxos, a digital-asset exchange and custody provider, to handle the swap of fiat and crypto. Visa works with the digital-asset platform provider Anchorage to manage the resulting stablecoin Visa gets that can then fund a fiat payment to the merchant. A debit-card crypto wallet provider such as Crypto.com might still have to swap bitcoin for stablecoin, but the wallet provider is freed from having to deal in fiat currencies. </p><p>\n  Of course, the burden remains on the consumer to decide whether it is worth cashing out of something such as bitcoin to make a payment. There are tax liabilities in the U.S., since bitcoin is treated as an asset by the Internal Revenue Service. This means that when bitcoin is used to make a purchase, any gains on it since it was acquired are subject to capital-gains tax. PayPal will help out by generating 1099 forms for users and making receipts and transaction histories downloadable. PayPal even invested in a tax-services startup called Taxbit. </p><p>\n  So even hiding bitcoin or the like from merchants won't overcome all of the hurdles of turning them into a day-to-day payments tool. But these moves do lay the groundwork for something -- whether it is a central-bank-issued digital coin, a private stablecoin, digital-rewards points or beyond -- to start to replace fiat as the grease of commerce. It means that today's major payments companies are increasingly set up to be tomorrow's, too. </p><p></p>",
+  "published": "2021-04-01T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "offsets": [
+        {
+          "start": 533,
+          "end": 537
+        },
+        {
+          "start": 1172,
+          "end": 1176
+        },
+        {
+          "start": 2003,
+          "end": 2007
+        },
+        {
+          "start": 1651,
+          "end": 1655
+        },
+        {
+          "start": 2100,
+          "end": 2104
+        },
+        {
+          "start": 1615,
+          "end": 1619
+        }
+      ]
+    }
+  ]
+}

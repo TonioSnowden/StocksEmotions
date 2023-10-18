@@ -1,0 +1,24 @@
+{
+  "_id": "645f79483cb17b17ad4d11be42a43ad84fe6f3bf461f5978adaa632435b75b1b",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Hackers Targeted Pipelines Years Ago",
+  "text": "<p>Previously, senior administration officials had warned that China, Russia and others were capable of such cyber intrusions. But rarely has so much information been released about a specific and apparently successful campaign.</p><p>Chinese state-sponsored hackers between 2011 and 2013 had targeted nearly two dozen U.S. oil and natural gas pipeline operators with the specific goal of \"holding U.S. pipeline infrastructure at risk,\" the Federal Bureau of Investigation and the Department of Homeland Security said in Tuesday's joint alert.</p><p>Of the known targets, 13 were successfully compromised and an additional eight suffered an \"unknown depth of intrusion.\"</p><p>\"This activity was ultimately intended to help China develop cyberattack capabilities against U.S. pipelines to physically damage pipelines or disrupt pipeline operations,\" the alert said. It added that the Chinese appeared to be carrying out the attack as part of an overarching goal to gain \"strategic access\" to industrial control systems for \"future operations rather than for intellectual property theft.\"</p><p>The FBI and DHS said they first became aware of multiple targeted attacks on oil-and-gas companies in April 2012 and provided remediation services to victims in 2012 and 2013.</p><p>Dan Coats, who served as director of national intelligence under former President Donald Trump, warned in 2019 that China was capable of cyberattacks that could disable U.S. infrastructure \"such as disruption of a natural gas pipeline for days to weeks.\"</p><p>On Monday, the Biden administration publicly blamed hackers affiliated with China's main intelligence service for a far-reaching cyberattack on Microsoft Corp. email software this year, part of a global effort by dozens of nations to condemn Beijing's cyber activities.</p><p>Chinese officials said U.S. findings detailed on Monday were \"groundless attacks.\" Chinese officials didn't respond to a request for comment on the allegations of pipeline intrusions.</p>",
+  "published": "2021-07-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1642,
+          "end": 1657
+        },
+        {
+          "start": 1642,
+          "end": 1651
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

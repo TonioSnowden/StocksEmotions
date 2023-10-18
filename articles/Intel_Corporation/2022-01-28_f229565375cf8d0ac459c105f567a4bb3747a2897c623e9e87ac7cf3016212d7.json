@@ -1,0 +1,28 @@
+{
+  "_id": "f229565375cf8d0ac459c105f567a4bb3747a2897c623e9e87ac7cf3016212d7",
+  "feed": "wall-street-journal",
+  "title": "AMD Deal For Xilinx Wins Key Approval",
+  "text": "<p>AMD and Xilinx, in regulatory filings Thursday, acknowledged China's approval and said they expected the deal to close this quarter. The companies said they are waiting for the U.S. government to clear the transaction.</p><p>AMD's addition of San Jose, Calif.-based Xilinx, which specializes in a type of chip called field-programmable gate arrays, would put AMD, based in Santa Clara, Calif., on a more even footing with rival Intel Corp., which also has a FPGA business, acquired from Altera in 2015.</p><p>Xilinx and Intel are the dominant makers of FPGA, which can be reprogrammed after they are made. FPGA are often used in 5G telecommunications infrastructure, military communications and radar systems. AMD specializes in central-processing units and graphics chips used in computers.</p><p>The approval comes weeks after AMD and Xilinx said they would push back the close date of the deal to the first quarter of this year from the end of 2021, as they couldn't secure necessary approvals.</p><p>The Chinese antitrust regulator said in a statement that it is requiring the merged entity to maintain or expand investments into R&amp;D activities in China for core technologies. The merged entity must sell to Chinese customers on fair, reasonable and nondiscriminatory terms, it also said. These conditions would apply for at least six years, and the merged entity must report to authorities every six months on these commitments, the regulator said.</p><p>China's antitrust authority, which has broad reach to claim say over deals in which at least one party has a significant presence in the Chinese market, has played a key role in some semiconductor deals in recent years.</p><p>Last month, Intel received the green light from the Chinese regulator for the $9 billion sale of its flash-memory chip business to South Korea's SK Hynix Inc., clearing the last hurdle for that deal.</p><p>In 2018, Qualcomm Inc. scrapped its $44 billion planned acquisition of NXP Semiconductors NV after waiting for an approval from Chinese authorities, which didn't come in time.</p><p>In Thursday trading, AMD shares fell 7.3% while Xilinx declined 1.1%.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 1662,
+          "end": 1667
+        },
+        {
+          "start": 508,
+          "end": 513
+        },
+        {
+          "start": 422,
+          "end": 427
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

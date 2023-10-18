@@ -1,0 +1,28 @@
+{
+  "_id": "0c2d0cadee12fab5b5a0108b37e027d5a085dc1180162c58fe16318cd6464ba0",
+  "feed": "wall-street-journal",
+  "title": "A Multistate Remote Tax Brawl",
+  "text": "<p>Most states tax only income earned -- proportional to their employment activities -- within their borders. So a hedge-fund manager who splits his time equally between offices in Fairfield, Conn., and Miami only has to pay Connecticut income tax on half his salary. The same rule applies for athletes, consultants and other professionals.</p><p>However, five states besides Massachusetts (New York, Pennsylvania, Delaware, Arkansas, Nebraska) tax nonresidents working at home. New York requires nonresidents who telecommute for an in-state employer to pay its income tax unless \"necessity, as distinguished from convenience, obligate the employee to out-of-state duties.\"</p><p>If an employee of a New York-based firm chooses to work most days from home in another state, New York still taxes him as if he worked the entire day in Manhattan. In October state tax regulators said there would be no pandemic exception for nonresident telecommuters unless their employer \"established a bona fide employer office at [the] telecommuting location.\"</p><p>So unless Goldman Sachs sets up a satellite office in its bankers' vacation homes, they will still have to pay New York taxes as long as they work remotely. Welcome to Hotel New York -- you can check out but never leave.</p><p>New Hampshire, which imposes no income tax on wages, last fall sued Massachusetts and is asking the Supreme Court to hear its case (N.H. v. Mass.). \"Massachusetts has unilaterally imposed an income tax within New Hampshire that New Hampshire, in its sovereign discretion, has deliberately chosen not to impose,\" says the Granite State.</p><p>Under longstanding Supreme Court precedent, states can only collect taxes that are \"fairly apportioned\" and \"fairly related to the services provided by the State\" within their borders. The Court in Wayfair (2018) allowed states to collect sales tax from out-of-state retailers. But the actual sales tax is owed by the resident, not out-of-state business.</p><p>Massachusetts and other states are forcing nonresidents to pay income taxes even though they don't use public services. Since New Hampshire imposes no income tax, its residents won't be double-taxed. But remote workers in other states with income taxes such as Vermont could be.</p><p>New Jersey and Connecticut provide tax credits to residents for income taxes they pay to New York. But credits for taxes paid to New York will cost them roughly $1.5 billion combined in revenue this year, they point out in a brief supporting New Hampshire. New York's remote tax raid also reduces the incentive for those states to compete on tax rates.</p><p>Under the U.S. Constitution, the High Court has exclusive jurisdiction to hear controversies between two or more states, though usually it hears only the \"most serious\" cases that can't be resolved in other forums. That fits this case. New Hampshire's complaint raises economically significant questions that affect millions of Americans nationwide.</p><p>If the Court doesn't intervene, remote workers who are unfairly taxed by other states will have no recourse for redress beyond biased state tax tribunals. States like California may copy the Massachusetts and New York playbook. The Justices last week invited the acting Solicitor General for an opinion on the multistate tax brawl, but this looks a good case for the High Court.</p>",
+  "published": "2021-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1040,
+          "end": 1047
+        },
+        {
+          "start": 1040,
+          "end": 1053
+        },
+        {
+          "start": 1033,
+          "end": 1046
+        }
+      ]
+    }
+  ]
+}

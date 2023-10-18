@@ -1,0 +1,72 @@
+{
+  "_id": "c434aacdcc6d4f50a0245b0bd8086f6849aea9c1346054a4f413a32f0d6d1237",
+  "feed": "ftcomall",
+  "title": "Snap looked at ways of circumventing Apple's new privacy rules",
+  "text": "<p>Snap has explored how it can circumvent new privacy rules for iPhones, in a move that may trigger the wrath of Apple, according to several people familiar with the situation. </p> <p>Apple is expected to introduce its privacy rules in the coming weeks, banning apps from collecting data on iPhone users without their explicit consent. </p> <p>Advertisers and app developers have warned that the changes will result in a multibillion-dollar hit to the mobile advertising industry, since most iPhone users are likely to decline to be tracked. </p> <p>Several developers and tech companies — including several <a href=\"https://www.ft.com/content/520ccdae-202f-45f9-a516-5cbe08361c34\">Chinese tech groups —</a> have been <a href=\"https://www.ft.com/content/7993a56e-a408-44b5-8bda-e31bccee5808\">looking for workarounds</a> to the new rules.</p> <p>But Snap, which owns the messaging app Snapchat, is the biggest US tech company so far to have emerged with plans that several experts said would violate Apple's rules. </p> <p>According to recent internal documents seen by the Financial Times, Snap wanted to gather data from companies that analyse whether people have responded to ad campaigns, including aggregated IP addresses, the labels that identify devices connected to the internet. </p> <p>It hoped it could take that data and cross-reference it against the information it holds on its own users to identify and track them, in a technique known as “probabilistic matching”, according to several people familiar with its plans. </p> <p>After being contacted by the FT about its plans, Snap acknowledged it had run a probabilistic matching programme for several months to test the impact of Apple's new policies, but said it had always intended to discontinue the program after Apple introduces its changes, as such a system would not be compliant. </p> <p>“We support and will follow Apple's upcoming guidelines because we have always believed that advertising should respect consumers' privacy,” said Snap. </p> <p>“We are currently designing an array of privacy-centric solutions, both short and long-term, to ensure we deliver best-in-class offerings for our partners and a privacy-first experience for our community.”</p> <p>Going forward, Snap acknowledged that it was not allowed to track individual users, but in common with many ad tech companies, it suggested that gathering data on “cohorts” of users would not break the rules. Several experts disagreed, saying that no data should be collected on iPhone users who opted out of being tracked. </p> <p>Apple declined to comment but pointed to its <a href=\"https://developer.apple.com/app-store/user-privacy-and-data-use/\">policies</a> that tell developers: “You may not use analytics software in Your Application to collect and send device data to a third party. Further, neither You nor Your Application will use any permanent, device-based identifier, or any data derived therefrom, for purposes of uniquely identifying a device.”&#xa0;</p> <p>But the success of Apple's new policies is likely to rest on its ability to discover and close down the nimble workarounds devised by mobile developers and advertisers. </p> <p>“For some it will feel like the zombie apocalypse, but you can't change it, so grab a weapon and jump in the Winnebago,” <a href=\"https://www.singular.net/blog/post-idfa-user-acquisition/?utm_medium=social&amp;utm_source=facebook&amp;utm_campaign=post-idfa-user-acquisition&amp;fbclid=IwAR0nJYKnjAmACELrkYgjt3DSvago9w6PiD30_E_sGjyekffB0MPAmvsCULo\">said</a> Jayne Peressini, a mobile marketing expert. &#xa0; </p> <p>On Thursday, Apple started warning developers against probabilistic matching, and sending letters saying they should remove any code “that support this functionality.”</p> <p>When Chinese developers last month came up with their own iPhone identification system, called CAID, and tried to implement it into their apps, Apple issued cease and desist notices and warned offenders they had <a href=\"https://www.ft.com/content/99a3f7c1-54d9-47fe-9bcb-fd72fcd94076\">14 days to comply</a> before Apple would expel them from the App Store.</p> <p>While Facebook and Google will be hurt by the new rules, they retain more first-party data and are able to track users between the suite of apps they own. </p> <p>According to several people familiar with Snap's thinking, this may have prompted the smaller company to try to team up with MMPs, or mobile measurement partners, some of which have suggested probabilistic matching as a workaround. Those who have openly supported this practice include AppsFlyer, a Salesforce-backed group worth $2bn, and Adjust, a rival purchased by AppLovin in February for $1bn.&#xa0;</p> <p>AppsFlyer chief executive Oren Kaniel told the FT that his company had recently abandoned probabilistic matching, recognising that it would not be allowed. </p> <p>But AppsFlyer's website still <a href=\"https://www.appsflyer.com/ios-14/\">advertises</a> the technique and Kaniel said it was his understanding that Apple's new privacy prompt “does not relate to or restrict collecting data but to tracking according to Apple's definition.” He added that no individual user data was being tracked, saying: “We are only providing data in an aggregated way.” </p> <p>Adjust, which has publicly told clients it can leverage “proprietary technology” to conduct probabilistic matching with 95 per cent accuracy, declined to comment.&#xa0;</p><p>Source: Patrick McGee and Hannah Murphy in San Francisco 2021 'Snap looked at ways of circumventing Apple's new privacy rules' FT.com 2 April. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-04-02T04:00:45.510Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2322,
+          "end": 2327
+        },
+        {
+          "start": 3029,
+          "end": 3034
+        },
+        {
+          "start": 811,
+          "end": 816
+        },
+        {
+          "start": 2694,
+          "end": 2699
+        },
+        {
+          "start": 4380,
+          "end": 4385
+        },
+        {
+          "start": 37,
+          "end": 42
+        },
+        {
+          "start": 1569,
+          "end": 1574
+        },
+        {
+          "start": 111,
+          "end": 116
+        },
+        {
+          "start": 1668,
+          "end": 1673
+        },
+        {
+          "start": 3328,
+          "end": 3333
+        },
+        {
+          "start": 3421,
+          "end": 3426
+        },
+        {
+          "start": 175,
+          "end": 180
+        },
+        {
+          "start": 1482,
+          "end": 1487
+        },
+        {
+          "start": 4276,
+          "end": 4281
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

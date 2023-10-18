@@ -1,0 +1,24 @@
+{
+  "_id": "e29bdcb0f11df419e8a26fa0035a8d0cb746fe4e8197d3b83c1f1fee94b076fa",
+  "feed": "wall-street-journal",
+  "title": "Blockchain Fizzles in Shipping --- Maersk-IBM effort is latest to run aground as firms pull plug on asset-tracking bid",
+  "text": "<p>\"There's not one company that has really shown, let's say, a material change,\" Francesco Bozzano, vice president of the corporate finance group at Moody's Investors Service, said of blockchain efforts in supply chains.</p><p>It has been slow going or worse for big bets on blockchain for a number of reasons: the complexity of the technology, the time required to get a blockchain into operation and the difficulties in enlisting participants.</p><p>TradeLens, the Maersk-IBM blockchain platform, was launched in late 2018 to help digitize container shipping on a secure global tracking platform. Had it worked, it would have been a game-changer, analysts said, cutting down on paperwork to clear customs and offering cargo owners more visibility of their boxes during transit.</p><p>But TradeLens could only work with the collaboration of a host of companies and nations -- which never fell into place. Maersk said the platform would be offline by the first quarter of 2023.</p><p>Blockchain makes it possible to create a digital ledger of transactions with information on their ownership. It can provide a level of trust that other shared databases don't, but the technology is complex, requires more computing power and is more expensive to run than existing databases, experts say.</p><p>Some companies say they haven't found a compelling enough reason to use it. During the pandemic, Walgreens Boots Alliance Inc. considered blockchain for vaccine distribution, but ultimately decided to go with other options that were faster to get up and running, former Chief Information Officer Francesco Tinto told CIO Journal earlier this year. (He has since left the company.)</p><p>Others have tried with mixed results. In 2018, Walmart joined with IBM to start tracking its produce items through blockchain. The effort began with leafy greens, and in the four years since has added just one item: green bell peppers.</p><p>Walmart said it took time to get buy-in from suppliers who found the onboarding process daunting. Many didn't have digital record-keeping systems and had to make large upfront investments before they could start using blockchain, Walmart said.</p><p>Analysts say they rarely hear about Walmart's greens-tracking work anymore.</p><p>---</p><p>Costas Paris contributed to this article.</p>",
+  "published": "2022-12-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "offsets": [
+        {
+          "start": 1359,
+          "end": 1388
+        },
+        {
+          "start": 1359,
+          "end": 1383
+        }
+      ]
+    }
+  ]
+}

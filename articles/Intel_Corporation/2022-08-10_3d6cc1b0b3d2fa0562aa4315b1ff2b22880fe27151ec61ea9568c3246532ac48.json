@@ -1,0 +1,42 @@
+{
+  "_id": "3d6cc1b0b3d2fa0562aa4315b1ff2b22880fe27151ec61ea9568c3246532ac48",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  Micron Rains on U.S. Chip Parade  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  At least Micron didn't leave the government completely hanging. </p><p>\n  On Tuesday morning, the memory-chip maker became the latest semiconductor company to warn of a seriously weakening market. As a result, Micron again cut its planned capital expenditures on manufacturing equipment for the fiscal year ending next August. The company said it now expects equipment capex to be \"down meaningfully\" in fiscal 2023 compared with the current fiscal year, which ends later this month. </p><p>\n  That marks a notable change in tone even from the company's downbeat forecast barely a month ago as part of its fiscal third-quarter results. It was also a notable contrast to a separate Micron announcement Tuesday, which touted plans to invest $40 billion in memory chip production facilities in the U.S. through the end of the decade. That announcement came as President Biden signed into law the Chips Act, which provides up to $53 billion in direct financial subsidies for domestic chip-making operations. Executives from Micron, Intel and other tech companies were present at the signing Tuesday morning. </p><p>\n  In evaluating the disjointed messages, investors are well advised to consider the second as political theater -- similar to other claims made recently by chip companies seeking favor. And while $40 billion over the next eight years might sound like a lot, consider that Micron spends more than $10 billion a year in total capex now and has several chip-manufacturing facilities in the U.S. Funds from the Chips Act aren't expected to start being disbursed until sometime next year and -- according to analysts for Bernstein Research -- will be \"spread well out through 2031.\" </p><p>\n  That will be far too late to help Micron or any other chip company in dealing with the present pain. Micron's warning Tuesday is just the latest signal of a rapidly weakening semiconductor market, following Intel's disastrous second-quarter results two weeks ago and Nvidia's revenue warning on Monday. </p><p>\n  And according to Micron, the slowdown is extending beyond the well-known pockets of weakness in PCs and smartphones. During an investors' conference Tuesday, Micron Chief Financial Officer Mark Murphy said \"inventory adjustments\" are taking place in the cloud and automotive sectors as well. In the case of the former, Mr. Murphy said demand is still strong for cloud services, but service operators are \"taking stock of the macro uncertainty\" and reducing their inventory levels. Capital investments by the three largest cloud companies -- Amazon, Microsoft and Google -- slowed notably during the June quarter, with all three companies signaling the potential for reduced spending ahead. </p><p>\n  Hence, passage of the first major subsidies for U.S. chip manufacturers was greeted with a sharp drop in chip stocks. Micron fell nearly 4%, while chip manufacturing gear makers Applied Materials, Lam Research and KLA each dropped more than 7%. The PHLX Semiconductor Index, which rallied last month on renewed hopes about passage of the bill, has slid more than 7% over the last three sessions and is down 27% for the year, compared with a 20% decline for the Nasdaq Composite. Even the U.S. government's checkbook has its limits. </p><p></p>",
+  "published": "2022-08-10T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.99807996,
+      "offsets": [
+        {
+          "start": 1045,
+          "end": 1050
+        },
+        {
+          "start": 1904,
+          "end": 1909
+        },
+        {
+          "start": 1893,
+          "end": 1898
+        },
+        {
+          "start": 1038,
+          "end": 1043
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000062,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 6.210804e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 11
+    }
+  ]
+}

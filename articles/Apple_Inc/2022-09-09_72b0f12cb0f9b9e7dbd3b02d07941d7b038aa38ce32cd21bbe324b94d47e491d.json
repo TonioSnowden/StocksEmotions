@@ -1,0 +1,34 @@
+{
+  "_id": "72b0f12cb0f9b9e7dbd3b02d07941d7b038aa38ce32cd21bbe324b94d47e491d",
+  "feed": "ftcomall",
+  "title": "Letter: Dinosaur bosses deserve a hearing in WFH debate",
+  "text": "<p>Academics and others with a vested interest in work-from-home — for example, homeworking technology providers — have created the narrative of enlightened employees and dinosaur managers who “just don't get it”.</p> <p>The truth is that, while managers remain accountable for delivering organisational performance goals, employees have discovered they can get five days pay for three or four days work and simultaneously improve their work-life balance (“Apple's back-to-office command stirs unease across Silicon Valley”, <a href=\"https://www.ft.com/content/9f3e0159-f0e2-4a33-aeba-b0945558963f\">Report</a>, August 27).</p> <p>At the moment, the benefits of work-from-home are being captured solely by employees. A more sustainable approach would be to share the gains by reducing the pay of work-from-home staff to say 80 per cent of that of a full-time employee. Alternatively, organisations can seek to offshore remote working jobs to low cost locations with a stronger work and service ethic than the UK.</p> <p>Any organisation that has most of its staff working from home should in any case take a hard look at their headcount. There may be significant productivity gains by reducing staff numbers and getting the remainder back into the office.</p> <p>As a customer, I am astonished by the shameless use of work-from-home to justify lack of responsiveness and poor service from both private and public sector organisations. </p> <p>To add insult to injury, the public sector are getting away with this at taxpayers' expense.</p> <p><strong>Roy A Massey</strong><br><em>London NW1, UK</em></p><p>Source:  2022 'Letter: Dinosaur bosses deserve a hearing in WFH debate' FT.com 9 September. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-09-09T19:24:12.783Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 446,
+          "end": 451
+        },
+        {
+          "start": 447,
+          "end": 452
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0228605,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.022860408,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

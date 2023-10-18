@@ -1,0 +1,28 @@
+{
+  "_id": "a3421f5fc60dcbb93a817ab29a6d8db4826caf3ce522093a11215bc434dc187c",
+  "feed": "wall-street-journal",
+  "title": "Business News: Apple CEO's '21 Pay Was $98.7 Million",
+  "text": "<p>Apple has benefited from new iPhones with 5G cellular capability and workers and students stuck at home during the pandemic buying laptops and iPad tablets. The company's stock rose about 80% last year and continued to rise in recent days. Apple's profit and sales in the fiscal year exceeded the company's past records, with sales topping $365 billion.</p><p>Mr. Cook's base salary of $3 million remained unchanged.</p><p>The bulk of Mr. Cook's compensation plan increase came from the granting of restricted stock valued at $82.3 million.</p>",
+  "published": "2022-01-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 240,
+          "end": 245
+        },
+        {
+          "start": 15,
+          "end": 20
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "1d411015ca37d3e235acedf34cecfe38e769b744debb0c9ec394d53801a7bc00",
+  "feed": "wall-street-journal",
+  "title": "Kenyan Election Result Is Upheld by Supreme Court; William Ruto's victory upheld after court dismisses allegations from his opponent of vote rigging",
+  "text": "<p>The decision reinforced Kenya's standing as an island of stability in a region beset by despots, drought, militants and poverty. Mr. Odinga, who had the backing of outgoing President Uhuru Kenyatta, chose to seek redress in the court and not the street, and the court resisted political pressure to find in his favor.</p><p>\"At the end the day, Kenya stands as a beacon of democracy,\" Eric Theuri, head of the Law Society of Kenya, told the seven Supreme Court justices after they announced their ruling.</p><p>The East African country is a major American ally in the fight against al-Shabaab, al Qaeda's franchise in neighboring Somalia. Major U.S. companies, such as Alphabet Inc., and Microsoft Corp., use Kenya as a base.</p><p>Mr. Ruto, 55, campaigned as the standard-bearer of what he called the country's \"hustlers,\" working-class Kenyans who sell a few groceries by the side of the road or pick up manual-labor jobs to scrape by. With the country facing high food and fuel prices, and soaring youth unemployment, Mr. Ruto promised a bottom-up economic strategy that included raising the income of 10 million working-class Kenyans by the equivalent of $1.70 a day.</p><p>Hundreds of Mr. Ruto's supporters danced and cheered outside of his Nairobi residence after the court announced its decision.</p><p>\"God has been faithful—all is well,\" said Ruto supporter Alex Senoga, a Nairobi taxi driver. \"The president-elect should now be given chance to implement his campaign manifesto.\"</p><p>Mr. Ruto's spending plans, however, will have to compete with Kenya's obligation to service $69 billion in public debt, about half of it owed to foreigners.</p><p>Mr. Odinga, the 77-year-old scion of one of Kenya's revered political families, has now lost in five attempts at the presidency, and the justices were dismissive of his fraud claims.</p><p>In one case, Chief Justice Martha Koome referred to a pro-Odinga court filing as a \"red herring\" and in another suggested that his lawyers should face criminal charges for filing affidavits based on obviously false claims.</p><p>\"We have always stood for the rule of law and the constitution,\" Mr. Odinga said in a written release. \"In this regard, we respect the opinion of the court although we vehemently disagree with their decision today.\"</p><p>Security forces bulked up their presence around the country in anticipation of the court's finding, an effort to stave off the kind of political and ethnic violence that has marred some previous elections. A police spokesman described the immediate reaction as peaceful.</p><p>\"Every cycle of election has been highly contested with the exception of 2002,\" Justice Koome said. \"This speaks to a background of distrust of the administration of our electoral process.\"</p><p>After the 2007 presidential vote, in which Messrs. Odinga and Ruto were running mates, some 1,100 people died and 600,000 were displaced in ethnic clashes.</p><p>The International Criminal Court charged Mr. Ruto with instigating the violence, but later dropped the case. Some analysts fear that Mr. Ruto has an authoritarian streak that could surface now that he will have the power of the state behind him.</p><p>In 2017, the court deemed the presidential race between Mr. Kenyatta and Mr. Odinga tainted by irregularities and ordered a rerun. Mr. Kenyatta defeated Mr. Odinga in the second vote, but this time he endorsed Mr. Odinga over his own No. 2, Mr. Ruto.</p><p>The court and national election commission \"have successfully resisted a prolonged attempt to subvert the will of the people in the 2022 general elections, and that speaks to a democracy that is—while messy and often problematic—increasingly robust,\" said Nic Cheeseman, professor of democracy and international development at the U.K.'s University of Birmingham, who was in Kenya studying the elections.</p><p>Write to Michael M. Phillips at michael.phillips@wsj.com and Nicholas Bariyo at nicholas.bariyo@wsj.com</p><p>Kenyan Election Result Is Upheld by Supreme Court</p>",
+  "published": "2022-09-05T13:08:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 676,
+          "end": 691
+        },
+        {
+          "start": 672,
+          "end": 687
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0024102,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0024101734,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

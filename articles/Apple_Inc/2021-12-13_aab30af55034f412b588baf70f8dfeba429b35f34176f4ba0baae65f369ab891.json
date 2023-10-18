@@ -1,0 +1,20 @@
+{
+  "_id": "aab30af55034f412b588baf70f8dfeba429b35f34176f4ba0baae65f369ab891",
+  "feed": "wall-street-journal",
+  "title": "One-Upping John Rockefeller",
+  "text": "<p>Bill Apple</p><p>New York</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-12-13T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 5,
+          "end": 10
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "_id": "4569356ed252e68ffef9f60de90185cceecf935c3bc0cd8a7414165558adc7f9",
+  "feed": "wall-street-journal",
+  "title": "Judge Knocks 3M Bankruptcy Strategy for Military Earplug Lawsuits; A federal judge won't prohibit 3M from asserting a defense against mass earplug injury claims in the chapter 11 case of its Aearo unit",
+  "text": "<p>Aearo filed for chapter 11 protection last month, shortly after assuming liability for roughly 230,000 pending claims against the business and its publicly traded parent company, 3M. Aearo wound up in dire financial straits after that voluntary assumption of liability, which put it on the hook for the largest multidistrict litigation in U.S. history, according to the judge's ruling.</p><p>Plaintiffs' lawyers had requested that 3M be prohibited from contesting its full liability for the alleged earplug injuries, saying it was attempting to re-litigate that issue in bankruptcy court after proceeding in the tort litigation as if it alone bore responsibility.</p><p>A 3M spokesman said the company's court filings show the chapter 11 process \"offers a more efficient, equitable, and expeditious means to resolve this litigation. Claimants determined to be entitled to compensation will be paid sooner, and 3M and Aearo will be able to better focus on making products people depend on.\"</p><p>In her ruling, Judge Rodgers said 3M's move to unload injury liabilities onto Aearo was devised to escape the multidistrict litigation for good because 3M was \"displeased with the rulings of this court\" and several jury verdicts against the company.</p><p>Judge Rodgers said that 3M had never indicated in more than three years of litigation \"that any entity other than itself was responsible\" for the service members' claims. The judge said she was \"deeply concerned\" about 3M's \"sudden, bankruptcy eve about-face regarding the entity responsible,\" but said it wasn't her place to prohibit 3M from mounting such a potential defense.</p><p>Under agreements signed between Aearo and 3M, the parent company has committed to pay $240 million to fund Aearo's reorganization process in the U.S. Bankruptcy Court in Indianapolis and at least $1 billion more toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug claims under a chapter 11 plan for Aearo.</p><p>The bankruptcy filing stopped pending lawsuits against Aearo, which has asked the judge overseeing its bankruptcy case to extend that same litigation stay to 3M.</p><p>Judge Jeffrey Graham with the U.S. Bankruptcy Court in Indianapolis is holding a hearing Monday to consider that request, which plaintiffs' lawyers oppose.</p><p>Aearo has said in court filings that as long as earplug lawsuits are actively proceeding against 3M, the value of the bankruptcy estate \"will be at risk by, among other things, the massive direct and indirect costs of litigation.\"</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com and Andrew Scurria at Andrew.Scurria@wsj.com</p>",
+  "published": "2022-08-15T15:56:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 13,
+          "end": 15
+        },
+        {
+          "start": 98,
+          "end": 100
+        },
+        {
+          "start": 179,
+          "end": 181
+        },
+        {
+          "start": 423,
+          "end": 425
+        },
+        {
+          "start": 657,
+          "end": 659
+        },
+        {
+          "start": 1007,
+          "end": 1009
+        },
+        {
+          "start": 1125,
+          "end": 1127
+        },
+        {
+          "start": 1246,
+          "end": 1248
+        },
+        {
+          "start": 1440,
+          "end": 1442
+        },
+        {
+          "start": 1556,
+          "end": 1558
+        },
+        {
+          "start": 1640,
+          "end": 1642
+        },
+        {
+          "start": 1860,
+          "end": 1862
+        },
+        {
+          "start": 2116,
+          "end": 2118
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.935091,
+        "baseWeight": 13.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9350914,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

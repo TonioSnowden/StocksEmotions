@@ -1,0 +1,32 @@
+{
+  "_id": "b72acdf1019a746860d7c70ae86c12be58fcd34fa831e839e999425a16e7a92a",
+  "feed": "wall-street-journal",
+  "title": "How to Mute Annoying Notifications",
+  "text": "<p>To help tame the mess, Apple in September released several new features in its most recent iOS, iPadOS and MacOS software updates. The most powerful one, Focus, is a customizable expansion of Do Not Disturb. You let specific people and apps through based on profiles you create for given activities. The goal is to minimize interruptions without missing important messages.</p><p>Focus is a pain to set up, and it isn't necessarily clear at first which people and apps you want to prioritize. It'll take trial and error to figure out who gets your golden tickets. Still, when you do, you will feel more productive and less distracted, whether you're on an iPhone, an iPad or a Mac.</p><p>Setting Up Focus</p><p>I set up a Focus profile on my iPhone for Deadline Day, and added these VIPs and VIAs (very important apps) to my allow list: my Favorites contacts, my editor Wilson, and the Slack app. I made a few more profiles, for Fitness, Driving and Reading.</p><p>-- Curate and create your modes. On your iPhone or iPad -- running iOS 15 and iPadOS 15, respectively -- go to the Settings app and tap on Focus. You'll find some default profiles, including Do Not Disturb, Driving, Sleep and Work. Tap into each to customize or delete them. Press the + button to make your own.</p><p>If you choose Share Across Devices, the new or adjusted Focus profile will automatically appear on your other Apple devices. (If you want it on your Mac, you have to update it to MacOS Monterey.) This can be useful, but there are plenty of scenarios where you'd only want to mute one device, not all, so use it with care.</p><p>Some profiles can automatically activate. Tap on the profile and select an option under \"Turn on Automatically.\" For example, the iPhone can detect when you're in the car and enable the Driving focus.</p><p>-- Choose your contacts and apps. You'll need to anticipate what your future self needs when each mode is enabled, and for me it took a couple of tries. In Settings &gt; Focus, tap a profile to specify the people and apps you want alerts from.</p><p>When you put people on the allowed-contacts list, you'll be notified if they message or call you. If anyone else tries to reach you, your phone screen won't light up. You can see the alerts, however, if you pull down the Notification Center.</p><p>The allowed-contacts list applies to phone calls and messages in Apple's Messages app, as well as ones coming through participating non-Apple apps, such as Signal.</p><p>If you enable \"Share Focus Status,\" under Options, people who reach out via the Messages app will see that your notifications are silenced. When they send a text, it will show as \"delivered quietly,\" though there's an option to \"notify anyway.\" This will send you a notification, overriding Focus mode.</p><p>On the allowed-apps list, you can enable \"time sensitive\" notifications (calendar events, reminders, breaking news, etc.) from any app. I left this off, because I'd rather name which apps can distract me.</p><p>As for who and what to allow, it's up to you. I left Do Not Disturb as my nuclear option -- no people or apps allowed -- which I intend to use for short periods. I do, however, allow alerts from repeated calls, a setting that's on by default. I've told family that if they need to reach me urgently, call twice.</p><p>Using Focus</p><p>-- Quickly enable Focus modes. The fastest way is with your voice: \"Hey Siri, turn on Work Focus.\" Or, on iPhone and iPad, swipe down from top right to expand the Control Center, then long-press Focus to turn on one of your customized profiles. Tap the ellipses to set a duration, such as one hour or until this evening. If you have a home- or office-specific profile, the GPS-related \"Until I leave this location\" option is useful. If you don't set a duration, the Focus will remain on until you disable it.</p><p>To disable Focus from the lockscreen, long-press the lit-up icon underneath the date and tap on the active profile. On a Mac, click on Control Center from the menu bar hover over Focus, click the &gt; arrow, and select your desired profile.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-12-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 23,
+          "end": 28
+        },
+        {
+          "start": 2324,
+          "end": 2329
+        },
+        {
+          "start": 1363,
+          "end": 1368
+        },
+        {
+          "start": 2395,
+          "end": 2400
+        }
+      ]
+    }
+  ]
+}

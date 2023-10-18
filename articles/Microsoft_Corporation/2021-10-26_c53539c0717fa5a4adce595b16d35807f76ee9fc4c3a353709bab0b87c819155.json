@@ -1,0 +1,28 @@
+{
+  "_id": "c53539c0717fa5a4adce595b16d35807f76ee9fc4c3a353709bab0b87c819155",
+  "feed": "wall-street-journal",
+  "title": "AI Security Analytics Provider Devo Technology Raises $250 Million in New Funding; Company plans to use funding to invest in its AI technology and grow its workforce",
+  "text": "<p>The Series E round was led by growth investor TCV. Devo has raised more than $400 million since its founding in 2011.</p><p>Devo offers a cloud-based security information and event-management, or SIEM, platform, which allows organizations to collect and analyze suspicious systems activity across an enterprise.</p><p>The Devo Security Operations platform taps the activity logs from cloud environments, data centers, personal computing equipment and applications. The Devo platform uses machine learning to analyze the data logs as they stream into the platform to establish an activity baseline, which enables it to identify anomalies and suspicious patterns. When anomalous behavior, such as suspicious data access or unauthorized data transfers, is spotted, the Devo system sends alerts and displays its findings on a dashboard.</p><p>The premise of SIEM is to bring all security data to one place so security analysts can get a holistic view of any and all potential cyberattacks by detecting anomalies, said Michelle Abraham, a research director in International Data Corp.'s security and trust group.</p><p>IDC expects the world-wide SIEM market to be about $4.3 billion in 2021 and grow to $4.9 billion in 2025. The research firm said companies competing in this space include International Business Machines Corp., Microsoft Corp., Splunk Inc. and Sumo Logic Inc.</p><p>Through mid-October, U.S. cybersecurity firms have raised $12.7 billion in 345 funding deals this year, according to market tracker PitchBook Data Inc. Last year at this time, U.S. cybersecurity firms had raised $5.5 billion in 315 funding deals.</p><p>Cybersecurity threats continue to mount. The funding announcement comes a day after it was reported that cybersecurity experts said the Russia-linked hackers behind last year's compromise of a wide swath of the U.S. government and scores of private companies, including SolarWinds Corp., have stepped up their attacks in recent months.</p><p>Many cybersecurity tools offer machine-learning capabilities, but machine learning is only as good as the data it can analyze. One of the key differentiators of the Devo SIEM platform is that it keeps 400 days of incident data in readily available storage, the company said.</p><p>The company is targeting large businesses. It said its customers include tax preparation company H&amp;R Block Inc., telecommunications company Telefonica SA and information-technology services company Unisys Corp.</p><p>Unisys is using Devo to collect and analyze current systems activity from across the enterprise and to provide its security analysts a repository they can use to hunt for system vulnerabilities.</p><p>Visibility is the foundation of security, said Mathew Newfield, Unisys' chief security and infrastructure officer.</p><p>\"You have to be able to see what's going on in your infrastructure over a large period of time and over a large section of systems,\" he said.</p><p>Existing investors Bessemer Venture Partners, Insight Partners, Georgian and Kibo Ventures, along with new investors General Atlantic and Eurazeo, participated in the funding round.</p><p>Write to John McCormick at john.mccormick@wsj.com</p>",
+  "published": "2021-10-26T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1300,
+          "end": 1315
+        },
+        {
+          "start": 1300,
+          "end": 1309
+        },
+        {
+          "start": 1293,
+          "end": 1309
+        }
+      ]
+    }
+  ]
+}

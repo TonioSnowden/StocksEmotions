@@ -1,0 +1,30 @@
+{
+  "_id": "dc8c6a150746464ad22ff12413abf6c3493f5637accf3f7499adf41a286860c1",
+  "feed": "wall-street-journal",
+  "title": "Americans Spent More Time Streaming Than Watching Cable TV in July—a First; Netflix, Hulu, Prime Video and other platforms set records for share of viewing time",
+  "text": "<p>Streaming-service offerings have mushroomed in recent years and are increasingly ingrained inU.S. in-home entertainment habits. Now, those services are competing to make and acquire the best content to ensure that households spend as much of their TV time as possible on their platform.</p><p>Netflix Inc. was the most-watched streaming service last month, bolstered by its \"Stranger Things\" franchise, Nielsen found. The company, based in Los Gatos, Calif., released the series' final set of season four episodes in early July. Other highly watched shows and movies include Hulu's \"Only Murders in the Building\" and Netflix's \"The Sea Beast,\" Nielsen said.</p><p>Overall, many streaming platforms—including Netflix; Google's YouTube; Walt Disney Co.-controlled Hulu; and Amazon.com Inc.'s Prime Video—attracted their highest respective shares of U.S. viewing time in July, topping records set in June, Nielsen said.</p><p>In summer months when school is out, children typically spend more time streaming content, which could have bolstered time spent on YouTube and other streaming platforms in July. There is also a dearth of major sporting events in the summer months, which would otherwise draw some audiences to cable channels where games often appear. More Major League Baseball and other sporting events are making their way to streamingservices like Apple Inc.'s TV+, Comcast Corp.'s Peacock and Amazon's Prime Video.</p><p>The increase in time spent streaming is a good sign for streaming companies trying to add and maintain subscriptions in a crowded market. Still, that growing amount of watch time underscores the importance of streaming companies ensuring they have content that not only draws viewers in, but keeps them long term. They are grappling with the challenge as the rate of customer defections rises industrywide, according to Antenna data, and some households cycle through different services.</p><p>Broadcast TV's share of viewership shrank further in July to 21.6%, a nearly 10% decline from a year earlier. It suffered during the month in part from a lack of new releases, which tend to start in earnest in September, and because a year ago, many households tuned in to the Summer Olympics.</p><p>Write to Sarah Krouse at sarah.krouse+1@wsj.com</p><p>Americans Spent More Time Streaming Than Watching Cable TV in July—a First</p>",
+  "published": "2022-08-18T13:05:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 723,
+          "end": 734
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.775229,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.22621906,
+        "tagPositionWeight": 0.0014480352,
+        "titleWeight": 0.0
+      },
+      "typeRank": 9
+    }
+  ]
+}

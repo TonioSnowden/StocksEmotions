@@ -1,0 +1,52 @@
+{
+  "_id": "16b768807f534dd37bb3871aedc32c7cdff20ed3510ee58db009f11b40e7fc0f",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance:  SEC Charges JPMorgan Unit Failed to Register  ---  Electronic trading  platform agrees to  pay fine for operating  as broker-dealer  ----  By Dave Sebastian",
+  "text": "<p>   The Securities and Exchange Commission said it has charged Neovest Inc., a JPMorgan Chase &amp; Co. unit that provides an electronic-trading platform, for operating as an unregistered broker-dealer. </p><p>   The commission on Tuesday said this is the first such charge against a provider of an order and execution management system. It said Neovest agreed to pay $2.75 million in penalty, though the company didn't admit or deny the SEC's findings. </p><p>   The SEC said Neovest agreed to cease and desist from committing violations under a section of the Securities Exchange Act of 1934. \"Neovest has taken a number of steps to enhance its security measures in recent years and remains a leading broker-neutral electronic trading platform. There is no evidence that client data was compromised in any way,\" a JPMorgan Chase spokesman said. </p><p>   Neovest's platform lets customers route orders for stocks and options to more than 360 brokers, the SEC said. It said Neovest operated as a registered broker-dealer before JPMorgan Chase acquired the company in 2005, but it then continued to operate the order and execution management system even after Neovest withdrew its broker-dealer registration following the acquisition. </p><p>   Neovest, during the time it didn't register as a broker-dealer, replicated a database containing customer-authentication information, including usernames and passwords, to one of its most active customers and didn't supervise the customer's use of the database, according to the SEC. The commission said that by not registering as a broker-dealer, Neovest didn't offer customers protections such as inspections and examinations by the SEC and the requirement to set policies and procedures to protect customer information. </p><p>   \"Neovest circumvented the regulatory regime that grants broker-dealers the privilege of operating in our markets,\" said Joseph Sansone, chief of the SEC Enforcement Division's market-abuse unit. </p><p>   As an unregistered broker-dealer, Neovest participated in order taking and routing, and solicited customers and destination brokers through its website and outreach at industry conferences and trade shows, the SEC said. The company received transaction-based compensation by having payments from destination brokers redirected to registered broker-dealer J.P. Morgan Securities LLC, which transferred the proceeds to Neovest, the commission added. </p><p>   The company continued collecting transaction-based compensation until August 2018, according to the SEC's order. Neovest currently isn't a registered broker-dealer, the JPMorgan Chase spokesman said. </p><p></p>",
+  "published": "2021-06-30T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 2270,
+          "end": 2281
+        },
+        {
+          "start": 75,
+          "end": 95
+        },
+        {
+          "start": 31,
+          "end": 39
+        },
+        {
+          "start": 991,
+          "end": 1005
+        },
+        {
+          "start": 991,
+          "end": 999
+        },
+        {
+          "start": 788,
+          "end": 796
+        },
+        {
+          "start": 2532,
+          "end": 2540
+        },
+        {
+          "start": 2532,
+          "end": 2546
+        },
+        {
+          "start": 788,
+          "end": 802
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

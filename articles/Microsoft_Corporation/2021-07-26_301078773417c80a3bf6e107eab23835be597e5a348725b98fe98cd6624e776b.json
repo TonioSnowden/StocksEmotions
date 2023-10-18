@@ -1,0 +1,36 @@
+{
+  "_id": "301078773417c80a3bf6e107eab23835be597e5a348725b98fe98cd6624e776b",
+  "feed": "wall-street-journal",
+  "title": "Business News: New Fronts Are Opening In Battle for Cloud Business",
+  "text": "<p>Credit-reporting firm Experian PLC began its move to the cloud with Amazon Web Services in 2014. It has since added services from Microsoft , Google and more recently Oracle , whose technology it had historically used in its own data centers, said Mervyn Lally, global chief enterprise architect at Experian.</p><p>\"More options are good,\" Mr. Lally said, adding they create competitive pressures \"we want to take advantage of.\"</p><p>Companies such as AT&amp;T Inc . are stitching together a network of vendors, including Microsoft , Google and others.</p><p>\"We're seeing more and more customers adopt a multicloud strategy simply because some workloads run better or more cost-effectively on different clouds,\" said Clay Magouyrk, executive vice president of Oracle Cloud Infrastructure.</p><p>World-wide spending on cloud-computing infrastructure services rose about 32% last year to $59.2 billion, according to Gartner Inc ., and is expected to reach $106.8 billion in 2022.</p><p>Growth in spending accelerated during the pandemic, and is expected to help Amazon and Microsoft post strong quarterly earnings this week. Although multicloud arrangements might eat into some of the sales Amazon and Microsoft could land, in most cases they get at least a slice.</p><p>Many companies have ended up with multiple clouds somewhat by chance, analysts and industry officials said. Different groups within an organization may have signed up with different vendors.</p><p>This year, 92% of companies had a multicloud strategy, up from 81% in 2018, according to an annual industry report published by software company Flexera Software LLC .</p><p>Operating across different service providers brings challenges. Each has its own way of handling the underlying technology, such as storage or networking, and moving data between clouds can be cumbersome, industry officials say.</p><p>USAA , the San Antonio-based insurance company, for years has been trying to work across cloud offerings in part to build resilience by being able to move data as needed, but it has found that challenging, said Michael Willette, assistant vice president responsible for cloud operations at USAA . \"Every cloud provider, even if they tell you they're not, is focusing on creating lock-in,\" he said.</p><p>Google said it is using open-source technology that is free to adopt to give its customers more control over which cloud they use.</p><p>Microsoft said it is working with customers to address their cloud needs, including those spanning other vendors. An Amazon spokesman said most customers, even those that talk about using several providers, stick with one.</p>",
+  "published": "2021-07-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1168,
+          "end": 1177
+        },
+        {
+          "start": 2348,
+          "end": 2357
+        },
+        {
+          "start": 130,
+          "end": 139
+        },
+        {
+          "start": 1039,
+          "end": 1048
+        },
+        {
+          "start": 507,
+          "end": 516
+        }
+      ]
+    }
+  ]
+}

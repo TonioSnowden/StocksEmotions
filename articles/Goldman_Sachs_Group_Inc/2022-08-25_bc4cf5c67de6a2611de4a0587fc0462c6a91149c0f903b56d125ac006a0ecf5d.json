@@ -1,0 +1,34 @@
+{
+  "_id": "bc4cf5c67de6a2611de4a0587fc0462c6a91149c0f903b56d125ac006a0ecf5d",
+  "feed": "wall-street-journal",
+  "title": "China's New Economic Efforts Fall Short, Economists Say; Stimulus package of $146 billion expected to do little to offset impact from property slump, Covid-19 measures and drought",
+  "text": "<p>The State Council, the country's cabinet on Wednesday approved plans to extend 300 billion yuan, equivalent to $44 billion, in credit to policy banks to support infrastructure projects, which Beijing typically counts on as a key growth driver under downturns.</p><p>It also announced help for local governments as well as for the power and agriculture sectors, which have been hard hit by the extreme heat and lack of rain, including approving 200 billion yuan in new debt for power-generation companies.</p><p>However, few analysts and economists expect the stimulus package, which amounts to more than 1 trillion yuan, or $146 billion, in total, will be able to lift the economy out of the doldrums.</p><p>The property market remains mired in a yearlong downturn while frequent outbreaks of Covid-19 cases continue to hammer consumer confidence, damping impact from the stimulus, they said.</p><p>Bruce Pang, chief China economist at Jones Lang LaSalle, said Chinese authorities recognize that insufficient demand is one of the fundamental problems with the economy, but the announced solutions still focus heavily on government spending.</p><p>\"Restarting the growth engine by propping up domestic demand and consumption is a policy priority yet it remains challenging to achieve,\" he said.</p><p>As part of the package, local governments, many already financially strained this year in large part due to the real-estate slump, were allocated 500 billion yuan of special bonds from previously unused quotas.</p><p>But such support still falls short of plugging the fiscal gap for local governments, which have to pay for mass Covid-19 testing unfunded by the central government at the same time that they have far less revenue from selling land to developers. Chinese government entities could face a $900 billion funding shortfall this year, according to estimates by investment bank Nomura.</p><p>Meanwhile, Chinese policy makers said they wouldn't \"open the floodgates of credit\" as they attempt to strike a balance between propping up growth and avoiding worsening the debt burden.</p><p>Analysts point to the sustained downturn in property sales and home prices as one of the weakest spots in the economy that could snowball into larger problems. Beijing's reluctance to exit from its strict pandemic policy, involving frequent mass Covid-19 testing and targeted lockdowns, has kept consumption weak and damped broader confidence.</p><p>Last month, Chinese leaders implicitly dropped the annual growth target of around 5.5% in a meeting, after the anemic 2.5% expansion in the first half of the year, which effectively put the target out of reach.</p><p>The State Council also said on Wednesday authorities will facilitate cross-border business travel, a signal of further easing of the stringent Covid-19 restrictions. Most analysts expect China to keep its strict zero-Covid-19 policy in place at least through a much-watched Communist Party congress this fall.</p><p>Local governments will be able to adjust property policies on their own, such as scrapping the limit of the number of homes residents can purchase to stabilize the market, according to the State Council. Still, many economists predict the distress in the property market could continue for months to come.</p><p>\"Barring major policy easing measures, we think overall growth will remain sluggish during the rest of this year,\" wrote economists from Goldman Sachs in a note on Wednesday, after the announcement of the package. The investment bank lowered the full-year growth forecast for China to 3% earlier this month.</p><p>Write to Stella Yifan Xie at stella.xie@wsj.com</p><p>China's New Economic Efforts Fall Short, Economists Say</p>",
+  "published": "2022-08-25T16:29:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99964,
+      "offsets": [
+        {
+          "start": 3349,
+          "end": 3362
+        },
+        {
+          "start": 3349,
+          "end": 3356
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

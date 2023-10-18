@@ -1,0 +1,30 @@
+{
+  "_id": "032720a87230f6ceada4777eaf272e32687277b85828589ef174c50a360a40af",
+  "feed": "reuters",
+  "title": "FACTBOX-UK North Sea oil and gas fields bought by private groups",
+  "text": "<p>The British North Sea has been undergoing a changing of the guard with oil majors selling oil and gas fields to private equity-owned groups.</p><p>The new owners say they can squeeze out more and cheaper barrels from North Sea fields than big companies, making faster decisions and specialising in North Sea extraction.</p><p>Here is a list of recent deals:</p><p>Deals in 2016</p><p>* OMV sells its British North Sea assets to Siccar Point, backed by private equity groups Blackstone and Bluewater, for up to $1 billion.</p><p>* BP merges its Norwegian North Sea assets with Det norske, creating a new entity Aker BP.</p><p>Deals in 2017</p><p>* Royal Dutch Shell sells North Sea assets to Chrysaor, backed by Harbour Energy, an investment vehicle of EIG Global Energy Partners, in a $3.8 billion deal.</p><p>* Engie sells its exploration and production business, including North Sea assets, to Neptune, backed by private equity funds Carlyle Group and CVC, in a $3.9 billion deal.</p><p>Deals in 2019</p><p>* ConocoPhillips sells North Sea assets to Chrysaor for around $2.6 billion.</p><p>* Chevron sells North Sea assets to Israel's Delek Group for $2 billion.</p><p>* Exxon sells Norwegian North Sea assets to Var Energi, backed by Eni and private equity fund HitecVision for $4.5 billion.</p><p>Deals in 2020</p><p>* Premier Oil will be renamed Harbour Energy Plc after a reverse takeover by private equity-backed Chrysaor due to complete in the first quarter of 2021.</p><p>Deals in 2021</p><p>* Exxon agrees to sell its non-operating interest in its UK and North Sea exploration and production assets to private-equity fund HitecVision for more than $1 billion.</p><p>* Cairn Energy agrees to sell its stakes in British fields Catcher and Kraken to private equity firm Waldorf Production for $460 million.</p><p>* Tailwind, a private oil producer backed by commodity trader Mercuria, has agreed to buy BP's stake in the Shearwater oilfield.</p><p>OUTSTANDING DEALS</p><p>* Japan's JX Nippon wants to sell its British North Sea oil and gas assets including stakes in some of the basin's biggest fields in a deal that could fetch up to $1.5 billion, five banking sources said.</p>",
+  "published": "2021-05-25T16:05:52.000Z",
+  "tags": [
+    {
+      "id": "US1667641005",
+      "nexusId": "10051514",
+      "name": "Chevron Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1028,
+          "end": 1035
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.56886876,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.4311999,
+        "tagPositionWeight": 6.866455e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

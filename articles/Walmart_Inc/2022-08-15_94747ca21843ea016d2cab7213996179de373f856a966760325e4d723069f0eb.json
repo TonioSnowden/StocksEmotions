@@ -1,0 +1,30 @@
+{
+  "_id": "94747ca21843ea016d2cab7213996179de373f856a966760325e4d723069f0eb",
+  "feed": "ftcomall",
+  "title": "Treatt shares plummet on profit warning as inflation bites",
+  "text": "<p>Fragrance and flavouring manufacturer Treatt has slashed its profit forecast blaming deteriorating consumer confidence in the US and cost inflation, sending its shares down nearly a third on Monday. </p> <p>The company revised its expectation of pre-tax profit to between £15mn and £15.3mn in the year to September, a significant reduction from a previously anticipated £21.7mn.<br><br>The company, which manufactures natural extracts and ingredients for the <a href=\"https://www.ft.com/food-beverage\">beverage</a>, flavour and fragrance industries, said it was “experiencing significant input cost inflation”, only some of which it had been able to pass on to customers given the nature of certain long-term contracts. </p> <p>Nestlé, Kraft Heinz, Danone and Unilever have all <a href=\"https://www.ft.com/content/02b58107-a328-458e-97b2-061fa87e5df2\">increased product prices</a> this year, as they grapple with the surging cost of raw materials. Inflation is also weighing on ordinary consumers, with US retail giant Walmart issuing a profit warning last month saying that food and fuel inflation was “affecting how customers spend”.</p> <p><a href=\"https://www.ft.com/stream/216d6b6e-2bb5-4166-964d-d896c64e5e3a\">Treatt </a>also blamed the downgrade on a drop in US sales in its high-margin tea category, following a hit to consumer confidence. Tea revenues fell 41 per cent in the first half compared with last year. Currency swings and the weakening of the pound were another factor.</p> <p>Shares were down 30.7 per cent to £5.56 in early London trading. </p> <p>Treatt's chief executive Daemmon Reeve said the company was “clearly disappointed by the short-term impact on profitability” but added that despite the hit to the tea business there was growth in other categories thanks to the demand for natural extracts in drinks. Consumer appetite for healthier products has driven much of Treatt's growth in recent years.<br><br>The group also said it had been hampered in China, a relatively new market in which it established a subsidiary a year ago and that accounts for 5 per cent of group revenue, because of its extensive Covid-19 restrictions. </p> <p>“Clearly this is disappointing short-term, but there continues to be plenty of potential,” analysts at Peel Hunt wrote in a note. </p><p>Source: Madeleine Speed 2022 'Treatt shares plummet on profit warning as inflation bites' FT.com 15 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-15T10:55:34.616Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 867,
+          "end": 874
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9028432,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.00034320354,
+        "titleWeight": 0.0
+      },
+      "typeRank": 6
+    }
+  ]
+}

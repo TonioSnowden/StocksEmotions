@@ -1,0 +1,32 @@
+{
+  "_id": "eecd2fe819b77839e16226289834725cedc6cdf467eb16cb097872bfc6470412",
+  "feed": "wall-street-journal",
+  "title": "Cyber Daily: SolarWinds Hackers Target Another Weak Point in Tech Supply Chain",
+  "text": "<p>In a blog post revealing the campaign, Tom Burt, Microsoft's corporate vice president for customer security and trust, said the activity suggests the Russia-linked hackers are broadening their push to infiltrate digital supply chains.</p><p>(Continued below.)</p><p>Four Network Security Challenges to Watch For</p><p>The growing reliance on hybrid IT infrastructures that support cloud-based applications and a largely remote workforce is creating network security and performance challenges for many enterprises.</p><p>Read More</p><p>Responding to these kinds of hacks can be particularly difficult if businesses don't know the extent of privileges they provide to partners, said Charles Carmakal, chief technology officer for cybersecurity firm Mandiant Inc.</p><p>Such firms don't always have good logging practices that allow them to trace attackers' steps through their systems and onto those of their customers, said Mr. Carmakal, whose firm has worked with Microsoft to track the activity.</p><p>\"Once you figure out that an intrusion is happening, it's very difficult to figure out what an attacker did because you might not have any logs,\" he said.</p><p>Since May, Russia-linked hackers have targeted at least 140 companies that resell or manage cloud-computing services and compromised as many as 14 of them, according to Microsoft. Russia has denied involvement with SolarWinds hacking.</p><p>The group hopes to \"impersonate an organization's trusted technology partner to gain access to their downstream customers,\" Mr. Burt said in a blog post.</p><p>Read the full story.</p><p>National Security</p><p>New cyber office: The State Department plans organizational changes to confront international cybersecurity challenges such as ransomware and waning global digital freedom, U.S. officials said. The restructuring will create a bureau of cyberspace and digital policy to be led by a Senate-confirmed ambassador-at-large and a new, separate special envoy for critical and emerging technology. (WSJ)</p><p>Cyber threat plays into China-Taiwan tensions. The concern that China might try to seize Taiwan is preoccupying American military planners and administration officials. Few of them think Taiwan's military could hold the line. An annual Taiwanese defense ministry assessment of China's military warns that Beijing could use cyberattacks to paralyze Taiwan's command centers. A crippling of defense infrastructure could increase the reliance on Taiwanese soldiers to prevent a rapid takeover. (WSJ)</p><p>Amazon Web Services in deal with U.K. intelligence agencies. Britain's GCHQ, MI5, MI6 and Ministry of Defence could use data analytics and artificial intelligence tools hosted by Amazon's cloud unit under a new contract with the tech giant, according to Reuters, which also cited a report by the Financial Times.</p><p>WSJ Pro Cybersecurity Executive Forum</p><p>Organizations face a raft of cybersecurity challenges: criminal and geopolitical hacks, remote-work risks, escalating regulation and talent shortages. Join us Dec. 1 for insights from senior practitioners, policy makers and thought leaders to help corporate executives make the right decisions.</p><p>Critical Infrastructure</p><p>Happening Tuesday: Patricia Cogswell, former Deputy Administrator at the Transportation Security Administration, is due to testify at a House hearing on protecting planes, trains and pipeline from cyber threats. Other experts on maritime, aviation and national security are also scheduled. Click here to tune in at 2:00 p.m. ET.</p><p>Former employee pleads guilty to tampering with a Kansas water system. In March 2019, two months after leaving the Post Rock Rural Water District in Ellsworth, Kan., the individual used shared system credentials to log in remotely to change controls for water cleaning and disinfecting. (Kansas City Star)</p><p>700,000</p><p>Number of new entrants into the cybersecurity profession globally since 2020, according to professional organization (ISC)2. That brings the total to 4.19 million but a talent gap persists. Average U.S. salary, by the way, is $90,900—up from $83,000 in 2020.</p><p>Privacy</p><p>Australia is considering new data-privacy rules that could make it illegal for social-media companies to direct children to harmful content. Australia's government on Monday released draft legislation that would enable the creation of a binding online-privacy code for tech companies. The legislation is expected to be introduced in Australia's parliament early next year, one government official said. If passed, Australia's privacy regulator would oversee the development of a code within 12 months, with input from the tech industry. (WSJ)</p><p>For sale: Access to Argentina's national identity-card database. Data and images for 45 million registered Argentinian citizens are at risk after a post was discovered on the dark web offering to sell access to the country's National Registry of Persons. Eight government employees are being investigated in connection with the incident, the Interior Ministry said. (Chief Privacy Officer Magazine)</p>",
+  "published": "2021-10-26T14:41:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 49,
+          "end": 58
+        },
+        {
+          "start": 930,
+          "end": 939
+        },
+        {
+          "start": 1287,
+          "end": 1296
+        },
+        {
+          "start": 49,
+          "end": 60
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "c049e828e8b3dca5e84be7965daa63df075dc61e0a5becfb489362343c0c8ce5",
+  "feed": "wall-street-journal",
+  "title": "Failing in an Oligopoly Takes Serious Mismanagement; Cardinal Health has underperformed drug-distributor peers McKesson and AmerisourceBergen, turning itself into an activist target",
+  "text": "<p>Two of the three drug distributors, AmerisourceBergen and McKesson, have delivered hefty returns to shareholders based on that approach. McKesson shares have nearly doubled in the past year partly because it has been so successful in expanding a relatively profitable business of distributing specialty medications, according to Lisa Gill, an analyst with JPMorgan. But the third big drug distributor, Cardinal Health, has seen profitability drop in the past five years, leaving its stock price basically unchanged during that period—a source of frustration for investors who have been calling for change at the company for years.</p><p>A major gripe is that Cardinal has made poor investments and management missteps in a medical-supplies business that delivers such things as medical gowns. Investors would prefer that Cardinal focus on lucrative areas such as the delivery of specialty medications including cancer injections. Its medical-supplies business is currently struggling to turn a profit on about $16 billion a year of sales.</p><p>With Cardinal being such a laggard, it was only a matter of time before an activist investor would come knocking. The Wall Street Journal reported last week that Elliott Management had built a large position in the company while nominating five directors to the 11-person board.</p><p>While Elliott's intentions aren't public yet, the activist is likely to push for a strategic review, possibly resulting in a recommendation to sell off the medical-supplies business to a private-equity investor. It has good reason to believe that more value can be extracted from the medical-supplies business. Last year a group of private-equity firms reached a deal to acquire rival Medline Industries for $30 billion even though the company had some $17.5 billion in sales—not much more than Cardinal sells. Cardinal's supplies business is worth significantly less at this stage, according to analysts.</p><p>As an apparent response to Elliott's pressure, Cardinal Health said its chief executive officer would be succeeded by Chief Financial Officer Jason Hollar. While Mr. Hollar has come up with a plan to drive earnings from the medical business to $650 million in 2025, the rush to nominate him without a real search process looked like an effort to play defense. The move was frustrating because the company has \"underperformed its peers under the leadership of internally promoted CEOs, going back to at least 2008,\" wrote Deutsche Bank analyst George Hill. Don Bilson at Gordon Haskett wrote that \"swapping in a new CEO at the same time that a 5-10% holder is pushing for significant board representation is asking for trouble.\"</p><p>A Cardinal spokesperson said the firm maintains \"a regular dialogue with all our investors as part of our robust shareholder engagement program. We do not, however, comment on the holdings of individual shareholders.\"</p><p>Mr. Hollar's plan to pass down manufacturing and transportation costs to its health-system customers seems great on paper, but just raising prices to offset inflationary pressures could cost the company market share. More important, his plan seems to have been hatched without the sort of broader strategic review that Elliott is likely to call for. The stock is up 24% in the past month, much of that in response to Elliott's building up its stake rather than the new plans.</p><p>Any additional upside looks limited, though, unless the company can truly fix its medical- supplies business or figure out a way to do what its two competitors do best and ride the growth in the specialty-drugs business.</p><p>Write to David Wainer at david.wainer@wsj.com</p><p>Failing in an Oligopoly Takes Serious Mismanagement</p>",
+  "published": "2022-08-22T11:03:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 355,
+          "end": 363
+        },
+        {
+          "start": 356,
+          "end": 364
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.7705952,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.28524995,
+        "tagPositionWeight": 0.05584514,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

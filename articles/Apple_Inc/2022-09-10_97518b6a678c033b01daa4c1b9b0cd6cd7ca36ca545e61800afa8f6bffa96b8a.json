@@ -1,0 +1,30 @@
+{
+  "_id": "97518b6a678c033b01daa4c1b9b0cd6cd7ca36ca545e61800afa8f6bffa96b8a",
+  "feed": "wall-street-journal",
+  "title": "OFF DUTY --- Gear & Gadgets: The Fall Issue -- Fall To-Do List: Get Your Fix On --- Ideas to inspire everything from home repairs to cutthroat board-game moves",
+  "text": "<p>Fix Something, Anything, Without Calling a Pro: Summer's a time to chill out. But when you're spending more time at home come fall, the slow drip of that leaky faucet becomes unignorable. Gather up your tools in something that isn't a Ziploc bag -- and try solving the problem yourself. For 15 minutes. Then watch a YouTube video for advice.</p><p>Leave Your Phone and Its Camera at Home: Snapping leaf-peeping photos with a dedicated camera still feels more authentic. Try a powerful full-frame mirrorless camera, like the Sony A7 IV ($2,698 with lens, BHPhotoVideo.com), or a fun instant camera, like the Polaroid Now+ ($150, US.Polaroid.com).</p><p>Train for a 10K Run: People are undertaking marathons again en masse, but rather than using that fact to fuel self-loathing, lace up some chunky sneakers yourself. Both new runners and returnees to the sport can slowly manage to work themselves up to a 10K, just over 6 miles.</p><p>Give MoviePass (Another) Chance: For a blissful few years the service gave users access to unlimited movies theater tickets for less than $10. The new version is being piloted in Chicago, Dallas and Kansas City, Mo., for those who joined a wait list. Once it launches more widely, there's likely to be no better deal for any movie lover nostalgic for the simpler times of . . . 2017.</p><p>It's Time to BeReal: The BeReal app is not just for GenZ. The addictive, low-commitment, weirdly dictatorial social-media app restricts all users to posting just one time each day, and only after a specific time set by a notification. And the posts can only be photos taken within the app which has some idiosyncratic framing quirks. It's the perfect tool for delightfully unhinged compositions. As for the list of people who can see your snaps, be sure to limit it to your friends.</p><p>Replace That Busted Excuse of a Phone: If your old phone is crashing, freezing and failing you when you most need it to navigate the world, consider the just-announced Apple iPhone 14 ($799, Apple.com) or the Google Pixel 7 (expected in October). Or cheaper, still-excellent phones from the previous generation, which become more affordable once their replacements are on sale.</p><p>Corral Your Cables: As far as shameful secrets go, the mess of cables, dongles and wall chargers at the back of your kitchen junk drawer isn't too big a deal. A few zip ties and wooden organizer boxes and you're done.</p><p>Become a Grill Master: Finally Exploit fall's more accommodating conditions to explore the power of cooking with charcoal using the bounty of in-season, roastable veggies.</p>",
+  "published": "2022-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1957,
+          "end": 1962
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

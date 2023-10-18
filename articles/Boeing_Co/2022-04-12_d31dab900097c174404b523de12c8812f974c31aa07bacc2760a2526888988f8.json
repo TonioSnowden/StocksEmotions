@@ -1,0 +1,29 @@
+{
+  "_id": "d31dab900097c174404b523de12c8812f974c31aa07bacc2760a2526888988f8",
+  "feed": "reuters",
+  "title": "BRIEF-Boeing Selects Spirit Aerosystems To Support B-52 Commercial Engine Replacement Program",
+  "text": "<p>* SPIRIT AEROSYSTEMS HOLDINGS INC - TOTAL CERP EFFORT IS EXPECTED TO REPLACE 608 ENGINES ON U.S. AIR FORCE FLEET OF B-52H MODELS.</p><p>* SPIRIT AEROSYSTEMS HOLDINGS INC - SPIRIT WILL SUPPORT EXTENDING LIFE OF B-52 STRATOFORTRESS THROUGH AT LEAST 2050 Source text for Eikon: Further company coverage:</p>",
+  "published": "2022-04-12T14:00:48.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9999882,
+      "offsets": [
+        {
+          "start": 6,
+          "end": 12
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      }
+    }
+  ]
+}

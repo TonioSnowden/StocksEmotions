@@ -1,0 +1,34 @@
+{
+  "_id": "5dc23a35c3f8080be6703a49489a61876b54d2b83fb4a5bb391fba9c59f38d4a",
+  "feed": "wall-street-journal",
+  "title": "Business News: Women Get to Top Jobs Faster Than Men",
+  "text": "<p>Yet these women, who hold roughly a quarter of leadership positions, don't often break into the highest echelon of management to hold the title of chief executive, president or chief operating officer. Companies have felt the urgency, internally and through outside pressures, to add women to their top ranks, according to researchers.</p><p>Women who were promoted into the top 10 corporate roles tended to get there two to four years faster than men, as measured by years in their careers, the report said. These women were also more likely than men to be hired into top positions from outside the company instead of promoted from within.</p><p>The speed and prevalence of outside hires is significant to Peter Cappelli, a Wharton management professor who conducted the research with Monika Hamori and Rocio Bonet, associate professors at IE Business School, and Samidha Sambare, a Wharton research associate. Outside hires for C-suite positions mean the talent pipeline isn't the only way to the top, Prof. Cappelli added.</p><p>\"Companies can move people ahead faster if they want,\" he said. \"We're kind of stuck in this view that there's this long, inevitable pipeline march, but that's not true.\"</p><p>Overall in 2021, women held about 27% of leadership positions -- as chief executive, chief of human resources or general manager -- in the Fortune 100, up from none in 1980. In 2001, a gap emerged between how fast men and women advanced, with women taking about 3.6 fewer years, on average, to move into the top 10 roles. The gap narrowed in 2011 to 2.9 fewer years, and it was about 1.5 years last year.</p><p>Women are advancing faster than men into leadership roles, in part, because investors and clients are pushing them, too, Prof. Cappelli said. BlackRock Inc. said in 2018 that it wanted companies where it invested to have diverse boards, spelling out an expectation of \"at least two women directors on every board.\" Nasdaq Inc. adopted similar targets and was sued.</p><p>There is a movement among many companies to ask their prospective vendors -- for instance, the outside law firms they hire, or other contractors like engineers -- to share internal workforce diversity data as part of the bidding process, Prof. Cappelli said. That made some companies focus more on diversity and change how they hire, he added.</p><p>Women still make up a small portion of the highest-ranking roles inside the Fortune 100, including chief executive officer, president and chief operating officer. Roughly 6% of women in leadership hold these titles -- a share that has been flat for two decades.</p><p>In the past two years, there have been several women appointed to the top job at major companies: Walgreens Boots Alliance Inc. tapped Rosalind Brewer, a Starbucks Corp. executive, as its CEO; Citigroup Inc. made Jane Fraser its chief executive, the first woman to lead a major Wall Street bank.</p><p>There have been high-profile departures as well. Gap Inc.'s Sonia Syngal stepped down as CEO earlier this summer after two years at the helm. And Sheryl Sandberg recently left her position as chief operating officer of Facebook parent Meta Platforms Inc.</p><p>Certain jobs are feeder roles to the corner office, and women aren't often tapped for those jobs. General managers and positions in operations that have profit-and-loss, or P&amp;L, responsibility tend to provide a path to the CEO position. The Wharton research found that more than half of executive positions women held in 2021 are leading support functions inside companies, such as human resources, the legal department or finance -- which don't usually provide a clear path to the very top.</p><p>\"Women are, early on, given an understanding that those support roles give them more flexibility,\" said Jane Edison Stevenson, vice chair of board and CEO services for the consulting firm Korn Ferry. That is false, she said. Chief marketing, human resources and legal executives are still required to put in long hours and have busy work schedules that cut into family time.</p><p>Korn Ferry's research shows that the sooner women enter an operations role with profit-and-loss accountability, the more likely they can become a CEO.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2659,
+          "end": 2688
+        },
+        {
+          "start": 2641,
+          "end": 2669
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.805,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

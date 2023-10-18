@@ -1,0 +1,28 @@
+{
+  "_id": "4df2f789d7157fcabbf7e7f4d1fe1d421f262d721c1b059a6716f1c09b38afe2",
+  "feed": "wall-street-journal",
+  "title": "What Is the Log4j Vulnerability? Corporate security executives are assessing risk as software companies disclose exposure",
+  "text": "<p>Here's what we know about the Log4j flaw:</p><p>What is Log4j?</p><p>Software developers use the Log4j framework to record user activity and the behavior of applications for subsequent review. Distributed for free by the nonprofit Apache Software Foundation, Log4j has been downloaded millions of times and is among the most widely used tools to collect information across corporate computer networks, websites and applications.</p><p>How can hackers take advantage of Log4j's vulnerability?</p><p>The Log4j flaw, disclosed by Apache on Dec. 9, allows attackers to execute code remotely on a target computer, meaning that they can steal data, install malware or take control. Some cybercriminals have installed software that uses a hacked system to mine cryptocurrency, while others have developed malware that allows attackers to hijack computers for large-scale assaults on internet infrastructure.</p><p>Security experts are particularly concerned that the vulnerability may give hackers enough of a foothold within a system to install ransomware, a type of computer virus that locks up data and systems until the attackers are paid by victims. For larger companies, these ransoms can total millions of dollars. The attacks can also cause widespread disruption, such as the infection of systems at Colonial Pipeline Co. in May that forced a six-day shutdown of the largest fuel pipeline on the East Coast.</p><p>\"To be clear, this vulnerability poses a severe risk,\" said Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency, in a statement issued Sunday.</p><p>How widespread is the Log4j flaw?</p><p>Internet-facing systems as well as backend systems could contain the vulnerability. Log4j software is widely used in business software development. \"Likely millions of servers are at risk,\" said Lou Steinberg, founder of CTM Insights LLC, a tech incubator. An Apache spokeswoman said the nature of how Log4j is inserted into different pieces of software makes it impossible to track the tool's reach.</p><p>CISA has created an information page with recommendations.</p><p>Which technology suppliers are affected by the Log4j vulnerability?</p><p>Many, and the list is growing. Among them are Apple Inc., Amazon.com Inc., Cloudflare Inc., IBM, Microsoft Corp.'s Minecraft, Palo Alto Networks Inc. and Twitter Inc. Several technology companies have issued alerts and guidance to customers about how to decrease their risk.</p><p>How can companies fix the Log4j problem?</p><p>Some patches and technical guidance are available. The Apache organization has released multiple updates in recent days and advised upgrading to the latest version of the Log4j tool. Oracle Corp. released its own patches on Friday. Microsoft recommended a series of steps to mitigate the risk of exploitation, including contacting your software application providers to be sure they are using the most up-to-date version of Java, which would include patches.</p><p>In lieu of available patches, Teresa Walsh, global head of intelligence at the Financial Services Information Sharing and Analysis Center, recommends that companies limit unnecessary outbound internet traffic, which would go some way to protecting vulnerable systems.</p><p>\"Firms can reduce their risk by reducing their exposure,\" she said.</p><p>Catherine Stupp contributed to this article.</p><p>Write to David Uberti at david.uberti@wsj.com, James Rundle at james.rundle@wsj.com and Kim S. Nash at kim.nash@wsj.com</p>",
+  "published": "2021-12-14T01:43:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2157,
+          "end": 2162
+        },
+        {
+          "start": 2157,
+          "end": 2167
+        },
+        {
+          "start": 2157,
+          "end": 2166
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

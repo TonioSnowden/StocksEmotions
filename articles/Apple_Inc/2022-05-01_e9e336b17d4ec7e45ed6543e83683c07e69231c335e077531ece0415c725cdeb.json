@@ -1,0 +1,30 @@
+{
+  "_id": "e9e336b17d4ec7e45ed6543e83683c07e69231c335e077531ece0415c725cdeb",
+  "feed": "reuters",
+  "title": "China COVID hard line eats into everything from Teslas to tacos",
+  "text": "<p>Other companies from luxury goods makers to fast-food restaurants have also offered a first read on the lost sales and shaken confidence of recent weeks, even as Beijing rolls out measures to help COVID-hit industries and stimulate demand.</p><p>Joey Wat , CEO of Yum China , which owns KFC and Taco Bell , said in a letter to investors that April sales had been “significantly impacted” by COVID controls. In response, the company simplified its menu, streamlined staffing and promoted bulk orders for locked-down communities, she said.</p><p>The pressing question now is: how and when will Chinese consumers start buying everything from Teslas to tacos again?</p><p>In China's once-hot EV market, the recent turmoil is a stark example of a one-two economic punch, first to supply and then to demand, from Beijing's hard-line implementation of COVID controls across the world's second-largest economy.</p><p>Before Shanghai was locked down in early April to contain a COVID-19 outbreak, sales of electric vehicles had been booming. Tesla 's sales in China had jumped 56% in the first quarter, while sales for EVs from its larger rival in China, BYD , had quintupled. Then came the lockdowns.</p><p>Showrooms, stores and malls in Shanghai were shut and its 25 million residents were unable to shop online for much beyond food and daily necessities due to delivery bottlenecks. Analysts at Nomura estimated in mid-April that 45 cities in China, representing 40% of its GDP, were under full or partial lockdowns, with the economy at a growing risk of recession.</p><p>The China Passenger Car Association estimated retail deliveries of passenger cars in China were 39% lower in the first three weeks of April from a year earlier.</p><p>COVID control measures cut into shipments, car dealers held back from promoting new models, and sales tumbled in China's richest markets of Shanghai and Guangdong, the association said.</p><p>One dealer of a premium German car brand in Jiangsu province, which borders Shanghai, told Reuters sales plunged by one-third to half in April, citing lockdowns and trucking bottlenecks that made it difficult to deliver orders.</p><p>He was even more worried about the impact on consumer spending power, he said, declining to give his name as he was not permitted to speak to the media.</p><p>\"It could be worse than the first wave of COVID in 2020, when the economic recovery was quick and strong. Nowadays there are more uncertainties in the economy, and the stock and property markets are not doing well,\" he said.</p><p>DOWNWARD SPIRAL</p><p>“Much will depend on how fast these restrictions can be lifted but the coming weeks may be difficult,” Helen de Tissot, chief financial officer at French spirits maker Pernod Ricard , told Reuters on Thursday.</p><p>Kering, which owns luxury brands including Gucci and Saint Laurent, said a “significant chunk” of its stores had been shuttered in April.</p><p>“It's very difficult to predict what will happen after the lockdown,” said Jean-Marc Duplaix , Kering's chief financial officer.</p><p>Apple also warned at its latest results over COVID-hit demand in China.</p><p>City authorities from Beijing to Shenzhen are trying to stimulate some demand by giving out millions of dollars worth of shopping vouchers to encourage residents to spend.</p><p>On Friday, Guangdong, a manufacturing powerhouse with an economy larger than South Korea's, rolled out its own incentives to try to restart sales of EVs and plug-in hybrids.</p><p>These include subsidies of up to 8,000 yuan ($1,200) for a select range of what China classes as “new energy vehicles”, including from Volkswagen and BYD. Tesla , second in EV sales in China, was excluded from the subsidy programme.</p><p>The U.S. automaker did not respond to a request for comment.</p><p>Chongqing, another major auto manufacturing hub, in March said it would offer cash of up to 2,000 yuan ($300) for shoppers who exchange old cars for new models and set aside another $3 million for other measures to spur sales.</p><p>While noting such measures, Credit Suisse analysts still said they believe COVID control measures have put both online and offline consumption on a downward spiral.</p><p>\"We see the consumer sector as being at major risk if the prolonged pandemic and further tightening continue across China,\" they said in an April 19 research note.</p>",
+  "published": "2022-05-01T23:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999962,
+      "offsets": [
+        {
+          "start": 2976,
+          "end": 2981
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.77378094,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.22621906,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "f58f66d6d6019c7481e13025c2af80d071ea50502138773f5c0982c75f325d51",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Technical  Problem  Disrupts  Southwest  ----  By Alison Sider",
+  "text": "<p>   For the second day in a row, a technical problem snarled Southwest Airlines Co.'s operations, leading to hundreds of delays and prompting the airline to cancel 500 flights. </p><p>   Southwest called it a system issue that created disruptions throughout its network. An airline spokeswoman said multiple systems had experienced connectivity issues. </p><p>   The Federal Aviation Administration said it had temporarily halted Southwest flights at the airline's request Tuesday while the company resolved the problem. </p><p>    Airlines' IT systems have often left them vulnerable to disruptive glitches and breakdowns over the years. </p><p>   The incident followed Monday night's two-hour halt of Southwest flights due to what the airline described as intermittent performance issues that prevented an outside weather-data provider from transmitting weather information to the airline. Nearly 1,500 Southwest flights were delayed Monday according to FlightAware, a flight tracking site, and customers took to social media to complain about long waits. The weather-data provider, a unit of IBM Corp., didn't respond to requests for comment. </p><p>   A small number of delays and cancellations carried over into Tuesday morning before the new issue arose. A Southwest spokesman said the airline is looking into whether the two incidents are connected, but initial indications are that they aren't. </p><p>    Delta Air Lines Inc. separately reported experiencing temporary problems with online booking tools Monday evening but said the issue didn't affect its operation. </p><p></p>",
+  "published": "2021-06-16T06:03:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 1050,
+          "end": 1053
+        }
+      ]
+    }
+  ]
+}

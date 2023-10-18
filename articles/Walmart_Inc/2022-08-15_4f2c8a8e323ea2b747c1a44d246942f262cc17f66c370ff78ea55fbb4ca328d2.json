@@ -1,0 +1,30 @@
+{
+  "_id": "4f2c8a8e323ea2b747c1a44d246942f262cc17f66c370ff78ea55fbb4ca328d2",
+  "feed": "wall-street-journal",
+  "title": "Home Run Inn Frozen Pizzas Recalled Over Possible Metal Contamination; Recall affects deluxe sausage classic frozen pizzas produced on June 6, with best-by date of Dec. 3",
+  "text": "<p>The cartons of frozen pizzas were produced on June 6, and have a best-by date of Dec. 3, 2022. Consumers can identify the recalled products by locating the Agriculture Department's mark of inspection \"EST.18498-A\" on the front of the box in the bottom right corner.</p><p>No other products have been affected, the company said.</p><p>The frozen pizzas were shipped to a distributor in Illinois and then sent to retailers, the USDA's Food Safety and Inspection Service said in a statement Sunday.</p><p>The agency urged consumers who bought the frozen pizzas to not consume them and to dispose of them instead, or return the packages to the place of purchase.</p><p>Retailers including Walmart and Target sell pizzas from Home Run Inn Frozen Foods and the pizzas are available in more than 35 U.S. states, according to the company's website.</p><p>\"Please return the unconsumed product in its original packaging to its point of purchase for a full refund,\" a spokesperson for the company said in a statement.</p><p>Write to Lauryn Azu at Lauryn.Azu@wsj.com</p><p>Home Run Inn Frozen Pizzas Recalled Over Possible Metal Contamination</p>",
+  "published": "2022-08-15T19:22:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 656,
+          "end": 663
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0028278,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0028277636,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

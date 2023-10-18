@@ -1,0 +1,38 @@
+{
+  "_id": "d0017ee9a8877783fd3bf2e0e35c57ff6b604e6224f255829ed2fb559604d643",
+  "feed": "wall-street-journal",
+  "title": "Retailers Start Selling Something New: Logistics Services; American Eagle Outfitters and Gap want other merchants to use their supply chains, raising questions about control, competition and data privacy",
+  "text": "<p>Supply-chain experts, however, say the retailers face hurdles pushing into the logistics market, including concerns prospective customers may have about data privacy and potentially giving up the competitive edge they may have when controlling their own logistics network.</p><p>\"The customer fulfillment activities are so core to any retailer—any company, but a retailer in particular,\" said Michael Dominy, vice president of supply-chain research at research firm Gartner Inc., because \"you're delivering that customer experience. So turning that over to somebody else is always challenging.\"</p><p>San Francisco-based Gap recently launched what it calls GPS Platform Services, a logistics and fulfillment network open to other businesses. AEO, based in Pittsburgh, created a subsidiary called Quiet Platforms after acquiring logistics companies Quiet Logistics and AirTerra last year. Quiet Platforms offers fulfillment, logistics and transportation services to other brands.</p><p>The two companies are launching the platforms as questions over control of logistics operations have grown more urgent in the wake of pandemic-driven supply-chain disruptions that included port bottlenecks and other challenges that tied up inventory and cost some companies sales.</p><p>Some large retailers including Walmart Inc., Target Corp. and Costco Wholesale Corp. have moved to take greater control of their supply chains in the wake of the disruptions, including by chartering their own cargo ships to import goods.</p><p>Target added a third-party distribution component with its acquisition of Shipt in 2017 and offers the same-day delivery to other businesses.</p><p>Walmart entered the market in August 2021 with GoLocal, an effort to create a revenue stream by leveraging its own investment in rapid delivery to service the needs of other merchants. The company last week said it had reached more than 1 million shipments in the first year of operation.</p><p>Dale Rogers, a professor of supply-chain management at Arizona State University's W.P. Carey School of Business, said the services from Gap and AEO are an attempt by the retailers to maintain control of their own networks while mitigating the costs. \"By sort of being the captain of the logistics services, and being able to spread some of the costs over other players, they can ensure that they get good service,\" Mr. Rogers said.</p><p>Quiet Platforms said it is working with sports goods retailer Fanatics Inc., shoe brand Steve Madden Ltd. and discount outlet Saks Off Fifth. Gap said it is working with Fortune 500 brands and didn't disclose client names.</p><p>Shivi Shankaran, chief operating officer of Saks Off Fifth, the discount retailing sister business to luxury merchant Saks Fifth Avenue, said the brand decided last year to diversify its carriers, leading it to begin working with AEO's AirTerra and later to sign on with Quiet Platforms. The moves have expanded Saks Off Fifth's capacity and shipping options and speeded up delivery times, Mr. Shankaran said in a statement.</p><p>Vivek Astvansh, professor of marketing and data science at Indiana University, said retailers that outsource their supply-chain operations risk their ability to manage the flow of goods at times of stress, such as severe weather.</p><p>\"If I'm running my supply chain, I have visibility, transparency on that risk. I know that one of my warehouses is in Tennessee or Kentucky and I know when that tornado will be and I can plan proactively,\" Mr. Astvansh said.</p><p>A Gap spokesperson said the company provides visibility to its clients, in line with other logistics providers. An AEO spokesperson said clients of Quiet Platforms have full visibility into their supply-chain operations.</p><p>Merchants considering other retailers' networks may also have data privacy concerns, particularly if they are competitors, said Cathy Roberson, president of research and consulting firm Logistics Trends &amp; Insights LLC.</p><p>The Gap spokesperson said the retailer employs data protections, and information is only available to authorized logistics operators and personnel as needed. The AEO spokesperson said Quiet Platforms is run as an independent subsidiary with its own client-related technology team, systems and operations, and said AEO doesn't access client data.</p><p>Mr. Astvansh said companies that don't compete directly with the retailers' third-party offerings are the most likely targets for the services.</p><p>\"To the extent that these retailers are in different product categories, there is a synergy,\" he said. \"But if they are both in fast fashion or fashion, then there is a risk that you might be exposing your core competency.\"</p><p>Write to Liz Young at liz.young@wsj.com</p><p>Retailers Start Selling Something New: Logistics Services</p>",
+  "published": "2022-09-02T10:03:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1272,
+          "end": 1283
+        },
+        {
+          "start": 1279,
+          "end": 1291
+        },
+        {
+          "start": 1619,
+          "end": 1626
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.707506,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.29250002,
+        "tagPositionWeight": 5.9604645e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

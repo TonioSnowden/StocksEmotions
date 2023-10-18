@@ -1,0 +1,102 @@
+{
+  "_id": "4358f9dfe6b8e99b8d662776ac743a005722f7ecbddff1e2bab68d7697c35fd5",
+  "feed": "wall-street-journal",
+  "title": "Veterans in 3M Earplug Case  Fight Bankruptcy-Court Venue  ----  By Bob Tita",
+  "text": "<p>   Lawyers for U.S. military veterans suing 3M Co. over its earplugs are trying to block the manufacturer's plan to resolve the yearslong liability case in bankruptcy court. </p><p>   Aearo Technologies LLC, a 3M subsidiary that once produced the earplugs, late last month accepted responsibility for claims of hearing loss from more than 230,000 veterans who have said they used the earplugs during their time in the military. As part of the move, Aearo absolved the Minnesota-based industrial conglomerate from liability for the earplugs. </p><p>   Aearo immediately filed for federal bankruptcy protection in Indianapolis. Bankruptcy provides corporate defendants, such as Aearo, leverage to settle mass-liability claims. Companies in chapter 11 usually can't be sued outside of bankruptcy court. Aearo said the bankruptcy should allow it to end trials and mediation talks between 3M and the claimants that have been under way in U.S. District Court in Pensacola, Fla., since 2019. </p><p>   \"The verdicts were already outsized and untethered to reality,\" Aearo said in its July 26 bankruptcy filing. Aearo said the case is now the largest product-liability civil case in the U.S. </p><p>   The prospect of a long, costly process for 3M to settle the claims is clouding the outlook for the company's business performance and causing investors to be wary of 3M's stock, according to industry analysts. </p><p>   3M's shares are down 22% in the past year, compared with a decline of about 6% for the broad-market S&amp;P 500 index, according to FactSet. </p><p>   As a part of Aearo's bankruptcy filing, 3M pledged more than $1 billion toward the cost of a settlement between Aearo and the claimants. 3M said its financial commitment to the settlement is uncapped and it is prepared to increase the funding. </p><p>   Some veterans who have sued 3M have asked the federal judge in Florida presiding over test trials and claims consolidated from throughout the U.S. to maintain jurisdiction over the cases. A hearing on their motions is scheduled for Thursday. </p><p>   \"The court should not allow 3M to simply wipe away the litigated record of these cases to the detriment of innocent claimants because 3M is displeased with the results,\" a plaintiff's lawyer said in a motion filed to block 3M from sidestepping continued litigation in the Florida court. </p><p>   The plaintiff's filing described 3M's pivot to bankruptcy court from federal court in Florida as \"gaming the system\" in search of a more favorable outcome after 3M lost several bellwether trials in the Florida court that were intended to provide direction for potential settlement talks for the remaining claims. </p><p>   The filing noted that 3M agreed to some of the procedures for processing the claims that it now objects to and has the option of appealing court decisions it doesn't like. It said said plaintiffs with claims pending in the Florida court will have to restart their cases from scratch if the claims are transferred to Aearo's bankruptcy. </p><p>   A separate motion filed by another plaintiff in the Florida court challenges the transfer of liability for the earplugs to Aearo from 3M. </p><p>   Aearo has been a wholly owned subsidiary of 3M for the past 15 years and largely indistinguishable from its parent company, the plaintiff's filing said. 3M never attempted to separate Aearo's liability from 3M's during the bellwether trials and in numerous filings in the Florida court, the plaintiff said. Aearo also wasn't represented by separate lawyers during the proceedings. \"It's always been about 3M,\" said Bryan Aylstock, the lead counsel for the plaintiffs. \"They can't claim the responsible party has been Aearo the whole time.\" </p><p>   3M said in a statement the \"applicable law supports our position\" that the claims should be moved to bankruptcy court. </p><p>   3M, which acquired Aearo for $1.2 billion in 2008, was attracted to the company's unique dual-sided earplug for the military. One side blocked all noise while the other side allowed the users to hear spoken voices, but protected them from loud, impulse noises, like explosions. </p><p>   3M has said the earplugs are safe and effective when soldiers are given the proper training on how to use them. </p><p></p>",
+  "published": "2022-08-12T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 3190,
+          "end": 3192
+        },
+        {
+          "start": 1527,
+          "end": 1529
+        },
+        {
+          "start": 41,
+          "end": 47
+        },
+        {
+          "start": 2288,
+          "end": 2290
+        },
+        {
+          "start": 3691,
+          "end": 3693
+        },
+        {
+          "start": 3967,
+          "end": 3969
+        },
+        {
+          "start": 1351,
+          "end": 1353
+        },
+        {
+          "start": 1623,
+          "end": 1625
+        },
+        {
+          "start": 1308,
+          "end": 1310
+        },
+        {
+          "start": 2416,
+          "end": 2418
+        },
+        {
+          "start": 3244,
+          "end": 3246
+        },
+        {
+          "start": 196,
+          "end": 198
+        },
+        {
+          "start": 1757,
+          "end": 1759
+        },
+        {
+          "start": 2589,
+          "end": 2591
+        },
+        {
+          "start": 3035,
+          "end": 3037
+        },
+        {
+          "start": 3573,
+          "end": 3575
+        },
+        {
+          "start": 855,
+          "end": 857
+        },
+        {
+          "start": 3082,
+          "end": 3084
+        },
+        {
+          "start": 1185,
+          "end": 1187
+        }
+      ],
+      "weightsV2": {
+        "weight": 19.797825,
+        "baseWeight": 19.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.79782426,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "ed42e4c9e659b11b3fe0459bb8b8a096f170ff702201c6dd72fe0b0eea44f9aa",
+  "feed": "ftcomall",
+  "title": "Insurers must rethink handling of cyber attacks on states",
+  "text": "<p><em>The writer is a professor at Tufts and author of ‘</em><a href=\"https://mitpress.mit.edu/9780262544184/cyberinsurance-policy/\"><em>Cyberinsurance Policy'</em></a></p> <p>The invasion of Ukraine earlier this year drew considerable global attention to the possibility that Russia might combine its physical attacks on the country with cyber attacks aimed at weakening critical infrastructure and information systems. Russia has had limited success, so far, in using such cyber attacks against Ukraine, but that hasn't stopped those insurance companies that sell cyber-insurance policies from worrying that this could cost them billions of dollars — not only in Ukraine, but also in countries such as the US and the UK, where most cyber-insurance policies are sold.</p> <p>They have good reason to be worried: Russian cyber attacks have already cost insurers a great deal of money. Russia and its government has been widely blamed for the 2017 NotPetya attack that scrambled data from the computer systems of companies in more than 60 countries. These spanned industries from energy to shipping, forcing many of them to shut down operations for several days. The White House estimated that the NotPetya malware ultimately caused more than $10bn in damage and later referred to it as “the most destructive and costly cyber attack in history”.&#xa0;</p> <p>In the aftermath of NotPetya, some insurers denied claims for the resulting costs on the grounds that the attack was a “warlike act” because a government was behind it. Since many insurance policies exclude coverage for acts of war, the insurers reasoned that this same exclusion should apply to acts of cyber war or state-sponsored cyber attacks. </p> <p>On these grounds, Zurich denied a $100mn claim by multinational food company Mondelez, and a group of more than 20 insurers denied $1.4bn in NotPetya-related claims from pharmaceutical company Merck.</p> <p>Both Mondelez and Merck then sued their respective insurers. The insurers argued that the attack had been attributed to the Russian government by many different countries, including the US, and pointed out that in previous insurance disputes about whether events such as plane hijackings or missile attacks were covered by insurance, the question of whether a sovereign power or military was behind the incident was usually crucial to determining whether something was war or not. </p> <p>Meanwhile, Mondelez and Merck disputed that NotPetya was a “warlike action” and Merck further noted that it is not certain Russia was behind the attack, given the difficulties of definitively attributing cyber attacks to a particular perpetrator. </p> <p>The Mondelez case is still pending, but Merck won its case in December, when a New Jersey court found that the insurers could not exclude NotPetya from their coverage because the war exclusion “applied only to traditional forms of warfare”. It was a significant victory for the company but it may not be a long-lived one for others that fall victim to state-sponsored cyber attacks in the future.</p> <p>Earlier this month, Lloyd's of London issued a bulletin noting that, “when writing cyber attack risks, underwriters need to take account of the possibility that state backed attacks may occur outside of a war involving physical force”. Since the Merck ruling suggests that these attacks may not be considered sufficiently “warlike” to fall under existing war exclusions, the Lloyd's bulletin requires underwriters to start explicitly excluding certain types of state-backed cyber attacks from their coverage, especially attacks that “significantly impair the ability of a state to function” or “that significantly impair the security capabilities of a state.”</p> <p>These new exclusions may help insurers to lower costs in the short term, but they will be bad for the cyber-insurance market in the long term. State-sponsored cyber attacks are now so commonplace that if insurers start refusing to cover them at the same time as governments continue ramping up their cyber capabilities, then companies won't buy these insurance policies. </p> <p>Not only will this mean that companies end up less able to recover financially from cyber attacks but it may also make them more likely. There is concern that companies deciding not to buy cyber-insurance may also take fewer security precautions to protect their own data and networks because they no longer have to meet the requirements of their insurers. </p> <p>Insurers must understand that no one will want to buy (increasingly expensive) policies that don't cover attacks by some of the most sophisticated and active online adversaries. By only excluding from their coverage those cyber attacks that occur in the context of wars involving physical force, insurers can both better protect their policyholders and also their own business in a world now constantly on alert.</p> <p><em>This article has been amended to correct the title of Josephine Wolff's book</em></p><p>Source: Josephine Wolff 2022 'Insurers must rethink handling of cyber attacks on states' FT.com 29 August. Used under licence from the Financial Times. © The Financial Times Limited 2022. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2022-08-29T16:43:40.776Z",
+  "tags": [
+    {
+      "id": "US58933Y1055",
+      "nexusId": "10042334",
+      "name": "Merck & Co., Inc.",
+      "confidence": 0.99996156,
+      "offsets": [
+        {
+          "start": 3154,
+          "end": 3159
+        },
+        {
+          "start": 1792,
+          "end": 1797
+        },
+        {
+          "start": 3139,
+          "end": 3144
+        },
+        {
+          "start": 1776,
+          "end": 1781
+        },
+        {
+          "start": 2539,
+          "end": 2544
+        },
+        {
+          "start": 1768,
+          "end": 1773
+        },
+        {
+          "start": 2277,
+          "end": 2282
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

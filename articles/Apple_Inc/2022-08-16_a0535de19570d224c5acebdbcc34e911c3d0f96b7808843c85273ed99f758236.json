@@ -1,0 +1,54 @@
+{
+  "_id": "a0535de19570d224c5acebdbcc34e911c3d0f96b7808843c85273ed99f758236",
+  "feed": "market-watch",
+  "title": "Apple lays off 100 recruiters: report",
+  "text": "<p>A representative for Apple didn't immediately respond to a request for comment by MarketWatch.</p><p>Ahead of Apple's latest quarterly results, Bloomberg last month flaggedplans by the tech group to curb hiring and spending to account for an economic downturn. In its June quarter, Apple said it saw continued revenue growth, though slowing Mac sales, along with macro hits to wearables, home and accessories.</p><p>Asked on the June 28 earnings call how the company was preparing for economic uncertainties, Chief Executive Officer Tim Cook said Apple \"believes in investing through the downturn. And so we'll continue to hire people and invest in areas, but we are being more deliberate in doing so in recognition of the realities of the environment.\"</p><p>If reports of layoffs are true, Apple will be joining a host of other Big Tech companies looking to cut costs amid an economic slowdown, with chief executives at Meta Platforms Inc. META and Alphabet Inc.'s GOOGL Google warning employees of difficult times ahead, and a slowdown in hiring at Microsoft Corp MSFT.</p><p>Read: It's the end of 'fantasyland' for Big Tech and its workers</p><p>And: Tech companies are shifting to layoffs after a huge ramp up in hiring</p><p>Shares of Apple, down 2.7% year to date, closed flat at $173.16 a share on Monday.</p><p>Apple lays off 100 recruiters: report</p>",
+  "published": "2022-08-16T11:07:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999808,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 21,
+          "end": 26
+        },
+        {
+          "start": 103,
+          "end": 108
+        },
+        {
+          "start": 274,
+          "end": 279
+        },
+        {
+          "start": 532,
+          "end": 537
+        },
+        {
+          "start": 769,
+          "end": 774
+        },
+        {
+          "start": 1199,
+          "end": 1204
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 7.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

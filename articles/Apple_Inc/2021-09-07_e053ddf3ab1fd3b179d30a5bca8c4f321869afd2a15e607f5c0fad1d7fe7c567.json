@@ -1,0 +1,28 @@
+{
+  "_id": "e053ddf3ab1fd3b179d30a5bca8c4f321869afd2a15e607f5c0fad1d7fe7c567",
+  "feed": "wall-street-journal",
+  "title": "Ford Hires Apple's Doug Field to Advance Technology Role; The executive played a key role in developing Tesla's Model 3 compact car and has been working on the iPhone maker's car project",
+  "text": "<p>After departing Tesla in 2018, Mr. Field returned to Apple, where he has been working on the iPhone maker's secret car project.</p><p>(More to come.)</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>Ford Hires Apple's Doug Field to Advance Technology Role</p>",
+  "published": "2021-09-07T19:33:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 53,
+          "end": 58
+        },
+        {
+          "start": 11,
+          "end": 16
+        },
+        {
+          "start": 199,
+          "end": 204
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

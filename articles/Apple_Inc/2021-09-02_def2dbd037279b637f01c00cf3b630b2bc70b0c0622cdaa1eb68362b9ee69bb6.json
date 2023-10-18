@@ -1,0 +1,56 @@
+{
+  "_id": "def2dbd037279b637f01c00cf3b630b2bc70b0c0622cdaa1eb68362b9ee69bb6",
+  "feed": "wall-street-journal",
+  "title": "Business & Technology: Digital Wallets To Include Driver's Licenses",
+  "text": "<p>Apple in June said its latest operating system update included support for home keys and ID cards in its wallet.</p><p>Apple said the U.S. Transportation Security Administration would enable certain airport security checkpoints as first locations that will accept IDs on iPhone or Apple Watch. Device owners will be able to present their documentation on the Wallet app without having to take out their physical card or hand over their device.</p><p>\"The addition of driver's licenses and state IDs to Apple Wallet is an important step in our vision of replacing the physical wallet with a secure and easy-to-use mobile wallet,\" said Jennifer Bailey, Apple's vice president of Apple Pay and Apple Wallet.</p><p>Apple said the company and issuing states won't know when or where users have presented their IDs.</p>",
+  "published": "2021-09-02T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 679,
+          "end": 684
+        },
+        {
+          "start": 275,
+          "end": 286
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 113,
+          "end": 118
+        },
+        {
+          "start": 665,
+          "end": 670
+        },
+        {
+          "start": 693,
+          "end": 698
+        },
+        {
+          "start": 490,
+          "end": 495
+        },
+        {
+          "start": 639,
+          "end": 644
+        },
+        {
+          "start": 665,
+          "end": 674
+        },
+        {
+          "start": 275,
+          "end": 280
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

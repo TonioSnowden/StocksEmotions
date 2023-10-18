@@ -1,0 +1,24 @@
+{
+  "_id": "098ac656e0d26573331f146659e3815c4d1aaa8cad819336feadb4b5de741683",
+  "feed": "wall-street-journal",
+  "title": "Finance News: Morgan Stanley Mandates Vaccine",
+  "text": "<p>Unvaccinated employees will work remotely, a person familiar with the matter said. At a conference last week, Chief Executive James Gorman said well over 90% of employees in its offices were vaccinated.</p><p>Companies are pressuring employees to get vaccinated before their offices fully reopen, but few have gone so far as to require it. The Equal Employment Opportunity Commission last month said U.S. employers can require staffers entering a workplace to be vaccinated against Covid-19, although they must accommodate those who are unvaccinated for disability or religious reasons.</p><p>Getting workers vaccinated is especially important to Wall Street firms eager to end the work-from-home era.</p><p>JPMorgan Chase &amp; Co. told employees Wednesday they must log into its vaccine-tracker tool by June 30, though they can decline to say if they have been vaccinated. Unvaccinated employees and those who refuse to disclose their status are required to come to the office but must wear masks, observe social-distancing rules and complete a daily health questionnaire.</p><p>Goldman Sachs Group Inc., which brought thousands of employees back to its Manhattan headquarters, is requiring U.S. employees to disclose whether they got a vaccine.</p>",
+  "published": "2021-06-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 685,
+          "end": 705
+        },
+        {
+          "start": 690,
+          "end": 710
+        }
+      ]
+    }
+  ]
+}

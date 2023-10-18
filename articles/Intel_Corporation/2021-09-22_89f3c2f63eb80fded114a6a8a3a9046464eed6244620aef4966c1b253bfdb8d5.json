@@ -1,0 +1,24 @@
+{
+  "_id": "89f3c2f63eb80fded114a6a8a3a9046464eed6244620aef4966c1b253bfdb8d5",
+  "feed": "market-watch",
+  "title": "White House to host Intel, Apple, Microsoft execs to discuss chip shortage",
+  "text": "<p>Commerce Secretary Gina Raimondo and &#xa0;National Economic Council Director Brian Deese will lead the meeting, which was announced last week.</p><p>Intel's Pat Gelsinger plans to attend, according to Reuters; it's unclear if other CEOs will join him. Representatives from Samsung Electronics Co. KR:005930, General Motors Co. GM, Stellantis NV STLA, Micron Technology Inc. MU, Taiwan Semiconductor Manufacturing Co. TSM and BMW XE:BMW are also expected to attend, according to the report.</p><p>The meeting will reportedly focus on how to handle the ongoing semiconductor shortage, and how to ease the production bottlenecks.</p>",
+  "published": "2021-09-22T22:41:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 20,
+          "end": 25
+        },
+        {
+          "start": 139,
+          "end": 144
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

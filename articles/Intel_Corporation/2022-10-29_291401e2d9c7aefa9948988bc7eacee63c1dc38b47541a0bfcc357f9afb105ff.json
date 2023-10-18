@@ -1,0 +1,28 @@
+{
+  "_id": "291401e2d9c7aefa9948988bc7eacee63c1dc38b47541a0bfcc357f9afb105ff",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Earnings Signal End to Tech Boom",
+  "text": "<p>\"It's just hard to see any points of good news on the horizon,\" Intel Corp. Chief Executive Pat Gelsinger said Thursday as the company cut its full-year sales outlook.</p><p>Tech companies that enjoyed strong growth in the early days of the pandemic are feeling the effects of high inflation, rising interest rates, currency headwinds and other issues. The slowdown in personal-computer sales and digital advertising appears to be spreading to areas such as cloud computing that were thought to be resistant to economic weakness.</p><p>As a result, leaders Apple Inc., Amazon.com Inc., Microsoft Corp., Facebook parent Meta Platforms Inc. and Google parent Alphabet Inc. are sharpening their control over costs and monitoring head count. Meanwhile, investors in those five companies have lost more than $218 billion combined through Friday's market trading, after disappointing earnings or forecasts. Amazon's sales forecast for the current quarter, for example, missed Wall Street expectations by up to $15 billion, causing its shares to fall 6.8% Friday.</p><p>Growth in the cloud-computing sector, an indicator of broader business adoption of tech, has fallen faster than expected. Amazon Web Services posted a 27% year-over-year increase in net sales, down from its 39% growth a year earlier. Microsoft's cloud-computing figure came in at 35% for the most recent quarter, compared with 50% a year ago.</p><p>Those problems are only compounding an already difficult market for tech companies with demand for PC and other personal electronics slumping.</p><p>Intel reported a sharp decline in quarterly sales, cut its expectation for PC shipments this year, and said next year could be even worse. Microsoft saw sales of its Windows operating system fall 15% during the September quarter, with sales there expected to drop more than 30% in the current quarter. Apple's iPhone sales came in slightly under analyst expectations. The company said overall sales growth in the current quarter would be more subdued.</p><p>Samsung Electronics Co. posted a 23.6% decline in net profit this past week and forecast that the smartphone market will likely continue to be pressured into next year.</p><p>Across tech, companies are moving aggressively to slash costs. Intel said Thursday that it plans to deliver $3 billion in cost reductions in 2023 and $8 billion to $10 billion in annualized savings from 2025. The company is embarking on job cuts, Mr. Gelsinger said.</p><p>Meta's Mark Zuckerberg said the social-media giant's workforce of 87,000-plus employees could be smaller next year. The company also has said it is rationalizing office space.</p><p>---</p><p>Miles Kruppa contributed to this article.</p>",
+  "published": "2022-10-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 64,
+          "end": 69
+        },
+        {
+          "start": 2215,
+          "end": 2220
+        },
+        {
+          "start": 1531,
+          "end": 1536
+        }
+      ]
+    }
+  ]
+}

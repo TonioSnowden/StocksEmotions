@@ -1,0 +1,30 @@
+{
+  "_id": "b5d9367530eaa564ded537e2ec904a92293db879037fdc00ea797076e809df76",
+  "feed": "wall-street-journal",
+  "title": "Truck-Driver Pay Rose 11% Amid Strong Freight Demand Last Year",
+  "text": "<p>The sharp increase in compensation came as demand to move goods surged across the U.S. economy, with retailers racing to restock inventories that were depleted early in the pandemic and manufacturers rushing to bring in parts and raw materials to restore production that had been idled or cut back.</p><p>Trucking companies and transportation divisions of retail and manufacturing businesses struggled in the wake of the sharp upturn in demand to bring in enough workers to handle the loads.</p><p>\"The driver market got so tight in 2021 that fleets were pretty desperate to get good, responsible, safe drivers,\" said Bob Costello, chief economist at the ATA, an industry trade group.</p><p>Walmart, which operates one of the largest in-house trucking fleets in the country, said this spring that it was raising starting pay for its company drivers to as much as $110,000 a year in an effort to keep its supply chain running smoothly.</p><p>The ATA said in its study that nearly all truckload carriers -- the operators that contract to move an entire trailer load for a single customer, as opposed to carriers that mix freight from several customers in one truck -- offered bonuses to drivers who successfully referred people to be hired by the company. The average referral bonus hit $1,150, up $150 from the previous survey.</p><p>The rising truck-driver pay is triggering higher transportation costs for companies as truckers seek to pass along their higher expenses, contributing to inflation across the U.S. economy that is running near a four-decade high.</p><p>Thomasville, N.C.-based Old Dominion Freight Line Inc., one of the country's largest trucking companies, said in its quarterly earnings report last month that its spending on salaries, wages and benefits increased nearly 20% in the first half of this year from the year-earlier period.</p><p>There have been signs more recently that some of the pressure in trucking companies' efforts to recruit has eased as freight-shipping demand has cooled off.</p><p>The closely watched Cass Freight Index, issued by Cass Information Systems Inc., declined year-over-year in May and June, while truckers including Old Dominion and Yellow Corp. have reported slipping shipment counts.</p><p>Trucking companies hired about 73,000 workers in the 12 months ended in July, according to the Bureau of Labor Statistics, but the pace is slowing -- the 3,500 jobs added last month marked roughly half the payroll growth in June.</p><p>\"Recruiting and retaining drivers continues to be a challenge, but we are seeing improvement sequentially in our ability to recruit drivers,\" Adam Miller, chief financial officer of Knight-Swift Transportation Holdings Inc., the largest carrier in the truckload sector, said on a July 20 earnings conference call.</p>",
+  "published": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 670,
+          "end": 677
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.9524588,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.050000012,
+        "tagPositionWeight": 0.0024588108,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

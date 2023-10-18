@@ -1,0 +1,32 @@
+{
+  "_id": "370e232fc8f5cd81b7b83849215a17c7b99f8da778f1b4d545162bff78cb5ed7",
+  "feed": "wall-street-journal",
+  "title": "Google Delays Cookie  Removal to Late '23  ----  By Patience Haggin, Sam Schechner and Suzanne Vranica",
+  "text": "<p>   Google delayed its plan to scrap a technology that tracks web-browsing habits amid regulatory scrutiny and concerns from privacy advocates and the advertising industry over the search giant's approach to replacing the tool. </p><p>   On Thursday, the Alphabet Inc. unit said its Chrome internet browser will stop supporting a user-tracking technology called third-party cookies by late 2023, nearly two years later than its initial time frame of early 2022. </p><p>   Google said the delay would give it more time to get publishers, advertisers and regulators comfortable with the new technologies it is developing to enable targeted ads after cookies are phased out. </p><p>   \"While there's considerable progress with this initiative, it's become clear that more time is needed across the ecosystem to get this right,\" Google said. </p><p>   Google's decision reflects the challenges tech giants face as they try to address demands for stronger user-privacy protections without rattling the $455 billion online-ad ecosystem or inviting complaints that they are giving themselves special advantages. Apple Inc. has rolled out several major privacy updates for its devices this year, including a requirement that all apps get users' permission to track them. Google and Apple have each faced complaints from the ad industry that the changes will strengthen their own ad businesses. </p><p>   Earlier this week, the European Union said it is investigating Google's plan to remove cookies as part of a wide-ranging inquiry into allegations that Google has abused its prominent role in advertising technology. Google has separately pledged to give the U.K.'s competition watchdog at least 60 days' notice before removing cookies to review and potentially impose changes to its plan, as part of an offer to settle a similar investigation. That probe stemmed from complaints that Chrome's removal of cookies would give an advantage to ads on Google's own products, like YouTube or Search, where Google will still be able to do individual-level targeting. </p><p>   In the U.S., Google's cookie-replacement plan was raised in a December antitrust lawsuit against the company brought by Texas and nine other states. </p><p>   Google plays a central role in the online advertising ecosystem. It owns the dominant tools used to broker the sale of ads across the web. Cookies, small bits of code stored in web browsers to track users across the web, are widely used in the industry, including in Google's Chrome browser, which has 65% of the market globally, according to Statcounter. </p><p>   Google's delay was met with relief by advertisers and publishers, who will have more time to test and adapt to the technology that replaces cookies. Ellie Bamford, global head of media at RGA, a digital ad firm owned by Interpublic Group of Cos., said Google \"underestimated the fear that marketers had about what this would mean and the level of preparedness marketers need to have.\" </p><p>   Paul Bannister, chief strategy officer at blog network CafeMedia, said that since the most of digital advertising is powered by cookies, \"it's critical that the replacement technologies get things right. It's also critical to make sure that even more money doesn't go to the tech giants in the process.\" </p><p>   Google has been testing several tools to replace various functions of third-party cookies, as part of what it calls a privacy sandbox. The first, dubbed federated learning of cohorts, or Floc, is intended to allow advertisers to target cohorts of users with similar interests, rather than individuals, to protect their privacy. </p><p>   Initially, Google indicated it would allow advertisers to purchase ads for Floc in the second quarter as part of the tests. Google later shifted that time frame to the third quarter, ad executives said. </p><p>   Ad-industry players have also expressed skepticism about Google's claims that targeting ads with Floc is at least 95% as effective as cookie-based targeting. Google has \"struggled to build confidence in Floc,\" said Jayna Kothary, global chief technology officer at MRM, a marketing agency that is part of Interpublic Group of Cos. Most advertisers don't believe Floc is 95% as effective as cookies and \"the early experiments haven't proven this yet,\" she said. </p><p>   Google engineer Michael Kleber said at a conference in mid-May that the company is working out answers to how Floc should eventually work. \"We don't have that ready yet because we don't know what the answers are,\" Mr. Kleber said. </p><p>   Google said it plans to complete testing of all of its new cookie-replacement technologies, and integrate them into Chrome before late 2022. Then digital publishers and the digital advertising industry will have a nine-month period to migrate their services, during which time Google will monitor adoption and feedback. </p><p>   The final phaseout of cookies will happen over three months in late 2023, the company said, adding that it will publish a more detailed timeline. </p><p>   Two rival web browsers that promote privacy, Mozilla's Firefox and Brave, have said they aren't supporting Floc. Some prominent websites have debated whether to opt out of using the system. And the Electronic Frontier Foundation, a digital rights group, says Floc could be misused to help with device fingerprinting, a technique to identify specific web browsers without relying on cookies. That could potentially reveal sensitive information gleaned from web browsing, despite safeguards Google says it's building, the rights group says. </p><p>   On Thursday, Google said it is making progress in its work on technologies to hinder device fingerprinting via Chrome. </p><p>   --- </p><p>   Tripp Mickle contributed to this article. </p><p></p>",
+  "published": "2021-06-25T06:12:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1061,
+          "end": 1070
+        },
+        {
+          "start": 1230,
+          "end": 1235
+        },
+        {
+          "start": 1061,
+          "end": 1071
+        },
+        {
+          "start": 1061,
+          "end": 1066
+        }
+      ]
+    }
+  ]
+}

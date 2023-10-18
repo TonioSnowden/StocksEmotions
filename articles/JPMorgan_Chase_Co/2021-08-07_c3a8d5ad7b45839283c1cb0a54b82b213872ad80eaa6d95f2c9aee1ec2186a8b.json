@@ -1,0 +1,20 @@
+{
+  "_id": "c3a8d5ad7b45839283c1cb0a54b82b213872ad80eaa6d95f2c9aee1ec2186a8b",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- JPMorgan Wins Control Of China Unit",
+  "text": "<p>The fresh market access also follows a slump in foreign investor sentiment about China's financial markets, following regulatory pressure from Beijing on various sectors including technology and education.</p>",
+  "published": "2021-08-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "name": "JPMorgan Chase & Co.",
+      "offsets": [
+        {
+          "start": 13,
+          "end": 21
+        }
+      ],
+      "nexusId": "10009914"
+    }
+  ]
+}

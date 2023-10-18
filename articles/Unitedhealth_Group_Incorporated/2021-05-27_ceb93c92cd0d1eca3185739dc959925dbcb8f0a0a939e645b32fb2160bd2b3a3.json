@@ -1,0 +1,32 @@
+{
+  "_id": "ceb93c92cd0d1eca3185739dc959925dbcb8f0a0a939e645b32fb2160bd2b3a3",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street:  In Praise of the Dow  On Its 125th Year  Of Measuring the Market  ----  By Justin Lahart",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre>\n </pre><p>\n  The Dow Jones Industrial Average is 125 years old, and some people consider it an anachronism. Yet for all its supposed drawbacks, it has been a pretty good measure of the stock market. One reason might be that, unlike some of its upstart rivals, measuring the market is all that it seeks to do. </p><p>\n  With the exception of the Dow Jones Transportation Average, which was created a dozen years earlier, the Dow Jones Industrial Average is the longest-running index in the world. Since its start in 1896, it has put on a prodigious performance, rising from 40.94 to 34323.05, or 83,737%, a testament to how good an investment U.S. stocks have been over the long haul. </p><p>\n  The index is an oddly constructed measure of the market, though. When Charles Dow, the founding editor of The Wall Street Journal, first put it together, he simply added up the prices of its 12 original components. It is a bit different these days, with the sum of the prices of its 30 components divided by a divisor, but the same issue arises. The higher a stock's price is, the more weight it carries in the index. Thus UnitedHealth Group's stock, with a price of $413.21, accounts for 2,719 of the Dow's 34,312 points, while Apple's stock, at $126.85, counts for just 835. But Apple carries a stock market capitalization of $2.1 trillion, marking it as the largest company by market value in the world, compared with $390 billion for UnitedHealth Group. </p><p>\n  More recently constructed stock market indexes take a company's size into account. For most of its history, for example, the S&amp;P 500 was weighted by market capitalization, moving in 2005 to float adjustment, where only the value of shares available for public trading are counted. Inclusion in the Dow industrials is also more arbitrary than in size-weighted indexes, and it can be years before what have become very large companies are selected for addition. Meanwhile, some has-beens have hung on until the brink of bankruptcy. </p><p>\n  Yet the Dow industrials and the S&amp;P 500 have had strikingly similar trajectories. Over the past 30 years, for example, each has returned, with dividends reinvested, about 11% annually. And, let's face it, when normal Americans are asked how the market did today, they are as likely to answer in S&amp;P 500 percentage points as they are to answer questions about how hot it is out there in Celsius. Agree with it or not, the Dow industrials, like Fahrenheit, is the standard. </p><p>\n  It isn't the professional benchmark, of course. Fund managers are judged on their performance against those more-modern, size-weighted indexes -- primarily the S&amp;P 500. Moreover, thanks in large part to its odd construction, directly investing in the Dow isn't easy. The main exchange-traded fund tracking it, for example, has only about $30 billion under management. The largest of the S&amp;P 500 ETFs has more than 10 times that, and in sum the S&amp;P 500 has about $4.6 trillion indexed to it, according to S&amp;P Dow Jones Indices. </p><p>\n  But perhaps being neither a benchmark nor an investing product is in the Dow's favor. Additions and deletions to the Dow can generate a lot of excitement, for example, but because they have no consequence for index funds and the like, they don't force massive shifts of money that can cause stock prices to rise and fall of their own accord. Contrast that with the paroxysms that big additions to the S&amp;P 500, such as Tesla's entry into the index last year, can cause. Nor is there any incentive to make changes to the Dow to please big investors. Contrast that with the change from market-cap weighting to float-weighting that other indexes underwent -- an alteration that, while there are arguments for it, also made life easier for index products. </p><p>\n  The principle known as Goodhart's law, named after the British economist Charles Goodhart, holds that when a measure becomes a target, it ceases to be a good measure. The Dow, for all its faults, doesn't succumb to this. Long may it reign. </p><p></p>",
+  "published": "2021-05-27T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US91324P1021",
+      "name": "UnitedHealth Group Incorporated",
+      "offsets": [
+        {
+          "start": 1122,
+          "end": 1140
+        },
+        {
+          "start": 1437,
+          "end": 1455
+        },
+        {
+          "start": 1437,
+          "end": 1449
+        },
+        {
+          "start": 1122,
+          "end": 1134
+        }
+      ],
+      "nexusId": "10018613"
+    }
+  ]
+}

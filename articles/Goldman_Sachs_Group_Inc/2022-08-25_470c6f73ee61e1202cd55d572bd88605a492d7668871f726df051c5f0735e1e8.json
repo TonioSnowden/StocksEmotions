@@ -1,0 +1,58 @@
+{
+  "_id": "470c6f73ee61e1202cd55d572bd88605a492d7668871f726df051c5f0735e1e8",
+  "feed": "wall-street-journal",
+  "title": "Investors Aren't Buying the Oil Bulls' Message  ----  By Anna Hirtenstein",
+  "text": "<p>   Saudi Arabia and Goldman Sachs agree: Investors have the oil market all wrong. </p><p>   Money managers bracing for a global slowdown have pulled back from bets on oil and other commodities, helping push prices lower. But their focus on potentially waning demand isn't shared with some of the most powerful figures in the industry, or with investment banks, who point to a host of other reasons why prices should be higher. </p><p>   This week, Saudi Prince Abdulaziz bin Salman said the oil futures market has become increasingly disconnected from supply and demand for energy. Saudi Arabia is considering cuts to OPEC+ production to try to balance this, a move that other members of the oil cartel said they may also support. </p><p>   This suggestion drove oil prices higher, with Brent crude jumping nearly 4% Tuesday and extending the rise Wednesday. </p><p>   The median forecast among 22 Wall Street analysts surveyed by FactSet is for Brent crude oil, the global benchmark, to finish September at $115 a barrel. That contrasts with Wednesday's $101.77 a barrel. The most actively traded Brent crude futures are down about 2.6% in August, regaining some ground after trading as low as around $92 a barrel earlier this month. </p><p>   The market is irrational and the combination of decent demand, falling inventories and tight supply should be pushing prices up, Goldman Sachs analysts said in an Aug. 12 report. </p><p>   \"Almost any measure of investor participation in this space is dwindling, this is what gives us the confidence to say this is investor-led,\" said Jeff Currie, the bank's head of commodities research, referring to the recent price declines. </p><p>   Still, Mr. Currie said prices could rebound in the fall as markets get tighter. Goldman Sachs recently trimmed its fourth-quarter forecast for Brent prices to $125 from $130. </p><p>   Numerous industry executives, including the chief executives of Chevron Corp. and Shell PLC, have said recently that they expect the market to remain tight. </p><p>   Oil-price bulls point to limited investment in new oil fields due to the pandemic and environmental pressures. That has already led to a supply crunch, which should mean higher prices, they say. </p><p>   Some investors aren't persuaded. </p><p>   \"We've reduced our commodities allocation -- we still have some exposure but this has really decreased,\" said Shaniel Ramjee, a multiasset fund manager at Pictet Asset Management. \"It's about expectations about a global growth slowdown.\" </p><p>   Data from China this month added to concerns about global economic health, revealing a sharp slowdown in areas such as factory output and consumer spending. </p><p>   One important signal comes from exchange-traded funds and similar products that are often used by investors as an easy way to trade in and out of markets for raw materials. Exchange-traded products linked to commodities recorded their biggest outflow ever in July as investors pulled a net $11.2 billion out of the funds, according to BlackRock. </p><p>   The statistics date to 2012, and contrast with a total $280 billion in commodity-linked exchange-traded vehicles. Oil is a key holding for many of these vehicles, as are precious metals. Investors have withdrawn another $3.4 billion in August. </p><p>   In another sign of fading investor appetite, open interest, or the number of outstanding contracts, in Nymex-traded oil futures declined to the lowest level since December 2014 last week, according to CME Group. </p><p>   Similarly, bets on rising oil prices made by investors that use borrowed money, such as hedge funds, have fallen away. Net long positions held by leveraged funds in both Brent crude oil and in West Texas Intermediate, the U.S. oil benchmark, have shrunk to their lowest level since January 2016, according to research by bank SEB. </p><p>   Oil's turbulence is helping push money managers to reduce their holdings, according to Luc Filip, head of investments at SYZ Private Banking. The portfolios Mr. Filip helps manage have budgets for overall volatility, a large part which has been eaten up by the oil-price fluctuations. Brent has swung between $92.34 and $127.98 in the last six months. </p><p>   \"Look at the oil price. Look at general commodity indexes. They went through the roof, basically at the start of the war in Ukraine. Then they went down and then up again. There is so much uncertainty and volatility,\" Mr. Filip said. He recently halved his portfolios' commodities holdings. </p><p></p>",
+  "published": "2022-08-25T06:08:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999988,
+      "offsets": [
+        {
+          "start": 17,
+          "end": 24
+        },
+        {
+          "start": 17,
+          "end": 30
+        },
+        {
+          "start": 1312,
+          "end": 1325
+        },
+        {
+          "start": 1321,
+          "end": 1334
+        },
+        {
+          "start": 1691,
+          "end": 1704
+        },
+        {
+          "start": 1679,
+          "end": 1692
+        },
+        {
+          "start": 1321,
+          "end": 1328
+        },
+        {
+          "start": 1691,
+          "end": 1698
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.665204,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.25,
+        "tagPositionWeight": 0.91520417,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

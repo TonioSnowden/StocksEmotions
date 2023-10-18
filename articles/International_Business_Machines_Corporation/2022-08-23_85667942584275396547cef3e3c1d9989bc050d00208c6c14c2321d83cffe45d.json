@@ -1,0 +1,30 @@
+{
+  "_id": "85667942584275396547cef3e3c1d9989bc050d00208c6c14c2321d83cffe45d",
+  "feed": "wall-street-journal",
+  "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round; The company initially announced a $100 million Series C venture investment round in December",
+  "text": "<p>Heavyweight Silicon Valley investors like Andreessen Horowitz and New Enterprise Associates are betting that it can. The company currently has a private-market valuation of more than $1 billion. The new $99 million in funding came from existing investors Addition, Intel Capital and Foundation Capital.</p><p>\"Ray itself has a lot of momentum in the market,\" said Ben Horowitz, co-founder of Andreessen Horowitz, which led Anyscale's December fundraising round. Mr. Horowitz said large companies, like Facebook parent Meta Platforms Inc. and Uber Technologies Inc., generate a lot of data, but \"need a crystal ball to decipher it.\" And that is what Anyscale is offering, he said.</p><p>Businesses use Anyscale's tools to streamline the process of developing software that helps predict customer demand, target online ads, make product recommendations or run fraud-detection systems, among a wide range of other functions.</p><p>Ray, the company's open-source software released six years ago, is designed to link together the siloed computer and data technologies needed to build and run AI applications in a distributed system, Anyscale said. As they become more complex, these apps require access to a range of different data repositories, search capabilities, data processing and training models—and an ever-growing amount of computing power.</p><p>Anyscale charges for developer tools that run on top of Ray, designed to enable corporate technology teams to create large-scale AI applications on a laptop.</p><p>Thousands of businesses currently use Anyscale's free software, including Uber, International Business Machines Corp., Meta and Instacart Inc., Anyscale said. Vendors providing similar distributed-computing capabilities include DataStax Inc., which sells cloud-based distributed database technology that sits on top of open-source software. MapR Technologies Inc., which is owned by Hewlett Packard Enterprise Co., also sells data tools that operate on open-source software.</p><p>Anyscale hasn't disclosed adoption rates or revenue, but said it does have paying customers.</p><p>Han Li, a senior machine learning engineer at Instacart, said the grocery-delivery company is working to integrate Anyscale's open-source software into its in-house machine-learning tools—though it isn't a paying customer.</p><p>\"We want our machine-learning engineers to focus on the core algorithmic work,\" Ms. Li said. \"Ray enables them to run their models on very large data sets without having to get involved in the details of how to run a model on a large number of machines,\" she said.</p><p>Anyscale on Tuesday also unveiled a new platform with built-in security and cost-management tools, designed to help corporate technology teams build, manage and scale AI applications.</p><p>Ion Stoica, Anyscale's president and a co-founder as well as a professor of computer science at UC Berkeley, compared Ray to Microsoft Corp.'s Windows operating system—a platform that hosts a suite of apps, like Word, Excel and Outlook—but purpose built for AI applications.</p><p>Mr. Stoica is the executive chairman and former chief executive of Databricks, an AI startup he also co-founded that emerged from the university's computer lab and recently surpassed $1 billion in annualized revenue. Databricks similarly used momentum from its open-source software, released in 2019, to drive sales of its analytics, AI and other cloud-based tools designed to help companies mine insights from business data—and to attract deep-pocketed investors.</p><p>Despite market disruptions—including higher interest rates and rising inflation—global spending on AI software is expected to reach $62.5 billion by the end of 2022, an increase of 21% from 2021, according to information-technology research and consulting firm Gartner Inc.</p><p>It said most companies currently experimenting with AI struggle to integrate these capabilities into day-to-day operations. Gartner predicts that only about half of the world's businesses will reach a mature level of AI adoption—what it calls a \"stabilization stage\"—by 2025.</p><p>Mr. Nishihara, Anyscale's CEO, said demand for AI is driving a fast-growing market, while making it more computing-power intensive. By positioning the company to supply the underlying infrastructure and tools for that rapid growth, he said, Anyscale has an enormous market opportunity. \"The bet is that AI is going to be huge,\" he said.</p><p>Write to Angus Loten at angus.loten@wsj.com</p><p>AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round</p>",
+  "published": "2022-08-23T13:15:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.8,
+      "offsets": [
+        {
+          "start": 1555,
+          "end": 1592
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.8145066,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.18549377,
+        "tagPositionWeight": 3.5762787e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 7
+    }
+  ]
+}

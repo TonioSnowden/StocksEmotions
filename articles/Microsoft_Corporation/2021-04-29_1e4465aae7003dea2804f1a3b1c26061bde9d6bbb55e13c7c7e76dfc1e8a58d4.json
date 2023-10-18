@@ -1,0 +1,32 @@
+{
+  "_id": "1e4465aae7003dea2804f1a3b1c26061bde9d6bbb55e13c7c7e76dfc1e8a58d4",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>\n  Microsoft Corp. said that sales of Surface laptops could be hurt by supply-chain issues in the current quarter. In some editions Wednesday, a Business &amp; Finance article about Microsoft's fiscal third-quarter results incorrectly said that supply-chain issues affected Surface sales in the most recent quarter. </p><p>\n  --- </p><p>\n  Notice to readers </p><pre>\n </pre><p>\n  Wall Street Journal staff members are working remotely during the pandemic. For the foreseeable future, please send reader comments only by email or phone, using the contacts below, not via U.S. Mail. </p><p>\n  --- </p><p>\n  Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667. </p><p></p>",
+  "published": "2021-04-29T06:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 175,
+          "end": 186
+        },
+        {
+          "start": 175,
+          "end": 184
+        },
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

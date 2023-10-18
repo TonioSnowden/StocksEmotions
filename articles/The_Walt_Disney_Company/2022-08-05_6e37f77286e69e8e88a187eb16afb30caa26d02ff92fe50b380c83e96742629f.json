@@ -1,0 +1,42 @@
+{
+  "_id": "6e37f77286e69e8e88a187eb16afb30caa26d02ff92fe50b380c83e96742629f",
+  "feed": "wall-street-journal",
+  "title": "Heard on the Street --  Paramount's Mission Impossible:  Topping Success of 'Top Gun' Sequel  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre> </pre><p>\n  It turns out there is only so much even Tom Cruise can do. </p><p>\n  \"Top Gun: Maverick\" gave a strong boost to Paramount Global's second-quarter results, reported Thursday morning. The company's theatrical revenue soared more than fivefold from the same period last year to $764 million -- 48% higher than Wall Street expected. But Paramount's much larger advertising business felt the weight of the global economic slowdown. Advertising revenue fell 2% to $2.5 billion. </p><p>\n  Streaming was a mixed picture. The company added 3.7 million subscribers to its flagship Paramount+ service after accounting for removed Russia accounts, which is the lowest number of additions since the launch of the revamped service early last year. But that was a little above analysts' forecasts -- and contrasts sharply with the nearly one million subscribers streaming leader Netflix lost during the same quarter. Still, that growth comes at a cost, as Paramount's direct-to-consumer segment lost $445 million during the quarter, and the company reminded investors that it expects losses there to continue to mount through next year. </p><p>\n  But Paramount's theatrical business stole the show this past quarter -- a notable contrast with other established media companies that embraced streaming. The new \"Top Gun\" is a bona fide smash hit, having exceeded $1.3 billion at the global box office -- 37% above the inflation-adjusted total haul of its 1986 predecessor. </p><p>\n  And it is still going strong, having generated more than $8.4 million domestically in more than 3,000 theaters last weekend, 10 weeks after its release. </p><p>\n  That success validates Paramount's unusual decision to extend the 45-day release window now commonly observed for theatrical movies before shifting them to streaming. The new \"Top Gun\" has made more than $55 million at the domestic box office since its 45th day of release, according to Box Office Mojo. This year's next-highest grosser -- Disney's \"Doctor Strange in the Multiverse of Madness\" -- has made less than $5 million since it made its debut on Disney+ at day 47. </p><p>\n  But how much a single movie, even a mega-popular one, will help Paramount's streaming business remains in question. A recent batch of big-budget movies from Netflix hasn't helped the streaming pioneer break what seems a ceiling of about 222 million subscribers globally. Others in Hollywood also seem to be rethinking the value of blockbuster streaming budgets; Warner Bros. Discoveryrecently scrapped its already filmed \"Batgirl,\" electing for a tax write-off over putting a $90 million movie of reportedly poor quality onto its HBO Max service. </p><p>\n  And for Paramount, the question following such a success is: What comes next? \"Top Gun: Maverick\" is now an anomaly, having surpassed 1997's \"Titanic\" to become the studio's top grosser ever. Next year is expected to bring the seventh installment of Mr. Cruise's \"Mission Impossible\" franchise, the last of which grossed $787 million globally. Competing with himself will be Mr. Cruise's -- and Paramount's -- hardest mission yet. </p><p></p>",
+  "published": "2022-08-05T10:37:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1943,
+          "end": 1949
+        },
+        {
+          "start": 1957,
+          "end": 1963
+        },
+        {
+          "start": 2058,
+          "end": 2065
+        },
+        {
+          "start": 2072,
+          "end": 2079
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.75,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -0.25,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

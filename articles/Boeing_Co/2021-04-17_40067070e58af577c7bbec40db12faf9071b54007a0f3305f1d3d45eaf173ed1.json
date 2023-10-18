@@ -1,0 +1,48 @@
+{
+  "_id": "40067070e58af577c7bbec40db12faf9071b54007a0f3305f1d3d45eaf173ed1",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Business News: Boeing's MAX Jet Electrical Problem Expanded",
+  "text": "<p>Airlines have been eager to put their MAX jets back into service as they gear up for a busy summer, but carriers have said they have largely been able to manage without the planes by substituting other jets. Still, the newly discovered defect threatens to undermine airlines' and Boeing's efforts to restore passenger confidence in the aircraft. That challenge comes as the plane maker is also working to resolve quality issues that have dogged some of its other commercial and military jets.</p><p>The issue involved the electrical grounding path for the standby power unit in certain electronic systems on the plane. A change in how that unit was installed during production in early 2019 could have interrupted that grounding path; in some circumstances, that could affect how the backup power source operates, Boeing, the Federal Aviation Administration and airlines have said.</p><p>The same production changes also affected the grounding path of the aircraft's main instrument panel and the rack that houses the standby power unit, Boeing found during its recent assessments. Those areas must be inspected and modified as well, Boeing said.</p><p>The issue stems from the use of a paint coating that could potentially disrupt the grounding pathways, people familiar with the matter said.</p><p>Federal regulators haven't seen the problem as an immediate safety matter since it affects a backup system. Carriers including Southwest Airlines Co. and American Airlines Group Inc. said they hadn't experienced any operational issues relating to the potential problem before they grounded the planes last week.</p><p>Boeing said it is working with customers on service bulletins that focus on ensuring a sufficient ground path in the flight deck of affected jets.</p><p>It couldn't be learned when Boeing will formally submit its proposed fix to regulators. Airlines have said they believe the solution should be straightforward, and one of the people said it would likely take around two days per aircraft. \"The FAA will thoroughly review any proposed fix that Boeing presents to us,\" the agency said Friday.</p><p>Aviation Week reported earlier Friday that grounding issues had been found in other areas of the affected aircraft.</p>",
+  "published": "2021-04-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 28,
+          "end": 34
+        },
+        {
+          "start": 1763,
+          "end": 1769
+        },
+        {
+          "start": 808,
+          "end": 814
+        },
+        {
+          "start": 1026,
+          "end": 1032
+        },
+        {
+          "start": 1588,
+          "end": 1594
+        },
+        {
+          "start": 2027,
+          "end": 2033
+        },
+        {
+          "start": 1122,
+          "end": 1128
+        },
+        {
+          "start": 280,
+          "end": 286
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

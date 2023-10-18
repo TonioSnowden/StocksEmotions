@@ -1,0 +1,30 @@
+{
+  "_id": "0f13733e7df0146ac3ae29b8a03e374fb4d58e8a98c21491b13b7c7d86aefb6a",
+  "feed": "reuters",
+  "title": "UPDATE 4-Starbucks misses sales estimates on China COVID curbs, suspends guidance",
+  "text": "<p>May 3 (Reuters) - Starbucks Corp suspended its guidance for the rest of its fiscal year on Tuesday as sales growth missed Wall Street targets due to China's tough COVID-19 curbs.</p><p>Comparable sales in China, where the chain has rapidly expanded in recent years to tap rising coffee consumption, declined 23%, overshadowing 12% growth in North America.</p><p>China's strict lockdown measures to meet its zero-COVID policy have upended operations of most global companies that have a significant presence in the Chinese market, including Apple , Gucci-parent Kering and Taco Bell -owner Yum China .</p><p>\"I remain convinced Starbucks ' business in China will be eventually larger than our business in the U.S.,\" Chief Executive Officer Howard Schultz said in a call with investors.</p><p>The company expects \"even greater impact\" to its third-quarter results because of the timing of lockdowns in Shanghai and resurgence of the virus in Beijing and other cities.</p><p>Even so, demand in its U.S. stores has been \"relentless,\" Schultz said. Shares rose 5% in extended trading following the results.</p><p>\"Demand and revenue are key drivers,\" said Ivan Feinseth , chief investment officer at Tigress Financial Partners. Tigress owns Starbucks stock on behalf of clients and accounts it manages. \"Everything is going well in spite of the pandemic and strength in the United States offset the weakness in China.\"</p><p>Global comparable sales at Starbucks , which recently brought Schultz back to lead the company amid a wave of unionization at its U.S stores, rose 7% in the second quarter, while analysts polled by Refinitiv had expected 7.1% growth.</p><p>UNION APPROACH</p><p>More than 50 U.S. cafes have elected to join the Workers United union out of roughly 240 altogether that have sought to hold elections since August.</p><p>Despite already raising wages since last year, the company will invest an additional $200 million in fiscal 2022 to lift pay for store managers, increase training, revitalize its \"Coffee Master\" program for baristas and launch an internal app to communicate directly with its 240,000 U.S. employees.</p><p>The company will also accelerate the rollout of new ovens and espresso machines and speed up maintenance and repairs. And it will update its consumer-facing app to give customers more accurate times to pick up their beverages.</p><p>The new money will bring total investments in employees and cafes to $1 billion this fiscal year alone.</p><p>Schultz also said customers will be able to start adding tips to their credit and debit card purchases by late 2022, something that baristas at unionized stores in Buffalo, New York, asked for at the bargaining table.</p><p>\"Federal law prohibits us from promising new wages and benefits at stores involved in union organizing. And by law, we cannot implement unilateral changes at stores that have a union,\" Schultz said, adding that \"the union contract will not even come close to what Starbucks offers.\"</p><p>Schultz said his latest term as CEO will be temporary and that he and the board hope to name a successor by the autumn, with the aim for that person to take over entirely by the first calendar quarter of 2023. Schultz plans to remain on the board afterwards.</p><p>Higher costs for labor, freight and commodities ate into North American operating margins, which contracted to 17.1% from 19.3% in the prior year.</p><p>Total net revenue rose to $7.64 billion from $6.67 billion a year earlier, as the company opened 313 net new stores during the quarter. Analysts had expected $7.59 billion in quarterly revenue.</p>",
+  "published": "2022-05-03T22:48:11.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999882,
+      "offsets": [
+        {
+          "start": 528,
+          "end": 533
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0101333,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.010133266,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

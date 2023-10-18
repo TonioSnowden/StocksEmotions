@@ -1,0 +1,30 @@
+{
+  "_id": "0626b11d62585afc28dc7eac0b1ebe29deb45696f44f65b83333036800cb6dc2",
+  "feed": "wall-street-journal",
+  "title": "U.S. Expects to Use All Employment-Based Green Cards This Year; Government avoided a repeat of 2021 when thousands of green cards went unused; backlog of more than one million applicants remains",
+  "text": "<p>The Covid-19 pandemic created a once-in-a-generation opportunity where, for the past two years, about double the usual number of green cards became available.</p><p>The bumper crop in green cards came about because of a quirk in immigration law, where if any green cards in the family-based visa category go unused, those numbers switch over to the employment-based category the following year.</p><p>The situation represented a prime opportunity for Indian applicants, many of them working in the tech sector, who make up the most of the 1.4 million-person backlog but who must wait years longer than applicants of other nationalities because the number of slots allotted to each country is capped.</p><p>Last year, U.S. Citizenship and Immigration Services had 120,000 extra employment-based green cards available over the usual number. Because of severe understaffing at the agency and numerous backlogs, however, they didn't process 68,000 of those in time. Any green cards that go unused by the end of a fiscal year go to waste.</p><p>The prospect of that happening again this year created fear among immigrant advocates, Indian-American groups and their employers, typically large tech or financial companies.</p><p>A group of private lawyers, working under an umbrella organization known as IMMpact litigation, filed a class-action lawsuit in July to try to force the government to reserve unused slots.</p><p>U.S. Citizenship and Immigration Services director Ur Jaddou said in an interview that she made not wasting a single employment-based green card one of her priorities for the year, and changed several of the agency's processes to get it done.</p><p>\"We know so many people have been waiting and so many people have been nervous about another loss-of-visa situation, and those are real people,\" she said.</p><p>Though about double the overall number of green-card applicants got approved this year, Indians make up about 95,000 of those approvals, roughly five times the number than in a typical year.</p><p>Her agency also took a controversial approach. Rather than processing green-card applications by the date they were filed, the agency processed the easiest applications first, meaning some applicants who filed a few years ago might not receive green cards while others who filed a few months ago will. Because the immigration agency runs almost entirely on pen and paper, such choices often come down to whose physical files are the most accessible, or don't have lost components.</p><p>\"We're pleased USCIS heeded the call not to waste visas in 2022, but strongly object to the irrational order by which they used these visas,\" said Jesse Bless, one of the lawyers on the IMMpact litigation team.</p><p>Indian immigrant and Atlanta resident Anand Natarajan, a software engineer for Intercontinental Holdings, the parent company of the New York Stock Exchange, is one of the unlucky applicants. He moved to the U.S. in 2007 on an H-1B visa and filed his green-card application in September 2021, the final step in a decadelong process.</p><p>Meanwhile, he and his wife, also a software engineer, had two American-born boys. Without green cards, they can't return to India, where Mr. Natarajan's mother is about to undergo surgery and his wife's mother has declining health. The boys haven't seen their grandmothers in six years.</p><p>Now, Mr. Natarajan's green-card category is full for the year and he hasn't been told why his application wasn't approved, though several of his colleagues who filed applications in the past few months have been approved.</p><p>The pressure on Mr. Natarajan to tend to his family in India but not abandon the green-card process in the U.S. is becoming too great.</p><p>\"I have sleepless nights,\" he said. \"I've become depressed in a way.\"</p><p>The recent spate of unused family-based green cards has occurred because most applicants for them—typically siblings or adult children of U.S. citizens—are living abroad when they apply, and during the Covid pandemic, U.S. consulates abroad severely curtailed green-card appointments. As a result, family-based applicants from countries such as Mexico, the Dominican Republic or the Philippines, who already face multiple-decade waits, were pushed further back in line.</p><p>Though consulates are once more issuing green cards at near prepandemic levels, the government estimated that it didn't use about 60,000 available family-based green cards, meaning those will spill over to the employment-based category beginning in October.</p><p>Write to Michelle Hackman at michelle.hackman+1@wsj.com</p><p>U.S. Expects to Use All Employment-Based Green Cards This Year</p>",
+  "published": "2022-09-08T09:00:00.000Z",
+  "tags": [
+    {
+      "id": "US92826C8394",
+      "nexusId": "10063253",
+      "name": "Visa Inc.",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 285,
+          "end": 289
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.1093626,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.1093626,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

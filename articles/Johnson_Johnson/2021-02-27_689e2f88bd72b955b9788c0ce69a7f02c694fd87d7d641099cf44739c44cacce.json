@@ -1,0 +1,20 @@
+{
+  "_id": "689e2f88bd72b955b9788c0ce69a7f02c694fd87d7d641099cf44739c44cacce",
+  "feed": "wall-street-journal",
+  "title": "World-Wide",
+  "text": "<p>Johnson &amp; Johnson 's single-dose Covid-19 vaccine worked safely and should be authorized for use in the U.S., a panel of experts advised federal health regulators.</p><p>Evidence is growing that U.S. vaccination efforts are helping to keep vulnerable nursing-home residents alive.</p><p>WHO coronavirus investigators are seeking information about a second food market in the Chinese city of Wuhan.</p><p>---</p><p>Senate Democrats began preparing a backup plan for raising the minimum wage at some large companies as part of their coronavirus relief package, as the House was set vote on an aid bill.</p><p>---</p><p>U.S. airstrikes in Syria targeted an important way station in an Iranian network used to move weapons and fighters across the Middle East.</p><p>---</p><p>Gunmen kidnapped 317 girls from a boarding school in Nigeria, police said, the latest in a rising tide of high-school abductions.</p>",
+  "published": "2021-02-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ]
+    }
+  ]
+}

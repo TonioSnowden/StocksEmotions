@@ -1,0 +1,28 @@
+{
+  "_id": "e8f2a7154cc00626deec42698c3307055d389f629d8f4ed588f20d47389542aa",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Tech Giant Readies Privacy Measures",
+  "text": "<p>Apple users early this spring will see the new feature, which will allow ad tracking only if consumers opt in once they receive a prompt on an iPhone or iPad. (A beta version will be coming sooner for test users.)</p><p>The software update to its mobile operating system would make it so that Facebook or other companies would no longer be able to collect a person's advertising identifier without permission.</p><p>Chief Executive Tim Cook is slated to speak Thursday on the topic of data privacy at the Computers, Privacy and Data Protection conference.</p><p>Mr. Zuckerberg, whose company has been sued by the Federal Trade Commission and 46 states over anticompetitive claims, sought to cast Apple's privacy moves as a means to use its platform to put Facebook at a disadvantage. Apple, too, has faced claims from tech rivals that its practices are anticompetitive. Both tech giants have denied wrongdoing.</p>",
+  "published": "2021-01-28T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 766,
+          "end": 771
+        },
+        {
+          "start": 678,
+          "end": 683
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

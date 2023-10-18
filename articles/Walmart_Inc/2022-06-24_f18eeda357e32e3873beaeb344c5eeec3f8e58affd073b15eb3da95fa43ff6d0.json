@@ -1,0 +1,52 @@
+{
+  "_id": "f18eeda357e32e3873beaeb344c5eeec3f8e58affd073b15eb3da95fa43ff6d0",
+  "feed": "wall-street-journal",
+  "title": "Business News: Walmart Steps Up Cloud Capability",
+  "text": "<p>\"The hybrid cloud allows us to be able to draw the best that the public cloud providers can offer and to be able to combine that with something that is really purpose-built for us,\" Walmart Global Chief Technology Officer Suresh Kumar said.</p><p>The new technology has helped the retailer reduce cloud costs and boost performance -- a feat that can be difficult with existing software or capabilities at most companies.</p><p>Walmart's move points to a broader shift happening in the cloud industry as companies have sought to gain more independence from large cloud providers. For the past two years, the company has been building out a network of servers that sit at Walmart stores and in its distribution facilities.</p><p>The company said it now has 10,000 of what it refers to as its edge nodes across the U.S. Walmart has also built custom software that allows it to run its back end operations across any cloud system, the company said.</p><p>For the past decade, the movement to the cloud has been an enormous shift in information technology, as billions of dollars in spending shifted away from organizations buying and maintaining their own data centers to a model of renting those computers from third-party vendors. Three U.S. vendors -- Amazon.com Inc., Microsoft and Google -- dominate the business, accounting for 65% of the global market, according to market research firm Synergy Research Group.</p><p>Their clout only grew during the pandemic as organizations rushed to facilitate remote work.</p><p>But now, as they move to cut costs and get access to the best technology, companies are trying to grab more control back from the cloud giants. One popular emerging strategy has been the use of multiple clouds instead of relying on a single vendor. Others are seeing the benefits of controlling costs by investing in their own server networks.</p><p>\"What many enterprises are doing is diversifying,\" said Eric Burgener, research vice president at market researcher International Data Corp. \"They have two or more public cloud providers and maintain their own infrastructure.\"</p><p>Walmart said its cloud system has saved the company between 10% and 18% in annual cloud spending and has helped reduce cloud outages. The company's servers help increase the speed in which particular applications can be accessed. One possible use in stores would be to help employees use augmented or virtual reality in their work.</p><p>As one of the largest consumers of cloud computing, Walmart has long been strategic about how it tries to stay independent from cloud giants.</p><p>In 2017, Walmart told some enterprise software vendors that if they wanted Walmart's business, they couldn't run their product on Amazon's cloud and suggested Microsoft as an alternative, The Wall Street Journal reported.</p>",
+  "published": "2022-06-24T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "offsets": [
+        {
+          "start": 2438,
+          "end": 2445
+        },
+        {
+          "start": 415,
+          "end": 422
+        },
+        {
+          "start": 658,
+          "end": 665
+        },
+        {
+          "start": 2537,
+          "end": 2544
+        },
+        {
+          "start": 2603,
+          "end": 2610
+        },
+        {
+          "start": 799,
+          "end": 806
+        },
+        {
+          "start": 182,
+          "end": 189
+        },
+        {
+          "start": 2054,
+          "end": 2061
+        },
+        {
+          "start": 15,
+          "end": 22
+        }
+      ]
+    }
+  ]
+}

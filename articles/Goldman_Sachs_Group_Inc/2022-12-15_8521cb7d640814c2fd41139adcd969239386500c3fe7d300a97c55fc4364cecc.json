@@ -1,0 +1,33 @@
+{
+  "_id": "8521cb7d640814c2fd41139adcd969239386500c3fe7d300a97c55fc4364cecc",
+  "feed": "reuters",
+  "title": "Australian lithium miners dive as prices dip in December ore auction",
+  "text": "<p>Investors took flight as Pilbara Minerals said before the bell on Thursday that its average monthly auction price in December stood at $7,552 per dry metric tonne (dmt), down from $7,805 a month earlier.</p><p>The miner sold two cargoes via its digital Battery Material Exchange with a combined total of 10,000 dmt, versus a single cargo of 5,000 dmt in November.</p><p>Lithium stocks including Pilbara Minerals have rallied since late 2020, buoyed by warnings that there was lack of lithium to meet the global rush for installing batteries and putting electric vehicles on roads.</p><p>Prices for spodumene concentrate have risen more than five times since late 2020, according to data from Benchmark Minerals Intelligence.</p><p>But softening chemical prices in China, a dip in lithium futures on the Wuxi Stainless Steel Exchange and worries a 2023 recession could weigh on electric vehicles' sales are weighing on lithium stocks, said an analyst who asked not to be named.</p><p>Brokers are cooling on the sector, with Goldman Sachs cutting price estimates for lithium batteries by 10% in November.</p><p>Initiating coverage on Thursday, Morgans gave Pilbara Minerals a \"hold\" rating, saying the sector's volatility outweighed any upside in the stock.</p><p>\"We think increasing macroeconomic headwinds and committed production growth make this [bullish scenarios] less likely.\"</p><p>Pilbara Minerals said the cargoes would be delivered from late January 2023.</p>",
+  "published": "2022-12-15T07:21:18.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 993,
+          "end": 1000
+        },
+        {
+          "start": 993,
+          "end": 1006
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000974,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 9.739399e-05,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

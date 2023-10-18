@@ -1,0 +1,34 @@
+{
+  "_id": "64b1c4ee3cec4e5a9e165e682756a85d8e533ad038f3fdbebe8282b49b007609",
+  "feed": "wall-street-journal",
+  "title": "VidMob, Which Makes Software for Marketers, Raises $110 Million; The Series D funding round led by Shamrock Capital will help the company expand its platform for data-led creativity in advertising and other brand work",
+  "text": "<p>VidMob has now raised $210 million and is valued at close to $500 million, according to people familiar with the matter. The company was valued at $290 million when it closed its Series C round in 2021, people familiar with the matter said at the time.</p><p>The company employs 350 people, it said.</p><p>Founded in 2014, New York-based VidMob says its software helps marketers analyze the quality of the creative content in their digital ads and use data and other insights to help improve the performance of the advertising.</p><p>VidMob works with companies including ByteDance Ltd.'s TikTok, Snap Inc. and Meta Platforms Inc.'s Facebook and Instagram to help marketers make ads for those platforms. VidMob also works directly with clients such as L'Oreal, Johnson &amp; Johnson and Anheuser-Busch InBev, along with advertising holding companies and agencies of various sizes.</p><p>VidMob says its services can help marketers amid budget cuts and challenges to online ad targeting.</p><p>\"When you're spending less on the media side, you have to regain the performance\" to avoid hurting top-line results, VidMob CEO and founder Alex Collmer said.</p><p>The company's place in an uncertain macroeconomic environment made it an attractive proposition for some investors.</p><p>\"When you think about all of the uncertainty, macro pressures, scrutiny around advertising budgets, there's a shift to performance, a shift to really wanting to be smarter about your dollars in this environment,\" said Laura Held, a partner at Shamrock Capital.</p><p>VidMob intends to use the new funding to help build a platform that would help businesses centralize creative activities and provide data-informed creative in paid advertising and other areas, such as emails or product detail pages on commerce sites.</p><p>Mr. Collmer said closing the round was challenging given the current financial backdrop.</p><p>\"I think in other markets, I would have expected that to be fairly easy, in a sense,\" he said. He said that in late spring and early summer, some of the funds the company was talking to were saying they liked the business but didn't know how to value anything in this market. \"It was definitely a difficult environment,\" he said.</p><p>Write to Megan Graham at megan.graham@wsj.com</p><p>VidMob, Which Makes Software for Marketers, Raises $110 Million</p>",
+  "published": "2022-08-17T11:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 738,
+          "end": 755
+        },
+        {
+          "start": 743,
+          "end": 760
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8062464,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0012464523,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

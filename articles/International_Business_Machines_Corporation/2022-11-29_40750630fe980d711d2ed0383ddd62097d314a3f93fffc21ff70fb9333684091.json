@@ -1,0 +1,30 @@
+{
+  "_id": "40750630fe980d711d2ed0383ddd62097d314a3f93fffc21ff70fb9333684091",
+  "feed": "reuters",
+  "title": "Maersk , IBM discontinue shipping blockchain platform",
+  "text": "<p>\"While we successfully developed a viable platform, the need for full global industry collaboration has not been achieved,\" the company said in a statement.</p>",
+  "published": "2022-11-29T16:15:03.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "confidence": 0.9999766,
+      "offsets": [
+        {
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

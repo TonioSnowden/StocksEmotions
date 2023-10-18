@@ -1,0 +1,110 @@
+{
+  "_id": "4e1ae4f8ddb372fe6d731da7d26e21e71bcbda44d27707741212553b3c3178de",
+  "feed": "wall-street-journal",
+  "title": "Disney May Give Dan Loeb Sequel Fatigue; Activist investor's new wish list for the Magic Kingdom will be much harder to grant",
+  "text": "<p>That move came when investors were keen on any effort to boost streaming viewers as the pandemic was still keeping movie theaters and theme parks closed and consumers stuck at home. But Wall Street's view has since evolved, as streaming viewers seem to be getting pickier and streaming operators are now expected to focus on earnings and cash flow. So some of Mr. Loeb's latest suggestions for Disney, such as cutting costs and paying down debt, will find a receptive audience and are achievable. But others—like spinning off sports network ESPN and buying the rest of Hulu—will be much harder to pull off.</p><p>Take Hulu. The streaming service is 67% owned by Disney now. Comcast's NBCUniversal, which owns the remaining stake, is also one of Disney's competitors in streaming with its Peacock service. The deal between the two companies essentially lets either side force a sale of the remaining stake to Disney starting in January of 2024. And the price would be the highest of whatever equity value Hulu is assigned at the time, or using a \"guaranteed floor value\" for the service of $27.5 billion, making the Comcast stake by that measure worth at least $9.1 billion.</p><p>In a letter to Disney management on Monday, Mr. Loeb said the company should \"make every attempt\" to acquire the Hulu stake now, given the potential cost savings and revenue synergies that could arise from Disney integrating the service more closely with Disney+. He even voiced support for Disney paying a \"modest\" premium to do so, but left the amount vague.</p><p>But Disney has a lot of demands on its cash now, and Comcast would have little reason to sell given the sharp drop in market values for streaming companies over the past year. And since Disney can still buy Hulu in early 2024, a deal now would only move up the timetable of benefits by about a year. Analyst Michael Nathanson of MoffettNathanson wrote Monday that \"a one-year quicker start is nice, but we wouldn't think Comcast would be generous in giving Disney that option.\" Mr. Loeb himself conceded that Comcast \"may have an unreasonable price expectation\" when it comes to the Hulu stake.</p><p>Spinning off ESPN could be an even harder sell. Mr. Nathanson says the importance of cash flow from ESPN and Disney's other linear networks would make it \"financially dangerous\" for the company to divest any of them at this time. ESPN is also now a key part of Disney's streaming bundle, which offers subscribers the option to have Disney+, Hulu and ESPN at a single monthly rate. And while Mr. Loeb said such offerings could still be covered with contractual arrangements, losing control of ESPN could still introduce uncertainty among consumers over Disney's ability to offer that bundle. Analyst Jason Bazinet of Citigroup wrote Monday that Disney should use all its brands and assets \"to come as close as possible to replicating the economics of the linear TV business model.\"</p><p>That leaves Mr. Loeb's final suggestion: refreshing the Disney board. He didn't single out any current members, but noted that \"there are gaps in talent and experience as a group that must be addressed.\" It is the point Disney seemed most sensitive to. In a statement Monday, the company didn't address Mr. Loeb's other suggestions, but defended its board as having \"significant expertise in branded, consumer-facing and technology businesses as well as talent-driven enterprises.\" Disney's proxy season is still months away, giving that controversy plenty of time to escalate—or abate. But Mr. Loeb says he has a list of alternatives ready for the company to consider.</p><p>He usually isn't one to take \"no\" for an answer.</p><p>Disney May Give Dan Loeb Sequel Fatigue</p>",
+  "published": "2022-08-16T12:54:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 392,
+          "end": 398
+        },
+        {
+          "start": 394,
+          "end": 400
+        },
+        {
+          "start": 651,
+          "end": 657
+        },
+        {
+          "start": 733,
+          "end": 739
+        },
+        {
+          "start": 895,
+          "end": 901
+        },
+        {
+          "start": 1174,
+          "end": 1180
+        },
+        {
+          "start": 1365,
+          "end": 1371
+        },
+        {
+          "start": 1414,
+          "end": 1421
+        },
+        {
+          "start": 1449,
+          "end": 1455
+        },
+        {
+          "start": 1459,
+          "end": 1465
+        },
+        {
+          "start": 1522,
+          "end": 1528
+        },
+        {
+          "start": 1703,
+          "end": 1709
+        },
+        {
+          "start": 2217,
+          "end": 2223
+        },
+        {
+          "start": 2368,
+          "end": 2374
+        },
+        {
+          "start": 2439,
+          "end": 2446
+        },
+        {
+          "start": 2658,
+          "end": 2664
+        },
+        {
+          "start": 2676,
+          "end": 2682
+        },
+        {
+          "start": 2941,
+          "end": 2947
+        },
+        {
+          "start": 2961,
+          "end": 2967
+        },
+        {
+          "start": 3363,
+          "end": 3369
+        }
+      ],
+      "weightsV2": {
+        "weight": 27.0,
+        "baseWeight": 21.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "58e44fdfeaa80e302da481e75f19c3e064c6cf002abc12cb76092207f3a41bc3",
+  "feed": "market-watch",
+  "title": "Here's what analysts are saying ahead of the 'coin-toss' ECB interest-rate decision",
+  "text": "<p>\"The outcome is near a coin toss, but ultimately we sit (just) on the 50 basis points hike side for September's decision,\" say analysts at TD Securities. \"Both outcomes are likely to share the same broad narrative and end-point; the question is more about a strategy of 75/50/25 vs 50/50/50 hikes for the rest of 2022's policy decisions.\"</p><p>The ECB decision will be announced Thursday at 2:15 p.m. Central European time, or 8:15 a.m. Eastern. The press conference with ECB President Christine Lagarde starts at 2:45 p.m. local time.</p><p>For the beleaguered euro, even a 75-point hike might not be enough. \"50 basis points would disappoint the euro, but 75bp would not necessarily be enough to support it. Communication will be key and the ECB will have to come across as strongly committed to fighting high inflation,\" said rates and currency analysts at Bank of America. While the euro will have a tough time rallying against the dollar, the BofA analysts say it could appreciate vs. the Swiss franc and the British pound.</p><p>Here's what other analysts are saying ahead of the meeting:</p><p>ABN Amro: \"Our thinking right now is that we will see a total of 75bp of rate hikes after that. That could come in one further step of 75bp in October, or be spread out over October and December. We still expect an ECB pivot around the turn of the year, reflecting our judgement that the eurozone economy is heading for significant contraction.\"</p><p>Citi: \"A striking feature of communication by European central bankers recently is the shift in emphasis towards inflation expectations, both as an input and an output of their policies. That shift makes, in our view, policy considerably more difficult to calibrate for policymakers. It makes it also more difficult to anticipate accurately beyond a short horizon.\"</p><p>Goldman Sachs: \"We expect the Governing Council to step up the pace of tightening and raise policy rates by 75bp at the September meeting. The inflation picture has deteriorated further since the July meeting, with core inflation rising to 4.3% year-on-year, a further broadening of underlying price pressures and slightly higher survey inflation expectations. The new staff projections are therefore likely to show a large upgrade to the 2022-23 inflation forecasts. While the ECB staff look set to cut their growth projections sharply in light of slowing momentum and the ongoing energy crisis, we expect the new projections to stop short of showing a technical recession.\"</p><p>Morgan Stanley: \"The key decision at the upcoming meeting will be between a 50bp or 75bp hike. We think it is a very close call, with good arguments on each side, but ultimately think those advocating for a larger hike will prevail as September offers the best opportunity to send a clear signal of determination. Be it 50bp or 75bp, we think the ECB's terminal rate will be the same and we see the ECB hiking cycle ending at 2% in March.\"</p><p>SocGen: \"Given the threat to the ECB's credibility, we also wonder why quantitative tightening (QT) is not discussed. As we argued in the past, not using QT should imply higher rate hikes. The greatest risk of raising rates by 75bp now is that the ECB may need to trigger the TPI soon (with the Italian long-term yield already close to 4%). This, along with an uncertain growth outlook and a low neutral rate (1%), will be stressed by the doves who might put up more of a fight than in July (also as there is no TPI to compromise on).\"</p><p>Here's what analysts are saying ahead of the 'coin-toss' ECB interest-rate decision</p>",
+  "published": "2022-09-07T14:28:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.999856,
+      "offsets": [
+        {
+          "start": 1776,
+          "end": 1789
+        },
+        {
+          "start": 1791,
+          "end": 1798
+        },
+        {
+          "start": 1790,
+          "end": 1803
+        },
+        {
+          "start": 1790,
+          "end": 1797
+        },
+        {
+          "start": 1791,
+          "end": 1806
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.85,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.1500001,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

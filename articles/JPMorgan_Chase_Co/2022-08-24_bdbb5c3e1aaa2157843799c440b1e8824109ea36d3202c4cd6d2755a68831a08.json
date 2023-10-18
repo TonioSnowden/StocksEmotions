@@ -1,0 +1,50 @@
+{
+  "_id": "bdbb5c3e1aaa2157843799c440b1e8824109ea36d3202c4cd6d2755a68831a08",
+  "feed": "market-watch",
+  "title": "Institutional investors are looking to sell stocks after summer rally, JPM survey finds",
+  "text": "<p>According to the results, which were published by the bank Wednesday morning, only 38% of the bank's clients are looking to increase their exposure to equities, a sharp decline from one month ago, when more than 70% of clients said they were looking to put more money back to work in the market.</p><p>The answer comes as investors are waiting to hear from Federal Reserve Chairman Jerome Powell, who is expected to speak from the Kansas City Fed's annual economic symposium in Jackson Hole, Wyoming on Friday.</p><p>Over the past week, Fed funds futures markets have shifted toward anticipating the Fed will raise its benchmark interest rate by 75 basis points once again when it next meets in late September. Just one week ago, traders were anticipating a hike of just 50 basis points, according to the CME's FedWatch tool.</p><p>Meanwhile, JPM clients on average said their current equity exposure is roughly 44% of their highest historical level, meaning buy-side firms still have plenty of dry powder to put back to work in stocks.</p><p>Moving away from markets, the survey also included a question about investors' expectations for the outcome of the U.S. mid-term elections, which could decide control of both the House and the Senate.</p><p>A plurality of respondents (38%) said they expect Republicans to emerge with control of both the House and the Senate, wresting both chambers away from the Democrats.</p><p>By comparison, only 13% said they expect Democrats to retain control of both chambers of Congress.</p><p>A representative for JPMorgan didn't respond when asked how many clients participated in the survey.</p><p>U.S. stocks pulled back this week after the S&amp;P 500 SPXrallied more than 17% since hitting its lowest level of the year in mid-June. All three main benchmarks — the S&amp;P 500, the Nasdaq Composite COMP and the Dow Jones Industrial Average DJIA — were trading higher on Wednesday. The Nasdaq was in the lead Wednesday with a gain of 0.9%, while the S&amp;P 500 was up 0.6% and the Dow up 0.5%.</p><p>Institutional investors are looking to sell stocks after summer rally, JPM survey finds</p>",
+  "published": "2022-08-24T15:46:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.9997696,
+      "offsets": [
+        {
+          "start": 71,
+          "end": 74
+        },
+        {
+          "start": 821,
+          "end": 824
+        },
+        {
+          "start": 825,
+          "end": 828
+        },
+        {
+          "start": 1499,
+          "end": 1507
+        },
+        {
+          "start": 1507,
+          "end": 1515
+        },
+        {
+          "start": 2045,
+          "end": 2048
+        }
+      ],
+      "weightsV2": {
+        "weight": 10.659198,
+        "baseWeight": 6.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6591977,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

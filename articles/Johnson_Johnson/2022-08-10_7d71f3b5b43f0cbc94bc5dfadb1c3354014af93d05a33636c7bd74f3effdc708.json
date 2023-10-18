@@ -1,0 +1,38 @@
+{
+  "_id": "7d71f3b5b43f0cbc94bc5dfadb1c3354014af93d05a33636c7bd74f3effdc708",
+  "feed": "wall-street-journal",
+  "title": "Walgreens Helped Fuel San Francisco Opioid Epidemic, Judge Rules; Pharmacy chain plans to appeal decision, saying it never manufactured or marketed opioids",
+  "text": "<p>\"The effects of the opioid epidemic on San Francisco have been catastrophic,\" Judge Breyer wrote in a 112-page opinion. \"The city has fought hard and continues to do so, but the opioid epidemic, which Walgreens helped fuel, continues to substantially interfere with public rights in San Francisco.\"</p><p>Walgreens pharmacies dispensed hundreds of thousands of suspicious prescriptions in the city between 2006 and 2020, according to the judge's decision. Pharmacists weren't given enough resources to perform the necessary steps to prevent this, the judge wrote.</p><p>Fraser Engerman, a spokesman for Walgreens, said the company plans to appeal the decision. Walgreen Co.'s parent company is Walgreens Boots Alliance Inc., which operates pharmacies in the U.S. and internationally.</p><p>\"As we have said throughout this process, we never manufactured or marketed opioids, nor did we distribute them to the 'pill mills' and internet pharmacies that fueled this crisis,\" Mr. Engerman said. \"We stand behind the professionalism and integrity of our pharmacists, dedicated healthcare professionals who live in the communities they serve.\"</p><p>A subsequent trial will determine how much Walgreens owes, the judge said.</p><p>The civil lawsuit was brought by the city and county of San Francisco in 2018 against Walgreens and a number of other companies, including manufacturers Teva Pharmaceuticals and Allergan and distributor Endo Pharmaceuticals Inc. It also named distributors McKesson Corp., AmerisourceBergen Corp., and Cardinal Health Inc., as well as drugmaker Johnson &amp; Johnson.</p><p>Walgreens was the only defendant not to settle by the end of a trial that started in April. Attorneys representing San Francisco brought a public nuisance claim against Walgreens for allegedly contributing to the opioid epidemic.</p><p>\"It is fantastic after five years of litigation for a spotlight to be put on Walgreens's continued focus on profit while just completely disregarding its responsibilities under the Controlled Substances Act,\" said Peter Mougey, a lawyer for San Francisco in the case. \"We couldn't be more excited for the city of San Francisco to take this to the next step of correcting the tidal wave of pills.\"</p><p>In a statement, Mr. Engerman, the Walgreens spokesman, said it was \"misguided and unsustainable\" for the city to invoke public nuisance law to address the opioid crisis.</p><p>The decision Wednesday comes months after a federal jury in Cleveland found that companies owning CVS, Walgreens and Walmart pharmacies were liable for contributing to the opioid epidemic in two Ohio counties. That decision was the first verdict reached among lawsuits targeting pharmacy chains for their alleged role in the opioid crisis.</p><p>In July 2021, states announced a $26 billion settlement with drug companies, including distributors McKesson, AmerisourceBergen, and Cardinal Health, as well as drugmaker Johnson &amp; Johnson, to resolve thousands of opioid-crisis related lawsuits. Cities and counties would use the money to bolster social services focused on the harms of opioid addiction as well as for funds for first responders, they said.</p><p>Write to Jennifer Calfas at jennifer.calfas@wsj.com</p><p>Walgreens Helped Fuel San Francisco Opioid Epidemic, Judge Rules</p>",
+  "published": "2022-08-10T20:57:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 2848,
+          "end": 2865
+        },
+        {
+          "start": 1529,
+          "end": 1546
+        },
+        {
+          "start": 1539,
+          "end": 1556
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.5721254,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.42787504,
+        "tagPositionWeight": 4.7683716e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

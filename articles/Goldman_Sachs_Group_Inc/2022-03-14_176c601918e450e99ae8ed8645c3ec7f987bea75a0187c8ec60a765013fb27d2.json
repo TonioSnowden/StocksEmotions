@@ -1,0 +1,34 @@
+{
+  "_id": "176c601918e450e99ae8ed8645c3ec7f987bea75a0187c8ec60a765013fb27d2",
+  "feed": "reuters",
+  "title": "U.S. step to delist Chinese ADRs worsens investment, listing outlook",
+  "text": "<p>The move, amid a long-running auditing standoff between U.S. and Chinese regulators, revived fears among investors and triggered a massive sell-off in Chinese companies' American depositary receipts (ADRs).</p><p>Goldman Sachs estimates that U.S. institutional investors currently hold around $200 billion of exposure to Chinese ADRs.</p><p>Washington is demanding complete access to the books of U.S-listed Chinese companies, but Beijing bars foreign inspection of working papers from local accounting firms.</p><p>\"The whole sector is becoming uninvestable ... we simply will give up and get out of any U.S.-listed Chinese companies for now,\" said a portfolio manager with a major New York-based hedge fund.</p><p>The fund started offloading Chinese ADRs since late 2019, and plans to sell off any remaining holdings in the coming weeks, said the portfolio manager, who declined to be identified as he is not authorised to speak to the media.</p><p>The Nasdaq Golden Dragon China Index, which tracks Chinese companies traded on Wall Street, fell more than 10% for two consecutive days since last Thursday, extending its losses since the start of the year to 34%. The index shed 43% in 2021.</p><p>Those with less exposure to U.S.-listed Chinese firms are weighing other options to stay invested in China.</p><p>\"We have minimal long exposure to ADRs and have been net short ADRs,\" said Ken Xu, chief investment officer of Strategic Vision Investment, a Hong Kong-based hedge fund with more than $1 billion in assets under management.</p><p>Xu expects more headwinds for ADRS and has gone long instead on China's onshore shares, seeing significantly higher growth potential in some segments backed by policy support.</p><p>The renewed concerns about Chinese companies listed in the United States also comes at a time when appetite for risky assets has been dampened by rising geopolitical risks and a subdued growth outlook for the world's second-largest economy.</p><p>China-focused asset manager Krane Funds Advisors said its $4.9 billion KraneShare CSI China Internet ETF aims to convert all Chinese ADRs in its portfolio into their Hong Kong shares in the coming months.</p><p>KraneShares, however, said on Friday it expects that a compromise between U.S. and Chinese regulators on the auditing issue was \"still attainable\".</p><p>China's securities regulator also gave investors a measure of assurance on Friday saying it was confident it would reach an agreement with U.S. counterparts to solve the auditing dispute.</p><p>The regulatory uncertainty may further deter new listings of Chinese companies in New York, bankers say, with the outlook on fundraising clouded by uncertainties about the auditing requirements as well as China's new rules on offshore listings.</p><p>Yingjie Weng, New York-based managing director of Special Purpose Acquisition Company investment banking at Chardan , told Reuters the outlook for future listings of Chinese companies in the United States remains uncertain.</p><p>Companies that adopt a complicated offshore holding structure, widely used to circumvent foreign investment restrictions, are unlikely to win SEC approval, she added.</p>",
+  "published": "2022-03-14T10:29:55.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 207,
+          "end": 220
+        },
+        {
+          "start": 207,
+          "end": 214
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.224094,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.22409403,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

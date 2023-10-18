@@ -1,0 +1,42 @@
+{
+  "_id": "9e53e1204bd2959e06db95e1452652cb09f6f74bf6b70fcb2a6b2683afdfd788",
+  "feed": "wall-street-journal",
+  "title": "World News: China Extends Power Rationing --- Heat wave, drought prompt officials to curb factory output, mall hours in areas",
+  "text": "<p>Farther east, in central China's sprawling metropolis of Chongqing, home to more than 30 million people, shopping malls were told they could open Monday only between 4 p.m. and 9 p.m. because of power rationing, state broadcaster China Central Television cited the local government as saying.</p><p>The combination of the drought and heat wave is leading to high electricity demand as residents need air conditioning to stay cool and denting supply from hydropower dams that are crucial to the region.</p><p>Rainfall feeding the Yangtze River basin was down 40% in July from a year earlier. The river is a key source of water for hydropower production and key for transportation. Levels for some parts of the river have been at their lowest points since records began, China's Ministry of Water Resources said last week.</p><p>The power rationing is undercutting industrial production, exacerbating the damage caused to China's economy by the government's stringent Covid-19 control measures. China is one of several countries that face droughts, which are challenging global supply chains and risk driving up food and energy costs.</p><p>General Interface Solution Holding Ltd., a Taiwanese maker of touch sensors and display components for electronics, said its subsidiary in Chengdu extended a suspension of production in accordance with the local government's contingency plans. Apple Inc., which had previously named the company as one of its suppliers, didn't respond to a request to comment.</p><p>Foxconn Technology Group, one of the biggest suppliers to Apple, has also been hit by power rationing. The company's production in Chengdu was continuing to run at a low level Monday, said people familiar with the matter, although it was up slightly from last week. Foxconn was in talks with the local government to gradually increase production later this week, the people said.</p><p>A Foxconn spokesman said the current impact on production wasn't significant. He didn't comment further.</p><p>Meanwhile, the suspension because of the power curbs at Volkswagen AG's plant in Chengdu continued Monday, a spokeswoman said, adding that the company expects to make up for any delays with increased production in the future. Toyota Motor Corp., which last week suspended production at its Chengdu plant, has conducted a test run on its production lines with its own power generator, a spokesman said. The plant wasn't operating at normal levels, he added.</p><p>The high temperatures have extended across much of southern China. The country's meteorological administration said that 65 weather stations registered record temperatures. The heat advisory was listed as a \"red alert,\" its highest level, while the state forecaster put the drought warning at its second-highest level of orange.</p><p>The heat has also sparked wildfires. More than 5,000 firefighters, police and other personnel have been called in to battle blazes that ignited late last week south of Chongqing's downtown. Authorities said the fires had been extinguished by Monday morning.</p><p>---</p><p>Selina Cheng and Qianwei Zhang contributed to this article.</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 1359,
+          "end": 1369
+        },
+        {
+          "start": 1524,
+          "end": 1529
+        },
+        {
+          "start": 1351,
+          "end": 1361
+        },
+        {
+          "start": 1533,
+          "end": 1538
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8000026,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.20000005,
+        "tagPositionWeight": 2.7418137e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

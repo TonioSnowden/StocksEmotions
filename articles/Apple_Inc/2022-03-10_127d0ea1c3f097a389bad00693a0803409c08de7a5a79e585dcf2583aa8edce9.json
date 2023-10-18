@@ -1,0 +1,24 @@
+{
+  "_id": "127d0ea1c3f097a389bad00693a0803409c08de7a5a79e585dcf2583aa8edce9",
+  "feed": "economist-blog",
+  "title": "Daily chart; Russians are trying to escape online censorship",
+  "text": "<p>The sudden popularity of such software follows a tightening of online censorship by Vladimir Putin's government. On March 4th Russia blocked access to Facebook, after the social network imposed restrictions on Russian state-controlled media on its app. Twitter says its Russian users are reporting difficulty gaining access to its service. TikTok has banned people in Russia from uploading videos, after the passage of a law on March 4th criminalising the dissemination of information about the war that is not the official version. Mainstream media firms such as Netflix have suspended their services. Privacy apps could allow users to circumvent these bans.</p><p>VPN downloads are one way to measure concerns over access to the internet during a crisis. At its peak on March 5th, the number of online searches for VPNs in Russia was nearly 12 times the average, according to data from Top10VPN, a VPN review website. Demand in Ukraine peaked on March 2nd, at seven times the usual. The extra stress on Ukrainian servers in wartime has made it harder to use popular social-networking apps, such as Telegram, without a VPN.</p><p>Spikes in demand were also noted in other countries this year where citizens faced a cyber-crackdown. In Myanmar demand rose by 53% from its average after the military junta proposed updated cyber legislation in early 2022 (which included the criminalisation of VPNs). The Chinese government, another enthusiastic censor of the internet, ordered Apple to remove VPNs from its app store in 2017. The company has complied. But in Russia, it can afford to be bolder. Whereas China is an enormous market for Apple, Russia is a tiddler; the firm said on March 1st that it was suspending sales of its hardware there.</p><p>For now, Russians should be free to download location-disguising software—whether to seek information about Mr Putin's war in Ukraine or to binge a series on Netflix.</p><p>■</p><p>For a look behind the scenes of our data journalism, sign up to Off the Charts, our weekly newsletter. Our recent coverage of the Ukraine crisis can be found here.</p>",
+  "published": "2022-03-10T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1623,
+          "end": 1628
+        },
+        {
+          "start": 1465,
+          "end": 1470
+        }
+      ]
+    }
+  ]
+}

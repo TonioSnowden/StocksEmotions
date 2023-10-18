@@ -1,0 +1,62 @@
+{
+  "_id": "24c982c0266ec8f33268bca59ccdd429634aaf0d95a1dc5eabf82622903a05e9",
+  "feed": "wall-street-journal",
+  "title": "Kids Know How to Get Around iPhone and iPad Parental Controls. Here's How to Regain Control. For parents, knowing the Screen Time cheats is half the battle; the other half is talking your children out of using them",
+  "text": "<p>First, and this should go without saying: Don't ever share your Apple ID password or Screen Time passcode with your children.</p><p>With the launch of iOS 16, expected in the coming weeks, Apple is making Screen Time and Family Sharing setup easier for parents. (See box.) With each software update, it also fixes known hacks—including many that were mentioned to me by online-safety experts, ethical teen hackers and parents. The best way to outwit your children is to make sure their devices run the latest system software.</p><p>Go to Settings &gt; General &gt; Software Update and make sure the Automatic Updates option is on. And always check that the new software actually loaded.</p><p>Here's the problem: If the kids are using old, hand-me-down iPads or iPhones, Apple might no longer provide those important updates. Any device Apple doesn't support anymore could be vulnerable to funny business.</p><p>I focused on Apple because of its dominance of the U.S. market, especially among kids. Any device or platform's parental controls could be susceptible to manipulation, so always be on your guard.</p><p>How They Hack</p><p>Based on my conversations, here are some common workarounds children use in their attempts to bypass Apple's Screen Time restrictions:</p><p>Changing the time zone. Setting the device to an earlier time zone can fool Downtime, the Screen Time function that prevents users from accessing a device's apps after a preset time. Apple was supposed to have fixed this in iOS 15, but the trick sometimes still works on iPhones and iPads.</p><p>I tested it out on my daughter's iPad Pro, which was running the slightly older iPadOS 15.5. I scheduled downtime to begin at 8:25 a.m. Pacific. At that time, all the apps went gray and I couldn't open them. But when I changed the device's time zone to Honolulu's, three hours behind me in California—bingo!—I was able to open any app.</p><p>iOS 16 Brings Updates For Parents</p><p>* The iPhone upgrade is expected in the coming weeks, along with the related iPadOS 16 for tablets.</p><p>* Family Sharing: For parents managing children's devices in Family Sharing, setting up a kid account will now contain suggestions for age-appropriate content restrictions.</p><p>* Family Checklist: This checklist in Family Sharing settings will contain tips on how to update children's settings as they get older and how to turn on location sharing.</p><p>* Screen Time: The new Quick Start feature will let you set up a new iPhone or iPad for your child with all the parental controls.</p><p>* Messages: Screen Time requests from your kids will appear in the messaging app, so it will be easier to approve or decline a request.</p><p>I updated the tablet to the latest version of iPadOS, 15.6.1, and the time-zone hack no longer worked.</p><p>Chris McKenna, founder of internet-safety company Protect Young Eyes, has been informing Apple of Screen Time hacks for years. When he scheduled downtime on his up-to-date iPhone and then changed the time zone to an earlier one, he was still able to access all his apps. (This might be because he is the admin for his Family Sharing group.)</p><p>An Apple spokeswoman said her team couldn't replicate the time-zone workaround on an iPhone running the latest software, and neither could I.</p><p>Tapping for more time. After setting up a downtime schedule, parents sometimes forget to toggle on Block at Downtime. If that's not turned on, kids can tap Ignore Limit and keep going.</p><p>Redownloading an app. When children reach their time limit on an app, they can remove it from their device and redownload it without parental approval. The app is then accessible until the next downtime period is scheduled. (This doesn't work on the latest iPhone and iPad operating systems, based on my own testing, but several people told me it works on older versions).</p><p>You can prevent this by adjusting app permissions. In Settings, go to Screen Time &gt; Content &amp; Privacy &gt; iTunes &amp; App Store Purchases &gt; Deleting Apps. Set that to Don't Allow.</p><p>Screen recording. If you've set up Screen Time on your child's device and your kid hands it to you to type in the Screen Time passcode, he or she can secretly record the screen by turning on the option in the control center. When you hand it back, there will be a video showing what you typed, says Claire Wang. She's a high-school senior in Andover, Mass., who leads an online community for Hack Club, a nonprofit coding network for students.</p><p>Downloading software. TikTok and YouTube are full of tutorials on how to download programs for Macs and PCs that promise to bypass Screen Time limits without a passcode. They often require users to make an unencrypted backup of their phone while connected to the computer. One YouTuber advises kids to clear the computer's browser history after installing the software so their parents don't know they went to the website.</p><p>How well these programs really work—and whether they leave your phone vulnerable to malware—is something I didn't want to test.</p><p>\"No one truly knows what these applications indeed do or hold the power of doing,\" said Joshua Kats, a former Hack Club member who's now studying cybersecurity at Macaulay Honors College in New York. \"There is also no proper way for parents to tell if their children downloaded these sorts of applications if the child deleted their traces.\"</p><p>Turning to a burner phone. Some kids scrounge up a burner—either a prepaid cellphone or an old model dug out of a drawer or borrowed from a friend. Even without a data plan, devices can still get online via Wi-Fi.</p><p>What to Say to Your Kids</p><p>No matter how carefully you set up parental controls, children can always find new ways to get around them. That's why Mr. McKenna, the internet-safety expert, suggests a trust-building approach with clear consequences for violations.</p><p>SHARE YOUR THOUGHTS</p><p>What's your approach to managing screen time with your kids? Join the conversation below.</p><p>\"It's important to acknowledge to your kids that you know hacks exist,\" he says. \"Then you can say, 'If you follow our rules, awesome, have a great time with the phone, but if you don't, I'm telling you what will happen, and that's your choice.'\"</p><p>If you suspect your children have already figured out some kind of hack, Mr. McKenna recommends giving them one-time amnesty. He suggests saying something like, \"Wow, I've set up Screen Time and either it's not working right or you're so smart, you've out-hacked Dad.\" He says to tell them they won't be in trouble this time, but if the kids don't fess up, then maybe the device disappears.</p><p>—For more Family &amp; Tech columns, advice and answers to your most pressing family-related technology questions, sign up for my weekly newsletter .</p><p>Write to Julie Jargon at Julie.Jargon@wsj.com</p><p>Kids Know How to Get Around iPhone and iPad Parental Controls. Here's How to Regain Control.</p>",
+  "published": "2022-09-03T13:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 182,
+          "end": 187
+        },
+        {
+          "start": 183,
+          "end": 188
+        },
+        {
+          "start": 740,
+          "end": 745
+        },
+        {
+          "start": 805,
+          "end": 810
+        },
+        {
+          "start": 886,
+          "end": 891
+        },
+        {
+          "start": 1182,
+          "end": 1187
+        },
+        {
+          "start": 1397,
+          "end": 1402
+        },
+        {
+          "start": 2767,
+          "end": 2772
+        },
+        {
+          "start": 3019,
+          "end": 3024
+        }
+      ],
+      "weightsV2": {
+        "weight": 14.278868,
+        "baseWeight": 9.0,
+        "expansionWeight": 5.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.27886772,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

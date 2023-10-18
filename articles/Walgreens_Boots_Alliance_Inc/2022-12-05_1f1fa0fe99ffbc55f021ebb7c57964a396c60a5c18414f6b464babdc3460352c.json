@@ -1,0 +1,24 @@
+{
+  "_id": "1f1fa0fe99ffbc55f021ebb7c57964a396c60a5c18414f6b464babdc3460352c",
+  "feed": "wall-street-journal",
+  "title": "Business News: CVS Tests Remote Tech for Prescriptions",
+  "text": "<p>The largest U.S. pharmacy chain by revenue said its initiative, which began this past summer in Arizona, will lighten the workload for store pharmacists and free them up to provide customers with a wider range of services, such as vaccinations and health screenings. The plan doesn't involve changes to how people pick up their prescribed medications from CVS pharmacies.</p><p>Some practitioners, however, have concerns about whether CVS's plan will ultimately improve service or working conditions for pharmacists amid chronic short staffing. State regulations also present some barriers for the company to further execute its plan.</p><p>\"It's really a way to make the processing of prescriptions much more efficient,\" CVS Chief Executive Karen Lynch said in an interview.</p><p>CVS and rival Walgreens Boots Alliance Inc. are struggling to stop an exodus of drugstore pharmacists by offering measures such as bonuses, higher pay and guaranteed lunch breaks. Pharmacists were already in short supply before the pandemic; demand for Covid-19 shots and tests coupled with a labor shortage exacerbated the problem.</p><p>Walgreens, with nearly 9,000 U.S. locations, has said shortages of pharmacists and pharmacy technicians led it to reduce hours at roughly one-third of its stores. The chain is rolling out a networkof automated, centralized drug-filling centers, which the company says will reduce pharmacists' workload.</p><p>The CVS initiative is a step toward pharmacists' eventually carrying out crucial tasks such as verifying pill counts in physical bottles from remote locations, something most state pharmacy boards currently don't allow, executives said. In that scenario, pills would be placed by a pharmacy technician on a specialized tray, which uses weight to register pill count, and that information along with images of the prescription would be beamed to a pharmacist, who could be working at another store or a central location.</p>",
+  "published": "2022-12-05T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9314271084",
+      "nexusId": "10022845",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "offsets": [
+        {
+          "start": 778,
+          "end": 807
+        },
+        {
+          "start": 778,
+          "end": 802
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "_id": "3f5d74665a344fb4ba69608e1eb319615fdc4f58bf78ee56b94b4a8d939c86b8",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Heard on the Street:  There's Logic in  Intel's Chip Ambitions  ---  The company is pondering a jump into contract  manufacturing. It could be tricky, but rewarding.  ----  By Dan Gallagher",
+  "text": "<p>\n  [Financial Analysis and Commentary] </p><pre>\n </pre><p>\n  Pat Gelsinger is wasting no time putting his money where his mouth is. </p><p>\n  The new Intel chief executive has been formally on the job less than six months. And it has been barely three since he articulated the chip maker's new strategy, which includes a move back into the foundry business. </p><p>\n  Intel had dabbled in making chips designed by others before, but Mr. Gelsinger described those efforts as halfhearted. With chip manufacturing at a premium given the continuing production shortage -- and the federal government talking about showering billions in subsidies to boost the industry -- it seemed a good time for Intel to try again. </p><p>\n  But Mr. Gelsinger is clearly thinking much bigger. The Wall Street Journal reported late Thursday that Intel is exploring a deal to buy GlobalFoundries, a U.S.-hubbed chip manufacturer owned by the Abu Dhabi government. </p><p>\n  The deal could be worth around $30 billion. It would be Intel's largest ever, and nearly twice what it paid for Altera, a maker of programmable logic chips that was -- ironically -- the only notable customer of Intel's last foundry attempt. </p><p>\n  Buying GlobalFoundries would give Intel a much bigger list of foundry clients. It could also bring a long list of complications, in that many of those clients are also Intel competitors. None more so than Advanced Micro Devices, which spun GlobalFoundries out of its own manufacturing operations in 2009. </p><p>\n  AMD has come to rely much more on Taiwan Semiconductor Manufacturing of late, but it still has a recently amended agreement in place to purchase about $1.6 billion worth of wafers from GlobalFoundries by 2024. </p><p>\n  That would put Intel in the position of making chips for the company that has successfully been eating into its share in the key personal computer and data-center markets. </p><p>\n  Another complication is that GlobalFoundries no longer works in the most advanced chip manufacturing processes that Intel has long specialized in. The cost of keeping up with giants like Intel, TSMC and Samsung forced GlobalFoundries to step away from its work on 7-nanometer production back in 2018 and focus on older processes often called \"trailing edge\" that are used to economically produce lower-priced chip products. </p><p>\n  But the current production shortage has warmed up even that end of the market, as many key chips used in end products like cars are made on trailing-edge processes. And Intel's political timing looks even better now, as the Senate passed a bill last month calling for $52 billion in funding to support domestic chip production. </p><p>\n  The prospect of a homegrown chip giant taking ownership of U.S.-based manufacturing operations currently owned by a foreign government may be one of the few easy sells in today's Washington. </p><p>\n  Whether Intel's investors will buy it is another question. </p><p></p>",
+  "published": "2021-07-17T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 772,
+          "end": 777
+        },
+        {
+          "start": 1933,
+          "end": 1938
+        },
+        {
+          "start": 325,
+          "end": 330
+        },
+        {
+          "start": 945,
+          "end": 950
+        },
+        {
+          "start": 117,
+          "end": 122
+        },
+        {
+          "start": 2768,
+          "end": 2773
+        },
+        {
+          "start": 1660,
+          "end": 1665
+        },
+        {
+          "start": 1100,
+          "end": 1105
+        },
+        {
+          "start": 649,
+          "end": 654
+        },
+        {
+          "start": 1164,
+          "end": 1169
+        },
+        {
+          "start": 1298,
+          "end": 1303
+        },
+        {
+          "start": 2004,
+          "end": 2009
+        },
+        {
+          "start": 2410,
+          "end": 2415
+        },
+        {
+          "start": 51,
+          "end": 56
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

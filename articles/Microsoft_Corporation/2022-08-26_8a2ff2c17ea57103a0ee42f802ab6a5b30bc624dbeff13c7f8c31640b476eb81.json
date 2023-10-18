@@ -1,0 +1,38 @@
+{
+  "_id": "8a2ff2c17ea57103a0ee42f802ab6a5b30bc624dbeff13c7f8c31640b476eb81",
+  "feed": "market-watch",
+  "title": "EA stock pops on reported Amazon takeover interest, which would mark latest in string of big videogame mergers; A deal would follow Microsoft's blockbuster offer for Activision earlier this year",
+  "text": "<p>Shares of Amazon AMZN were off 0.4% premarket.</p><p>A representative from EA said the company doesn't comment on M&amp;A rumors or speculation. Amazon didn't immediately respond to MarketWatch's request for comment.</p><p>While Amazon has yet to announce a formal bid or agreement, an offer for EA, whose titles include \"Madden NFL\" and \"Apex Legends,\" would mark the latest in a string of merger activity in the videogame market.</p><p>Amazon would be following in the footsteps of fellow Big Tech juggernaut Microsoft Corp. MSFT, which said in January that it planned to acquire Activision Blizzard Inc. in a nearly $69 billion tie-up, after it already bought up the privately held maker of Bethesda Softworks a year before.</p><p>EA, and Take-Two Interactive Software Inc. TTWO, the other big public U.S. gaming companies in the U.S., were speculated to be potential takeover targets as well following the Microsoft-Activision announcement. Take-Two has done some buying of its own, having scooped up Zynga in a $13 billion deal that closed in May.</p><p>KeyBanc Capital Markets analyst Tyler Parker wrote at the time of the Activision deal that while Take-Two and France's Ubisoft Entertainment FR:UBI seemed more likely acquisition candidates, \"we'd have to assume a more aggressive stance from the other large tech and media players that have had more limited ambitions in gaming in recent years or are simply moving away from internal development of games.\"</p><p>Of course, big deals in the tech universe come with regulatory risk, and Microsoft's Activision agreement is being reviewed by the Federal Trade Commission.</p><p>Amazon has committed to opening its wallet numerous times this summer, having announced plans to acquire Roomba maker iRobot Corp. IRBT as well as One Medical parent 1Life Healthcare Inc. ONEM It's reportedly interested in Signify Health Inc. SGFY as well.</p><p>Read: Amazon to buy Roomba maker iRobot as 'discount shopping' spree continues</p><p>See also: How Amazon's $3.9 billion wager on primary care could change your Prime membership</p><p>The e-commerce giant already plays into the world of gaming through its Twitch streaming platform.</p><p>EA fetched a $35 billion market value as of Thursday's close.</p><p>EA stock pops on reported Amazon takeover interest, which would mark latest in string of big videogame mergers</p>",
+  "published": "2022-08-26T12:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 132,
+          "end": 141
+        },
+        {
+          "start": 882,
+          "end": 891
+        },
+        {
+          "start": 1497,
+          "end": 1506
+        }
+      ],
+      "weightsV2": {
+        "weight": 7.4216366,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.42163658,
+        "titleWeight": 4.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

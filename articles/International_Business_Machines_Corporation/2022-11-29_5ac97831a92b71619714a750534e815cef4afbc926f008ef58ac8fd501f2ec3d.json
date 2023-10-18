@@ -1,0 +1,20 @@
+{
+  "_id": "5ac97831a92b71619714a750534e815cef4afbc926f008ef58ac8fd501f2ec3d",
+  "feed": "wall-street-journal",
+  "title": "Corrections & Amplifications",
+  "text": "<p>---</p><p>The Computer History Museum is in Mountain View, Calif. A Nov. 26 obituary for Frederick P. Brooks Jr. incorrectly said it is based in the U.K.</p><p>(See: \"Obituaries: IBM Executive Managed Seminal Computer System\" -- WSJ Nov. 26, 2022)</p><p>---</p><p>Hurricane Nicole made landfall near Vero Beach, Fla. A Nov. 12 U.S. Watch article about the storm incorrectly said it made landfall near Wilbur-by-the-Sea, Fla.</p><p>(See: \"U.S. News: U.S. Watch\" -- WSJ Nov. 12, 2022)</p><p>---</p><p>Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.</p>",
+  "published": "2022-11-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 167,
+          "end": 170
+        }
+      ]
+    }
+  ]
+}

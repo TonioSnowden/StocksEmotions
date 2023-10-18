@@ -1,0 +1,20 @@
+{
+  "_id": "9e6c8671af190fb8754a97a552cd5f054c62f4c5b0b38712ddecec0b4dfb7f6e",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>Facebook blamed Apple's privacy rules for posting slower sales growth and warned of further uncertainty for the social-media giant's advertising business.</p><p>---</p><p>The S&amp;P 500 and the Dow ticked up 0.5% and 0.2%, respectively, to close at records. The Nasdaq added 0.9%.</p><p>---</p><p>Evergrande said construction is progressing at some of its residential projects in southern China.</p><p>---</p><p>Fed officials are set to wind down their bond-purchase program in November, but questions over inflation pressures are creating uneasiness.</p><p>---</p><p>PayPal backed off takeover talks with Pinterest after shareholders reacted negatively to what would have been a multibillion-dollar bet on e-commerce.</p><p>---</p><p>The co-head of Blackstone's big hedge-fund unit plans to leave the firm as the private-equity giant seeks higher returns and faster growth for the business.</p><p>---</p><p>Mastercard and crypto firm Bakkt said they have partnered to enable cryptocurrency card payments.</p><p>---</p><p>Jeff Bezos' space company said it would help to build a new space station.</p>",
+  "published": "2021-10-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 16,
+          "end": 21
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

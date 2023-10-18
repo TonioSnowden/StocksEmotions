@@ -1,0 +1,30 @@
+{
+  "_id": "a8ad19d0c3e464f2b82d720eed22f0619cf40a188ca106dcb864d7e49a762f82",
+  "feed": "market-watch",
+  "title": "Here's proof that the bull market is alive and kicking",
+  "text": "<p>No indicator is foolproof, but when I have relied on this indicator in the past it has acquitted itself well — most recently  in July 2019 , when — like now — the indicator was telling a bullish story. The S&amp;P 500 SPX, assuming reinvestment of dividends, is up more than 30% since then.</p><p>I base this indicator on research conducted by Ned Davis Research . According to its calculations, Consumer Discretionary, Health Care and Consumer Staples are the three S&amp;P 500 sectors that have performed the best, on average, in the last three months of all bull markets since 1970. They have not been the best over the past three months; in fact, these sectors occupy three of the four places at the bottom of a trailing-three-month ranking of the S&amp;P 500 sectors, as you can see from the chart below.</p><p>The same story is told by focusing on the sectors that typically perform the worst in the final three months of bull markets. According to the Ned Davis data, these are Communication Services (assuming it to be the successor to the Telecommunications sector of old), Utilities and Energy. Once again we're not seeing this pattern now. Energy currently is in first place for trailing three-month return and the Financials sector is in second place.</p><p>The rationale for this indicator is that certain sectors perform particularly poorly during economic downturns and therefore act as early warning signals of possible weakness. Energy is an obvious one, since energy usage typically plummets during a recession. Financials is another canary in the coal mine, since the inverted yield curve that often precedes a recession wreaks havoc with that industry's profits.</p><p>On the plus side, many consumer stocks exhibit relative strength during downturns. So when a possible recession is on the horizon they often suffer less than Energy and Financials.</p><p>You might question this indicator's value, since it would be rare for the sector rankings to ever perfectly line up with the historical end-of-bull market averages — and therefore this indicator would never turn bearish. But even if those rankings don't ever match up completely, there will be times when they are closer than others. One such  occasion was in April 2015 , when this indicator was close enough to the historical pattern to constitute an early warning of a market top. A bear market began in May of that year, according to the calendar maintained by Ned Davis Research .</p><p>No indicator is perfect. But especially in a week in which the market has fallen significantly, this indicator provides the bulls with at least some solace. It says you should start really worrying when the Consumer Staples, Consumer Discretionary and Healthcare sectors are at or near the top of the trailing three-month rankings and Financials, Utilities, and Energy are at or near the bottom.</p><p>Mark Hulbert is a regular contributor to MarketWatch . His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at  mark@hulbertratings.com . His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at </p><p>More:  Buy this dip in Apple, Microsoft and these other tech stocks before they're out of reach, says analyst </p><p>Plus: Tesla and Nio have sold off, but the EV party is just getting started and China is key, say these analysts</p>",
+  "published": "2021-03-05T14:08:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 3136,
+          "end": 3145
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

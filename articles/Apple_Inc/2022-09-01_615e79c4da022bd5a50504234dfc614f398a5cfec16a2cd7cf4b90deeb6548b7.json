@@ -1,0 +1,34 @@
+{
+  "_id": "615e79c4da022bd5a50504234dfc614f398a5cfec16a2cd7cf4b90deeb6548b7",
+  "feed": "market-watch",
+  "title": "Watch: Southwest pilot warns passengers to 'quit sending naked pictures' over AirDrop, or it's everyone off the plane! The woman who posted the viral TikTok video says another passenger had received an explicit image over AirDrop and complained to a flight attendant",
+  "text": "<p>The caption for the 16-second clip posted by user Teighlor Marsalis — which has now been viewed more than 2 million times — indicates that Southwest \"takes airdropping nudes very seriously.\"</p><p>Marsalis told Insider that before the flight took off to to Cabo San Lucas, Mexico, another passenger received an explicit image via AirDrop, and complained to a flight attendant. Marsalis also received an AirDrop request, but she denied it. She said the pilot handled the situation \"perfectly.\"</p><p>So how did the pilot respond? The TikTok video features the captain making this colorful announcement over the intercom:</p><p>\"So here's the deal. If this continues while we're on the ground, I'm gonna have to pull back to the gate, everybody's gonna have to get off, we're gonna have to get security involved, and vacation is gonna be ruined.\"</p><p>The pilot then adds, \"So you folks, whatever that AirDrop thing is — quit sending naked pictures. Let's get yourself to Cabo\"</p><p>A Southwest spokesperson wasn't available to comment on the authenticity of the content of the video, but the company shared the following general statement with MarketWatch over email: \"The safety, security and wellbeing of Customers and Employees is the Southwest Team's highest priority at all times. When made aware of a potential problem, our Employees address issues to support the comfort of those traveling with us.\"</p><p>Apple notes that AirDrop is set to share with a person's contacts only by default, but users can also choose to use AirDrop to share with \"everyone.\" So organizations can restrict the use of AirDrop for devices or apps being managed by using a mobile device management (MDM) solution.</p><p>Last year, computer-science researchers at the Technical University of Darmstadt in Germany found a vulnerability in the AirDrop feature that allowed scammers to potentially access a user's email address and phone number when within range of an iPhone, iPad or Macbook device. Apple has since released security patches and updates to address a number of such vulnerabilities — learn more here and here.</p><p>Watch: Southwest pilot warns passengers to 'quit sending naked pictures' over AirDrop, or it's everyone off the plane!</p>",
+  "published": "2022-09-01T15:52:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1378,
+          "end": 1383
+        },
+        {
+          "start": 1927,
+          "end": 1932
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.000002,
+        "baseWeight": 2.0,
+        "expansionWeight": 2.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 2.026558e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "1d3374fa47e67e5e60374112076362f0799e739668a1feb1c5e6683a122cb9cc",
+  "feed": "wall-street-journal",
+  "title": "China's Export Growth Stays Unexpectedly Robust, Offsetting Broader Weakness; China's trade surplus widened on stronger exports and softening imports, an indication of the recovery's uneven nature",
+  "text": "<p>The strong export growth reflected a rapid easing of Covid-induced supply-chain disruptions, as workers at China's factories and ports caught up on backlogs of orders. Exports to the European Union and the U.S.—China's second- and third-largest trading partners, respectively—rose 23.1% and 11%, respectively, in July from a year earlier in U.S. dollar terms. Shipments to Russia also picked up last month, surging 22% when compared with July 2021.</p><p>In one sign of caution, however, imports by the world's second-largest economy remained subdued in July, rising just 2.3% from a year earlier to $231.69 billion. That was better than the 1% year-over-year increase recorded in June, but worse than the 3.8% increase forecast by economists.</p><p>The trade figures pushed Beijing's overall trade surplus to $101.26 billion in July, from $97.9 billion in June, offering further evidence that China's recovery remains highly uneven, characterized by consistently sluggish domestic demand.</p><p>July's robust export figure caught many economists by surprise and served as evidence of China's ability to rapidly iron out kinks in its supply chain after crippling Covid lockdowns in Shanghai and other regions across the country in the spring and early summer, said Robin Xing, chief China economist at Morgan Stanley.</p><p>Since June, road traffic has improved across China's 100 largest cities, Citibank economists noted in a note to clients last week, while container throughput rose sharply at China's eight largest ports last month, they added.</p><p>For more than a year, economists have argued that China's exports boom, which helped power the country out of the doldrums of the initial outbreak in early 2020, is unsustainable. Those arguments have grown in intensity as inflation has pushed up prices around the world, and as Western demand for Chinese-made goods was seen to have been satiated.</p><p>A subindex of China's official manufacturing purchasing managers index that tracks new export orders remained in contradictory territory in July for a 15th consecutive month.</p><p>China's share of the global export market began to retreat this year after hitting a peak of 15% in March 2021, according to calculations published Friday by economists from Barclays.</p><p>Large U.S. retailers including Walmart Inc. and Best Buy Co. are awash in a glut of unsold clothes, kitchen appliances and electronic gadgets, in part because of tightened consumer budgets amid decades-high inflation. That backlog will likely reduce their appetite to replenish inventories in the coming months.</p><p>There is little China can do to contain growing headwinds against global demand,\" said Morgan Stanley's Mr. Xing, who predicts year-over-year export growth could slow to low single-digit percentage points for the second half of the year.</p><p>Softening export growth would deprive China's struggling economy of a major engine that has propelled the country since the start of the pandemic. It could also weigh on hiring in the manufacturing sector and heap fresh pressure on an economy struggling with a protracted property-market slump and the prospect of further Covid lockdowns.</p><p>Chinese leaders played down their official full-year growth target during a meeting of the Communist Party's top policy-making body late last month. The country reported 0.4% on-year gross domestic product growth in the second quarter.</p><p>Bingyan Wang in Beijing contributed to this article.</p><p>Write to Stella Yifan Xie at stella.xie@wsj.com</p><p>China's Export Growth Stays Unexpectedly Robust, Offsetting Broader Weakness</p>",
+  "published": "2022-08-07T06:54:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2265,
+          "end": 2277
+        },
+        {
+          "start": 2253,
+          "end": 2264
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

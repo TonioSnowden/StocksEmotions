@@ -1,0 +1,48 @@
+{
+  "_id": "5489f2a2de3b1cb4b8c945e99ae93aaf6d49d36dd9465c41ac09b4f4741eedc6",
+  "feed": "wall-street-journal",
+  "title": "Sharing Location With Loved Ones, Not Big Tech",
+  "text": "<p>There are safety benefits, too. When I go on a solo hike, I can make sure someone is periodically checking my location. That is, until I end up in a no-service zone -- a situation that has caused panic on occasion. (Sorry, Mom.)</p><p>I'm also enjoying just looking at the app. Seeing people I care about, all in one virtual place, is strangely comforting.</p><p>Yep, the services that parents use to track down their children have become a sort of social network.</p><p>How to share -- and stop sharing -- your location</p><p>If you're ready to let friends and family track you, there are a few options. You can try temporary sharing. Uber and Lyft provide links to share with your contacts that include where you are, your driver's information and your estimated time of arrival. WhatsApp lets you share your live location -- end-to-end encrypted -- for between 15 minutes and eight hours. Just tap on the + button and select Location.</p><p>Apple's Find My allows you to share for one hour, until the end of the day or indefinitely, while Google Maps has increments between 15 minutes and always. Contacts can see your current location when they open the app, but not a log of where you've been.</p><p>Whichever app you choose, before sharing location indefinitely, think it through first. Cutting off location sharing later on could create awkwardness. Even though Find My and Google Maps don't notify ex-friends when you drop them, it's more obvious than unfriending someone on Facebook.</p><p>Here's how to share and revoke access with Apple, Google and the popular Life360 app:</p><p>-- Apple Find My comes preloaded on Apple devices and won't work with other companies' products. It uses system-level location, so if you have Location Services in Settings turned on, Find My shouldn't consume additional battery. For iPhones, as of iOS 15, Find My now shows live tracking when open. You can see when a contact's location was last updated by tapping on their floating head.</p><p>To share: Open the Find My app and go to the People tab. Select Share My Location, input a contact name, tap Send and choose how long you want to share your whereabouts.</p><p>To revoke: In the Find My app, tap on the contact's name. Scroll down and select Stop Sharing My Location. In your iMessage thread with that contact, you'll see \"You stopped sharing location with . . .\" When you start sharing your location with someone, they get a notification. But when you stop sharing, they don't. However, any contacts tracking you with Find My home-screen widgets will see \"Person removed,\" instead of your floating head.</p><p>-- Google Maps has a location-sharing feature built into its free iOS and Android apps, making it a good choice for mixed-platform households. It can drain your battery a bit. The app updates your location in the background at various intervals to minimize power use. When a contact is viewing you on Google Maps, however, your phone sends more frequent location updates, a spokeswoman said.</p><p>The app shows contacts when your location was last updated.</p><p>To share: In the Google Maps app, tap on your profile photo, then tap Location sharing. Tap New share, and enter the contact's name. (iOS users will need to grant the app \"Always\" access in location settings when sharing for more than an hour.)</p><p>To revoke: In the Maps app &gt; profile photo &gt; Location sharing, tap the contact's name. Next to \"Can see your location,\" select Stop.</p><p>-- Life360 is a popular family-oriented app that one-ups Apple and Google by also providing a driving report and two days of location history. (A $5-a-month subscription provides a 30-day history.) Users join \"circles,\" and get notifications if they're removed from a circle. If you leave a circle, you'll disappear from the map but other members aren't notified.</p><p>The app did tax my battery. A company spokeswoman said nearly all users experience minimally reduced battery life -- 10% or less -- while using the app all day.</p><p>Where your location data goes</p><p>Location data is some of the most valuable and sensitive data our devices capture. Many different services, from weather to social media, can collect that data and often sell it to marketers or analysts without our knowledge. Tech companies can also provide your location data to law enforcement.</p><p>So, should we entrust location-sharing apps with our precise whereabouts? The answer varies by service:</p><p>-- Apple Find My: Your precise location is end-to-end encrypted if both your device and your friend's device are running iOS 15 or newer. Not even Apple can see the data, let alone share it. If either you or your contact are on an earlier version of iOS, your location isn't fully encrypted. In that case, Apple says, the devices send data to company servers. The data is deleted after two hours and not used for advertising purposes.</p><p>-- Google Maps: Google's services generally don't cost anything for consumers. Instead, Google uses data it collects about you in Search, Maps and more to serve ads.</p><p>A Google feature called Location History saves your whereabouts in a timeline. It's turned off by default across Google services. If you enable it, Google can use your precise whereabouts from Location History for advertising. You don't have to turn on Location History to share your real-time location in Google Maps. In that case, your device sends data to company servers, where it is deleted soon after, said the Google spokeswoman. She didn't specify the retention period.</p><p>Even so, Google can still determine your general location based on your network IP address, search activities or other info. (You can turn off ad personalization.) Google says it doesn't sell users' personal information.</p><p>-- Life360: Last year, the nonprofit data-journalism website Markup reported that Life360 had sold users' precise location data -- stripped of identifiable information such as names and emails -- to about a dozen data brokers. Life360 says it no longer relies as heavily on data sales, and the data that it does sell can't be used to identify you.</p><p>You can curb the sale of your data by going to Settings &gt; Privacy &amp; Security, then selecting Do Not Sell My Personal Information.</p><p>Having Big Tech watching us still feels a little creepy. But nowadays, it's often nice knowing that Big Friend and Family are watching.</p>",
+  "published": "2022-09-07T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1500,
+          "end": 1505
+        },
+        {
+          "start": 4336,
+          "end": 4341
+        },
+        {
+          "start": 1546,
+          "end": 1551
+        },
+        {
+          "start": 1579,
+          "end": 1584
+        },
+        {
+          "start": 4639,
+          "end": 4644
+        },
+        {
+          "start": 914,
+          "end": 919
+        },
+        {
+          "start": 3434,
+          "end": 3439
+        },
+        {
+          "start": 4480,
+          "end": 4485
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "0542c2f79b8abbeb073b7928d9ca3fa00455128bfed2b236f61f9b85a502c6c3",
+  "feed": "wall-street-journal",
+  "title": "What's News: Business & Finance",
+  "text": "<p>Boeing is investigating the discovery of two empty liquor bottles that were found on one of its new Air Force One planes under development in San Antonio.</p><p>Investment firms Tiedemann and Alvarium are close to a deal to merge and go public through a blank-check company.</p><p>European cloud-services provider OVHcloud plans to launch a possible IPO as soon as Monday that could value the business at more than $4.7 billion.</p><p>TikTok maker ByteDance said it would restrict access to Douyin, the Chinese version of the app, to 40 minutes a day for users under 14.</p><p>Vivendi's spinoff of Universal Music Group, expected Tuesday, will test the market's appetite for music as an asset class.</p><p>What's News: Business &amp; Finance</p>",
+  "published": "2021-09-21T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

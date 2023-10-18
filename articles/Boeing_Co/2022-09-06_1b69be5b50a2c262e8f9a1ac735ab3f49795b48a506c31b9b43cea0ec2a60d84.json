@@ -1,0 +1,42 @@
+{
+  "_id": "1b69be5b50a2c262e8f9a1ac735ab3f49795b48a506c31b9b43cea0ec2a60d84",
+  "feed": "wall-street-journal",
+  "title": "Illumina-Grail Deal Blocked by EU's Antitrust Regulator; Decision comes less than a week after U.S. administrative judge ruled in Illumina's favor over the acquisition",
+  "text": "<p>The move amounts to a major intervention by the European competition authority in a case that involves an American company with no current revenue inside the bloc. It demonstrates the long reach the EU regulator can have in influencing business deals worldwide.</p><p>The commission said Illumina didn't offer sufficient remedies to address its concerns about the deal. \"It is vital to preserve competition between early cancer-detection test developers at this critical stage of development,\" said Margrethe Vestager, the EU's competition czar.</p><p>Illumina said it was reviewing the commission's order and intended to appeal the decision. It said it continued to believe the merger was pro-competitive and that it would accelerate innovation.</p><p>\"Illumina can make Grail's life-saving multi-cancer early detection test more available, more affordable, and more accessible – saving lives and lowering healthcare costs,\" said Charles Dadswell, Illumina's general counsel.</p><p>The bloc's announcement comes less than a week after an in-house administrative law judge at the U.S. Federal Trade Commission ruled in favor of Illumina in its acquisition of Grail, dealing a defeat to efforts by the FTC's competition enforcers to unwind the deal on antitrust grounds.</p><p>The judge rejected the argument that the deal would give Grail an advantage over potential competitors in gaining access to Illumina's DNA-sequencing technology. Illumina vowed to make its DNA sequencing technology available to Grail's competitors.</p><p>The FTC subsequently appealed the administrative law judge's decision, sending it to the five-member commission.</p><p>Antitrust lawyers said the European case is precedent-setting because it deals with a company that has no current revenue in the EU. \"We're talking about a deal that relates to a product that's not sold in Europe,\" said Axel Schulz, a Brussels-based partner with law firm White &amp; Case.</p><p>He said the decision could raise questions about legal certainty for other companies.</p><p>In previous years, the acquisition likely wouldn't have been reviewed by the European regulator because it doesn't meet the bloc's traditional, revenue-based standard for review. The commission announced a policy change last year that aimed to expand its oversight to include more merger-and-acquisition cases involving low-revenue companies with the potential to quickly become major market players in innovative sectors.</p><p>The General Court of the EU, the bloc's second-highest judicial body, in July upheld the Commission's decision to review the Illumina deal. Illumina has said it is appealing that decision.</p><p>San Diego-based Illumina makes and sells genetic-sequencing machines and the chemicals those machines use. Illumina founded Grail and spun off a majority of it in 2017, retaining a minority stake. It agreed in 2020 to acquire the part of Grail it didn't already own for $7.1 billion and completed the acquisition in 2021, despite pending legal challenges.</p><p>The divergence in rulings between the EU and U.S. over the Illumina-Grail deal is the first time in years that contradictory decisions have come from the two giant economies, but isn't unprecedented.</p><p>In 2001, the European Commission blocked General Electric Co.'s planned $42 billion takeover of Honeywell International Inc., just months after the Justice Department approved the deal, pending commitments from GE.</p><p>More frequently, the two sides have differed on how they reviewed proposed deals and on the changes they mandated to grant approval. In 1997, the Federal Trade Commission approved Boeing Co.'s proposed $14 billion merger with rival McDonnell Douglas largely uncontested, but the commission conducted an extensive review and extracted from Boeing significant concessions before approving the deal.</p><p>Daniel Michaels contributed to this article.</p><p>Write to Kim Mackrael at kim.mackrael@wsj.com</p><p>Illumina-Grail Deal Blocked by EU's Antitrust Regulator</p>",
+  "published": "2022-09-06T12:21:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 3543,
+          "end": 3553
+        },
+        {
+          "start": 3702,
+          "end": 3708
+        },
+        {
+          "start": 3678,
+          "end": 3684
+        },
+        {
+          "start": 3519,
+          "end": 3529
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

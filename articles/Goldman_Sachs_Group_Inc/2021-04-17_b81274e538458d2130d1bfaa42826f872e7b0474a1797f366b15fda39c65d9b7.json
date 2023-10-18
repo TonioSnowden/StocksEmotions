@@ -1,0 +1,32 @@
+{
+  "_id": "b81274e538458d2130d1bfaa42826f872e7b0474a1797f366b15fda39c65d9b7",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Morgan Stanley's Quarter Sullied by Archegos",
+  "text": "<p>Archegos used billions of dollars it borrowed from banks to acquire big stakes in ViacomCBS Inc., Discovery Inc. and a handful of other media and technology companies. To amass its positions, the fund entered into derivative contracts with different banks, an arrangement that concealed the size of Archegos's total portfolio from each lender. When some of its holdings started to lose value in March, Archegos was asked to post additional collateral that it didn't have, prompting banks to seize and sell Archegos's assets at depressed prices.</p><p>More than two-thirds of Morgan Stanley's losses on Archegos resulted from collateral the bank sold at lower values after Archegos was unable to repay its margin loans. The remainder of the Archegos losses came when the bank closed out smaller positions the fund had that weren't subject to margin calls, Chief Executive James Gorman said on a conference call with analysts Friday.</p><p>While those positions weren't especially problematic for the bank, Mr. Gorman said, it chose not to take the risk that they could later sour and lead to bigger losses. \"I regard that decision as necessary and money well spent,\" he said. \"We didn't want this thing to be lingering.\"</p><p>Archegos losses notwithstanding, Morgan Stanley rounded out an all-time great first quarter from the nation's big banks. Asset prices rallied, millions of investors traded stocks with abandon and scores of technology and special-purpose acquisition companies listed their shares publicly, creating an optimal environment for banks' Wall Street divisions. On Wednesday, Morgan Stanley rival Goldman Sachs Group Inc. posted record quarterly revenue and net income.</p><p>Morgan Stanley on Friday reported quarterly profit of $4.1 billion, or $2.19 a share, on revenue of $15.7 billion. That beat the consensus estimates of analysts polled by FactSet by a wide margin, thanks in part to the $5.8 billion it generated in stock- and bond-trading revenue, a 29% increase over last year's first quarter.</p><p>Morgan Stanley's E*Trade business also benefited from the burst of trading activity among individual investors. The number of retail-trading clients at Morgan Stanley increased 7% from the end of 2020 to 7.2 million, and the average daily number of retail trades the company handled for the quarter exceeded 1.6 million.</p><p>Revenue at Morgan Stanley's wealth-management division, which includes E*Trade, increased 47% to roughly $6 billion. The firm attracted a record $105 billion in net new assets, thanks to a 6% increase in both assets in accounts overseen by Morgan Stanley financial advisers and in assets on its do-it-yourself investing platforms such as E*Trade.</p><p>In the early days of 2021, small-time investors who traded tips on internet forums like Reddit's WallStreetBets catapulted shares in GameStop Corp. and other meme stocks to new heights. E*Trade handled more than 2 million trades on a few different days in February, Jonathan Pruzan, Morgan Stanley's finance chief, said in an interview. But activity has cooled since.</p><p>In investment banking, fees more than doubled to $2.6 billion. Morgan Stanley earned a record $1.5 billion in revenue from arranging initial public offerings and stock offerings, and its revenue from advising on deals rose by a third to $480 million.</p><p>It was Morgan Stanley's obligations to an investment-banking client that prevented it from acting sooner to avoid losses on Archegos, Mr. Gorman said.</p><p>During the last week of March, the bank had a lead role arranging a sale of stock for ViacomCBS, a company in which Archegos held a large stake. Morgan Stanley waited until that offering closed before it liquidated Archegos's holdings of ViacomCBS, ceding first-mover advantage to Archegos's other lenders. Still, Morgan Stanley's losses paled in comparison to the $4.7 billion hit that Credit Suisse Group AG booked related to the Archegos meltdown.</p>",
+  "published": "2021-04-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 1588,
+          "end": 1611
+        },
+        {
+          "start": 1598,
+          "end": 1605
+        },
+        {
+          "start": 1598,
+          "end": 1622
+        },
+        {
+          "start": 1598,
+          "end": 1611
+        }
+      ]
+    }
+  ]
+}

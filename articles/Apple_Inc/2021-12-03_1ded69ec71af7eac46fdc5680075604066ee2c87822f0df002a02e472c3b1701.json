@@ -1,0 +1,48 @@
+{
+  "_id": "1ded69ec71af7eac46fdc5680075604066ee2c87822f0df002a02e472c3b1701",
+  "feed": "wall-street-journal",
+  "title": "Apple Notified State Department Employees of Phone Hacking Linked to NSO Group Software; Foreign service officers in Uganda among those informed their iPhones were compromised in attack",
+  "text": "<p>The alerts appear to be the first confirmed cases of NSO Group's mobile hacking tool, known as Pegasus, being used to successfully target American officials.</p><p>The Biden administration last month placed NSO Group on an export prohibition list that restricts the firm from obtaining some types of technology from the U.S. That came after a recent series of articles published by a global consortium of journalism organizations alleged that Pegasus, one of NSO Group's main software intrusion tools, has been used by dozens of law-enforcement and intelligence customers around the world to target and break into cellphones belonging to politicians, human-rights activists and journalists.</p><p>\"Once the inquiry was received, and before any investigation under our compliance policy, we have decided to immediately terminate relevant customers' access to the system, due to the severity of the allegations,\" NSO Group said in a statement. \"To this point, we haven't received any information nor the phone numbers, nor any indication that NSO's tools were used in this case.\"</p><p>NSO Group didn't identify the customer or customers whose access to its tools were terminated and said it would cooperate with any relevant government authorities investigating the matter. Apple has a policy of notifying users it suspects have been targeted by state-sponsored attackers. Those notifications don't include who was behind the effort. Reuters first reported that at least nine State Department employees had been hacked by an unknown NSO Group customer.</p><p>The State Department declined to confirm the specific allegations, but said it closely monitors the cybersecurity conditions of its workers.</p><p>Apple last week sued NSO Group, alleging the company had engaged in \"concerted efforts in 2021 to target and attack Apple customers, Apple products and servers and Apple through dangerous malware and spyware.\" The suit seeks to bar NSO Group from using Apple's products. It follows a similar lawsuit that the WhatsApp messaging service brought in 2019 alleging NSO Group had sent malware to 1,400 of its users. WhatsApp is owned by Meta Platforms Inc., formerly known as Facebook Inc.</p><p>NSO Group has said its technology has been used to save lives around the globe by helping law enforcement and intelligence agencies in countries that respect privacy and the rule of law to pursue terrorists and other criminals. The company has also said it has terminated contracts with governments that have abused its software and taken steps to prevent abuse.</p><p>But that has not appeased the company's critics, who have for years accused NSO Group of being one of the most prominent vendors in an expanding commercial marketplace for hacking tools. While some governments often develop their own hacking tools at intelligence agencies like the National Security Agency, others have increasingly sought to purchase digital surveillance tools from companies that specialize in building and selling them.</p><p>\"Companies that enable their customers to hack U.S. government employees are a threat to America's national security and should be treated as such by the government,\" Sen. Ron Wyden, a Democrat on the Senate Intelligence Committee who has advocated for a crackdown on hacking tool vendors like NSO Group, said Friday in response to news of the State Department notifications.</p><p>NSO Group has said that there are certain restrictions on the use of its tools, including that they are blocked from working on U.S. phone numbers. In its statement Friday, the firm acknowledged that \"once the software is sold to the licensed customer, NSO has no way to know who the targets of the customers are, as such, we were not and could not have been aware of this case.\"</p><p>Pegasus spyware allows pervasive surveillance once a phone is compromised, essentially creating a silent spying device that can access a phone's files and messages as well as its microphone and camera. To install it, the NSO Group has developed a number of sophisticated techniques, including one \"zero-click\" method discovered earlier this year that could infect an iPhonewithout requiring the owner to click a link or open a file, according to researchers who have studied the software.</p><p>Write to Dustin Volz at dustin.volz@wsj.com and Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple Notified State Department Employees of Phone Hacking Linked to NSO Group Software</p>",
+  "published": "2021-12-03T22:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1839,
+          "end": 1844
+        },
+        {
+          "start": 1791,
+          "end": 1796
+        },
+        {
+          "start": 1255,
+          "end": 1260
+        },
+        {
+          "start": 1808,
+          "end": 1813
+        },
+        {
+          "start": 1675,
+          "end": 1680
+        },
+        {
+          "start": 1928,
+          "end": 1933
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 4291,
+          "end": 4296
+        }
+      ]
+    }
+  ]
+}

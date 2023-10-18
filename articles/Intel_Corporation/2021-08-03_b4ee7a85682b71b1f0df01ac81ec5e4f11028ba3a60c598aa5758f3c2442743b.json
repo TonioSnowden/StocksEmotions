@@ -1,0 +1,32 @@
+{
+  "_id": "b4ee7a85682b71b1f0df01ac81ec5e4f11028ba3a60c598aa5758f3c2442743b",
+  "feed": "wall-street-journal",
+  "title": "Olympics Timekeeper Omega, Intel Debut New AI Tools in Tokyo; Athletes, coaches and broadcasters are leveraging machine learning and computer vision to analyze events in real time",
+  "text": "<p>To provide real-time data on volleyball matches, Omega's technology team trained algorithms to recognize serves, volleys, spikes and blocks by digitizing data from motion sensors on test players doing different shots—as well as the flight path of balls in play. That data was then fed back into the platform to form a data set of patterns of volleyball plays.</p><p>An image-tracking system following live games at the Olympics picks up movement from sensors on players' uniforms—as well as the ball—relaying data through the platform to identify shots, track the ball speed or determine the height of a jump, among other play-by-play information. Detailed coverage of each play is then posted on scoreboards in real time, acting as a kind of automated commentator on all aspects of the game. The data can also be used by live broadcasts, trainers and coaches, Mr. Zobrist said.</p><p>Omega began developing these kinds of AI-enabled software tools for the 2016 games in Rio de Janeiro, though its first significant use of motion-sensor and image-tracking technology came two years later, at the Pyeongchang Winter Games in 2018. In Tokyo, it has deployed some 400 tons of equipment, including 350 sport-specific scoreboards, along with more than 500 timekeepers and other on-site professionals, according to a company spokeswoman.</p><p>Mr. Zobrist said AI is having an enormous impact on sports technology. \"We are only just getting started,\" he said. \"It is essentially the future.\"</p><p>The global sports technology market saw an estimated $10 billion in sales last year, an amount that is expected to double by 2028, according to consulting firm Emergen Research. Much of that growth is being fueled by artificial intelligence, which in turn is driving the adoption of wearable devices, virtual reality training simulators, computer-vision coaching platforms and other tools by amateur and professional teams and athletes , the research firm said.</p><p>Emergen says sports tech providers at the Tokyo Games are benefiting from Japan's advanced 5G networks, among other digital infrastructure resources that can handle data-heavy applications. It said many international teams are leveraging machine learning and computer vision to analyze athletes' performance in real time, along with a range of coaching tools enabled by wearable devices, image-sensors and integrated AI software platforms.</p><p>\"Good AI depends on good data,\" said Whit Andrews, distinguished research vice president at information technology research and consulting firm Gartner Inc . \"Stats are a key part of sports culture, ask any kid who has ever taken a scorecard to a game.\" That wealth of data makes AI-powered data-driven analyses of athletic performance uniquely powerful, he said.</p><p>Intel Corp ., in partnership with Alibaba Group 's cloud services, developed a 3-D athlete-tracking system specifically for the Tokyo Games, which it says will be used to cover track events.</p><p>The system works by capturing more than 20 key points on an athlete's body, using a \"first-of-its-kind platform\" that combines AI software with computer-vision motion-tracking capabilities, said Rick Echevarria, vice president and general manager of Intel's Olympic and Paralympic Program.</p><p>Information on velocity, acceleration and biomechanics is extracted from this data and processed in under 20 seconds by AI software, creating a 3-D digital skeleton of each athlete. The platform applies pose-estimation algorithms—software that has been trained on digitized images—to identify when an athlete is running, jumping, throwing and other movements, measuring their stride and position on the track relative to other runners and other data.</p><p>That information is then handed off to an Intel graphics team, to create detailed visualizations of each race, available for coaches and trainers, as well as broadcasters.</p><p>TrackMan, a Danish sports-technology company, is using the same radar technology the military uses to track aircraft and missiles to track golf balls at the mens and women's Olympic golf tournaments, including the women's final round set for Tuesday at the Kasumigaseki Country Club.</p><p>The company's golf ball tracking system combines Doppler radar and subpixel-accurate optimal tracking capabilities to detect microwaves reflecting from the movement of a ball, said Fredrik Tuxen, TrackMan's co-founder and chief technology officer. It calculates changes in these wave frequencies to generate detailed data on the ball's exact speed, trajectory, spin and other variables, he said.</p><p>The system was also used by athletes training for the Olympics hammer throw and shot put competitions, the company said.</p><p>\"The precise positioning of players, and identifying who each player is on the field, is done by artificial intelligence,\" Mr. Tuxen said.</p><p>Write to Angus Loten at angus.loten@wsj.com</p>",
+  "published": "2021-08-03T15:38:00.000Z",
+  "tags": [
+    {
+      "id": "US4581401001",
+      "name": "Intel Corporation",
+      "offsets": [
+        {
+          "start": 2734,
+          "end": 2739
+        },
+        {
+          "start": 3708,
+          "end": 3713
+        },
+        {
+          "start": 27,
+          "end": 32
+        },
+        {
+          "start": 3175,
+          "end": 3180
+        }
+      ],
+      "nexusId": "10063594"
+    }
+  ]
+}

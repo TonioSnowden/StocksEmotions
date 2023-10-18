@@ -1,0 +1,20 @@
+{
+  "_id": "36f826027745d922ec1bbe2dc8b4f99f446fad7abd1f1e5b650b6cd4a9b58980",
+  "feed": "economist-newspaper",
+  "title": "African tech: Seeding the cloud",
+  "text": "<p>Most of Africa's data are currently stored elsewhere, zipping down undersea cables that often make landfall in the French city of Marseille. From the continent's southern tip it can take 180 milliseconds for a message to reach Europe and back--long enough to frustrate people trying to trade shares or play games. But a flurry of investment in data centres is now bringing the internet closer to users, laying the ground for a digital revolution.</p><p>An upheaval is overdue. Africa has more internet users than America, but only as much data-centre space as Switzerland. Demand is soaring as more people get online. Since 2016 capacity on the continent has doubled to around 250 megawatts (power usage is a common measure of capacity), according to Xalam Analytics, which tracks the industry. Such is the rate of growth that another 1,200 megawatts will be needed by 2030.</p><p>The boom is partly driven by regulation. Two dozen African countries have passed data-protection laws, or are planning to do so. They often require certain data, such as personal information, to be kept in the country. Another boost comes from competition, says Jan Hnizdo of Teraco, a leading data centre in South Africa, where liberalisation of the telecoms industry created space for such firms to flourish.</p><p>Capital is pouring in. Teraco is building Africa's largest stand-alone data centre in Johannesburg, with backing from foreign funds. Actis, a private-equity firm, is putting $250m into the industry, starting with a majority stake in a Nigerian company, Rack Centre. American investors founded Raxio with an eye on less fashionable markets, from Uganda to Mozambique.</p><p>These are just some of the providers that offer \"co-location\" facilities, renting space to an array of clients. They hope to attract the likes of banks and phone companies, which otherwise have the headache of running their own centres. The days when a bank would just put a server \"in a corner room\" are gone, says Ayotunde Coker, who left a job in finance to become the boss of Rack Centre.</p><p>Data centres need power, and lots of it. Keeping their equipment cool consumes almost as much energy as running it, which is why centres are usually in chilly places such as Scandinavia or America's Pacific north-west. Most of Africa is hot and has a lot of power cuts. \"Two or three percent of unavailability is an eternity,\" says Guy Zibi of Xalam. To keep servers running, many centres use polluting and expensive diesel generators.</p><p>Yet the potential gains from offering better connectivity and faster internet services in Africa outweigh the difficulties. Microsoft and Amazon are bringing their cloud services to the region, and have opened data centres of their own in South Africa. Huawei has helped build one for the government of Senegal. Google and Facebook are both involved in projects to lay new cables around Africa's coasts. These investments are a sign that the world's biggest companies are starting to take Africa seriously--and a reminder that the digital economy, for all its airy promise, will be grounded in fibre, steel and concrete.</p>",
+  "published": "2021-12-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2600,
+          "end": 2609
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

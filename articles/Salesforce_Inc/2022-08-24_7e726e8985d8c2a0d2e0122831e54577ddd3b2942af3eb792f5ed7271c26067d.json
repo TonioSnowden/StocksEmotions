@@ -1,0 +1,34 @@
+{
+  "_id": "7e726e8985d8c2a0d2e0122831e54577ddd3b2942af3eb792f5ed7271c26067d",
+  "feed": "wall-street-journal",
+  "title": "Stocks Inch Higher Ahead of Tech Earnings; Oil and energy stocks rise; Salesforce and Nvidia to post results after markets close",
+  "text": "<p>Oil prices climbed for a second day after Saudi Arabia and some of its OPEC+ allies suggested a cut to output, citing high volatility. Global crude benchmark Brent rose 0.3% to trade at $100.53.</p><p>Energy stocks in the S&amp;P 500 paced the benchmark's gains, rising 1.4%.</p><p>Stocks had come under pressure in recent days from a series of data releases that showed contractions in the manufacturing and services sectors. Federal Reserve officials have also signaled that interest rates are likely to continue increasing to fight inflation. The central bank begins its annual economic policy symposium in Jackson Hole on Thursday, and Fed Chairman Jerome Powell is set to speak on Friday.</p><p>\"We had this remarkable stretch coming out of those mid-July lows, and we probably overshot to the upside,\" Giorgio Caputo, a senior portfolio manager at J O Hambro Capital Management, said of the market's summer rally and subsequent slowdown. \"Now in some ways, it's back to school for all of us.\"</p><p>He added, \"We still have the same problems we need to solve: shortages of labor, shortages of energy and other commodities, and the headwinds of a tightening cycle.\"</p><p>A data release showed durable-goods orders in July were flat, coming in below economists' forecasts. Tech giants Salesforce and Nvidia are scheduled to report earnings after markets close.</p><p>\"Growth is falling quite precipitously everywhere. We've had a pretty big signal of weakening economic conditions,\" said Fahad Kamal, chief investment officer of Kleinwort Hambros. \"But I think we'll see Powell stick to his hawkish tone; he has to keep talking tough on inflation.\"</p><p>The yield on the benchmark 10-year Treasury note edged up to 3.070% from 3.053% on Tuesday, extending a three-day climb. The yield curve continues to be inverted, flashing a recessionary signal, with the two-year yield at 3.342%.</p><p>Intuit jumped 7% after the tax-prep software company reported better-than-expected earnings, authorized a share buyback and lifted its dividend.</p><p>Nordstrom tumbled 15% after the clothing retailer lowered its financial goals for the year, citing risks of a steeper economic downturn and a slowdown in consumer spending.</p><p>Overseas, the pan-continental Stoxx Europe 600 rose 0.2%. In Asia, major benchmarks declined, with the Shanghai Composite Index falling 1.9% and Hong Kong's Hang Seng down 1.2%.</p><p>Chinese real-estate developer Logan Group declined more than 50% after its shares resumed trading on Wednesday.</p><p>\"There's a lot of pessimism regarding the housing market in China, it looks really ugly with the mortgage repayment strikes,\" said Olivier Marciot, investment manager at Unigestion. \"The investment community is looking for signs that things are stabilizing on that front in China, which we haven't got at the moment.\"</p><p>Write to Anna Hirtenstein at anna.hirtenstein@wsj.com and Justin Baer at justin.baer@wsj.com</p><p>Stocks Inch Higher Ahead of Tech Earnings</p>",
+  "published": "2022-08-24T15:40:00.000Z",
+  "tags": [
+    {
+      "id": "US79466L3024",
+      "nexusId": "10009678",
+      "name": "Salesforce, Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 71,
+          "end": 81
+        },
+        {
+          "start": 1246,
+          "end": 1256
+        }
+      ],
+      "weightsV2": {
+        "weight": 6.659198,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.6591977,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

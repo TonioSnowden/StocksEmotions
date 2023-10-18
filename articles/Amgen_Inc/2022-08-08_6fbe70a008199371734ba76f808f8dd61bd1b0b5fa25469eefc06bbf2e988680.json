@@ -1,0 +1,34 @@
+{
+  "_id": "6fbe70a008199371734ba76f808f8dd61bd1b0b5fa25469eefc06bbf2e988680",
+  "feed": "wall-street-journal",
+  "title": "Pfizer Agrees to $5.4 Billion Deal for Global Blood Therapeutics; New York drugmaker to pay $68.50 a share for GBT, which sells a drug for sickle-cell disease and has two more in development",
+  "text": "<p>Pfizer Inc. has agreed to buy Global Blood Therapeutics Inc. for $5.4 billion, in a deal that would give the big drugmaker a foothold in the treatment of sickle-cell disease.</p><p>Pfizer said Monday it would pay $68.50 a share in cash for Global Blood Therapeutics, which has one of the few approved treatments for sickle-cell disease. The Wall Street Journal reported Friday that the companies were in advanced talks.</p><p>The acquisition continues a string of deals for Pfizer, which is flush with cash from sales of its Covid-19 vaccine and drug. It has said it wants to add $25 billion in revenue from business-development moves like mergers and acquisitions by 2030.</p><p>Adding Global Blood Therapeutics would bolster Pfizer's rare-diseases business and help it realize a longtime goal of selling drugs to treat sickle cell, an inherited blood disorder that affects about 100,000 people in the U.S. and 20 million worldwide, including many who are Black.</p><p>In patients with the disease, red blood cells look like crescents or sickles, rather than a normal disc shape. Due to their shape, the cells don't move easily and can block blood flow, damage organs and lead to strokes.</p><p>Researchers have been trying to develop effective treatments, including gene therapies, but the disease has proven hard to treat. A handful of drugs are approved, but most target the complications of sickle-cell disease, rather than its underlying cause. A bone-marrow transplant is the only cure.</p><p>New York-based Pfizer had tried to develop its own sickle-cell drug, but it failed.</p><p>In 2019, Global Blood Therapeutics won approval in the U.S. for a sickle-cell drug named Oxbryta. It has two other sickle-cell drugs in development.</p><p>\"The deep market knowledge and scientific and clinical capabilities we have built over three decades in rare hematology will enable us to accelerate innovation for the sickle-cell disease community and bring these treatments to patients as quickly as possible,\" Pfizer Chief Executive Albert Bourla said.</p><p>The companies estimated Global Blood Therapeutics' sickle-cell franchise could reach $3 billion in worldwide sales if the two experimental drugs produce positive study results and are approved.</p><p>Oxbryta sales have been limited so far, however. It produced $195 million in net sales last year.</p><p>Global Blood Therapeutics Chief Executive Ted Love said Pfizer's resources could help further his company's efforts to help connect patients with doctors specializing in sickle cell and build a treatment infrastructure.</p><p>Analysts also said sales could pick up if Pfizer is able to start selling the drug in more countries and takes advantage of its worldwide marketing capabilities.</p><p>Also looming is potential competition from gene therapies, which promise a cure if they too can succeed in testing and win approval.</p><p>Dr. Love said one of Global Blood Therapeutics' experimental drugs, known as GBT601, could provide strong competition to gene therapy and be an attractive option to patients if it succeeds in testing and is approved.</p><p>\"We think these patients are going to look like they have gene therapy or a bone marrow transplant,\" he said in an interview. He said researchers hope to begin the final stage of the drug's testing next year.</p><p>Pfizer's purchase, together with a recent agreement by Amgen Inc. to buy ChemoCentryx Inc., could help turn Wall Street sentiment on biotech shares. The former highfliers have slumped in recent months due to market turmoil, scientific setbacks and fear of antitrust scrutiny of combinations.</p><p>Write to Jonathan D. Rockoff at Jonathan.Rockoff@wsj.com</p><p>Pfizer Agrees to $5.4 Billion Deal for Global Blood Therapeutics</p>",
+  "published": "2022-08-08T16:58:00.000Z",
+  "tags": [
+    {
+      "id": "US0311621009",
+      "nexusId": "10036019",
+      "name": "Amgen Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 3290,
+          "end": 3300
+        },
+        {
+          "start": 3266,
+          "end": 3276
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

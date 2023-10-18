@@ -1,0 +1,20 @@
+{
+  "_id": "0b0c33c95b0f3a66377724814c6dfd704905ee0c293263b5e0c7079343704e2e",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- SpaceX To Build Lunar Lander",
+  "text": "<p>The lander deal adds to the products SpaceX is developing, with recent funding rounds raising its valuation close to $100 billion as it pursues a mix of new rockets, space taxis and hundreds of satellites for military and commercial customers.</p><p>SpaceX already flies astronauts on behalf of NASA to and from the International Space Station and is developing a large new rocket called the Super Heavy to launch the Starship vehicle on which its lunar lander is based. The Starship has made a series of test flights from Texas, some of which have ended in failure.</p><p>NASA plans to use a new rocket made by Boeing Co. for a moon mission known as Artemis 1 as early as November. It would fly around the moon before returning the Orion crew capsule produced by Lockheed Martin Corp. to Earth. SpaceX beat out competition to build the initial lander from Jeff Bezos' Blue Origin and the Dynetics unit of Leidos Holdings Inc.</p>",
+  "published": "2021-04-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 600,
+          "end": 610
+        }
+      ],
+      "nexusId": "10030932"
+    }
+  ]
+}

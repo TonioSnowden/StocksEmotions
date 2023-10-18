@@ -1,0 +1,33 @@
+{
+  "_id": "4d633ee925713023feba26704956c2beda76f51e90d5820f61d2e9195a75e2a2",
+  "feed": "reuters",
+  "title": "BRIEF-Machinists Union Members At Boeing St. Louis Vote To Ratify Modified Contract",
+  "text": "<p>* IAM SAYS NEARLY 2,500 MEMBERS WORKING AT 3 SEPARATE BOEING DEFENSE LOCATIONS VOTED TO ACCEPT MODIFIED THREE-YEAR CONTRACT OFFER FROM BOEING  Source text:  Further company coverage:</p>",
+  "published": "2022-08-03T17:10:02.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.9997775,
+      "offsets": [
+        {
+          "start": 135,
+          "end": 141
+        },
+        {
+          "start": 54,
+          "end": 60
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.7363753,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.7363752,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

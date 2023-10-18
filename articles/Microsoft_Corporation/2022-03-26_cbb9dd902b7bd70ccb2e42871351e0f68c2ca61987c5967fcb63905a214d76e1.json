@@ -1,0 +1,20 @@
+{
+  "_id": "cbb9dd902b7bd70ccb2e42871351e0f68c2ca61987c5967fcb63905a214d76e1",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE --- Heard on the Street: Okta Tries to Come Back From a Hack --- The identity-management company has strong market position, but the business impact of a recent breach won't be clear for a while",
+  "text": "<p>The past 18 months have brought several instances of companies that provide cybersecurity services reporting breaches of their own. They include SolarWinds, Mimecast and even the company once known as FireEye -- generally the first call for other companies and even government entities following a cyberattack.</p><p>Okta now joins that list, with the company reporting this week a hack by the Lapsus$ group, an outfit that has been causing trouble lately for major tech names such as Samsung, Nvidia and most recently Microsoft, one of Okta's top competitors in the market for identity-management systems.</p><p>The fact that Okta has plenty of company hasn't soothed its investors. Its share price has slid nearly 15% over the last three days since it reported the breach. That isn't an uncommon first reaction -- SolarWinds, Mimecast and Mandiant all saw their shares fall after reporting their own incidents. But those stocks were trading in the range of three to six times forward sales before those hacks; Okta was one of the more expensive stocks in the cloud category ahead of this week's news, trading around 15 times forward sales. And even that was following a 24% drop for the year as part of a major correction in the cloud-software sector.</p><p>Any recovery will take a while. The hack became public about halfway through Okta's fiscal first quarter, results for which won't be reported until late May. The nature of Okta's hack, which took place through the computer of a support engineer working for a third-party contractor, has also complicated the company's response.</p><p>According to Okta's timeline of events, the forensic firm hired by the contractor took more than a month to deliver an analysis following the actual breach in January, and that contractor then took another week to pass the information to Okta. The company's most recent statement says that less than 3% of its customer base might have been exposed to the breach, but more shoes could drop -- especially if the Lapsus$ group elects to post more damaging material online.</p><p>Even with the attack having taken place through Sitel -- a major outsourcing firm -- Okta's response has drawn criticism. Adam Tindle of Raymond James downgraded Okta's shares to a \"market perform\" rating Wednesday, noting \"the handling of its latest security incident adds to our mounting concerns.\" Truist analyst Joel Fishbein wrote that \"damage to the Okta brand, which is regarded as one of the strongest defense names in the industry, is concerning,\" in his own downgrade of the shares to a hold rating.</p><p>Offsetting that is Okta's strong position in the market for cloud-based identity-management software -- a much-needed tool for businesses looking to securely manage remote workforces. Revenue for the firm overall surged 56% to $1.3 billion in the fiscal year ended January, and Wall Street expects growth to average 35% annually over the next three years.</p><p>\"At the end of the day, Okta is the gorilla in the category and hacks are a reality for every company -- this will pass and there is no better alternative,\" said Alex Henderson of Needham. But he added that the company's handling of the situation \"left a lot to be desired.\"</p><p>With investors no longer giving cloud companies the benefit of the doubt, Okta will have to work that much harder to get back into the circle of trust.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-03-26T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 513,
+          "end": 522
+        }
+      ]
+    }
+  ]
+}

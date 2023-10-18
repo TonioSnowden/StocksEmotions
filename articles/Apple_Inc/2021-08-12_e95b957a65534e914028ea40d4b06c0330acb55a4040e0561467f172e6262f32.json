@@ -1,0 +1,40 @@
+{
+  "_id": "e95b957a65534e914028ea40d4b06c0330acb55a4040e0561467f172e6262f32",
+  "feed": "wall-street-journal",
+  "title": "Unity Plays Its Apple Card Well",
+  "text": "<p>Unity's second-quarter results late Tuesday revved up investors, with revenue jumping 48% year over year to $273.6 million.</p><p>That was an acceleration from the previous two quarters and about 13% ahead of Wall Street analysts' projections. The company's revenue forecast for the third quarter was also ahead of estimates, sending Unity's stock up more than 13% by Wednesday's close -- its second-best single-day gain since going public last September.</p><p>Unity has long been best-known for its tools used by videogame developers, such as its self-titled game engine.</p><p>But Unity's largest business consists of services used by videogame publishers and other companies to host their content and generate revenue from it -- typically through advertising and in-game transactions. This has proven to be a lucrative business given the shift in the game industry to focus on live services that drive recurring revenue as opposed to upfront sales.</p><p>The company's Operate Solutions segment generated nearly $584 million in revenue for the trailing 12-month period ended June -- up 56% from the same period last year.</p><p>But since many of the games served by Unity are played on Apple's iOS mobile platform, investors have worried about the impact of recent changes made by the iPhone giant.</p><p>Those changes limit the ability of companies to make use of Apple's advertising identification tag for users, known as IDFA, unless users opted in.</p><p>Apple announced the changes in June 2020 -- three months before Unity's initial public offering. Unity thus added a warning to its IPO filing but noted the effect of the proposed changes wasn't yet clear.</p><p>The recent results gave some needed clarity. Apple finally enacted the changes in April, but business at Unity's Operate segment that would have felt the impact actually picked up, with revenue there jumping 63% year over year compared with a 40% rise in the March quarter.</p><p>Unity has amassed its own huge pool of valuable user data -- the company says it now captures and analyzes 50 billion in-app events each day -- which puts it in a prime position to help customers direct their advertising spending.</p><p>\"Hence, Unity is emerging as a net beneficiary of IDFA for now and appears to be gaining market share,\" wrote Stephen Ju of Credit Suisse.</p><p>Not everyone can beat Apple at their own game.</p>",
+  "published": "2021-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1333,
+          "end": 1338
+        },
+        {
+          "start": 16,
+          "end": 21
+        },
+        {
+          "start": 1671,
+          "end": 1676
+        },
+        {
+          "start": 2292,
+          "end": 2297
+        },
+        {
+          "start": 1160,
+          "end": 1165
+        },
+        {
+          "start": 1421,
+          "end": 1426
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

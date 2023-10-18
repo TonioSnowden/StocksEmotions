@@ -1,0 +1,32 @@
+{
+  "_id": "10d904ca01752010ef03d14529fe2f9d40d95c9ad878c6cb9a0ad1882f94bffb",
+  "feed": "wall-street-journal",
+  "title": "Business News:  Boeing  Postpones  Starliner  Launch  ----  By Micah Maidenberg",
+  "text": "<p>   Boeing Co. and the National Aeronautics and Space Administration postponed the launch of the company's Starliner space capsule after a mishap at the International Space Station on Thursday involving a Russian vehicle. </p><p>   The launch of the Starliner had been scheduled for Friday afternoon. Boeing had spent months preparing for the flight after a December 2019 attempt to send the capsule to dock with the space station failed when a software error sent it into the wrong orbit, among other issues. </p><p>   Officials on Thursday decided to put off launching the Boeing vehicle after a flight-control team noticed at 12:45 p.m. ET that the Russian spacecraft, called the Nauka, inadvertently fired its thrusters while it was docked to the space station. That forced the space station to shift out of its expected orientation in space, according to NASA. </p><p>   The launch could go ahead on Aug. 3, NASA officials said. </p><p></p>",
+  "published": "2021-07-30T06:05:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 287,
+          "end": 293
+        },
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 551,
+          "end": 557
+        },
+        {
+          "start": 0,
+          "end": 10
+        }
+      ]
+    }
+  ]
+}

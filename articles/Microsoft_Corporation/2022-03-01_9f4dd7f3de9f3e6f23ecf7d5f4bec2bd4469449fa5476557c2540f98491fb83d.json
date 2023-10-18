@@ -1,0 +1,28 @@
+{
+  "_id": "9f4dd7f3de9f3e6f23ecf7d5f4bec2bd4469449fa5476557c2540f98491fb83d",
+  "feed": "wall-street-journal",
+  "title": "Ukraine Conflict Shows Wartime Norms Don't Exist for Cyber Operations; Impromptu ‘IT Army' and hacks tied to Russia bring noncombatants into a digital war zone",
+  "text": "<p>\"The application of any international norm to a particular cyber incident requires attribution of the incident to a state actor. The attribution must be reasonable in order to be legitimate, but international law lacks a definition for what qualifies as reasonable or legitimate in cyberspace,\" he said.</p><p>Hacks launched against Ukrainian infrastructure in recent weeks include massive distributed denial of service attacks against banks that disrupted websites and automated teller machines. Online disinformation and psychological operations are targeting civilians.</p><p>Microsoft Corp. President Brad Smith said in a blog post on Monday that some cyber activity in Ukraine might violate existing rules of war. Microsoft researchers detected a new malware variant targeting critical infrastructure operators in Ukraine, which the company dubbed FoxBlade.</p><p>\"These attacks on civilian targets raise serious concerns under the Geneva Convention, and we have shared information with the Ukrainian government about each of them,\" he wrote.</p><p>Christopher Whyte, an assistant professor in the homeland security and emergency preparedness program at Virginia Commonwealth University, said that many treaties focus on the use of specific weapons, but cyber tools can be multipurpose in nature. A network scanner used to fix flaws in defenses, for instance, can also be used to find them in an adversary's systems and inject malware.</p><p>Simply using cyber tools isn't enough to trigger sanctions, which require attribution and evidence that attacks were meant to cause harm, he said.</p><p>\"This is why there's not really any prevailing, constraining political framework on cyber,\" he said.</p><p>The growing prominence of hacktivists and volunteer hackers in the war also concerns analysts, along with a declaration from ransomware gang Conti, which said it would strike at the critical infrastructure of any country that attacks Russia.</p><p>\"The involvement of nonstate actors complicates the international legal landscape — who is a combatant, and who isn't?\" said Lauren Zabierek, executive director of the cyber project at Harvard Kennedy School's Belfer Center. \"There will be a lot of reflection and discussion of lessons to be learned with how this has unfolded and how this may change the nature of conflict in the future.\"</p><p>Write to James Rundle at james.rundle@wsj.com</p>",
+  "published": "2022-03-01T21:40:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 707,
+          "end": 716
+        },
+        {
+          "start": 567,
+          "end": 576
+        },
+        {
+          "start": 567,
+          "end": 582
+        }
+      ]
+    }
+  ]
+}

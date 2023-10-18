@@ -1,0 +1,64 @@
+{
+  "_id": "d806bde15df911cfdfb29f5bc333e49771e36f848f9bace53f011a0cf9e9b995",
+  "feed": "economist-newspaper",
+  "title": "Electronic waste: iMac, iPhone, iRepair",
+  "text": "<p>No longer. In a series of moves that surprised many, Apple earlier this month promised a software fix to make the new iPhone model more repairable, and on November 17th announced that it will allow individuals to mend their devices and provide manuals, tools and parts. Even its critics applauded, especially the leaders of a growing global \"right-to-repair\" movement including Kyle Wiens, the boss of iFixit, a website that sells parts and publishes free repair guides.</p><p>Yet the likely impact of the \"Self Service Repair\" programme is unclear. A new online store will open from early next year. Owners who return used parts for recycling will get credit toward a purchase. Independent repair shops can join in, without signing onerous agreements with Apple. And, crucially, repairs by individuals will no longer void the warranty (damage done while tinkering is not covered).</p><p>But the toolmaker is ceding less ground than first appears. Apple's replacement parts, like its premium devices, cost a pretty penny. A new screen for the iPhone 12 is priced at $268. Nor is it clear to what extent Apple will make its devices easier to repair. Because even swapping a battery requires removing the easily breakable screen, not many will try this at home.</p><p>Still, if Apple went further, its repair programme could become a model for the smartphone and, perhaps, the wider electronics industry. Even its current form will push rival device-makers to follow suit. \"When it comes to repairs, Samsung Electronics is doing even worse than Apple,\" says Mr Wiens. Apple's move, he adds, has in one fell swoop given the lie to many arguments that electronics firms use against making gadgets easier to repair, such as that people might hurt themselves.</p><p>Apple has also managed to get ahead of the regulatory trend, says Nabil Nasr of the Rochester Institute of Technology, who is working on a study for the Group of Seven (G7) wealthiest democracies about the life cycle of consumer-electronics products. Regulators, he explains, are tackling the problem of e-waste--it may soon become difficult for firms to comply with all the mandates. In America, for instance, legislatures in 27 states are now discussing right-to-repair bills. The European Union is also moving towards passing such rules.</p><p>Apple-watchers wonder if the firm will try the same strategy elsewhere in its business. It could make pre-emptive concessions, for example, in the heated controversy about how it governs the app store on the iPhone. On November 9th a federal judge in California denied Apple's request to stay part of a recent ruling. This requires it by December 9th to allow app developers to inform their users how they can pay them directly and avoid Apple's fees of up to 30% of the purchase price. Perhaps Apple might loosen up there, too.</p>",
+  "published": "2021-11-27T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1258,
+          "end": 1263
+        },
+        {
+          "start": 751,
+          "end": 756
+        },
+        {
+          "start": 1091,
+          "end": 1096
+        },
+        {
+          "start": 1548,
+          "end": 1553
+        },
+        {
+          "start": 2772,
+          "end": 2777
+        },
+        {
+          "start": 2546,
+          "end": 2551
+        },
+        {
+          "start": 53,
+          "end": 58
+        },
+        {
+          "start": 1525,
+          "end": 1530
+        },
+        {
+          "start": 2715,
+          "end": 2720
+        },
+        {
+          "start": 1736,
+          "end": 1741
+        },
+        {
+          "start": 2277,
+          "end": 2282
+        },
+        {
+          "start": 936,
+          "end": 941
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

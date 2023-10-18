@@ -1,0 +1,20 @@
+{
+  "_id": "025e51a016e1e9b06b0deaae81549b88b5258a32ed2a701b327dc5b2b5c685d6",
+  "feed": "wall-street-journal",
+  "title": "U.S. Has a Cybersecurity Warning System",
+  "text": "<p>Lost amid the universal hand-wringing around the SolarWinds attack was that the process actually worked. Within hours of notification from FireEye, CISA rapidly used its bullhorn to alert government agencies, private-sector partners and the American people about the hack and provided immediate steps for network defenders to mitigate the compromise, which was unprecedented in its size, scope, scale and sophistication.</p><p>Each year, CISA issues thousands of cyber alerts, updates, guides and directives to partners throughout America and the rest of the world. Its warning system relies on information sharing and partnerships with the private sector, the rest of government and the intelligence community.</p><p>Many vulnerabilities and threats aren't discovered by the government but are regularly uncovered by hackers who find bugs, notify companies and often work with them to develop fixes. In turn, CISA can immediately issue directives, as it did during SolarWinds and the Microsoft Exchange compromise, that mandate action for federal agencies and sound the clarion call for others to heed.</p><p>Improving American cybersecurity requires everyone -- government entities and private-sector partners alike -- working together to stop attacks. But while there is always room for improvement, there is a warning system in place and it is working.</p><p>Kevin Benacci</p><p>Columbus, Ohio</p><p>Mr. Benacci is former chief external affairs officer at the Cybersecurity and Infrastructure Security Agency.</p>",
+  "published": "2021-04-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 973,
+          "end": 982
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

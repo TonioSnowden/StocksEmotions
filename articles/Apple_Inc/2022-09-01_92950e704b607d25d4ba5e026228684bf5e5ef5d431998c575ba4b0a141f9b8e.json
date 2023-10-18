@@ -1,0 +1,34 @@
+{
+  "_id": "92950e704b607d25d4ba5e026228684bf5e5ef5d431998c575ba4b0a141f9b8e",
+  "feed": "wall-street-journal",
+  "title": "U.S. Funds Are Taking A Gamble on European Soccer --- AC Milan takeover shows American investors are viewing the sport as an undervalued asset",
+  "text": "<p>On Wednesday, Italy's AC Milan officially passed from one American owner to another: Gerry Cardinale's private-equity firm RedBird Capital Partners took over from Elliott Management. RedBird, which controls France's Toulouse FC and has a stake in the owner of England's Liverpool FC, also said the New York Yankees baseball franchise would take a minority stake.</p><p>Traditionally, soccer clubs were acquired by Russian and Arab oligarchs for prestige. Still, many owners do hope to benefit from long-term capital appreciation and in a few cases -- namely the Glazer family's control of Manchester United -- milk clubs for stable returns. Lately, though, a new breed of investor has appeared: U.S. funds focused on undervalued assets. Last September, for example, Miami-based 777 Partners bought Italian club Genoa CFC.</p><p>The pandemic hit sports hard, opening a window of opportunity for such investors. But they also have a longer-term rationale: The belief that European soccer can be \"Americanized.\"</p><p>To an extent, this trend seems inevitable, given how much money European soccer leaves on the table. In 2019, the UEFA Champions League collected $25 million a game, compared with $60 million for the National Football League. New owners hope that investment, potential format changes and the entry of streaming platforms such as Amazon.com and DAZN competing for broadcast rights could create a catchup effect. Loss-making domestic leagues like Italy's Serie A have been mismanaged too, which makes a former glory like AC Milan a prime target for value investors. RedBird is paying $1.2 billion for it, compared with the GBP 4.3 billion price, equivalent to $5 billion, fetched by London's Chelsea FC this year.</p><p>AC Milan just conquered its first domestic title in 11 years under Elliott, which could speak to the success of U.S. financial management. Likewise, RedBird's Toulouse FC got promoted to the first French tier. The English Premier League's turbocharged financialization over the past two decades, added to stricter financial controls, has brought some sustainability to soccer finances.</p><p>However, it may be hard to push more than one league on international audiences. Furthermore, the battle for soccer broadcast rights had already ebbed before Covid-19. Streaming firms like Apple, Disney and Amazon may still be splurging on sports, but they are also starting to cut costs. Meanwhile, last year's fiasco over plans for a European Super League shows that change will come slowly.</p><p>Crucially, investors shouldn't care if more wins bring in more revenues. What they want is profits, and Mr. Cardinale's apparent belief that those are related to sporting success is on shaky ground. A paper published in 2020 found that, in European soccer, focusing on profitability means not spending enough to win trophies, which angers fans. Even when winning comes first, this doesn't translate into higher margins: The outsize power of soccer players and the lack of the strict salary controls found in the U.S. means that windfalls ultimately end up being captured by labor. This is why listed soccer clubs have performed terribly for shareholders and have subpar returns on assets.</p><p>To be sure, a private-equity bubble is great for investors in clubs such as Manchester United to cash out. There are also other ways to gain investing exposure: San Francisco-based Sixth Street Partners recently took advantage of Catalan giant FC Barcelona's financial woes to buy 25% of its domestic broadcast revenue. RedBird has ample sporting expertise and its focus on youth academies, analytics and wage discipline is the right approach. Against such profit-insensitive competition, however, financially minded investors may find they are always playing uphill.</p>",
+  "published": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 2284,
+          "end": 2289
+        },
+        {
+          "start": 2266,
+          "end": 2271
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.3966746,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.60332537,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

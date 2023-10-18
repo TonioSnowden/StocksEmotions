@@ -1,0 +1,24 @@
+{
+  "_id": "64ed126cb4352cea39a0203628a95d59b9e2cb1551e2c3f7b7b1507821c35137",
+  "feed": "wall-street-journal",
+  "title": "FBI Calls For Firms to Report Hacks Directly to Law Enforcement; A top FBI cyber official warns that reporting delays could hinder criminal investigations into hackers",
+  "text": "<p>Cutting the FBI out of the direct line of reporting, he said, could add precious hours to attempts by U.S. officials to dissect hacking methods, track down attackers and trace funds extorted from businesses after ransomware strikes.</p><p>\"Twenty-four hours probably wouldn't seem like a big delay to most people, but the help we can offer within that time can be the difference between a business or a piece of critical infrastructure staying afloat or being crippled,\" Mr. Vorndran said at a hearing held by the House Committee on Oversight and Reform.</p><p>\"Why would a team bench one of its best players in the first quarter of the Super Bowl?\" he added. \"It doesn't make a lot of sense to me.\"</p><p>The statement marks the latest disagreement between the Biden administration and lawmakers over details that could shape first-of-their-kind requirements for businesses. The ability to seamlessly distribute details about hacks across the public and private sectors would make the information more helpful in countering threats, cybersecurity experts say.</p><p>Some executives have criticized CISA, which is tasked with protecting critical infrastructure, as too slow to provide meaningful intelligence in countering fast-moving threats from foreign governments and criminal hacking groups. The agency in recent months has launched a new partnership with cloud providers such as Amazon.com Inc., Microsoft Corp. and Alphabet Inc.'s Google to bolster its capability as a data clearinghouse.</p><p>Officials from the White House, CISA and FBI on Tuesday said the agency has the necessary procedures in place to share such information with law enforcement, which in recent months has stepped up attempts to disrupt hacking groups and seize stolen funds. Last week, the Justice Department said it retrieved $6.1 million and announced the arrest of a suspect allegedly linked to the REvil ransomware group behind the hack this summer of technology provider Kaseya Ltd.</p><p>But there are cases when CISA's mechanism for sharing data with federal partners such as the FBI or Secret Service may not work as intended, said Brandon Wales, the agency's executive director.</p><p>\"That is not the standard operating procedure that we operate under,\" he added.</p><p>The FBI's Mr. Vorndran called on lawmakers to expand the DOJ's role in a hack-reporting mandate. Current proposals being considered in Congress give power to CISA to define details such as what incidents and businesses would be covered. CISA is housed within the Department of Homeland Security.</p><p>\"The administration also holds that both DHS and DOJ should be coequal partners in developing the rules that will be used to set incident-reporting requirements,\" Mr. Vorndran said in written testimony.</p><p>The yearslong push for such a law has gained steam in recent months after a spate of cyberattacks that hobbled digital supply chains and critical infrastructure. Russia-linked hackers last year breached federal agencies through SolarWinds Corp. software in an espionage campaign, while criminal hackers in May disrupted the East Coast's largest gas pipeline.</p><p>Biden administration officials have called for a 24-hour reporting window and fines for companies that don't report such hacks. But an amendment to the National Defense Authorization Act this month proposed a 72-hour timeline and no penalties, largely following the private-sector's suggested blueprint.</p><p>Companies say they need the extra time to analyze hacks and warn that punishment for breaking the rules could jeopardize Washington's broader attempts to build out public-private cybersecurity partnerships.</p><p>Write to David Uberti at david.uberti@wsj.com</p>",
+  "published": "2021-11-16T19:26:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1378,
+          "end": 1387
+        },
+        {
+          "start": 1378,
+          "end": 1393
+        }
+      ]
+    }
+  ]
+}

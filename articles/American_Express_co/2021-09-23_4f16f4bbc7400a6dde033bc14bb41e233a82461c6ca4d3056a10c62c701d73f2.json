@@ -1,0 +1,24 @@
+{
+  "_id": "4f16f4bbc7400a6dde033bc14bb41e233a82461c6ca4d3056a10c62c701d73f2",
+  "feed": "wall-street-journal",
+  "title": "Banks Share Data to Block Cyberattacks; Cooperation between financial firms has helped thwart attacks, banks say",
+  "text": "<p>This collaboration has thwarted a number of attacks in the past year, bank executives say.</p><p>In September 2020, Santiago, Chile-based Banco Falabella became concerned it would soon come under attack by hackers. Distributed denial of service attacks, which flood servers with traffic to shut down websites and applications, were rippling across the financial sector as part of a long-running extortion campaign. Meanwhile, certain criminal gangs were besieging Latin American companies in particular with ransomware attacks.</p><p>Juan Carrasco, the bank's head of cybersecurity, turned to others for help. He began researching attack patterns and technical data from 16,000 banks, payments providers, insurers and other financial firms shared via FS-ISAC's intelligence-sharing platform.</p><p>\"We noticed a pattern on FS-ISAC's Intelligence sharing platform where the threat actor methodically targeted Brazilian organizations, then moved on to target Argentinian firms, which meant that Chile would likely be next,\" Mr. Carrasco said.</p><p>He compared information on how these hackers broke into other companies with his own systems' defenses, he said, closing gaps that could have led to successful attacks.</p><p>The increased cooperation among banks represents a marked shift for an industry that has occasionally struggled to build trust among competitors. Previous attempts to launch information-sharing platforms stalled, including an FS-ISAC-sponsored product named Soltra Edge, which shut down around two years after its 2015 launch.</p><p>On the current FS-ISAC platform, activity has increased by 60% in the past 12 months, with companies from 70 countries, the organization said.</p><p>The increase reflects the heightened risk, cadence, and sophistication of attacks, said FS-ISAC Chief Executive Steve Silberstein. Companies are also being more open, he said, sharing experiences of cyberattacks with each other to determine methods of defense.</p><p>Fred Gibbins, chief information security officer at American Express Co., said that the quality of the information being shared, not just the quantity, has also improved. In addition to cybersecurity, he said, participants such as AmEx are also using and sharing information for other purposes.</p><p>\"It kind of goes beyond cybersecurity now, the intelligence feeds into fraud and anti-money-laundering, privacy and other trends, as well,\" he said. Whereas in the past the information shared was technical data such as indicators of attacks, information now being shared includes categories such as geopolitical data for more expansive views of risk, he said.</p><p>Mr. Silberstein said that over the next 12 months, he would like to see small and medium-size participants increase their usage of the information provided by other companies, and to contribute their own. Likening FS-ISAC and similar organizations in other sectors to a global sensor network, he said, the nonprofit's efficiency and usefulness increases as more participate.</p><p>Write to James Rundle at james.rundle@wsj.com</p><p>Banks Share Data to Block Cyberattacks</p>",
+  "published": "2021-09-23T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US0258161092",
+      "name": "American Express Company",
+      "offsets": [
+        {
+          "start": 1975,
+          "end": 1991
+        },
+        {
+          "start": 2154,
+          "end": 2158
+        }
+      ],
+      "nexusId": "10021878"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "8883ca85ada52f1a0c409ad59a01b00a301ffa9e55d1067cec7667aef39d77ed",
+  "feed": "wall-street-journal",
+  "title": "Technology: Big Hack  Leads to  Scrutiny  Of Vendors  ----  By David Uberti and Kim S. Nash",
+  "text": "<p>   The hack of SolarWinds Corp. provided an unwanted holiday gift that will keep on giving to many companies: a jolt to the supply chains that help the digital economy run. </p><p>   After working in recent weeks to assess their exposure to the attack on the software provider, businesses have turned to probing other vendors' security, re-evaluating vetting processes for partners and even pausing updates to applications, executives say. Cybersecurity experts say the task could grow more complex as details about the hack continue dribbling out. </p><p>   The efforts are reminiscent of measures taken after the Sept. 11, 2001, terrorist attacks to bolster aviation security, said Omar Khawaja, chief information security officer of nonprofit insurance and care provider Highmark Health. The fallout from the SolarWinds hack is pressuring firms to more aggressively review their technology, he said, even if it slows business. \"This is a turning point in the digital world,\" Mr. Khawaja said. </p><p>   Public- and private-sector organizations assessed how they used SolarWinds software after the Austin, Texas-based company disclosed last month that as many as 18,000 customers downloaded a malicious update. </p><p>   The incident pushed many businesses to analyze their network connections with third-party partners -- and even those partners' collaborators -- to gauge whether attackers could break in by moving through a target's supply chain to access or steal data. </p><p>   After Cisco Systems Inc. disclosed in December that it found corrupted SolarWinds software on its network, many customers called to ask about their exposure, said Matt Watchinski, vice president of the tech firm's Talos threat-intelligence group. </p><p>   Cisco isolated a small number of systems affected by the hack and had \"to go back to our own suppliers and say, 'Were you affected?'\" he said. The hack didn't have an impact on Cisco's products and customer data, Mr. Watchinski said. </p><p>   To guard Voya Financial Inc.'s network, Chief Information Security Officer Raj Badhwar said he blocked technology partners caught up in the hack from sending upgrades or patches. Mr. Badhwar won't unblock them until they provide a test showing no evidence of the malware, he said. </p><p></p>",
+  "published": "2021-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US17275R1023",
+      "nexusId": "10013206",
+      "name": "Cisco Systems, Inc.",
+      "offsets": [
+        {
+          "start": 1439,
+          "end": 1457
+        },
+        {
+          "start": 1680,
+          "end": 1685
+        },
+        {
+          "start": 1857,
+          "end": 1862
+        }
+      ]
+    }
+  ]
+}

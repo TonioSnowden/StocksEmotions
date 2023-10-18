@@ -1,0 +1,48 @@
+{
+  "_id": "0d8f677a7471f16f3982b73b68ef5c6587944686848e1fb09762383b94ac2a8f",
+  "feed": "wall-street-journal",
+  "title": "The Ukraine Crisis: Cyber Strikes Rise Against Countries Supporting Ukraine, Microsoft Says",
+  "text": "<p>The U.S. saw the most of any country outside Ukraine, accounting for 12% of the global total since the war in Ukraine began on Feb. 24, the tech company said.</p><p>\"As a coalition of countries has come together to defend Ukraine, Russian intelligence agencies have stepped up their network penetration and espionage activities targeting governments outside Ukraine,\" the report said. \"This increase appears to be most focused on obtaining information from inside the governments that are playing critical roles in the West's response to the war.\"</p><p>Senior Biden administration officials warned before Russia's invasion of Ukraine that Moscow was likely to take aim at the U.S. with cyberattacks, though catastrophic attacks on critical infrastructure have either not taken place or been unsuccessful so far.</p><p>Microsoft didn't provide data to compare the recent flurry of alleged Russian cyber operations with what the company's threat-intelligence team normally observes, but described it generally as an increase in activity. Because Microsoft products are so widely used across the globe, the company has unique visibility into the actions of various hacking groups.</p><p>The Russian Embassy in Washington didn't respond to a request for comment. Moscow has routinely denied allegations of cyberattacks against other countries and said it has been victimized recently by cyberattacks launched by Western powers.</p><p>Since the war began, Microsoft said it detected Russian network-intrusion efforts on 128 targets in 42 countries outside Ukraine, which cyber firms and the Ukrainian government have said also suffered a regular onslaught of Russian cyberattacks. Many of the alleged Russian attacks were unsuccessful and smaller in scale than what many experts initially anticipated. Microsoft said in April that six hacking groups linked to the Russian government attempted hundreds of cyberattacks in Ukraine since Russia's invasion, including dozens intended to destroy computer systems.</p><p>Overall, 63% of the global tally of Russia-linked attacks were against NATO members, Microsoft said, and those geographically closest to Ukraine have sustained the most attacks, with Poland enduring more than any other in the region.</p><p>So far, just under a third of the alleged cyber-espionage attacks successfully compromised the targets, Microsoft said, and at least a quarter of those have led to confirmed theft of data.</p><p>Russia has also increased its use of cyber-enabled influence operations against both domestic and international audiences in an attempt to boost its war goals, Microsoft said.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2022-06-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 801,
+          "end": 810
+        },
+        {
+          "start": 1422,
+          "end": 1431
+        },
+        {
+          "start": 2060,
+          "end": 2069
+        },
+        {
+          "start": 2558,
+          "end": 2567
+        },
+        {
+          "start": 1027,
+          "end": 1036
+        },
+        {
+          "start": 77,
+          "end": 86
+        },
+        {
+          "start": 1768,
+          "end": 1777
+        },
+        {
+          "start": 2313,
+          "end": 2322
+        }
+      ]
+    }
+  ]
+}

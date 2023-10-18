@@ -1,0 +1,38 @@
+{
+  "_id": "ae5eca6796053106da86a4fafb042e506cee6f22da9c8b48d499684059d4fb89",
+  "feed": "wall-street-journal",
+  "title": "S&P 500, Blue Chips Gain On Strong Retailer Reports --- Walmart shares rise 5.1% after company raises its outlook for fiscal year",
+  "text": "<p>Stocks have largely rallied in recent days, with the S&amp;P 500 climbing for four straight weeks as of last Friday. Some investors view the rally as a sign of easing negative sentiment. Others believe that the momentum may be fading, citing recent weak data on China's economy and U.S. manufacturing.</p><p>\"Every time we're seeing a dip, the buyers show up, and I think that's more a reflection of the fact that far too many managers were way underweight equities for the reality and now they're chasing momentum,\" said Derek Amey, partner and co-chief investment officer of StrategicPoint Investment Advisors.</p><p>Investors might be realizing their bleaker outlook in recent weeks was overestimated, he said, noting that year-over-year inflation slowed in July and \"hopefully has peaked.\"</p><p>Mr. Amey said his firm remains overweight in industrials and healthcare and slightly underweight in technology and discretionary sectors.</p><p>Investors have been pleasantly surprised by earning reports from big-name retailersthis week as they gauge how rising prices are affecting consumer spending. Walmart and Home Depot reported on Tuesday and Target and others are scheduled for later in the week.</p><p>\"It's going to be about inventory levels, margins and pricing power and if consumers are still spending on discretionary, or if all their wages are going to food and energy,\" said Esty Dwek, chief investment officer at FlowBank.</p><p>Walmart rose $6.77, or 5.1%, to $139.37 after the big-box retailer reported earnings that beat estimates. The company also raised its outlook for the fiscal year, less than a month after it had issued a profit warning. Its chief executive said the company had been able to cut costs in its supply chains.</p><p>Home Depot gained $12.77, or 4.1%, to $327.38 after the retailer posted record quarterly sales and earnings that beat Wall Street's estimates but also said customer transactions had declined.</p><p>\"I think there are some clues that the consumer is starting to say, how can I save some money and buy some of these cheaper items -- house brands versus some name brands,\" said Jon Maier, chief investment officer at Global X ETFs.</p><p>The bond market continued to flash a recessionary signal on Tuesday, with the yield curve remaining inverted. The yield on the benchmark 10-year Treasury note rose to 2.822%from 2.790% Monday, while the two-year yield reached 3.249%.</p><p>Oil prices edged lower. Global crude benchmark Brent was down 2.9% to $92.34 a barrel, closing at its lowest settlement value since February.</p><p>Overseas, the pan-continental Stoxx Europe 600 added 0.2%. Early Wednesday, Japan's Nikkei 225 was up 0.8%, Hong Kong's Hang Seng Index was up 0.5%, South Korea's Kospi was down 0.5% and the Shanghai Composite and Australia's S&amp;P ASX 200 were up less than 0.1%. S&amp;P 500 futures fell less than 0.1%.</p>",
+  "published": "2022-08-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4370761029",
+      "nexusId": "10039838",
+      "name": "The Home Depot, Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1079,
+          "end": 1089
+        },
+        {
+          "start": 1698,
+          "end": 1708
+        },
+        {
+          "start": 1086,
+          "end": 1096
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0000412,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.1246414e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

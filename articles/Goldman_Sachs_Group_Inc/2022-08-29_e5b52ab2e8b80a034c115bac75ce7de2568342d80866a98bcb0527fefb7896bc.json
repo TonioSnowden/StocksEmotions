@@ -1,0 +1,38 @@
+{
+  "_id": "e5b52ab2e8b80a034c115bac75ce7de2568342d80866a98bcb0527fefb7896bc",
+  "feed": "wall-street-journal",
+  "title": "World News:  Industrial  Profit  Declines  In China  ----  By Dave Sebastian",
+  "text": "<p>   China's industrial profit dropped in the first seven months of the year, reversing a year-on-year increase in the first half, as sporadic Covid-19 outbreaks and bad weather weighed on the world's second-largest economy. </p><p>   Industrial profit dropped 1.1% from a year earlier in the January-to-July period, offsetting a 1% increase reported in the first half, the National Bureau of Statistics said on Saturday. </p><p>   A record heat wave and drought cut into China's industrial production, and Beijing recently unveiled tens of billions in economic support for power generation and agriculture. </p><p>   The government has forced many factories to curtail operations, including large manufacturers such as Foxconn Technology Group, a major supplier to Apple Inc., in response to the heat wave. </p><p>   Input costs are high and enterprise profit declined slightly, said Zhu Hong, a senior statistician at the National Bureau of Statistics, adding, \"We still need to make painstaking efforts\" to have \"a sustained and stable recovery of the industrial economy.\" </p><p>   The drought has added to other challenges for Chinese economy. </p><p>   Covid-19 measures, which have confined tens of millions of people temporarily to their homes, led to broad economic consequences. The yuan recently dropped to its weakest level against the U.S. dollar in two years. </p><p>   A downturn in the country's real-estate market, weak demand and cost pressures reduced profit in the iron-and-steel industry by 80.8% in the first seven months of 2022 from the year-earlier period, the statistics bureau said. </p><p>   China's auto makers reported the steepest profit increase among all the surveyed industries because of factors including supply-chain recovery and a tax cut on vehicle purchases, the bureau said. Profit increased 77.8% on year in July, up 30.1 percentage points from June, it said. </p><p>   Industrial profit at state-owned enterprises rose 8% for the January-to-July period from the year-earlier period, according to the bureau. Private and foreign companies reported declines of 7.1% and 14.5% for the period, respectively, it said. </p><p>   \"The divergence in profits across various sectors and firms remained significant,\" Goldman Sachs Group Inc. analysts wrote in a note to clients. </p><p>   China is trying to shore up its economy ahead of a twice-a-decade party congress this year, at which President Xi Jinping is expected to secure a third term in office. </p><p>   Last Monday, China's central bank cut its benchmark interest rates on loans to households and businesses, though economists expressed skepticism that the measures would do much to stimulate growth. </p><p></p>",
+  "published": "2022-08-29T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99964,
+      "offsets": [
+        {
+          "start": 2144,
+          "end": 2151
+        },
+        {
+          "start": 2144,
+          "end": 2168
+        },
+        {
+          "start": 2144,
+          "end": 2157
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "b069065f0dec5ee7cfa86d3d3e3b546a5efbd0c938de4ad3d9941e144a0bd4d3",
+  "feed": "wall-street-journal",
+  "title": "Business News: What Ethereum's Big 'Merge' Means To Crypto Industry",
+  "text": "<p>To be sure, the ether rally could fade at any time. This month, Ethereum co-founder Vitalik Buterin said via Twitter that the upgrade should take place on or around Sept. 15, though he said the exact date isn't guaranteed. The merge has been in the works for years and has been delayed several times for technical reasons.</p><p>The upgrade is a difficult technological undertaking in part because there are thousands of decentralized applications with billions of dollars deposited in them running on the Ethereum blockchain, according to Katie Talati, director of research at crypto-asset manager Arca. \"Because there's so much potential for value to be lost, they had to be very careful with each step of the road map to make sure that there weren't any issues or any flaws,\" Ms. Talati said.</p><p>Some investors think that is a recipe for problems. \"The Ethereum team is trying to fix an airplane in midflight,\" said Cory Klippsten, founder and chief executive of Swan Bitcoin, a bitcoin financial-services company.</p><p>Danny Ryan, a researcher at the Ethereum Foundation, expressed confidence in the September launch. The Ethereum Foundation is a nonprofit that supports Ethereum and related technologies. \"It's probably the most complicated blockchain upgrade that's ever happened but the amount of preparation work, testing and security analysis that has gone into this is pretty astounding,\" he said.</p><p>Ethereum is a platform for developers to build and operate crypto applications, much like IOS or Android. But instead of being controlled by Apple or Google, these applications are decentralized.</p><p>The crypto market has, for the most part, been in the doldrums since peaking in November. Some analysts and investors view the upgrade as one of the few coming catalysts that could reinvigorate the market. The upgrade is called the Merge because it is the merging of the current proof-of-work Ethereum blockchain and the proof-of-stake \"Beacon Chain\" created by Ethereum developers. Proof of work and proof of stake are mechanisms that crypto networks use to verify transactions and add them to the blockchain.</p><p>Bitcoin pioneered the proof-of-work model where a global, decentralized network of computers solves complex mathematical puzzles to process transactions and earn rewards in the form of newly created bitcoins. Proof of stake allows users to participate in securing a network by putting their own crypto holdings on the line. The idea is that, by locking up their coins, investors have a financial incentive to make sure transactions are valid. Last year, the NFT craze clogged up the Ethereum network and drove up transaction fees. Switching to the proof-of-stake model would likely make Ethereum faster, more secure and more energy-efficient. The Ethereum Foundation said the change is expected to reduce Ethereum's electricity usage by about 99.95%.</p>",
+  "published": "2022-08-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1524,
+          "end": 1529
+        },
+        {
+          "start": 1535,
+          "end": 1540
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000005,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.7683716e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

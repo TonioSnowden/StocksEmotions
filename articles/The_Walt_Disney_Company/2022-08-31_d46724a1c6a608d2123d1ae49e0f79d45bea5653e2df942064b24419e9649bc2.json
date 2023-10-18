@@ -1,0 +1,58 @@
+{
+  "_id": "d46724a1c6a608d2123d1ae49e0f79d45bea5653e2df942064b24419e9649bc2",
+  "feed": "market-watch",
+  "title": "Disney mulls Amazon Prime-like membership program for discounts and perks; Initiative would be a bet that consumers would purchase more Disney products, services and experiences",
+  "text": "<p>Discussions at Disney are in the early stages. It couldn't be learned how much the company would charge for membership and how long it would take to launch such a program.</p><p>By creating a membership program, Disney would be betting it could offer customers more value, prompting them to spend more on the company's products and services, while providing Disney with a trove of information about their preferences.</p><p>The effort is supported by Disney Chief Executive Bob Chapek, who has been vocal both internally and publicly about the opportunity for Disney to do more to cross-sell to customers, the people familiar with the discussions said.</p><p>An expanded version of this report appears on WSJ.com.</p><p>Also popular on WSJ.com:</p><p>Donald Trump's legal team faces rising stakes from obstruction allegations.</p><p>Retirement planning means more than saving in your 401(k).</p><p>Disney mulls Amazon Prime-like membership program for discounts and perks</p>",
+  "published": "2022-08-31T21:03:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9999846,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 15,
+          "end": 21
+        },
+        {
+          "start": 136,
+          "end": 142
+        },
+        {
+          "start": 204,
+          "end": 210
+        },
+        {
+          "start": 350,
+          "end": 356
+        },
+        {
+          "start": 436,
+          "end": 442
+        },
+        {
+          "start": 545,
+          "end": 551
+        },
+        {
+          "start": 548,
+          "end": 554
+        }
+      ],
+      "weightsV2": {
+        "weight": 13.0,
+        "baseWeight": 8.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

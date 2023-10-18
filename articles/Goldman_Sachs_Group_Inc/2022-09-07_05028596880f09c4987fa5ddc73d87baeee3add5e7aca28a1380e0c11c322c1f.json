@@ -1,0 +1,50 @@
+{
+  "_id": "05028596880f09c4987fa5ddc73d87baeee3add5e7aca28a1380e0c11c322c1f",
+  "feed": "market-watch",
+  "title": "Fed's chief banking regulator expected to lay out course on regional bank consolidation, capital requirements at Wednesday event; Fed's vice-chair for supervision Michael Barr will present his policy priorities for the first time",
+  "text": "<p>The speech will broadly address making the financial system safer and fairer, according to a description of the event.</p><p>Cowen analyst Jaret Seiberg said Barr is likely to endorse the inclusion of large regional banks in the Fed's requirements for total loss absorbing capacity (TLAC), which is long-term debt that can be converted to equity if banks face economic hard times.</p><p>Another likely topic will be regional bank consolidation, which has been addressed by Michael Hsu, acting comptroller of the currency.</p><p>While it's unusual for a Fed official to comment specifically on any pending mergers, Barr is expected to reinforce Hsu's past comments on the advantage of bigger regional banks, Seiberg said. Hsu has also pointed out that larger organizations may have issues that are harder to resolve if they get into financial trouble.</p><p>Among larger banks such as JPMorgan Chase &amp; Co. JPM and Goldman Sachs Group Inc. GS one hot topic is the phasing in of Basel III capital requirements.</p><p>While former Fed officials have said the final phase of Basel III may not include increased capital holding requirements, Barr is expected to favor big bank capital requirements to increase, Seiberg said.</p><p>Also Read: Odeon analyst Richard Bove cuts Goldman, Morgan Stanley to sell on investment banking woes</p><p>While Fed vice chair Lael Brainard has been taking the lead on cryptocurrencies at the central bank, \"our focus will be if he is on the same page as….Brainard,\" Seiberg said.</p><p>Barr is expected to address bank involvement in digital assets and may mention the Fed's pending launch of its FedNow instant payment network next year, Seiberg said.</p><p>The U.S. Senate in July voted 66 to 38 to name Barr to a four-year term as vice chairman for supervision at the U.S. Federal Reserve.</p><p>Barr has been dean of public policy at University of Michigan and has held roles at the U.S. Treasury during the Clinton and Obama administrations. He's been described as a key force behind the Dodd-Frank financial reforms of 2010.</p><p>Barr replaced Trump appointee Randal Quarles, who left the Fed in December. President Joe Biden's former pick for the job, Saule Omarova, withdrew her nomination in December.</p><p>Also Read: Chances of a half point Fed rate hike increase slightly after August job data</p><p>Fed's chief banking regulator expected to lay out course on regional bank consolidation, capital requirements at Wednesday event</p>",
+  "published": "2022-09-07T12:36:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.999964,
+      "offsets": [
+        {
+          "start": 889,
+          "end": 896
+        },
+        {
+          "start": 889,
+          "end": 902
+        },
+        {
+          "start": 1232,
+          "end": 1239
+        },
+        {
+          "start": 884,
+          "end": 908
+        },
+        {
+          "start": 1225,
+          "end": 1232
+        },
+        {
+          "start": 889,
+          "end": 913
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.0002894,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.00028955936,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

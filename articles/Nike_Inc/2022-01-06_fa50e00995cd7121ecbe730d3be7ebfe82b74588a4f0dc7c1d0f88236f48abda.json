@@ -1,0 +1,36 @@
+{
+  "_id": "fa50e00995cd7121ecbe730d3be7ebfe82b74588a4f0dc7c1d0f88236f48abda",
+  "feed": "wall-street-journal",
+  "title": "Business News: Nike Sues Lululemon for Patent Infringement",
+  "text": "<p>Nike said it sent a notice to the yoga-pants maker on Nov. 3, citing a list of patents it owned that were allegedly being used by the Mirror device and its apps.</p><p>A response from Lululemon's lawyer, filed as an exhibit by Nike, said that after reviewing Nike's letter the company didn't believe that the Mirror or its apps infringed the patents.</p><p>\"The patents in question are overly broad and invalid. We are confident in our position and look forward to defending it in court,\" said a spokeswoman for Lululemon.</p><p>Nike didn't respond to a request for comment.</p><p>Lululemon is also involved in a legal battle with Peloton Interactive Inc., in which the apparel maker accuses Peloton of copying the designs of its workout leggings and bras.</p><p>Lululemon acquired Mirror in June 2020 for $500 million to capitalize on the pandemic-fueled home-exercise market.</p><p>Mirror sells a $1,500 tech-enabled mirror with a camera and speakers so customers can participate in live fitness classes at home.</p>",
+  "published": "2022-01-06T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US6541061031",
+      "name": "NIKE, Inc.",
+      "offsets": [
+        {
+          "start": 0,
+          "end": 4
+        },
+        {
+          "start": 253,
+          "end": 257
+        },
+        {
+          "start": 511,
+          "end": 515
+        },
+        {
+          "start": 15,
+          "end": 19
+        },
+        {
+          "start": 221,
+          "end": 225
+        }
+      ],
+      "nexusId": "10043425"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "8b59872f52fbff76ad4a721f1f37b46588230f27a57b1daf11f435043bd2728d",
+  "feed": "wall-street-journal",
+  "title": "Apple's iPhone 14 Lineup Headlines Wednesday Product Event; The tech giant revealed its most expensive 5G-capable smartphones",
+  "text": "<p>Apple unveiled new Apple Watch models at its annual September event.</p><p>The iPhone 14 lineup took center stage for customers and investors at the company's annual September event at its Cupertino, Calif., headquarters and on its website. The new models are an evolutionary offering after the late 2020's iPhone 12 brought 5G cellular capability for the first time. 5G has been touted as offering faster download speeds, appealing for streaming video and videogames.</p><p>The biggest changes on Wednesday were in the higher-end iPhone Pro models that cost more and have helped drive more revenue for the company. Apple revealed 6.1- and 6.7-inch display versions of the Pro models and added a 6.7-inch offering—called iPhone 14 Plus—to the iPhone 14 base version along with the 6.1-inch display.</p><p>The Pro versions got a new faster A16 chip and screen that is brighter and allows for always-on display. The high-end phones come with a new design that houses the front camera in a pill-shaped hole in the screen replacing the iPhone 13's notch. It surfaces alerts in what Apple is calling the dynamic island that expands across the top of the screen. The high-end devices have a bigger camera system with more-advanced zooming among other capabilities.</p><p>The iPhone 14 lineup has two features aimed at user safety, including the ability to detect a car crash and satellite connectivity for sending emergency messages in areas not touched by cellular towers. The service will be free for two years and launch in November, initially for the U.S. and Canada.</p><p>Demand for the iPhone 12 and iPhone 13 lineups helped Apple post record profits and sales in the past two years. IPhone revenue rose 39% in fiscal 2021 and is expected to rise another 6.7% to a record $205 billion this fiscal year, which ends later this month.</p><p>\"The iPhone's sales performance year to date has been impressive, and is the biggest reason why the company has largely bucked the economic downturn,\" said Gene Munster, managing partner at Loup Ventures. \"Keeping that segment's momentum going this holiday in the face of a stressed consumer will be top of mind for investors when the new models are unveiled.\"</p><p>SHARE YOUR THOUGHTS</p><p>What new Apple products are you most excited for? Join the conversation below.</p><p>Apple has defied an industrywide decline in smartphone shipments, which slipped almost 9% in the past quarter compared with a year earlier, according to researcher International Data Corp. During the first half, the bright spot in the market was smartphones priced above $900, according to Counterpoint Research.</p><p>The base iPhone 14 with the 6.1-inch display will start at the same price as last year's iPhone 13. The new larger-size 6.7-inch iPhone 14 Plus starts at $899 while the same-sized Pro version with a better camera system and other upgrades starts at $999. The bigger iPhone Pro starts at $1,099.</p><p>Some analysts were predicting Apple may increase prices with the iPhone 14 as the company faces increased cost pressures.</p><p>\"IPhone pricing is the main focus item for investors,\" Wamsi Mohan, an analyst for Bank of America Global Research, wrote in a note last week.</p><p>The company also announced a new high-end version dubbed Apple Watch Ultra, starting at $799 and including a larger screen, more battery life and improved GPS precision. The Ultra, aimed at adventure users from backcountry hikers to scuba divers, has a new look with rounded edges along with an added button for custom actions and a crown that is designed to be used wearing gloves.</p><p>Additionally, Apple introduced the Series 8 model that measures temperature—helping estimate ovulation—and detects if a car crash has occurred. The Series 8 begins at $399 while an updated cheaper Apple Watch model, starting at $249 dubbed the SE, includes the crash detection feature.</p><p>Healthcare, wellness and fitness uses continue to be in focus for the gadget that first went on sale in 2015.</p><p>After the watches, the company showed updated AirPods Pro headphones that the company said would have improved the noise-canceling capabilities by blocking double the amount of sound and customizable spatial audio. The gadgets will start at $249.</p><p>Write to Tim Higgins at Tim.Higgins@WSJ.com</p><p>Apple's iPhone 14 Lineup Headlines Wednesday Product Event</p>",
+  "published": "2022-09-07T18:55:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.9999992,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 599,
+          "end": 604
+        },
+        {
+          "start": 1052,
+          "end": 1057
+        },
+        {
+          "start": 1584,
+          "end": 1589
+        },
+        {
+          "start": 2177,
+          "end": 2182
+        },
+        {
+          "start": 2245,
+          "end": 2250
+        },
+        {
+          "start": 2879,
+          "end": 2884
+        },
+        {
+          "start": 3507,
+          "end": 3512
+        }
+      ],
+      "weightsV2": {
+        "weight": 17.0,
+        "baseWeight": 9.0,
+        "expansionWeight": 3.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "ce57d98793f0177ca5d23fd8d33908cae9ac0aa7e896b062b943ed3034e92de5",
+  "feed": "market-watch",
+  "title": "Unity loses less than feared, trims outlook as Applovin makes $20 billion bid for software company; 'This one is behind us,' head of ad-targeting says of glitch revealed last quarter",
+  "text": "<p>Revenue rose to $297 million from $273.6 million in the year-ago quarter.</p><p>Analysts surveyed by FactSet had forecast a loss of 21 cents a share on revenue of $299.7 million, based on Unity's forecast of $290 million to $295 million in revenue.</p><p>That comes following an offer from app monetization company Applovin Inc. APP to buy Unity for $20 billion in cash and stock.Shares of Applovin finished the day down 10.3% at $36.01, leaving it a $13.6 billion cap company, according to FactSet.</p><p>At the top of the conference call with analysts, Unity Chief Executive John Riccitiello acknowledged that the company had received an offer and that it would make no further comment.</p><p>That offer comes following flak that Unity recently caught about its own M&amp;A plans, with the most recent being Unity's $4.4 billion offer to buy IronSource. Unity shares recently rose on reports that it was looking to spin off its business in China. Shares declined 3% after hours Tuesday, following a 1.2% rise in the regular session to close at $50.35, giving the company a market cap of about $15 billion, according to FactSet data.</p><p>Riccitiello also said he was \"encouraged by the progress we are making\" to get its ad-targeting software \"back on stable footing.\" The CEO was referencing Unity's previous earnings report, which was marred by a disclosure that its ad-targeting tools contained a flaw, the same tools that had been credited with finding a workaround to Apple Inc.'s AAPL opt-out of using Identifier for Advertisers, or IDFA.</p><p>\"This one is behind us,\" said Ingrid Lestiyo, the head of Operate Solutions, on the call.</p><p>\"We've also put in place monitoring mechanisms that allow us to more closely track our performance so that we can react faster when something goes wrong,\" Riccitiello told analysts. \"And as a result of our work, we are seeing leading indicators such as audience pinpoint or consistency and accuracy improve, showing that our interventions are effective, and we continue to innovate.\"</p><p>Unity forecast third-quarter revenue of $315 million to $335 million, and full-year revenue between $1.3 billion and $1.35 billion for the year, compared with its previous forecast of $1.35 billion to $1.43 billion.</p><p>\"In Create we have momentum with customers in and outside of Games,\" said Luis Visoso, Unity's chief financial officer, in a statement. \"Our Business outside of Games is growing even faster and now represents 40% of our total Create Solutions revenue, up from 25% in 2021.\"</p><p>Analysts estimate a loss of 7 cents a share on revenue of $343.7 million for the third quarter, and a loss of 37 cents a share on revenue of $1.36 billion for the year.</p><p>Unity loses less than feared, trims outlook as Applovin makes $20 billion bid for software company</p>",
+  "published": "2022-08-09T21:34:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1455,
+          "end": 1459
+        },
+        {
+          "start": 1434,
+          "end": 1444
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0000012,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

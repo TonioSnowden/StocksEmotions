@@ -1,0 +1,20 @@
+{
+  "_id": "b5949609da49cce5ae04c166f2166a24b96fc3ed047576ca4926d57d122ee745",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Civica Unit to Sell Generic Prostate-Cancer Medicine",
+  "text": "<p>Zytiga, first marketed by Johnson &amp; Johnson, went generic in 2018. Pharmacies sell other Zytiga generics at list prices of nearly $3,000 a month, though with coupons the price can be around $200 for patients without insurance who pay with their own money, according to GoodRx, a website that tracks pharmacy prices and connects consumers to drug-discount coupons.</p><p>Civica will sell the abiraterone acetate drug through CivicaScript, a unit founded in 2020 to bring lower-priced versions of expensive generics on the market.</p><p>CivicaScript was created by a partnership of Civica, the Blue Cross Blue Shield Association and other health insurers as a public-benefit corporation, a designation that requires companies to pursue both social good and shareholder value.</p>",
+  "published": "2022-08-04T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 26,
+          "end": 43
+        }
+      ]
+    }
+  ]
+}

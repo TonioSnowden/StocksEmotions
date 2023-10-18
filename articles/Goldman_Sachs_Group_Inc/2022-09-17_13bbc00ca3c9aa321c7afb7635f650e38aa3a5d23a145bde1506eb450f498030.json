@@ -1,0 +1,28 @@
+{
+  "_id": "13bbc00ca3c9aa321c7afb7635f650e38aa3a5d23a145bde1506eb450f498030",
+  "feed": "economist-newspaper",
+  "title": "Europe's energy crisis: The LIBOR of energy?",
+  "text": "<p>Russia's invasion of Ukraine has thrust the TTF into the limelight. The network sets Europe's benchmark price for natural gas--so it is now a measure for the continent's economic health. With such attention comes criticism. \"Our gas market has changed dramatically: from pipeline gas to increasing amounts of liquid natural gas,\" Ms von der Leyen said. The TTF has not adapted, she added, and so the commission would start work on a new LNG index.</p><p>The TTF was born of European politics. In the 2000s the EU pushed for deregulation of Europe's gas market, moving it from bilateral contracts to trading on exchanges. The Netherlands was first out of the blocks to establish a euro-denominated trading hub, says Mike Fulwood of the Oxford Institute for Energy Studies (and the father of an Economist journalist). This free-market zeal combined with state investment in storage and pipelines to make the Netherlands Europe's natural-gas hub.</p><p>The problems facing Europe are not caused by the TTF. As Europe's hub, it gathers participants from across the bloc. Consequently it is a liquid market, allowing power firms and utilities to manage risk. In 2020 there was 60 times as much volume traded as demand for the fuel in the Netherlands. The only market in Europe that comes close is Britain's National Balancing Point, which in 2020 handled 11 times as much volume as underlying demand.</p><p>Even so, TTF prices have been volatile. The cost of a megawatt hour (MWh) of front-month gas rose from EUR80 in June to EUR340 in August, after Russia cut the flow to Germany and then shut it down. More recently prices have fallen to EUR218, after Germany hit its winter-storage target early. These are extreme changes, but reflect highly unusual circumstances.</p><p>Lofty prices increase the cost of failed trades, leaving the clearinghouse, which is responsible for settling deals, on the hook. So as prices rose, it demanded more \"margin\", to be seized if traders cannot make good on the deal. A cycle of such margin calls and nervy traders stepping back may have helped drive up prices over the summer. Governments across Europe have been forced to step in to provide guarantees. A Finnish minister warned the situation had \"all the ingredients for the energy sector's version of Lehman Brothers\".</p><p>The commission's criticism of the TTF may have some justification. The close correlation between it and some other European trading hubs broke down this year, notes Ben Wetherall of ICIS, a research firm. Congestion in the Netherlands means European LNG prices are in fact slightly lower than those on the TTF. Using the TTF as a benchmark could lead firms in Spain, which has a quarter of the continent's LNG terminals, to overpay. On September 14th the cost of a MWh of gas on the Iberian Gas Market for delivery in October was EUR171 compared with EUR218 on the TTF.</p><p>But these differences should be short-lived, suggesting a new index is probably not needed. High prices have spurred investment in LNG infrastructure elsewhere. Meanwhile, researchers at Goldman Sachs, a bank, argue that Europe's energy prices are likely to have halved by spring 2023, owing to lower demand. If they are right, the Dutch gas market's moment in the spotlight may not last all that long.</p>",
+  "published": "2022-09-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 3008,
+          "end": 3021
+        },
+        {
+          "start": 3038,
+          "end": 3051
+        },
+        {
+          "start": 3038,
+          "end": 3045
+        }
+      ]
+    }
+  ]
+}

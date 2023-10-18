@@ -1,0 +1,64 @@
+{
+  "_id": "65032da7a0655206b4fffe5e3165b4b36c76253d07d65f2941e6648ff21a509d",
+  "feed": "ftcomall",
+  "title": "Microsoft investigating security groups for leaks to hackers",
+  "text": "<p>Microsoft is investigating whether security companies that it works with leaked details about vulnerabilities in its software, helping hackers to expand a huge cyber attack at the end of last month, according to people briefed on the inquiry.</p> <p>Microsoft originally blamed Hafnium, a Chinese state-backed hacking group, for the first spate of attacks in January. </p> <p>Just as the company prepared to announce the hack and provide fixes, however, the attacks — which targeted “specific individuals” at US think tanks and non-governmental organisations — suddenly escalated and became more indiscriminate.&#xa0;</p> <p>Several other Chinese hacking groups began launching attacks as part of a second wave at the end of February, according to researchers.</p> <p>“We are looking at what might have caused the spike of malicious activity and have not yet drawn any conclusions,” Microsoft said, adding that it had seen “no indications” that the information was leaked from inside the company.&#xa0;</p> <p>People familiar with the investigation said Microsoft had been looking into whether the 80 or so cyber companies that get advance notice of threats and patches from it might have passed on information to hackers. Members of Microsoft's so-called <a href=\"https://www.microsoft.com/en-us/msrc/mapp\">Active Protections Program</a> include Chinese companies such as Baidu and Alibaba.</p> <p>“If it turns out that a MAPP partner was the source of a leak, they would face consequences for breaking the terms of participation in the program,” Microsoft said.</p> <p>The investigation, first reported by Bloomberg, comes as criminal ransomware gangs have escalated efforts to attack companies that have not yet updated their systems with Microsoft patches. Government officials globally are still assessing the damage caused by the hackers.</p> <p>Jake Sullivan, the White House's national security adviser, said the US was mobilising a response but was “still trying to determine the scope and scale” of the attack. He added that it was “certainly the case that the malign actors are still in some of these Microsoft Exchange systems”.</p> <p>While Sullivan did not confirm Microsoft's assertion that China was responsible for most of the attacks, he said Washington intended to provide attribution “in the near future”.&#xa0;</p> <p>“We won't hide the ball on that,” he said.&#xa0;More than 30,000 US companies <a href=\"https://krebsonsecurity.com/\">have been hit</a> “including a significant number of small businesses, towns, cities and local governments”, according to cyber security researcher Brian Krebs.</p> <p>There are 7,000 to 8,000 <a href=\"https://www.ft.com/content/c9601a1a-ab3b-4059-8ca3-67b8387b6170\">Microsoft Exchange</a> servers in the UK that are deemed potentially vulnerable as a result of the hack and about half have already been patched, British security officials said on Friday.&#xa0;</p> <p>Paul Chichester, director of operations at the UK's National Cyber Security Centre, a branch of GCHQ, said that it was “vital” that all organisations take “immediate steps” to protect their networks.</p> <p>A senior US administration official said the attackers appeared to be sophisticated and capable, but said “they took advantages of weaknesses that were in that software from its creation”.</p> <p><em>Additional reporting by Demetri Sevastopulo in Washington</em></p><p>Source: Hannah Murphy in San Francisco and Katrina Manson in Washington 2021 'Microsoft investigating security groups for leaks to hackers' FT.com 13 March. Used under licence from the Financial Times. © The Financial Times Limited 2021. All Rights Reserved. </p><p>Please do not cut and paste FT articles and redistribute by email or post to the web.</p>",
+  "published": "2021-03-13T00:21:47.311Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 1626,
+          "end": 1635
+        },
+        {
+          "start": 1188,
+          "end": 1197
+        },
+        {
+          "start": 1008,
+          "end": 1017
+        },
+        {
+          "start": 849,
+          "end": 858
+        },
+        {
+          "start": 243,
+          "end": 252
+        },
+        {
+          "start": 1989,
+          "end": 1998
+        },
+        {
+          "start": 2049,
+          "end": 2060
+        },
+        {
+          "start": 2049,
+          "end": 2058
+        },
+        {
+          "start": 1439,
+          "end": 1448
+        },
+        {
+          "start": 0,
+          "end": 9
+        },
+        {
+          "start": 2452,
+          "end": 2461
+        },
+        {
+          "start": 1188,
+          "end": 1199
+        }
+      ],
+      "nexusId": "10031144"
+    }
+  ]
+}

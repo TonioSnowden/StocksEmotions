@@ -1,0 +1,20 @@
+{
+  "_id": "c5daad2e5928ab3f8016f1e4025f27d46bfc1f2f7e6e1481dd3586a407e031e9",
+  "feed": "economist-newspaper",
+  "title": "Sputnik V vaccine: Irregular regularity",
+  "text": "<p>Dr Sheldrick's team published their analysis on June 20th in the American Journal of Therapeutics. It was motivated by concerns that other researchers had raised earlier about one particular pattern in the Sputnik V paper: the vaccine's efficacy was almost identical in each of the five age groups shown. The Russian scientists' answer was that these results reflected a true efficacy that did not differ by age. But clinical trials are usually affected by all sorts of random circumstances, known as \"noise\" in the jargon. The implication is that, in this particular trial, the various sources of noise cancelled one another out in a way that generated a pattern of equivalent efficacy in all age groups.</p><p>To examine how likely this would be to have taken place, Dr Sheldrick's team examined what happens when various combinations of statistical noise occurred in a hypothetical sample of trial participants constructed according to the methods described in the Sputnik V paper. They used computer simulation to create 1,000 random variations of noise and counted in how many of these the vaccine efficacy resulting in each of the five age groups fell within the range reported by the Russian scientists. For comparison, they replicated this exercise for four other covid vaccines: those by AstraZeneca, Johnson &amp; Johnson, Moderna and Pfizer.</p><p>For the four comparison vaccines, between a quarter and a half of the computed efficacies for all age subgroups fell within the range of their actual published efficacies. For Sputnik V none did. The researchers then repeated the exercise with 50,000 simulations per vaccine. For Sputnik V only 13 of those iterations fell in the reported ranges. Put another way, a trial would need to be repeated, on average, more than 3,800 times in order to produce a single case where the efficacies in all age groups were in the reported ranges. For the four comparison vaccines, that result would be obtained in two to four repetitions.</p><p>These results thus call into question the efficacy numbers reported in the original Sputnik V paper. For its part, the Lancet said it recognised the concerns about the validity of the data and would be inviting the authors of the paper \"to respond to these latest questions\".</p><p>The matter could be resolved if those authors were to release the data in question, so others could verify the results, says Enrico Bucci of the Sbarro Health Research Organisation, in Philadelphia, who was one of the first to flag the matter up. The ball is now in the Russian team's court.</p>",
+  "published": "2022-06-25T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "nexusId": "10010560",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 1304,
+          "end": 1321
+        }
+      ]
+    }
+  ]
+}

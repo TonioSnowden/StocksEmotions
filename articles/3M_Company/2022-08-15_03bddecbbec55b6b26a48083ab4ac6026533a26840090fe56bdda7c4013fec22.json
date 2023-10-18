@@ -1,0 +1,98 @@
+{
+  "_id": "03bddecbbec55b6b26a48083ab4ac6026533a26840090fe56bdda7c4013fec22",
+  "feed": "wall-street-journal",
+  "title": "Judge Knocks 3M Bankruptcy Strategy for Military Earplug Lawsuits; A federal judge won't prohibit 3M from asserting a defense against mass earplug injury claims in the chapter 11 case of its Aearo unit",
+  "text": "<p>The judge's ruling keeps alive 3M's attempt to resolve the mass lawsuits through a chapter 11 plan for Aearo despite what she called the \"naked duplicity\" of the company's strategy.</p><p>Aearo filed for chapter 11 protection last month, shortly after assuming liability for roughly 230,000 pending claims against the business and its publicly traded parent company, 3M. Aearo wound up in dire financial straits after that voluntary assumption of liability, which put it on the hook for the largest multidistrict litigation in U.S. history, according to the judge's ruling.</p><p>Plaintiffs' lawyers had requested that 3M be prohibited from contesting its full liability for the alleged earplug injuries, saying it was attempting to re-litigate that issue in bankruptcy court after proceeding in the tort litigation as if it alone bore responsibility.</p><p>A 3M spokesman said the company's court filings show the chapter 11 process \"offers a more efficient, equitable, and expeditious means to resolve this litigation. Claimants determined to be entitled to compensation will be paid sooner, and 3M and Aearo will be able to better focus on making products people depend on.\"</p><p>Bankruptcy offers powerful tools for corporate defendants to settle injury lawsuits and has been used to resolve mass claims involving opioid addiction, California wildfires and sexual-abuse allegations in recent years. A handful of tort defendants have created new subsidiaries using Texas corporate law to ferry mass liabilities into chapter 11, a controversial litigation management tactic for large, solvent companies.</p><p>In her ruling, Judge Rodgers said 3M's move to unload injury liabilities onto Aearo was devised to escape the multidistrict litigation for good because 3M was \"displeased with the rulings of this court\" and several jury verdicts against the company. Juries have awarded more than $265 million in compensatory and punitive damages in 16 bellwether trials, of which plaintiffs won 10.</p><p>Judge Rodgers said that 3M had never indicated in more than three years of litigation \"that any entity other than itself was responsible\" for the service members' claims. 3M took total control of hearings and meetings related to the injury lawsuits as well as the 16 bellwether trials, and Aearo was a party to the litigation in name only, the judge said.</p><p>Aearo's bankruptcy filings say that as long as earplug lawsuits are proceeding against 3M, the value of Aearo will be at risk because of its recent agreement to take on all of the tort liability.</p><p>The judge said she was \"deeply concerned\" about 3M's \"sudden, bankruptcy-eve about-face regarding the entity responsible\" for the earplug claims, but said it wasn't her place to prohibit 3M from mounting such a potential defense, noting that federal courts must only decide issues ripe for judicial review.</p><p>Under agreements signed with Aearo, 3M has committed to pay $240 million to fund a planned reorganization process in the U.S. Bankruptcy Court in Indianapolis and at least $1 billion more toward settling the earplug litigation. In return, 3M would be shielded from all pending and future earplug claims under a chapter 11 plan for Aearo.</p><p>The bankruptcy filing stopped pending lawsuits against Aearo, which has asked the judge overseeing its bankruptcy case to extend that same litigation stay to 3M.</p><p>Judge Jeffrey Graham with the U.S. Bankruptcy Court in Indianapolis held a hearing Monday to consider extending stay protections to 3M. Plaintiffs' lawyers have argued that 3M drove Aearo's bankruptcy filing by retaining restructuring adviser AlixPartners in early May, nearly three months before Aearo's chapter 11 filing in late July.</p><p>AlixPartners' John Castellano, who took the stand as a witness in the hearing, said the firm was first brought in to assist with contingency planning for Aearo's chapter 11 filing, and no decision on whether to file for bankruptcy had been made at that point. A few days before the bankruptcy filing, Mr. Castellano was appointed to lead the chapter 11 process as Aearo's chief restructuring officer.</p><p>Write to Akiko Matsuda at akiko.matsuda@wsj.com and Andrew Scurria at Andrew.Scurria@wsj.com</p><p>Judge Knocks 3M Bankruptcy Strategy for Military Earplug Lawsuits</p>",
+  "published": "2022-08-15T22:02:00.000Z",
+  "tags": [
+    {
+      "id": "US88579Y1010",
+      "nexusId": "10033670",
+      "name": "3M Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 13,
+          "end": 15
+        },
+        {
+          "start": 31,
+          "end": 33
+        },
+        {
+          "start": 98,
+          "end": 100
+        },
+        {
+          "start": 360,
+          "end": 362
+        },
+        {
+          "start": 604,
+          "end": 606
+        },
+        {
+          "start": 838,
+          "end": 840
+        },
+        {
+          "start": 1609,
+          "end": 1611
+        },
+        {
+          "start": 1727,
+          "end": 1729
+        },
+        {
+          "start": 1980,
+          "end": 1982
+        },
+        {
+          "start": 2126,
+          "end": 2128
+        },
+        {
+          "start": 2397,
+          "end": 2399
+        },
+        {
+          "start": 2553,
+          "end": 2555
+        },
+        {
+          "start": 2692,
+          "end": 2694
+        },
+        {
+          "start": 2847,
+          "end": 2849
+        },
+        {
+          "start": 3049,
+          "end": 3051
+        },
+        {
+          "start": 3305,
+          "end": 3307
+        },
+        {
+          "start": 3440,
+          "end": 3442
+        },
+        {
+          "start": 3480,
+          "end": 3482
+        }
+      ],
+      "weightsV2": {
+        "weight": 22.935091,
+        "baseWeight": 18.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.9350914,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

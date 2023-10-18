@@ -1,0 +1,30 @@
+{
+  "_id": "a365264747dc1dd3fb8dc7dff4725cedf10cf29f31e83b2c01e3401e65cf9fab",
+  "feed": "reuters",
+  "title": "UPDATE 3-Vietnam's EV maker Vinfast files for U.S. IPO to fuel global expansion",
+  "text": "<p>HANOI, Dec 7 (Reuters) - Vietnam's electric-vehicle maker VinFast said on Tuesday it had filed for an initial public offering (IPO) in the United States to list on the Nasdaq under ticker symbol \"VFS\" to fund its expansion with a planned plant in North Carolina.</p><p>VinFast, which began operations in 2019, is gearing up to expand in the U.S. market, where it hopes to compete with legacy automakers and startups with its two all-electric SUVs, the VF8 and VF9, including battery leasing to reduce the purchase price.</p><p>For the IPO, the company said it would convert to a Singapore public limited company and would be known as VinFast Auto Ltd, while the number of shares to be offered and the price range for the proposed offering had not yet been determined.</p><p>Citigroup, Morgan Stanley, Credit Suisse and JP Morgan are leading a nine-bank syndicate behind the deal, according to the company filing. If successful, VinFast will be Vietnam's first company to list in the United States.</p><p>Tuesday's filing follows VinFast's confidential submission to the U.S. Securities and Exchange Commission (SEC) in April, a month after it said it would build a production plant in North Carolina with an initial projected capacity of 150,000 EVs a year.</p><p>A unit of Vietnam's biggest conglomerate Vingroup, VinFast first flagged its U.S. IPO in April last year, aiming to raise $2 billion with valuation of about $60 billion.</p><p>The market valuation for EV startups has drastically cooled over the past year after some companies with sky-high valuations faced scrutiny, together with the gloomy global economy.</p><p>\"Valuation or the size of our IPO will be subject, in part, to market conditions,\" VinFast Chief Executive Le Thi Thu Thuy said in a statement released on Wednesday.</p><p>\"VinFast will continue to monitor opportunities for future fundraises, as the market becomes more familiar with the VinFast brand and story,\" she said.</p><p>The S&amp;P U.S. &amp; China Electric Vehicle Index, which measures the performance of companies involved in the EV business, has lost 33.51% since the beginning of the year and was at 1,933.47 at Tuesday's close.</p><p>The company had said the IPO was just one option to raise funds. In July, it arranged with banks to raise at least $4 billion to fuel its aggressive expansion.</p><p>No time frame was specified for the offering on Tuesday although the company had said it aimed for an IPO in the fourth quarter of this year.</p><p>But in May, its parent company, Vingroup, warned that the IPO may be delayed to 2023 due to market uncertainty.</p><p>\"VinFast intends to conduct an IPO after the SEC declares the registration statement effective, market conditions permitting,\" Thuy said, noting the company's primary objective was to successfully list VinFast on a U.S. stock exchange.</p><p>The EV maker in late November shipped its first batch of 999 vehicles to the United States, capping a five-year bid to develop an auto production hub in Vietnam for markets in North America and Europe.</p><p>VinFast has said it has almost 65,000 orders globally and expects to sell 750,000 EVs annually by 2026.</p><p>Shares in VinFast's listed parent company, Vingroup, which also has property and resort development businesses, were up 5.11% early on Wednesday following the IPO announcement.</p>",
+  "published": "2022-12-07T03:47:10.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99999857,
+      "offsets": [
+        {
+          "start": 801,
+          "end": 810
+        }
+      ],
+      "weightsV2": {
+        "weight": 0.90316397,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.097500026,
+        "tagPositionWeight": 0.00066399574,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

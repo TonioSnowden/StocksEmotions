@@ -1,0 +1,46 @@
+{
+  "_id": "62b0638ee47e4294a9d8b25fd1de4c841bbaf5562124de68dbac3f9bacb006bb",
+  "feed": "market-watch",
+  "title": "Meta exploring more paid features to make up for lost ad revenue: report",
+  "text": "<p>In an interview with The Verge, Meta executive John Hegeman said that while the company is committed to its ad business, he sees \"opportunities\" in \"experiences that people would be willing to pay for.\" He told The Verge that any paid features would likely not become a meaningful part of the business right away, but could play a more meaningful role in the long term.</p><p>Meta's ad business has been hit hard by a double whammy of less spending due to the economic downtown and privacy changes in Apple Inc.'s AAPL iOS mobile operating system, which lets users opt out of ad tracking.</p><p>Read more: Apple already decimated Meta's adtech empire. Now, it's honing in on Facebook's advertisers, too.</p><p>Meta reported its first-ever year-over-year revenue decline in its second-quarter earnings report in June, and warned of worse numbers in the third quarter.</p><p>The company is also facing a new challenge from Apple, which saw an ad revenue boost after its iOS upgrade and is reportedly expanding its adtech teamto compete with Meta for online advertising.</p><p>Meta shares have sunk more than 50% year to date, compared to the S&amp;P 500's SPX 17% decline this year.</p><p>Meta exploring more paid features to make up for lost ad revenue: report</p>",
+  "published": "2022-09-01T01:42:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.999712,
+      "offsets": [
+        {
+          "start": 591,
+          "end": 596
+        },
+        {
+          "start": 891,
+          "end": 896
+        },
+        {
+          "start": 594,
+          "end": 599
+        },
+        {
+          "start": 508,
+          "end": 512
+        },
+        {
+          "start": 493,
+          "end": 503
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0143495,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.014349341,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

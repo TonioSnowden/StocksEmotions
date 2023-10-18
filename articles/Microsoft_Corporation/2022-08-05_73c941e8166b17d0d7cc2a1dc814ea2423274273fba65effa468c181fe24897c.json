@@ -1,0 +1,34 @@
+{
+  "_id": "73c941e8166b17d0d7cc2a1dc814ea2423274273fba65effa468c181fe24897c",
+  "feed": "wall-street-journal",
+  "title": "Uber, Boeing, Warner Bros. Discovery: Stocks That Defined the Week; Here are seven major companies whose stocks moved on the week's news",
+  "text": "<p>Boeing Co.</p><p>A strike didn't take off at Boeing. Employees at three of the plane maker's defense manufacturing plants on Wednesday voted in favor of a new contract, the company said, avoiding a potential work stoppage. The vote by around 2,500 members of the International Association of Machinists and Aerospace Workers follows their rejection of an earlier proposal last month. The new three-year contract offers new workers an $8,000 lump-sum payment and scraps earlier plans to cut company contributions to employees' 401(k) savings plans. Boeing shares gained 2.1% Wednesday.</p><p>Pinterest Inc.</p><p>If one of Wall Street's toughest activist investors had a Pinterest board, Pinterest would be on it. Elliott Management Corp. confirmed it was the social-media company's largest shareholder, after The Wall Street Journal reported last month that the firm has taken a stake of more than 9% in Pinterest. Elliott has a history of taking on tech companies and forcing changes such as sales or executive shake-ups. The company's new chief executive, Bill Ready, said he would focus on profitability, as the weakened digital-ad market weighs on sales growth for social-media firms. Pinterest shares jumped 12% Tuesday.</p><p>Starbucks Corp.</p><p>People aren't giving up their Starbucks fix even as prices rise. The coffee giant said on Tuesday that U.S. customer demand is strong, while higher spending on labor and supplies weighed on quarterly income. Higher prices partially offset the growing costs, the company said. As the U.S. economy began to contract in recent weeks, a number of retail and consumer companies issued profit warnings and projected falling sales as shoppers start to pull back. But at restaurants, spending continues to grow due to pent-up demand after years of pandemic-related restrictions. Starbucks shares gained 4.3% Wednesday.</p><p>Eli Lilly &amp; Co.</p><p>Eli Lilly's Covid-19 treatment sales could use a shot in the arm. The pharmaceutical company on Thursday posted a 4% decline in second-quarter revenue, driven by a drop in sales of its Covid-19 antibody treatment. Lilly saw sales of its coronavirus treatments fall 13% to $129.1 million during the period. The company's results come after other makers of Covid-19 vaccines and products posted continued sales growth, but pointed out signs of potentially waning demand. Lilly said lower prices and currency translation also played a part in the declining sales, and the company cut its profit outlook for the year. Lilly shares lost 2.6% Thursday.</p><p>Walmart Inc.</p><p>White-collar workers at Wal-Mart got some gloomy news. The retail giant is laying off hundreds of employees in corporate roles, The Wall Street Journal reported Wednesday, a week after the company warned of falling profits and markdowns on excess inventory. Walmart—the largest private employer in the U.S.—joins a handful of other major employers that are scaling back hiring or cutting some jobs, including Ford Motor Co., Microsoft Corp. and Facebook parent Meta Platforms Inc. While many of its workers are hourly staff, Walmart has thousands of people in corporate roles. Walmart shares fell 3.8% Thursday.</p><p>Warner Bros. Discovery Inc.</p><p>It's out with the old and in with the new at Warner Bros. Discovery. After scrapping streaming service CNN+ weeks after its debut and axing the movie \"Batgirl\" after it was already filmed, the company said it would merge HBO Max and Discovery+ into a combined subscription platform to launch next year as it explores a free, ad-supported service. Since taking over in April, Chief Executive David Zaslav has canceled movies and shows that were approved by previous leadership. The company also reported its first quarterly earnings as a combined entity, cutting its outlook for this year and next due to an advertising slowdown. Warner Bros. Discovery shares plummeted 17% Friday.</p><p>Write to Francesca Fontana at francesca.fontana@wsj.com</p><p>Uber, Boeing, Warner Bros. Discovery: Stocks That Defined the Week</p>",
+  "published": "2022-08-05T23:16:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 2910,
+          "end": 2925
+        },
+        {
+          "start": 2936,
+          "end": 2951
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.2604988,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.73950124,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 11
+    }
+  ]
+}

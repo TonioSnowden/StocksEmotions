@@ -1,0 +1,46 @@
+{
+  "_id": "2416358ef11af6b657fd08b8ad6487e4a9f248bf2a2385435ad1e676d62ee4d1",
+  "feed": "market-watch",
+  "title": "Here's the big concern with chip makers scoring billions in funds from Uncle Sam; Micron and Intel are already cutting spending as the cyclical semiconductor industry flips from shortage to glut — will they be able to stomach spending billions in a weak environment when they are playing with taxpayer funds?",
+  "text": "<p>On Tuesday, when President Biden signed that bill into law with Micron Technology MU Chief Executive Sanjay Mehrotra and Intel INTCCEO Pat Gelsinger in attendance on the South Lawn of the White House, Micron trimmed its own spending plans for the second time in less than two months. The memory-chip maker expects to spend less in the next fiscal year than it will this year, when it estimates capital expenditures to total $12 billion, and Tuesday's news underscored that declines would be \"meaningful.\"</p><p>While the optics aren't great for chip makers to reduce planned spending initiatives, after semiconductor lobbyists frantically pushed and eventually scored billions in federal funding, it may just be a matter of unfortunate timing. But will chip manufacturers be able to ignore similar issues in the future after recently vowing to increase domestic production with taxpayer funds, as the COVID-19 pandemic laid bare the need to build out U.S. semiconductor production?</p><p>The current predicament was largely expected. The semiconductor shortage is ending, and just as many Wall Street analysts predicted, chip makers are now realizing that customers have already purchased more chips than were needed during those frantic days of the public-health crisis and are now slashing production targets and expenses for next year.</p><p>For more: Are chip stocks set up for a short squeeze, or just more declines?</p><p>However, this is a cycle that chip companies have seen many times before — Intel CEO Pat Gelsinger called it \"a slowdown typical of the normal cycle the semiconductor industry has experienced over the last 50 years\" in his earnings call last month. Chips can be a cyclical business, and when times are bad, chip makers cut their planned spending on equipment and production to avoid continuing to stuff overly full inventories.</p><p>Micron experienced a similar episode as recently as four years ago. After a boom in demand from cloud-computing, providers caused memory prices to soar and boosted Micron's earnings and stock, a sudden drop-off in demand led to huge spending declines. Micron even sold off a U.S. fabrication plant to Texas Instruments Inc. TXN at the end of that cycle, months before beginning to lobby for the CHIPS Act with promises to increase domestic production.</p><p>While paring back plans to buy equipment and increase production in the near future, both companies say they expect to continue to boost domestic output in the long term, the goal of the federal funding for semiconductor companies. As Micron was detailing its forecast and 2023 Capex cuts in government filings, executives promised in a news release to spend $40 billion through the end of the decade on U.S. production.</p><p>\"This legislation will enable Micron to grow domestic production of memory from less than 2% to up to 10% of the global market in the next decade, making the U.S. home to the most advanced memory manufacturing and [research and development] in the world,\" Mehrotra wrote.</p><p>From June: Micron signals the end of the chip boom</p><p>The question for Intel, Micron and other U.S. chip giants is if those plans will also be dependent on the vagaries of the industry, or if semiconductor makers are more resistant to short-term swings thanks to billions in government funding. Gelsinger said in his call last month that he remained committed to long-term spending plans even while scaling back near-term targets, and Micron's press release on Tuesday morning seemed definitive.</p><p>However, one clause at the end of the first paragraph stood out:</p><p>\"Micron expects to begin production in the second half of the decade, rampingoverall supply in line with industry demand trends.\"</p><p>That phrasing suggests Micron will increase manufacturing only as much as the state of the industry allows, which is especially worrisome in light of Micron's recent history of cutting spending plans as soon as the going looks a little rough.</p><p>But if the U.S. is going to compete with Asia in producing semiconductors, then this build-out cannot be dependent on strong and steady demand in a cyclical industry. Demand for chips historically vacillates, but plans for taxpayer money funneled to these corporations should be adhered to regardless of the short-term industry dynamics.</p><p>Here's the big concern with chip makers scoring billions in funds from Uncle Sam</p>",
+  "published": "2022-08-09T21:06:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.9952,
+      "offsets": [
+        {
+          "start": 93,
+          "end": 98
+        },
+        {
+          "start": 121,
+          "end": 126
+        },
+        {
+          "start": 1472,
+          "end": 1477
+        },
+        {
+          "start": 3030,
+          "end": 3035
+        },
+        {
+          "start": 3045,
+          "end": 3050
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.565849,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.5658494,
+        "titleWeight": 4.0
+      },
+      "typeRank": 5
+    }
+  ]
+}

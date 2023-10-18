@@ -1,0 +1,34 @@
+{
+  "_id": "5e8612c47884cf2a72008f52ca4d49db2d64137375c5ae83c49f5508e4282999",
+  "feed": "wall-street-journal",
+  "title": "Banking & Finance: Fintech CFOs Are Seeking New Funding Options",
+  "text": "<p>That dynamic is shifting, as rising interest rates are prompting investors to demand higher yields and become choosier about where they put their money. Banks, meanwhile, have grown more cautious about credit risk and the overall economic outlook and are generating better returns from the loans already on their books.</p><p>The credit quality of the loans has also weakened as borrowers, particularly those with blemished credit histories, increasingly fall behind on their payments. In July, annualized net losses on fintech loans among consumers with weighted average credit scores between 680 and 710 rose 5.34 percentage points from a year earlier, to 10.87%, according to Kroll Bond Rating Agency LLC, a credit rating firm. The same metric for borrowers with credit scores between 710 and 740 increased 0.51 percentage point over the same period, to 4.69%, according to KBRA.</p><p>Fintech companies, which have different business models and funding structures, are taking steps to strengthen their funding, including finding long-term investors willing to ride out a shaky economy, seeking out additional loan buyers and, for those with a bank charter, relying more on deposits.</p><p>San Mateo, Calif.-based Upstart Holdings Inc., which specializes in personal loans for subprime borrowers, is looking for new investors, which could include sovereign-wealth funds, pension funds or insurance companies, that would be willing to buy loans when other investors pull back, Chief Financial Officer Sanjay Datta said. \"We're in a bit of a paradigm shift now, going from using what historically would have been purely at-will capital to finding more permanent-style, long-term capital partners,\" he said.</p><p>Upstart generates revenue by matching financial institutions -- banks, credit unions and institutional investors -- with loans and charging fees for that. The company originates most of its loans through Cross River Bank, a Fort Lee, N.J.-based community bank that caters to fintech companies. Some investors slice them into securities and sell them in transactions sponsored by Upstart.</p><p>The company in the second quarter saw a sharp pullback in demand from investors and banks. Upstart arranged 321,138 loans during the quarter, 31% fewer than the prior quarter. Revenue fell 26% over the same period, to $228.2 million. Upstart expects revenue to decline 25% during the third quarter, to about $170 million, because of funding constraints.</p><p>Upstart has operated with a fee-based business model centered on offloading loans. Now, as it seeks a longer-term capital partner, the company is considering temporarily holding loans on its books. That's a reversal from this spring, when it said it wouldn't. Upstart wants the option to fund its own loans should demand from third-party buyers remain a challenge, Mr. Datta said.</p><p>Other fintech lenders, some of which aren't publicly traded, are feeling the squeeze as investors demand higher yields. Buy-now-pay-later provider Affirm Holdings Inc. is aiming to line up a diverse set of loan buyers and funding channels, Chief Financial Officer Michael Linford said at an investor conference in June.</p><p>Affirm -- which has partnerships with companies including retailers Amazon.com Inc. and Walmart Inc. and e-commerce company Shopify Inc. -- has grown rapidly over the past year. Gross merchandise volume, which measures all transactions on Affirm's platform net of refunds, increased 73% during the quarter ended March 31, to $3.9 billion.</p><p>Affirm funds its loans through a mix of securitizations, whole loan sales and warehouse lines of credit, in which the company borrows against its consumer loan balances. \"We've thought about building our capital program to not be reliant on any one channel, any one partner, any one kind of partner,\" Mr. Linford said at the June conference.</p><p>LendingClub Corp., which specializes in personal loans, is funding more loans with bank deposits as some investors demand higher yields. LendingClub received a bank charter after acquiring Boston-based Radius Bank last year for $185 million, giving the company access to deposits.</p><p>LendingClub -- which faced funding challenges of its own before becoming a bank -- in the second quarter retained 27% of the consumer loans it originated, above its target range of 20% to 25%, according to finance chief Tom Casey. The remainder were sold to investors. The company originated $3.8 billion in loans in the second quarter, up 41% from a year earlier.</p>",
+  "published": "2022-08-23T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 3200,
+          "end": 3212
+        },
+        {
+          "start": 3221,
+          "end": 3233
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

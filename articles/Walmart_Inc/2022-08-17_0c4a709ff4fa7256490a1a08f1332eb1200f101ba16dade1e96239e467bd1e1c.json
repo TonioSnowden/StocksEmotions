@@ -1,0 +1,38 @@
+{
+  "_id": "0c4a709ff4fa7256490a1a08f1332eb1200f101ba16dade1e96239e467bd1e1c",
+  "feed": "wall-street-journal",
+  "title": "Target's Profit Drops as It Unloads Inventory; Retailer discounted items, canceled orders to move through a glut of items, a process that executives say is mostly behind them",
+  "text": "<p>The decision to quickly move through excess inventory \"had a meaningful short-term impact on our financial results,\" Target Chief Executive Brian Cornell said on a call with reporters. He said the company didn't want to spend years dealing with excess inventory, potentially degrading the customer and worker experience.</p><p>\"Today the vast majority of the financial impact of these inventory actions is now behind us,\" he said. The company expects operating margin to grow to 6% in the second half of the year.</p><p>Target shares fell more than 2% in pre-market trading.</p><p>Walmart Inc. said Tuesday that sales rose as prices rose, and it continues to see signs that shoppers are reducing spending on nonfood items as prices rise. The company has discounted goods to move through its own glut of inventory as people spend more on food and other goods. Those efforts ate into last quarter's profits and will continue in the current quarter, executives said Tuesday.</p><p>Target's net earnings were $183 million, compared with $1.8 billion a year earlier. Revenue rose, boosted by strong sales of food and beverage, beauty and household items and more shopper visits. Comparable sales, those from stores and digital channels operating at least 12 months, rose 2.6% from a year earlier. Shopper traffic rose 2.7%.</p><p>Home Depot Inc. said Tuesday that sales rose in the most recent quarter, in part due to higher prices, while traffic fell. Walmart said sales rose, also helped by higher prices, while traffic increased 1%.</p><p>SHARE YOUR THOUGHTS</p><p>How has your shopping at Target changed over the past year? Join the conversation below.</p><p>Target executives said traffic gains and overall strength of its core shoppers are evidence that the retailer can put the inventory issues behind it. The retailer believes it is gaining market share by unit sales in all major categories, executives said. \"We've got a guest that is still out shopping,\" said Mr. Cornell.</p><p>Target executives said the company is cautiously buying discretionary categories that it has worked to unload in recent months, such as furniture and some apparel, and buying aggressively in categories like food that shoppers are spending more on.</p><p>At the same time, the retailer has imported some seasonal goods early to make sure shelves are stocked. \"We continue to see a choppy supply-chain environment,\" Finance Chief Michael Fiddelke said. \"You will see us continue to take that approach in the back half of the year.\"</p><p>Target's inventory rose nearly 10% in the second quarter to $15.3 billion as it prepares for fall and holiday shopping, he said. Revenue rose 3.5% to $26 billion. The retailer maintained previous estimates for the full year of percentage revenue growth in the low-to-mid single digits.</p><p>Write to Sarah Nassauer at sarah.nassauer@wsj.com</p><p>Target's Profit Drops as It Unloads Inventory</p>",
+  "published": "2022-08-17T10:31:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 558,
+          "end": 570
+        },
+        {
+          "start": 1405,
+          "end": 1412
+        },
+        {
+          "start": 563,
+          "end": 575
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.0075169,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0075167418,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

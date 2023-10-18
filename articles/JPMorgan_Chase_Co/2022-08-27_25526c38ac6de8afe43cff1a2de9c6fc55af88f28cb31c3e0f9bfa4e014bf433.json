@@ -1,0 +1,42 @@
+{
+  "_id": "25526c38ac6de8afe43cff1a2de9c6fc55af88f28cb31c3e0f9bfa4e014bf433",
+  "feed": "market-watch",
+  "title": "Gary Gensler praises SEC remote work as Wall Street pushes return to office",
+  "text": "<p>The SEC sheriff was quizzed on the thorny subject by anchor David Faber, who specifically cited JPMorgan chief executive Jamie Dimon's efforts to get his bankers back to the office full time.</p><p>\"It's Friday in August. Clearly you seem to be home. … I'm one of these 'I think people are better in the office people.' I guess I agree with Jamie Dimon. I don't know where you stand on that but is the SEC back to the office?\" Faber said from the CNBC studio.</p><p>While Gensler acknowledged a \"benefit to being in the office,\" he was quick to add SEC staffers were able to be fully remote as long as they wished — and applauded his staff for performing so well at home.</p><p>\"We've worked with our bargaining unit, with the union representatives, we moved to voluntary remote. That's where we are,\" Gensler said. \"Compliments to the SEC staff of 4,500 people who have been able to be a cop on the beat.\"</p><p>Faber pushed back, arguing: \"I mean sharing ideas, sharing where they are in investigations. Seems more effective to me than being via Zoom.\"</p><p>Gensler was literally saved by the bell, as noise from the stock market's opening bell gave him the chance to change subjects. He touted the deal struck between Washington and Beijing that will allow U.S. regulators to vet accounting firms in China and Hong Kong.</p><p>Gensler's comments underscore the increasing divide between the private sector — which is looking to clamp down on work from home — and major government agencies embracing fully remote work.</p><p>On Wall Street, keeping a top job has gotten increasingly competitive as revenues trail off.</p><p>Last year, big banks including Goldman SachsGS, JPMorgan JPMand Morgan StanleyMS hiked salaries for entry-level bankers to unprecedented levels, partly because of a feeding frenzy for so-called \"blank check\" companies, or SPACs — a new vehicle for taking companies public quickly that sparked an unprecedented deal volume last year as the pandemic waned.</p><p>But those deals have since dried up, setting the stage for job carnage, sources said. Last month, JPMorgan Chase and Morgan Stanley both reported surprisingly steep profit drops. While JPMorgan revealed its investment banking fees tanked 54% in the most recent quarter, Morgan Stanley said its equity underwriting fees were off 86%.</p><p>At the SEC, workers are unionized and have much more ability to call the shots.</p><p>\"We were still actually mandatory remote,\" Gentler said of his early days at the agency during the pandemic. \"We've worked with our bargaining unit with the union representatives, we moved to voluntary remote.\"</p><p>As the economy slows, and keeping a hefty salary become more challenging, bankers are doing everything they can.</p><p>In this \"eat-what-you-kill environment,\" face time is critical if an aspiring dealmaker is looking to impress his or her supervisors, one banking source told The Post. The source added, \"In the '80s, we had a saying on Wall Street: They can't take your desk away from you if you're sitting at it.\"</p><p>\"Junior bankers would be wise to remember that,\" the source adds.</p><p>This article was first published on NYPost.com</p><p>Gary Gensler praises SEC remote work as Wall Street pushes return to office</p>",
+  "published": "2022-08-27T15:30:00.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 0.99961597,
+      "offsets": [
+        {
+          "start": 96,
+          "end": 104
+        },
+        {
+          "start": 2013,
+          "end": 2027
+        },
+        {
+          "start": 2099,
+          "end": 2107
+        },
+        {
+          "start": 2119,
+          "end": 2127
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.553756,
+        "baseWeight": 4.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.55375636,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

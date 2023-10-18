@@ -1,0 +1,40 @@
+{
+  "_id": "41258849e687188a97336c9d0911bf758d788ef42e5a9bb54ca71d5284263422",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Google Sets End for Third-Party Cookies  ----  By Sam Schechner",
+  "text": "<p>   Google is pushing forward with its plan to remove a widely used tracking technology from its Chrome web browser, despite complaints from rivals that rely on it to target ads at individuals. </p><p>   The Alphabet Inc. unit on Monday said it is making progress on what it said are privacy-friendly alternatives that could replace third-party cookies, which many advertisers and other companies use to track individuals' browsing habits across multiple websites. </p><p>   Google cited positive test results for a technology that analyzes users' browsing habits on their own devices, without sending sensitive data to central servers, and said it expects to open outside testing of ad buys using the technology in the second quarter. </p><p>   A Google spokesman said the company is still on track to stop supporting such cookies in Chrome next year, when the new alternatives are expected to be ready. </p><p>   Third-party cookies offer data that can be valuable to advertisers for the purpose of targeting ads, measuring their effectiveness and stopping fraud. But the way they track individuals' personal browsing has long raised privacy concerns, leading Google to say last year that it would phase them out in 2022. </p><p>   Chrome is the most widely used web browser, with more than 60% of the market globally, according to Statcounter. </p><p>   \"We continue to believe strongly that the decision to phase out support for third party cookies is absolutely the right thing to do for user privacy and the industry as a whole,\" said Chetna Bindra, a product manager at Google. \"Our Google advertising products will be impacted just as other ad technologies will be impacted.\" </p><p>   The debate over third-party cookies underscores a dilemma when it comes to regulating big tech companies: Protecting user privacy and promoting online competition can sometimes be at odds because one of tech's most popular business models is targeting advertising at individuals based on their online behavior. </p><p>   Google's announcement comes as Apple Inc. is facing scrutiny for similar plans. Apple aims to require apps to get opt-in permission from users to collect a widely used advertising identifier for iPhones, something some app developers and advertising companies say is anticompetitive because it would deprive them of needed data. </p><p>   Google, for its part, is facing scrutiny over third-party cookies on both sides of the Atlantic. </p><p>   Earlier this month, the U.K.'s Competition and Markets Authority, the country's top antitrust regulator, said it had opened a formal probe into the phasing out of third-party cookies. It said it would examine whether the plan could cause advertisers to shift spending to Google's set of online-ad tools at the expense of its competitors. </p><p>   In a December antitrust lawsuit against Google, Texas and nine other U.S. states suggested the plan could end up increasing Google's advantage over other companies by giving it more data than competitors. </p><p>   On Monday, Google said its internal tests have shown that alternative tools it is developing could allow advertisers and publishers to do most of the things they do with third-party cookies without losing much value. </p><p>   In a simulated test, the technology that analyzes browsing on individual devices led to \"at least 95% of the conversions per dollar spent\" compared with traditional cookies, Google said. Another technology could allow companies to create audiences of users they wish to reach via advertising, such as people who have been to the advertiser's website, without using third-party cookies, Google said. </p><p>   Google said it is working with other companies in the digital-ad space to help develop the new technologies. </p><p></p>",
+  "published": "2021-01-26T07:13:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 1962,
+          "end": 1972
+        },
+        {
+          "start": 2011,
+          "end": 2016
+        },
+        {
+          "start": 1962,
+          "end": 1974
+        },
+        {
+          "start": 1962,
+          "end": 1973
+        },
+        {
+          "start": 2011,
+          "end": 2018
+        },
+        {
+          "start": 1962,
+          "end": 1969
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

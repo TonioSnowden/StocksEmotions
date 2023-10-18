@@ -1,0 +1,42 @@
+{
+  "_id": "7ec65b9316043eb84092f89224026de65d9c241c5bc5eeaa877cc1618edc4ca7",
+  "feed": "market-watch",
+  "title": "Dan Loeb's Third Point boosts net long position to highest level in six months",
+  "text": "<p>The fund had a 61.5% long equity position and 13.2% short position in August .</p><p>The more aggressive nature comes after the fund had told investors last month that it had covered most of its shorts in individual companies and identified several new positions. Earlier in the year, Third Point said it had taken its net exposure nearly to zero.</p><p>In August, a short on an unnamed company was one of the biggest drags on performance, the fund said.</p><p>Third Point recently said it's reinvested in The Walt Disney Co. DIS. Loeb said he was \"pleased by the strength\" in the business's digital expansion shortly after Disney's quarterly results.</p><p>The fund's top long positions in stocks, besides Disney, were Pacific Gas and Electric PCG.PRD, Danaher DHR, SentinelOne S and UnitedHealth UNH.</p><p>The Third Point Offshore Fund has dropped 20% this year, underperforming both the MSCI world index and the S&amp;P 500.</p><p>Dan Loeb's Third Point boosts net long position to highest level in six months</p>",
+  "published": "2022-09-07T10:03:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.9964,
+      "offsets": [
+        {
+          "start": 601,
+          "end": 607
+        },
+        {
+          "start": 606,
+          "end": 612
+        },
+        {
+          "start": 492,
+          "end": 507
+        },
+        {
+          "start": 677,
+          "end": 683
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.6244924,
+        "baseWeight": 4.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.3900001,
+        "tagPositionWeight": 0.014492512,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "d0edfc04e02f2f9a28882feebac799f70df6e45d292f5d788c5da5aca712ef7b",
+  "feed": "wall-street-journal",
+  "title": "Mix of Disney Board Raises Doubts",
+  "text": "<p>Specifically, Mr. Loeb is concerned that Disney directors don't have enough experience in digital advertising, the monetization of consumer data and other areas that could help Disney boost profits as the company becomes more technology-focused, according to a person familiar with his thinking.</p><p>Disney disputed Mr. Loeb's characterization of the board in its response to his letter.</p><p>\"Our independent and experienced Board has significant expertise in branded, consumer-facing and technology businesses as well as talent-driven enterprises,\" Disney said after the letter came out.It said the board changes often, with directors having an average tenure of four years.</p><p>Its most recent change came in December, when Disney's board elected Susan Arnold as chairman, replacing Robert Iger, its longtime chief executive who served as board chairman starting in 2012. Ms. Arnold has been on Disney's board since 2007, previously served as its lead independent director and has held executive positions at Carlyle Group Inc. and Procter &amp; Gamble Co.</p><p>Disney's theme-park business has historically been its most profitable, but executives have focused their efforts over the past couple of years on expanding its flagship streaming service, Disney+, and its others, Hulu and ESPN+. The performance of streaming has driven investors' appetites or distaste for entertainment companies, including Disney.</p><p>In recent decades, Disney has had an array of professionals as directors, from actor Sidney Poitier to former senator and diplomat George J. Mitchell to Leo J. O'Donovan, a Jesuit theologian who served as president of Georgetown University.</p><p>Some recent directors have had deep backgrounds in digital media. From 2009 to 2018, for example, Sheryl Sandberg, the departing chief operating officer of Facebook (now renamed Meta Platforms Inc.) and the architect of its digital-ads strategy, sat on the Disney board. Twitter Inc. co-founder Jack Dorsey was on the Disney board for five years, while Apple Inc.'s Steve Jobs was a board member from 2006 until 2011, the year he died.</p><p>Mr. Iger served on the board of Apple and resigned the position in 2019 when both companies were in the throes of building competing streaming services.</p><p>Disney's board makeup is now thinner on directors leading consumer-facing brands in tech and media. Instead, the board is stocked with executives with backgrounds at manufacturers such as Procter &amp; Gamble, General Motors Co. and Coca-Cola Co., consumer-apparel brands such as Nike Inc. and Lululemon Athletica Inc. and healthcare and biotech companies.</p><p>Safra Catz, the chief executive of Oracle Corp., is the most prominent tech executive advising Disney, but Oracle is heavily focused on enterprise software and services and isn't known for consumer-facing applications. Oracle declined to comment.</p><p>Amy Chang is a Procter &amp; Gamble board member who joined Disney's board just over a year ago. She previously was an executive at and director of Cisco Systems Inc., and worked in analytics at Google (now part of Alphabet Inc.) and as an internet-marketing product manager at eBay Inc. She also sits on the boards of SambaNova Systems Inc. -- a software company that makes products related to artificial intelligence -- and the information-technology firm Marqeta Inc., both known for their back-end business models. She also serves on the board of a gaming-infrastructure startup, Pragma.</p><p>Disney declined to comment beyond its statement earlier this month in response to Mr. Loeb's letter.</p><p>By comparison, some rival media companies have boards with more experience in consumer-oriented digital-media ventures. Netflix Inc.'s directors include board members at the online dating app Bumble Inc., the digitally focused fitness company Peloton Interactive Inc. and Alphabet. Warner Bros. Discovery Inc.'s directors include several executives at Liberty Media Corp. -- one of its largest shareholders -- including that company's chairman, John Malone. Liberty has ownership stakes in SiriusXM, Formula One and the Atlanta Braves.</p>",
+  "published": "2022-08-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US2546871060",
+      "nexusId": "10078857",
+      "name": "The Walt Disney Company",
+      "confidence": 0.99999994,
+      "offsets": [
+        {
+          "start": 41,
+          "end": 47
+        },
+        {
+          "start": 177,
+          "end": 183
+        },
+        {
+          "start": 295,
+          "end": 301
+        },
+        {
+          "start": 711,
+          "end": 717
+        },
+        {
+          "start": 881,
+          "end": 887
+        },
+        {
+          "start": 885,
+          "end": 891
+        },
+        {
+          "start": 1039,
+          "end": 1045
+        },
+        {
+          "start": 1228,
+          "end": 1235
+        },
+        {
+          "start": 1232,
+          "end": 1239
+        },
+        {
+          "start": 1380,
+          "end": 1386
+        },
+        {
+          "start": 1385,
+          "end": 1391
+        },
+        {
+          "start": 1406,
+          "end": 1412
+        },
+        {
+          "start": 1412,
+          "end": 1418
+        },
+        {
+          "start": 1883,
+          "end": 1889
+        },
+        {
+          "start": 1891,
+          "end": 1897
+        },
+        {
+          "start": 1943,
+          "end": 1949
+        },
+        {
+          "start": 1952,
+          "end": 1958
+        },
+        {
+          "start": 2212,
+          "end": 2218
+        },
+        {
+          "start": 2658,
+          "end": 2664
+        },
+        {
+          "start": 2864,
+          "end": 2870
+        },
+        {
+          "start": 3393,
+          "end": 3399
+        }
+      ],
+      "weightsV2": {
+        "weight": 9.099603,
+        "baseWeight": 21.0,
+        "expansionWeight": 1.0,
+        "ontologyWeight": -13.698221,
+        "tagPositionWeight": 0.79782426,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "_id": "4edc0c0ecc7f76f7a2f5a597bb913eef42a8f968de94457d3a8e42ab22f6edd3",
+  "feed": "wall-street-journal",
+  "title": "Apple, Facebook Tangle On Privacy",
+  "text": "<p>Facebook CEO Mark Zuckerberg singled out Apple on Wednesday as one of its most formidable competitors and accused the company of using its platform to interfere with how Facebook apps work. Mr. Zuckerberg has previously cast the fight as one between ad-supported players like his company who offer free apps with targeted advertising and privacy-conscious, fee-based services like those Apple is backing for consumers.</p><p>The salvos escalate a battle between two of the world's largest and most influential companies over central elements of how the tech industry operates. The fight is taking place against the backdrop of heightened regulatory scrutiny of big tech companies. Facebook has been sued by the Federal Trade Commission and 46 states over anticompetitive claims. Apple, too, has faced claims from rivals that its practices limit competition. Both tech giants deny wrongdoing.</p><p>In remarks to the Consumer Privacy and Data Protection Conference, Mr. Cook decried what he called \"a theory of technology\" that prizes engagement and algorithms that help spread disinformation and conspiracy theories to collect user data for advertising.</p><p>\"If a business is built on misleading users, on data exploitation, on choices that are no choices at all, then it does not deserve our praise -- it deserves reform,\" Mr. Cook said. He added, \"It is long past time to stop pretending that this approach doesn't come with a cost of polarization, of lost trust, and yes, of violence. A social dilemma cannot be allowed to become a social catastrophe.\"</p><p>Mr. Cook's speech came after Apple hours earlier reiterated its intent to give users the option to limit how apps track their digital footprints. This spring, users will see the new feature, which will allow ad tracking only if consumers opt in once they receive a prompt on an iPhone or iPad. The software update to its mobile operating system would make it so that Facebook or other companies would no longer be able to collect a person's advertising identifier without permission.</p><p>In comments to investors Wednesday after Facebook posted record profits, Mr. Zuckerberg sought to cast Apple's privacy moves as a means to use its platform to put Facebook at a disadvantage. He said Apple's iMessage service is pre-installed on every phone and complained that Apple uses tools to put it at the center of the experience of its users.</p><p>\"Apple has every incentive to use their dominant platform position to interfere with how our apps and other apps work, which they regularly do to preference their own,\" he said. \"This impacts the growth of millions of businesses around the world.\" Apple didn't respond to a request to comment on Mr. Zuckerberg's statement.</p><p>At the core of their dispute are starkly different business models that are nonetheless intertwined. Apple gets most of its revenue from selling iPhones and other devices, though it has a growing services business built partly on enabling the distribution of apps like Facebook. The social-media giant gets the vast bulk of its revenue from digital advertising that relies on the ability to target users based on their interests and habits -- but it relies on Apple's hardware as the tools through which many Facebook users access its apps.</p><p>Parts of those businesses are increasingly colliding, as Apple in recent years has built out its messaging platform with features making it easier to send group chats and has a smaller ad business.</p><p>Facebook issued a warning Wednesday that specifically mentioned Apple's mobile operating software, iOS 14, as a risk to its business this year, although the company also said revenue growth will remain stable in the first two quarters. Facebook has become the world's largest social network, with about 1.85 billion users in the latest quarter, and its WhatsApp and Messenger communication tools are among those services that compete directly with Apple.</p><p>Late Wednesday, Apple's spring timeline for implementing the new privacy features was included in a new company report online that aimed to detail how personal data is harvested by third parties.</p><p>The coming change is part of a continuum of features Apple has added over the years aimed at improving and protecting user privacy while also making such efforts part of its marketing. For example, the iPhone asks a user to give permission to apps wanting to use the device's microphone, such as when Skype is used.</p><p>Apple's ad identifier is a string of numbers widely used by digital ad and data brokers that can be used to reveal where users go online, insight that is useful for targeting ads.</p><p>Some in the app industry are worried that the opt-in requirement will lead users to reject the request, resulting in the collapse of ad prices.</p><p>(See related letter: \"Letters to the Editor: When Those Big Elephants Fight, Look Out Below\" -- WSJ Feb. 12, 2021)</p>",
+  "published": "2021-01-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 2621,
+          "end": 2626
+        },
+        {
+          "start": 4140,
+          "end": 4145
+        },
+        {
+          "start": 387,
+          "end": 392
+        },
+        {
+          "start": 2798,
+          "end": 2803
+        },
+        {
+          "start": 3500,
+          "end": 3505
+        },
+        {
+          "start": 3157,
+          "end": 3162
+        },
+        {
+          "start": 3295,
+          "end": 3300
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 773,
+          "end": 778
+        },
+        {
+          "start": 41,
+          "end": 46
+        },
+        {
+          "start": 3907,
+          "end": 3912
+        },
+        {
+          "start": 1569,
+          "end": 1574
+        },
+        {
+          "start": 4403,
+          "end": 4408
+        },
+        {
+          "start": 2374,
+          "end": 2379
+        },
+        {
+          "start": 3884,
+          "end": 3889
+        },
+        {
+          "start": 2127,
+          "end": 2132
+        },
+        {
+          "start": 2223,
+          "end": 2228
+        },
+        {
+          "start": 2300,
+          "end": 2305
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

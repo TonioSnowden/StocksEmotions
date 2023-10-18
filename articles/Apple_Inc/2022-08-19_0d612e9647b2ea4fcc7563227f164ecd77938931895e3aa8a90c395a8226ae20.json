@@ -1,0 +1,34 @@
+{
+  "_id": "0d612e9647b2ea4fcc7563227f164ecd77938931895e3aa8a90c395a8226ae20",
+  "feed": "wall-street-journal",
+  "title": "Snap Scraps Development on Its Flying Selfie Drone Pixy",
+  "text": "<p>Pixy is a small drone that takes off and lands in the user's hand. It was introduced at the end of April during Snap's annual partner summit with a $230 starting price. When it launched, Mr. Spiegel said it planned to sell a limited quantity of them.</p><p>Snap will continue to sell the current iteration of Pixy, according to a person familiar with the matter.</p><p>The company behind the social-media platform Snapchat was particularly hard hit in recent months from disruptions in the digital advertising market, posting its weakest-ever quarterly sales growth in July. Shares fell almost 40% on those results.</p><p>The company is grappling with changes Apple Inc. introduced to its privacy policy, denting Snap's ad business and that of other social-media companies. Snap shares slumped more than 80% over the past year.</p><p>Snap's step back from Pixy echoes actions other tech companies have taken to reallocate resources in recent weeks. Facebook parent Meta Platforms Inc. has moved to give priority to efforts around the creator economy and away from its Facebook News tab and newsletter platform called Bulletin. The changes came amid a shift within the company toward the metaverse and its efforts to fend off competition from short-form video platform TikTok.</p><p>Microsoft Corp. recently laid off some employees in its Modern Life Experiences group, which helps develop software products for consumers. The ride-hailing company Lyft Inc. said last month it was curtailing its car-rental program for rides, which allowed consumers to rent its fleet of cars on the app.</p><p>Launching successful hardware products has long been a goal for Snap. In 2016, Snapchat renamed itself Snap Inc. It billed itself as a camera company instead of simply a social-media platform. It launched a set of sunglasses with a camera in them, called Spectacles, for $130.</p><p>Snap's latest decision around the Pixy drone follows other belt tightening. Last month, the company said it would substantially reduce its rate of hiring and that head count would remain roughly flat. Meta and Twitter Inc. said they plan to throttle back on adding employees.</p><p>Robinhood Markets Inc. this month said it was slashing about 23% of its full-time staff.</p>",
+  "published": "2022-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 636,
+          "end": 645
+        },
+        {
+          "start": 642,
+          "end": 652
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.8084527,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.19500005,
+        "tagPositionWeight": 0.0034527779,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

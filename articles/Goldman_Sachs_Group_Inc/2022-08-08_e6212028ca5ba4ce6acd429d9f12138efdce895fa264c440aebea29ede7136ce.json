@@ -1,0 +1,42 @@
+{
+  "_id": "e6212028ca5ba4ce6acd429d9f12138efdce895fa264c440aebea29ede7136ce",
+  "feed": "wall-street-journal",
+  "title": "Crypto Market Turmoil Highlights Personal Risks for Compliance Chiefs; Increased pressure and attention placed on the crypto industry is stoking the anxiety of individual crypto compliance officers and other legal professionals",
+  "text": "<p>Regulators can potentially charge compliance chiefs working in all sectors, including traditional finance, for conduct relating to their job-related duties. However, for those individuals working in the nascent crypto sector, where the rules are still evolving, the personal liability risks can be higher. Legal and compliance professionals at crypto firms are often asked to turn on a dime to make judgment calls and might not have the staff and resources that are available to a larger financial services business.</p><p>\"There is more risk because there is no clear rulebook,\" Jeff Horowitz, chief compliance officer at Palo Alto, Calif.-based crypto custodian BitGo Inc., said.</p><p>Mr. Horowitz, who spent 25 years in compliance roles in more conventional financial services firms, including Bank of New York Mellon Corp.'s Pershing LLC, said compliance professionals working in crypto often have to balance navigating existing and potential laws and deal with the pressure to take calculated risks to grow a business. Mr. Horowitz, who most recently served as the chief compliance officer at crypto exchange Coinbase Global Inc., added that many crypto sector businesses operate from a startup mind-set.</p><p>The personal liability risks facing chief compliance officers have come under the spotlight in recent months. The U.S. Securities and Exchange Commission in June filed charges against Jeffrey Kirkpatrick, chief compliance officer and principal of Hamilton Investment Counsel LLC, alleging he aided and abetted the investment adviser in violating federal securities laws.</p><p>The Financial Industry Regulatory Authority, Wall Street's self-regulatory arm, defined more clearly the scope of potential liability for compliance chiefs in March, saying it would only take action against chief compliance officers when they fail to carry out specific supervisory responsibilities designated by their respective firms. Compliance professionals groups, such as the National Society of Compliance Professionals and the New York City Bar Association, havereleased their own guidelines in recent years on the issue amid growing concerns among compliance officers that they could be personally charged for failings at their firm.</p><p>The recent crypto downturn and the losses seen by many individual investors could bring additional regulatory and consumer scrutiny, according to Teresa Goody Guillén, a partner at law firm Baker &amp; Hostetler LLP who advises crypto firms on white-collar-related investigations. She said the issue of a compliance chief's personal liability is more likely to arise when the compliance chief isn't aware that a particular part of the law applies to his or her business—for example, if the crypto firm in question also qualifies as a money-services business that may require licensing.</p><p>To mitigate some of the risks, compliance officers should ensure they have the resources they need to do their jobs and aren't wearing too many hats in their organization, which sometimes happens at smaller startups, Ms. Guillén said. It is also a good practice to have the compliance chief report directly to the chief executive and give the position enough support and authority to make a difference in the business, she said.</p><p>Brian Rubin, a partner at law firm Eversheds Sutherland (US) LLP in Washington and an author of the National Society of Compliance Professionals' guidelines on charging chief compliance officers, said compliance chiefs should always seek outside legal advice when in doubt and keep abreast of statements and notices put out by regulators.</p><p>\"I say this to all compliance officers: Document what they are doing and what they are not doing, so after the fact they can point to certain evidence to justify their behavior,\" Mr. Rubin said.</p><p>For Jennifer Lee, who leads compliance at digital asset platform Anchorage Digital, hiring a strong team that can support her is key to reducing her personal liability risk. Ms. Lee, who previously worked for 10 years in compliance at Goldman Sachs Group Inc., said she has compiled a team with experience in both traditional finance and crypto compliance to work at Anchorage Digital, which is also a federally chartered cryptocurrency bank.</p><p>\"I need people that come in with a lot of experience and are ready to provide a lot of perspectives in terms of how to implement the compliance program,\" she said.</p><p>Samuel Brylski, the chief regulatory officer at Hedera Hashgraph LLC, which operates the public blockchain network Hedera with the HBAR cryptocurrency, said compliance chiefs also need to make sure they have a supportive board and fellow executives behind them. Mr. Brylski, who previously served as the general counsel at crypto exchange ShapeShift, said fostering a culture of compliance is the best way to ensure that compliance chiefs don't \"get caught up in something more illicit.\"</p><p>\"I would go back to a culture of compliance,\" he said. \"You didn't create the cracks, but you're ultimately responsible for them.\"</p><p>Write to Mengqi Sun at mengqi.sun@wsj.com</p><p>Crypto Market Turmoil Highlights Personal Risks for Compliance Chiefs</p>",
+  "published": "2022-08-08T09:30:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.99992794,
+      "offsets": [
+        {
+          "start": 3993,
+          "end": 4000
+        },
+        {
+          "start": 3976,
+          "end": 4000
+        },
+        {
+          "start": 3993,
+          "end": 4017
+        },
+        {
+          "start": 3993,
+          "end": 4006
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.0,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "263776903822cdd4d8ab8eb7f2febe4132d0d914094f0716d60d263e4315d73b",
+  "feed": "market-watch",
+  "title": "Durable-goods orders flat, but businesses invest more in good sign for economy; Big drop in military contracts depresses orders",
+  "text": "<p>More important, a measure of business spending rose 0.4% last month, the government said.</p><p>These so-called core orders are viewed as a sign of whether the future path for businesses and the broader economy are good or bad. They strip out the volatile transportation sector as well as government spending on the military.</p><p>Business investment has climbed 8.5% in the past year, though the rate of growth has steadily slowed since a hitting a pandemic peak of 22% in April 2021.</p><p>Investment is now barely keeping up with inflation, however.</p><p>Big picture: Manufacturers are feeling the brunt of rising interest rates and high inflation as customers scale back. And they're also confronting ongoing shortages of supplies and labor that have hindered production for the past year and a half.</p><p>Yet by most measures, manufacturers have plenty of demand and they are still growing, just at a slower pace compared to earlier in the year.</p><p>Growth might continue to slow, however, if the Federal Reserve keeps raising interest rates to combat high inflation. Higher rates discourage businesses and consumers from spending.</p><p>Key details: Orders new passenger planes jumped 14.5% in July, a month in which many customers traditionally sign new contracts with Boeing BA after a big industry air show. New car and truck orders edged up 0.2% last month.</p><p>New orders rose a mild 0.3% outside the transportation segment, a large and volatile category that often exaggerates the swings in industrial production.</p><p>Bookings rose for metal parts, machines, computers and electronics. They fell for industrial metals and appliances.</p><p>The Pentagon had unusually large sway on new orders in the last two months. Bookings for defense soared 26% in June and sank 16% in July.</p><p>Market reaction: The Dow Jones Industrial Average DJIA and S&amp;P 500 SPX were set to open higher in Wednesday trades.</p><p>Durable-goods orders flat, but businesses invest more in good sign for economy</p>",
+  "published": "2022-08-24T12:39:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 1239,
+          "end": 1245
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0000083,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 8.34465e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

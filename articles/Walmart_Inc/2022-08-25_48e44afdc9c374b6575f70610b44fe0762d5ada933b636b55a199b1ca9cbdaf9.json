@@ -1,0 +1,34 @@
+{
+  "_id": "48e44afdc9c374b6575f70610b44fe0762d5ada933b636b55a199b1ca9cbdaf9",
+  "feed": "wall-street-journal",
+  "title": "Victoria's Secret, Gap Suffer as Shoppers Shift From Apparel; Retailers post weaker-than-expected quarterly results heading into the holiday season",
+  "text": "<p>Victoria's Secret and Abercrombie closed 2% and more than 6% lower in Thursday trading, respectively. Gap closed Thursday up 1% and wavered between losses and gains in after-hours trading.</p><p>Retail spending has softened this year as higher fuel and food prices sap household budgets and people set aside more money for dining out and entertainment. The shift has left many chains with excess inventories heading into the holidays and moving to markdown prices. </p><p>Gap swung to a loss of $49 million in the period and reported an 8% sales decline. PHOTO: Bess Adler for The Wall Street Journal</p><p>Gap late Thursday said its second-quarter sales fell 8% and it swung to a loss of $49 million, compared with a profit of $258 million a year ago.</p><p>The company, which oversees the Gap, Old Navy, Banana Republic and Athleta brands, said its lower-income consumer retreated during the period because of rising fuel costs and other inflationary pressures. Gap reported that sales trends improved in July and into August, but that it needed to continue working to reduce inventory to match consumer demand and reduce operating costs.</p><p>Old Navy took the largest hit during the period, with net sales down 13% from a year ago, because of size and assortment imbalances, ongoing inventory delays and slowing demand. Net sales were up 9% for Banana Republic as higher-income consumers shrugged off fears of inflation and continued to buy new clothes for going out and in-person events.</p><p>The San Francisco-based company in July replaced Sonia Syngal as CEO after she spent a little more than two years at the helm. Bob Martin, its executive chairman and a former Walmart Inc. executive, is interim CEO while the company searches for a permanent successor. He said the company is targeting unproductive inventory and reducing operating costs as Gap focuses on profitability.</p><p>Victoria's Secret said quarterly revenue fell 6% and net income dropped more than 50% to $69.9 million. It warned that full-year sales would decline, after previously projecting sales would be flat or increase. The lingerie seller, which owns the Pink brand, had been hoping that a new branding campaign would reignite sales.</p><p>\"We expected to face significant headwinds in the second quarter,\" CEO Martin Waters said Thursday on a call with analysts. \"We were not wrong.\"</p><p>Victoria's Secret executives said that sales worsened in July and that revenue is expected to be down at a high-single digit rate in the third quarter, as inflation and other financial pressures weigh on consumers. \"Sometimes the broader macro trends, specifically at the store level or at mall level, are difficult to fight uphill,\" finance chief Tim Johnson said.</p><p>Abercrombie, which owns the Hollister chain, also warned it expects full-year net sales to decline from 2021. Previously, the company had predicted 2022 sales would be flat or increase. In the second quarter, sales fell 7% to $805.1 million and the company swung to a loss for the three months ended July 30.</p><p>CEO Fran Horowitz said the company experienced a brand divergence during the quarter, where Abercrombie posted its highest second-quarter sales since 2015 while Hollister sales slid 15%.</p><p>Ms. Horowitz said Hollister's weakness stems from its customer base skewing more to lower-income shoppers, who are more affected by inflation, than Abercrombie's. But not all of the challenges are due to broader economic issues. \"There's part of it, of course, that we own,\" she said on the company's earnings call.</p><p>Write to Dean Seal at dean.seal@wsj.com</p><p>Victoria's Secret, Gap Suffer as Shoppers Shift From Apparel</p>",
+  "published": "2022-08-25T20:55:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.976,
+      "offsets": [
+        {
+          "start": 1638,
+          "end": 1650
+        },
+        {
+          "start": 1627,
+          "end": 1639
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

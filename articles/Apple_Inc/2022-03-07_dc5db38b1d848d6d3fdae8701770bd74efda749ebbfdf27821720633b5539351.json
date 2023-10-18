@@ -1,0 +1,28 @@
+{
+  "_id": "dc5db38b1d848d6d3fdae8701770bd74efda749ebbfdf27821720633b5539351",
+  "feed": "wall-street-journal",
+  "title": "Samsung Says Hackers Stole Galaxy Smartphone Data; South Korean electronics maker says hack didn't involve personal information for consumers or employees",
+  "text": "<p>\"Immediately after discovering the incident, we strengthened our security system,\" the company said in a statement.</p><p>The data that was stolen included source code for the operation of Galaxy phones, the company said. The stolen material didn't include personal information of consumers or employees, the company added.</p><p>The smartphone maker said it didn't anticipate any impact to its business or customers. Samsung said it also implemented measures to prevent further incidents. Samsung's line of Galaxy phones is one of the biggest competitors to Apple Inc.'s iPhone and a major source of revenue for the company.</p><p>Samsung didn't say who was behind the breach. A hacking group Lapsus$ claimed on its Telegram channel over the weekend it had obtained source code and other confidential material from Samsung.</p><p>Lapsus$ also recently claimed to have taken data from chip maker Nvidia Corp. After discovering the breach, Nvidia said last month it consulted with cybersecurity incident response experts and notified law enforcement.</p><p>In a series of messages posted to Telegram, the Lapsus$ group says it stole 1 terabyte of data from Nvidia. It has demanded that the company release the source code for some of its products and also remove limitations in code that makes Nvidia's chips inefficient for cryptocurrency mining.</p><p>—Robert McMillan contributed to this article.</p><p>Write to Joseph De Avila at joseph.deavila@wsj.com</p><p>Samsung Says Hackers Stole Galaxy Smartphone Data</p>",
+  "published": "2022-03-07T21:32:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 547,
+          "end": 557
+        },
+        {
+          "start": 547,
+          "end": 552
+        },
+        {
+          "start": 547,
+          "end": 556
+        }
+      ],
+      "nexusId": "10022657"
+    }
+  ]
+}

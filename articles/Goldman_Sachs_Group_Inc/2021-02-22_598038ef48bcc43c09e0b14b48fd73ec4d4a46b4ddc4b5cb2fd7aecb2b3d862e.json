@@ -1,0 +1,32 @@
+{
+  "_id": "598038ef48bcc43c09e0b14b48fd73ec4d4a46b4ddc4b5cb2fd7aecb2b3d862e",
+  "feed": "wall-street-journal",
+  "title": "Online Frenzy for GameStop Drives an ETF",
+  "text": "<p>On Jan. 27, GameStop Corp. soared 135%, driven by events such as Tesla Inc. Chief Executive Elon Musk tweeting \"Gamestonk.\" The State Street fund jumped 42% the same day. The next day, GameStop shares tumbled 44% and the fund, known by its ticker XRT, dropped about 9%.</p><p>On Jan. 28, the fund suffered its largest single-day outflow in more than a decade, according to FactSet. Three-quarters of the money in the fund flowed out, amounting to $506 million in redemptions, driven in part by what some analysts describe as a frantic rush by traders to liquidate the ETF -- whose price at times traded at discounts rarely seen in this part of the world -- to get their hands on underlying GameStop shares.</p><p>The whipsaw trading highlights how the mania in WallStreetBets favorites like GameStop can drive pricing in other investments, in this case one typically preferred by investors seeking portfolio diversification and targeted exposure to industry sectors. GameStop shares, long viewed as an also-ran by many investors in a world dominated by Amazon and Costco, at one point this year accounted for 20% of the State Street fund.</p><p>The roller-coaster ride in the retail ETF \"isn't something you see really ever,\" said Komson Silapachai, a vice president of research at portfolio strategy at Sage Advisory. Mr. Silapachai said the firm bought shares of the ETF last year as a way to play the growth in e-commerce and sold them last month at a profit. He said the firm is still seeking to invest in a cyclical economic recovery but won't use this ETF to do so.</p><p>From a markets perspective, the link between GameStop shares and the State Street ETF is a feature rather than a bug. ETFs are baskets of securities, like mutual funds, tradable intraday on an exchange. Their exchange listing creates a link between the price of fund shares and the value of the underlying securities that savvy traders -- notably so-called authorized participants, financial firms chosen by the ETF issuer to manage the ETF shares' trading -- can quickly exploit for profit when it gets out of whack. That is what happened in late January in the retail ETF.</p><p>Here is how ETFs work. Investors can buy and sell shares of an ETF at any time when the market is open. ETF issuers such as State Street rely on authorized participants to manage the supply of fund shares and keep prices in line with net asset value, or the sum of the weighted value of constituent shares.</p><p>When ETF share prices rise above net asset value, authorized participants create more shares by selling a basket of the fund's underlying securities to State Street in exchange for a block of ETF shares -- typically 10,000 or more -- which those firms can then sell on an exchange. When the shares trade at a discount to the fund's underlying value, those firms can buy ETF shares on the stock market and hand a block of them to State Street in exchange for the stocks held by the fund, pulling the net asset value back in line with the fund's share price.</p><p>State Street said 43 firms act as authorized participants on its main family of ETFs, including XRT. They include Citadel Securities LLC, Barclays Inc., Goldman Sachs &amp; Co. and Citigroup Global Markets Inc., the firm said in a filing.</p><p>Generally, XRT trades within 0.03% of net asset value, according to FactSet. But on Jan. 28, the ETF traded at a 3.1% discount just after the market opened, as shares of GameStop were halted on the New York Stock Exchange, according to FactSet data.</p><p>XRT traded at discounts to its net asset value most of the session, with gaps widening during numerous trading halts on GameStop.</p><p>\"GameStop became such a heavyweight in the fund that it created a disconnect between the value of the ETF and the underlying basket,\" said Mohit Bajaj, director of ETF trading solutions at WallachBeth Capital.</p><p>Trading volume in XRT shares that day was 10 times the usual level, according to FactSet. Authorized participants ultimately obtained roughly 370,000 shares of GameStop through redemptions of XRT shares, said Matt Bartolini, head of SPDR Americas research for State Street Global Advisors.</p><p>GameStop's outsize influence in the fund in part reflected its giant rally and in part the fund's practice of roughly equal-weighting the firms in the index it tracks -- a break with more widely tracked indexes such as the S&amp;P 500, whose firm weightings reflect relative market values. A buyer of shares in the retail ETF, by contrast, typically gets about the same amount of Amazon as GameStop, despite the market-value gap between the two.</p><p>Though the GameStop frenzy appears to have abated, other stocks listed in XRT remain favorites on WallStreetBets.</p><p>Magnite Inc., an advertising tech company, has quadrupled over the past three months and is currently the second-biggest holding in XRT after GameStop. Some of the denizens of subreddit WallStreetBets have taken a liking to the stock in recent months, usually accompanied with the all-too-common rocket ship emojis implying it is \"off to the moon.\"</p><p>\"It is still not too late to get in. In fact, you are early. This is going to keep running,\" said one user in a post about Magnite in late December, ahead of the stock nearly doubling so far this year.</p>",
+  "published": "2021-02-22T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 3146,
+          "end": 3159
+        },
+        {
+          "start": 3146,
+          "end": 3153
+        },
+        {
+          "start": 3146,
+          "end": 3165
+        },
+        {
+          "start": 3126,
+          "end": 3145
+        }
+      ]
+    }
+  ]
+}

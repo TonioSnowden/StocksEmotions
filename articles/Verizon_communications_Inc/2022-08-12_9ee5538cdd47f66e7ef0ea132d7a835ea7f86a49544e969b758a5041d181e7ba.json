@@ -1,0 +1,34 @@
+{
+  "_id": "9ee5538cdd47f66e7ef0ea132d7a835ea7f86a49544e969b758a5041d181e7ba",
+  "feed": "wall-street-journal",
+  "title": "Technology:  Deutsche Telekom  Is Close to Owning  T-Mobile Majority  ----  By Alex Harring",
+  "text": "<p>   German telecommunications giant Deutsche Telekom AG reiterated plans to build its stake in T-Mobile US Inc. and said it is nearing majority ownership of the U.S.'s second-largest wireless carrier by customers. </p><p>   Deutsche Telekom has been looking to retake a majority stake in T-Mobile since the unit's 2020 merger with Sprint, which SoftBank Group Corp. previously controlled. </p><p>   The German company already has majority voting power in the U.S. wireless carrier. </p><p>   The telecom giant's stake in T-Mobile is at about 48.4%, Chief Executive Tim Hottges told analysts in an earnings call on Thursday. Once majority ownership is reached, it is possible the German company could further increase its stake in T-Mobile or participate in a share buyback, Mr. Hottges added. </p><p>   The disclosure came as Deutsche Telekom raised its guidance for the second time this year, citing in part the performance of T-Mobile. </p><p>   The U.S. company reported gains in wireless postpaid phone customers, considered a reliable measure of a wireless company's performance because it tracks monthly bill payers. </p><p>   Its growth in customer base fell slightly short of rival AT&amp;T Inc., but both outperformed Verizon Communications Inc., which has the largest wireless subscriber base in the country. </p><p>   T-Mobile's business in the U.S. accounted for about two-thirds of Deutsche Telekom's net revenue in the second quarter. </p><p>   Deutsche Telekom shares gained about 0.4% in Thursday trading in Germany, while T-Mobile shares slipped 0.9% in New York. </p><p></p>",
+  "published": "2022-08-12T06:04:00.000Z",
+  "tags": [
+    {
+      "id": "US92343V1044",
+      "nexusId": "10074051",
+      "name": "Verizon Communications Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1159,
+          "end": 1186
+        },
+        {
+          "start": 1152,
+          "end": 1178
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.9000199,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.100000024,
+        "tagPositionWeight": 1.9907951e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 4
+    }
+  ]
+}

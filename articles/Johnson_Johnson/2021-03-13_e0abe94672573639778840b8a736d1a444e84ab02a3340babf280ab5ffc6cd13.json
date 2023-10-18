@@ -1,0 +1,20 @@
+{
+  "_id": "e0abe94672573639778840b8a736d1a444e84ab02a3340babf280ab5ffc6cd13",
+  "feed": "wall-street-journal",
+  "title": "Letters to the Editor:  Encryption Isn't Main Data-Security Threat",
+  "text": "<p>   Regarding David C. Gompert's \"Effective Cybersecurity Needs Quantum Communication\" (op-ed, March 8): The quantum internet or quantum key distribution (QKD) network wouldn't have prevented the recent SolarWinds hack or any of the other $6 trillion network hacks a year referenced, due to a failure of today's communications encryption. </p><p>   QKD networks already are commercially available in China, the U.S., South Korea and Europe. They are not extensively used because a facility needs access to a special purpose, optical-fiber network or quantum satellite. Such a cybersecurity solution option offers nothing for a smartphone user or virtually any other digital device used by everyday consumers or office workers. </p><p>   Realistically, the consumer or everyday business email user has nothing to fear about quantum computers breaking their encrypted communications. There are over four billion email users sending or receiving 300 billion encrypted emails a day. Even with a full-scale quantum computer, my estimate is the best a team of extremely talented cryptographers would be able to decrypt a day would likely be several hundred emails. </p><p>   So, what should the U.S. government be funding in the quantum-computing area? It should support the understanding of quantum-computing warfare tools capable of launching a cyberattack on our nation's infrastructure, including cellular communications, financial services as well as everyday government services. This would be the equivalent of a nuclear bomb attack, only with quantum-computing weaponization. You must understand cyberattack options to counter cyberattack threats. </p><p>   Jerry Lucas </p><p>   President </p><p>   Intelligence Support Systems </p><p>   McLean, Va. </p><p>   --- </p><p>   Effective cybersecurity will come from effective market incentives to persuade companies to invest in producing less vulnerable software and systems. The technology is here to do that. The incentives are not. </p><p>   Carl E. Landwehr </p><p>   New Buffalo, Mich. </p><p>   --- </p><p>   Mr. Gompert rightfully extols the virtues of quantum cryptography as important to assure future security of the internet, but \"attacking the crypto\" is rarely where hackers look these days. They focus on much more mundane vulnerabilities such as poor password and authentication management, bad user account-privilege management, unpatched systems, poor software-development practices (attack the implementation of the crypto, not the crypto algorithms themselves) and social engineering to convince people to let malware into their environment. These are far simpler targets to exploit and, arguably, harder to deal with than the vagaries of quantum physics. Bear in mind that these are also considerations that will make the so-called \"smart electric grid\" equally vulnerable to disruption. </p><p>   Richard A. Guida, P.E., CISSP </p><p>   Gainesville, Va. </p><p>   Mr. Guida is a retired vice president for world-wide information security at Johnson &amp; Johnson. </p><p></p>",
+  "published": "2021-03-13T07:12:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 2849,
+          "end": 2866
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

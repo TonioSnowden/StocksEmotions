@@ -1,0 +1,46 @@
+{
+  "_id": "4c2148de5b88442dba9fa10294a8c1ea218c216becc19f4a410e16367a1b3d4d",
+  "feed": "wall-street-journal",
+  "title": "EXCHANGE  ---  Parler Returns to Google's App Store After Changes  ----  By Meghan Bobrowsky",
+  "text": "<p>   Google said it has restored the conservative social-media app Parler LLC to its app store after it agreed to modify some of its content-moderation policies and enforcement. </p><p>   Parler, which calls itself a \"free speech Twitter alternative,\" has agreed to come into compliance with the Google app store content requirements that include moderation policies and enforcement to remove posts such as those that incite violence, a spokesperson for Alphabet Inc.'s Google said Friday. Parler agreed to substantially modify its app to comply with Google's policies, the spokesperson said. </p><p>   Parler's app was removed from the Google Play app store shortly after the Jan. 6, 2021, U.S. Capitol riot. Google, at the time, said it took the action due to \"continued posting in the Parler app that seeks to incite ongoing violence in the U.S.\" At the time it was removed, a Google representative said the app would stay suspended until it fixed the issues. </p><p>   \"We are pleased that Parler is back on Google Play,\" said Samuel Lipoff, Parler's chief technology officer. \"While away from Google Play, we have worked diligently to build a more feature-rich and dynamic user experience.\" </p><p>   The Parler app was also removed from Apple Inc.'s App Store around the same time and Amazon.com Inc.'s cloud-computing business withdrew its services, taking the platform offline briefly. It came back online the following month. </p><p>   Parler was reinstated on Apple's app store a few months later after the app said it had added process algorithms that automatically detect violent content or incitements to violence. Parler said its app, if downloaded from Apple's app store, would also exclude certain content that would otherwise be able to be viewed on its web-based and Android versions of the platform. </p><p>   Parler says it was founded in Nashville, Tenn., in 2018 and bills itself as an unbiased, free-speech alternative to those offered by bigger social-media companies like Twitter Inc. and Meta Platforms Inc., which runs Instagram and Facebook. Parler says it has amassed more than 16 million users across apps and platforms, several of them people who had been banned by other large social networks, including far-right talk-show host and conspiracy theorist Alex Jones and supporters of the Proud Boys, the self-described \"Western chauvinist\" group. </p><p>   Truth Social, former President Donald Trump's social media app, also previously applied to be able to list its app on Google Play. Two weeks ago, the company declined their application, notifying them of several policy violations, and asked them to make changes. </p><p>   A Google spokesperson said that Truth Social wrote back saying they were working on the issues. Truth Social didn't immediately respond to a request for comment. </p><p>   --- </p><p>   Miles Kruppa contributed to this article. </p><p></p>",
+  "published": "2022-09-03T06:06:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "confidence": 0.99904,
+      "offsets": [
+        {
+          "start": 1191,
+          "end": 1201
+        },
+        {
+          "start": 1406,
+          "end": 1411
+        },
+        {
+          "start": 1198,
+          "end": 1208
+        },
+        {
+          "start": 1415,
+          "end": 1420
+        },
+        {
+          "start": 1603,
+          "end": 1608
+        }
+      ],
+      "weightsV2": {
+        "weight": 4.512513,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.4875002,
+        "tagPositionWeight": 1.347065e-05,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

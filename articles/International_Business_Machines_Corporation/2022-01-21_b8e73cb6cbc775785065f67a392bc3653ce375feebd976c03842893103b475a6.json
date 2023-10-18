@@ -1,0 +1,32 @@
+{
+  "_id": "b8e73cb6cbc775785065f67a392bc3653ce375feebd976c03842893103b475a6",
+  "feed": "wall-street-journal",
+  "title": "IBM Sells Watson Health Assets to Investment Firm; Financial terms of deal with California-based Francisco Partners weren't disclosed",
+  "text": "<p>The Wall Street Journal reported last year that IBM was exploring a sale of its healthcare-analytics business as a way to streamline the computing giant's operations and sharpen its focus on cloud computing. The Watson Health business includes technology brands that analyze diagnostic tests and other healthcare data and assist with patient communications.</p><p>IBM said that the deal wouldn't weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.</p><p>Francisco Partners, based in California, has previously invested in healthcare companies such as GoodRx Holdings Inc., Zocdoc Inc. and Capsule Corp.</p><p>Write to Matt Grossman at matt.grossman@wsj.com</p><p>IBM Sells Watson Health Assets to Investment Firm</p>",
+  "published": "2022-01-21T13:45:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 48,
+          "end": 51
+        },
+        {
+          "start": 358,
+          "end": 361
+        },
+        {
+          "start": 0,
+          "end": 3
+        },
+        {
+          "start": 703,
+          "end": 706
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

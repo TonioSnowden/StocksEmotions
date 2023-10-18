@@ -1,0 +1,30 @@
+{
+  "_id": "984184f4cadd17da075e405c1e58c7dd2a0f5718696f4af85f3bdcc935636eae",
+  "feed": "market-watch",
+  "title": "Applied Materials stock gains on earnings beat, in-line forecast; CEO of chip-equipment supplier attempts to quell concerns about demand, says supply is still the main issue",
+  "text": "<p>Analysts on average expected adjusted earnings of $1.78 a share on sales of $6.26 billion. Applied Materials shares gained nearly 4% in after-hours trading following the announcement, after closing with a 2.1% gain at $108.27.</p><p>The chip sector has faced pressure from Wall Street as a chip shortage caused by supply-chain pressure and other factors largely related to the COVID-19 pandemic has eased. Concerns about equipment suppliers have cropped up as chip makers like Intel Corp. INTC and Micron Technology Inc. MU have cut back on expected capital expenditures in an uncertain environment, adding to issues the equipment makers have faced trying to get the chips they need to build the equipment.</p><p>For more: Chip stocks tanked as pandemic demand for electronics slumped, but there are still some winners</p><p>In a statement with Thursday's results, Chief Executive Gary Dickerson said supply was still an issue, but offered an in-line forecast and reiterated long-term guidance.</p><p>\"Applied Materials delivered record quarterly revenue, yet ongoing supply-chain challenges constrained our ability to meet demand, and our top priority remains increasing shipments to our customers,\" Dickerson said. \"We feel confident in our ability to navigate macroeconomic headwinds and remain very positive about the long-term strength of the semiconductor market and our outsized growth opportunities.\"</p><p>For the fiscal fourth quarter, Applied Materials executives guided for adjusted earnings of $1.82 to $2.18 a share on sales of $6.25 billion to $7.05 billion. Analysts on average were expecting adjusted earnings of $1.94 a share on sales of $6.55 billion, according to FactSet.</p><p>Applied Materials' stock has declined 31.2% so far this year, as the S&amp;P 500 index SPX has slipped 10.3%.</p><p>Applied Materials stock gains on earnings beat, in-line forecast</p>",
+  "published": "2022-08-19T11:55:00.000Z",
+  "tags": [
+    {
+      "id": "Intel_Corporation",
+      "nexusId": "10063594",
+      "name": "Intel Corporation",
+      "confidence": 0.7,
+      "offsets": [
+        {
+          "start": 471,
+          "end": 482
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0178488,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.01784885,
+        "titleWeight": 0.0
+      },
+      "typeRank": 29
+    }
+  ]
+}

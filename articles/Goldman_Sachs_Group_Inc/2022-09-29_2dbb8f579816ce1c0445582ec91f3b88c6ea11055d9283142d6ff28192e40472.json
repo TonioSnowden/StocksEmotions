@@ -1,0 +1,28 @@
+{
+  "_id": "2dbb8f579816ce1c0445582ec91f3b88c6ea11055d9283142d6ff28192e40472",
+  "feed": "economist-blog",
+  "title": "Wall Street woes; American stockmarkets extend their worst run since the financial crisis",
+  "text": "<p>Investors have been downbeat since late August when the Federal Reserve pledged to keep raising rates until inflation is under control, no matter the pain it inflicts on the economy. Markets expect more interest-rate increases this year. Another worry is that inflation may last much longer than expected. According to research from Bank of America, the consensus view—that inflation in America will come down to 3% by 2024—may be too optimistic.</p><p>The early signs for October, when publicly listed firms report quarter results, are not good. FedEx and Ford, two economic bellwethers, have issued profit warnings. Goldman Sachs, a bank, cut its year-end S&amp;P 500 forecast to 3,600, suggesting flat returns for the rest of the year.</p>",
+  "published": "2022-09-29T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 612,
+          "end": 625
+        },
+        {
+          "start": 612,
+          "end": 619
+        },
+        {
+          "start": 606,
+          "end": 619
+        }
+      ]
+    }
+  ]
+}

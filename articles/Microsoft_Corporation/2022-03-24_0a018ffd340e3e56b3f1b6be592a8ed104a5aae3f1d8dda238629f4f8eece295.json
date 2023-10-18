@@ -1,0 +1,24 @@
+{
+  "_id": "0a018ffd340e3e56b3f1b6be592a8ed104a5aae3f1d8dda238629f4f8eece295",
+  "feed": "wall-street-journal",
+  "title": "Okta Criticized Over Breach Handling  ----  By David Uberti and James Rundle",
+  "text": "<p>   A security breach affecting identity-protection firm Okta Inc. left corporate cyber teams with an awkward task in recent days: weighing tight-lipped statements from a publicly traded company against real-time taunting from its alleged attackers. </p><p>   A hacking group known as Lapsus$ on Monday revealed screenshots obtained from a breach in a post to its public Telegram channel, pushing Okta on Tuesday to disclose that it spotted \"an unsuccessful attempt to compromise\" a vendor account in January. By Wednesday, Okta said up to 366 of its customers may have had data exposed, which represents about 2.5% of its 15,000 customers world-wide. </p><p>   Several customers have publicly chastised Okta for a slow drip of information that left them uncertain about what to do. The fallout highlights how communication is key in response to breaches, cyber experts say, particularly as security teams race to contain hackers who use technology suppliers as springboards for wide-ranging attacks. </p><p>   \"This, going forward, will be a case study in mismanaging a third-party breach,\" said Jake Williams, a security analyst with IANS Research. \"You control the narrative, not your customers, not your vendors, not threat actors.\" </p><p>   The aftermath of a cybersecurity incident can challenge even the most prepared firms, said Meredith Griffanti, co-head of the cybersecurity and data privacy communications practice at business advisory firm FTI Consulting Inc. While lawyers, security staff, forensic investigators, crisis communications specialists and others may all be scrambling to obtain and convey information, it's crucial that it is done so in a controlled manner, she said. </p><p>   In the Okta case, the hackers themselves are adding to the confusion, leaving some customers under the impression that Okta is reacting to its alleged attackers rather than communicating proactively. </p><p>   Lapsus$'s initial claim of a breach came with a warning for Okta's clients. The group said on Telegram that \"our focus was ONLY on okta customers\" as opposed to Okta itself. A relatively new criminal extortion group, Lapsus$ has been tied to recent attacks on tech giant Microsoft Corp. and chip maker Nvidia Corp. </p><p>   On Tuesday, Okta Chief Executive Todd McKinnon said on Twitter that the company believed screenshots posted alongside the message from Lapsus$ were connected to suspicious activity Okta had seen in January but didn't disclose. </p><p>   \"The Okta service has not been breached and remains fully operational,\" Chief Security Officer David Bradbury said in a blog post Tuesday. \"There are no corrective actions that need to be taken by our customers.\" </p><p>   But Lapsus$ continued trolling Okta on its Telegram channel, claiming that the firm was playing down the potential impacts on its customers. </p><p></p>",
+  "published": "2022-03-24T06:10:00.000Z",
+  "tags": [
+    {
+      "id": "US5949181045",
+      "nexusId": "10031144",
+      "name": "Microsoft Corporation",
+      "offsets": [
+        {
+          "start": 2123,
+          "end": 2132
+        },
+        {
+          "start": 2123,
+          "end": 2138
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "10a561b643488652179b9ee533525433ca659051c6f9d98925f04b3dd62ccd6c",
+  "feed": "wall-street-journal",
+  "title": "Apple Wants to End Passwords for Everything. Here's How It Would Work. Goodbye, complex, hard-to-remember passwords. Hello, logging in with your face and fingerprints.",
+  "text": "<p>Passwords have been the longtime standard for securing online accounts, but they pose security risks. Despite expert advice to create complex, unique passwords for every account, people often use the same password, get tricked into signing into fake websites that log their information, or have their account details leaked in data breaches. Password managers beef up security, but if someone gets your master password, they can access all your logins.</p><p>Apple's passkeys—and similar efforts from other technology giants—want to address those problems and replace passwords entirely. They aim to be easier and more secure than passwords of old, Darin Adler, Apple's vice president of internet technologies, said last week at the company's Worldwide Developers Conference.</p><p>SHARE YOUR THOUGHTS</p><p>Would you replace your passwords with a fingerprint or face scan? Why or why not? Join the conversation below.</p><p>Each passkey is unique, so there's no re-use of passwords. Passkeys can be used on non-Apple devices, and for both new and old accounts. Your private keys are stored on your devices—not on the servers of Apple or the app or website developers—so hackers gaining access to those servers wouldn't find any passkeys to steal. They are also resistant to phishing since there's no password to share.</p><p>\"Passkeys are heavily obfuscated by the operating system,\" said Ondrej Krehel, head of digital forensics and incident response at cybersecurity monitoring platform SecurityScorecard. \"This will deter most cybercriminals, because attackers wouldn't get anything usable.\"</p><p>United Against Passwords</p><p>When it comes to building a passwordless future, Apple isn't on its own. Its passkeys fall under a standard set by the Fast Identity Online Alliance, an industry association that includes over 250 other companies such as Microsoft Corp. and Alphabet Inc.'s Google. Called FIDO for short, the group has worked for nearly a decade to create a unified format for online authentication.</p><p>Previous versions of the standard required people to enter an initial password for each account before going password-free. The new generation removes that requirement and lets companies take varying approaches to passwordless security, such as implementing different biometric authentication methods, security keys or PINs stored locally on a device, said Andrew Shikiar, executive director and chief marketing officer of the FIDO Alliance.</p><p>\"The key thing is, we're not sending any human-readable secrets over the network,\" Mr. Shikiar said. \"Eventually, how we log on today will start to look foreign.\"</p><p>Millions of Apple device users will gain access to passwordless sign-ins this fall when they download iOS 16 or MacOS Ventura, giving FIDO's efforts a boost, experts said.</p><p>\"Consumers these days have hundreds of passwords to remember, so passkeys are a massive step forward,\" said Mike Newman, chief executive of password security company My1Login.</p><p>The Passkey Process</p><p>Passkeys, like those from Apple, are made up of a pair of related keys. One of the keys is public and sits on the service provider's servers. The other is private and can't be removed from your device. To log into an account, Apple will connect the two keys on the back end, and you will authenticate on the front end with Face ID or Touch ID. What users will see is a single-step option to get into their accounts.</p><p>If you're signing in to a service for the first time, instead of designating a password, you will scan your biometrics on your Apple device. If you're using an iPad or Mac, Touch ID will authenticate you. If you're using an iPhone, Face ID will do the trick.</p><p>Once activated, your passkeys are stored in your iCloud Keychain—Apple's password management system—to make them accessible across all your Apple devices, including Macs, iPhones, iPads and Apple TVs. App and website developers would have to adopt passwordless technology for Apple's system to work, which could limit its initial reach.</p><p>If you are logging into an existing account, you can delete your old passwords and replace them with passkeys.</p><p>Say your bank has adopted Apple's passkeys. When you go to log in through your iPhone app, you likely won't see a bar to enter a password, and you won't need to enter your username. Instead, you tap the username field, which will prompt a Face ID scan. Boom, you're in.</p><p>You also can use your passkey to sign in to that service on a non-Apple device, but it takes more steps. If you're logging into your account through the Chrome browser on a Windows PC, you enter your username and select \"sign in.\" A pop-up will ask if you want to use your phone to verify your identity. It then displays a QR code that you can scan with the camera of your iPhone or iPad. Hit \"continue\" and scan your face with Face ID.</p><p>Some developers may never adopt passwordless sign-ins, and other service providers may continue to enable password logins as a backup for years to come. With Apple's passkeys today, you still need a traditional password to secure your iCloud Keychain.</p><p>But the dream of a password-free future is closer than ever before.</p><p>—For more WSJ Technology analysis, reviews, advice and headlines, sign up for our weekly newsletter .</p><p>Write to Dalvin Brown at dalvin.brown@wsj.com</p><p>Apple Wants to End Passwords for Everything. Here's How It Would Work.</p>",
+  "published": "2022-06-12T12:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0378331005",
+      "nexusId": "10022657",
+      "name": "Apple Inc.",
+      "offsets": [
+        {
+          "start": 3490,
+          "end": 3495
+        },
+        {
+          "start": 3762,
+          "end": 3767
+        },
+        {
+          "start": 2973,
+          "end": 2978
+        },
+        {
+          "start": 1105,
+          "end": 1110
+        },
+        {
+          "start": 4935,
+          "end": 4940
+        },
+        {
+          "start": 5245,
+          "end": 5250
+        },
+        {
+          "start": 4096,
+          "end": 4101
+        },
+        {
+          "start": 3173,
+          "end": 3178
+        },
+        {
+          "start": 2591,
+          "end": 2596
+        },
+        {
+          "start": 0,
+          "end": 5
+        },
+        {
+          "start": 3812,
+          "end": 3817
+        },
+        {
+          "start": 1640,
+          "end": 1645
+        },
+        {
+          "start": 3898,
+          "end": 3903
+        },
+        {
+          "start": 453,
+          "end": 458
+        },
+        {
+          "start": 656,
+          "end": 661
+        },
+        {
+          "start": 988,
+          "end": 993
+        },
+        {
+          "start": 4406,
+          "end": 4411
+        }
+      ]
+    }
+  ]
+}

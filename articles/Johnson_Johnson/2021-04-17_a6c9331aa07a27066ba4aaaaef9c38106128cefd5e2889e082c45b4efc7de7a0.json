@@ -1,0 +1,28 @@
+{
+  "_id": "a6c9331aa07a27066ba4aaaaef9c38106128cefd5e2889e082c45b4efc7de7a0",
+  "feed": "wall-street-journal",
+  "title": "U.S. News: Drugmaker Sees No Causal Link",
+  "text": "<p>U.S. health authorities this week recommended a pause in vaccinations using J&amp;J's single-dose vaccine while they investigated six cases of a rare blood clot, combined with low blood-platelet counts, in women who had received the J&amp;J vaccine. One of the women died.</p><p>The pause is expected to remain in place at least until a federal vaccine-advisory committee meets April 23 to review the matter.</p><p>Authorities in several countries have restricted use of J&amp;J's vaccine, and a shot from AstraZeneca PLC and the University of Oxford that uses a similar technology, after receiving reports of people getting blood clots following vaccinations.</p>",
+  "published": "2021-04-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4781601046",
+      "name": "Johnson & Johnson",
+      "offsets": [
+        {
+          "start": 451,
+          "end": 454
+        },
+        {
+          "start": 229,
+          "end": 232
+        },
+        {
+          "start": 76,
+          "end": 79
+        }
+      ],
+      "nexusId": "10010560"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "_id": "acfbdee0912c3dc54d94493a3ebfa0199ceeb9dc41139c87bb02bb25c2b1d78c",
+  "feed": "market-watch",
+  "title": "Goldman slashes gold and silver forecasts as traders wait for CPI data",
+  "text": "<p>* Gold futures GCZ22  expiring in December fell $5, or 0.2%, to $1,807.30, following a gain of $7.10 to $1,812.30 on Tuesday, the highest level for the most-active contract since June 29, according to FactSet data.</p><p>* Silver futures SIU22 expiring in September, fell 11 cents, or 0.6%, to $20.37, following a 13-cent drop to $20.48 on Tuesday.</p><p>* Palladium futures PAU22 expiring in September were down $23.30, or 1.1%, at $2,194 per ounce, while platinum futures PLV22 expiring in October fell $6, or 0.6%, to $927 per ounce.</p><p>* Copper futures  HGU22 expiring in September were roughly flat at $3.582 per pound.</p><p>What analysts are saying</p><p>The main event for global asset markets on Wednesday will be a July reading of consumer price inflation, which is expected to show a slight retreat from the 9.1% annual pace recorded in June, thanks to lower gasoline prices.</p><p>Read: U.S. consumers likely got some relief from sizzling price increases in July but Fed won't feel any better</p><p>Gold was boosted on Tuesday by safe-haven flows as the dollar weakened and stocks fell for the fourth-straight session. The ICE Dollar Index DXY slipped 0.1% on Wednesday, while U.S. equity futures ES00 were modestly higher.</p><p>\"A softer inflation reading could be just what it needs to break through the resistance barrier and establish itself above $1,800 once more, something it hasn't managed to do since earlier in the summer,\" said Craig Erlam, senior market analyst at OANDA, in a note to clients.</p><p>Elsewhere, strategists at Goldman Sachs cut their forecasts for the precious metal that the bank said is straddling joint Fed worries over high inflation and weak growth.</p><p>Earlier in 2021, the bank raised its gold forecast to $2,500 an ounce on expectations U.S. recession fears would boost demand, historically a bigger driver than real rates.</p><p>\"While we expected nominal rates to increase on the back of Fed hikes, we did not expect inflation expectations to fall so much after the failure of the transitory narrative and high persistent inflation surprises,\" said a team of Goldman strategists led by Mikhail Sprogis, in a note late Tuesday.</p><p>\"The main conclusion is that in the current environment of tightening policy and persistent recession concerns, the tactical direction of gold will be determined by shifts in Fed priority function between inflation fight and growth support,\" said the strategists.</p><p>Goldman cut its 3, 6 and 12-month gold forecasts to $1850, $1950 and $1950 an ounce from a prior $2100, $2300 and $2500, respectively. The bank expects silver to reach $21, $23 and $25 an ounce, respectively, from a prior $30 an ounce across that multimonth time frame.</p><p>For gold to form a structural trend higher, the Fed would need to face \"intense questions\" about its inflation-fighting commitment, such as seen in the 1970s, said Goldman. For the precious metal to form a material downside trend, inflation would need to keep surprising to the upside and the Fed would need to deliver on an \"unconditional\" resolve to bring it back down.</p><p>Neither are the base case for Goldman.</p><p>Goldman slashes gold and silver forecasts as traders wait for CPI data</p>",
+  "published": "2022-08-10T08:53:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "confidence": 0.9999995,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7
+        },
+        {
+          "start": 1490,
+          "end": 1503
+        },
+        {
+          "start": 1498,
+          "end": 1505
+        },
+        {
+          "start": 1498,
+          "end": 1511
+        },
+        {
+          "start": 2047,
+          "end": 2054
+        },
+        {
+          "start": 2367,
+          "end": 2374
+        },
+        {
+          "start": 2379,
+          "end": 2386
+        },
+        {
+          "start": 2813,
+          "end": 2820
+        },
+        {
+          "start": 3035,
+          "end": 3042
+        },
+        {
+          "start": 3051,
+          "end": 3058
+        },
+        {
+          "start": 3060,
+          "end": 3067
+        }
+      ],
+      "weightsV2": {
+        "weight": 15.0,
+        "baseWeight": 10.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.0,
+        "titleWeight": 4.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

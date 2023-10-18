@@ -1,0 +1,34 @@
+{
+  "_id": "d416ce3e3dafe5ce1d94a93629c843dfcdb7649c63fc99973fa9ed6035dea627",
+  "feed": "wall-street-journal",
+  "title": "U.S. Jobless Claims Fall for Fourth Straight Week; New filings for unemployment benefits remain historically low in a tight labor market",
+  "text": "<p>The latest claims data is consistent with other recent gauges that show the U.S. job market is strong, but cooling from earlier this year, when layoffs were even lower and hiring more robust.</p><p>The four-week moving average, which smooths out weekly volatility, fell by 7,500 to 233,000. So far in 2022, weekly initial claims are averaging around 214,000, about the same level as the 2019 weekly average of around 218,000.</p><p>Continuing claims, a proxy for the number of people who have been unemployed and have received benefits for more than one week increased to 1.47 million in the week ended Aug. 27 from 1.44 million the previous week. Continuing claims are reported with a one-week lag.</p><p>The claims data comes amid signs that the labor market, while still strong, is cooling following a torrid stretch last year and earlier this year. Employers added 315,000 jobs in August, down from 526,000 in July, the Labor Department said earlier this month.</p><p>The unemployment rate ticked up to 3.7% as more people entered the labor force and wage gains slowed. The rate, however, is just above the half-century low set before the pandemic began.</p><p>Federal Reserve officials have cautioned that the labor market could weaken as they continue to raise interest rates aggressively in an effort to tame inflation. Officials have enacted 0.75 percentage point rate increases at each of their last two meetings and are poised for another rise of the same magnitude at their Sept. 20-21 policy meeting.</p><p>In an Aug. 26 speech, Fed Chairman Jerome Powell warned that the Fed's inflation-fighting efforts would \"bring some pain to households and businesses.\"</p><p>Some major employers, including Ford Motor Co. and Walmart, Inc., have announced job cuts in recent weeks.</p><p>Still, recent data from the Labor Department showed that there are almost two open positions for every unemployed worker in July, suggesting that it is still relatively easy for laid-off workers to find a new job.</p><p>Write to David Harrison at david.harrison@wsj.com</p><p>U.S. Jobless Claims Fall for Fourth Straight Week</p>",
+  "published": "2022-09-08T13:15:00.000Z",
+  "tags": [
+    {
+      "id": "US9311421039",
+      "nexusId": "10042309",
+      "name": "Walmart Inc.",
+      "confidence": 0.94,
+      "offsets": [
+        {
+          "start": 1686,
+          "end": 1699
+        },
+        {
+          "start": 1674,
+          "end": 1687
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.0,
+        "baseWeight": 2.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 1.1920929e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}

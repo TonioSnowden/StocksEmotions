@@ -1,0 +1,24 @@
+{
+  "_id": "4658b14e31cb721cd555a9c831c78672f78991ade89ecb645c731551b272826b",
+  "feed": "market-watch",
+  "title": "Nasdaq Composite closes in correction for first time since March as stocks extend slide",
+  "text": "<p>The Nasdaq Composite closed down 1.2% to reach 14,340, sinking more than 10% from its Nov. 19 peak and meeting the commonly used definition for a correction.</p><p>The Dow Jones Industrial Average DJIA closed around 340 points, or 1%, lower at 35,029, on a preliminary basis, weighed by losses in Boeing Co.BA, Caterpillar Inc.CAT and Goldman Sachs Group Inc.GS</p><p>The S&amp;P 500 index SPX closed 44 points, or 1%, lower at about 4,532. Consumer discretionary sectorXX:SP500.25 led losses, down 1.8%, followed by a 1.7% decline in financialsXX:SP500.40.</p>",
+  "published": "2022-01-19T16:06:00.000Z",
+  "tags": [
+    {
+      "id": "US1491231015",
+      "nexusId": "10011563",
+      "name": "Caterpillar Inc.",
+      "offsets": [
+        {
+          "start": 305,
+          "end": 321
+        },
+        {
+          "start": 305,
+          "end": 320
+        }
+      ]
+    }
+  ]
+}

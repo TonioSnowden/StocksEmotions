@@ -1,0 +1,24 @@
+{
+  "_id": "342f4069a8cb7900b514c68aaef90aaa675c37b72f589ec839c086dc005678e0",
+  "feed": "wall-street-journal",
+  "title": "Business & Technology: Dish Network Enlists IBM",
+  "text": "<p>The terms of Dish's multiyear contract with IBM weren't disclosed.</p><p>Dish jumped into the U.S. wireless industry in 2019, purchasing about 9 million former Sprint Corp. customers as part of a government-brokered deal that allowed T-Mobile US Inc. to acquire Sprint. Dish's consumer cellphone brands include Boost Mobile, Ting and Republic Wireless.</p><p>Dish has been obtaining 5G spectrum airwaves for years with ambitions of being a formidable competitor in the wireless sector.</p><p>Chief Network Officer Marc Rouanne said Dish could target a number of industries, including logistics and healthcare. He declined to say what kinds of companies are testing Dish's 5G service and when it would become generally available.</p><p>IBM will provide what is known as orchestration software, technology that helps network providers manage and automate how they deliver 5G services, including fine-tuning speed levels or coverage areas for specific customers. For instance, an autonomous-car operator might need low latency, or quick response times, for fleets of cars in certain cities, while an energy company might be fine with slower response times over a broader coverage area.</p><p>License this article from Dow Jones Reprint Service</p>",
+  "published": "2021-09-17T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "nexusId": "10017781",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 44,
+          "end": 47
+        },
+        {
+          "start": 711,
+          "end": 714
+        }
+      ]
+    }
+  ]
+}

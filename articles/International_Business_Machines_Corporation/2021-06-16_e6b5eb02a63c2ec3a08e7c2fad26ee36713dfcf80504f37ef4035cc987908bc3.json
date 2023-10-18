@@ -1,0 +1,20 @@
+{
+  "_id": "e6b5eb02a63c2ec3a08e7c2fad26ee36713dfcf80504f37ef4035cc987908bc3",
+  "feed": "wall-street-journal",
+  "title": "Business News: Technical Problem Disrupts Southwest",
+  "text": "<p>The Federal Aviation Administration said it had temporarily halted Southwest flights at the airline's request Tuesday while the company resolved the problem.</p><p>Airlines' IT systems have often left them vulnerable to disruptive glitches and breakdowns over the years.</p><p>The incident followed Monday night's two-hour halt of Southwest flights due to what the airline described as intermittent performance issues that prevented an outside weather-data provider from transmitting weather information to the airline. Nearly 1,500 Southwest flights were delayed Monday according to FlightAware, a flight tracking site, and customers took to social media to complain about long waits. The weather-data provider, a unit of IBM Corp., didn't respond to requests for comment.</p><p>A small number of delays and cancellations carried over into Tuesday morning before the new issue arose. A Southwest spokesman said the airline is looking into whether the two incidents are connected, but initial indications are that they aren't.</p><p>Delta Air Lines Inc. separately reported experiencing temporary problems with online booking tools Monday evening but said the issue didn't affect its operation.</p>",
+  "published": "2021-06-16T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US4592001014",
+      "name": "International Business Machines Corporation",
+      "offsets": [
+        {
+          "start": 711,
+          "end": 714
+        }
+      ],
+      "nexusId": "10017781"
+    }
+  ]
+}

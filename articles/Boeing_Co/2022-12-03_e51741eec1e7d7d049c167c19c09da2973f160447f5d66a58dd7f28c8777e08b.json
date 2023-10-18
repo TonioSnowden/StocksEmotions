@@ -1,0 +1,20 @@
+{
+  "_id": "e51741eec1e7d7d049c167c19c09da2973f160447f5d66a58dd7f28c8777e08b",
+  "feed": "wall-street-journal",
+  "title": "Business & Finance",
+  "text": "<p>---</p><p>Major U.S. stock indexes ended mixed, with the S&amp;P 500 and Nasdaq slipping 0.1% and 0.2%, respectively, and the Dow industrials eking out a gain of 0.1%.</p><p>---</p><p>Biden signed legislation to prevent a nationwide strike by railroad workers, the last step in resolving a long-running dispute between workers and major freight railroads.</p><p>---</p><p>United Airlines is close to a deal to order dozens of Boeing's 787 Dreamliners, people familiar with the matter said.</p><p>---</p><p>The Biden administration said it would investigate recent hacks that have been linked to an extortion-focused hacking collective known as Lapsus$.</p>",
+  "published": "2022-12-03T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "offsets": [
+        {
+          "start": 392,
+          "end": 398
+        }
+      ]
+    }
+  ]
+}

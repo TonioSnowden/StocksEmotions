@@ -1,0 +1,34 @@
+{
+  "_id": "1167648e268778e73aa8eca78aeea0d45c77acd9efa27eb5b66f8e0872da93eb",
+  "feed": "reuters",
+  "title": "UPDATE 2-Russia says it has fully paid $102 mln coupon on 2035 Eurobond",
+  "text": "<p>The ministry said it had channelled $102 million for the coupon payout on the Eurobond to Russia's National Settlement Depository (NSD).</p><p>\"The Russian finance ministry has fully executed its obligations to service sovereign securities of the Russian Federation in accordance with the Eurobond prospectus,\" the ministry said, without giving details on whether the payment had been sent to Euroclear or processed further to foreign Eurobond holders.</p><p>However, a source familiar with the situation said the transaction was processed by correspondent bank JPMorgan Chase .</p><p>According to the Eurobond prospectus, settlement with investors occurs through the NSD and Euroclear, and \"if, for reasons beyond its control, the Russian Federation is unable to make payments... in U.S. dollars\", settlement may be in euros, pound sterling, Swiss francs or Russian roubles.</p><p>Neither Euroclear nor NSD immediately responded to a request for comment.</p><p>In mid-March, Russia paid $117 million in interest due on two sovereign eurobonds and last week another $66 million coupon due on another issue. Excluding this Monday's coupon, Russia has another $4.4 billion in external debt redemptions due for the remainder of the year. Some corporate borrowers have also faced payment delays.</p><p>Russia's next payment is on March 31 when a $447 million payment falls due. Its biggest payment of the year - and its first full repayment of principal, of $2 billion - is due on April 4.</p>",
+  "published": "2022-03-29T09:07:57.000Z",
+  "tags": [
+    {
+      "id": "US46625H1005",
+      "nexusId": "10009914",
+      "name": "JPMorgan Chase & Co.",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 550,
+          "end": 564
+        },
+        {
+          "start": 550,
+          "end": 558
+        }
+      ],
+      "weightsV2": {
+        "weight": 1.0081403,
+        "baseWeight": 1.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.008140326,
+        "titleWeight": 0.0
+      },
+      "typeRank": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "591884342b4eb138ab2f5bc0d1d44d861c8f13e910abf8d3d98ae69b95a6eefe",
+  "feed": "wall-street-journal",
+  "title": "Large Ad Agency Networks Have Resisted the Economic Downturn—So Far; Companies like WPP and Publicis look to retain market share, but their growth streaks might not last",
+  "text": "<p>Some of the companies recorded revenue declines in the years preceding 2021 as advertisers moved more of their money toward digital platforms like Alphabet Inc.'s Google and Meta Platforms Inc.'s Facebook, which sometimes bypass agencies and sell directly to marketers. This year, however, all five raised their guidance for revenue growth to somewhere between 6% and 7%, an increase of as much as 2 percentage points over estimates made earlier in 2022.</p><p>At the same time, most have lost value in the stock market, and their financial outlooks for the years to come remain uncertain, according to analysts.</p><p>\"These businesses as a collective group were slowing steadily over the prepandemic phase. Now why are we reaccelerating?\" asked Michael Nathanson, senior research analyst at MoffettNathanson.</p><p>One reason for the revenue growth streak is that pandemic-inspired demand for so-called digital transformation work, which isn't tied to larger ad spending trends, shows no sign of slowing.</p><p>Publicis Chief Strategy Officer Carla Serrano said the company's strongest growth so far this year has come from its Publicis Sapient division, which helps companies expand their online presence and e-commerce operations.</p><p>Another key factor is a decades-old business model centered around long-term, fee-based contracts with big advertisers, wherein compensation isn't tied to the volume of ads that a given company buys, said Mr. Nathanson.</p><p>Some of these clients have doubled down on marketing as prices for basic goods increase. Unilever PLC and Coca-Cola Co. both recently told investors that their ad budgets had grown in the first half of the year.</p><p>Multinational advertisers are also increasingly looking to simplify their marketing operations by consolidating more work with networks that can simultaneously juggle disparate functions such as media planning and customer relationship management. Coca-Cola chose WPP to handle most of its global advertising business in late 2021.</p><p>Size is a key factor in this equation, according to market research firm Forrester, which recently released a report finding that the largest agency networks are best positioned to retain market share.</p><p>\"It is a game of scale at the enterprise level, because the [corporate chief marketing officers'] need is to simultaneously grow the business by acquiring new customers and create efficiencies within marketing,\" said Jay Pattisall, principal analyst at Forrester.</p><p>Perhaps most important, companies like WPP and IPG have minimal exposure to the small-to-medium-size businesses and venture-backed startups whose pullback has driven much of the decline in spending, Mr. Nathanson said.</p><p>Wells Fargo &amp; Co. upgraded its investment ratings for IPG and Omnicom last month to overweight from neutral, calling them \"structurally sounder\" than businesses in adjacent sectors, such as radio and out-of-home advertising.</p><p>Yet investors remain cautious.</p><p>On WPP's most recent earnings call, Chief Executive Mark Read said the company would face challenges ahead, \"particularly in 2023.\" Its share price dropped roughly 10% in the following days in a selloff that investment research firm Morningstar attributed to lower operating margins, while MoffettNathanson cut its 2023 organic revenue growth estimates for WPP to 2.3% from 3.3%, citing macroeconomic uncertainty.</p><p>Even companies with higher growth rates hesitated to predict their own post-2022 fortunes.</p><p>Chief Executive Mark Penn of Stagwell Inc., the newest global agency network, said he expects 18% to 22% organic revenue growth this year thanks, in part, to U.S. midterm election spending with his company's political advocacy firms.</p><p>\"The question that nobody really knows the answer to is what's going to happen next year,\" Mr. Penn said.</p><p>Write to Patrick Coffee at patrick.coffee@wsj.com</p><p>Large Ad Agency Networks Have Resisted the Economic Downturn—So Far</p>",
+  "published": "2022-08-22T10:00:00.000Z",
+  "tags": [
+    {
+      "id": "US1912161007",
+      "nexusId": "10017668",
+      "name": "The Coca-Cola Company",
+      "confidence": 0.988,
+      "offsets": [
+        {
+          "start": 1879,
+          "end": 1888
+        },
+        {
+          "start": 1527,
+          "end": 1540
+        },
+        {
+          "start": 1891,
+          "end": 1900
+        }
+      ],
+      "weightsV2": {
+        "weight": 2.3213432,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": -0.6786573,
+        "tagPositionWeight": 4.7683716e-07,
+        "titleWeight": 0.0
+      },
+      "typeRank": 3
+    }
+  ]
+}

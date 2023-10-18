@@ -1,0 +1,37 @@
+{
+  "_id": "13d859fdc9f76d071f3aef76ea266513db50d1b33bbc92ff132e8ae59536407f",
+  "feed": "reuters",
+  "title": "Aero supplier Spirit says it took action over parts obtained indirectly from MPS",
+  "text": "<p>Reuters on Thursday reported that Boeing had also contacted aerostructures maker Spirit in March to warn it not to use parts supplied by MPS.</p><p>On Friday, Spirit said that from March through July, Boeing had issued communications to its supply chain, including Spirit, identifying possible flawed parts dating back to 2017.</p><p>\"Upon receipt of information from Boeing identifying parts from sub-tier suppliers which used MPS, Spirit took appropriate action,\" the company said in an emailed statement.</p><p>In its March warning, Boeing asked Spirit to use alternative suppliers as it continued an audit of MPS, according to a letter seen by Reuters.</p><p>The planemaker had also asked Wichita-based Spirit to trace any MPS parts it had used back to 2017 and to treat them as \"suspect nonconforming,\" meaning they would be subject to further checks.</p>",
+  "published": "2021-10-15T19:08:01.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 1.0,
+      "offsets": [
+        {
+          "start": 34,
+          "end": 40
+        },
+        {
+          "start": 195,
+          "end": 201
+        },
+        {
+          "start": 518,
+          "end": 524
+        }
+      ],
+      "weightsV2": {
+        "weight": 3.8316188,
+        "baseWeight": 3.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 0.8316189,
+        "titleWeight": 0.0
+      }
+    }
+  ]
+}

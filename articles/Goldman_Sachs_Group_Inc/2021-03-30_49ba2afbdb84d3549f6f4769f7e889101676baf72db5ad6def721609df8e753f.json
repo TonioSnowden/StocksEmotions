@@ -1,0 +1,64 @@
+{
+  "_id": "49ba2afbdb84d3549f6f4769f7e889101676baf72db5ad6def721609df8e753f",
+  "feed": "wall-street-journal",
+  "title": "Business News: Top Court Weighs Goldman Pledge",
+  "text": "<p>Between 2006 and 2010, Goldman assured investors with statements about its measures to ensure integrity.</p><p>\"Our reputation is one of our most important assets. As we have expanded the scope of our business and our client base, we increasingly have to address potential conflicts of interest, including situations where our services to a particular client or our own proprietary investments or other interests conflict, or are perceived to conflict, with the interest of another client,\" the company said. \"We have extensive procedures and controls that are designed to identify and address conflicts of interest.\" The bank also wrote: \"Our clients' interests always come first.\"</p><p>In that time period, Goldman's Abacus investment program allegedly allowed the hedge fund Paulson &amp; Co. to help bundle mortgages into bonds that Goldman sold to investors while knowing that Paulson was betting, via short sales, that the investments would fail. The plan, which netted some $1 billion for Paulson at investors' expense, led Goldman to pay $550 million in a 2010 settlement with the Securities and Exchange Commission in which it acknowledged providing \"incomplete information\" in marketing materials.</p><p>Investors in Goldman, led by the Arkansas Teacher Retirement System, sued the Wall Street firm in 2011, alleging that it had propped up its stock price by falsely asserting its safeguards would prevent conflicts of interest while the firm was actually working against its clients.</p><p>But by the time the case reached the Supreme Court on Monday, the parties' differences had narrowed, with neither Goldman nor the Arkansas retirement system staking out a categorical position.</p>",
+  "published": "2021-03-30T00:00:00.000Z",
+  "tags": [
+    {
+      "id": "US38141G1040",
+      "nexusId": "10038135",
+      "name": "The Goldman Sachs Group, Inc.",
+      "offsets": [
+        {
+          "start": 23,
+          "end": 30
+        },
+        {
+          "start": 32,
+          "end": 39
+        },
+        {
+          "start": 693,
+          "end": 701
+        },
+        {
+          "start": 698,
+          "end": 705
+        },
+        {
+          "start": 817,
+          "end": 824
+        },
+        {
+          "start": 822,
+          "end": 829
+        },
+        {
+          "start": 1010,
+          "end": 1017
+        },
+        {
+          "start": 1016,
+          "end": 1023
+        },
+        {
+          "start": 1199,
+          "end": 1206
+        },
+        {
+          "start": 1206,
+          "end": 1213
+        },
+        {
+          "start": 1580,
+          "end": 1587
+        },
+        {
+          "start": 1588,
+          "end": 1595
+        }
+      ]
+    }
+  ]
+}

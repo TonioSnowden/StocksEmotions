@@ -1,0 +1,46 @@
+{
+  "_id": "76e9182a665aa1e02d32b7a8c77a32a1d8050ff9c2b641d15cba5a70fbc6e5df",
+  "feed": "wall-street-journal",
+  "title": "NASA's Artemis Launch Postponed Due to Engine Problem on Moon Rocket; Agency says it needs time to determine why one of the rocket's engines didn't get to temperature range needed to attempt liftoff",
+  "text": "<p>The SLS rocket is designed to blast Orion, a spacecraft that is stacked on its top, into orbit and toward the moon.</p><p>The next available opportunity for takeoff is Friday, Sept. 2, starting at 12:48 p.m. ET, according to Derrol Nail, the space agency's commentator on its livestream for Monday's now delayed launch. Attempting the flight then would depend on what engineers determine is the issue with the engine and come up with a plan to remedy it, he added.</p><p>\"We don't launch until it's right,\" NASA Administrator Bill Nelson said Monday morning after the agency scrubbed the mission. \"This is a very complicated machine, a very complicated system.\"</p><p>Photos: A Preview of NASA's Artemis Moon Mission</p><p>There are four engines on the main stage of the Space Launch System rocket, and the other three were functioning as expected, according to NASA's livestream. Teams from the agency were focused on an issue that was preventing one engine from reaching a temperature range that would permit launch. The launch countdown clock was paused at 40 minutes until a prospective launch.</p><p>NASA had previously set a two-hour window to take off this morning beginning at 8:33 a.m. ET.</p><p>The flight scheduled for Monday was designed as a test, a point emphasized by officials at NASA and executives at the aerospace companies, including Boeing Co. and Lockheed Martin Corp., that were hired to develop space vehicles and other hardware for the mission.</p><p>\"It is a new rocket and a new spacecraft to send humans to the moon on the very next flight. This has not been done in over 50 years, and it's incredibly difficult,\" said Mike Sarafin, Artemis mission manager, during a briefing Saturday at the Kennedy site.</p><p>Representatives for Aerojet Rocketdyne Holdings Inc., the company behind the four engines on the SLS main stage, didn't immediately respond to a request for comment.</p><p>Aerojet's four RS-25 engines were designed to burn for eight minutes following liftoff, helping to power Orion toward a lunar orbit. All four have flown before, during NASA's Space Shuttle program, the agency has said, but were modified for SLS missions. The engine problem that caused NASA to scrub Monday's planned launch was last used in 2011.</p><p>A Boeing spokeswoman didn't immediately have a comment. The aerospace company developed the SLS rocket's main stage, a massive body that holds liquid propellant that feeds into the engines.</p><p>NASA and the contractors behind Artemis I and subsequent Artemis missions have faced pressure to get to the launchpad after grappling with technical setbacks that led to cost overruns and delays.</p><p>The inspector general at NASA has estimated the Artemis I launch would cost $4.1 billion in production and operational expenses, as would each of the following three flights. The inspector general has described that per-flight cost as unsustainable. NASA officials have said that they are pushing to find cost savings and that the expenses for each mission would fall as more are launched.</p><p>Boeing, Lockheed, Northrop Grumman Corp. and other contractors involved in the effort said their companies have taken steps to cut costs.</p><p>The mission, officially called Artemis I, would be the first major testof most of the main components that NASA and aerospace companies have been developing to help return astronauts to the lunar surface. No astronauts have reached the moon since 1972, but NASA aims through its Artemis program to make that happen as soon as 2025.</p><p>Write to Micah Maidenberg at micah.maidenberg@wsj.com</p><p>NASA's Artemis Launch Postponed Due to Engine Problem on Moon Rocket</p>",
+  "published": "2022-08-29T13:40:00.000Z",
+  "tags": [
+    {
+      "id": "US0970231058",
+      "nexusId": "10030932",
+      "name": "The Boeing Company",
+      "confidence": 0.999712,
+      "offsets": [
+        {
+          "start": 1318,
+          "end": 1328
+        },
+        {
+          "start": 2957,
+          "end": 2963
+        },
+        {
+          "start": 2207,
+          "end": 2213
+        },
+        {
+          "start": 1307,
+          "end": 1317
+        },
+        {
+          "start": 2189,
+          "end": 2195
+        }
+      ],
+      "weightsV2": {
+        "weight": 5.0000043,
+        "baseWeight": 5.0,
+        "expansionWeight": 0.0,
+        "ontologyWeight": 0.0,
+        "tagPositionWeight": 4.172325e-06,
+        "titleWeight": 0.0
+      },
+      "typeRank": 1
+    }
+  ]
+}
